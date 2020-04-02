@@ -5,7 +5,7 @@ latitude: 51.132765400000004
 longitude: 9.173287
 postcode: 34537
 city: Bad Wildungen
-street: Im Wasserfeld
+street: "Im Wasserfeld"
 housenumber: 4
 phone: "+49 5621 3509"
 opening_hours: ""

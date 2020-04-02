@@ -5,7 +5,7 @@ latitude: 50.1835675
 longitude: 8.6646631
 postcode: 60437
 city: Frankfurt am Main
-street: Oberer Kalbacher Weg
+street: "Oberer Kalbacher Weg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

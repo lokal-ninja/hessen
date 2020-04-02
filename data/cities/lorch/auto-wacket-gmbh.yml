@@ -5,7 +5,7 @@ latitude: 50.0532752
 longitude: 7.8098016
 postcode: 65391
 city: Lorch
-street: Schwalbacher Straße
+street: "Schwalbacher Straße"
 housenumber: 79
 phone: "+49-6726-80550"
 opening_hours: ""

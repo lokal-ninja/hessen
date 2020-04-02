@@ -5,7 +5,7 @@ latitude: 49.6800013
 longitude: 8.6223727
 postcode: 64625
 city: Bensheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 60
 phone: ""
 opening_hours: ""

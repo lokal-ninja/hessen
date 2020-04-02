@@ -5,7 +5,7 @@ latitude: 50.006248600000006
 longitude: 8.287881200000001
 postcode: 55252
 city: Wiesbaden
-street: Philippsring
+street: "Philippsring"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

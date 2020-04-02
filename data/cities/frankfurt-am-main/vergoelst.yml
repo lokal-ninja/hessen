@@ -5,7 +5,7 @@ latitude: 50.114095000000006
 longitude: 8.729188200000001
 postcode: 60314
 city: Frankfurt am Main
-street: Intzestraße
+street: "Intzestraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00, Sa 09:00-12:00"

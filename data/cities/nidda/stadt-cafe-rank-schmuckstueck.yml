@@ -5,7 +5,7 @@ latitude: 50.414207600000005
 longitude: 9.0071074
 postcode: 63667
 city: Nidda
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 3
 phone: "+49 6043 2245"
 opening_hours: ""

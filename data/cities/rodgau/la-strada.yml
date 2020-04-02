@@ -5,7 +5,7 @@ latitude: 50.0253072
 longitude: 8.8846174
 postcode: 63110
 city: Rodgau
-street: Hintergasse
+street: "Hintergasse"
 housenumber: 27
 phone: "+49 6106 2663949"
 opening_hours: "Mo-Fr 09:30-13:00,15:00-18:30; Sa 10:00-13:00; PH off"

@@ -5,7 +5,7 @@ latitude: 50.8088944
 longitude: 8.770250500000001
 postcode: 35037
 city: Marburg
-street: Markt
+street: "Markt"
 housenumber: 10
 phone: ""
 opening_hours: ""

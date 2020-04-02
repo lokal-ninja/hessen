@@ -5,7 +5,7 @@ latitude: 50.0315116
 longitude: 9.029368700000001
 postcode: 63533
 city: Mainhausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 53
 phone: "+49 6182 21120"
 opening_hours: ""

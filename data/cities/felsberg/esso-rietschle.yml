@@ -5,7 +5,7 @@ latitude: 51.134491700000005
 longitude: 9.4261912
 postcode: 34587
 city: Felsberg
-street: Steinweg
+street: "Steinweg"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 49.9763378
 longitude: 8.438713700000001
 postcode: 65428
 city: Rüsselsheim am Main
-street: Rudolf-Glauber-Weg
+street: "Rudolf-Glauber-Weg"
 housenumber: 5
 phone: "+49 6142 13174"
 opening_hours: ""

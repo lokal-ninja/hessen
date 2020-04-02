@@ -5,7 +5,7 @@ latitude: 49.826222400000006
 longitude: 8.838657000000001
 postcode: 64354
 city: Reinheim
-street: Ueberauer Straße
+street: "Ueberauer Straße"
 housenumber: 39
 phone: "+49 6162 83796"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.0831132
 longitude: 8.581310700000001
 postcode: 60529
 city: Frankfurt am Main
-street: Alt-Schwanheim
+street: "Alt-Schwanheim"
 housenumber: 39a
 phone: "+49 69 356311"
 opening_hours: "Mo,Tu,Th,Fr 09:30-13:00,14:00-18:00; We,Sa 09:30-13:30"

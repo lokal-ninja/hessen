@@ -5,7 +5,7 @@ latitude: 50.2961151
 longitude: 8.687698300000001
 postcode: 
 city: Rosbach v. d. Höhe
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 6
 phone: "+49-6003-92636"
 opening_hours: ""

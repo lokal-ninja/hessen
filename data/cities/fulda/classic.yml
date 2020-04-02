@@ -5,7 +5,7 @@ latitude: 50.5519284
 longitude: 9.6761402
 postcode: 36037
 city: Fulda
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

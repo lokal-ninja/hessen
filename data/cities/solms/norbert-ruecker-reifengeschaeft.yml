@@ -5,7 +5,7 @@ latitude: 50.518785300000005
 longitude: 8.4097123
 postcode: 35606
 city: Solms
-street: Oberndorfer Hütte
+street: "Oberndorfer Hütte"
 housenumber: 2
 phone: "+49 6442 922558"
 opening_hours: ""

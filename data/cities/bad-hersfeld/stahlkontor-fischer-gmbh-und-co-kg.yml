@@ -5,7 +5,7 @@ latitude: 50.860504600000006
 longitude: 9.7147504
 postcode: 36251
 city: Bad Hersfeld
-street: In den Giesen
+street: "In den Giesen"
 housenumber: 3
 phone: "+49 6621 92610"
 opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-14:30"

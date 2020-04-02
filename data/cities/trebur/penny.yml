@@ -5,7 +5,7 @@ latitude: 49.93085790000001
 longitude: 8.4078608
 postcode: 65468
 city: Trebur
-street: Vordere Oderstraße
+street: "Vordere Oderstraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

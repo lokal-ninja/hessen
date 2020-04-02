@@ -5,7 +5,7 @@ latitude: 49.5367267
 longitude: 8.590599600000001
 postcode: 68519
 city: Viernheim
-street: Heidelberger Straße
+street: "Heidelberger Straße"
 housenumber: 61
 phone: ""
 opening_hours: ""

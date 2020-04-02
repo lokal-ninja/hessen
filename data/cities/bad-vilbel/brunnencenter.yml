@@ -5,7 +5,7 @@ latitude: 50.2075381
 longitude: 8.742875600000001
 postcode: 61118
 city: Bad Vilbel
-street: Dortelweiler Platz
+street: "Dortelweiler Platz"
 housenumber: 2b
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

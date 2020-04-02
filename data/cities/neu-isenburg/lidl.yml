@@ -5,7 +5,7 @@ latitude: 50.049209700000006
 longitude: 8.711592600000001
 postcode: 63263
 city: Neu-Isenburg
-street: Sankt-Florian-Straße
+street: "Sankt-Florian-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"

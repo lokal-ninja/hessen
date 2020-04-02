@@ -5,7 +5,7 @@ latitude: 49.640235800000006
 longitude: 8.6179732
 postcode: 64646
 city: Heppenheim
-street: Tiergartenstraße
+street: "Tiergartenstraße"
 housenumber: 5a
 phone: ""
 opening_hours: ""

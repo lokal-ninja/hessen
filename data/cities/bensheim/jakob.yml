@@ -5,7 +5,7 @@ latitude: 49.677292400000006
 longitude: 8.612527
 postcode: 64625
 city: Bensheim
-street: Beinengutstraße
+street: "Beinengutstraße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Fr 06:30-12:30,14:00-18:30; Sa 06:30-13:00"

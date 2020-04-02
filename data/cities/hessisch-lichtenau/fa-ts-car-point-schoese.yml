@@ -5,7 +5,7 @@ latitude: 51.226089300000005
 longitude: 9.707456
 postcode: 37235
 city: Hessisch Lichtenau
-street: Lilienthalstraße
+street: "Lilienthalstraße"
 housenumber: 6-8
 phone: ""
 opening_hours: ""

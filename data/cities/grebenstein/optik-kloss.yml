@@ -5,7 +5,7 @@ latitude: 51.446567200000004
 longitude: 9.4129269
 postcode: 34393
 city: Grebenstein
-street: Obere Schnurstraße
+street: "Obere Schnurstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

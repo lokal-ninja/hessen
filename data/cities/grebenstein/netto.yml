@@ -5,7 +5,7 @@ latitude: 51.448829800000006
 longitude: 9.4129657
 postcode: 34393
 city: Grebenstein
-street: Hofgeismarer Straße
+street: "Hofgeismarer Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 49.8251635
 longitude: 8.8319962
 postcode: 64354
 city: Reinheim
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 15
 phone: "+49 6162 1776"
 opening_hours: ""

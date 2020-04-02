@@ -5,7 +5,7 @@ latitude: 50.106245200000004
 longitude: 8.942570700000001
 postcode: 63457
 city: Hanau
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.233024900000004
 longitude: 8.7690386
 postcode: 61184
 city: Karben
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 60
 phone: ""
 opening_hours: ""

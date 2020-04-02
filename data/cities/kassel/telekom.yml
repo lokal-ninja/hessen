@@ -5,7 +5,7 @@ latitude: 51.312800100000004
 longitude: 9.4932719
 postcode: 34117
 city: Kassel
-street: Obere Königsstraße
+street: "Obere Königsstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

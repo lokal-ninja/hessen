@@ -5,7 +5,7 @@ latitude: 49.998842
 longitude: 8.7299474
 postcode: 63303
 city: Dreieich
-street: Hainer Weg
+street: "Hainer Weg"
 housenumber: 12
 phone: ""
 opening_hours: ""

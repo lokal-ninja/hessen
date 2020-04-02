@@ -5,7 +5,7 @@ latitude: 50.019164100000005
 longitude: 8.342742300000001
 postcode: 65239
 city: Hochheim am Main
-street: Am Weiher
+street: "Am Weiher"
 housenumber: 49
 phone: "+49 6146 3722"
 opening_hours: "We-Sa 17:00+; Su,PH 16:00+"

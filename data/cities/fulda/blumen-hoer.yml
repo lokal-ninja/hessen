@@ -5,7 +5,7 @@ latitude: 50.577679100000005
 longitude: 9.6809439
 postcode: 36039
 city: Fulda
-street: Forststraße
+street: "Forststraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

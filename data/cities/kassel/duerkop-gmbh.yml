@@ -5,7 +5,7 @@ latitude: 51.3079845
 longitude: 9.455984
 postcode: 34121
 city: Kassel
-street: Kohlenstraße
+street: "Kohlenstraße"
 housenumber: 101-103
 phone: ""
 opening_hours: ""

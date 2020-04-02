@@ -5,7 +5,7 @@ latitude: 51.128093500000006
 longitude: 9.436299400000001
 postcode: 34587
 city: Felsberg
-street: Grebengasse
+street: "Grebengasse"
 housenumber: 11
 phone: "+49 5662 309001"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.151322900000004
 longitude: 8.4231479
 postcode: 65779
 city: Kelkheim (Taunus)
-street: Langstraße
+street: "Langstraße"
 housenumber: 1 a
 phone: ""
 opening_hours: ""

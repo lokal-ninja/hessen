@@ -5,7 +5,7 @@ latitude: 51.2744979
 longitude: 8.8824637
 postcode: 34497
 city: Korbach
-street: Strother Straße
+street: "Strother Straße"
 housenumber: 34
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00"

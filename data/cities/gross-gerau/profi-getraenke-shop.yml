@@ -5,7 +5,7 @@ latitude: 49.916810000000005
 longitude: 8.4859598
 postcode: 
 city: Groß-Gerau
-street: Gernsheimer Straße
+street: "Gernsheimer Straße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 08:30-13:00, 14:00-19:00; Sa 08:00-16:00"

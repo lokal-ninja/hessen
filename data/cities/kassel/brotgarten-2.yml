@@ -5,7 +5,7 @@ latitude: 51.315212100000004
 longitude: 9.494987400000001
 postcode: 
 city: Kassel
-street: Treppenstraße
+street: "Treppenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30;Sa 08:00-13:30"

@@ -5,7 +5,7 @@ latitude: 50.5786316
 longitude: 9.19881
 postcode: 35327
 city: Ulrichstein
-street: Schaubstraße
+street: "Schaubstraße"
 housenumber: 11
 phone: "+49 6645 1585"
 opening_hours: ""

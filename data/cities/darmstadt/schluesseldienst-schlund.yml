@@ -5,7 +5,7 @@ latitude: 49.86944200000001
 longitude: 8.658929200000001
 postcode: 64283
 city: Darmstadt
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 76
 phone: "+49615123786"
 opening_hours: "Mo-Tu 08:30-13:00,14:30-18:00; We 08:30-13:00; Th-Fr 08:30-13:00,14:30-18:00; Sa 09:00-13:00"

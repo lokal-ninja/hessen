@@ -5,7 +5,7 @@ latitude: 49.6810302
 longitude: 8.6101671
 postcode: 64625
 city: Bensheim
-street: Schwanheimer Straße
+street: "Schwanheimer Straße"
 housenumber: 76
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-13:00"

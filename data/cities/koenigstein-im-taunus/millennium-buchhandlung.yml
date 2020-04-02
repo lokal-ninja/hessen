@@ -5,7 +5,7 @@ latitude: 50.182581500000005
 longitude: 8.465918400000001
 postcode: 61462
 city: Königstein im Taunus
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: "+49 6174 923737"
 opening_hours: "Mo-Fr 09:00-19:00;Sa 9:00-14:00"

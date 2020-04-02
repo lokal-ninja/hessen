@@ -5,7 +5,7 @@ latitude: 50.405373600000004
 longitude: 8.0388409
 postcode: 65604
 city: Elz
-street: Limburger Straße
+street: "Limburger Straße"
 housenumber: 51
 phone: ""
 opening_hours: ""

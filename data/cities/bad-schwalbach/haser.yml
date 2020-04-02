@@ -5,7 +5,7 @@ latitude: 50.138705300000005
 longitude: 8.0694962
 postcode: 65307
 city: Bad Schwalbach
-street: Brunnenstraße
+street: "Brunnenstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

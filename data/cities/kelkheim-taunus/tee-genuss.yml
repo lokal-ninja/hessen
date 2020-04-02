@@ -5,7 +5,7 @@ latitude: 50.133000800000005
 longitude: 8.4537244
 postcode: 65779
 city: Kelkheim (Taunus)
-street: Höchster Straße
+street: "Höchster Straße"
 housenumber: 6
 phone: "+49 6195 5806"
 opening_hours: "Tu-Fr 09:30-13:00, 15:00-18:00; Sa 09:30-13:00"

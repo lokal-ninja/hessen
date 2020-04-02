@@ -5,7 +5,7 @@ latitude: 50.999714000000004
 longitude: 9.147865000000001
 postcode: 34632
 city: Jesberg
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 6
 phone: "+49(0)6695-911062"
 opening_hours: ""

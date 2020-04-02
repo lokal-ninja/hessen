@@ -5,7 +5,7 @@ latitude: 51.01674980000001
 longitude: 8.6437069
 postcode: 
 city: Battenberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 24
 phone: "+49 6452 3379"
 opening_hours: ""

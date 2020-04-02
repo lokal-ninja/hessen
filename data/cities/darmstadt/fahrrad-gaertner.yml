@@ -5,7 +5,7 @@ latitude: 49.908150400000004
 longitude: 8.656679
 postcode: 64291
 city: Darmstadt
-street: Frankfurter Landstraße
+street: "Frankfurter Landstraße"
 housenumber: 108
 phone: ""
 opening_hours: ""

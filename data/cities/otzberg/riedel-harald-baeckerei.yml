@@ -5,7 +5,7 @@ latitude: 49.809356900000004
 longitude: 8.8907041
 postcode: 64853
 city: Otzberg
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

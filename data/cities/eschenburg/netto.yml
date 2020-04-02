@@ -5,7 +5,7 @@ latitude: 50.807727
 longitude: 8.349478600000001
 postcode: 35713
 city: Eschenburg
-street: Eiershäuser Straße
+street: "Eiershäuser Straße"
 housenumber: 49
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.0482748
 longitude: 9.6639873
 postcode: 36211
 city: Alheim
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 21
 phone: "+49 5664 279"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.193105200000005
 longitude: 9.182551
 postcode: 63571
 city: Gelnhausen
-street: Lagerhausstraße
+street: "Lagerhausstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

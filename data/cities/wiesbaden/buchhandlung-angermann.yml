@@ -5,7 +5,7 @@ latitude: 50.0812127
 longitude: 8.2403485
 postcode: 65183
 city: Wiesbaden
-street: Mauergasse
+street: "Mauergasse"
 housenumber: 21
 phone: "+49 611 300385"
 opening_hours: ""

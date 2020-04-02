@@ -5,7 +5,7 @@ latitude: 50.6042095
 longitude: 8.7035534
 postcode: 35396
 city: Gießen
-street: Alte Schulstraße
+street: "Alte Schulstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

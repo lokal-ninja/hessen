@@ -5,7 +5,7 @@ latitude: 49.9799426
 longitude: 7.938462800000001
 postcode: 65385
 city: Rüdesheim am Rhein
-street: Europastraße
+street: "Europastraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

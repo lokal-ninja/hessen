@@ -5,7 +5,7 @@ latitude: 50.079832200000006
 longitude: 8.2293724
 postcode: 65183
 city: Wiesbaden
-street: Bismarckring
+street: "Bismarckring"
 housenumber: 16
 phone: ""
 opening_hours: ""

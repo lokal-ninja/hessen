@@ -5,7 +5,7 @@ latitude: 49.982957400000004
 longitude: 8.3563328
 postcode: 65474
 city: Bischofsheim
-street: Am Himmelspfad
+street: "Am Himmelspfad"
 housenumber: 51
 phone: ""
 opening_hours: ""

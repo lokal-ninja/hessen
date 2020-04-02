@@ -5,7 +5,7 @@ latitude: 50.775039500000005
 longitude: 8.3042767
 postcode: 35684
 city: Dillenburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 118
 phone: "+49 27 71 268750"
 opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-13:00; Su 07:00-11:00"

@@ -5,7 +5,7 @@ latitude: 50.131040000000006
 longitude: 8.922423100000001
 postcode: 63450
 city: Hanau
-street: Kurt-Blaum-Platz
+street: "Kurt-Blaum-Platz"
 housenumber: 8
 phone: ""
 opening_hours: ""

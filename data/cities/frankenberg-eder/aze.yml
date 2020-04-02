@@ -5,7 +5,7 @@ latitude: 51.05499450000001
 longitude: 8.7802384
 postcode: 35066
 city: Frankenberg (Eder)
-street: Berleburger Straße
+street: "Berleburger Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.676374800000005
 longitude: 8.999464
 postcode: 64720
 city: Michelstadt
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 5
 phone: "+49 6061 72769"
 opening_hours: ""

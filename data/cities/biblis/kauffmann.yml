@@ -5,7 +5,7 @@ latitude: 49.6943002
 longitude: 8.4535865
 postcode: 68647
 city: Biblis
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

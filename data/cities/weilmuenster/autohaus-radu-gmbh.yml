@@ -5,7 +5,7 @@ latitude: 50.434774600000004
 longitude: 8.3739486
 postcode: 35789
 city: Weilmünster
-street: Weilstraße
+street: "Weilstraße"
 housenumber: 116a
 phone: ""
 opening_hours: ""

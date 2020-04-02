@@ -5,7 +5,7 @@ latitude: 50.645108900000004
 longitude: 9.5773734
 postcode: 36110
 city: Schlitz
-street: Heidelberger Weg
+street: "Heidelberger Weg"
 housenumber: 2
 phone: ""
 opening_hours: ""

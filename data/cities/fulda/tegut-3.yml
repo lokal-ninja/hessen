@@ -5,7 +5,7 @@ latitude: 50.558315300000004
 longitude: 9.656644700000001
 postcode: 36041
 city: Fulda
-street: Maberzeller Straße
+street: "Maberzeller Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

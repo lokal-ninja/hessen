@@ -5,7 +5,7 @@ latitude: 50.8046025
 longitude: 8.769020000000001
 postcode: 35037
 city: Marburg
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 27
 phone: "+49 6421 686832"
 opening_hours: ""

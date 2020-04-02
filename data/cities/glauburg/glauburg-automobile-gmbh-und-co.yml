@@ -5,7 +5,7 @@ latitude: 50.324464400000004
 longitude: 9.0129585
 postcode: 63695
 city: Glauburg
-street: Herrnstraße
+street: "Herrnstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.2040652
 longitude: 8.596469
 postcode: 61440
 city: Oberursel (Taunus)
-street: Karl-Hermann-Flach-Straße
+street: "Karl-Hermann-Flach-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

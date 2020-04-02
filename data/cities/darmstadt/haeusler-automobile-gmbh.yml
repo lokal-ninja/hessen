@@ -5,7 +5,7 @@ latitude: 49.8517335
 longitude: 8.6450932
 postcode: 64285
 city: Darmstadt
-street: Heidelberger Straße
+street: "Heidelberger Straße"
 housenumber: 191
 phone: ""
 opening_hours: ""

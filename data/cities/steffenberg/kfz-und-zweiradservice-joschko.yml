@@ -5,7 +5,7 @@ latitude: 50.855507700000004
 longitude: 8.4692092
 postcode: 35239
 city: Steffenberg
-street: Lahnstraße
+street: "Lahnstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

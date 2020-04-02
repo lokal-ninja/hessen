@@ -5,7 +5,7 @@ latitude: 49.7918272
 longitude: 9.125833
 postcode: 64750
 city: Lützelbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 65
 phone: "+49 9372 5127"
 opening_hours: ""

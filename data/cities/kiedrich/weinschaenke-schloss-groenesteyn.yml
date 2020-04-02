@@ -5,7 +5,7 @@ latitude: 50.0421143
 longitude: 8.0809089
 postcode: 65399
 city: Kiedrich
-street: Oberstraße
+street: "Oberstraße"
 housenumber: 36
 phone: "+49 6123 1533"
 opening_hours: ""

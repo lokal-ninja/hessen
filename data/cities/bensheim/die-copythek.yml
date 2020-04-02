@@ -5,7 +5,7 @@ latitude: 49.671949600000005
 longitude: 8.6064453
 postcode: 64625
 city: Bensheim
-street: Berliner Ring
+street: "Berliner Ring"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 09:00-13:00"

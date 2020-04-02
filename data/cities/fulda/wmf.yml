@@ -5,7 +5,7 @@ latitude: 50.5509149
 longitude: 9.676062700000001
 postcode: 36037
 city: Fulda
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

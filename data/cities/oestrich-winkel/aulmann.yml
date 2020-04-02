@@ -5,7 +5,7 @@ latitude: 49.9978922
 longitude: 8.0062139
 postcode: 65375
 city: Oestrich-Winkel
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 76
 phone: ""
 opening_hours: ""

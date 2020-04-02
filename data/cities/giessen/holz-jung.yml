@@ -5,7 +5,7 @@ latitude: 50.5690961
 longitude: 8.6508593
 postcode: 35398
 city: Gießen
-street: Margaretenhütte
+street: "Margaretenhütte"
 housenumber: 65
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"

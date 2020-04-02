@@ -5,7 +5,7 @@ latitude: 50.1333482
 longitude: 8.0675349
 postcode: 65307
 city: Bad Schwalbach
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

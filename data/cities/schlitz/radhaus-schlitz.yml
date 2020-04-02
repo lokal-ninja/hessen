@@ -5,7 +5,7 @@ latitude: 50.684639600000004
 longitude: 9.5783234
 postcode: 36110
 city: Schlitz
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

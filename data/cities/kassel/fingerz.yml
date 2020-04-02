@@ -5,7 +5,7 @@ latitude: 51.3151462
 longitude: 9.4997342
 postcode: 34117
 city: Kassel
-street: Oberste Gasse
+street: "Oberste Gasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

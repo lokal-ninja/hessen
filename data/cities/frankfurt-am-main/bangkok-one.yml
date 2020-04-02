@@ -5,7 +5,7 @@ latitude: 50.108078000000006
 longitude: 8.659659000000001
 postcode: 60329
 city: Frankfurt am Main
-street: Niddastraße
+street: "Niddastraße"
 housenumber: 84
 phone: "+49 69 35350712"
 opening_hours: "Mo-Fr 10:30-20:00; Sa 10:30-17:00"

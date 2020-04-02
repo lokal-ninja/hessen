@@ -5,7 +5,7 @@ latitude: 49.5683238
 longitude: 8.9751428
 postcode: 64760
 city: Oberzent
-street: Brunnengasse
+street: "Brunnengasse"
 housenumber: 18
 phone: ""
 opening_hours: ""

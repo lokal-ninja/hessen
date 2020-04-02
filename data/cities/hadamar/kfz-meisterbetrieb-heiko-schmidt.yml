@@ -5,7 +5,7 @@ latitude: 50.4443015
 longitude: 8.041775000000001
 postcode: 65589
 city: Hadamar
-street: Neue Chaussee
+street: "Neue Chaussee"
 housenumber: 17
 phone: "+49 (0) 6433 2524"
 opening_hours: "Mo-Fr 09:00-19:00"

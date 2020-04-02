@@ -5,7 +5,7 @@ latitude: 51.370007300000005
 longitude: 9.5174456
 postcode: 34233
 city: Fuldatal
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

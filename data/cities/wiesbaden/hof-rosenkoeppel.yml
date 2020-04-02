@@ -5,7 +5,7 @@ latitude: 50.0690265
 longitude: 8.1714011
 postcode: 
 city: Wiesbaden
-street: Kirschblütenstraße
+street: "Kirschblütenstraße"
 housenumber: 90
 phone: "+49 611 3602850"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

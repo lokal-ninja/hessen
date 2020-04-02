@@ -5,7 +5,7 @@ latitude: 49.99800260000001
 longitude: 7.9787248
 postcode: 65366
 city: Geisenheim
-street: Grund
+street: "Grund"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

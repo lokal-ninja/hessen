@@ -5,7 +5,7 @@ latitude: 49.950796000000004
 longitude: 8.648845600000001
 postcode: 64390
 city: Erzhausen
-street: Bahnstraße
+street: "Bahnstraße"
 housenumber: 176
 phone: "+49 6150 7558"
 opening_hours: ""

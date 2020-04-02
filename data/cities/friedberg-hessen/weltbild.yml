@@ -5,7 +5,7 @@ latitude: 50.3370546
 longitude: 8.7534043
 postcode: 61169
 city: Friedberg (Hessen)
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 81
 phone: "+49 6031 7793901"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

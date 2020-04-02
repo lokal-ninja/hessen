@@ -5,7 +5,7 @@ latitude: 50.6402219
 longitude: 8.7013235
 postcode: 35457
 city: Lollar
-street: Rothweg
+street: "Rothweg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

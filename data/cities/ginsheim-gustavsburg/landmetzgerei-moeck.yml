@@ -5,7 +5,7 @@ latitude: 49.965314500000005
 longitude: 8.344499500000001
 postcode: 65462
 city: Ginsheim-Gustavsburg
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

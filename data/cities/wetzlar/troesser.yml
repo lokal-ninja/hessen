@@ -5,7 +5,7 @@ latitude: 50.575660600000006
 longitude: 8.490199200000001
 postcode: 35576
 city: Wetzlar
-street: Hermannsteiner Straße
+street: "Hermannsteiner Straße"
 housenumber: 73
 phone: "+49 6441 30 908 93"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00"

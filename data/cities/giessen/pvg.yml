@@ -5,7 +5,7 @@ latitude: 50.5829691
 longitude: 8.6473367
 postcode: 35398
 city: Gießen
-street: Karl-Benz-Straße
+street: "Karl-Benz-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.121912
 longitude: 8.707591800000001
 postcode: 60385
 city: Frankfurt am Main
-street: Linnestraße
+street: "Linnestraße"
 housenumber: 23
 phone: "+49 69 95 82 00 30"
 opening_hours: ""

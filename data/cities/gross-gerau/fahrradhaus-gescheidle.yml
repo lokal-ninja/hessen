@@ -5,7 +5,7 @@ latitude: 49.920274000000006
 longitude: 8.4820627
 postcode: 64521
 city: Groß-Gerau
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

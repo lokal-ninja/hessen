@@ -5,7 +5,7 @@ latitude: 50.4097865
 longitude: 9.0074242
 postcode: 63667
 city: Nidda
-street: Rauner Graben
+street: "Rauner Graben"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su off"

@@ -5,7 +5,7 @@ latitude: 51.267500000000005
 longitude: 9.563611700000001
 postcode: 34253
 city: Lohfelden
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 54
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.129097200000004
 longitude: 9.437842
 postcode: 34587
 city: Felsberg
-street: Beuernsche Straße
+street: "Beuernsche Straße"
 housenumber: 1
 phone: "+49 5662 2110"
 opening_hours: "Mo-Sa 07:00-20:00"

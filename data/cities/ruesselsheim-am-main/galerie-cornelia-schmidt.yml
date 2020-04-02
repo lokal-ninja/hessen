@@ -5,7 +5,7 @@ latitude: 49.994772600000005
 longitude: 8.4106281
 postcode: 65428
 city: Rüsselsheim am Main
-street: Mainzer Straße
+street: "Mainzer Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

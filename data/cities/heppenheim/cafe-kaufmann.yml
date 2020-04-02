@@ -5,7 +5,7 @@ latitude: 49.6423677
 longitude: 8.639572900000001
 postcode: 64646
 city: Heppenheim
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

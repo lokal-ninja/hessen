@@ -5,7 +5,7 @@ latitude: 51.332776800000005
 longitude: 9.5009314
 postcode: 34127
 city: Kassel
-street: Quellhofstraße
+street: "Quellhofstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

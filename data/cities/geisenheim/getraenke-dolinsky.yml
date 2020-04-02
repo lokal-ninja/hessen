@@ -5,7 +5,7 @@ latitude: 49.9822976
 longitude: 7.9535536
 postcode: 65366
 city: Geisenheim
-street: Rüdesheimer Straße
+street: "Rüdesheimer Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off"

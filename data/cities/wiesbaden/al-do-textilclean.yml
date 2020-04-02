@@ -5,7 +5,7 @@ latitude: 50.0792998
 longitude: 8.241869300000001
 postcode: 65185
 city: Wiesbaden
-street: Luisenstraße
+street: "Luisenstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"

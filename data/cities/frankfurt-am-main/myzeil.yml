@@ -5,7 +5,7 @@ latitude: 50.1144751
 longitude: 8.6821388
 postcode: 60313
 city: Frankfurt am Main
-street: Zeil
+street: "Zeil"
 housenumber: 106-110
 phone: ""
 opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00"

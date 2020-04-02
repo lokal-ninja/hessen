@@ -5,7 +5,7 @@ latitude: 50.0449349
 longitude: 8.160929600000001
 postcode: 65396
 city: Walluf
-street: Am Klingenweg
+street: "Am Klingenweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

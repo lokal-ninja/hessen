@@ -5,7 +5,7 @@ latitude: 51.0595226
 longitude: 8.8026029
 postcode: 35066
 city: Frankenberg (Eder)
-street: Untermarkt
+street: "Untermarkt"
 housenumber: 1
 phone: ""
 opening_hours: "Mo,We,Fr 08:30-18:30; Tu,Th 08:30-13:00,15:00-18:30; Sa 08:30-13:30"

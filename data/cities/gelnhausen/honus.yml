@@ -5,7 +5,7 @@ latitude: 50.1860743
 longitude: 9.148184800000001
 postcode: 63571
 city: Gelnhausen
-street: Hindenburgallee
+street: "Hindenburgallee"
 housenumber: 22
 phone: ""
 opening_hours: ""

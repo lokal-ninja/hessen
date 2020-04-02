@@ -5,7 +5,7 @@ latitude: 49.9262098
 longitude: 8.869617
 postcode: 64839
 city: Münster
-street: Wilhelm-Lehr-Straße
+street: "Wilhelm-Lehr-Straße"
 housenumber: 54a
 phone: ""
 opening_hours: ""

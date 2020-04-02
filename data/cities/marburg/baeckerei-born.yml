@@ -5,7 +5,7 @@ latitude: 50.8303682
 longitude: 8.7217655
 postcode: 35041
 city: Marburg
-street: Kitasato-Straße
+street: "Kitasato-Straße"
 housenumber: M240
 phone: ""
 opening_hours: "Mo-Fr 07:30-14:00"

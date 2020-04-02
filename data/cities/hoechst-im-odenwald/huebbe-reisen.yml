@@ -5,7 +5,7 @@ latitude: 49.801488500000005
 longitude: 9.0042872
 postcode: 64739
 city: Höchst im Odenwald
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 7
 phone: "+49 6163 93400"
 opening_hours: "Mo,Tu,Th,Fr 10:00-12:00,14:00-18:00; We 10:00-12:00; Sa 10:00-13:00"

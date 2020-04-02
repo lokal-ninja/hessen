@@ -5,7 +5,7 @@ latitude: 50.928341700000004
 longitude: 8.4740489
 postcode: 35216
 city: Biedenkopf
-street: Fritz-Henkel-Straße
+street: "Fritz-Henkel-Straße"
 housenumber: 17
 phone: "+49 6461 8220"
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:30; Sa 09:00-13:00"

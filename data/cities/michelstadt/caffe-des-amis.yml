@@ -5,7 +5,7 @@ latitude: 49.67853950000001
 longitude: 9.0035073
 postcode: 64720
 city: Michelstadt
-street: Neutorstraße
+street: "Neutorstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

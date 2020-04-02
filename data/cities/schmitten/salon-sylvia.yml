@@ -5,7 +5,7 @@ latitude: 50.270602800000006
 longitude: 8.4398666
 postcode: 61389
 city: Schmitten
-street: Sudetenstraße
+street: "Sudetenstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

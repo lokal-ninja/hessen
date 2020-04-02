@@ -5,7 +5,7 @@ latitude: 49.6771575
 longitude: 9.005849000000001
 postcode: 64720
 city: Michelstadt
-street: Erbacher Straße
+street: "Erbacher Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

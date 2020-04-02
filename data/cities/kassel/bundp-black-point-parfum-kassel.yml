@@ -5,7 +5,7 @@ latitude: 51.316354700000005
 longitude: 9.499696400000001
 postcode: 34117
 city: Kassel
-street: Druselplatz
+street: "Druselplatz"
 housenumber: 3
 phone: "+49 561 20260045"
 opening_hours: ""

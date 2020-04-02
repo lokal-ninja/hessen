@@ -5,7 +5,7 @@ latitude: 50.688436800000005
 longitude: 8.3058788
 postcode: 35745
 city: Herborn
-street: Hüttenweg
+street: "Hüttenweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; PH off"

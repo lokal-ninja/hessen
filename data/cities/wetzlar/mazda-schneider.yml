@@ -5,7 +5,7 @@ latitude: 50.559544
 longitude: 8.6032706
 postcode: 35582
 city: Wetzlar
-street: Gießener Straße
+street: "Gießener Straße"
 housenumber: 28-30
 phone: "+49 641-922090"
 opening_hours: ""

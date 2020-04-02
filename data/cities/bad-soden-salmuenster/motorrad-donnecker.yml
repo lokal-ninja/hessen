@@ -5,7 +5,7 @@ latitude: 50.282766900000006
 longitude: 9.3708478
 postcode: 63628
 city: Bad Soden-Salmünster
-street: Bad Sodener Straße
+street: "Bad Sodener Straße"
 housenumber: 44a
 phone: "+49 60 56 53 63"
 opening_hours: "Mo 14:00-18:00; Tu-Th 09:00-13:00,14:00-18:00; Fr 09:00-13:00,14:00-20:00; Sa 09:00-13:00; Su,PH off"

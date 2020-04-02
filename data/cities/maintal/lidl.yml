@@ -5,7 +5,7 @@ latitude: 50.1495964
 longitude: 8.8099425
 postcode: 63477
 city: Maintal
-street: Dörnigheimer Weg
+street: "Dörnigheimer Weg"
 housenumber: 5a
 phone: ""
 opening_hours: ""

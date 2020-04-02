@@ -5,7 +5,7 @@ latitude: 50.5510055
 longitude: 9.6748201
 postcode: 36037
 city: Fulda
-street: Gemüsemarkt
+street: "Gemüsemarkt"
 housenumber: 12
 phone: ""
 opening_hours: ""

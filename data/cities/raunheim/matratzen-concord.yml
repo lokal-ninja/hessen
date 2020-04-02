@@ -5,7 +5,7 @@ latitude: 50.010497
 longitude: 8.4385183
 postcode: 65479
 city: Raunheim
-street: Anton-Flettner-Straße
+street: "Anton-Flettner-Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

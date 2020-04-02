@@ -5,7 +5,7 @@ latitude: 50.53863380000001
 longitude: 9.4943983
 postcode: 36154
 city: Hosenfeld
-street: Brüder-Grimm-Straße
+street: "Brüder-Grimm-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

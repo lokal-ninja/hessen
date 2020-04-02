@@ -5,7 +5,7 @@ latitude: 50.144902900000005
 longitude: 8.4458397
 postcode: 65779
 city: Kelkheim
-street: Luisenstraße
+street: "Luisenstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

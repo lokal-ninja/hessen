@@ -5,7 +5,7 @@ latitude: 50.396319500000004
 longitude: 8.8164526
 postcode: 61200
 city: Wölfersheim
-street: Biedrichstraße
+street: "Biedrichstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

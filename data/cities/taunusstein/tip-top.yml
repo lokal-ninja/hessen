@@ -5,7 +5,7 @@ latitude: 50.138421
 longitude: 8.154703900000001
 postcode: 65232
 city: Taunusstein
-street: Kleiststraße
+street: "Kleiststraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

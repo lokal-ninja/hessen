@@ -5,7 +5,7 @@ latitude: 49.857576200000004
 longitude: 8.7575645
 postcode: 64380
 city: Roßdorf
-street: Erbacher Straße
+street: "Erbacher Straße"
 housenumber: 8
 phone: "+49 6154 69900"
 opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-13:00"

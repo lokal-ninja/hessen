@@ -5,7 +5,7 @@ latitude: 49.66418770000001
 longitude: 8.7681767
 postcode: 64658
 city: Fürth
-street: Schlierbacher Straße
+street: "Schlierbacher Straße"
 housenumber: 32
 phone: ""
 opening_hours: ""

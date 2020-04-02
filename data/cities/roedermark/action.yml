@@ -5,7 +5,7 @@ latitude: 49.9676138
 longitude: 8.8299787
 postcode: 63322
 city: Rödermark
-street: Odenwaldstraße
+street: "Odenwaldstraße"
 housenumber: 80
 phone: ""
 opening_hours: "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00; Su closed"

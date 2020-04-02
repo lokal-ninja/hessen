@@ -5,7 +5,7 @@ latitude: 50.0403663
 longitude: 8.994466800000001
 postcode: 63500
 city: Seligenstadt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 153
 phone: ""
 opening_hours: ""

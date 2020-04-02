@@ -5,7 +5,7 @@ latitude: 51.403120900000005
 longitude: 9.1103766
 postcode: 34471
 city: Volkmarsen
-street: Wetterweg
+street: "Wetterweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:30"

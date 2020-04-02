@@ -5,7 +5,7 @@ latitude: 50.154301700000005
 longitude: 8.692354400000001
 postcode: 60435
 city: Frankfurt am Main
-street: Weilbrunnstraße
+street: "Weilbrunnstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

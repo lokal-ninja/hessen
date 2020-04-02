@@ -5,7 +5,7 @@ latitude: 50.5546723
 longitude: 8.3955529
 postcode: 35606
 city: Solms
-street: Buchenweg
+street: "Buchenweg"
 housenumber: 2
 phone: "+49 6442 20 03 37"
 opening_hours: ""

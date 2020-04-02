@@ -5,7 +5,7 @@ latitude: 50.540333000000004
 longitude: 9.6935424
 postcode: 36043
 city: Fulda
-street: Heidelsteinstraße
+street: "Heidelsteinstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

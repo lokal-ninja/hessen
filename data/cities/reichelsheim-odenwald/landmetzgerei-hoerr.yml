@@ -5,7 +5,7 @@ latitude: 49.712437300000005
 longitude: 8.8397877
 postcode: 64385
 city: Reichelsheim (Odenwald)
-street: Heidelberger Straße
+street: "Heidelberger Straße"
 housenumber: 
 phone: "+49 6164 1316"
 opening_hours: "Mo-Sa 06:30-13:00, Mo-Tu,Th-Fr 14:00-18:00"

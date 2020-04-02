@@ -5,7 +5,7 @@ latitude: 50.691459800000004
 longitude: 8.8391648
 postcode: 35469
 city: Allendorf
-street: Rabenauer Straße
+street: "Rabenauer Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

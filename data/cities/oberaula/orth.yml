@@ -5,7 +5,7 @@ latitude: 50.8567313
 longitude: 9.4706405
 postcode: 36280
 city: Oberaula
-street: Weiherstraße
+street: "Weiherstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

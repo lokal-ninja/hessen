@@ -5,7 +5,7 @@ latitude: 50.0771055
 longitude: 8.214770900000001
 postcode: 65197
 city: Wiesbaden
-street: Dotzheimer Straße
+street: "Dotzheimer Straße"
 housenumber: 135a
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"

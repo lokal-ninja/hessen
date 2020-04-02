@@ -5,7 +5,7 @@ latitude: 50.1830257
 longitude: 8.466951100000001
 postcode: 61462
 city: Königstein im Taunus
-street: Georg-Pingler-Straße
+street: "Georg-Pingler-Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

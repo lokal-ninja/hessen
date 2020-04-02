@@ -5,7 +5,7 @@ latitude: 50.9753732
 longitude: 9.325394000000001
 postcode: 34621
 city: Frielendorf
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 49
 phone: ""
 opening_hours: "Tu-Fr 9:00-18:00; Sa 8:00-13:00"

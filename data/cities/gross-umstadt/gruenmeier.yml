@@ -5,7 +5,7 @@ latitude: 49.8671507
 longitude: 8.9189231
 postcode: 64823
 city: Groß-Umstadt
-street: Werner-Heisenberg-Straße
+street: "Werner-Heisenberg-Straße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

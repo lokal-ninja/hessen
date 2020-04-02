@@ -5,7 +5,7 @@ latitude: 50.1048951
 longitude: 8.7639599
 postcode: 63065
 city: Offenbach am Main
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 3-5
 phone: "+49 69 80905700"
 opening_hours: "Mo-Tu, Th 09:00-18:00; We 09:00-13:00; Fr 09:00-13:00; Sa nach Vereinbarung"

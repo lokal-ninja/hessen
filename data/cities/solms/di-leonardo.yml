@@ -5,7 +5,7 @@ latitude: 50.54305960000001
 longitude: 8.4085389
 postcode: 35606
 city: Solms
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 2
 phone: "+49 6442 23248"
 opening_hours: "Mo 08:30-17:30, Tu-Fr 08:30-18:00; Sa 09:30-13:30"

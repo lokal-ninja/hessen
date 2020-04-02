@@ -5,7 +5,7 @@ latitude: 50.306242000000005
 longitude: 8.5116084
 postcode: 61267
 city: Neu-Anspach
-street: Rudolf-Diesel-Straße
+street: "Rudolf-Diesel-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

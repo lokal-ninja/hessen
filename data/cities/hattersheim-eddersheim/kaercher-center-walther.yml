@@ -5,7 +5,7 @@ latitude: 50.0353398
 longitude: 8.4658219
 postcode: 65795
 city: Hattersheim-Eddersheim
-street: Flörsheimer Straße
+street: "Flörsheimer Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:00; Mar-Sep Sa 9:00-12:00"

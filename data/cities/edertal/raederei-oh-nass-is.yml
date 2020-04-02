@@ -5,7 +5,7 @@ latitude: 51.1667277
 longitude: 9.087758500000001
 postcode: 34549
 city: Edertal
-street: Am Mühlengraben
+street: "Am Mühlengraben"
 housenumber: 6
 phone: "+49 5623 2944"
 opening_hours: ""

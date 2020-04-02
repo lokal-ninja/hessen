@@ -5,7 +5,7 @@ latitude: 50.743602100000004
 longitude: 9.256840200000001
 postcode: 36304
 city: Alsfeld
-street: Grünberger Straße
+street: "Grünberger Straße"
 housenumber: 93
 phone: ""
 opening_hours: ""

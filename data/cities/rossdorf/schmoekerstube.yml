@@ -5,7 +5,7 @@ latitude: 49.8568847
 longitude: 8.755705200000001
 postcode: 64380
 city: Roßdorf
-street: Wilhelm-Leuschner-Straße
+street: "Wilhelm-Leuschner-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

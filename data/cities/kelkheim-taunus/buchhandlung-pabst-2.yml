@@ -5,7 +5,7 @@ latitude: 50.1332419
 longitude: 8.4523218
 postcode: 65779
 city: Kelkheim (Taunus)
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 50
 phone: "+49 6195 5469"
 opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"

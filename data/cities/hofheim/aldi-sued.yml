@@ -5,7 +5,7 @@ latitude: 50.065764900000005
 longitude: 8.3814396
 postcode: 65719
 city: Hofheim
-street: Hessenstraße
+street: "Hessenstraße"
 housenumber: 14a
 phone: ""
 opening_hours: ""

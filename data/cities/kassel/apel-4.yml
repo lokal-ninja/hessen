@@ -5,7 +5,7 @@ latitude: 51.2915847
 longitude: 9.5416161
 postcode: 34123
 city: Kassel
-street: Forstbachweg
+street: "Forstbachweg"
 housenumber: 47a
 phone: ""
 opening_hours: "Mo-Fr 06:00-20:00; Sa 06:00-20:00; Su 08:00-11:00"

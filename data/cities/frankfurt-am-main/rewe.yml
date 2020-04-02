@@ -5,7 +5,7 @@ latitude: 50.1447742
 longitude: 8.6504033
 postcode: 60431
 city: Frankfurt am Main
-street: Ginnheimer Hohl
+street: "Ginnheimer Hohl"
 housenumber: 9-13
 phone: ""
 opening_hours: ""

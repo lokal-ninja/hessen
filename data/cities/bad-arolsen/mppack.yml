@@ -5,7 +5,7 @@ latitude: 51.3677275
 longitude: 9.005478100000001
 postcode: 34454
 city: Bad Arolsen
-street: Wilkfeld
+street: "Wilkfeld"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-16:30"

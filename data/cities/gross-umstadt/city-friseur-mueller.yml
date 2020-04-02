@@ -5,7 +5,7 @@ latitude: 49.8673286
 longitude: 8.927319800000001
 postcode: 64823
 city: Groß-Umstadt
-street: Obergasse
+street: "Obergasse"
 housenumber: 3
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-13:00"

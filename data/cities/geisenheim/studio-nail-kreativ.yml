@@ -5,7 +5,7 @@ latitude: 50.0059083
 longitude: 7.9840837
 postcode: 65366
 city: Geisenheim
-street: Dresdener Straße
+street: "Dresdener Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.859199600000004
 longitude: 9.7236899
 postcode: 36251
 city: Bad Hersfeld
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 5
 phone: "+49 6621 75576"
 opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-14:00"

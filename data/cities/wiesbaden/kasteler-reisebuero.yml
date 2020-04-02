@@ -5,7 +5,7 @@ latitude: 50.0071771
 longitude: 8.285221
 postcode: 55252
 city: Wiesbaden
-street: Kloberstraße
+street: "Kloberstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 09:30-13:00,15:00-18:00; We 09:30-13:00"

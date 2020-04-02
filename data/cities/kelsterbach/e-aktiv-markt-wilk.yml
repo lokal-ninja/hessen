@@ -5,7 +5,7 @@ latitude: 50.054056
 longitude: 8.5263188
 postcode: 65451
 city: Kelsterbach
-street: Am Südpark
+street: "Am Südpark"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

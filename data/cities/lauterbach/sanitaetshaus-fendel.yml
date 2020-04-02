@@ -5,7 +5,7 @@ latitude: 50.637384000000004
 longitude: 9.3980192
 postcode: 36341
 city: Lauterbach
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 43
 phone: ""
 opening_hours: ""

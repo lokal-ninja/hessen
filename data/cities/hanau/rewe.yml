@@ -5,7 +5,7 @@ latitude: 50.1175992
 longitude: 8.9604792
 postcode: 63457
 city: Hanau
-street: Grashüpferweg
+street: "Grashüpferweg"
 housenumber: 3
 phone: "+49 6181 6750845"
 opening_hours: "Mo-Sa 07:00-22:00"

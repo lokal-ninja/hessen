@@ -5,7 +5,7 @@ latitude: 50.561643800000006
 longitude: 9.0447916
 postcode: 35321
 city: Laubach
-street: Alsfelder Straße
+street: "Alsfelder Straße"
 housenumber: 18-20
 phone: "+49 6405 5064900"
 opening_hours: "Mo-Sa 07:30-12:30,15:00-18:00; We 07:30-12:30; Su 08:00-10:30"

@@ -5,7 +5,7 @@ latitude: 51.374129200000006
 longitude: 9.2348754
 postcode: 34289
 city: Zierenberg
-street: Nothfelder Straße
+street: "Nothfelder Straße"
 housenumber: 3
 phone: "+49 5606 5518456"
 opening_hours: ""

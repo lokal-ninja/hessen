@@ -5,7 +5,7 @@ latitude: 49.860550200000006
 longitude: 8.6389029
 postcode: 64295
 city: Darmstadt
-street: Eschollbrücker Straße
+street: "Eschollbrücker Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

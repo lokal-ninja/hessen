@@ -5,7 +5,7 @@ latitude: 49.7262168
 longitude: 8.992844
 postcode: 64732
 city: Bad König
-street: Zeller Gewerbezentrum
+street: "Zeller Gewerbezentrum"
 housenumber: 21
 phone: ""
 opening_hours: ""

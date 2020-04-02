@@ -5,7 +5,7 @@ latitude: 51.3243888
 longitude: 9.4687625
 postcode: 34127
 city: Kassel
-street: Wolfhager Straße
+street: "Wolfhager Straße"
 housenumber: 201
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 50.4140578
 longitude: 9.0064133
 postcode: 63667
 city: Nidda
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 3-5
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"

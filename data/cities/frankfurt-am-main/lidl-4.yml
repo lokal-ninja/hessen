@@ -5,7 +5,7 @@ latitude: 50.095953400000006
 longitude: 8.5978972
 postcode: 65933
 city: Frankfurt am Main
-street: Elektronstraße
+street: "Elektronstraße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

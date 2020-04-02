@@ -5,7 +5,7 @@ latitude: 50.300451100000004
 longitude: 8.236639700000001
 postcode: 65520
 city: Bad Camberg
-street: An der A3
+street: "An der A3"
 housenumber: 
 phone: ""
 opening_hours: "24/7"

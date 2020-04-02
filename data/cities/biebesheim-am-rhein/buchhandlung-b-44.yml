@@ -5,7 +5,7 @@ latitude: 49.775345400000006
 longitude: 8.468894800000001
 postcode: 64584
 city: Biebesheim am Rhein
-street: Gernsheimer Straße
+street: "Gernsheimer Straße"
 housenumber: 29
 phone: "+49 6258 972324"
 opening_hours: "Mo-Sa 09:00-12:30, Mo,Tu,Th,Fr 14:30-18:30"

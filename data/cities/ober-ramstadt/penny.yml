@@ -5,7 +5,7 @@ latitude: 49.8288748
 longitude: 8.7463145
 postcode: 64372
 city: Ober-Ramstadt
-street: Leuschnerstraße
+street: "Leuschnerstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00; PH closed"

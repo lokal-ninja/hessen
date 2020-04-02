@@ -5,7 +5,7 @@ latitude: 50.2972711
 longitude: 8.2644094
 postcode: 65520
 city: Bad Camberg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo off; Tu-Fr 09:00-12:00,14:00-18:30; Sa 09:00-14:00"

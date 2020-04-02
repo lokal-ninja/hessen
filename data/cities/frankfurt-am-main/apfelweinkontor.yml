@@ -5,7 +5,7 @@ latitude: 50.1048355
 longitude: 8.6883962
 postcode: 60594
 city: Frankfurt am Main
-street: Wallstraße
+street: "Wallstraße"
 housenumber: 13
 phone: "+496990756100"
 opening_hours: "Fr 13:00-19:00, Sa 10:00-18:00"

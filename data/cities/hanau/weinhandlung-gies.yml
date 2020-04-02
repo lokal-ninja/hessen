@@ -5,7 +5,7 @@ latitude: 50.136287200000005
 longitude: 8.9172455
 postcode: 63450
 city: Hanau
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 11-13
 phone: ""
 opening_hours: "Tu,Th,Fr 15:00-21:00; We,Sa 11:00-21:00"

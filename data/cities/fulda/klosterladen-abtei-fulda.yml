@@ -5,7 +5,7 @@ latitude: 50.5531214
 longitude: 9.6764819
 postcode: 36037
 city: Fulda
-street: Nonnengasse
+street: "Nonnengasse"
 housenumber: 16
 phone: "+49 661 902450"
 opening_hours: "Mo-Fr 10:00-17:00, Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.842678600000006
 longitude: 8.827525300000001
 postcode: 64354
 city: Reinheim
-street: Seestraße
+street: "Seestraße"
 housenumber: 4
 phone: "+49 6162-939210"
 opening_hours: ""

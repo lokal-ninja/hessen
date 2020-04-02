@@ -5,7 +5,7 @@ latitude: 50.1994649
 longitude: 8.609455200000001
 postcode: 61440
 city: Oberursel (Taunus)
-street: Kalbacher Straße
+street: "Kalbacher Straße"
 housenumber: 32
 phone: ""
 opening_hours: ""

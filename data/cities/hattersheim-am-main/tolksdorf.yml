@@ -5,7 +5,7 @@ latitude: 50.0704804
 longitude: 8.4853304
 postcode: 65795
 city: Hattersheim am Main
-street: Am Markt
+street: "Am Markt"
 housenumber: 6
 phone: ""
 opening_hours: ""

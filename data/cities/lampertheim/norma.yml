@@ -5,7 +5,7 @@ latitude: 49.6581143
 longitude: 8.422968000000001
 postcode: 68623
 city: Lampertheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 121
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00, Sa 08:00-21:00"

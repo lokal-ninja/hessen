@@ -5,7 +5,7 @@ latitude: 49.804105400000005
 longitude: 8.5921056
 postcode: 64319
 city: Pfungstadt
-street: Hillebergstraße
+street: "Hillebergstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

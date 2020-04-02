@@ -5,7 +5,7 @@ latitude: 51.0547205
 longitude: 9.176075200000001
 postcode: 34596
 city: Bad Zwesten
-street: Zum Kurpark
+street: "Zum Kurpark"
 housenumber: 1a
 phone: "+49 5626 92 00 90"
 opening_hours: ""

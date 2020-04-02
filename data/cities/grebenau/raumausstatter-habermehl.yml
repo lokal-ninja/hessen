@@ -5,7 +5,7 @@ latitude: 50.742765000000006
 longitude: 9.4777378
 postcode: 36323
 city: Grebenau
-street: Langwiesenweg
+street: "Langwiesenweg"
 housenumber: 15
 phone: ""
 opening_hours: ""

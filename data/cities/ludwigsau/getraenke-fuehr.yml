@@ -5,7 +5,7 @@ latitude: 50.9774437
 longitude: 9.584379100000001
 postcode: 36251
 city: Ludwigsau
-street: Rengshäuser Straße
+street: "Rengshäuser Straße"
 housenumber: 4
 phone: "+49 6670 717"
 opening_hours: ""

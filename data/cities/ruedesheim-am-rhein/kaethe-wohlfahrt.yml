@@ -5,7 +5,7 @@ latitude: 49.9794588
 longitude: 7.920986900000001
 postcode: 65385
 city: Rüdesheim am Rhein
-street: Oberstraße
+street: "Oberstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

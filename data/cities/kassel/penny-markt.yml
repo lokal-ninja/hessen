@@ -5,7 +5,7 @@ latitude: 51.2871031
 longitude: 9.5272925
 postcode: 34123
 city: Kassel
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 72
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

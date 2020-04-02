@@ -5,7 +5,7 @@ latitude: 50.9690601
 longitude: 9.793198
 postcode: 36179
 city: Bebra
-street: Amalienstraße
+street: "Amalienstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

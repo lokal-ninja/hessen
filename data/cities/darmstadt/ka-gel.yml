@@ -5,7 +5,7 @@ latitude: 49.882394700000006
 longitude: 8.638939800000001
 postcode: 64293
 city: Darmstadt
-street: Pallaswiesenstraße
+street: "Pallaswiesenstraße"
 housenumber: 122
 phone: "+49 6151 8001912"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"

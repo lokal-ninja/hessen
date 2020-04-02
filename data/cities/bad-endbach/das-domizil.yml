@@ -5,7 +5,7 @@ latitude: 50.752124900000005
 longitude: 8.495127400000001
 postcode: 35080
 city: Bad Endbach
-street: Herborner Straße
+street: "Herborner Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

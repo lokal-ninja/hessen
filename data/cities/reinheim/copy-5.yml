@@ -5,7 +5,7 @@ latitude: 49.8435702
 longitude: 8.800656100000001
 postcode: 64354
 city: Reinheim
-street: Zeilharder Straße
+street: "Zeilharder Straße"
 housenumber: 5
 phone: "+49 6162-7205540"
 opening_hours: ""

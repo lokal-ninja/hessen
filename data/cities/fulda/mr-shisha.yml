@@ -5,7 +5,7 @@ latitude: 50.56000220000001
 longitude: 9.6809262
 postcode: 36037
 city: Fulda
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 34
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.3341282
 longitude: 9.200342000000001
 postcode: 63654
 city: Büdingen
-street: Wehrtbornstraße
+street: "Wehrtbornstraße"
 housenumber: 60
 phone: ""
 opening_hours: ""

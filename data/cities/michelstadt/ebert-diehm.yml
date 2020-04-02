@@ -5,7 +5,7 @@ latitude: 49.6756691
 longitude: 8.9970032
 postcode: 64720
 city: Michelstadt
-street: Reinstraße
+street: "Reinstraße"
 housenumber: 3
 phone: "+49 6061 7008-0"
 opening_hours: ""

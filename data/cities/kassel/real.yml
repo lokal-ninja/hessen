@@ -5,7 +5,7 @@ latitude: 51.321745500000006
 longitude: 9.5183228
 postcode: 34125
 city: Kassel
-street: Franzgraben
+street: "Franzgraben"
 housenumber: 40-42
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

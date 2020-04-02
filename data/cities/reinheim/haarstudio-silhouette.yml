@@ -5,7 +5,7 @@ latitude: 49.84254120000001
 longitude: 8.799256
 postcode: 
 city: Reinheim
-street: Am Mühlbach
+street: "Am Mühlbach"
 housenumber: 12 a
 phone: "+49 6162 969053"
 opening_hours: ""

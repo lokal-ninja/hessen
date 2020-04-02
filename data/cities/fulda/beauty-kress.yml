@@ -5,7 +5,7 @@ latitude: 50.5534997
 longitude: 9.682465500000001
 postcode: 36037
 city: Fulda
-street: Heinrichstraße
+street: "Heinrichstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

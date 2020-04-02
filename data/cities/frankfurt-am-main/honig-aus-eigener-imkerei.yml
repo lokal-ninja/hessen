@@ -5,7 +5,7 @@ latitude: 50.1439365
 longitude: 8.7256021
 postcode: 60389
 city: Frankfurt am Main
-street: Ellerstraße
+street: "Ellerstraße"
 housenumber: 5
 phone: "+49 171 4874495"
 opening_hours: ""

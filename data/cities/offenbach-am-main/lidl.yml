@@ -5,7 +5,7 @@ latitude: 50.0969363
 longitude: 8.7902421
 postcode: 63071
 city: Offenbach am Main
-street: Bieberer Straße
+street: "Bieberer Straße"
 housenumber: 225
 phone: "+49 800 4353361"
 opening_hours: ""

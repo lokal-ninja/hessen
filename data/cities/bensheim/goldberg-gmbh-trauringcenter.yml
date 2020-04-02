@@ -5,7 +5,7 @@ latitude: 49.699717
 longitude: 8.622297600000001
 postcode: 64625
 city: Bensheim
-street: Diefenbachweg
+street: "Diefenbachweg"
 housenumber: 2
 phone: "+49 6251 787728"
 opening_hours: ""

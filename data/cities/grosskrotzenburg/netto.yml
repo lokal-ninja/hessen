@@ -5,7 +5,7 @@ latitude: 50.0771457
 longitude: 8.9975438
 postcode: 63538
 city: Großkrotzenburg
-street: Marie-Curie-Straße
+street: "Marie-Curie-Straße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

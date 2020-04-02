@@ -5,7 +5,7 @@ latitude: 50.122064200000004
 longitude: 8.7698718
 postcode: 60386
 city: Frankfurt am Main
-street: Pfortenstraße
+street: "Pfortenstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Su 07:00-22:00"

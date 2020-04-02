@@ -5,7 +5,7 @@ latitude: 51.071997
 longitude: 9.255060400000001
 postcode: 34582
 city: Borken
-street: Hundsburgstraße
+street: "Hundsburgstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-14:00"

@@ -5,7 +5,7 @@ latitude: 50.6755903
 longitude: 8.2787068
 postcode: 35745
 city: Herborn
-street: Im Breiten Boden
+street: "Im Breiten Boden"
 housenumber: 2
 phone: "+49 2772 571663"
 opening_hours: "24/7"

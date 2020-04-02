@@ -5,7 +5,7 @@ latitude: 49.8722007
 longitude: 8.6562084
 postcode: 64283
 city: Darmstadt
-street: Schustergasse
+street: "Schustergasse"
 housenumber: 5
 phone: "+49 6151 25028"
 opening_hours: "Tu,We 08:00-13:00,14:00-18:00, Th,Fr 08:00-18:00, Sa 07:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.875880800000004
 longitude: 8.659963600000001
 postcode: 64289
 city: Darmstadt
-street: Magdalenenstraße
+street: "Magdalenenstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

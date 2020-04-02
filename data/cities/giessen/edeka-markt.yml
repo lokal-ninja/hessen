@@ -5,7 +5,7 @@ latitude: 50.587799700000005
 longitude: 8.692810900000001
 postcode: 35394
 city: Gießen
-street: Tannenweg
+street: "Tannenweg"
 housenumber: 19
 phone: ""
 opening_hours: ""

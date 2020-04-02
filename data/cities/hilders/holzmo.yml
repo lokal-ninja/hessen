@@ -5,7 +5,7 @@ latitude: 50.5577369
 longitude: 10.007898200000001
 postcode: 36115
 city: Hilders
-street: Krautacker
+street: "Krautacker"
 housenumber: 2
 phone: "+49 6681 302"
 opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00; We off"

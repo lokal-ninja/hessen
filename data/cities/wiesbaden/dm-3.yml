@@ -5,7 +5,7 @@ latitude: 50.087963900000005
 longitude: 8.2893902
 postcode: 65191
 city: Wiesbaden
-street: Rostocker Straße
+street: "Rostocker Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

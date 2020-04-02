@@ -5,7 +5,7 @@ latitude: 49.6783025
 longitude: 9.004958100000001
 postcode: 64720
 city: Michelstadt
-street: Braunstraße
+street: "Braunstraße"
 housenumber: 9
 phone: ""
 opening_hours: "We-Fr 10:00-18:00; Sa 10:00-16:00"

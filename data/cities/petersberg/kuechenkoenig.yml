@@ -5,7 +5,7 @@ latitude: 50.6191174
 longitude: 9.7236211
 postcode: 36100
 city: Petersberg
-street: Postweg
+street: "Postweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.5869732
 longitude: 8.6836684
 postcode: 35390
 city: Gießen
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 09:30-14:00"

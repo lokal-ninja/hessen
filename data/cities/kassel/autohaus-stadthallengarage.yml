@@ -5,7 +5,7 @@ latitude: 51.3182138
 longitude: 9.4623436
 postcode: 34119
 city: Kassel
-street: Breitscheidstraße
+street: "Breitscheidstraße"
 housenumber: 37
 phone: "+49 561 103831"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.323505000000004
 longitude: 9.5126842
 postcode: 34125
 city: Kassel
-street: Weserstraße
+street: "Weserstraße"
 housenumber: 43
 phone: "+49 561 84096304"
 opening_hours: "Mo-Su 06:00-22:00"

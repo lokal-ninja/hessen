@@ -5,7 +5,7 @@ latitude: 50.9104481
 longitude: 9.1890769
 postcode: 34613
 city: Schwalmstadt
-street: Stephanstraße
+street: "Stephanstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

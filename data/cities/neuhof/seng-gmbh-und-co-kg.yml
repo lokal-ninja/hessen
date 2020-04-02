@@ -5,7 +5,7 @@ latitude: 50.469097600000005
 longitude: 9.6731622
 postcode: 36119
 city: Neuhof
-street: Kerzeller Straße
+street: "Kerzeller Straße"
 housenumber: 31
 phone: "+49 6655 3064"
 opening_hours: ""

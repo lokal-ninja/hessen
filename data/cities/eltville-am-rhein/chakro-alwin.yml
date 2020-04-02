@@ -5,7 +5,7 @@ latitude: 50.0272456
 longitude: 8.1208532
 postcode: 65343
 city: Eltville am Rhein
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 9
 phone: "+49 176 96733894"
 opening_hours: ""

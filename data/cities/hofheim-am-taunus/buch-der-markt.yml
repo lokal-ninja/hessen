@@ -5,7 +5,7 @@ latitude: 50.0861609
 longitude: 8.443714100000001
 postcode: 65719
 city: Hofheim am Taunus
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 73
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-18:00"

@@ -5,7 +5,7 @@ latitude: 50.0916191
 longitude: 8.6072939
 postcode: 65933
 city: Frankfurt am Main
-street: Alte Falterstraße
+street: "Alte Falterstraße"
 housenumber: 3-5
 phone: "+49 69 3 90 00 20"
 opening_hours: "Mo-Fr 07:00-22:00"

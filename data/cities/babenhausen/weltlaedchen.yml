@@ -5,7 +5,7 @@ latitude: 49.961837100000004
 longitude: 8.953056400000001
 postcode: 64832
 city: Babenhausen
-street: Schloßgasse
+street: "Schloßgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.3205838
 longitude: 9.4910943
 postcode: 34117
 city: Kassel
-street: Grüner Weg
+street: "Grüner Weg"
 housenumber: 34
 phone: "+49 561 18121"
 opening_hours: ""

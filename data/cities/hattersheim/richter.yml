@@ -5,7 +5,7 @@ latitude: 50.04039950000001
 longitude: 8.4673672
 postcode: 65795
 city: Hattersheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

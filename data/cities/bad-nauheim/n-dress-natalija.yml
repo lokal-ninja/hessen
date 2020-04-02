@@ -5,7 +5,7 @@ latitude: 50.3644997
 longitude: 8.7402496
 postcode: 61231
 city: Bad Nauheim
-street: Stresemannstraße
+street: "Stresemannstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

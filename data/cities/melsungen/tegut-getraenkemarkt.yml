@@ -5,7 +5,7 @@ latitude: 51.134199300000006
 longitude: 9.5413165
 postcode: 34212
 city: Melsungen
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 1b
 phone: "+49 5661 929380"
 opening_hours: "Mo-Sa 08:00-22:00"

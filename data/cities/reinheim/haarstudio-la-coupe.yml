@@ -5,7 +5,7 @@ latitude: 49.828692100000005
 longitude: 8.836418400000001
 postcode: 64354
 city: Reinheim
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 31
 phone: "+49 6162 918886"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.8145095
 longitude: 8.768337800000001
 postcode: 35041
 city: Marburg
-street: Ketzerbach
+street: "Ketzerbach"
 housenumber: 8
 phone: ""
 opening_hours: "Tu-Fr 13:00-18:00;Sa 10:00-15:00"

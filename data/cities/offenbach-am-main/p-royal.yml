@@ -5,7 +5,7 @@ latitude: 50.107538700000006
 longitude: 8.761964200000001
 postcode: 63065
 city: Offenbach am Main
-street: Kirchgasse
+street: "Kirchgasse"
 housenumber: 36
 phone: ""
 opening_hours: ""

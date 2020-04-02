@@ -5,7 +5,7 @@ latitude: 50.675544900000006
 longitude: 8.306763700000001
 postcode: 35745
 city: Herborn
-street: Konrad-Adenauer-Straße
+street: "Konrad-Adenauer-Straße"
 housenumber: 25
 phone: "+49 2772 957192"
 opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00"

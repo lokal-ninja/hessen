@@ -5,7 +5,7 @@ latitude: 50.0487881
 longitude: 8.3051885
 postcode: 65205
 city: Wiesbaden
-street: Mittelpfad
+street: "Mittelpfad"
 housenumber: 7
 phone: "+49 611 711171"
 opening_hours: ""

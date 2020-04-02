@@ -5,7 +5,7 @@ latitude: 49.596914600000005
 longitude: 8.737993900000001
 postcode: 69509
 city: Mörlenbach
-street: Annastraße
+street: "Annastraße"
 housenumber: 3
 phone: "+49-6209-4123"
 opening_hours: ""

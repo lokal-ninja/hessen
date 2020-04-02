@@ -5,7 +5,7 @@ latitude: 50.111513200000005
 longitude: 8.6846884
 postcode: 60311
 city: Frankfurt am Main
-street: Domstraße
+street: "Domstraße"
 housenumber: 6
 phone: "+49 69 65601263"
 opening_hours: ""

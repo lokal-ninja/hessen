@@ -5,7 +5,7 @@ latitude: 50.112471400000004
 longitude: 8.684022800000001
 postcode: 60311
 city: Frankfurt am Main
-street: Hasengasse
+street: "Hasengasse"
 housenumber: 3
 phone: "+49 69 21932995"
 opening_hours: "We-Sa 11:00-17:00"

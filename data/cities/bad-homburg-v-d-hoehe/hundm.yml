@@ -5,7 +5,7 @@ latitude: 50.228625900000004
 longitude: 8.612947
 postcode: 61348
 city: Bad Homburg v.d. Höhe
-street: Louisenstraße
+street: "Louisenstraße"
 housenumber: 14-16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.1430602
 longitude: 8.5707071
 postcode: 65760
 city: Eschborn
-street: Unterortstraße
+street: "Unterortstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

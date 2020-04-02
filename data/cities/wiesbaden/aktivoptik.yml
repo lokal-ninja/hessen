@@ -5,7 +5,7 @@ latitude: 50.057731000000004
 longitude: 8.3440922
 postcode: 65205
 city: Wiesbaden
-street: Ostring
+street: "Ostring"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:30-21:00"

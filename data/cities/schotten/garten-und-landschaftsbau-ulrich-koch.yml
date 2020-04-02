@@ -5,7 +5,7 @@ latitude: 50.505245
 longitude: 9.1293168
 postcode: 63679
 city: Schotten
-street: Vogelsbergstraße
+street: "Vogelsbergstraße"
 housenumber: 157
 phone: ""
 opening_hours: ""

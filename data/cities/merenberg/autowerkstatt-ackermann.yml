@@ -5,7 +5,7 @@ latitude: 50.4993514
 longitude: 8.2065031
 postcode: 35799
 city: Merenberg
-street: Limburger Straße
+street: "Limburger Straße"
 housenumber: 51
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:30; Sa 09:00-13:00"

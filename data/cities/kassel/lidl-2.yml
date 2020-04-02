@@ -5,7 +5,7 @@ latitude: 51.2825421
 longitude: 9.4417544
 postcode: 34132
 city: Kassel
-street: Brückenhofstraße
+street: "Brückenhofstraße"
 housenumber: 77
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

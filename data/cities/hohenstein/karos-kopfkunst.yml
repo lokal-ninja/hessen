@@ -5,7 +5,7 @@ latitude: 50.1892055
 longitude: 8.122230100000001
 postcode: 65329
 city: Hohenstein
-street: Heimannstraße
+street: "Heimannstraße"
 housenumber: 11
 phone: "+49 6128 8594676"
 opening_hours: ""

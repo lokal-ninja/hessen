@@ -5,7 +5,7 @@ latitude: 50.826457700000006
 longitude: 9.011452
 postcode: 35260
 city: Stadtallendorf
-street: Herrenwaldstraße
+street: "Herrenwaldstraße"
 housenumber: 6b
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

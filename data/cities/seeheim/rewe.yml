@@ -5,7 +5,7 @@ latitude: 49.7750087
 longitude: 8.6373551
 postcode: 64342
 city: Seeheim
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 18 a
 phone: "+49 6257 505651"
 opening_hours: "Mo-Sa 07:00-21:30; Su off"

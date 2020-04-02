@@ -5,7 +5,7 @@ latitude: 49.870311300000004
 longitude: 8.551991600000001
 postcode: 64347
 city: Griesheim
-street: Feldstraße
+street: "Feldstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.5520444
 longitude: 9.676817600000001
 postcode: 36037
 city: Fulda
-street: Nonnengasse
+street: "Nonnengasse"
 housenumber: 1
 phone: ""
 opening_hours: ""

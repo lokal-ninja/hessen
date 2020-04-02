@@ -5,7 +5,7 @@ latitude: 50.3636825
 longitude: 8.7400529
 postcode: 61231
 city: Bad Nauheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.837689600000004
 longitude: 8.9019715
 postcode: 64853
 city: Otzberg
-street: Habitzheimer Straße
+street: "Habitzheimer Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

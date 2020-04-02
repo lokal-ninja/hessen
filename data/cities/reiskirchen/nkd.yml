@@ -5,7 +5,7 @@ latitude: 50.599020700000004
 longitude: 8.8217631
 postcode: 35447
 city: Reiskirchen
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

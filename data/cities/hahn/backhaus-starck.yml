@@ -5,7 +5,7 @@ latitude: 49.795068400000005
 longitude: 8.552513900000001
 postcode: 64319
 city: Hahn
-street: Gernsheimer Straße
+street: "Gernsheimer Straße"
 housenumber: 113
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.9757863
 longitude: 8.4481448
 postcode: 65428
 city: Rüsselsheim am Main
-street: Alexander-Fleming-Ring
+street: "Alexander-Fleming-Ring"
 housenumber: 39
 phone: "+49 6142 161699"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"

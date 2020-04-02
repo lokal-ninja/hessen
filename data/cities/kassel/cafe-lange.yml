@@ -5,7 +5,7 @@ latitude: 51.315641400000004
 longitude: 9.4773207
 postcode: 34119
 city: Kassel
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 72
 phone: "+49 561 17138"
 opening_hours: "Mo-Fr 06:00-21:00; Sa, Su, PH 07:00-21:00"

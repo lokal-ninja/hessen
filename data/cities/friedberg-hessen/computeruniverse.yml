@@ -5,7 +5,7 @@ latitude: 50.3239309
 longitude: 8.739170300000001
 postcode: 61169
 city: Friedberg (Hessen)
-street: Grüner Weg
+street: "Grüner Weg"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-14:00"

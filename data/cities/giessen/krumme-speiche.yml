@@ -5,7 +5,7 @@ latitude: 50.6049762
 longitude: 8.7080379
 postcode: 35396
 city: Gießen
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

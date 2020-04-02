@@ -5,7 +5,7 @@ latitude: 49.8892432
 longitude: 8.6403098
 postcode: 64293
 city: Darmstadt
-street: Otto-Röhm-Straße
+street: "Otto-Röhm-Straße"
 housenumber: 76
 phone: "+49 6151 95960"
 opening_hours: "Mo-Sa 07:00-20:00"

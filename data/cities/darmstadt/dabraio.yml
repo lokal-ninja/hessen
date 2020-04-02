@@ -5,7 +5,7 @@ latitude: 49.8747017
 longitude: 8.6511437
 postcode: 64283
 city: Darmstadt
-street: Mathildenplatz
+street: "Mathildenplatz"
 housenumber: 5
 phone: "+49 6151 292398"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.677992800000006
 longitude: 8.2996353
 postcode: 35745
 city: Herborn
-street: Westerwaldstraße
+street: "Westerwaldstraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

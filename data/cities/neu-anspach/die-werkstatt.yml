@@ -5,7 +5,7 @@ latitude: 50.296317800000004
 longitude: 8.514077700000001
 postcode: 61267
 city: Neu-Anspach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 73
 phone: "+49 6081 405951"
 opening_hours: ""

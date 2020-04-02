@@ -5,7 +5,7 @@ latitude: 50.6721847
 longitude: 8.305489600000001
 postcode: 35745
 city: Herborn
-street: Austraße
+street: "Austraße"
 housenumber: 65
 phone: ""
 opening_hours: ""

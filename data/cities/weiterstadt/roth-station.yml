@@ -5,7 +5,7 @@ latitude: 49.8894977
 longitude: 8.6111316
 postcode: 64331
 city: Weiterstadt
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 18
 phone: "+49 6151 859320"
 opening_hours: ""

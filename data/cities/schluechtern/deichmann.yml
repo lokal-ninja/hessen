@@ -5,7 +5,7 @@ latitude: 50.3532914
 longitude: 9.5313289
 postcode: 36381
 city: Schlüchtern
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 23a
 phone: ""
 opening_hours: ""

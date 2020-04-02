@@ -5,7 +5,7 @@ latitude: 49.813684200000004
 longitude: 8.6470581
 postcode: 64297
 city: Darmstadt
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Tu 08:30-20:00, We 08:30-18:00, Th 09:00-20:00, Fr 08:30-18:00, Sa 08:30-14:00"

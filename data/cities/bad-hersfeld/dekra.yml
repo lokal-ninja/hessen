@@ -5,7 +5,7 @@ latitude: 50.855477300000004
 longitude: 9.722833300000001
 postcode: 36251
 city: Bad Hersfeld
-street: Hünfelder Straße
+street: "Hünfelder Straße"
 housenumber: 73
 phone: ""
 opening_hours: ""

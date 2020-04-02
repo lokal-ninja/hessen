@@ -5,7 +5,7 @@ latitude: 50.059490800000006
 longitude: 8.1106967
 postcode: 65345
 city: Eltville am Rhein
-street: Antoniusgasse
+street: "Antoniusgasse"
 housenumber: 1
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 08:30-13:00,15:30-19:00; We 08:30-13:00; Sa 08:00 - 13:00"

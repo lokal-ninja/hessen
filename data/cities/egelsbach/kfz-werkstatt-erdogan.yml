@@ -5,7 +5,7 @@ latitude: 49.9653075
 longitude: 8.671480800000001
 postcode: 63329
 city: Egelsbach
-street: Woogstraße
+street: "Woogstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

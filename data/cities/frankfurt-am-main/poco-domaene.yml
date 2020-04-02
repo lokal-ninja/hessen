@@ -5,7 +5,7 @@ latitude: 50.1299555
 longitude: 8.7398392
 postcode: 60386
 city: Frankfurt am Main
-street: Am Erlenbruch
+street: "Am Erlenbruch"
 housenumber: 136
 phone: ""
 opening_hours: ""

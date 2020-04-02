@@ -5,7 +5,7 @@ latitude: 50.2005053
 longitude: 9.177086800000001
 postcode: 63571
 city: Gelnhausen
-street: Freigerichter Straße
+street: "Freigerichter Straße"
 housenumber: 4
 phone: "+49 6051 12817"
 opening_hours: "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00"

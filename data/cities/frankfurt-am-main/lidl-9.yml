@@ -5,7 +5,7 @@ latitude: 50.133303700000006
 longitude: 8.6962122
 postcode: 60389
 city: Frankfurt am Main
-street: Friedberger Landstraße
+street: "Friedberger Landstraße"
 housenumber: 298
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

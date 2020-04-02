@@ -5,7 +5,7 @@ latitude: 50.106960400000006
 longitude: 8.6874572
 postcode: 60594
 city: Frankfurt am Main
-street: Löherstraße
+street: "Löherstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

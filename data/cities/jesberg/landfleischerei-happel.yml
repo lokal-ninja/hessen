@@ -5,7 +5,7 @@ latitude: 50.974244500000005
 longitude: 9.142483200000001
 postcode: 34632
 city: Jesberg
-street: Am Turnplatz
+street: "Am Turnplatz"
 housenumber: 6
 phone: "+49 6695 252"
 opening_hours: ""

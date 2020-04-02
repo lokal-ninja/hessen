@@ -5,7 +5,7 @@ latitude: 51.131635800000005
 longitude: 9.2750102
 postcode: 34560
 city: Fritzlar
-street: Neustädter Straße
+street: "Neustädter Straße"
 housenumber: 2
 phone: "+49 5622 6206"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"

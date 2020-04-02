@@ -5,7 +5,7 @@ latitude: 51.0574974
 longitude: 8.7942973
 postcode: 35066
 city: Frankenberg (Eder)
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Fr 08:30-13:00,14:30-18:00; Sa 09:00-13:00"

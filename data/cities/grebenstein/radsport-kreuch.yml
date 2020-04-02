@@ -5,7 +5,7 @@ latitude: 51.446801900000004
 longitude: 9.417100000000001
 postcode: 34393
 city: Grebenstein
-street: Graben
+street: "Graben"
 housenumber: 
 phone: "+49 5674 5748"
 opening_hours: "Mo-Tu 10:00-12:00,15:00-18:00; Th-Fr 10:00-12:00,15:00-19:00; Sa 10:00-13:00"

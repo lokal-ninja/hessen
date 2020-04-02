@@ -5,7 +5,7 @@ latitude: 49.9314545
 longitude: 8.6050213
 postcode: 64331
 city: Weiterstadt
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 1
 phone: "+49 173 4025589"
 opening_hours: ""

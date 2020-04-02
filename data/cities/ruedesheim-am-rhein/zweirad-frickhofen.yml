@@ -5,7 +5,7 @@ latitude: 49.979165900000005
 longitude: 7.9308323000000005
 postcode: 65385
 city: Rüdesheim am Rhein
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

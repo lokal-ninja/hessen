@@ -5,7 +5,7 @@ latitude: 49.817852800000004
 longitude: 8.6450612
 postcode: 64297
 city: Darmstadt
-street: Oberstraße
+street: "Oberstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:30; Th 09:00-13:00,14:00-19:30; Sa 09:00-14:00"

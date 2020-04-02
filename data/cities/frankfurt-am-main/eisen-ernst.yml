@@ -5,7 +5,7 @@ latitude: 50.0853704
 longitude: 8.6473659
 postcode: 60528
 city: Frankfurt am Main
-street: Schwarzwaldstraße
+street: "Schwarzwaldstraße"
 housenumber: 48
 phone: ""
 opening_hours: "Mo-Sa 08:30-13:00, Mo-Fr 15:00-18:30"

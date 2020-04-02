@@ -5,7 +5,7 @@ latitude: 50.5856574
 longitude: 8.6967534
 postcode: 35394
 city: Gießen
-street: Grünberger Straße
+street: "Grünberger Straße"
 housenumber: 114
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

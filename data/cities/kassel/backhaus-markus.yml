@@ -5,7 +5,7 @@ latitude: 51.3221781
 longitude: 9.4498525
 postcode: 34130
 city: Kassel
-street: Zentgrafenstraße
+street: "Zentgrafenstraße"
 housenumber: 95
 phone: "+49 561 67 458"
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:00; Su 07:00-11:00"

@@ -5,7 +5,7 @@ latitude: 50.074029900000006
 longitude: 8.2236797
 postcode: 65197
 city: Wiesbaden
-street: Karlsbader Platz
+street: "Karlsbader Platz"
 housenumber: 2-28
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

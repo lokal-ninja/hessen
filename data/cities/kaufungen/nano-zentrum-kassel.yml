@@ -5,7 +5,7 @@ latitude: 51.2845686
 longitude: 9.619004700000001
 postcode: 34260
 city: Kaufungen
-street: Theodor-Heuss-Straße
+street: "Theodor-Heuss-Straße"
 housenumber: 2
 phone: "+49 5605 92 83 82"
 opening_hours: "Mo-Fr 08:00-17:00"

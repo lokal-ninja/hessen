@@ -5,7 +5,7 @@ latitude: 50.586545
 longitude: 8.6750261
 postcode: 35390
 city: Gießen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 06:30-19:00; Su 07:30-17:30"

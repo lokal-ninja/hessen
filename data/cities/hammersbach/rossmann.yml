@@ -5,7 +5,7 @@ latitude: 50.242976000000006
 longitude: 8.994568300000001
 postcode: 63546
 city: Hammersbach
-street: Am Lachbach
+street: "Am Lachbach"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

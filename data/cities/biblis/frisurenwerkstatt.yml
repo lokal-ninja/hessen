@@ -5,7 +5,7 @@ latitude: 49.689636
 longitude: 8.4532141
 postcode: 68647
 city: Biblis
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

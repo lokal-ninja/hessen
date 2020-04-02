@@ -5,7 +5,7 @@ latitude: 50.354173200000005
 longitude: 8.9819511
 postcode: 63691
 city: Ranstadt
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 5
 phone: "+49 6041 821913"
 opening_hours: "Mo-Sa07:00-22:00"

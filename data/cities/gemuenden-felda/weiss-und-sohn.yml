@@ -5,7 +5,7 @@ latitude: 50.681522300000005
 longitude: 9.043420000000001
 postcode: 35329
 city: Gemünden (Felda)
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

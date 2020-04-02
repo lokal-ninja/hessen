@@ -5,7 +5,7 @@ latitude: 50.7514346
 longitude: 9.2706848
 postcode: 36304
 city: Alsfeld
-street: Obergasse
+street: "Obergasse"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.662276600000006
 longitude: 8.4483764
 postcode: 68642
 city: Bürstadt
-street: Frankensteinstraße
+street: "Frankensteinstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.794742400000004
 longitude: 8.7631738
 postcode: 35039
 city: Marburg
-street: Frauenbergstraße
+street: "Frauenbergstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-16:00; Su 08:00-12:00; PH 08:00-12:00"

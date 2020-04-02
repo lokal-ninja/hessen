@@ -5,7 +5,7 @@ latitude: 50.021613
 longitude: 8.8787831
 postcode: 63110
 city: Rodgau
-street: Elbinger Straße
+street: "Elbinger Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Th 09:00-13:00,14:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00"

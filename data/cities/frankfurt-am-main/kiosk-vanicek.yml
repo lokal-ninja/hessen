@@ -5,7 +5,7 @@ latitude: 50.105158700000004
 longitude: 8.546181500000001
 postcode: 65929
 city: Frankfurt am Main
-street: Gerlachstraße
+street: "Gerlachstraße"
 housenumber: 30
 phone: "+49 69 301761"
 opening_hours: ""

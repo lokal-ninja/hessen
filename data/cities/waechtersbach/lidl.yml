@@ -5,7 +5,7 @@ latitude: 50.252047000000005
 longitude: 9.29184
 postcode: 63607
 city: Wächtersbach
-street: Main-Kinzig-Straße
+street: "Main-Kinzig-Straße"
 housenumber: 32
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

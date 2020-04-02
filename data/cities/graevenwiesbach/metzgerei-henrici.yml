@@ -5,7 +5,7 @@ latitude: 50.3856338
 longitude: 8.457542100000001
 postcode: 61279
 city: Grävenwiesbach
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 45
 phone: ""
 opening_hours: ""

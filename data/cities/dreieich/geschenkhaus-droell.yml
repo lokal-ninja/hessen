@@ -5,7 +5,7 @@ latitude: 50.0002384
 longitude: 8.7146605
 postcode: 63303
 city: Dreieich
-street: Fahrgasse
+street: "Fahrgasse"
 housenumber: 36-38
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:30-19:00; Sa 09:00-16:00"

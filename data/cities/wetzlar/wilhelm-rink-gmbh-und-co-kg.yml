@@ -5,7 +5,7 @@ latitude: 50.5514261
 longitude: 8.472000300000001
 postcode: 35578
 city: Wetzlar
-street: Siegmund-Hiepe-Straße
+street: "Siegmund-Hiepe-Straße"
 housenumber: 28
 phone: ""
 opening_hours: ""

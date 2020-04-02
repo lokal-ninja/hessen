@@ -5,7 +5,7 @@ latitude: 50.583963600000004
 longitude: 8.6483436
 postcode: 35398
 city: Gießen
-street: Gottlieb-Daimler-Straße
+street: "Gottlieb-Daimler-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.2293594
 longitude: 9.342764500000001
 postcode: 63619
 city: Bad Orb
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 19
 phone: "+49 (0) 6052 92 86 736"
 opening_hours: "Mo-Fr 9:00-19:00, Sa 9:00-18:00"

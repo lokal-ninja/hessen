@@ -5,7 +5,7 @@ latitude: 51.1323438
 longitude: 9.439496700000001
 postcode: 34587
 city: Felsberg
-street: Giesenweg
+street: "Giesenweg"
 housenumber: 3a
 phone: ""
 opening_hours: ""

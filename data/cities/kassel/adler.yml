@@ -5,7 +5,7 @@ latitude: 51.28877790000001
 longitude: 9.4733085
 postcode: 34134
 city: Kassel
-street: Knorrstraße
+street: "Knorrstraße"
 housenumber: 28
 phone: "+49 561 701460"
 opening_hours: "Mo-Sa 09:30-20:00"

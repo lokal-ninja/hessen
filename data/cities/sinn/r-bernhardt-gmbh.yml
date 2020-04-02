@@ -5,7 +5,7 @@ latitude: 50.658618800000006
 longitude: 8.326165300000001
 postcode: 35764
 city: Sinn
-street: Herborner Straße
+street: "Herborner Straße"
 housenumber: 34
 phone: ""
 opening_hours: ""

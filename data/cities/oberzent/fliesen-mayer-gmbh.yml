@@ -5,7 +5,7 @@ latitude: 49.573235000000004
 longitude: 8.9757101
 postcode: 64760
 city: Oberzent
-street: Landrat-Ackermann-Straße
+street: "Landrat-Ackermann-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

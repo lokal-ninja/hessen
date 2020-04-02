@@ -5,7 +5,7 @@ latitude: 49.7414075
 longitude: 9.0046532
 postcode: 64732
 city: Bad König
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 10
 phone: "+49 6063 5779334"
 opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-13:00, So 08:00-17:00"

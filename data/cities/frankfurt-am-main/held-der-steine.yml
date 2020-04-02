@@ -5,7 +5,7 @@ latitude: 50.103057
 longitude: 8.685084100000001
 postcode: 60594
 city: Frankfurt am Main
-street: Laubestraße
+street: "Laubestraße"
 housenumber: 26
 phone: "+49 69 95863972"
 opening_hours: "Th[1] 10:00-19:00; Th[1]+1day 10:00-19:00; Th[1]+2day 10:00-16:00; PH off"

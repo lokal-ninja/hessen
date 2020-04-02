@@ -5,7 +5,7 @@ latitude: 51.3471604
 longitude: 9.856800600000001
 postcode: 37213
 city: Witzenhausen
-street: An der Bohlenbrücke
+street: "An der Bohlenbrücke"
 housenumber: 8
 phone: ""
 opening_hours: ""

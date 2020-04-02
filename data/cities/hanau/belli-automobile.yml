@@ -5,7 +5,7 @@ latitude: 50.150308300000006
 longitude: 8.9287104
 postcode: 63452
 city: Hanau
-street: Moselstraße
+street: "Moselstraße"
 housenumber: 48
 phone: "+49 6181 3040790"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.231340700000004
 longitude: 8.7696097
 postcode: 61184
 city: Karben
-street: Homburger Straße
+street: "Homburger Straße"
 housenumber: 51
 phone: "+49 6039 44442"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:30; Su 08:00-11:00"

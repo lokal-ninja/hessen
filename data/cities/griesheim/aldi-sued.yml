@@ -5,7 +5,7 @@ latitude: 49.868167400000004
 longitude: 8.5545238
 postcode: 64347
 city: Griesheim
-street: Nordring
+street: "Nordring"
 housenumber: 21
 phone: ""
 opening_hours: ""

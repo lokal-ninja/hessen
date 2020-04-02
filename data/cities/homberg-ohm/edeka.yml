@@ -5,7 +5,7 @@ latitude: 50.733730300000005
 longitude: 8.988762000000001
 postcode: 35315
 city: Homberg (Ohm)
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

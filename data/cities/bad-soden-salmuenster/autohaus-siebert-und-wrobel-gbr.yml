@@ -5,7 +5,7 @@ latitude: 50.26809840000001
 longitude: 9.3646887
 postcode: 63628
 city: Bad Soden-Salmünster
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 21
 phone: "+49 6056 209737"
 opening_hours: "Mo-Fr 07:30-17:30; Th 07:30-20:00; Sa 09:00-13:00"

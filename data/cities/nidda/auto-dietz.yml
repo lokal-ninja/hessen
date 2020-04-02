@@ -5,7 +5,7 @@ latitude: 50.464657100000004
 longitude: 9.009810400000001
 postcode: 63667
 city: Nidda
-street: Hinterstraße
+street: "Hinterstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.0958428
 longitude: 8.9529111
 postcode: 63457
 city: Hanau
-street: Brown-Boveri-Straße
+street: "Brown-Boveri-Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

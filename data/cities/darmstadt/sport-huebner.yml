@@ -5,7 +5,7 @@ latitude: 49.870372100000004
 longitude: 8.6535475
 postcode: 64283
 city: Darmstadt
-street: Ludwigsplatz
+street: "Ludwigsplatz"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 10:00-19:00"

@@ -5,7 +5,7 @@ latitude: 51.1944426
 longitude: 10.034697900000001
 postcode: 37269
 city: Eschwege
-street: Niederhoner Straße
+street: "Niederhoner Straße"
 housenumber: 52b
 phone: "+49 5651 95 86-0"
 opening_hours: ""

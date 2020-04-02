@@ -5,7 +5,7 @@ latitude: 49.6794754
 longitude: 8.6209527
 postcode: 64625
 city: Bensheim
-street: Gerbergasse
+street: "Gerbergasse"
 housenumber: 11
 phone: ""
 opening_hours: "Th,Fr 09:00-18:00; Sa 08:00-13:00"

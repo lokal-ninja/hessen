@@ -5,7 +5,7 @@ latitude: 50.1349931
 longitude: 8.840539
 postcode: 63477
 city: Maintal
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 22a
 phone: ""
 opening_hours: ""

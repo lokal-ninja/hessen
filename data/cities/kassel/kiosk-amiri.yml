@@ -5,7 +5,7 @@ latitude: 51.3053552
 longitude: 9.4857291
 postcode: 34121
 city: Kassel
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 71
 phone: "+49 561 73 97 430"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su off"

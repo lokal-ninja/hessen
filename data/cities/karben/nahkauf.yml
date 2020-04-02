@@ -5,7 +5,7 @@ latitude: 50.241044900000006
 longitude: 8.7181336
 postcode: 61184
 city: Karben
-street: Vilbeler Straße
+street: "Vilbeler Straße"
 housenumber: 5-7
 phone: "+49 6039 9340815"
 opening_hours: "Mo-Sa 08:00-20:00"

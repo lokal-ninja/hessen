@@ -5,7 +5,7 @@ latitude: 51.134588
 longitude: 9.5414632
 postcode: 34212
 city: Melsungen
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 52
 phone: "+49 5661 9299261"
 opening_hours: "Mo-Sa 07:00-20:00"

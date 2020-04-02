@@ -5,7 +5,7 @@ latitude: 50.5925128
 longitude: 9.532614200000001
 postcode: 36137
 city: Großenlüder
-street: Lauterbacher Straße
+street: "Lauterbacher Straße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

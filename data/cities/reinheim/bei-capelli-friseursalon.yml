@@ -5,7 +5,7 @@ latitude: 49.833601200000004
 longitude: 8.8326197
 postcode: 64354
 city: Reinheim
-street: Westring
+street: "Westring"
 housenumber: 88
 phone: "+49 6162 809719"
 opening_hours: ""

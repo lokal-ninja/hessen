@@ -5,7 +5,7 @@ latitude: 50.879408000000005
 longitude: 9.6882076
 postcode: 36251
 city: Bad Hersfeld
-street: Homberger Straße
+street: "Homberger Straße"
 housenumber: 138-140
 phone: "+49 231 555770"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"

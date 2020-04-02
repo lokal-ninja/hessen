@@ -5,7 +5,7 @@ latitude: 50.0488082
 longitude: 8.6951097
 postcode: 63263
 city: Neu-Isenburg
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 167-169
 phone: ""
 opening_hours: ""

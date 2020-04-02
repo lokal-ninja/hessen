@@ -5,7 +5,7 @@ latitude: 50.6026195
 longitude: 8.694332000000001
 postcode: 35396
 city: Gießen
-street: Ludwig-Richter-Straße
+street: "Ludwig-Richter-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

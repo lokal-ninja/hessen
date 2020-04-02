@@ -5,7 +5,7 @@ latitude: 49.931706500000004
 longitude: 8.594536600000001
 postcode: 64331
 city: Weiterstadt-Gräfenhausen
-street: Schneppenhäuser Straße
+street: "Schneppenhäuser Straße"
 housenumber: 21
 phone: "+49 6150-5928160"
 opening_hours: "Mo-Sa 07:00-21:30"

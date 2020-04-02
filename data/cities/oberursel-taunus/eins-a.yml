@@ -5,7 +5,7 @@ latitude: 50.1936557
 longitude: 8.588968900000001
 postcode: 61440
 city: Oberursel (Taunus)
-street: Gablonzer Straße
+street: "Gablonzer Straße"
 housenumber: 33
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

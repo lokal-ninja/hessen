@@ -5,7 +5,7 @@ latitude: 50.6217346
 longitude: 9.5061119
 postcode: 36364
 city: Bad Salzschlirf
-street: Riedstraße
+street: "Riedstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

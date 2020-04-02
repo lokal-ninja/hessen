@@ -5,7 +5,7 @@ latitude: 51.341041600000004
 longitude: 9.517164000000001
 postcode: 34125
 city: Kassel
-street: Ihringshäuser Straße
+street: "Ihringshäuser Straße"
 housenumber: 153-159
 phone: ""
 opening_hours: ""

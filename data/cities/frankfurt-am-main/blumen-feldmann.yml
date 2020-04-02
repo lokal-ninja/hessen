@@ -5,7 +5,7 @@ latitude: 50.122202200000004
 longitude: 8.7000173
 postcode: 60316
 city: Frankfurt am Main
-street: Berger Straße
+street: "Berger Straße"
 housenumber: 108
 phone: "+49 69 435097"
 opening_hours: ""

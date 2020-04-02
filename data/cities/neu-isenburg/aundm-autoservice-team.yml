@@ -5,7 +5,7 @@ latitude: 50.0497862
 longitude: 8.691466700000001
 postcode: 63263
 city: Neu-Isenburg
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 137-139
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00"

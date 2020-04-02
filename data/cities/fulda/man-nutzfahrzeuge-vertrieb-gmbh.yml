@@ -5,7 +5,7 @@ latitude: 50.536787600000004
 longitude: 9.678173300000001
 postcode: 36043
 city: Fulda
-street: Mainstraße
+street: "Mainstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

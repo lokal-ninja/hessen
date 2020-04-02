@@ -5,7 +5,7 @@ latitude: 49.9699351
 longitude: 8.3886128
 postcode: 65428
 city: Bischofsheim
-street: Am Steinmarkt
+street: "Am Steinmarkt"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 8:00-21:30"

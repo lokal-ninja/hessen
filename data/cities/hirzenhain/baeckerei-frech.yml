@@ -5,7 +5,7 @@ latitude: 50.3908282
 longitude: 9.1357348
 postcode: 63697
 city: Hirzenhain
-street: Karl-Birx-Straße
+street: "Karl-Birx-Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

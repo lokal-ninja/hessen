@@ -5,7 +5,7 @@ latitude: 50.786656900000004
 longitude: 8.319048
 postcode: 35713
 city: Eschenburg
-street: Frohnhäuser Straße
+street: "Frohnhäuser Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

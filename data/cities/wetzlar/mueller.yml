@@ -5,7 +5,7 @@ latitude: 50.560814300000004
 longitude: 8.502700200000001
 postcode: 35576
 city: Wetzlar
-street: Buderusplatz
+street: "Buderusplatz"
 housenumber: 2
 phone: "+49 6441 500070"
 opening_hours: ""

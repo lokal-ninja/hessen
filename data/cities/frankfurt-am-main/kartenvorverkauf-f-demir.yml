@@ -5,7 +5,7 @@ latitude: 50.1235171
 longitude: 8.642588100000001
 postcode: 60487
 city: Frankfurt am Main
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 81
 phone: ""
 opening_hours: "08:00-18:00"

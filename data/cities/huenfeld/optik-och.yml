@@ -5,7 +5,7 @@ latitude: 50.6725648
 longitude: 9.765958300000001
 postcode: 36088
 city: Hünfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2
 phone: "+49 6652 748222"
 opening_hours: "Mo-Fr 08:30-13:30,15:00-18:00; Sa 09:00-13:00"

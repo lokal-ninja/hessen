@@ -5,7 +5,7 @@ latitude: 51.343920000000004
 longitude: 9.445716000000001
 postcode: 34128
 city: Kassel
-street: Zum Hirtenkamp
+street: "Zum Hirtenkamp"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

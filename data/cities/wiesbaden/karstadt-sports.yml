@@ -5,7 +5,7 @@ latitude: 50.083391400000004
 longitude: 8.2393999
 postcode: 65183
 city: Wiesbaden
-street: Langgasse
+street: "Langgasse"
 housenumber: 5-9
 phone: "+49 611 160249100"
 opening_hours: "Mo-Sa 10:00-20:00"

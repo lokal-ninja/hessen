@@ -5,7 +5,7 @@ latitude: 50.5922526
 longitude: 8.955863
 postcode: 35305
 city: Grünberg
-street: Diebsturmstraße
+street: "Diebsturmstraße"
 housenumber: 15
 phone: "+49 6401 903023"
 opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-14:00"

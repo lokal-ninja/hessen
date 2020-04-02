@@ -5,7 +5,7 @@ latitude: 50.1451171
 longitude: 8.647575
 postcode: 60431
 city: Frankfurt am Main
-street: Woogstraße
+street: "Woogstraße"
 housenumber: 21
 phone: "+49 69 95294844"
 opening_hours: ""

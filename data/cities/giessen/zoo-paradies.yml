@@ -5,7 +5,7 @@ latitude: 50.602303500000005
 longitude: 8.704041
 postcode: 35396
 city: Gießen
-street: Gießener Straße
+street: "Gießener Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

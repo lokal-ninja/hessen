@@ -5,7 +5,7 @@ latitude: 51.1352783
 longitude: 9.427347900000001
 postcode: 34587
 city: Felsberg
-street: Zum Haintor
+street: "Zum Haintor"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

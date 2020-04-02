@@ -5,7 +5,7 @@ latitude: 49.870124700000005
 longitude: 8.654423000000001
 postcode: 64283
 city: Darmstadt
-street: Schützenstraße
+street: "Schützenstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

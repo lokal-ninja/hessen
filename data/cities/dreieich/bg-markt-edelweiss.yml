@@ -5,7 +5,7 @@ latitude: 50.021473500000006
 longitude: 8.695677700000001
 postcode: 63303
 city: Dreieich
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 25b
 phone: "+49 1578 4383930"
 opening_hours: ""

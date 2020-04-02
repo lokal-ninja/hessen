@@ -5,7 +5,7 @@ latitude: 49.7688714
 longitude: 8.642549500000001
 postcode: 64342
 city: Seeheim-Jugenheim
-street: Beethovenring
+street: "Beethovenring"
 housenumber: 59
 phone: "+49 6257 86318"
 opening_hours: ""

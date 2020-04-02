@@ -5,7 +5,7 @@ latitude: 51.04540050000001
 longitude: 9.2792954
 postcode: 34582
 city: Borken
-street: Gellenweg
+street: "Gellenweg"
 housenumber: 12-14
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

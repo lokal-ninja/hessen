@@ -5,7 +5,7 @@ latitude: 51.10521060000001
 longitude: 9.3492305
 postcode: 34590
 city: Wabern
-street: Alte Kasseler Straße
+street: "Alte Kasseler Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:30-20:00"

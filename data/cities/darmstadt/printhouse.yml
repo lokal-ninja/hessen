@@ -5,7 +5,7 @@ latitude: 49.8732868
 longitude: 8.6457932
 postcode: 64283
 city: Darmstadt
-street: Gagernstraße
+street: "Gagernstraße"
 housenumber: 12
 phone: "+49 6151 9963111"
 opening_hours: "Mo-Th 09:30-17:30, Fr 09:30-16:00"

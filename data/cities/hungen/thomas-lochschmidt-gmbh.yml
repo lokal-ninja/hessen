@@ -5,7 +5,7 @@ latitude: 50.47311070000001
 longitude: 8.912500900000001
 postcode: 35410
 city: Hungen
-street: Mohastraße
+street: "Mohastraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.4293478
 longitude: 8.6829175
 postcode: 35510
 city: Butzbach
-street: In der Alböhn
+street: "In der Alböhn"
 housenumber: 9
 phone: "+49 6033 98700"
 opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-13:00"

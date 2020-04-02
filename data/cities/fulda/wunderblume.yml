@@ -5,7 +5,7 @@ latitude: 50.5615114
 longitude: 9.674703800000001
 postcode: 36039
 city: Fulda
-street: Gerloser Weg
+street: "Gerloser Weg"
 housenumber: 20
 phone: ""
 opening_hours: ""

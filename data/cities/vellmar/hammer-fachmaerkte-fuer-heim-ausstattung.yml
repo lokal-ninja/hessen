@@ -5,7 +5,7 @@ latitude: 51.3470686
 longitude: 9.474663300000001
 postcode: 34246
 city: Vellmar
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

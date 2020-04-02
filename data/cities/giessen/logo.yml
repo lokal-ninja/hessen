@@ -5,7 +5,7 @@ latitude: 50.5745596
 longitude: 8.6833258
 postcode: 35394
 city: Gießen
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

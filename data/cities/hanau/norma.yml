@@ -5,7 +5,7 @@ latitude: 50.1400936
 longitude: 8.922661100000001
 postcode: 63450
 city: Hanau
-street: Nordstraße
+street: "Nordstraße"
 housenumber: 71-73
 phone: ""
 opening_hours: "Mo-Sa 7:00-20:00"

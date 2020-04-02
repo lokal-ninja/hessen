@@ -5,7 +5,7 @@ latitude: 50.8459628
 longitude: 8.6618445
 postcode: 35094
 city: Lahntal
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 4
 phone: "+49 6420 352"
 opening_hours: ""

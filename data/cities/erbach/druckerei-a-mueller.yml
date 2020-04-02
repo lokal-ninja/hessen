@@ -5,7 +5,7 @@ latitude: 49.659803700000005
 longitude: 8.992887300000001
 postcode: 
 city: Erbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

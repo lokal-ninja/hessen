@@ -5,7 +5,7 @@ latitude: 50.829033700000004
 longitude: 8.769688200000001
 postcode: 35039
 city: Marburg
-street: Afföllerstraße
+street: "Afföllerstraße"
 housenumber: 86
 phone: ""
 opening_hours: ""

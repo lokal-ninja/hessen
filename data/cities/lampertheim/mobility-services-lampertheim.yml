@@ -5,7 +5,7 @@ latitude: 49.5962983
 longitude: 8.489587700000001
 postcode: 68623
 city: Lampertheim
-street: Gaußstraße
+street: "Gaußstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

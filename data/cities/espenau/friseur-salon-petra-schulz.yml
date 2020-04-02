@@ -5,7 +5,7 @@ latitude: 51.399543300000005
 longitude: 9.472689
 postcode: 34314
 city: Espenau
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:30"

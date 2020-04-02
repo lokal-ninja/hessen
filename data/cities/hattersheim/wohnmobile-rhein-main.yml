@@ -5,7 +5,7 @@ latitude: 50.0643873
 longitude: 8.481594000000001
 postcode: 65795
 city: Hattersheim
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 45
 phone: ""
 opening_hours: ""

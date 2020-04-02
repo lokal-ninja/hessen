@@ -5,7 +5,7 @@ latitude: 51.1261074
 longitude: 9.124440100000001
 postcode: 34537
 city: Bad Wildungen
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

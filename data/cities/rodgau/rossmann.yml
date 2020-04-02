@@ -5,7 +5,7 @@ latitude: 49.9983188
 longitude: 8.8810898
 postcode: 63110
 city: Rodgau
-street: Hainburgstraße
+street: "Hainburgstraße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

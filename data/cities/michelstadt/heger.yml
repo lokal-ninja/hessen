@@ -5,7 +5,7 @@ latitude: 49.678980900000006
 longitude: 9.0036847
 postcode: 64720
 city: Michelstadt
-street: Große Gasse
+street: "Große Gasse"
 housenumber: 4
 phone: "+49 6061 70 50 85"
 opening_hours: ""

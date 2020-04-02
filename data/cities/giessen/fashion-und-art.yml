@@ -5,7 +5,7 @@ latitude: 50.584160000000004
 longitude: 8.671039200000001
 postcode: 35390
 city: Gießen
-street: Reichensand
+street: "Reichensand"
 housenumber: 5
 phone: ""
 opening_hours: ""

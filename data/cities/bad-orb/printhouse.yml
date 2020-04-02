@@ -5,7 +5,7 @@ latitude: 50.2174769
 longitude: 9.349597300000001
 postcode: 63619
 city: Bad Orb
-street: Birkenallee
+street: "Birkenallee"
 housenumber: 2 A
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.456651300000004
 longitude: 8.731752
 postcode: 35516
 city: Münzenberg
-street: Butzbacher Straße
+street: "Butzbacher Straße"
 housenumber: 14
 phone: ""
 opening_hours: ""

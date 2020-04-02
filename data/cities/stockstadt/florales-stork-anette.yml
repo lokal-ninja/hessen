@@ -5,7 +5,7 @@ latitude: 49.80832040000001
 longitude: 8.4658931
 postcode: 64589
 city: Stockstadt
-street: Oberstraße
+street: "Oberstraße"
 housenumber: 11
 phone: "+49 6158 828115"
 opening_hours: ""

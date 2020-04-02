@@ -5,7 +5,7 @@ latitude: 50.580428000000005
 longitude: 8.664288800000001
 postcode: 35390
 city: Gießen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

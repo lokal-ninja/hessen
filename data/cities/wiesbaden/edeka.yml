@@ -5,7 +5,7 @@ latitude: 50.082374200000004
 longitude: 8.2625958
 postcode: 65189
 city: Wiesbaden
-street: Bierstadter Straße
+street: "Bierstadter Straße"
 housenumber: 53
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

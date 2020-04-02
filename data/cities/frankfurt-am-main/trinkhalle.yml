@@ -5,7 +5,7 @@ latitude: 50.1243093
 longitude: 8.675644700000001
 postcode: 60322
 city: Frankfurt am Main
-street: Wolfsgangstraße
+street: "Wolfsgangstraße"
 housenumber: 70
 phone: ""
 opening_hours: ""

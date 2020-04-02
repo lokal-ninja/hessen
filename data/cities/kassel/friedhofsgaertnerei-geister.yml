@@ -5,7 +5,7 @@ latitude: 51.339110700000006
 longitude: 9.4413104
 postcode: 34128
 city: Kassel
-street: Am Stockweg
+street: "Am Stockweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mar-Nov: Mo-Fr 09:00-18:00; Mar-Nov: Sa 09:00-13:00; Dec-Feb: Mo-Fr 09:00-17:00; Dec-Feb: Sa 10:00-13:00"

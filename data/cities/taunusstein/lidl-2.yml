@@ -5,7 +5,7 @@ latitude: 50.1703756
 longitude: 8.2205299
 postcode: 65232
 city: Taunusstein
-street: Auf dem kleinen Feld
+street: "Auf dem kleinen Feld"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00"

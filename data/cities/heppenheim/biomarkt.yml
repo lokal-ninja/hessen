@@ -5,7 +5,7 @@ latitude: 49.642396500000004
 longitude: 8.6432566
 postcode: 64646
 city: Heppenheim
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:30"

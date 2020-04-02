@@ -5,7 +5,7 @@ latitude: 51.3420544
 longitude: 9.518294000000001
 postcode: 34233
 city: Fuldatal
-street: Ihringshäuser Straße
+street: "Ihringshäuser Straße"
 housenumber: 161
 phone: "+49 561 81690566"
 opening_hours: ""

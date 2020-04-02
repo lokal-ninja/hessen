@@ -5,7 +5,7 @@ latitude: 51.3156443
 longitude: 9.494244400000001
 postcode: 34117
 city: Kassel
-street: Treppenstraße
+street: "Treppenstraße"
 housenumber: 8
 phone: "+49 561 7397673"
 opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-19:00"

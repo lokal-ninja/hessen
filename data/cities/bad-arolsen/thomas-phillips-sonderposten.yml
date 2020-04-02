@@ -5,7 +5,7 @@ latitude: 51.379659700000005
 longitude: 9.0061782
 postcode: 34454
 city: Bad Arolsen
-street: Teichstraße
+street: "Teichstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

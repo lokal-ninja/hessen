@@ -5,7 +5,7 @@ latitude: 50.544924200000004
 longitude: 8.536811100000001
 postcode: 35578
 city: Wetzlar
-street: Unter der Linde
+street: "Unter der Linde"
 housenumber: 9
 phone: "+49 6441 2048639"
 opening_hours: ""

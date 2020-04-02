@@ -5,7 +5,7 @@ latitude: 49.87049450000001
 longitude: 8.6551788
 postcode: 64283
 city: Darmstadt
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 3
 phone: "+49 6151 296138"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00"

@@ -5,7 +5,7 @@ latitude: 50.2746745
 longitude: 8.805726400000001
 postcode: 61194
 city: Niddatal
-street: Am Steinacker
+street: "Am Steinacker"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

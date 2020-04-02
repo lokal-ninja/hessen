@@ -5,7 +5,7 @@ latitude: 49.809621400000005
 longitude: 8.470597900000001
 postcode: 64589
 city: Stockstadt
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 9
 phone: "+49 6158 86162"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.2243742
 longitude: 9.3496548
 postcode: 63619
 city: Bad Orb
-street: Ludwig-Schmank-Straße
+street: "Ludwig-Schmank-Straße"
 housenumber: 3
 phone: ""
 opening_hours: ""

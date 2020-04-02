@@ -5,7 +5,7 @@ latitude: 51.278998
 longitude: 9.453652400000001
 postcode: 34132
 city: Kassel
-street: Oberzwehrener Straße
+street: "Oberzwehrener Straße"
 housenumber: 26
 phone: "+49 561 50397202"
 opening_hours: "Tu-Fr 15:00-18:30;Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.987662400000005
 longitude: 7.972098300000001
 postcode: 65366
 city: Geisenheim
-street: Pflänzerstraße
+street: "Pflänzerstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

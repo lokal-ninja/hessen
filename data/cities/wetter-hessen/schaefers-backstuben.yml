@@ -5,7 +5,7 @@ latitude: 50.903688
 longitude: 8.7251826
 postcode: 35083
 city: Wetter (Hessen)
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1
 phone: "+49 64 23 541069"
 opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-13:00; Su 07:30-17:00"

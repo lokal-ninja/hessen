@@ -5,7 +5,7 @@ latitude: 50.7134712
 longitude: 9.576538300000001
 postcode: 36110
 city: Schlitz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

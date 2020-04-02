@@ -5,7 +5,7 @@ latitude: 49.678811800000005
 longitude: 9.0004936
 postcode: 64720
 city: Michelstadt
-street: Wiesenweg
+street: "Wiesenweg"
 housenumber: 25
 phone: ""
 opening_hours: ""

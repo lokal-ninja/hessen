@@ -5,7 +5,7 @@ latitude: 50.11638790000001
 longitude: 8.783123400000001
 postcode: 63075
 city: Offenbach am Main
-street: Offenbacher Straße
+street: "Offenbacher Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

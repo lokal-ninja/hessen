@@ -5,7 +5,7 @@ latitude: 50.3972227
 longitude: 8.0550178
 postcode: 65549
 city: Limburg a. d. Lahn
-street: Westerwaldstraße
+street: "Westerwaldstraße"
 housenumber: 117
 phone: "+49 6431 2197730"
 opening_hours: "Mo-Sa 09:00-20:00"

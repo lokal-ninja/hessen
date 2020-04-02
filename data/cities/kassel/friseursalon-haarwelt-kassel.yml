@@ -5,7 +5,7 @@ latitude: 51.3054883
 longitude: 9.528426300000001
 postcode: 34123
 city: Kassel
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 179
 phone: "+49 561 53769"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"

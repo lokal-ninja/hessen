@@ -5,7 +5,7 @@ latitude: 50.052370700000004
 longitude: 7.7835248
 postcode: 65391
 city: Lorch
-street: Rheinallee
+street: "Rheinallee"
 housenumber: 8
 phone: "+49-6726-699"
 opening_hours: ""

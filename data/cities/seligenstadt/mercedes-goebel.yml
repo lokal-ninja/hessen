@@ -5,7 +5,7 @@ latitude: 50.0388591
 longitude: 8.9854483
 postcode: 63500
 city: Seligenstadt
-street: Aschaffenburger Straße
+street: "Aschaffenburger Straße"
 housenumber: 80
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00"

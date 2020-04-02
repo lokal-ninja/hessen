@@ -5,7 +5,7 @@ latitude: 49.886945700000005
 longitude: 8.6097651
 postcode: 64331
 city: Weiterstadt
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 56
 phone: "+49 6151 891837"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"

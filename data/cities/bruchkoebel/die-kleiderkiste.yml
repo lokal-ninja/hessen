@@ -5,7 +5,7 @@ latitude: 50.1786693
 longitude: 8.9229146
 postcode: 63486
 city: Bruchköbel
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 79a
 phone: "+49 6181 9397149"
 opening_hours: "Tu,Fr 09:00-12:30,15:00-18:00; Th 09:00-12:30,15:00-19:00; Sa 10:00-13:00"

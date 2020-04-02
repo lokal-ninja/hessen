@@ -5,7 +5,7 @@ latitude: 50.044107200000006
 longitude: 8.2413685
 postcode: 65203
 city: Wiesbaden
-street: Straße der Republik
+street: "Straße der Republik"
 housenumber: 19a
 phone: "+49 611 6092419"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

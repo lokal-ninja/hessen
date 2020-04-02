@@ -5,7 +5,7 @@ latitude: 49.9116355
 longitude: 8.4881434
 postcode: 64521
 city: Groß-Gerau
-street: Odenwaldstraße
+street: "Odenwaldstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

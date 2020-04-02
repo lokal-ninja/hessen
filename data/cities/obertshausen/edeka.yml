@@ -5,7 +5,7 @@ latitude: 50.0650807
 longitude: 8.8407979
 postcode: 63179
 city: Obertshausen
-street: Malteserstraße
+street: "Malteserstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

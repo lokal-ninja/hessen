@@ -5,7 +5,7 @@ latitude: 51.3133823
 longitude: 9.4449176
 postcode: 34131
 city: Kassel
-street: Wilhelmshöher Allee
+street: "Wilhelmshöher Allee"
 housenumber: 257
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.7670874
 longitude: 8.6449348
 postcode: 64342
 city: Seeheim-Jugenheim
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 21
 phone: "+49 6257 9994457"
 opening_hours: "Mo-Fr 09:00-12:30; Mo,Tu,Th,Fr 14:30-18:30; Sa,Su off"

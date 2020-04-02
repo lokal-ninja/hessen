@@ -5,7 +5,7 @@ latitude: 51.325250700000005
 longitude: 9.1731981
 postcode: 34466
 city: Wolfhagen
-street: Hans-Staden-Straße
+street: "Hans-Staden-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"

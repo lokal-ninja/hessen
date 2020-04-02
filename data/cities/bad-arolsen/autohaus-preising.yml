@@ -5,7 +5,7 @@ latitude: 51.34278260000001
 longitude: 9.0853575
 postcode: 34454
 city: Bad Arolsen
-street: Arolser Straße
+street: "Arolser Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.0303788
 longitude: 9.0258489
 postcode: 63533
 city: Mainhausen
-street: Brüder-Grimm-Straße
+street: "Brüder-Grimm-Straße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:00; Su 08:00-11:00; PH 08:00-11:00"

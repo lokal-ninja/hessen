@@ -5,7 +5,7 @@ latitude: 50.5387598
 longitude: 9.710869800000001
 postcode: 36093
 city: Künzell
-street: Im Hahlfeld
+street: "Im Hahlfeld"
 housenumber: 23
 phone: "+49 661 33483"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 06:30-13:30"

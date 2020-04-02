@@ -5,7 +5,7 @@ latitude: 49.967558700000005
 longitude: 8.5598404
 postcode: 64546
 city: Mörfelden-Walldorf
-street: Gerauer Straße
+street: "Gerauer Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.0707547
 longitude: 8.2350747
 postcode: 65187
 city: Wiesbaden
-street: Klopstockstraße
+street: "Klopstockstraße"
 housenumber: 5
 phone: "+49 611 844868"
 opening_hours: "Mo-Fr 08:00-13:00, Mo-Fr 15:00-18:30, Sa 08:00-13:00"

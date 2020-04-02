@@ -5,7 +5,7 @@ latitude: 50.0103373
 longitude: 8.349115000000001
 postcode: 65239
 city: Hochheim am Main
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 17
 phone: "+49 6146 7620"
 opening_hours: "We,Th, Fr,Sa 17:00+; Su, PH 12:00+; Mo,Tu off"

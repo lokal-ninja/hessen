@@ -5,7 +5,7 @@ latitude: 50.8384214
 longitude: 8.7709236
 postcode: 35041
 city: Marburg
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

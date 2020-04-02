@@ -5,7 +5,7 @@ latitude: 49.907560600000004
 longitude: 8.582312
 postcode: 64331
 city: Weiterstadt
-street: Kreuzstraße
+street: "Kreuzstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Tu,Th,Fr 10:00-19:00; Sa 09:00-14:00"

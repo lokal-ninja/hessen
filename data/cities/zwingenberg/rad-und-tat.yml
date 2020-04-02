@@ -5,7 +5,7 @@ latitude: 49.726581100000004
 longitude: 8.6106768
 postcode: 
 city: Zwingenberg
-street: Walter-Möller-Straße
+street: "Walter-Möller-Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Tu-Fr 10:00-12:30, 14:30-18:30; Sa 10:00-14:00"

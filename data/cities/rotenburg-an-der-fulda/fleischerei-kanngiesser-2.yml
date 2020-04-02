@@ -5,7 +5,7 @@ latitude: 50.9897883
 longitude: 9.7371627
 postcode: 36199
 city: Rotenburg an der Fulda
-street: Finkenstraße
+street: "Finkenstraße"
 housenumber: 2
 phone: "+49 6623 1538"
 opening_hours: "Mo-Sa 08:00-18:00"

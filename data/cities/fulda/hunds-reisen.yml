@@ -5,7 +5,7 @@ latitude: 50.549413300000005
 longitude: 9.6766564
 postcode: 36037
 city: Fulda
-street: Brauhausstraße
+street: "Brauhausstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

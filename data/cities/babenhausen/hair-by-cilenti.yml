@@ -5,7 +5,7 @@ latitude: 49.9626639
 longitude: 8.9519904
 postcode: 64832
 city: Babenhausen
-street: Amtsgasse
+street: "Amtsgasse"
 housenumber: 7
 phone: "+49 6073 6886541"
 opening_hours: "Mo,Tu,Th,Fr 09:00-18:30; Sa 09:00-15:00; PH off"

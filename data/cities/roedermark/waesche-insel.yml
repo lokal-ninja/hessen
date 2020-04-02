@@ -5,7 +5,7 @@ latitude: 49.9770878
 longitude: 8.8276207
 postcode: 63322
 city: Rödermark
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 4
 phone: "+49 6074 919119"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

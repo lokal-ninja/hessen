@@ -5,7 +5,7 @@ latitude: 51.1380678
 longitude: 9.273228600000001
 postcode: 34560
 city: Fritzlar
-street: Wolfhager Straße
+street: "Wolfhager Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

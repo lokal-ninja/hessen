@@ -5,7 +5,7 @@ latitude: 50.0155796
 longitude: 8.3623449
 postcode: 65239
 city: Hochheim
-street: Rüdesheimer Straße
+street: "Rüdesheimer Straße"
 housenumber: 11
 phone: "+49-6146-8493770"
 opening_hours: ""

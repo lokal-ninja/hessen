@@ -5,7 +5,7 @@ latitude: 49.9734252
 longitude: 8.8304504
 postcode: 63322
 city: Rödermark
-street: Dieburger Straße
+street: "Dieburger Straße"
 housenumber: 76
 phone: "+49 6074 876697"
 opening_hours: ""

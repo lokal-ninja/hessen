@@ -5,7 +5,7 @@ latitude: 50.1422162
 longitude: 8.050482800000001
 postcode: 65307
 city: Bad Schwalbach
-street: Edmund-Heusinger-Straße
+street: "Edmund-Heusinger-Straße"
 housenumber: 1
 phone: "+49 6124 7239936"
 opening_hours: "Mo-Sa 09:00-20:00"

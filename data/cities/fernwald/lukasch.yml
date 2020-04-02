@@ -5,7 +5,7 @@ latitude: 50.5767236
 longitude: 8.754435200000001
 postcode: 35463
 city: Fernwald
-street: Tiefenweg
+street: "Tiefenweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

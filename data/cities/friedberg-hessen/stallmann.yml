@@ -5,7 +5,7 @@ latitude: 50.33144
 longitude: 8.7190379
 postcode: 61169
 city: Friedberg (Hessen)
-street: Borngasse
+street: "Borngasse"
 housenumber: 29
 phone: ""
 opening_hours: ""

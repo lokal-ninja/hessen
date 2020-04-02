@@ -5,7 +5,7 @@ latitude: 50.585254600000006
 longitude: 8.6731931
 postcode: 35390
 city: Gießen
-street: Kaplansgasse
+street: "Kaplansgasse"
 housenumber: 4
 phone: ""
 opening_hours: ""

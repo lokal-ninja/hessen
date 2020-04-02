@@ -5,7 +5,7 @@ latitude: 50.1337094
 longitude: 8.9191056
 postcode: 63450
 city: Hanau
-street: Rosenstraße
+street: "Rosenstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

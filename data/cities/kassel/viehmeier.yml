@@ -5,7 +5,7 @@ latitude: 51.3066102
 longitude: 9.466923000000001
 postcode: 34121
 city: Kassel
-street: Sternbergstraße
+street: "Sternbergstraße"
 housenumber: 10-12
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

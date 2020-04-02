@@ -5,7 +5,7 @@ latitude: 50.109681800000004
 longitude: 8.5365268
 postcode: 65929
 city: Frankfurt am Main
-street: Soonwaldstraße
+street: "Soonwaldstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.1950103
 longitude: 9.197272400000001
 postcode: 63589
 city: Linsengericht
-street: Kleinbahnweg
+street: "Kleinbahnweg"
 housenumber: 4
 phone: ""
 opening_hours: ""

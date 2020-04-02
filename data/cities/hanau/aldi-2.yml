@@ -5,7 +5,7 @@ latitude: 50.11758510000001
 longitude: 8.9293586
 postcode: 63457
 city: Hanau
-street: Röderseestraße
+street: "Röderseestraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

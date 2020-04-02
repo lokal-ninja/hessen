@@ -5,7 +5,7 @@ latitude: 50.124535900000005
 longitude: 8.606436200000001
 postcode: 60489
 city: Frankfurt am Main
-street: Breitlacherstraße
+street: "Breitlacherstraße"
 housenumber: 78
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

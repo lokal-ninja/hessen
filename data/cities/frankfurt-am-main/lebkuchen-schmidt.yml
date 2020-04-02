@@ -5,7 +5,7 @@ latitude: 50.1125703
 longitude: 8.6811405
 postcode: 60311
 city: Frankfurt am Main
-street: Neue Kräme
+street: "Neue Kräme"
 housenumber: 33
 phone: "+49 69 91398704"
 opening_hours: "Mo-Fr 09:30-14:00,14:30-18:00; Sa 10:00-15:30"

@@ -5,7 +5,7 @@ latitude: 50.107423600000004
 longitude: 8.6270647
 postcode: 60486
 city: Frankfurt am Main
-street: Europa-Allee
+street: "Europa-Allee"
 housenumber: 133
 phone: ""
 opening_hours: ""

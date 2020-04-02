@@ -5,7 +5,7 @@ latitude: 50.131146300000005
 longitude: 8.892753500000001
 postcode: 63454
 city: Hanau
-street: Kronprinzenstraße
+street: "Kronprinzenstraße"
 housenumber: 1
 phone: "+49 6181 20877"
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 08:00-11:30"

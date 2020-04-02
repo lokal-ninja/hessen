@@ -5,7 +5,7 @@ latitude: 50.5923869
 longitude: 8.9615805
 postcode: 35305
 city: Grünberg
-street: Alsfelder Straße
+street: "Alsfelder Straße"
 housenumber: 18
 phone: "+49 401 220 055"
 opening_hours: "Mo-Fr 09:00-02:00, Sa,Su 09:00-18:00"

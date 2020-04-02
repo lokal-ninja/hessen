@@ -5,7 +5,7 @@ latitude: 50.7071668
 longitude: 8.448293900000001
 postcode: 35649
 city: Bischoffen
-street: Günteroder Straße
+street: "Günteroder Straße"
 housenumber: 29
 phone: "+49 6444 389719"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-14:00"

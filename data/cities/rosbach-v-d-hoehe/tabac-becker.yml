@@ -5,7 +5,7 @@ latitude: 50.30351580000001
 longitude: 8.691956300000001
 postcode: 61191
 city: Rosbach v. d. Höhe
-street: Neuer Weg
+street: "Neuer Weg"
 housenumber: 8
 phone: "+49 6003 553"
 opening_hours: ""

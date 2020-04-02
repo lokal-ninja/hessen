@@ -5,7 +5,7 @@ latitude: 50.105977
 longitude: 8.762439800000001
 postcode: 63065
 city: Offenbach am Main
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 80
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.0302786
 longitude: 9.026336800000001
 postcode: 63533
 city: Mainhausen
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 17
 phone: "+49 6182 895448"
 opening_hours: ""

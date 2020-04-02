@@ -5,7 +5,7 @@ latitude: 49.887008
 longitude: 8.6317844
 postcode: 64293
 city: Darmstadt
-street: Pfnorstraße
+street: "Pfnorstraße"
 housenumber: 9
 phone: "+49 6151 9579952"
 opening_hours: ""

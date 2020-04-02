@@ -5,7 +5,7 @@ latitude: 50.576243500000004
 longitude: 9.1927477
 postcode: 35327
 city: Ulrichstein
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 8
 phone: "+49 6645 9189062"
 opening_hours: "mo-fr 09:00-12:30; tu, th-fr 14:30-18:00; sa 09:00-13:00; su, ph off"

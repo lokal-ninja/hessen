@@ -5,7 +5,7 @@ latitude: 50.7530858
 longitude: 9.261110200000001
 postcode: 36304
 city: Alsfeld
-street: Marburger Straße
+street: "Marburger Straße"
 housenumber: 60
 phone: "+49 6631 730 82 66"
 opening_hours: "tu 09:00-19:00, we 08:00-18:00, th-fr 09:00-19:00,sa 08:00-13:00"

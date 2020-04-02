@@ -5,7 +5,7 @@ latitude: 50.520948700000005
 longitude: 8.582945200000001
 postcode: 35625
 city: Hüttenberg
-street: Heidestraße
+street: "Heidestraße"
 housenumber: 10
 phone: "+49 6441-75551"
 opening_hours: ""

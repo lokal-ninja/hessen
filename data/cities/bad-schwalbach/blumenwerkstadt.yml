@@ -5,7 +5,7 @@ latitude: 50.144152500000004
 longitude: 8.074404600000001
 postcode: 65307
 city: Bad Schwalbach
-street: Schmidtberg
+street: "Schmidtberg"
 housenumber: 111
 phone: ""
 opening_hours: ""

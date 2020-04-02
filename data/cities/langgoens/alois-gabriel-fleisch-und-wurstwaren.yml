@@ -5,7 +5,7 @@ latitude: 50.496868500000005
 longitude: 8.6693843
 postcode: 35428
 city: Langgöns
-street: Holzheimer Straße
+street: "Holzheimer Straße"
 housenumber: 18
 phone: "+49 6403 7780970"
 opening_hours: ""

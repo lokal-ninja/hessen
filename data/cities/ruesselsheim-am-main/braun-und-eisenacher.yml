@@ -5,7 +5,7 @@ latitude: 49.983056000000005
 longitude: 8.418145500000001
 postcode: 65428
 city: Rüsselsheim am Main
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 29
 phone: ""
 opening_hours: ""

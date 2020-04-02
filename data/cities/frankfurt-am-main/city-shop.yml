@@ -5,7 +5,7 @@ latitude: 50.1085815
 longitude: 8.6620164
 postcode: 60329
 city: Frankfurt am Main
-street: Düsseldorfer Straße
+street: "Düsseldorfer Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

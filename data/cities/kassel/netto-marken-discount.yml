@@ -5,7 +5,7 @@ latitude: 51.2792533
 longitude: 9.4418962
 postcode: 34132
 city: Kassel
-street: Heinrich-Plett-Straße
+street: "Heinrich-Plett-Straße"
 housenumber: 69a
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 50.1797027
 longitude: 8.9184006
 postcode: 63486
 city: Bruchköbel
-street: Innerer Ring
+street: "Innerer Ring"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

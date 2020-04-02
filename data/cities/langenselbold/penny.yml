@@ -5,7 +5,7 @@ latitude: 50.1741467
 longitude: 9.044052200000001
 postcode: 63505
 city: Langenselbold
-street: Kinzigstraße
+street: "Kinzigstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

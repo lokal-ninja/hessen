@@ -5,7 +5,7 @@ latitude: 49.866299500000004
 longitude: 8.6557369
 postcode: 64285
 city: Darmstadt
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 57
 phone: ""
 opening_hours: ""

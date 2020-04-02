@@ -5,7 +5,7 @@ latitude: 50.670556000000005
 longitude: 9.5568183
 postcode: 36110
 city: Schlitz
-street: An der Berleburg
+street: "An der Berleburg"
 housenumber: 4
 phone: "+49 6642 918418"
 opening_hours: ""

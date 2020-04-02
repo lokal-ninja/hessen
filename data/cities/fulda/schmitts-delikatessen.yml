@@ -5,7 +5,7 @@ latitude: 50.5505233
 longitude: 9.679383300000001
 postcode: 36037
 city: Fulda
-street: Peterstor
+street: "Peterstor"
 housenumber: 11
 phone: "+49 661 90198024"
 opening_hours: ""

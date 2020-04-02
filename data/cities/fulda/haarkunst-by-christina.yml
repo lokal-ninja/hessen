@@ -5,7 +5,7 @@ latitude: 50.5471912
 longitude: 9.706300200000001
 postcode: 36043
 city: Fulda
-street: Pacelliallee
+street: "Pacelliallee"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa nach Vereinbarung"

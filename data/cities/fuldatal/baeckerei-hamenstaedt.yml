@@ -5,7 +5,7 @@ latitude: 51.3705377
 longitude: 9.517599200000001
 postcode: 34233
 city: Fuldatal
-street: Friedrichstraße
+street: "Friedrichstraße"
 housenumber: 5
 phone: "+49 561 812369"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.665023600000005
 longitude: 9.0098295
 postcode: 64711
 city: Erbach
-street: Stockheimer Ring
+street: "Stockheimer Ring"
 housenumber: 26
 phone: ""
 opening_hours: ""

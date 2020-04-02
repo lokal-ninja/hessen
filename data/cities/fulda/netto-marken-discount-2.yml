@@ -5,7 +5,7 @@ latitude: 50.5632582
 longitude: 9.6956
 postcode: 36037
 city: Fulda
-street: Goerdelerstraße
+street: "Goerdelerstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

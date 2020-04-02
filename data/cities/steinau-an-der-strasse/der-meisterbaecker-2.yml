@@ -5,7 +5,7 @@ latitude: 50.312868300000005
 longitude: 9.4667939
 postcode: 36396
 city: Steinau an der Straße
-street: Bellinger Tor
+street: "Bellinger Tor"
 housenumber: 24
 phone: "+49 6663 1738"
 opening_hours: ""

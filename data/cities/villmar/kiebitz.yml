@@ -5,7 +5,7 @@ latitude: 50.3950934
 longitude: 8.2037983
 postcode: 65606
 city: Villmar
-street: Unicastraße
+street: "Unicastraße"
 housenumber: 4
 phone: "+49 6482 607280"
 opening_hours: ""

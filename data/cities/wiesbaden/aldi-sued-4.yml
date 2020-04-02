@@ -5,7 +5,7 @@ latitude: 50.0570025
 longitude: 8.2559571
 postcode: 65187
 city: Wiesbaden
-street: Mainzer Straße
+street: "Mainzer Straße"
 housenumber: 158
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

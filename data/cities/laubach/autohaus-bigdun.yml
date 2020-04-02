@@ -5,7 +5,7 @@ latitude: 50.539984000000004
 longitude: 8.9877672
 postcode: 35321
 city: Laubach
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

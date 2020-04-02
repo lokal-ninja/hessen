@@ -5,7 +5,7 @@ latitude: 50.6733284
 longitude: 9.7678955
 postcode: 36088
 city: Hünfeld
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 6
 phone: "+49 6652 73598"
 opening_hours: "Mo-Sa 07:00-21:00"

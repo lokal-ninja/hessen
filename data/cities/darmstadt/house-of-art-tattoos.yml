@@ -5,7 +5,7 @@ latitude: 49.866637700000005
 longitude: 8.6560795
 postcode: 64283
 city: Darmstadt
-street: Heinrichstraße
+street: "Heinrichstraße"
 housenumber: 44
 phone: ""
 opening_hours: ""

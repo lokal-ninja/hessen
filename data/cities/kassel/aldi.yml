@@ -5,7 +5,7 @@ latitude: 51.291901200000005
 longitude: 9.457507900000001
 postcode: 34134
 city: Kassel
-street: Glockenbruchweg
+street: "Glockenbruchweg"
 housenumber: 84
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

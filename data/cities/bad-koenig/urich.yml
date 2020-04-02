@@ -5,7 +5,7 @@ latitude: 49.7419625
 longitude: 9.0073399
 postcode: 64732
 city: Bad König
-street: Schloßplatz
+street: "Schloßplatz"
 housenumber: 11
 phone: ""
 opening_hours: ""

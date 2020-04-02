@@ -5,7 +5,7 @@ latitude: 50.7336736
 longitude: 8.2932466
 postcode: 35683
 city: Dillenburg
-street: Herwigstraße
+street: "Herwigstraße"
 housenumber: 28
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; PH off"

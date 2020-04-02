@@ -5,7 +5,7 @@ latitude: 50.7506792
 longitude: 9.2724908
 postcode: 36304
 city: Alsfeld
-street: Untergasse
+street: "Untergasse"
 housenumber: 7
 phone: ""
 opening_hours: ""

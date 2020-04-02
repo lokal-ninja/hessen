@@ -5,7 +5,7 @@ latitude: 50.488738000000005
 longitude: 9.3378891
 postcode: 36355
 city: Grebenhain
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00"

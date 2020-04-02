@@ -5,7 +5,7 @@ latitude: 51.005425300000006
 longitude: 9.857076300000001
 postcode: 36179
 city: Bebra
-street: Hof Vockerode
+street: "Hof Vockerode"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 14:30-15:00; Sa 11:30-12:00"

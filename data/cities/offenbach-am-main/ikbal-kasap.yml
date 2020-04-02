@@ -5,7 +5,7 @@ latitude: 50.102658700000006
 longitude: 8.765870900000001
 postcode: 63065
 city: Offenbach am Main
-street: Bleichstraße
+street: "Bleichstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

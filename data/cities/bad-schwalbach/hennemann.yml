@@ -5,7 +5,7 @@ latitude: 50.145204400000004
 longitude: 8.076032300000001
 postcode: 65307
 city: Bad Schwalbach
-street: Adolfstraße
+street: "Adolfstraße"
 housenumber: 133
 phone: "+49 6124 12264"
 opening_hours: ""

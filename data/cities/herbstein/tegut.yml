@@ -5,7 +5,7 @@ latitude: 50.562862800000005
 longitude: 9.4454887
 postcode: 36358
 city: Herbstein
-street: Welzgasse
+street: "Welzgasse"
 housenumber: 1
 phone: ""
 opening_hours: ""

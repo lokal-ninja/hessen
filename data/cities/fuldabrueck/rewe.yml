@@ -5,7 +5,7 @@ latitude: 51.272187300000006
 longitude: 9.5000728
 postcode: 34277
 city: Fuldabrück
-street: Ostring
+street: "Ostring"
 housenumber: 40
 phone: "+49 561 5854638"
 opening_hours: ""

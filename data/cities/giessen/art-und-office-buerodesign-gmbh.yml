@@ -5,7 +5,7 @@ latitude: 50.597292700000004
 longitude: 8.6843249
 postcode: 35396
 city: Gießen
-street: Marburger Straße
+street: "Marburger Straße"
 housenumber: 86
 phone: ""
 opening_hours: "09:00-18:00"

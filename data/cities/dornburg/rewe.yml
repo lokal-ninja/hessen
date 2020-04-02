@@ -5,7 +5,7 @@ latitude: 50.5060245
 longitude: 8.031288400000001
 postcode: 65599
 city: Dornburg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

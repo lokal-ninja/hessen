@@ -5,7 +5,7 @@ latitude: 51.160612900000004
 longitude: 9.1358149
 postcode: 34549
 city: Edertal
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 39a
 phone: "+49 5623 5999880"
 opening_hours: ""

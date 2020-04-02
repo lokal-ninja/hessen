@@ -5,7 +5,7 @@ latitude: 50.204131000000004
 longitude: 8.702363700000001
 postcode: 60437
 city: Frankfurt am Main
-street: Kurmarkstraße
+street: "Kurmarkstraße"
 housenumber: 3
 phone: "+49 6101 557134"
 opening_hours: "Mo-Sa 07:00-24:00"

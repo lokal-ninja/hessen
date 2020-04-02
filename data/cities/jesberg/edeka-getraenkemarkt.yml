@@ -5,7 +5,7 @@ latitude: 50.999339000000006
 longitude: 9.1483875
 postcode: 34632
 city: Jesberg
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

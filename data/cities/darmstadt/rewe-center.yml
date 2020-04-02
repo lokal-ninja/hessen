@@ -5,7 +5,7 @@ latitude: 49.8878089
 longitude: 8.636863100000001
 postcode: 64293
 city: Darmstadt
-street: Leydheckerstraße
+street: "Leydheckerstraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

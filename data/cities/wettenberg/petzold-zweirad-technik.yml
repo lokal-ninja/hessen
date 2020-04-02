@@ -5,7 +5,7 @@ latitude: 50.618870900000005
 longitude: 8.658473
 postcode: 35435
 city: Wettenberg
-street: Gießener Straße
+street: "Gießener Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

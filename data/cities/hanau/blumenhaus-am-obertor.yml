@@ -5,7 +5,7 @@ latitude: 50.106331000000004
 longitude: 8.9145693
 postcode: 63456
 city: Hanau
-street: Kardinal-Volk-Platz
+street: "Kardinal-Volk-Platz"
 housenumber: 1A
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.1898126
 longitude: 9.1838163
 postcode: 63571
 city: Gelnhausen
-street: Lützelhäuser Weg
+street: "Lützelhäuser Weg"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-16:00"

@@ -5,7 +5,7 @@ latitude: 49.708616400000004
 longitude: 8.8433998
 postcode: 64385
 city: Reichelsheim (Odenwald)
-street: Sudetenstraße
+street: "Sudetenstraße"
 housenumber: 46
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

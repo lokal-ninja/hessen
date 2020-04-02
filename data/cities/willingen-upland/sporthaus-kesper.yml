@@ -5,7 +5,7 @@ latitude: 51.294736300000004
 longitude: 8.6125068
 postcode: 34508
 city: Willingen (Upland)
-street: Waldecker Straße
+street: "Waldecker Straße"
 housenumber: 2
 phone: "+49 5632 6350"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su 10:00-14:00"

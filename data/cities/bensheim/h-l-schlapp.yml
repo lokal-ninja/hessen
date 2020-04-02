@@ -5,7 +5,7 @@ latitude: 49.6809956
 longitude: 8.619782
 postcode: 64625
 city: Bensheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00"

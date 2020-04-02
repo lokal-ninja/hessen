@@ -5,7 +5,7 @@ latitude: 50.825513
 longitude: 8.915803700000001
 postcode: 35274
 city: Kirchhain
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 1b
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off"

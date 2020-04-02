@@ -5,7 +5,7 @@ latitude: 50.1331922
 longitude: 8.9157154
 postcode: 63450
 city: Hanau
-street: Krämerstraße
+street: "Krämerstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

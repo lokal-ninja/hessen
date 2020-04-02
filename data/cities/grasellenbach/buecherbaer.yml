@@ -5,7 +5,7 @@ latitude: 49.634789000000005
 longitude: 8.8317817
 postcode: 64689
 city: Grasellenbach
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

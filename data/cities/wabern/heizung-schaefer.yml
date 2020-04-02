@@ -5,7 +5,7 @@ latitude: 51.118973000000004
 longitude: 9.3677993
 postcode: 34590
 city: Wabern
-street: Wilhelmshöher Straße
+street: "Wilhelmshöher Straße"
 housenumber: 17
 phone: "+49 5683 1566"
 opening_hours: "Mo-Th 08:00-12:00, 14:00-17:00; Fr 08:00-12:00"

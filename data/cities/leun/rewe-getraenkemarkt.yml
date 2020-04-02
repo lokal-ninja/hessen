@@ -5,7 +5,7 @@ latitude: 50.5424802
 longitude: 8.36786
 postcode: 35638
 city: Leun
-street: Röntgenweg
+street: "Röntgenweg"
 housenumber: 5
 phone: ""
 opening_hours: ""

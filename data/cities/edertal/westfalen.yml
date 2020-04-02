@@ -5,7 +5,7 @@ latitude: 51.1435644
 longitude: 9.176394400000001
 postcode: 34549
 city: Edertal
-street: Edertalstraße
+street: "Edertalstraße"
 housenumber: 6
 phone: "+49 5621 4336"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su 08:30-20:00"

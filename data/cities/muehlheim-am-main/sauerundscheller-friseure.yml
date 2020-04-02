@@ -5,7 +5,7 @@ latitude: 50.094426000000006
 longitude: 8.8594459
 postcode: 63165
 city: Mühlheim am Main
-street: Hausener Straße
+street: "Hausener Straße"
 housenumber: 30
 phone: "+49 6108 9778663"
 opening_hours: "Mo 09:00-14:00, Tu 09:00-18:00, We 09:00-21:00, Th,Fr 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 50.4286406
 longitude: 9.6435923
 postcode: 36148
 city: Kalbach
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 9
 phone: ""
 opening_hours: "Tu-Fr 07:00-15:00; Sa 07:00-13:00"

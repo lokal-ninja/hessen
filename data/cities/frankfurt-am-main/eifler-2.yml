@@ -5,7 +5,7 @@ latitude: 50.124455100000006
 longitude: 8.6062624
 postcode: 60489
 city: Frankfurt am Main
-street: Westerbachstraße
+street: "Westerbachstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-18:00"

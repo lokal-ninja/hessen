@@ -5,7 +5,7 @@ latitude: 50.5800521
 longitude: 9.3778871
 postcode: 36358
 city: Herbstein
-street: Vogelsbergstraße
+street: "Vogelsbergstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.039386400000005
 longitude: 9.3954046
 postcode: 34576
 city: Homberg (Efze)
-street: Basthauptweg
+street: "Basthauptweg"
 housenumber: 5
 phone: "+49 5681 7070"
 opening_hours: ""

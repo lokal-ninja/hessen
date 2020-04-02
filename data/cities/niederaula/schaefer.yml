@@ -5,7 +5,7 @@ latitude: 50.803122200000004
 longitude: 9.614261200000001
 postcode: 36272
 city: Niederaula
-street: Hersfelder Straße
+street: "Hersfelder Straße"
 housenumber: 20
 phone: "+49 6625 343812"
 opening_hours: ""

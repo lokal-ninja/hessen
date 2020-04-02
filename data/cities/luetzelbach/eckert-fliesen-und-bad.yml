@@ -5,7 +5,7 @@ latitude: 49.784027900000005
 longitude: 9.0736395
 postcode: 64750
 city: Lützelbach
-street: Seckmauerer Straße
+street: "Seckmauerer Straße"
 housenumber: 11
 phone: "+49 6165 1301"
 opening_hours: ""

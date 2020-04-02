@@ -5,7 +5,7 @@ latitude: 50.0551005
 longitude: 8.294264
 postcode: 65205
 city: Wiesbaden
-street: Kreuzberger Ring
+street: "Kreuzberger Ring"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Th 07:30-17:00; Fr 07:30-13:00"

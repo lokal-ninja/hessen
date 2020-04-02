@@ -5,7 +5,7 @@ latitude: 50.391217000000005
 longitude: 8.8931465
 postcode: 61209
 city: Echzell
-street: Bisseser Straße
+street: "Bisseser Straße"
 housenumber: 69
 phone: "+49 6008 9188180"
 opening_hours: "Mo 09:00-12:30,14:00-17:00; Tu 09:00-12:30,14:00-17:00; We 09:00-12:30,14:00-17:00; Th 09:00-12:30,14:00-17:00; Fr 09:00-15:00; Sa,Su off"

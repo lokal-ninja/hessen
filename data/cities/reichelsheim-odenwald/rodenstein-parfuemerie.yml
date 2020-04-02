@@ -5,7 +5,7 @@ latitude: 49.713025800000004
 longitude: 8.839849800000001
 postcode: 64385
 city: Reichelsheim (Odenwald)
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 7
 phone: "+49 6164 3616"
 opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 09:00-13:00"

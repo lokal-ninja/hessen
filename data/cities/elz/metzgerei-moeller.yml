@@ -5,7 +5,7 @@ latitude: 50.413639
 longitude: 8.0345321
 postcode: 65604
 city: Elz
-street: Pfortenstraße
+street: "Pfortenstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

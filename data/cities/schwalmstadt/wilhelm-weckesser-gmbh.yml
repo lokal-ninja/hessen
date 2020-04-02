@@ -5,7 +5,7 @@ latitude: 50.905402200000005
 longitude: 9.233128
 postcode: 34613
 city: Schwalmstadt
-street: Festungsstraße
+street: "Festungsstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

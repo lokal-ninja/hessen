@@ -5,7 +5,7 @@ latitude: 50.204682500000004
 longitude: 9.1730924
 postcode: 63571
 city: Gelnhausen
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 57
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"

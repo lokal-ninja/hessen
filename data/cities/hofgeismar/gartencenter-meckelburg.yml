@@ -5,7 +5,7 @@ latitude: 51.4880153
 longitude: 9.3843849
 postcode: 34369
 city: Hofgeismar
-street: Kelzer Weg
+street: "Kelzer Weg"
 housenumber: 6
 phone: "+49567199490"
 opening_hours: ""

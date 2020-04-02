@@ -5,7 +5,7 @@ latitude: 50.079136000000005
 longitude: 8.2383187
 postcode: 65185
 city: Wiesbaden
-street: Kirchgasse
+street: "Kirchgasse"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

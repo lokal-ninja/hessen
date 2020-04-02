@@ -5,7 +5,7 @@ latitude: 50.081205000000004
 longitude: 8.9430346
 postcode: 63512
 city: Hainburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 64
 phone: "+4961829931099"
 opening_hours: ""

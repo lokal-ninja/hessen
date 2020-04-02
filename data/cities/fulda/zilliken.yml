@@ -5,7 +5,7 @@ latitude: 50.551616100000004
 longitude: 9.677433800000001
 postcode: 36037
 city: Fulda
-street: Steinweg
+street: "Steinweg"
 housenumber: 2a
 phone: ""
 opening_hours: ""

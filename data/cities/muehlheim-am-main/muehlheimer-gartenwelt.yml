@@ -5,7 +5,7 @@ latitude: 50.1134004
 longitude: 8.8510819
 postcode: 63165
 city: Mühlheim am Main
-street: Südring
+street: "Südring"
 housenumber: 28
 phone: "+49 6108 6384"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su 10:00-12:00"

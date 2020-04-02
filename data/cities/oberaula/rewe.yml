@@ -5,7 +5,7 @@ latitude: 50.8558377
 longitude: 9.462271300000001
 postcode: 36280
 city: Oberaula
-street: Schwimmbadstraße
+street: "Schwimmbadstraße"
 housenumber: 1
 phone: "+49 6628 91530"
 opening_hours: "Mo-Sa 07:00-21:00"

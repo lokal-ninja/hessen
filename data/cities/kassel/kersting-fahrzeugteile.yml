@@ -5,7 +5,7 @@ latitude: 51.311843
 longitude: 9.543351600000001
 postcode: 34123
 city: Kassel
-street: Mündener Straße
+street: "Mündener Straße"
 housenumber: 25
 phone: "+49 561 707840"
 opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; PH off"

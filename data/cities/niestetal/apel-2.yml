@@ -5,7 +5,7 @@ latitude: 51.3085127
 longitude: 9.577456300000001
 postcode: 34266
 city: Niestetal
-street: Witzenhäuser Straße
+street: "Witzenhäuser Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su 08:00-11:00"

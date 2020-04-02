@@ -5,7 +5,7 @@ latitude: 49.597268400000004
 longitude: 8.4587188
 postcode: 68623
 city: Lampertheim
-street: Schwalbenstraße
+street: "Schwalbenstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

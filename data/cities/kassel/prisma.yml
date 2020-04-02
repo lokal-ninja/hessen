@@ -5,7 +5,7 @@ latitude: 51.316447200000006
 longitude: 9.4655156
 postcode: 34119
 city: Kassel
-street: Dörnbergstraße
+street: "Dörnbergstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Fr 11:00-18:30; Sa 11:00-14:00"

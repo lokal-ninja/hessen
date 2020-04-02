@@ -5,7 +5,7 @@ latitude: 50.091973700000004
 longitude: 9.1463023
 postcode: 63776
 city: Mömbris
-street: Alzenauer Straße
+street: "Alzenauer Straße"
 housenumber: 108
 phone: "+49 (6029) 7711"
 opening_hours: "Mo-Fr 09:00-12:00,14:30-18:00; We off; Sa 09:00-12:00"

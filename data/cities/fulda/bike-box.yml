@@ -5,7 +5,7 @@ latitude: 50.5522058
 longitude: 9.671660000000001
 postcode: 36037
 city: Fulda
-street: Abtstor
+street: "Abtstor"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.3098608
 longitude: 9.462864600000001
 postcode: 34121
 city: Kassel
-street: Wittrockstraße
+street: "Wittrockstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 49.8890371
 longitude: 8.6227286
 postcode: 64293
 city: Darmstadt
-street: Bunsenstraße
+street: "Bunsenstraße"
 housenumber: 15
 phone: "+49 6151 62938821"
 opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"

@@ -5,7 +5,7 @@ latitude: 49.8203789
 longitude: 8.8441232
 postcode: 64354
 city: Reinheim
-street: Alter Weg
+street: "Alter Weg"
 housenumber: 21
 phone: "+49 6162 3179"
 opening_hours: ""

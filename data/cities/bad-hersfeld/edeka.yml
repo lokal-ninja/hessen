@@ -5,7 +5,7 @@ latitude: 50.862956000000004
 longitude: 9.734378300000001
 postcode: 36251
 city: Bad Hersfeld
-street: Schlosserstraße
+street: "Schlosserstraße"
 housenumber: 26-28
 phone: ""
 opening_hours: ""

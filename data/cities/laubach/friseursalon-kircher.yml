@@ -5,7 +5,7 @@ latitude: 50.5423005
 longitude: 8.9899784
 postcode: 35321
 city: Laubach
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 12
 phone: ""
 opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-13:00"

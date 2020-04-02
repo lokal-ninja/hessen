@@ -5,7 +5,7 @@ latitude: 49.9147456
 longitude: 8.577245300000001
 postcode: 64331
 city: Weiterstadt
-street: An der Kreisstraße
+street: "An der Kreisstraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 08:30-19:00"

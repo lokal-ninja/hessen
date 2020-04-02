@@ -5,7 +5,7 @@ latitude: 50.1471275
 longitude: 8.7533606
 postcode: 60388
 city: Frankfurt am Main
-street: Taschnerstraße
+street: "Taschnerstraße"
 housenumber: 3
 phone: "+49 6109 723623"
 opening_hours: ""

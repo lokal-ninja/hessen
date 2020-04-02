@@ -5,7 +5,7 @@ latitude: 50.1501273
 longitude: 8.9409501
 postcode: 63452
 city: Hanau
-street: Oderstraße
+street: "Oderstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 10:00-21:00; PH off"

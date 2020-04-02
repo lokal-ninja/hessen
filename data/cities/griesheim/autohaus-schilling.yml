@@ -5,7 +5,7 @@ latitude: 49.8630976
 longitude: 8.5859217
 postcode: 
 city: Griesheim
-street: Wilhelm-Leuschner-Straße
+street: "Wilhelm-Leuschner-Straße"
 housenumber: 253
 phone: ""
 opening_hours: ""

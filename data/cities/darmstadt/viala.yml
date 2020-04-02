@@ -5,7 +5,7 @@ latitude: 49.8710687
 longitude: 8.6569465
 postcode: 64283
 city: Darmstadt
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

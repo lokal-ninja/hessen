@@ -5,7 +5,7 @@ latitude: 51.3208569
 longitude: 9.450792400000001
 postcode: 34130
 city: Kassel
-street: Teichstraße
+street: "Teichstraße"
 housenumber: 31
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.588132900000005
 longitude: 8.9874276
 postcode: 64760
 city: Oberzent
-street: Erbacher Straße
+street: "Erbacher Straße"
 housenumber: 80
 phone: ""
 opening_hours: ""

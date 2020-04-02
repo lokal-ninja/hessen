@@ -5,7 +5,7 @@ latitude: 50.226225500000005
 longitude: 8.617387500000001
 postcode: 61348
 city: Bad Homburg v.d. Höhe
-street: Thomasstraße
+street: "Thomasstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

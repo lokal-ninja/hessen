@@ -5,7 +5,7 @@ latitude: 49.862422800000004
 longitude: 8.6412413
 postcode: 64295
 city: Darmstadt
-street: Groß-Gerauer Weg
+street: "Groß-Gerauer Weg"
 housenumber: 52
 phone: "+49 6151 5200163"
 opening_hours: "Mo 10:00-18:00, Tu-We 14:00-18:00, Th-Fr 10:00-18:00, Sa 10:00-14:00"

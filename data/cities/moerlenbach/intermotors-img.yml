@@ -5,7 +5,7 @@ latitude: 49.6000862
 longitude: 8.738818
 postcode: 69509
 city: Mörlenbach
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 3
 phone: "+49-6209-952259"
 opening_hours: ""

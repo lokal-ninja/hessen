@@ -5,7 +5,7 @@ latitude: 51.1171519
 longitude: 9.1238872
 postcode: 34537
 city: Bad Wildungen
-street: Odershäuser Straße
+street: "Odershäuser Straße"
 housenumber: 2b
 phone: ""
 opening_hours: "Mo-Su 06:00-22:00"

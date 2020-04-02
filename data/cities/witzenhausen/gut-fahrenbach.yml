@@ -5,7 +5,7 @@ latitude: 51.2958483
 longitude: 9.8289399
 postcode: 37216
 city: Witzenhausen
-street: Fahrenbach
+street: "Fahrenbach"
 housenumber: 2
 phone: "+49 5542 6388"
 opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 09:00-13:00"

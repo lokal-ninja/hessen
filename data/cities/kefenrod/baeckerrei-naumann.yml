@@ -5,7 +5,7 @@ latitude: 50.3460095
 longitude: 9.208189
 postcode: 
 city: Kefenrod
-street: Forststraße
+street: "Forststraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

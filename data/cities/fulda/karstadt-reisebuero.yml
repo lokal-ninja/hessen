@@ -5,7 +5,7 @@ latitude: 50.551710400000005
 longitude: 9.6777487
 postcode: 36037
 city: Fulda
-street: Universitätsstraße
+street: "Universitätsstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

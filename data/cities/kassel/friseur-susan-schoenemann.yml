@@ -5,7 +5,7 @@ latitude: 51.331552200000004
 longitude: 9.5011959
 postcode: 34125
 city: Kassel
-street: Eisenschmiede
+street: "Eisenschmiede"
 housenumber: 74
 phone: "+49 561 8709121"
 opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-13:00"

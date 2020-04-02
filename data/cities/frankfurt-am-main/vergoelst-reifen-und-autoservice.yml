@@ -5,7 +5,7 @@ latitude: 50.105131400000005
 longitude: 8.617321
 postcode: 60326
 city: Frankfurt am Main
-street: Schmidtstraße
+street: "Schmidtstraße"
 housenumber: 67
 phone: ""
 opening_hours: ""

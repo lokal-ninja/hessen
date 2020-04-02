@@ -5,7 +5,7 @@ latitude: 51.339307000000005
 longitude: 9.4915835
 postcode: 34127
 city: Kassel
-street: Bunsenstraße
+street: "Bunsenstraße"
 housenumber: 105
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

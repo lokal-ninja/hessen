@@ -5,7 +5,7 @@ latitude: 50.4926546
 longitude: 8.476272
 postcode: 35641
 city: Schöffengrund
-street: Steuterweg
+street: "Steuterweg"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

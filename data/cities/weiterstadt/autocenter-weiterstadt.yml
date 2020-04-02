@@ -5,7 +5,7 @@ latitude: 49.894734
 longitude: 8.6088365
 postcode: 64331
 city: Weiterstadt
-street: Friedrich-Schaefer-Straße
+street: "Friedrich-Schaefer-Straße"
 housenumber: 1
 phone: "+49 6151 70050"
 opening_hours: "Mo-Fr 08:00-19:00, Sa 09:00-14:00"

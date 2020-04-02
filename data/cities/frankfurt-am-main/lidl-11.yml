@@ -5,7 +5,7 @@ latitude: 50.1256867
 longitude: 8.5648274
 postcode: 65936
 city: Frankfurt am Main
-street: Siegener Straße
+street: "Siegener Straße"
 housenumber: 69
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

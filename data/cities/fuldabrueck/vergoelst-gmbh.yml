@@ -5,7 +5,7 @@ latitude: 51.273314500000005
 longitude: 9.507305800000001
 postcode: 34123
 city: Fuldabrück
-street: Marie-Curie-Straße
+street: "Marie-Curie-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"

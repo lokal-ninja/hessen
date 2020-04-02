@@ -5,7 +5,7 @@ latitude: 49.606545600000004
 longitude: 8.466260400000001
 postcode: 68623
 city: Lampertheim
-street: Bürstädter Straße
+street: "Bürstädter Straße"
 housenumber: 112
 phone: ""
 opening_hours: ""

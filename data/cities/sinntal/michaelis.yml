@@ -5,7 +5,7 @@ latitude: 50.238533800000006
 longitude: 9.592560500000001
 postcode: 36391
 city: Sinntal
-street: Spessartstraße
+street: "Spessartstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

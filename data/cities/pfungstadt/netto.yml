@@ -5,7 +5,7 @@ latitude: 49.79649920000001
 longitude: 8.561173700000001
 postcode: 64319
 city: Pfungstadt
-street: An der Gehrengasse
+street: "An der Gehrengasse"
 housenumber: 85
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

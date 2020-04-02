@@ -5,7 +5,7 @@ latitude: 51.2003313
 longitude: 9.718158800000001
 postcode: 37235
 city: Hessisch Lichtenau
-street: Mühlweg
+street: "Mühlweg"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 07:45-18:00"

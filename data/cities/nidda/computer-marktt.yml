@@ -5,7 +5,7 @@ latitude: 50.4135829
 longitude: 9.0082986
 postcode: 63667
 city: Nidda
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

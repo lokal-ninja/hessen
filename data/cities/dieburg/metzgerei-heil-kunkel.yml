@@ -5,7 +5,7 @@ latitude: 49.8981494
 longitude: 8.8396548
 postcode: 64807
 city: Dieburg
-street: Zuckerstraße
+street: "Zuckerstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.760578800000005
 longitude: 9.812568
 postcode: 36132
 city: Eiterfeld
-street: Sachsenweg
+street: "Sachsenweg"
 housenumber: 9
 phone: "+49 6672 91 91 60"
 opening_hours: ""

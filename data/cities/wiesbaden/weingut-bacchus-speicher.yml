@@ -5,7 +5,7 @@ latitude: 50.010997800000005
 longitude: 8.3193263
 postcode: 55246
 city: Wiesbaden
-street: Gänssaalweg
+street: "Gänssaalweg"
 housenumber: 25
 phone: "+49 6134 2989589"
 opening_hours: ""

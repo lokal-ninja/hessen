@@ -5,7 +5,7 @@ latitude: 49.671048000000006
 longitude: 8.602446
 postcode: 64625
 city: Bensheim
-street: An der Riedwiese
+street: "An der Riedwiese"
 housenumber: 
 phone: ""
 opening_hours: "Mar 1 - Jun 30 : Mo-Sa 09:00-20:00; Jul 1 - Feb 28 : Mo-Fr 09:00-19:00, Sa 09:00-18:00"

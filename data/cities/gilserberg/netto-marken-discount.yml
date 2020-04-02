@@ -5,7 +5,7 @@ latitude: 50.9525869
 longitude: 9.065559
 postcode: 34630
 city: Gilserberg
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

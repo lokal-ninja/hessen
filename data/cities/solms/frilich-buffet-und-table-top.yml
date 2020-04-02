@@ -5,7 +5,7 @@ latitude: 50.5459174
 longitude: 8.3957756
 postcode: 35606
 city: Solms
-street: Lahnstraße
+street: "Lahnstraße"
 housenumber: 24
 phone: "+49 6408-9080-0"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.115768300000006
 longitude: 8.684982
 postcode: 60313
 city: Frankfurt am Main
-street: Schäfergasse
+street: "Schäfergasse"
 housenumber: 18
 phone: "+49 691 337440"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

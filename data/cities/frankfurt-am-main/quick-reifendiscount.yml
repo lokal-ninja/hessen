@@ -5,7 +5,7 @@ latitude: 50.1227923
 longitude: 8.7431251
 postcode: 
 city: Frankfurt am Main
-street: Hanauer Landstraße
+street: "Hanauer Landstraße"
 housenumber: 334c
 phone: ""
 opening_hours: ""

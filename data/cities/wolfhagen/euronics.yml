@@ -5,7 +5,7 @@ latitude: 51.332328600000004
 longitude: 9.175125000000001
 postcode: 34466
 city: Wolfhagen
-street: Bunsenstraße
+street: "Bunsenstraße"
 housenumber: 8
 phone: "+49 5692 98780"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:30-13:00"

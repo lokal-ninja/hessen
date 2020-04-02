@@ -5,7 +5,7 @@ latitude: 51.131795000000004
 longitude: 9.273082800000001
 postcode: 34560
 city: Fritzlar
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 32
 phone: "+49 5622 2200"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 50.3642654
 longitude: 8.7383168
 postcode: 61231
 city: Bad Nauheim
-street: Alicestraße
+street: "Alicestraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

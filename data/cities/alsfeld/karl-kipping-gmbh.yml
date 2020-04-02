@@ -5,7 +5,7 @@ latitude: 50.7402353
 longitude: 9.259074700000001
 postcode: 36304
 city: Alsfeld
-street: Karl-Bröger-Straße
+street: "Karl-Bröger-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

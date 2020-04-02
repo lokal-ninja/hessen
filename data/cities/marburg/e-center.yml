@@ -5,7 +5,7 @@ latitude: 50.7882928
 longitude: 8.7650655
 postcode: 35039
 city: Marburg
-street: Temmlerstraße
+street: "Temmlerstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

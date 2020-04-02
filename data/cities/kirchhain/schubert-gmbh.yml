@@ -5,7 +5,7 @@ latitude: 50.8257965
 longitude: 8.9191024
 postcode: 35274
 city: Kirchhain
-street: Pestalozzistraße
+street: "Pestalozzistraße"
 housenumber: 16
 phone: "+49 6422 1300"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.830207800000004
 longitude: 8.832650600000001
 postcode: 64354
 city: Reinheim
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 12
 phone: "+49 6162 5173"
 opening_hours: ""

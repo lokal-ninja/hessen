@@ -5,7 +5,7 @@ latitude: 51.2811073
 longitude: 9.558046500000001
 postcode: 34253
 city: Lohfelden
-street: Elisabeth-Selbert-Straße
+street: "Elisabeth-Selbert-Straße"
 housenumber: 40
 phone: "+49 561 45037585"
 opening_hours: "Mo-Sa 07:00-20:00, Su 08:00-11:00"

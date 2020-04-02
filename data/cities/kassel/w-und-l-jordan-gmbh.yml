@@ -5,7 +5,7 @@ latitude: 51.294138800000006
 longitude: 9.4739795
 postcode: 34134
 city: Kassel
-street: Horst-Dieter-Jordan-Straße
+street: "Horst-Dieter-Jordan-Straße"
 housenumber: 7-10
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

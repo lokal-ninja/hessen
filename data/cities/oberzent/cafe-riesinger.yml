@@ -5,7 +5,7 @@ latitude: 49.566693300000004
 longitude: 8.9730633
 postcode: 64760
 city: Oberzent
-street: Hirschhorner Straße
+street: "Hirschhorner Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Tu 05:00-18:00; Th-Fr 05:00-18:00; Sa 05:00-13:00, Su 08-16:00"

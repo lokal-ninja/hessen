@@ -5,7 +5,7 @@ latitude: 51.279412300000004
 longitude: 9.5288617
 postcode: 34253
 city: Lohfelden
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:30; Sa 10:00-18:00"

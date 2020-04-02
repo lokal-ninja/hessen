@@ -5,7 +5,7 @@ latitude: 50.3423956
 longitude: 8.6169455
 postcode: 61273
 city: Wehrheim
-street: Taunusstraße
+street: "Taunusstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

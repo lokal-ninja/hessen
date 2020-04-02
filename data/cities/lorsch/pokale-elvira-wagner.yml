@@ -5,7 +5,7 @@ latitude: 49.6357086
 longitude: 8.5679952
 postcode: 64653
 city: Lorsch
-street: Sachsenbuckelstraße
+street: "Sachsenbuckelstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

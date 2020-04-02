@@ -5,7 +5,7 @@ latitude: 50.438607100000006
 longitude: 9.3225593
 postcode: 63633
 city: Birstein
-street: Völzberger Straße
+street: "Völzberger Straße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo,Th 16:00-18:00; Sa 10:00-12:00"

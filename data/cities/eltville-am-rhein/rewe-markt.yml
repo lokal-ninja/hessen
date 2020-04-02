@@ -5,7 +5,7 @@ latitude: 50.0232231
 longitude: 8.0929844
 postcode: 65346
 city: Eltville am Rhein
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 33
 phone: "+49 6123 908290"
 opening_hours: ""

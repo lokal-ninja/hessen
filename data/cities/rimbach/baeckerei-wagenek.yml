@@ -5,7 +5,7 @@ latitude: 49.6030345
 longitude: 8.7663468
 postcode: 64668
 city: Rimbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 12a
 phone: ""
 opening_hours: ""

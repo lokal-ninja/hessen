@@ -5,7 +5,7 @@ latitude: 50.0300541
 longitude: 8.8843028
 postcode: 63110
 city: Rodgau
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 76
 phone: "+49 6106 2660926"
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"

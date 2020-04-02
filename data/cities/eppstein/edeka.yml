@@ -5,7 +5,7 @@ latitude: 50.1402998
 longitude: 8.3914376
 postcode: 65817
 city: Eppstein
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.2741696
 longitude: 8.871950100000001
 postcode: 34497
 city: Korbach
-street: Professor-Bier-Straße
+street: "Professor-Bier-Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

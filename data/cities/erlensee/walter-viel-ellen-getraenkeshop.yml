@@ -5,7 +5,7 @@ latitude: 50.1599809
 longitude: 8.993345900000001
 postcode: 63526
 city: Erlensee
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 12
 phone: ""
 opening_hours: ""

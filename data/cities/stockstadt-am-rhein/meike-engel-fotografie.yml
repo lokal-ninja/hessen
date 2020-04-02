@@ -5,7 +5,7 @@ latitude: 49.808224
 longitude: 8.4658411
 postcode: 64589
 city: Stockstadt am Rhein
-street: Oberstraße
+street: "Oberstraße"
 housenumber: 13
 phone: "+49 6158 917747"
 opening_hours: ""

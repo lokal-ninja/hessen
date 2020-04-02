@@ -5,7 +5,7 @@ latitude: 50.040938100000005
 longitude: 8.2206455
 postcode: 65203
 city: Wiesbaden
-street: Rheingaustraße
+street: "Rheingaustraße"
 housenumber: 88
 phone: "+49-611-609260"
 opening_hours: ""

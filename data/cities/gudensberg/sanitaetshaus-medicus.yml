@@ -5,7 +5,7 @@ latitude: 51.1777097
 longitude: 9.3687073
 postcode: 34281
 city: Gudensberg
-street: Untergasse
+street: "Untergasse"
 housenumber: 23
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.5385452
 longitude: 8.4087574
 postcode: 35606
 city: Solms
-street: Tunnelweg
+street: "Tunnelweg"
 housenumber: 10
 phone: "+49 6442 93 89 08"
 opening_hours: ""

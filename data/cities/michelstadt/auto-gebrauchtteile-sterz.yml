@@ -5,7 +5,7 @@ latitude: 49.6749528
 longitude: 8.997772300000001
 postcode: 64720
 city: Michelstadt
-street: Pelarstraße
+street: "Pelarstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

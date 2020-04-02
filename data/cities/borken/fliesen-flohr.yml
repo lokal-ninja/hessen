@@ -5,7 +5,7 @@ latitude: 51.0521138
 longitude: 9.2811231
 postcode: 34582
 city: Borken
-street: Mittelweg
+street: "Mittelweg"
 housenumber: 6
 phone: ""
 opening_hours: ""

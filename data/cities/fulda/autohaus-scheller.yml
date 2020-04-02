@@ -5,7 +5,7 @@ latitude: 50.551191200000005
 longitude: 9.715592200000001
 postcode: 36043
 city: Fulda
-street: Dr.-Raabe-Straße
+street: "Dr.-Raabe-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

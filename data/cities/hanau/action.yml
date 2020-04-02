@@ -5,7 +5,7 @@ latitude: 50.131393300000006
 longitude: 8.922787900000001
 postcode: 63450
 city: Hanau
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 2-4
 phone: "+49 211 30146100"
 opening_hours: "Mo-Sa 09:00-20:00"

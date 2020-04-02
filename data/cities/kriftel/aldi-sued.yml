@@ -5,7 +5,7 @@ latitude: 50.0827357
 longitude: 8.458283900000001
 postcode: 65830
 city: Kriftel
-street: Oberweidstraße
+street: "Oberweidstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

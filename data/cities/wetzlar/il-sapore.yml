@@ -5,7 +5,7 @@ latitude: 50.5530428
 longitude: 8.500610400000001
 postcode: 35578
 city: Wetzlar
-street: Schillerplatz
+street: "Schillerplatz"
 housenumber: 1
 phone: ""
 opening_hours: ""

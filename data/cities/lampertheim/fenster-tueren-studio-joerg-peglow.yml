@@ -5,7 +5,7 @@ latitude: 49.621612500000005
 longitude: 8.4286893
 postcode: 
 city: Lampertheim
-street: Wilhelm-Herz-Ring
+street: "Wilhelm-Herz-Ring"
 housenumber: 7
 phone: "+49 6206 4580"
 opening_hours: ""

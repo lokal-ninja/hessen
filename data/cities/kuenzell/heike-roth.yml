@@ -5,7 +5,7 @@ latitude: 50.551837000000006
 longitude: 9.723318500000001
 postcode: 36093
 city: Künzell
-street: Justus-Liebig-Straße
+street: "Justus-Liebig-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "nach Vereinbarung"

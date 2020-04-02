@@ -5,7 +5,7 @@ latitude: 49.9025757
 longitude: 8.6606618
 postcode: 64291
 city: Darmstadt
-street: Thomas-Mann-Platz
+street: "Thomas-Mann-Platz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00"

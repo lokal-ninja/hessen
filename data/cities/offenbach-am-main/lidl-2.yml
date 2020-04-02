@@ -5,7 +5,7 @@ latitude: 50.087461000000005
 longitude: 8.7466504
 postcode: 63069
 city: Offenbach am Main
-street: Merianstraße
+street: "Merianstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

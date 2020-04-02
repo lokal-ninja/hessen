@@ -5,7 +5,7 @@ latitude: 50.1445372
 longitude: 8.53445
 postcode: 65824
 city: Schwalbach am Taunus
-street: Am Flachsacker
+street: "Am Flachsacker"
 housenumber: 32
 phone: "+49 6196 3003"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-20:00"

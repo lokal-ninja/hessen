@@ -5,7 +5,7 @@ latitude: 50.018857000000004
 longitude: 8.6735959
 postcode: 63303
 city: Dreieich
-street: Eisenbahnstraße
+street: "Eisenbahnstraße"
 housenumber: 204
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

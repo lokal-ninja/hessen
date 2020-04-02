@@ -5,7 +5,7 @@ latitude: 50.6590147
 longitude: 9.7883528
 postcode: 36088
 city: Hünfeld
-street: Hünfelder Straße
+street: "Hünfelder Straße"
 housenumber: 2
 phone: "+49 6652 919530"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-20:00"

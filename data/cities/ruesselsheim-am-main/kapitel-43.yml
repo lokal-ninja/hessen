@@ -5,7 +5,7 @@ latitude: 49.992726600000005
 longitude: 8.4125577
 postcode: 65428
 city: Rüsselsheim am Main
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 32-34
 phone: "+49 6142 8348860"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 50.7599372
 longitude: 8.727722400000001
 postcode: 35096
 city: Weimar (Lahn)
-street: Haddamshäuser Weg
+street: "Haddamshäuser Weg"
 housenumber: 5
 phone: ""
 opening_hours: ""

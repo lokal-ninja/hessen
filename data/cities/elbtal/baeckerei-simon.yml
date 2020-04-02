@@ -5,7 +5,7 @@ latitude: 50.5078788
 longitude: 8.0646882
 postcode: 65627
 city: Elbtal
-street: Siegener Straße
+street: "Siegener Straße"
 housenumber: 13
 phone: "06436 9490299"
 opening_hours: ""

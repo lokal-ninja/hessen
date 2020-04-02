@@ -5,7 +5,7 @@ latitude: 50.2346768
 longitude: 9.336425700000001
 postcode: 63619
 city: Bad Orb
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 36
 phone: "+49 6052 91890"
 opening_hours: "Mo-Sa 07:00-21:00"

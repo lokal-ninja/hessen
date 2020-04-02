@@ -5,7 +5,7 @@ latitude: 49.925318600000004
 longitude: 8.4971548
 postcode: 64521
 city: Groß-Gerau
-street: Wasserweg
+street: "Wasserweg"
 housenumber: 39
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.115080600000006
 longitude: 8.6830804
 postcode: 60313
 city: Frankfurt am Main
-street: Stiftstraße
+street: "Stiftstraße"
 housenumber: 4
 phone: "+49 69 1310862"
 opening_hours: ""

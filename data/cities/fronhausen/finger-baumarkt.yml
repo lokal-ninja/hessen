@@ -5,7 +5,7 @@ latitude: 50.7071704
 longitude: 8.7005035
 postcode: 35112
 city: Fronhausen
-street: Bellnhäuser Straße
+street: "Bellnhäuser Straße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 7:30-18:00, Sa 8:00-13:00"

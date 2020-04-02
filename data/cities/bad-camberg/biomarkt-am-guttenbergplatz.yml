@@ -5,7 +5,7 @@ latitude: 50.2970607
 longitude: 8.269215500000001
 postcode: 65520
 city: Bad Camberg
-street: Am Guttenbergplatz
+street: "Am Guttenbergplatz"
 housenumber: 3
 phone: ""
 opening_hours: ""

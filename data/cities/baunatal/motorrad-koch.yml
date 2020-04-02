@@ -5,7 +5,7 @@ latitude: 51.248103500000006
 longitude: 9.3906699
 postcode: 34225
 city: Baunatal
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 3
 phone: "+49 5601 979670"
 opening_hours: "Mo-Fr 09:00-18:00; Su 08:00-12:00"

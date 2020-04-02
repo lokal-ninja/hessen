@@ -5,7 +5,7 @@ latitude: 49.87913390000001
 longitude: 8.643382
 postcode: 64293
 city: Darmstadt
-street: Kasinostraße
+street: "Kasinostraße"
 housenumber: 60
 phone: "+49 6151 871319"
 opening_hours: "Mo-Fr 08:00-17:00"

@@ -5,7 +5,7 @@ latitude: 50.91061800000001
 longitude: 8.530530500000001
 postcode: 35216
 city: Biedenkopf
-street: Hospitalstraße
+street: "Hospitalstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"

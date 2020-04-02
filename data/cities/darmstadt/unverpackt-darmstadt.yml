@@ -5,7 +5,7 @@ latitude: 49.8778985
 longitude: 8.662331
 postcode: 
 city: Darmstadt
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 5b
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-15:00"

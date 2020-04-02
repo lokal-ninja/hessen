@@ -5,7 +5,7 @@ latitude: 50.1030104
 longitude: 8.759206200000001
 postcode: 63065
 city: Offenbach am Main
-street: Kaiserstraße
+street: "Kaiserstraße"
 housenumber: 
 phone: "+49 69 82 37 72 52"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

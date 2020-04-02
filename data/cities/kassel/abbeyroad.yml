@@ -5,7 +5,7 @@ latitude: 51.3154679
 longitude: 9.501223000000001
 postcode: 34117
 city: Kassel
-street: Entenanger
+street: "Entenanger"
 housenumber: 9
 phone: "+49 561 7667920"
 opening_hours: "Th,Fr 11:00-19:00; Sa 10:00-14:00"

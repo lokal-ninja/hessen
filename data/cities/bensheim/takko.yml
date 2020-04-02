@@ -5,7 +5,7 @@ latitude: 49.67591
 longitude: 8.6168498
 postcode: 64625
 city: Bensheim
-street: Fabrikstraße
+street: "Fabrikstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

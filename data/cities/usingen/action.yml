@@ -5,7 +5,7 @@ latitude: 50.335733100000006
 longitude: 8.5323112
 postcode: 61250
 city: Usingen
-street: Neutorstraße
+street: "Neutorstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

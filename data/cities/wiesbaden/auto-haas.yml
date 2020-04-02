@@ -5,7 +5,7 @@ latitude: 50.0810874
 longitude: 8.2283153
 postcode: 65195
 city: Wiesbaden
-street: Blücherstraße
+street: "Blücherstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

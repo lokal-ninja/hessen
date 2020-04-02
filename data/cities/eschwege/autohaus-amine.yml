@@ -5,7 +5,7 @@ latitude: 51.200745000000005
 longitude: 10.015398900000001
 postcode: 37269
 city: Eschwege
-street: Thüringer Straße
+street: "Thüringer Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

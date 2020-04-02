@@ -5,7 +5,7 @@ latitude: 50.3049471
 longitude: 8.5163416
 postcode: 61267
 city: Neu-Anspach
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

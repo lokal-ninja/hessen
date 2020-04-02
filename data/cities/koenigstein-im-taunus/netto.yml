@@ -5,7 +5,7 @@ latitude: 50.1719969
 longitude: 8.4469922
 postcode: 61462
 city: Königstein im Taunus
-street: Wiesbadener Straße
+street: "Wiesbadener Straße"
 housenumber: 220
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.543009000000005
 longitude: 8.973704600000001
 postcode: 35321
 city: Laubach
-street: Philipp-Reis-Straße
+street: "Philipp-Reis-Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

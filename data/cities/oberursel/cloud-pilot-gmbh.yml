@@ -5,7 +5,7 @@ latitude: 50.187006000000004
 longitude: 8.5852844
 postcode: 61440
 city: Oberursel
-street: Zimmersmühlenweg
+street: "Zimmersmühlenweg"
 housenumber: 73
 phone: "+49 6171 20600-0"
 opening_hours: ""

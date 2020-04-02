@@ -5,7 +5,7 @@ latitude: 51.308111100000005
 longitude: 9.5441108
 postcode: 34123
 city: Kassel
-street: Heiligenröder Straße
+street: "Heiligenröder Straße"
 housenumber: 51
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

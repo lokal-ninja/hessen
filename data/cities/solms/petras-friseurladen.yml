@@ -5,7 +5,7 @@ latitude: 50.5271222
 longitude: 8.4129279
 postcode: 35606
 city: Solms
-street: Wolfsgasse
+street: "Wolfsgasse"
 housenumber: 17
 phone: "+49 6442 2 36 68"
 opening_hours: ""

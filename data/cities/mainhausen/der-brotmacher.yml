@@ -5,7 +5,7 @@ latitude: 50.014793600000004
 longitude: 8.9948605
 postcode: 63533
 city: Mainhausen
-street: Babenhäuser Straße
+street: "Babenhäuser Straße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 05:30-18:30; Sa 05:30-17:00; Su 08:00-17:00; PH off"

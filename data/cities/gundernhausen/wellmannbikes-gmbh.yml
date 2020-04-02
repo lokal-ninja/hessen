@@ -5,7 +5,7 @@ latitude: 49.8683148
 longitude: 8.7790313
 postcode: 64380
 city: Gundernhausen
-street: Ulmenweg
+street: "Ulmenweg"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 10:00-13:00,14:00-19:00; Sa 09:00-14:00"

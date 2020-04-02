@@ -5,7 +5,7 @@ latitude: 50.072961500000005
 longitude: 8.239623100000001
 postcode: 65185
 city: Wiesbaden
-street: Matthias-Claudius-Straße
+street: "Matthias-Claudius-Straße"
 housenumber: 14
 phone: "+49 611 46 999 852"
 opening_hours: "Mo 09:00-14:00, Tu-Fr 09:00-18:00, Sa 09:00-14:00"

@@ -5,7 +5,7 @@ latitude: 49.9063645
 longitude: 8.851255400000001
 postcode: 64807
 city: Dieburg
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

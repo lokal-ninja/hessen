@@ -5,7 +5,7 @@ latitude: 50.003675400000006
 longitude: 8.5809116
 postcode: 64546
 city: Mörfelden-Walldorf
-street: Farmstraße
+street: "Farmstraße"
 housenumber: 101
 phone: ""
 opening_hours: "07:00-20:00"

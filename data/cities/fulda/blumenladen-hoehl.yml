@@ -5,7 +5,7 @@ latitude: 50.547198900000005
 longitude: 9.674626100000001
 postcode: 36037
 city: Fulda
-street: Löherstraße
+street: "Löherstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

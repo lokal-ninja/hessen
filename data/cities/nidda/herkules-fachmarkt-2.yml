@@ -5,7 +5,7 @@ latitude: 50.4167994
 longitude: 9.011784800000001
 postcode: 63667
 city: Nidda
-street: Krötenburgstraße
+street: "Krötenburgstraße"
 housenumber: 12
 phone: "+49 6043 982290"
 opening_hours: ""

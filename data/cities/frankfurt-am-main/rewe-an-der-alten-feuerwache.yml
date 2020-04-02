@@ -5,7 +5,7 @@ latitude: 50.112397900000005
 longitude: 8.7052332
 postcode: 60314
 city: Frankfurt am Main
-street: Louis-Appia-Passage
+street: "Louis-Appia-Passage"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 07:00-00:00; Sa 07:00-23:30; PH off"

@@ -5,7 +5,7 @@ latitude: 49.680822600000006
 longitude: 9.0068363
 postcode: 64720
 city: Michelstadt
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 50
 phone: ""
 opening_hours: ""

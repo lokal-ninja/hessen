@@ -5,7 +5,7 @@ latitude: 50.075141300000006
 longitude: 8.2388116
 postcode: 65185
 city: Wiesbaden
-street: Moritzstraße
+street: "Moritzstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

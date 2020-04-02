@@ -5,7 +5,7 @@ latitude: 50.397691
 longitude: 8.811219300000001
 postcode: 61200
 city: Wölfersheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 65
 phone: ""
 opening_hours: ""

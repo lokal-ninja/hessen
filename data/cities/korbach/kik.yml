@@ -5,7 +5,7 @@ latitude: 51.277345700000005
 longitude: 8.8702322
 postcode: 34497
 city: Korbach
-street: Flechtdorfer Straße
+street: "Flechtdorfer Straße"
 housenumber: 3b
 phone: ""
 opening_hours: ""

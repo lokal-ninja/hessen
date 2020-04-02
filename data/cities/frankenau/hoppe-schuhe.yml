@@ -5,7 +5,7 @@ latitude: 51.0688588
 longitude: 8.9058618
 postcode: 35110
 city: Frankenau
-street: Kassenstraße
+street: "Kassenstraße"
 housenumber: 1
 phone: "+49 6455 755672"
 opening_hours: ""

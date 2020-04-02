@@ -5,7 +5,7 @@ latitude: 51.326656500000006
 longitude: 9.501411800000001
 postcode: 34127
 city: Kassel
-street: Mombachstraße
+street: "Mombachstraße"
 housenumber: 18
 phone: "+49 561 8900499"
 opening_hours: "Mo-Fr 12:00-22:00; Sa,Su 10:00-20:00"

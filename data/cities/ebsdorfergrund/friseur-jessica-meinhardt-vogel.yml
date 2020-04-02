@@ -5,7 +5,7 @@ latitude: 50.7440578
 longitude: 8.834862900000001
 postcode: 35085
 city: Ebsdorfergrund
-street: Bogenweg
+street: "Bogenweg"
 housenumber: 2
 phone: ""
 opening_hours: ""

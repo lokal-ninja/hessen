@@ -5,7 +5,7 @@ latitude: 49.7423458
 longitude: 9.007935900000001
 postcode: 64732
 city: Bad König
-street: Alexanderstraße
+street: "Alexanderstraße"
 housenumber: 9
 phone: "+49 6063 1522"
 opening_hours: ""

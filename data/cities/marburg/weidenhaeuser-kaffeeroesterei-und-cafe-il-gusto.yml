@@ -5,7 +5,7 @@ latitude: 50.807540900000006
 longitude: 8.7752692
 postcode: 35037
 city: Marburg
-street: Erlenring
+street: "Erlenring"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00;Sa 10:00-16:00"

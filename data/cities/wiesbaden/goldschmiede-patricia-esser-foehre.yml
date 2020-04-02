@@ -5,7 +5,7 @@ latitude: 50.085527000000006
 longitude: 8.2402666
 postcode: 65183
 city: Wiesbaden
-street: Obere Webergasse
+street: "Obere Webergasse"
 housenumber: 39
 phone: "+49611 40 60 544"
 opening_hours: "Mo-Fr 10:00-13:00,14:00-18:30; Sa 10:00-16:00; Dec 10:00-18:00"

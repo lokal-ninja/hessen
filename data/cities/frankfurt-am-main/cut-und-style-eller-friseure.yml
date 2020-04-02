@@ -5,7 +5,7 @@ latitude: 50.1834879
 longitude: 8.6645134
 postcode: 60437
 city: Frankfurt am Main
-street: Oberer Kalbacher Weg
+street: "Oberer Kalbacher Weg"
 housenumber: 2
 phone: "+49 69 95417750; +49 176 82377915"
 opening_hours: "Tu,We,Fr 09:00-18:00, Th 09:00-20:00, Sa 08:00-14:00, Nach Vereinbarung"

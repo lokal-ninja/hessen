@@ -5,7 +5,7 @@ latitude: 50.1442745
 longitude: 8.6051786
 postcode: 60488
 city: Frankfurt am Main
-street: Heerstraße
+street: "Heerstraße"
 housenumber: 204a
 phone: ""
 opening_hours: ""

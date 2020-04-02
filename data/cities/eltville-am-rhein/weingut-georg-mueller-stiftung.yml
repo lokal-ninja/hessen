@@ -5,7 +5,7 @@ latitude: 50.014394100000004
 longitude: 8.061141300000001
 postcode: 65347
 city: Eltville am Rhein
-street: Eberbacher Straße
+street: "Eberbacher Straße"
 housenumber: 7-9
 phone: "+49 6723 2020"
 opening_hours: "Mo-Fr 10:00-13:00; 14:00-17:00"

@@ -5,7 +5,7 @@ latitude: 51.4480425
 longitude: 9.4149364
 postcode: 34393
 city: Grebenstein
-street: Untere Hofstraße
+street: "Untere Hofstraße"
 housenumber: 3
 phone: "+49 5674 894"
 opening_hours: "Mo-Fr 08:00-18:00"

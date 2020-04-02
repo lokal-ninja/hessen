@@ -5,7 +5,7 @@ latitude: 49.591172500000006
 longitude: 8.990417800000001
 postcode: 64760
 city: Oberzent
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

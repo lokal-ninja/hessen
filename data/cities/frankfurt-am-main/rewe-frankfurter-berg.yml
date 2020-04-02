@@ -5,7 +5,7 @@ latitude: 50.166765500000004
 longitude: 8.6801797
 postcode: 60433
 city: Frankfurt am Main
-street: Homburger Landstraße
+street: "Homburger Landstraße"
 housenumber: 340–352
 phone: "+49 69 54806595"
 opening_hours: "Mo-Sa 07:00-24:00"

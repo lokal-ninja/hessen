@@ -5,7 +5,7 @@ latitude: 50.37995110000001
 longitude: 8.7322237
 postcode: 61231
 city: Bad Nauheim
-street: Kettelerstraße
+street: "Kettelerstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:30"

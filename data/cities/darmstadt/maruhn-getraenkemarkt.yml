@@ -5,7 +5,7 @@ latitude: 49.8145998
 longitude: 8.6250806
 postcode: 64297
 city: Darmstadt
-street: Pfungstädter Straße
+street: "Pfungstädter Straße"
 housenumber: 174
 phone: ""
 opening_hours: "Mo-Th 09:00-19:00; Fr-Sa 08:30-19:00; PH off"

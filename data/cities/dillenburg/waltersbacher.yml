@@ -5,7 +5,7 @@ latitude: 50.7451359
 longitude: 8.325472900000001
 postcode: 35689
 city: Dillenburg
-street: Goldbachstraße
+street: "Goldbachstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

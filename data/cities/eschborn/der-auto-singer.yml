@@ -5,7 +5,7 @@ latitude: 50.144487600000005
 longitude: 8.5671499
 postcode: 65760
 city: Eschborn
-street: Oberortstraße
+street: "Oberortstraße"
 housenumber: 7
 phone: "+49 6196 4020790"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.1343625
 longitude: 8.9175079
 postcode: 63450
 city: Hanau
-street: Am Freiheitsplatz
+street: "Am Freiheitsplatz"
 housenumber: 5
 phone: ""
 opening_hours: ""

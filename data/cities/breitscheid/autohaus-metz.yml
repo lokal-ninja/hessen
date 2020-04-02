@@ -5,7 +5,7 @@ latitude: 50.6648792
 longitude: 8.173085200000001
 postcode: 35767
 city: Breitscheid
-street: Heisterberger Weg
+street: "Heisterberger Weg"
 housenumber: 3
 phone: ""
 opening_hours: ""

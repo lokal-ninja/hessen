@@ -5,7 +5,7 @@ latitude: 50.035996600000004
 longitude: 8.975058
 postcode: 63500
 city: Seligenstadt
-street: Rödchesweg
+street: "Rödchesweg"
 housenumber: 
 phone: ""
 opening_hours: "Apr-Oct Fr 09:00-11:00,15:00-18:00; Nov-Mar Fr 09:00-11:00,15:00-17:00; Sa 09:00-14:00; PH off"

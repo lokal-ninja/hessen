@@ -5,7 +5,7 @@ latitude: 51.4916129
 longitude: 9.073602600000001
 postcode: 34474
 city: Diemelstadt
-street: Teichstraße
+street: "Teichstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 8:00-12:00, 14:00-18:00; Sa 9:00-13:00"

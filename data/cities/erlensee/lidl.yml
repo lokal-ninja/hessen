@@ -5,7 +5,7 @@ latitude: 50.1544712
 longitude: 8.9769567
 postcode: 63526
 city: Erlensee
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

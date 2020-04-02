@@ -5,7 +5,7 @@ latitude: 51.3492061
 longitude: 9.4685003
 postcode: 34246
 city: Vellmar
-street: Warburger Straße
+street: "Warburger Straße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Th 07:00-16:45,Fr 07:00-14:00"

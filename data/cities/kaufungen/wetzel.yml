@@ -5,7 +5,7 @@ latitude: 51.283665000000006
 longitude: 9.6323375
 postcode: 34260
 city: Kaufungen
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 443
 phone: "+49 5605 4008"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-13:00"

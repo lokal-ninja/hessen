@@ -5,7 +5,7 @@ latitude: 49.695566500000005
 longitude: 8.614659000000001
 postcode: 64625
 city: Bensheim
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 142
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

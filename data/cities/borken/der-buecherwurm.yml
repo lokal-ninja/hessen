@@ -5,7 +5,7 @@ latitude: 51.0460106
 longitude: 9.2830648
 postcode: 34582
 city: Borken
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 90
 phone: ""
 opening_hours: ""

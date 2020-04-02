@@ -5,7 +5,7 @@ latitude: 49.856055600000005
 longitude: 8.7548644
 postcode: 64380
 city: Roßdorf
-street: Beunegasse
+street: "Beunegasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

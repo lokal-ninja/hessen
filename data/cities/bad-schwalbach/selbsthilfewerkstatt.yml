@@ -5,7 +5,7 @@ latitude: 50.1428135
 longitude: 8.047477200000001
 postcode: 65307
 city: Bad Schwalbach
-street: Edmund-Heusinger-Straße
+street: "Edmund-Heusinger-Straße"
 housenumber: 8a
 phone: ""
 opening_hours: ""

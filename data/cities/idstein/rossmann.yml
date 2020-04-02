@@ -5,7 +5,7 @@ latitude: 50.2201475
 longitude: 8.267143500000001
 postcode: 65510
 city: Idstein
-street: Wiesbadener Straße
+street: "Wiesbadener Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00; PH off"

@@ -5,7 +5,7 @@ latitude: 50.3012256
 longitude: 8.2613255
 postcode: 65520
 city: Bad Camberg
-street: Limburger Straße
+street: "Limburger Straße"
 housenumber: 49-51
 phone: "+49-6434-3681"
 opening_hours: ""

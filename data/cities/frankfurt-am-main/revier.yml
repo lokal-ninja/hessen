@@ -5,7 +5,7 @@ latitude: 50.118511000000005
 longitude: 8.685752
 postcode: 
 city: Frankfurt am Main
-street: Petersstraße
+street: "Petersstraße"
 housenumber: 2
 phone: "+49 (0) 69 92039463"
 opening_hours: ""

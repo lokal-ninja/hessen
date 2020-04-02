@@ -5,7 +5,7 @@ latitude: 50.531375800000006
 longitude: 9.6920822
 postcode: 36043
 city: Fulda
-street: Keltenstraße
+street: "Keltenstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

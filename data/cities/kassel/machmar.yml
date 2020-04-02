@@ -5,7 +5,7 @@ latitude: 51.319119
 longitude: 9.4965899
 postcode: 34117
 city: Kassel
-street: Lutherstraße
+street: "Lutherstraße"
 housenumber: 1
 phone: "+49 561 14639"
 opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"

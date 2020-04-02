@@ -5,7 +5,7 @@ latitude: 50.076812200000006
 longitude: 8.4719726
 postcode: 65830
 city: Kriftel
-street: Gutenbergstraße
+street: "Gutenbergstraße"
 housenumber: 1
 phone: "+49 6192 9799925"
 opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"

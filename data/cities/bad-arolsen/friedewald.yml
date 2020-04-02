@@ -5,7 +5,7 @@ latitude: 51.3792849
 longitude: 9.0186531
 postcode: 34454
 city: Bad Arolsen
-street: Kaulbachstraße
+street: "Kaulbachstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

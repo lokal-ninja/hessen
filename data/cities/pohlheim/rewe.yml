@@ -5,7 +5,7 @@ latitude: 50.538839800000005
 longitude: 8.754507100000001
 postcode: 35415
 city: Pohlheim
-street: Alter Weg
+street: "Alter Weg"
 housenumber: 3
 phone: "+49 6404 6680946"
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 50.7037921
 longitude: 8.442195700000001
 postcode: 35649
 city: Bischoffen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 29
 phone: ""
 opening_hours: ""

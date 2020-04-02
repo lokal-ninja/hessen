@@ -5,7 +5,7 @@ latitude: 51.2105231
 longitude: 9.691664900000001
 postcode: 37235
 city: Hessisch Lichtenau
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

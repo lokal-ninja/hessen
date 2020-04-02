@@ -5,7 +5,7 @@ latitude: 50.753631000000006
 longitude: 9.2601552
 postcode: 36304
 city: Alsfeld
-street: Marburger Straße
+street: "Marburger Straße"
 housenumber: 57
 phone: ""
 opening_hours: ""

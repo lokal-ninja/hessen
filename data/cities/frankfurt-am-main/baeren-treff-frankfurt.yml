@@ -5,7 +5,7 @@ latitude: 50.1141719
 longitude: 8.679066
 postcode: 60313
 city: Frankfurt am Main
-street: An der Hauptwache
+street: "An der Hauptwache"
 housenumber: 11
 phone: "+49 69 21998884"
 opening_hours: "Mo-Sa 10:00-19:00"

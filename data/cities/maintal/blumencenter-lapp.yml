@@ -5,7 +5,7 @@ latitude: 50.133282900000005
 longitude: 8.8469628
 postcode: 63477
 city: Maintal
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 32
 phone: "+49 6181 492286"
 opening_hours: ""

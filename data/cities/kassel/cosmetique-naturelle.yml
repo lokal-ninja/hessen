@@ -5,7 +5,7 @@ latitude: 51.3229479
 longitude: 9.448232800000001
 postcode: 34130
 city: Kassel
-street: Harleshäuser Straße
+street: "Harleshäuser Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

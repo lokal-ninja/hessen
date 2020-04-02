@@ -5,7 +5,7 @@ latitude: 50.365345100000006
 longitude: 8.7391985
 postcode: 61231
 city: Bad Nauheim
-street: Parkstraße
+street: "Parkstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

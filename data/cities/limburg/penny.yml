@@ -5,7 +5,7 @@ latitude: 50.377895800000005
 longitude: 8.062007600000001
 postcode: 
 city: Limburg
-street: Holzheimer Straße
+street: "Holzheimer Straße"
 housenumber: 92
 phone: ""
 opening_hours: ""

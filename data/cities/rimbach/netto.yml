@@ -5,7 +5,7 @@ latitude: 49.6279071
 longitude: 8.7582831
 postcode: 64668
 city: Rimbach
-street: Staatsstraße
+street: "Staatsstraße"
 housenumber: 48-50
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

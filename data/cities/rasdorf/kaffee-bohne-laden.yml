@@ -5,7 +5,7 @@ latitude: 50.7167163
 longitude: 9.9000015
 postcode: 36169
 city: Rasdorf
-street: Landstraße
+street: "Landstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo,Sa 07:00-13:00; Tu-Fr 07:00-18:00"

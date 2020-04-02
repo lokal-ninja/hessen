@@ -5,7 +5,7 @@ latitude: 50.201798700000005
 longitude: 8.5804693
 postcode: 61440
 city: Oberursel (Taunus)
-street: Vorstadt
+street: "Vorstadt"
 housenumber: 26
 phone: "+49 6171 59443"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"

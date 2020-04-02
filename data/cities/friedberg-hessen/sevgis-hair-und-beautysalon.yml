@@ -5,7 +5,7 @@ latitude: 50.331128400000004
 longitude: 8.7441137
 postcode: 61169
 city: Friedberg (Hessen)
-street: Taunusstraße
+street: "Taunusstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.073629200000006
 longitude: 8.218287100000001
 postcode: 65197
 city: Wiesbaden
-street: Königsteiner Straße
+street: "Königsteiner Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

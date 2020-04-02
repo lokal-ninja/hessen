@@ -5,7 +5,7 @@ latitude: 49.821083300000005
 longitude: 8.7547072
 postcode: 64372
 city: Ober-Ramstadt
-street: Röhrstraße
+street: "Röhrstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:30; Sa 7:30-17:00"

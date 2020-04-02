@@ -5,7 +5,7 @@ latitude: 50.0939265
 longitude: 8.8542526
 postcode: 63165
 city: Mühlheim am Main
-street: Obertshäuser Straße
+street: "Obertshäuser Straße"
 housenumber: 37A
 phone: ""
 opening_hours: ""

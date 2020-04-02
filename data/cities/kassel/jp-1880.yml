@@ -5,7 +5,7 @@ latitude: 51.3131928
 longitude: 9.4922916
 postcode: 34117
 city: Kassel
-street: Wilhelmsstraße
+street: "Wilhelmsstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

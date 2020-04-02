@@ -5,7 +5,7 @@ latitude: 50.0084195
 longitude: 8.3694933
 postcode: 65239
 city: Hochheim
-street: Herderstraße
+street: "Herderstraße"
 housenumber: 9-19
 phone: "+49-6146-8493099"
 opening_hours: ""

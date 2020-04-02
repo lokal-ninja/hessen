@@ -5,7 +5,7 @@ latitude: 49.547947300000004
 longitude: 8.5880127
 postcode: 68519
 city: Viernheim
-street: Stahlstraße
+street: "Stahlstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.491330600000005
 longitude: 9.3823279
 postcode: 34369
 city: Hofgeismar
-street: Dragonerstraße
+street: "Dragonerstraße"
 housenumber: 15
 phone: "+49 5671  99689-0"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 50.133979800000006
 longitude: 8.527052600000001
 postcode: 65843
 city: Sulzbach (Taunus)
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 30
 phone: ""
 opening_hours: "24/7"

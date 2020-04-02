@@ -5,7 +5,7 @@ latitude: 49.680086700000004
 longitude: 8.610590100000001
 postcode: 64625
 city: Bensheim
-street: Guntherstraße
+street: "Guntherstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

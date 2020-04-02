@@ -5,7 +5,7 @@ latitude: 50.671831000000005
 longitude: 9.7642992
 postcode: 36088
 city: Hünfeld
-street: Gartenstraße
+street: "Gartenstraße"
 housenumber: 14
 phone: "+49 6652 9926956"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-18:00; Su,PH 07:00-18:00"

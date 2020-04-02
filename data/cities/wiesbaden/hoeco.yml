@@ -5,7 +5,7 @@ latitude: 50.0684636
 longitude: 8.2257794
 postcode: 
 city: Wiesbaden
-street: Schiersteiner Straße
+street: "Schiersteiner Straße"
 housenumber: 68
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00"

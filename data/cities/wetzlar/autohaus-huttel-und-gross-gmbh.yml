@@ -5,7 +5,7 @@ latitude: 50.5693132
 longitude: 8.4814576
 postcode: 35576
 city: Wetzlar
-street: Willy-Bechstein-Straße
+street: "Willy-Bechstein-Straße"
 housenumber: 8
 phone: "+49 6441 33044"
 opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-13:00"

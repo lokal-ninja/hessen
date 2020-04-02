@@ -5,7 +5,7 @@ latitude: 51.3806583
 longitude: 9.015215300000001
 postcode: 34454
 city: Bad Arolsen
-street: Kirchplatz
+street: "Kirchplatz"
 housenumber: 6
 phone: ""
 opening_hours: ""

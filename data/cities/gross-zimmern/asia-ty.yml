@@ -5,7 +5,7 @@ latitude: 49.8729493
 longitude: 8.8318197
 postcode: 64846
 city: Groß-Zimmern
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.6616176
 longitude: 8.5640584
 postcode: 64653
 city: Lorsch
-street: Theodor-Heuss-Straße
+street: "Theodor-Heuss-Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

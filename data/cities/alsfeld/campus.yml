@@ -5,7 +5,7 @@ latitude: 50.752684
 longitude: 9.2716337
 postcode: 36304
 city: Alsfeld
-street: Schellengasse
+street: "Schellengasse"
 housenumber: 13
 phone: ""
 opening_hours: ""

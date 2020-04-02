@@ -5,7 +5,7 @@ latitude: 50.825308500000006
 longitude: 9.0146587
 postcode: 35260
 city: Stadtallendorf
-street: Niederkleiner Straße
+street: "Niederkleiner Straße"
 housenumber: 1 f
 phone: ""
 opening_hours: ""

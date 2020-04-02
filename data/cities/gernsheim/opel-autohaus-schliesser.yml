@@ -5,7 +5,7 @@ latitude: 49.755349
 longitude: 8.482744
 postcode: 64579
 city: Gernsheim
-street: Wilhelm-Leuschner-Straße
+street: "Wilhelm-Leuschner-Straße"
 housenumber: 5
 phone: "+49 6258 3388"
 opening_hours: "Mo-Th 07:00-12:00,13:00-18:00;Fr 07:00-17:00;Sa 09:00-13:00"

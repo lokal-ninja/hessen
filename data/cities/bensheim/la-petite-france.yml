@@ -5,7 +5,7 @@ latitude: 49.678032800000004
 longitude: 8.6161446
 postcode: 64625
 city: Bensheim
-street: Wormser Straße
+street: "Wormser Straße"
 housenumber: 5-7
 phone: "+49 6251 708497"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-16:00"

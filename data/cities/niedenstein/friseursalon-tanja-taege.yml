@@ -5,7 +5,7 @@ latitude: 51.226936900000005
 longitude: 9.302188600000001
 postcode: 34305
 city: Niedenstein
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.27526640000001
 longitude: 9.3735371
 postcode: 34270
 city: Schauenburg
-street: Lange Baunastraße
+street: "Lange Baunastraße"
 housenumber: 52
 phone: ""
 opening_hours: "Mo-Th 08:00-12:00, 14:00-17:00; Fr 08:00-12:00"

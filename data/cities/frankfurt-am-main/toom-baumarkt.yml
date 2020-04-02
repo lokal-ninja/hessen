@@ -5,7 +5,7 @@ latitude: 50.1367607
 longitude: 8.6004317
 postcode: 60488
 city: Frankfurt am Main
-street: Guerickestraße
+street: "Guerickestraße"
 housenumber: 10
 phone: "+49 69 976835-0"
 opening_hours: ""

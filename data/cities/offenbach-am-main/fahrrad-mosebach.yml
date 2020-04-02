@@ -5,7 +5,7 @@ latitude: 50.103514000000004
 longitude: 8.765117700000001
 postcode: 63065
 city: Offenbach am Main
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.0086286
 longitude: 8.786027800000001
 postcode: 63128
 city: Dietzenbach
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

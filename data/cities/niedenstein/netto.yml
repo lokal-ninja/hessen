@@ -5,7 +5,7 @@ latitude: 51.225488600000006
 longitude: 9.314119
 postcode: 34305
 city: Niedenstein
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

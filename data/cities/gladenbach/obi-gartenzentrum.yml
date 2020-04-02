@@ -5,7 +5,7 @@ latitude: 50.7581988
 longitude: 8.577866700000001
 postcode: 35075
 city: Gladenbach
-street: Jakob-Heuser-Straße
+street: "Jakob-Heuser-Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

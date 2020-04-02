@@ -5,7 +5,7 @@ latitude: 49.9727376
 longitude: 8.831039200000001
 postcode: 63322
 city: Rödermark
-street: Dörnerstraße
+street: "Dörnerstraße"
 housenumber: 4
 phone: "+49 6074 919363"
 opening_hours: "Mo-Su 08:30-20:00, Sa 08:30-14:00"

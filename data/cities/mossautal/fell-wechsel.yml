@@ -5,7 +5,7 @@ latitude: 49.6397046
 longitude: 8.9316648
 postcode: 64756
 city: Mossautal
-street: Ortsstraße
+street: "Ortsstraße"
 housenumber: 154
 phone: "+4960628096667"
 opening_hours: ""

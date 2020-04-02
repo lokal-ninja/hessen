@@ -5,7 +5,7 @@ latitude: 50.051025300000006
 longitude: 7.821765200000001
 postcode: 65391
 city: Lorch
-street: Gewerbepark Wispertal
+street: "Gewerbepark Wispertal"
 housenumber: 10
 phone: "+49-6726-839056"
 opening_hours: ""

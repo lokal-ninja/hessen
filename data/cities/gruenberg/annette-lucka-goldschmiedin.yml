@@ -5,7 +5,7 @@ latitude: 50.591987200000005
 longitude: 8.959877800000001
 postcode: 35305
 city: Grünberg
-street: Marktgasse
+street: "Marktgasse"
 housenumber: 12
 phone: "+49 6401 220790"
 opening_hours: ""

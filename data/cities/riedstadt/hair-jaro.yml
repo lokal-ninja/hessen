@@ -5,7 +5,7 @@ latitude: 49.835548800000005
 longitude: 8.4646337
 postcode: 64560
 city: Riedstadt
-street: Fischergasse
+street: "Fischergasse"
 housenumber: 12A
 phone: ""
 opening_hours: ""

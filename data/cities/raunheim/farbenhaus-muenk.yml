@@ -5,7 +5,7 @@ latitude: 50.0108613
 longitude: 8.4560344
 postcode: 65479
 city: Raunheim
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

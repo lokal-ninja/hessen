@@ -5,7 +5,7 @@ latitude: 50.193547800000005
 longitude: 8.7276097
 postcode: 61118
 city: Bad Vilbel
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 21
 phone: "+49 6101 58680"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-14:00; PH off"

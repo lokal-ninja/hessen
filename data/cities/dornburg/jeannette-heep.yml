@@ -5,7 +5,7 @@ latitude: 50.542361500000005
 longitude: 8.048577
 postcode: 65599
 city: Dornburg
-street: Bühlstraße
+street: "Bühlstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

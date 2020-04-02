@@ -5,7 +5,7 @@ latitude: 49.767480600000006
 longitude: 8.6468103
 postcode: 64342
 city: Seeheim-Jugenheim
-street: Darmstädter Straße
+street: "Darmstädter Straße"
 housenumber: 38
 phone: "+49 6257 9992022"
 opening_hours: "Tu-Fr 08:00-13:00; Th 15:00-18:00; Fr 14:30-18:00; Sa 07:30-13:00"

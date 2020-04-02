@@ -5,7 +5,7 @@ latitude: 50.6552391
 longitude: 9.2672916
 postcode: 36318
 city: Schwalmtal
-street: Friedensstraße
+street: "Friedensstraße"
 housenumber: 31
 phone: "+49 6630 919050"
 opening_hours: ""

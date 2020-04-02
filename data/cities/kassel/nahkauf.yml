@@ -5,7 +5,7 @@ latitude: 51.333387900000005
 longitude: 9.432786100000001
 postcode: 34128
 city: Kassel
-street: Ahnatalstraße
+street: "Ahnatalstraße"
 housenumber: 79
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

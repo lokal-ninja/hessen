@@ -5,7 +5,7 @@ latitude: 50.326443600000005
 longitude: 9.015368800000001
 postcode: 63695
 city: Glauburg
-street: Sudetenstraße
+street: "Sudetenstraße"
 housenumber: 32
 phone: ""
 opening_hours: ""

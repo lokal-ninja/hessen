@@ -5,7 +5,7 @@ latitude: 50.457329900000005
 longitude: 9.6161606
 postcode: 36119
 city: Neuhof
-street: Fuldaer Straße
+street: "Fuldaer Straße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

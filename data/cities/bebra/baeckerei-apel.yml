@@ -5,7 +5,7 @@ latitude: 50.96259980000001
 longitude: 9.7907846
 postcode: 36179
 city: Bebra
-street: Gottlieb-Daimler-Straße
+street: "Gottlieb-Daimler-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00"

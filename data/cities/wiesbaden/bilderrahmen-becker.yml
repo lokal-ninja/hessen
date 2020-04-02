@@ -5,7 +5,7 @@ latitude: 50.0448697
 longitude: 8.1954484
 postcode: 65201
 city: Wiesbaden
-street: Reichsapfelstraße
+street: "Reichsapfelstraße"
 housenumber: 30
 phone: "+49 611 22566"
 opening_hours: ""

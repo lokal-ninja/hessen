@@ -5,7 +5,7 @@ latitude: 50.0821229
 longitude: 8.2236636
 postcode: 65195
 city: Wiesbaden
-street: Nettelbeckstraße
+street: "Nettelbeckstraße"
 housenumber: 24
 phone: "+49 151 16549117"
 opening_hours: "We-Sa 10:00-19:00; Th off"

@@ -5,7 +5,7 @@ latitude: 50.5917236
 longitude: 9.5038592
 postcode: 36137
 city: Großenlüder
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 26
 phone: "+49 6648 7643"
 opening_hours: ""

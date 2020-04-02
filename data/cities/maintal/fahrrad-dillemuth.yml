@@ -5,7 +5,7 @@ latitude: 50.1496931
 longitude: 8.801133100000001
 postcode: 63477
 city: Maintal
-street: Fechenheimer Weg
+street: "Fechenheimer Weg"
 housenumber: 
 phone: ""
 opening_hours: ""

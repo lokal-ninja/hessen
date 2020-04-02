@@ -5,7 +5,7 @@ latitude: 50.615719000000006
 longitude: 9.025733
 postcode: 35325
 city: Mücke
-street: Pfaffensteg
+street: "Pfaffensteg"
 housenumber: 2
 phone: ""
 opening_hours: ""

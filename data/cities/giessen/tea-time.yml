@@ -5,7 +5,7 @@ latitude: 50.584926100000004
 longitude: 8.675634
 postcode: 35390
 city: Gießen
-street: Neuenweg
+street: "Neuenweg"
 housenumber: 10
 phone: ""
 opening_hours: ""

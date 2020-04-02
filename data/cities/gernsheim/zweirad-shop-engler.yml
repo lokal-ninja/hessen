@@ -5,7 +5,7 @@ latitude: 49.7585653
 longitude: 8.492309800000001
 postcode: 64579
 city: Gernsheim
-street: Alte Landstraße
+street: "Alte Landstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

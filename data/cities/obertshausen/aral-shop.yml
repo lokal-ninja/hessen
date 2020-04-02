@@ -5,7 +5,7 @@ latitude: 50.0624923
 longitude: 8.829778300000001
 postcode: 63179
 city: Obertshausen
-street: Im Birkengrund
+street: "Im Birkengrund"
 housenumber: 1
 phone: ""
 opening_hours: "24/7"

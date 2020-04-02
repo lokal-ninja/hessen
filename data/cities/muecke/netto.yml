@@ -5,7 +5,7 @@ latitude: 50.636946300000005
 longitude: 9.029955900000001
 postcode: 35325
 city: Mücke
-street: Merlauer Straße
+street: "Merlauer Straße"
 housenumber: 59
 phone: ""
 opening_hours: ""

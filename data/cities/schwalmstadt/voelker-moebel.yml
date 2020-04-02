@@ -5,7 +5,7 @@ latitude: 50.92093130000001
 longitude: 9.233098400000001
 postcode: 34613
 city: Schwalmstadt
-street: Hessenallee
+street: "Hessenallee"
 housenumber: 63-65
 phone: ""
 opening_hours: ""

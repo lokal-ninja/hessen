@@ -5,7 +5,7 @@ latitude: 50.019960700000006
 longitude: 8.6656112
 postcode: 63303
 city: Dreieich
-street: Buchschlager Allee
+street: "Buchschlager Allee"
 housenumber: 19
 phone: ""
 opening_hours: ""

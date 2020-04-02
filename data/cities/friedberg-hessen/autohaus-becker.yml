@@ -5,7 +5,7 @@ latitude: 50.346501100000005
 longitude: 8.7541031
 postcode: 61169
 city: Friedberg (Hessen)
-street: Ottostraße
+street: "Ottostraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

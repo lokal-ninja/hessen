@@ -5,7 +5,7 @@ latitude: 50.085110500000006
 longitude: 8.2269398
 postcode: 65195
 city: Wiesbaden
-street: Emser Straße
+street: "Emser Straße"
 housenumber: 56
 phone: "+49 611 4050568"
 opening_hours: ""

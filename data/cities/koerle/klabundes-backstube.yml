@@ -5,7 +5,7 @@ latitude: 51.1725944
 longitude: 9.5141518
 postcode: 34327
 city: Körle
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 15
 phone: "+49 5665 920260"
 opening_hours: ""

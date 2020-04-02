@@ -5,7 +5,7 @@ latitude: 50.122468000000005
 longitude: 8.676065000000001
 postcode: 60322
 city: Frankfurt am Main
-street: Eschersheimer Landstraße
+street: "Eschersheimer Landstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

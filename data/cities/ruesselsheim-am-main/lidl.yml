@@ -5,7 +5,7 @@ latitude: 49.983778900000004
 longitude: 8.428607900000001
 postcode: 65428
 city: Rüsselsheim am Main
-street: Adam-Opel-Straße
+street: "Adam-Opel-Straße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

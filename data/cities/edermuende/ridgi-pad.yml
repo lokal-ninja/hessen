@@ -5,7 +5,7 @@ latitude: 51.2246633
 longitude: 9.3895228
 postcode: 34295
 city: Edermünde
-street: Klapperweg
+street: "Klapperweg"
 housenumber: 13
 phone: "+49 5603 6174"
 opening_hours: ""

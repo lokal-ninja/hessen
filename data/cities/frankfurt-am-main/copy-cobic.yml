@@ -5,7 +5,7 @@ latitude: 50.1892811
 longitude: 8.6380558
 postcode: 60437
 city: Frankfurt am Main
-street: Kalbacher Hauptstraße
+street: "Kalbacher Hauptstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

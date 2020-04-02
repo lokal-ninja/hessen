@@ -5,7 +5,7 @@ latitude: 51.316407000000005
 longitude: 9.493966400000001
 postcode: 34117
 city: Kassel
-street: Kölnische Straße
+street: "Kölnische Straße"
 housenumber: 18
 phone: ""
 opening_hours: ""

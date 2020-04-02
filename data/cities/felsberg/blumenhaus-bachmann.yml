@@ -5,7 +5,7 @@ latitude: 51.13548350000001
 longitude: 9.423554900000001
 postcode: 34587
 city: Felsberg
-street: Untertor
+street: "Untertor"
 housenumber: 12
 phone: ""
 opening_hours: "Mo 08:30-12:00; Tu-Fr 08:30-12:00,14:00-18:00; Sa 08:30-13:00; Oct-May Su 11:00-12:00"

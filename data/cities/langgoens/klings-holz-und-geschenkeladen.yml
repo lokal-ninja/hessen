@@ -5,7 +5,7 @@ latitude: 50.494641300000005
 longitude: 8.6576552
 postcode: 35428
 city: Langgöns
-street: Obergasse
+street: "Obergasse"
 housenumber: 50
 phone: "+49 6403 2163"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.498504600000004
 longitude: 9.691879700000001
 postcode: 36124
 city: Eichenzell
-street: Im Streich
+street: "Im Streich"
 housenumber: 2
 phone: "+49 6659 918166"
 opening_hours: "Mo-Fr 05:00-19:00; Sa 05:00-18:00; Su 06:00-18:00"

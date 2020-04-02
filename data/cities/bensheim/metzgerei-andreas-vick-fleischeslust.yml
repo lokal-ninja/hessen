@@ -5,7 +5,7 @@ latitude: 49.700684100000004
 longitude: 8.6220534
 postcode: 64625
 city: Bensheim
-street: Darmstädter Straße
+street: "Darmstädter Straße"
 housenumber: 169
 phone: "+49 6251 9888237"
 opening_hours: "Mo off,Di-Fr 09:00-18:00; Sa 08:00-13:00"

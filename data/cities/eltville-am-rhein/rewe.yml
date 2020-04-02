@@ -5,7 +5,7 @@ latitude: 50.028730800000005
 longitude: 8.1249654
 postcode: 65343
 city: Eltville am Rhein
-street: Sonnenbergstraße
+street: "Sonnenbergstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

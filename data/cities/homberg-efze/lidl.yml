@@ -5,7 +5,7 @@ latitude: 51.030083000000005
 longitude: 9.418148500000001
 postcode: 34576
 city: Homberg (Efze)
-street: Hersfelder Straße
+street: "Hersfelder Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

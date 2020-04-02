@@ -5,7 +5,7 @@ latitude: 50.125649200000005
 longitude: 8.6125672
 postcode: 60489
 city: Frankfurt am Main
-street: Thudichumstraße
+street: "Thudichumstraße"
 housenumber: 6-8
 phone: ""
 opening_hours: ""

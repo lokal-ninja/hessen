@@ -5,7 +5,7 @@ latitude: 49.9806042
 longitude: 7.926807800000001
 postcode: 65385
 city: Rüdesheim am Rhein
-street: Langstraße
+street: "Langstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

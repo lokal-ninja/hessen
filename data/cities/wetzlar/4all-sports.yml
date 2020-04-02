@@ -5,7 +5,7 @@ latitude: 50.563128000000006
 longitude: 8.608531900000001
 postcode: 35582
 city: Wetzlar
-street: Am Rübenmorgen
+street: "Am Rübenmorgen"
 housenumber: 6
 phone: "+49 641 2501159"
 opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"

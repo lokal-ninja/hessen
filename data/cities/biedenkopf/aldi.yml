@@ -5,7 +5,7 @@ latitude: 50.9050773
 longitude: 8.534305400000001
 postcode: 35216
 city: Biedenkopf
-street: Am Seewasem
+street: "Am Seewasem"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

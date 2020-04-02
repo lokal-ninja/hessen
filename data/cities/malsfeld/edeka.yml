@@ -5,7 +5,7 @@ latitude: 51.0931465
 longitude: 9.5406014
 postcode: 34323
 city: Malsfeld
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 7
 phone: "+49 5661 2314"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off"

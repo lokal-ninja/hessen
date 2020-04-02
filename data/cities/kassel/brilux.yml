@@ -5,7 +5,7 @@ latitude: 51.3219597
 longitude: 9.4900096
 postcode: 34117
 city: Kassel
-street: Reuterstraße
+street: "Reuterstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

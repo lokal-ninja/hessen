@@ -5,7 +5,7 @@ latitude: 51.3043479
 longitude: 9.4778304
 postcode: 34121
 city: Kassel
-street: Hans-Böckler-Straße
+street: "Hans-Böckler-Straße"
 housenumber: 22
 phone: ""
 opening_hours: ""

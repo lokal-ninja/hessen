@@ -5,7 +5,7 @@ latitude: 49.968121000000004
 longitude: 8.565458300000001
 postcode: 64546
 city: Mörfelden-Walldorf
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 7
 phone: "+49 6105 963979317"
 opening_hours: ""

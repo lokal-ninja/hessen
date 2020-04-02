@@ -5,7 +5,7 @@ latitude: 49.7939657
 longitude: 8.7392923
 postcode: 64372
 city: Ober-Ramstadt
-street: Odenwaldstraße
+street: "Odenwaldstraße"
 housenumber: 152
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

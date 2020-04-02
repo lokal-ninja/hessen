@@ -5,7 +5,7 @@ latitude: 50.175379400000004
 longitude: 8.922067100000001
 postcode: 63486
 city: Bruchköbel
-street: Haagstraße
+street: "Haagstraße"
 housenumber: 17
 phone: "+49 6181 9062939"
 opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:30; Sa 10:00-13:00"

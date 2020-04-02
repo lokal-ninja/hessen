@@ -5,7 +5,7 @@ latitude: 50.77350070000001
 longitude: 8.300870100000001
 postcode: 35684
 city: Dillenburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 61
 phone: ""
 opening_hours: ""

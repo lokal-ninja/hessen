@@ -5,7 +5,7 @@ latitude: 49.8861324
 longitude: 8.924236200000001
 postcode: 64823
 city: Groß-Umstadt
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

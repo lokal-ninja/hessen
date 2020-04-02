@@ -5,7 +5,7 @@ latitude: 49.758954
 longitude: 8.485014600000001
 postcode: 64579
 city: Gernsheim
-street: Pfungstädter Straße
+street: "Pfungstädter Straße"
 housenumber: 3
 phone: "+49 6258 3523"
 opening_hours: "Mo-Sa 08:00-20:00"

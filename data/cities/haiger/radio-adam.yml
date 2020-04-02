@@ -5,7 +5,7 @@ latitude: 50.741857200000005
 longitude: 8.207173300000001
 postcode: 35708
 city: Haiger
-street: Löhrstraße
+street: "Löhrstraße"
 housenumber: 8
 phone: "+49 2773 716540"
 opening_hours: ""

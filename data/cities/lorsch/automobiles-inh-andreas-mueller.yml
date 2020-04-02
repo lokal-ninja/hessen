@@ -5,7 +5,7 @@ latitude: 49.6389143
 longitude: 8.5710818
 postcode: 64653
 city: Lorsch
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

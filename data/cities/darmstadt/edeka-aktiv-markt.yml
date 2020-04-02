@@ -5,7 +5,7 @@ latitude: 49.8983343
 longitude: 8.682146900000001
 postcode: 64289
 city: Darmstadt
-street: Grundstraße
+street: "Grundstraße"
 housenumber: 2-8
 phone: "+49 6151 718450"
 opening_hours: "Mo-Sa 08:00-21:00"

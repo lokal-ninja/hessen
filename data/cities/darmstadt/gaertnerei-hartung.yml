@@ -5,7 +5,7 @@ latitude: 49.916090800000006
 longitude: 8.6556624
 postcode: 64291
 city: Darmstadt
-street: Kettenwiesenstraße
+street: "Kettenwiesenstraße"
 housenumber: 10B
 phone: "+49 6151 2786178"
 opening_hours: ""

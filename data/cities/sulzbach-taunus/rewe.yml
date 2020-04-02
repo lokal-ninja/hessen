@@ -5,7 +5,7 @@ latitude: 50.134683700000004
 longitude: 8.528662200000001
 postcode: 65843
 city: Sulzbach (Taunus)
-street: Schwalbacher Straße
+street: "Schwalbacher Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

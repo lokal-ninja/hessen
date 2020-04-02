@@ -5,7 +5,7 @@ latitude: 50.589679100000005
 longitude: 8.6119527
 postcode: 35452
 city: Heuchelheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 6
 phone: "+49 641 61456"
 opening_hours: ""

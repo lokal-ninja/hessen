@@ -5,7 +5,7 @@ latitude: 50.3944076
 longitude: 8.2022993
 postcode: 65606
 city: Villmar
-street: Brotweg
+street: "Brotweg"
 housenumber: 2
 phone: "+49 6482 2677"
 opening_hours: ""

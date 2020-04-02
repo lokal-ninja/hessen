@@ -5,7 +5,7 @@ latitude: 50.3564256
 longitude: 8.734355500000001
 postcode: 61231
 city: Bad Nauheim
-street: Wilhelm-Jost-Ring
+street: "Wilhelm-Jost-Ring"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

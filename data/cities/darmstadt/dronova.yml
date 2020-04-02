@@ -5,7 +5,7 @@ latitude: 49.818516
 longitude: 8.643939000000001
 postcode: 64297
 city: Darmstadt
-street: Heidelberger Landstraße
+street: "Heidelberger Landstraße"
 housenumber: 237
 phone: ""
 opening_hours: ""

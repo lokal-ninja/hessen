@@ -5,7 +5,7 @@ latitude: 49.858662900000006
 longitude: 8.6441835
 postcode: 64295
 city: Darmstadt
-street: Donnersbergring
+street: "Donnersbergring"
 housenumber: 43
 phone: "+49 163 9541842"
 opening_hours: "Mo-Sa 10:00-20:00"

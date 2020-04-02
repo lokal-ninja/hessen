@@ -5,7 +5,7 @@ latitude: 50.160178900000005
 longitude: 8.3143235
 postcode: 65527
 city: Niedernhausen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 23
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.775468000000004
 longitude: 9.515050800000001
 postcode: 36287
 city: Breitenbach am Herzberg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 26
 phone: "+49 6675 357"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.887395000000005
 longitude: 9.8683147
 postcode: 36289
 city: Friedewald
-street: Im Gewerbegebiet
+street: "Im Gewerbegebiet"
 housenumber: 7
 phone: "+49 6674 8742"
 opening_hours: ""

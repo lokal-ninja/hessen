@@ -5,7 +5,7 @@ latitude: 50.969722600000004
 longitude: 9.795416600000001
 postcode: 36179
 city: Bebra
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"

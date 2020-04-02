@@ -5,7 +5,7 @@ latitude: 50.0580786
 longitude: 8.5368636
 postcode: 65451
 city: Kelsterbach
-street: Mörfelder Straße
+street: "Mörfelder Straße"
 housenumber: 87
 phone: "+49 6107 2246"
 opening_hours: ""

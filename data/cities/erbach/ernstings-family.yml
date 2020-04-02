@@ -5,7 +5,7 @@ latitude: 49.6593722
 longitude: 8.9912636
 postcode: 
 city: Erbach
-street: Werner-von-Siemens-Straße
+street: "Werner-von-Siemens-Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

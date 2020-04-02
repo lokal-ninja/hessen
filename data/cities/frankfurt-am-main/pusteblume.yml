@@ -5,7 +5,7 @@ latitude: 50.101887100000006
 longitude: 8.567819100000001
 postcode: 65934
 city: Frankfurt am Main
-street: Oeserstraße
+street: "Oeserstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

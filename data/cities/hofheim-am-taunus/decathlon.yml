@@ -5,7 +5,7 @@ latitude: 50.057186200000004
 longitude: 8.374084400000001
 postcode: 65719
 city: Hofheim am Taunus
-street: Am Wandersmann
+street: "Am Wandersmann"
 housenumber: 6
 phone: ""
 opening_hours: ""

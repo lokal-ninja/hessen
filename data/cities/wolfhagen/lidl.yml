@@ -5,7 +5,7 @@ latitude: 51.3273639
 longitude: 9.1769586
 postcode: 34466
 city: Wolfhagen
-street: Lynkerstraße
+street: "Lynkerstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

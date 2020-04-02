@@ -5,7 +5,7 @@ latitude: 50.8841526
 longitude: 9.866719600000001
 postcode: 36289
 city: Friedewald
-street: Herfaer Straße
+street: "Herfaer Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

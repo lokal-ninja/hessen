@@ -5,7 +5,7 @@ latitude: 50.140211
 longitude: 8.750342700000001
 postcode: 60388
 city: Frankfurt am Main
-street: Borsigallee
+street: "Borsigallee"
 housenumber: 26
 phone: ""
 opening_hours: ""

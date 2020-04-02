@@ -5,7 +5,7 @@ latitude: 50.1136021
 longitude: 8.621442400000001
 postcode: 60486
 city: Frankfurt am Main
-street: Käthchen-Paulus-Straße
+street: "Käthchen-Paulus-Straße"
 housenumber: 2
 phone: "+49 69 71448916"
 opening_hours: "Tu-Fr 10:00-20:00; Sa 10:00-16:00"

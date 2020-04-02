@@ -5,7 +5,7 @@ latitude: 50.549307600000006
 longitude: 8.4770321
 postcode: 35578
 city: Wetzlar
-street: An der Kommandantur
+street: "An der Kommandantur"
 housenumber: 7
 phone: ""
 opening_hours: ""

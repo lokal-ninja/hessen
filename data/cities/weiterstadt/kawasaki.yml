@@ -5,7 +5,7 @@ latitude: 49.887713000000005
 longitude: 8.6079222
 postcode: 64331
 city: Weiterstadt
-street: Feldstraße
+street: "Feldstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

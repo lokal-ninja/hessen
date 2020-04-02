@@ -5,7 +5,7 @@ latitude: 49.685600900000004
 longitude: 8.994544000000001
 postcode: 64720
 city: Michelstadt
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

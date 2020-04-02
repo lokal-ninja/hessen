@@ -5,7 +5,7 @@ latitude: 50.1861758
 longitude: 8.7398547
 postcode: 61118
 city: Bad Vilbel
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 4
 phone: "+49 6101 9861190"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"

@@ -5,7 +5,7 @@ latitude: 50.90487340000001
 longitude: 9.7475366
 postcode: 36251
 city: Ludwigsau
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 6
 phone: "+49 6621 797850"
 opening_hours: ""

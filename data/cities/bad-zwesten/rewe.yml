@@ -5,7 +5,7 @@ latitude: 51.0583706
 longitude: 9.181885900000001
 postcode: 34596
 city: Bad Zwesten
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 50.144434600000004
 longitude: 9.1415219
 postcode: 63579
 city: Freigericht
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.8490395
 longitude: 9.1109533
 postcode: 35279
 city: Neustadt (Hessen)
-street: Querallee
+street: "Querallee"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"

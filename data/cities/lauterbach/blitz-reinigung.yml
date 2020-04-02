@@ -5,7 +5,7 @@ latitude: 50.63627150000001
 longitude: 9.3990585
 postcode: 36341
 city: Lauterbach
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 18-20
 phone: ""
 opening_hours: ""

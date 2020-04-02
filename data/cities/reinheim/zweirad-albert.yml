@@ -5,7 +5,7 @@ latitude: 49.8327399
 longitude: 8.8355145
 postcode: 64354
 city: Reinheim
-street: Am Schwimmbad
+street: "Am Schwimmbad"
 housenumber: 6
 phone: "+49-6162-81931"
 opening_hours: ""

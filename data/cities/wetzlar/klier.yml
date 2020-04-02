@@ -5,7 +5,7 @@ latitude: 50.5633482
 longitude: 8.5019183
 postcode: 35576
 city: Wetzlar
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

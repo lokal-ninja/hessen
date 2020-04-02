@@ -5,7 +5,7 @@ latitude: 51.5993743
 longitude: 9.5495985
 postcode: 34399
 city: Wesertal
-street: Steinweg
+street: "Steinweg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo off; Tu-Fr 09:00-13:00; Sa 08:00-13:00"

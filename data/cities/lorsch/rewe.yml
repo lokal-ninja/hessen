@@ -5,7 +5,7 @@ latitude: 49.6538794
 longitude: 8.553906300000001
 postcode: 64653
 city: Lorsch
-street: Nibelungenstraße
+street: "Nibelungenstraße"
 housenumber: 135,137
 phone: ""
 opening_hours: "Mo-Sa 07:00-24:00"

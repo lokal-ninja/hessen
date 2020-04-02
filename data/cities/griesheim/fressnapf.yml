@@ -5,7 +5,7 @@ latitude: 49.8689704
 longitude: 8.5600773
 postcode: 64347
 city: Griesheim
-street: Ottostraße
+street: "Ottostraße"
 housenumber: 1
 phone: "+49 6155 822058"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"

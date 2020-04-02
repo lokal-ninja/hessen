@@ -5,7 +5,7 @@ latitude: 50.1713115
 longitude: 8.45623
 postcode: 61462
 city: Königstein
-street: Wiesbadener Straße
+street: "Wiesbadener Straße"
 housenumber: 167
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.8020901
 longitude: 8.7596194
 postcode: 35037
 city: Marburg
-street: Schwanallee
+street: "Schwanallee"
 housenumber: 30
 phone: "+49 6421 43475"
 opening_hours: ""

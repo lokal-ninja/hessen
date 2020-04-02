@@ -5,7 +5,7 @@ latitude: 51.2640381
 longitude: 9.973134100000001
 postcode: 37242
 city: Bad Sooden-Allendorf
-street: Werrastraße
+street: "Werrastraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.1108999
 longitude: 8.714512800000001
 postcode: 60314
 city: Frankfurt am Main
-street: Lindleystraße
+street: "Lindleystraße"
 housenumber: 5
 phone: "+49 69 43058740"
 opening_hours: "Tu-Fr 12:00-20:00; Sa 12:00-18:00; PH off"

@@ -5,7 +5,7 @@ latitude: 50.4231539
 longitude: 8.658990000000001
 postcode: 35510
 city: Butzbach
-street: Hausener Weg
+street: "Hausener Weg"
 housenumber: 
 phone: ""
 opening_hours: ""

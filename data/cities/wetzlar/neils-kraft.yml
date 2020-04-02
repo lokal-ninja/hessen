@@ -5,7 +5,7 @@ latitude: 50.5761394
 longitude: 8.4909044
 postcode: 35586
 city: Wetzlar
-street: Wetzlarer Straße
+street: "Wetzlarer Straße"
 housenumber: 37
 phone: "+49 6441-37730"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"

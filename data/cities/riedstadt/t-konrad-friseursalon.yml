@@ -5,7 +5,7 @@ latitude: 49.83564560000001
 longitude: 8.4965762
 postcode: 64560
 city: Riedstadt
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

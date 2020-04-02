@@ -5,7 +5,7 @@ latitude: 49.560865
 longitude: 8.977019700000001
 postcode: 64760
 city: Oberzent
-street: Gammelsbacher Straße
+street: "Gammelsbacher Straße"
 housenumber: 80
 phone: ""
 opening_hours: ""

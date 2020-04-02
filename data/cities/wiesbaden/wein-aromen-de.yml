@@ -5,7 +5,7 @@ latitude: 50.0474374
 longitude: 8.2306673
 postcode: 65203
 city: Wiesbaden
-street: Hagenauer Straße
+street: "Hagenauer Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

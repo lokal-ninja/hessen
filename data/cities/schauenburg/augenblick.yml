@@ -5,7 +5,7 @@ latitude: 51.273338900000006
 longitude: 9.379328000000001
 postcode: 34270
 city: Schauenburg
-street: Korbacher Straße
+street: "Korbacher Straße"
 housenumber: 42
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-12:00"

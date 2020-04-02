@@ -5,7 +5,7 @@ latitude: 50.637435100000005
 longitude: 9.398113
 postcode: 36341
 city: Lauterbach
-street: Landsknechtsweg
+street: "Landsknechtsweg"
 housenumber: 1
 phone: ""
 opening_hours: ""

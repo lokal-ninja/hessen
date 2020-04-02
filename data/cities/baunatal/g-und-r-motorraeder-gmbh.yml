@@ -5,7 +5,7 @@ latitude: 51.2293669
 longitude: 9.431630700000001
 postcode: 34225
 city: Baunatal
-street: Fuldastraße
+street: "Fuldastraße"
 housenumber: 10
 phone: "+49 5665 1836410"
 opening_hours: ""

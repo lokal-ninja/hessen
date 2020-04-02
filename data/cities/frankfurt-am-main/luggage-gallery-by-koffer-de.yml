@@ -5,7 +5,7 @@ latitude: 50.0551874
 longitude: 8.595030900000001
 postcode: 60549
 city: Frankfurt am Main
-street: Amelia-Mary-Earhart-Straße
+street: "Amelia-Mary-Earhart-Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Su 09:00-18:00"

@@ -5,7 +5,7 @@ latitude: 50.6232965
 longitude: 8.586245400000001
 postcode: 35444
 city: Biebertal
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 2c
 phone: "+49 6409 6453"
 opening_hours: ""

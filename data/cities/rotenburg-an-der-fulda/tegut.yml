@@ -5,7 +5,7 @@ latitude: 51.0003643
 longitude: 9.720004300000001
 postcode: 36199
 city: Rotenburg an der Fulda
-street: Braacher Straße
+street: "Braacher Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

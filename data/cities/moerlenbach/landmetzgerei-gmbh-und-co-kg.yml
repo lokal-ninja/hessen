@@ -5,7 +5,7 @@ latitude: 49.591303200000006
 longitude: 8.745361500000001
 postcode: 69509
 city: Mörlenbach
-street: Langklingerhof
+street: "Langklingerhof"
 housenumber: 
 phone: "+49 6209 1691"
 opening_hours: ""

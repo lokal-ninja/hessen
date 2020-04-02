@@ -5,7 +5,7 @@ latitude: 50.1049008
 longitude: 8.397740200000001
 postcode: 65719
 city: Langenhain
-street: Am Jagdhaus
+street: "Am Jagdhaus"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 06:30-13:00,13:00-18:00; Sa 06:30-12:00"

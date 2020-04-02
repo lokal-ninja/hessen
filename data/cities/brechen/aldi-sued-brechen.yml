@@ -5,7 +5,7 @@ latitude: 50.359480500000004
 longitude: 8.1830128
 postcode: 65611
 city: Brechen
-street: Kapellenstraße
+street: "Kapellenstraße"
 housenumber: 86
 phone: ""
 opening_hours: ""

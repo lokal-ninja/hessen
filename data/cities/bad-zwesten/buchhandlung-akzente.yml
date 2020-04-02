@@ -5,7 +5,7 @@ latitude: 51.053569800000005
 longitude: 9.1759239
 postcode: 34596
 city: Bad Zwesten
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

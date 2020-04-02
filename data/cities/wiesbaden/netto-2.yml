@@ -5,7 +5,7 @@ latitude: 50.048945800000006
 longitude: 8.207553500000001
 postcode: 65201
 city: Wiesbaden
-street: Alte Schmelze
+street: "Alte Schmelze"
 housenumber: 18
 phone: "+49 611 20425600"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"

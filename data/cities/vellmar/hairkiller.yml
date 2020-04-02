@@ -5,7 +5,7 @@ latitude: 51.3625361
 longitude: 9.467080600000001
 postcode: 34246
 city: Vellmar
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"

@@ -5,7 +5,7 @@ latitude: 51.19975530000001
 longitude: 8.802607700000001
 postcode: 35104
 city: Lichtenfels
-street: Aarweg
+street: "Aarweg"
 housenumber: 7
 phone: ""
 opening_hours: ""

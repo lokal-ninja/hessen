@@ -5,7 +5,7 @@ latitude: 50.275437800000006
 longitude: 8.650608700000001
 postcode: 61381
 city: Friedrichsdorf
-street: Köpperner Straße
+street: "Köpperner Straße"
 housenumber: 86
 phone: "+49 6172 778165"
 opening_hours: "Mo-Sa 06:15-13:00; We off; Su 07:30-11:00"

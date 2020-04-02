@@ -5,7 +5,7 @@ latitude: 50.677357300000004
 longitude: 8.8205837
 postcode: 35469
 city: Allendorf
-street: Treiser Straße
+street: "Treiser Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

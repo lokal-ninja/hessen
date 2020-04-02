@@ -5,7 +5,7 @@ latitude: 49.6630258
 longitude: 9.0103664
 postcode: 64711
 city: Erbach
-street: Gewerbepark Gräsig
+street: "Gewerbepark Gräsig"
 housenumber: 1
 phone: "+49 6062 809959"
 opening_hours: "Mo-Th 08:00-18:00; Fr 09:00-13:00"

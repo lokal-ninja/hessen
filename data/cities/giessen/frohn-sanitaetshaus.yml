@@ -5,7 +5,7 @@ latitude: 50.579392600000006
 longitude: 8.66714
 postcode: 35392
 city: Gießen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 1
 phone: "+49 641 97559-19"
 opening_hours: ""

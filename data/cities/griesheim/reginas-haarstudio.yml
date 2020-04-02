@@ -5,7 +5,7 @@ latitude: 49.86041710000001
 longitude: 8.559826000000001
 postcode: 64347
 city: Griesheim
-street: Wilhelm-Leuschner-Straße
+street: "Wilhelm-Leuschner-Straße"
 housenumber: 32
 phone: "+49 6155 868 7474"
 opening_hours: "Mo closed, Tu-Fr 09:00-19:00; Sa 09:00-14:00"

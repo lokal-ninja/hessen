@@ -5,7 +5,7 @@ latitude: 51.247123800000004
 longitude: 9.2629265
 postcode: 34308
 city: Bad Emstal
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 85
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

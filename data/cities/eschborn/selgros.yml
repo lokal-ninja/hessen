@@ -5,7 +5,7 @@ latitude: 50.141910200000005
 longitude: 8.5784322
 postcode: 65760
 city: Eschborn
-street: Praunheimer Straße
+street: "Praunheimer Straße"
 housenumber: 5-11
 phone: ""
 opening_hours: ""

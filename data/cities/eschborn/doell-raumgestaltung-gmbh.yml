@@ -5,7 +5,7 @@ latitude: 50.146060000000006
 longitude: 8.5695025
 postcode: 65760
 city: Eschborn
-street: Dörnweg
+street: "Dörnweg"
 housenumber: 23
 phone: ""
 opening_hours: ""

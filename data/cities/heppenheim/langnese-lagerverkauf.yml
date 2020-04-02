@@ -5,7 +5,7 @@ latitude: 49.6364737
 longitude: 8.616897400000001
 postcode: 64646
 city: Heppenheim
-street: Langnesestraße
+street: "Langnesestraße"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"

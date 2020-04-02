@@ -5,7 +5,7 @@ latitude: 51.321869400000004
 longitude: 9.5044628
 postcode: 34127
 city: Kassel
-street: Diagonale
+street: "Diagonale"
 housenumber: 7
 phone: ""
 opening_hours: "24/7"

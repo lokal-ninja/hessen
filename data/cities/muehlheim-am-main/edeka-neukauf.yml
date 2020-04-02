@@ -5,7 +5,7 @@ latitude: 50.1256787
 longitude: 8.8426337
 postcode: 63165
 city: Mühlheim am Main
-street: Dietesheimer Straße
+street: "Dietesheimer Straße"
 housenumber: 74b
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 50.756832100000004
 longitude: 8.849731400000001
 postcode: 35085
 city: Ebsdorfergrund
-street: Hessenstraße
+street: "Hessenstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

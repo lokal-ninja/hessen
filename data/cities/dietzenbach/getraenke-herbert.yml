@@ -5,7 +5,7 @@ latitude: 50.0058492
 longitude: 8.7921648
 postcode: 63128
 city: Dietzenbach
-street: Emil-von-Behring-Straße
+street: "Emil-von-Behring-Straße"
 housenumber: 12-14
 phone: "+49 6074 46227"
 opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:30; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 51.3124605
 longitude: 9.5332454
 postcode: 34123
 city: Kassel
-street: Sandershäuser Straße
+street: "Sandershäuser Straße"
 housenumber: 101
 phone: ""
 opening_hours: ""

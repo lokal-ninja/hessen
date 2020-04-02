@@ -5,7 +5,7 @@ latitude: 50.3318486
 longitude: 8.7226625
 postcode: 61169
 city: Friedberg (Hessen)
-street: Friedberger Straße
+street: "Friedberger Straße"
 housenumber: 23
 phone: ""
 opening_hours: ""

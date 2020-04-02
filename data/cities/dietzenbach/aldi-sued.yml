@@ -5,7 +5,7 @@ latitude: 50.015588900000004
 longitude: 8.793458000000001
 postcode: 63128
 city: Dietzenbach
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

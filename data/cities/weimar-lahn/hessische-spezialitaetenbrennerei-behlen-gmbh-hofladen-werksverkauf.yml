@@ -5,7 +5,7 @@ latitude: 50.7385942
 longitude: 8.708512500000001
 postcode: 35096
 city: Weimar (Lahn)
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Th 08:00-16:00; Fr 09:00-12:00; PH off"

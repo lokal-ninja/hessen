@@ -5,7 +5,7 @@ latitude: 50.711297200000004
 longitude: 9.216996700000001
 postcode: 36329
 city: Romrod
-street: Herrnstraße
+street: "Herrnstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

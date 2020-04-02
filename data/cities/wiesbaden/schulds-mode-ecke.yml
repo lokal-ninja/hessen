@@ -5,7 +5,7 @@ latitude: 50.0457867
 longitude: 8.1991181
 postcode: 65201
 city: Wiesbaden
-street: Karl-Lehr-Straße
+street: "Karl-Lehr-Straße"
 housenumber: 29
 phone: "+49 611 20726"
 opening_hours: ""

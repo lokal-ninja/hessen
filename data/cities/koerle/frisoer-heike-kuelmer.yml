@@ -5,7 +5,7 @@ latitude: 51.1729945
 longitude: 9.5120474
 postcode: 34327
 city: Körle
-street: Kuhgasse
+street: "Kuhgasse"
 housenumber: 6
 phone: ""
 opening_hours: ""

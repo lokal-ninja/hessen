@@ -5,7 +5,7 @@ latitude: 51.063757100000004
 longitude: 9.2197539
 postcode: 34582
 city: Borken-Kerstenhausen
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 3
 phone: "+49 5682 7389631"
 opening_hours: ""

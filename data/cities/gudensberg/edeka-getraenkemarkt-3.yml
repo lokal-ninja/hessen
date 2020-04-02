@@ -5,7 +5,7 @@ latitude: 51.179488500000005
 longitude: 9.366125100000001
 postcode: 34281
 city: Gudensberg
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

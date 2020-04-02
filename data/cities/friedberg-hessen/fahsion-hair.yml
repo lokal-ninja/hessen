@@ -5,7 +5,7 @@ latitude: 50.3437734
 longitude: 8.747088900000001
 postcode: 61169
 city: Friedberg (Hessen)
-street: Städter Weg
+street: "Städter Weg"
 housenumber: 10
 phone: "+49 6031 719752"
 opening_hours: "Tu 08:30-18:00, We 08:30-12:00, Th-Fr 08:30-18:00, Sa 08:00-13:00, Su-Mo off"

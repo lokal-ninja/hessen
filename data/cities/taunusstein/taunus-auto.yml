@@ -5,7 +5,7 @@ latitude: 50.1378775
 longitude: 8.154637600000001
 postcode: 65232
 city: Taunusstein
-street: Erich-Kästner-Straße
+street: "Erich-Kästner-Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

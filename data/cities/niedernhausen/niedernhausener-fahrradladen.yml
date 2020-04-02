@@ -5,7 +5,7 @@ latitude: 50.1619487
 longitude: 8.3150881
 postcode: 65527
 city: Niedernhausen
-street: Idsteiner Straße
+street: "Idsteiner Straße"
 housenumber: 7
 phone: "+49 6127 8888"
 opening_hours: ""

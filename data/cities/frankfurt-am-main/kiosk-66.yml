@@ -5,7 +5,7 @@ latitude: 50.154138
 longitude: 8.6962848
 postcode: 60435
 city: Frankfurt am Main
-street: Jaspertstraße
+street: "Jaspertstraße"
 housenumber: 38a
 phone: ""
 opening_hours: ""

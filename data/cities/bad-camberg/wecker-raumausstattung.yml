@@ -5,7 +5,7 @@ latitude: 50.2974155
 longitude: 8.2518843
 postcode: 65520
 city: Bad Camberg
-street: Max-Planck-Straße
+street: "Max-Planck-Straße"
 housenumber: 17
 phone: ""
 opening_hours: ""

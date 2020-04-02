@@ -5,7 +5,7 @@ latitude: 50.0756389
 longitude: 8.864804300000001
 postcode: 63179
 city: Obertshausen
-street: Birkenwaldstraße
+street: "Birkenwaldstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

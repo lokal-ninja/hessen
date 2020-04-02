@@ -5,7 +5,7 @@ latitude: 49.5403856
 longitude: 8.5796405
 postcode: 68519
 city: Viernheim
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 31
 phone: "+49 6204 740376"
 opening_hours: ""

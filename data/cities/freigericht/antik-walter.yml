@@ -5,7 +5,7 @@ latitude: 50.154417800000004
 longitude: 9.14183
 postcode: 63579
 city: Freigericht
-street: Birkenhainer Straße
+street: "Birkenhainer Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

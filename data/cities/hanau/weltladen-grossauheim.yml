@@ -5,7 +5,7 @@ latitude: 50.103632000000005
 longitude: 8.9449096
 postcode: 63457
 city: Hanau
-street: Rochusplatz
+street: "Rochusplatz"
 housenumber: 1
 phone: "+49-6181-56109"
 opening_hours: "Mo-Fr 09:30-12:30, 15:00-18:00; Th 08:30-12:30, 15:00-18:00; Sa 09:30-14:00"

@@ -5,7 +5,7 @@ latitude: 50.3138833
 longitude: 9.2864634
 postcode: 
 city: Brachttal
-street: Hammerstraße
+street: "Hammerstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

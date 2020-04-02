@@ -5,7 +5,7 @@ latitude: 50.101544200000006
 longitude: 8.6860015
 postcode: 60594
 city: Frankfurt am Main
-street: Textorstraße
+street: "Textorstraße"
 housenumber: 40
 phone: "+49 69 27294869"
 opening_hours: ""

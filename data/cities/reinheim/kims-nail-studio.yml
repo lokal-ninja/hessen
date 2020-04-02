@@ -5,7 +5,7 @@ latitude: 49.825678200000006
 longitude: 8.832643800000001
 postcode: 64354
 city: Reinheim
-street: Pöllnitzstraße
+street: "Pöllnitzstraße"
 housenumber: 9
 phone: "+49 6162 85496"
 opening_hours: ""

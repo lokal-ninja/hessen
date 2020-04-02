@@ -5,7 +5,7 @@ latitude: 50.024992000000005
 longitude: 8.8842195
 postcode: 63110
 city: Rodgau
-street: Hintergasse
+street: "Hintergasse"
 housenumber: 44
 phone: ""
 opening_hours: "We 18:00-19:00; Sa 12:00-14:00"

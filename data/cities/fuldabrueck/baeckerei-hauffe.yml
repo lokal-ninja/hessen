@@ -5,7 +5,7 @@ latitude: 51.2286657
 longitude: 9.501598600000001
 postcode: 34277
 city: Fuldabrück
-street: Rundstraße
+street: "Rundstraße"
 housenumber: 2i
 phone: "+49 5665 929083"
 opening_hours: ""

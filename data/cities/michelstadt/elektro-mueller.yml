@@ -5,7 +5,7 @@ latitude: 49.677660200000005
 longitude: 9.0074166
 postcode: 64720
 city: Michelstadt
-street: Lindenplatz
+street: "Lindenplatz"
 housenumber: 1-2
 phone: ""
 opening_hours: ""

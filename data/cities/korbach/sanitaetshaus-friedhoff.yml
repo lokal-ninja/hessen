@@ -5,7 +5,7 @@ latitude: 51.277819300000004
 longitude: 8.8728235
 postcode: 34497
 city: Korbach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

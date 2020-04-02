@@ -5,7 +5,7 @@ latitude: 49.7570167
 longitude: 8.6120091
 postcode: 64404
 city: Bickenbach
-street: Pfungstädter Straße
+street: "Pfungstädter Straße"
 housenumber: 8
 phone: "+49 6257 2168"
 opening_hours: "Mo-Fr 08:00-12:30, 14:30-18:30; Sa 08:00-13:00; PH off"

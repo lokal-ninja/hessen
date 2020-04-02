@@ -5,7 +5,7 @@ latitude: 49.598780600000005
 longitude: 8.737102400000001
 postcode: 69509
 city: Mörlenbach
-street: Rathausplatz
+street: "Rathausplatz"
 housenumber: 4
 phone: ""
 opening_hours: ""

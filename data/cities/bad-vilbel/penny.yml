@@ -5,7 +5,7 @@ latitude: 50.189204100000005
 longitude: 8.7415959
 postcode: 61118
 city: Bad Vilbel
-street: Friedberger Straße
+street: "Friedberger Straße"
 housenumber: 77a
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

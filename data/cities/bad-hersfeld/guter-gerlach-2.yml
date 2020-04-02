@@ -5,7 +5,7 @@ latitude: 50.872241
 longitude: 9.686344400000001
 postcode: 36251
 city: Bad Hersfeld
-street: Lappenlied
+street: "Lappenlied"
 housenumber: 86
 phone: "+49 6621 51548"
 opening_hours: "Mo-Fr 07:00-12:00; Sa 07:00-12:00"

@@ -5,7 +5,7 @@ latitude: 50.413202600000005
 longitude: 9.0077093
 postcode: 63667
 city: Nidda
-street: Neue Straße
+street: "Neue Straße"
 housenumber: 3
 phone: "+49 6043 7749"
 opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 50.1486047
 longitude: 8.6604802
 postcode: 60431
 city: Frankfurt am Main
-street: Chamissostraße
+street: "Chamissostraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

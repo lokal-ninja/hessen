@@ -5,7 +5,7 @@ latitude: 50.515734900000005
 longitude: 8.820170000000001
 postcode: 35423
 city: Lich
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

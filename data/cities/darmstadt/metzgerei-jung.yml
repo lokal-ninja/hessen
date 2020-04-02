@@ -5,7 +5,7 @@ latitude: 49.928395300000005
 longitude: 8.6460032
 postcode: 64291
 city: Darmstadt
-street: Trinkbornstraße
+street: "Trinkbornstraße"
 housenumber: 11
 phone: "+49 6150 7324"
 opening_hours: "Mo-We 07:30-13:00; Th,Fr 07:30-13:00; 15:00-18:00; Sa 07:30-12:30"

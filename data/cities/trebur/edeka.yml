@@ -5,7 +5,7 @@ latitude: 49.888866
 longitude: 8.404203
 postcode: 65468
 city: Trebur
-street: Diamantstraße
+street: "Diamantstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

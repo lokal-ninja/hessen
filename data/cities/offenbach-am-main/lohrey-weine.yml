@@ -5,7 +5,7 @@ latitude: 50.1072452
 longitude: 8.7363817
 postcode: 63067
 city: Offenbach am Main
-street: Strahlenbergerstraße
+street: "Strahlenbergerstraße"
 housenumber: 77
 phone: "+49 69 818150"
 opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.3938506
 longitude: 9.1350491
 postcode: 63697
 city: Hirzenhain
-street: Nidderstraße
+street: "Nidderstraße"
 housenumber: 14
 phone: "+49 6045 5066"
 opening_hours: ""

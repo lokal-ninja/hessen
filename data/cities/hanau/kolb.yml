@@ -5,7 +5,7 @@ latitude: 50.1341595
 longitude: 8.9178099
 postcode: 63450
 city: Hanau
-street: Fahrstraße
+street: "Fahrstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-16:00"

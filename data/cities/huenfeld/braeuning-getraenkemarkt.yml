@@ -5,7 +5,7 @@ latitude: 50.656347600000004
 longitude: 9.789541700000001
 postcode: 36088
 city: Hünfeld
-street: Johannesplatz
+street: "Johannesplatz"
 housenumber: 3
 phone: "+49 6652 4634"
 opening_hours: ""

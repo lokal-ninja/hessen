@@ -5,7 +5,7 @@ latitude: 50.8690408
 longitude: 9.7091004
 postcode: 36251
 city: Bad Hersfeld
-street: Benno-Schilde-Straße
+street: "Benno-Schilde-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-14:00, PH off"

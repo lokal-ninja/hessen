@@ -5,7 +5,7 @@ latitude: 50.1302588
 longitude: 8.8625278
 postcode: 63477
 city: Maintal
-street: Wilhelm-Röntgen-Straße
+street: "Wilhelm-Röntgen-Straße"
 housenumber: 12
 phone: "+49 6181 42 433 0"
 opening_hours: ""

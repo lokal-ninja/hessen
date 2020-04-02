@@ -5,7 +5,7 @@ latitude: 50.044463900000004
 longitude: 8.973190800000001
 postcode: 63500
 city: Seligenstadt
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

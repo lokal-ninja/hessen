@@ -5,7 +5,7 @@ latitude: 50.292895
 longitude: 9.0237275
 postcode: 63654
 city: Büdingen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 74
 phone: "+49 6041 8239822"
 opening_hours: ""

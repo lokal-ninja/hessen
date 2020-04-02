@@ -5,7 +5,7 @@ latitude: 49.669258500000005
 longitude: 8.6275235
 postcode: 64625
 city: Bensheim
-street: Heidelberger Straße
+street: "Heidelberger Straße"
 housenumber: 100
 phone: "+49 6251 987807-0"
 opening_hours: "Mo-Sa 07:00-21:00"

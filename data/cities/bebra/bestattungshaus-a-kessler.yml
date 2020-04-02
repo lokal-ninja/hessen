@@ -5,7 +5,7 @@ latitude: 50.968730300000004
 longitude: 9.8005291
 postcode: 36179
 city: Bebra
-street: Oststraße
+street: "Oststraße"
 housenumber: 1a
 phone: ""
 opening_hours: ""

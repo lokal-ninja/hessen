@@ -5,7 +5,7 @@ latitude: 50.356335300000005
 longitude: 8.72986
 postcode: 61231
 city: Bad Nauheim
-street: Arthur-Weber-Weg
+street: "Arthur-Weber-Weg"
 housenumber: 3
 phone: "+49 6032 8699933"
 opening_hours: "Di-Fr: 09.00-18.30; Sa 09.00-15.00"

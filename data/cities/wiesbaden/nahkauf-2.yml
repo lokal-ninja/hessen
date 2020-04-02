@@ -5,7 +5,7 @@ latitude: 50.0575265
 longitude: 8.243585000000001
 postcode: 65187
 city: Wiesbaden
-street: Biebricher Allee
+street: "Biebricher Allee"
 housenumber: 112
 phone: "+49 611 9851000"
 opening_hours: "Mo-Sa 07:00-21:00;PH off"

@@ -5,7 +5,7 @@ latitude: 50.628528300000006
 longitude: 9.5061534
 postcode: 36364
 city: Bad Salzschlirf
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

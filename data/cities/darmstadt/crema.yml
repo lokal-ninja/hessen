@@ -5,7 +5,7 @@ latitude: 49.8785704
 longitude: 8.666045500000001
 postcode: 64287
 city: Darmstadt
-street: Dieburger Straße
+street: "Dieburger Straße"
 housenumber: 68
 phone: ""
 opening_hours: ""

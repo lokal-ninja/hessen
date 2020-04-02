@@ -5,7 +5,7 @@ latitude: 49.87194280000001
 longitude: 8.645865
 postcode: 64283
 city: Darmstadt
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 30
 phone: "+49 6151 392990"
 opening_hours: ""

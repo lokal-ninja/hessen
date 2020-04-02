@@ -5,7 +5,7 @@ latitude: 50.5768615
 longitude: 8.492176800000001
 postcode: 35586
 city: Wetzlar
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

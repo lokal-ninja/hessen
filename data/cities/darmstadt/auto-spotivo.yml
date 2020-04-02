@@ -5,7 +5,7 @@ latitude: 49.9166663
 longitude: 8.6382697
 postcode: 64291
 city: Darmstadt
-street: Borsigstraße
+street: "Borsigstraße"
 housenumber: 18
 phone: "+49 (0)6151-376757"
 opening_hours: ""

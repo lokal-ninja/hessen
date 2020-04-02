@@ -5,7 +5,7 @@ latitude: 49.648023200000004
 longitude: 8.632573800000001
 postcode: 64646
 city: Heppenheim
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

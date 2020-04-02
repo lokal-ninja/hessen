@@ -5,7 +5,7 @@ latitude: 50.585827
 longitude: 9.8363672
 postcode: 36145
 city: Hofbieber
-street: Schulweg
+street: "Schulweg"
 housenumber: 2a
 phone: "+496657 914 84 30"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.6844182
 longitude: 8.78016
 postcode: 64678
 city: Lindenfels
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

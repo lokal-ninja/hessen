@@ -5,7 +5,7 @@ latitude: 49.8557439
 longitude: 8.6511447
 postcode: 64285
 city: Darmstadt
-street: Weinbergstraße
+street: "Weinbergstraße"
 housenumber: 2
 phone: "+49 6151 9696886"
 opening_hours: "We-Fr 16:00-20:00; Sa 10:00-16:00"

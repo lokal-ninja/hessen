@@ -5,7 +5,7 @@ latitude: 51.286278900000006
 longitude: 9.4997849
 postcode: 34123
 city: Kassel
-street: Falderbaumstraße
+street: "Falderbaumstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

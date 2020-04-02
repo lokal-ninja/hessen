@@ -5,7 +5,7 @@ latitude: 50.1442155
 longitude: 8.7472151
 postcode: 60388
 city: Frankfurt am Main
-street: Victor-Slotosch-Straße
+street: "Victor-Slotosch-Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

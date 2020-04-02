@@ -5,7 +5,7 @@ latitude: 49.859327400000005
 longitude: 8.7547706
 postcode: 64380
 city: Roßdorf
-street: Darmstädter Straße
+street: "Darmstädter Straße"
 housenumber: 37
 phone: ""
 opening_hours: "nach Vereinbarung"

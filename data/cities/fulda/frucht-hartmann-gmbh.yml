@@ -5,7 +5,7 @@ latitude: 50.575677400000004
 longitude: 9.6911045
 postcode: 36039
 city: Fulda
-street: Daimler-Benz-Straße
+street: "Daimler-Benz-Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.923812100000006
 longitude: 8.870236700000001
 postcode: 64839
 city: Münster
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 61e
 phone: "+49 6071 31777"
 opening_hours: ""

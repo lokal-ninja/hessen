@@ -5,7 +5,7 @@ latitude: 49.857563400000004
 longitude: 8.5843255
 postcode: 64347
 city: Griesheim
-street: Nehringstraße
+street: "Nehringstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

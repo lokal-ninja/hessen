@@ -5,7 +5,7 @@ latitude: 50.433147600000005
 longitude: 8.6849329
 postcode: 35510
 city: Butzbach
-street: Philipp-Reis-Straße
+street: "Philipp-Reis-Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-22:00; Sa 08:00-20:00"

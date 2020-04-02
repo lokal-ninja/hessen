@@ -5,7 +5,7 @@ latitude: 50.7002838
 longitude: 8.3142917
 postcode: 
 city: Herborn Burg
-street: Am Harker
+street: "Am Harker"
 housenumber: 3
 phone: "+49 2772 63106"
 opening_hours: "Mo-Fr 10:00-12:00,15:00-18:00; Sa 10:00-12:00; PH off"

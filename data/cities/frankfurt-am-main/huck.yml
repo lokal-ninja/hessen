@@ -5,7 +5,7 @@ latitude: 50.1269538
 longitude: 8.611766600000001
 postcode: 60489
 city: Frankfurt am Main
-street: Alexanderstraße
+street: "Alexanderstraße"
 housenumber: 51
 phone: "+4969 977 688 42"
 opening_hours: "Mo-Sa 06:00-11:00"

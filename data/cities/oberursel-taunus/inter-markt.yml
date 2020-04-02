@@ -5,7 +5,7 @@ latitude: 50.1835138
 longitude: 8.602250100000001
 postcode: 61440
 city: Oberursel (Taunus)
-street: Mauerfeldstraße
+street: "Mauerfeldstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00, Sa 08:30-16:00"

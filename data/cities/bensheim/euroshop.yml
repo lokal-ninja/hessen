@@ -5,7 +5,7 @@ latitude: 49.6808872
 longitude: 8.622768200000001
 postcode: 64625
 city: Bensheim
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 20/21
 phone: "+49 931 90004515"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"

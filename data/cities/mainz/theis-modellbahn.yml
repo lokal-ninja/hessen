@@ -5,7 +5,7 @@ latitude: 49.985106300000005
 longitude: 8.300260900000001
 postcode: 55130
 city: Mainz
-street: Wormser Straße
+street: "Wormser Straße"
 housenumber: 59
 phone: ""
 opening_hours: ""

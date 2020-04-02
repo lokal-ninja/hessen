@@ -5,7 +5,7 @@ latitude: 51.1857881
 longitude: 8.894293600000001
 postcode: 34516
 city: Vöhl
-street: Itterstraße
+street: "Itterstraße"
 housenumber: 11
 phone: "+49 5635 328"
 opening_hours: ""

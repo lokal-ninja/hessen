@@ -5,7 +5,7 @@ latitude: 50.163282200000005
 longitude: 8.3174793
 postcode: 65527
 city: Niedernhausen
-street: Lenzhahner Weg
+street: "Lenzhahner Weg"
 housenumber: 8
 phone: "+49 6127 1878"
 opening_hours: "Mo-Fr 09:00-19:00"

@@ -5,7 +5,7 @@ latitude: 51.0653487
 longitude: 9.212074600000001
 postcode: 34582
 city: Borken
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 22
 phone: "+49 5682 9554"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.8678686
 longitude: 8.924284700000001
 postcode: 64823
 city: Groß-Umstadt
-street: Frankenstraße
+street: "Frankenstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 08:30-18:30; We 08:30-12:00; Sa 08:30-13:00"

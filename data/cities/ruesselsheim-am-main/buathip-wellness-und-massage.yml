@@ -5,7 +5,7 @@ latitude: 49.990439800000004
 longitude: 8.4452741
 postcode: 65428
 city: Rüsselsheim am Main
-street: Adolf-von-Menzel-Straße
+street: "Adolf-von-Menzel-Straße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

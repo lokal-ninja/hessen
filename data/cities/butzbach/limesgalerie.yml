@@ -5,7 +5,7 @@ latitude: 50.4327619
 longitude: 8.669701
 postcode: 35510
 city: Butzbach
-street: Jakob-Rumpf-Straße
+street: "Jakob-Rumpf-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

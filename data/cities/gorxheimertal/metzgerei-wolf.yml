@@ -5,7 +5,7 @@ latitude: 49.5270364
 longitude: 8.751230300000001
 postcode: 
 city: Gorxheimertal
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 383
 phone: "+49 6201 23192"
 opening_hours: ""

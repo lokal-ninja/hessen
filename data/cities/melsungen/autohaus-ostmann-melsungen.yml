@@ -5,7 +5,7 @@ latitude: 51.1212206
 longitude: 9.5377916
 postcode: 34212
 city: Melsungen
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 52-54
 phone: ""
 opening_hours: "Mo-Fr  07:00-18:00; Sa 08:00-12:00"

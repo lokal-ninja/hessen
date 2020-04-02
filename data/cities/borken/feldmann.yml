@@ -5,7 +5,7 @@ latitude: 51.0222294
 longitude: 9.2566424
 postcode: 34582
 city: Borken
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

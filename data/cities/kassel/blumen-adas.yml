@@ -5,7 +5,7 @@ latitude: 51.2900366
 longitude: 9.5174968
 postcode: 34123
 city: Kassel
-street: Breslauer Straße
+street: "Breslauer Straße"
 housenumber: 60
 phone: ""
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"

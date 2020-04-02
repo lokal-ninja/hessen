@@ -5,7 +5,7 @@ latitude: 50.0574333
 longitude: 8.7916057
 postcode: 63150
 city: Heusenstamm
-street: Leibnizstraße
+street: "Leibnizstraße"
 housenumber: 11
 phone: "+49 6104 61389"
 opening_hours: ""

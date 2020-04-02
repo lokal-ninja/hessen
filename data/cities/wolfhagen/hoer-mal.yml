@@ -5,7 +5,7 @@ latitude: 51.3270343
 longitude: 9.1703452
 postcode: 34466
 city: Wolfhagen
-street: Schützeberger Straße
+street: "Schützeberger Straße"
 housenumber: 61
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"

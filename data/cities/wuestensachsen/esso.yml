@@ -5,7 +5,7 @@ latitude: 50.503840600000004
 longitude: 10.0079144
 postcode: 36115
 city: Wüstensachsen
-street: Tanner Straße
+street: "Tanner Straße"
 housenumber: 21
 phone: "+49 6683 1359"
 opening_hours: "Mo-Su 06:30-21:00"

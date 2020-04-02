@@ -5,7 +5,7 @@ latitude: 50.5841707
 longitude: 8.672609600000001
 postcode: 35390
 city: Gießen
-street: Löwengasse
+street: "Löwengasse"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-18:00; Su 08:00-17:00"

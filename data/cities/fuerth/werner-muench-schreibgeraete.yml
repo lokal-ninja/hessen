@@ -5,7 +5,7 @@ latitude: 49.6556062
 longitude: 8.7832384
 postcode: 64658
 city: Fürth
-street: Albert-Schweitzer-Straße
+street: "Albert-Schweitzer-Straße"
 housenumber: 14
 phone: "+49-6253-4039"
 opening_hours: ""

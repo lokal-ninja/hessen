@@ -5,7 +5,7 @@ latitude: 51.204486800000005
 longitude: 9.0502762
 postcode: 34513
 city: Waldeck
-street: Güldener Ort
+street: "Güldener Ort"
 housenumber: 4
 phone: ""
 opening_hours: ""

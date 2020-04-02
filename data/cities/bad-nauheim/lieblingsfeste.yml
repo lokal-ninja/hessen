@@ -5,7 +5,7 @@ latitude: 50.3618559
 longitude: 8.7354692
 postcode: 61231
 city: Bad Nauheim
-street: Forsthausstraße
+street: "Forsthausstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 08:30-13:00; We 15:00-18:00; Sa[1],Sa[3] 10:00-13:00"

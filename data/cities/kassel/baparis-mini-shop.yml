@@ -5,7 +5,7 @@ latitude: 51.3153238
 longitude: 9.5130712
 postcode: 34125
 city: Kassel
-street: Schillstraße
+street: "Schillstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

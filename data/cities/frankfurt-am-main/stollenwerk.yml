@@ -5,7 +5,7 @@ latitude: 50.117130100000004
 longitude: 8.707637400000001
 postcode: 60316
 city: Frankfurt am Main
-street: Rhönstraße
+street: "Rhönstraße"
 housenumber: 55
 phone: ""
 opening_hours: "Mo-Fr 14:00-18:00; Sa 10:00-14:00 || Nach Vereinbarung"

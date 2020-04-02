@@ -5,7 +5,7 @@ latitude: 49.9899301
 longitude: 8.4150557
 postcode: 65428
 city: Rüsselsheim am Main
-street: Nahestraße
+street: "Nahestraße"
 housenumber: 1
 phone: "+49 6142 603838"
 opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00; Sa 10:00-13:00; We off"

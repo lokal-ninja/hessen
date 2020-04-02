@@ -5,7 +5,7 @@ latitude: 50.652411900000004
 longitude: 8.707637100000001
 postcode: 35457
 city: Lollar
-street: Marburger Straße
+street: "Marburger Straße"
 housenumber: 54
 phone: ""
 opening_hours: ""

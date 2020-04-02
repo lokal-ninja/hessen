@@ -5,7 +5,7 @@ latitude: 50.682504300000005
 longitude: 8.3041376
 postcode: 35745
 city: Herborn
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 75
 phone: ""
 opening_hours: "Mo-Fr 07:30-18:30; Sa 07:00-17:00; Su 08:00-18:00"

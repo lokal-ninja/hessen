@@ -5,7 +5,7 @@ latitude: 51.251424
 longitude: 9.4823231
 postcode: 34277
 city: Fuldabrück
-street: Neue Fahrt
+street: "Neue Fahrt"
 housenumber: 23
 phone: ""
 opening_hours: ""

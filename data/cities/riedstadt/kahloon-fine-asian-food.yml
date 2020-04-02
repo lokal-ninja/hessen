@@ -5,7 +5,7 @@ latitude: 49.8312273
 longitude: 8.486185500000001
 postcode: 64560
 city: Riedstadt
-street: Stahlbaustraße
+street: "Stahlbaustraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

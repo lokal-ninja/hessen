@@ -5,7 +5,7 @@ latitude: 49.658888000000005
 longitude: 8.567137500000001
 postcode: 64653
 city: Lorsch
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 8
 phone: "+49 6251 570953"
 opening_hours: ""

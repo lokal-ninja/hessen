@@ -5,7 +5,7 @@ latitude: 50.094084800000005
 longitude: 8.603536700000001
 postcode: 65933
 city: Frankfurt am Main
-street: Autogenstraße
+street: "Autogenstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

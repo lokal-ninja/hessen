@@ -5,7 +5,7 @@ latitude: 50.331645
 longitude: 8.5304389
 postcode: 61250
 city: Usingen
-street: Blücherstraße
+street: "Blücherstraße"
 housenumber: 2
 phone: "+49 6081 66487"
 opening_hours: ""

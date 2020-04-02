@@ -5,7 +5,7 @@ latitude: 50.2513513
 longitude: 8.6364332
 postcode: 61381
 city: Friedrichsdorf
-street: Im Dammwald
+street: "Im Dammwald"
 housenumber: 5
 phone: "+49 6172 398643"
 opening_hours: "Mo-Sa 07:00-21:00"

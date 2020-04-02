@@ -5,7 +5,7 @@ latitude: 50.229151200000004
 longitude: 8.612697
 postcode: 61348
 city: Bad Homburg v.d. Höhe
-street: Haingasse
+street: "Haingasse"
 housenumber: 4
 phone: ""
 opening_hours: ""

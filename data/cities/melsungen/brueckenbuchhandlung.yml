@@ -5,7 +5,7 @@ latitude: 51.1315736
 longitude: 9.546006
 postcode: 34212
 city: Melsungen
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:45-13:00"

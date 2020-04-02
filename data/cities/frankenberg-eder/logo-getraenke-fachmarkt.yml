@@ -5,7 +5,7 @@ latitude: 51.060700800000006
 longitude: 8.783457700000001
 postcode: 35066
 city: Frankenberg (Eder)
-street: Ruhrstraße
+street: "Ruhrstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

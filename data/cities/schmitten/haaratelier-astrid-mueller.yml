@@ -5,7 +5,7 @@ latitude: 50.242552800000006
 longitude: 8.4306794
 postcode: 61389
 city: Schmitten
-street: Brunhildestraße
+street: "Brunhildestraße"
 housenumber: 27a
 phone: ""
 opening_hours: ""

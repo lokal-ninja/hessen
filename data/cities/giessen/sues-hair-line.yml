@@ -5,7 +5,7 @@ latitude: 50.5863652
 longitude: 8.6712694
 postcode: 35390
 city: Gießen
-street: Neustadt
+street: "Neustadt"
 housenumber: 15
 phone: "+49 641 9868557"
 opening_hours: "Mo 11:00-19:00; Tu-Fr 9:00-19:00; Sa 9:00-13:00; PH off"

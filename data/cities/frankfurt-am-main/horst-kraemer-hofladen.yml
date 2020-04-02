@@ -5,7 +5,7 @@ latitude: 50.093299200000004
 longitude: 8.718484400000001
 postcode: 60599
 city: Frankfurt am Main
-street: Altebergsweg
+street: "Altebergsweg"
 housenumber: 119
 phone: "+49 69 65000444"
 opening_hours: "Mo, We-Sa 10:00-12:00 15:00-18:30; Tu, Su off"

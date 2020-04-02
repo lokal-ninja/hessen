@@ -5,7 +5,7 @@ latitude: 50.548495700000004
 longitude: 9.6614106
 postcode: 36041
 city: Fulda
-street: Neuenberger Straße
+street: "Neuenberger Straße"
 housenumber: 37
 phone: "+49 661 73131"
 opening_hours: ""

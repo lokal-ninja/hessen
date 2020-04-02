@@ -5,7 +5,7 @@ latitude: 51.352153300000005
 longitude: 9.4755607
 postcode: 34246
 city: Vellmar
-street: Triftstraße
+street: "Triftstraße"
 housenumber: 34
 phone: ""
 opening_hours: ""

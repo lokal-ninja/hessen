@@ -5,7 +5,7 @@ latitude: 50.289607600000004
 longitude: 9.1008966
 postcode: 63654
 city: Büdingen
-street: Düdelsheimer Straße
+street: "Düdelsheimer Straße"
 housenumber: 28a
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00"

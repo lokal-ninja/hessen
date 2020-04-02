@@ -5,7 +5,7 @@ latitude: 50.768442900000004
 longitude: 8.5852164
 postcode: 35075
 city: Gladenbach
-street: Kirchbergstraße
+street: "Kirchbergstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00; PH off"

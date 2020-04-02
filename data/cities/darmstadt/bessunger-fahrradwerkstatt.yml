@@ -5,7 +5,7 @@ latitude: 49.8558497
 longitude: 8.6518707
 postcode: 64285
 city: Darmstadt
-street: Herrngartenstraße
+street: "Herrngartenstraße"
 housenumber: 
 phone: "+496151-661544"
 opening_hours: "Tu, Th 15:00-18:30; Sa 11:00-14:00"

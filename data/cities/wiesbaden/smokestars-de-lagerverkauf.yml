@@ -5,7 +5,7 @@ latitude: 50.049997600000005
 longitude: 8.227226700000001
 postcode: 65203
 city: Wiesbaden
-street: Paul-Friedländer-Straße
+street: "Paul-Friedländer-Straße"
 housenumber: 6
 phone: "+4961194698975"
 opening_hours: "Mo-Fr 10:00-15:00; Sa-Su off; PH off"

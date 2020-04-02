@@ -5,7 +5,7 @@ latitude: 49.768233
 longitude: 8.645097
 postcode: 64342
 city: Seeheim-Jugenheim
-street: Heidelberger Straße
+street: "Heidelberger Straße"
 housenumber: 56
 phone: "+49 6257 944429"
 opening_hours: "nach Vereinbarung"

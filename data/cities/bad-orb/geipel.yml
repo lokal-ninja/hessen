@@ -5,7 +5,7 @@ latitude: 50.226718600000005
 longitude: 9.348077
 postcode: 63619
 city: Bad Orb
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.670368700000004
 longitude: 9.556698800000001
 postcode: 36110
 city: Schlitz
-street: Herrngartenstraße
+street: "Herrngartenstraße"
 housenumber: 26
 phone: "+49 6642 9110244"
 opening_hours: ""

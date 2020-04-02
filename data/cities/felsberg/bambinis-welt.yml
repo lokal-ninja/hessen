@@ -5,7 +5,7 @@ latitude: 51.1347838
 longitude: 9.4189168
 postcode: 34587
 city: Felsberg
-street: Obertor
+street: "Obertor"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 10:00-12:45; Mo-Tu, Th-Fr 14:30-17:30"

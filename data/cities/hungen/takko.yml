@@ -5,7 +5,7 @@ latitude: 50.4775233
 longitude: 8.902079500000001
 postcode: 35410
 city: Hungen
-street: Untertorstraße
+street: "Untertorstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

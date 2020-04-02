@@ -5,7 +5,7 @@ latitude: 50.1845453
 longitude: 8.4667483
 postcode: 61462
 city: Königstein im Taunus
-street: Limburger Straße
+street: "Limburger Straße"
 housenumber: 6
 phone: "+49 6174 293570"
 opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00;We,Sa 09:30-13:30;Su off"

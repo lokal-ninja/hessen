@@ -5,7 +5,7 @@ latitude: 51.413318000000004
 longitude: 9.1144276
 postcode: 34471
 city: Volkmarsen
-street: Steinweg
+street: "Steinweg"
 housenumber: 37
 phone: ""
 opening_hours: ""

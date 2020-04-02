@@ -5,7 +5,7 @@ latitude: 50.1234994
 longitude: 8.6443443
 postcode: 60487
 city: Frankfurt am Main
-street: Juliusstraße
+street: "Juliusstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

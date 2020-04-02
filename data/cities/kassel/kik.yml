@@ -5,7 +5,7 @@ latitude: 51.290238300000006
 longitude: 9.4748246
 postcode: 34134
 city: Kassel
-street: Credéstraße
+street: "Credéstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

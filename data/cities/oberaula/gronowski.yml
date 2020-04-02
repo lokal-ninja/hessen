@@ -5,7 +5,7 @@ latitude: 50.856895
 longitude: 9.4690493
 postcode: 36280
 city: Oberaula
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 12-14
 phone: "+49 6628 330"
 opening_hours: ""

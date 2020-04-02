@@ -5,7 +5,7 @@ latitude: 51.0812596
 longitude: 9.5404958
 postcode: 34323
 city: Malsfeld
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 44
 phone: "+49 5664 1498"
 opening_hours: ""

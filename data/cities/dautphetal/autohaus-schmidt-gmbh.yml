@@ -5,7 +5,7 @@ latitude: 50.8167666
 longitude: 8.5300665
 postcode: 35232
 city: Dautphetal
-street: Gasserstraße
+street: "Gasserstraße"
 housenumber: 24
 phone: ""
 opening_hours: ""

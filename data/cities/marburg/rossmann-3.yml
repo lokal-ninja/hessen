@@ -5,7 +5,7 @@ latitude: 50.807043
 longitude: 8.768051
 postcode: 35037
 city: Marburg
-street: Universitätsstraße
+street: "Universitätsstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; Su off; PH off"

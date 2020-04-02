@@ -5,7 +5,7 @@ latitude: 51.3167911
 longitude: 9.4915523
 postcode: 34117
 city: Kassel
-street: Kurfürstenstraße
+street: "Kurfürstenstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

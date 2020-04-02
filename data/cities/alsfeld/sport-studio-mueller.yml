@@ -5,7 +5,7 @@ latitude: 50.7503029
 longitude: 9.2703562
 postcode: 36304
 city: Alsfeld
-street: Mainzer Gasse
+street: "Mainzer Gasse"
 housenumber: 10
 phone: ""
 opening_hours: ""

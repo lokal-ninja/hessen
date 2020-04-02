@@ -5,7 +5,7 @@ latitude: 50.4970427
 longitude: 9.711617200000001
 postcode: 36124
 city: Eichenzell
-street: Am Mauerleger
+street: "Am Mauerleger"
 housenumber: 6
 phone: "+49 6659 987666"
 opening_hours: ""

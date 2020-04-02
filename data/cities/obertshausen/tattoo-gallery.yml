@@ -5,7 +5,7 @@ latitude: 50.0770459
 longitude: 8.8639834
 postcode: 63179
 city: Obertshausen
-street: Seligenstädter Straße
+street: "Seligenstädter Straße"
 housenumber: 64
 phone: ""
 opening_hours: "Tu-Fr 13:00-19:00, Sa 11:00-13:00"

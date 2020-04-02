@@ -5,7 +5,7 @@ latitude: 50.5861669
 longitude: 8.478283000000001
 postcode: 35614
 city: Aßlar
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 63
 phone: "+4964413091995"
 opening_hours: "Mo-Sa 09:00-19:00"

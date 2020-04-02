@@ -5,7 +5,7 @@ latitude: 49.566641000000004
 longitude: 8.9755059
 postcode: 64760
 city: Oberzent
-street: Eberbacher Weg
+street: "Eberbacher Weg"
 housenumber: 19
 phone: ""
 opening_hours: ""

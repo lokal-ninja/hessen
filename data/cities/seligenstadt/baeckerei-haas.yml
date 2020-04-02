@@ -5,7 +5,7 @@ latitude: 50.04358250000001
 longitude: 8.9756763
 postcode: 63500
 city: Seligenstadt
-street: Palatiumstraße
+street: "Palatiumstraße"
 housenumber: 2
 phone: "+49 6182 949403"
 opening_hours: "Mo-Sa 07:00-18:00; Su 13:00-18:00"

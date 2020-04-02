@@ -5,7 +5,7 @@ latitude: 50.0355828
 longitude: 8.8769208
 postcode: 63110
 city: Rodgau
-street: Hans-Sachs-Straße
+street: "Hans-Sachs-Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

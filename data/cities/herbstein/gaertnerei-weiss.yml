@@ -5,7 +5,7 @@ latitude: 50.5659274
 longitude: 9.3476807
 postcode: 36358
 city: Herbstein
-street: Ostring
+street: "Ostring"
 housenumber: 2
 phone: ""
 opening_hours: ""

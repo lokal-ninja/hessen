@@ -5,7 +5,7 @@ latitude: 51.2941335
 longitude: 9.4710865
 postcode: 34134
 city: Kassel
-street: An der Kurhessenhalle
+street: "An der Kurhessenhalle"
 housenumber: 60
 phone: ""
 opening_hours: "Mo-Th 07:00-16:30, Fr 07:00-16:00"

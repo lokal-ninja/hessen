@@ -5,7 +5,7 @@ latitude: 50.5391555
 longitude: 8.731116100000001
 postcode: 35415
 city: Pohlheim
-street: Neue Mitte
+street: "Neue Mitte"
 housenumber: 2
 phone: ""
 opening_hours: ""

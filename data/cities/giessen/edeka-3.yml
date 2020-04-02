@@ -5,7 +5,7 @@ latitude: 50.609829500000004
 longitude: 8.715889200000001
 postcode: 35396
 city: Gießen
-street: Altenburger Straße
+street: "Altenburger Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

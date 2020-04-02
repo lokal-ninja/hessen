@@ -5,7 +5,7 @@ latitude: 50.8399159
 longitude: 8.468167000000001
 postcode: 35239
 city: Steffenberg
-street: Kaufpark
+street: "Kaufpark"
 housenumber: 3
 phone: "+49 6464 913569"
 opening_hours: ""

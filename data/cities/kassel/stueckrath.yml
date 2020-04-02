@@ -5,7 +5,7 @@ latitude: 51.308502600000004
 longitude: 9.5187807
 postcode: 
 city: Kassel
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 86
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.0421178
 longitude: 9.6721137
 postcode: 36211
 city: Alheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

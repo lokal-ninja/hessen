@@ -5,7 +5,7 @@ latitude: 50.7913232
 longitude: 8.327185100000001
 postcode: 
 city: Eschenburg
-street: Bezirksstraße
+street: "Bezirksstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

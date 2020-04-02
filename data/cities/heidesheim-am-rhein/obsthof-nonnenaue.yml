@@ -5,7 +5,7 @@ latitude: 50.013527100000005
 longitude: 8.1192305
 postcode: 55262
 city: Heidesheim am Rhein
-street: Nonnenaue
+street: "Nonnenaue"
 housenumber: 2
 phone: "+49 6132 7135532"
 opening_hours: ""

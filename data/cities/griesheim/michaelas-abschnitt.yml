@@ -5,7 +5,7 @@ latitude: 49.8682669
 longitude: 8.562979
 postcode: 64347
 city: Griesheim
-street: Mainstraße
+street: "Mainstraße"
 housenumber: 28
 phone: "+49-6155-8286244"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.987918
 longitude: 8.6791716
 postcode: 63225
 city: Langen (Hessen)
-street: Obergasse
+street: "Obergasse"
 housenumber: 1
 phone: "+49 6103 4879323"
 opening_hours: "Mo-Fr 10:00-13:00, 14:00-18:00"

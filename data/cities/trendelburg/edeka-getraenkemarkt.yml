@@ -5,7 +5,7 @@ latitude: 51.5750036
 longitude: 9.4294945
 postcode: 34388
 city: Trendelburg
-street: Friedrichsfelder Straße
+street: "Friedrichsfelder Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

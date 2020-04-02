@@ -5,7 +5,7 @@ latitude: 50.580207
 longitude: 8.490933700000001
 postcode: 35586
 city: Wetzlar
-street: Blasbacher Straße
+street: "Blasbacher Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.2901772
 longitude: 9.1047653
 postcode: 63654
 city: Büdingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 45
 phone: "+49 6042 979380"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"

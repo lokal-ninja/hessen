@@ -5,7 +5,7 @@ latitude: 49.807050200000006
 longitude: 8.4683968
 postcode: 64589
 city: Stockstadt am Rhein
-street: Pariser Straße
+street: "Pariser Straße"
 housenumber: 22
 phone: "+49 6158 86364"
 opening_hours: ""

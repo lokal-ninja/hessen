@@ -5,7 +5,7 @@ latitude: 49.8971895
 longitude: 8.837497800000001
 postcode: 64807
 city: Dieburg
-street: Rheingaustraße
+street: "Rheingaustraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

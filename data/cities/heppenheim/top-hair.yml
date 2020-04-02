@@ -5,7 +5,7 @@ latitude: 49.642886100000005
 longitude: 8.6428585
 postcode: 64646
 city: Heppenheim
-street: Kleiner Markt
+street: "Kleiner Markt"
 housenumber: 7
 phone: ""
 opening_hours: ""

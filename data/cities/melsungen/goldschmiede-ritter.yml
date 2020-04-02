@@ -5,7 +5,7 @@ latitude: 51.1319072
 longitude: 9.5418123
 postcode: 34212
 city: Melsungen
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 23
 phone: ""
 opening_hours: "Tu,Th,Fr 10:00-13:00,14:30-18:00; Sa 10:00-13:00"

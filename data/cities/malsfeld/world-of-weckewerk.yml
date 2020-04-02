@@ -5,7 +5,7 @@ latitude: 51.093965000000004
 longitude: 9.5380679
 postcode: 34323
 city: Malsfeld
-street: Malsfelder Straße
+street: "Malsfelder Straße"
 housenumber: 14
 phone: "+49 5661 2433"
 opening_hours: ""

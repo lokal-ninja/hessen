@@ -5,7 +5,7 @@ latitude: 50.766291200000005
 longitude: 8.8955479
 postcode: 35287
 city: Amöneburg
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-15:30; Sa 10:00-14:00; PH off"

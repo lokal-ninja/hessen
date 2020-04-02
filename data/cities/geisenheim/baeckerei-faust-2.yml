@@ -5,7 +5,7 @@ latitude: 50.0045068
 longitude: 7.980971800000001
 postcode: 65366
 city: Geisenheim
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 15
 phone: ""
 opening_hours: ""

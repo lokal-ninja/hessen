@@ -5,7 +5,7 @@ latitude: 50.0795717
 longitude: 8.941790300000001
 postcode: 63512
 city: Hainburg
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 
 phone: "+49 6182 5442"
 opening_hours: "Mo-Fr 09:30-13:00,14:30-18:00; Sa 09:30-13:00"

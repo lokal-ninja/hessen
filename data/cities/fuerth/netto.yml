@@ -5,7 +5,7 @@ latitude: 49.6501023
 longitude: 8.777067200000001
 postcode: 64658
 city: Fürth
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

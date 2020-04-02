@@ -5,7 +5,7 @@ latitude: 50.1195479
 longitude: 8.5667757
 postcode: 
 city: Frankfurt am Main
-street: Alt-Sossenheim
+street: "Alt-Sossenheim"
 housenumber: 43
 phone: ""
 opening_hours: ""

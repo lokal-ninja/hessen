@@ -5,7 +5,7 @@ latitude: 50.129145400000006
 longitude: 8.8915489
 postcode: 63454
 city: Hanau
-street: Burgallee
+street: "Burgallee"
 housenumber: 8-10
 phone: "+49 6181 9199179"
 opening_hours: "Mo-Sa 10:00-18:00"

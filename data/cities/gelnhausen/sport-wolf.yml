@@ -5,7 +5,7 @@ latitude: 50.200430600000004
 longitude: 9.185723000000001
 postcode: 63571
 city: Gelnhausen
-street: Lohmühlenweg
+street: "Lohmühlenweg"
 housenumber: 29
 phone: ""
 opening_hours: ""

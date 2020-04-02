@@ -5,7 +5,7 @@ latitude: 50.6776101
 longitude: 8.8220437
 postcode: 35469
 city: Allendorf
-street: Zahlgasse
+street: "Zahlgasse"
 housenumber: 4
 phone: ""
 opening_hours: ""

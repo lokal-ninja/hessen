@@ -5,7 +5,7 @@ latitude: 50.0444826
 longitude: 7.8036215
 postcode: 65391
 city: Lorch
-street: Langgasse
+street: "Langgasse"
 housenumber: 2
 phone: ""
 opening_hours: ""

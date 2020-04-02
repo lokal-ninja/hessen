@@ -5,7 +5,7 @@ latitude: 50.1578573
 longitude: 8.5470716
 postcode: 65760
 city: Eschborn
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 299
 phone: ""
 opening_hours: ""

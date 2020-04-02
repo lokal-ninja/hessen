@@ -5,7 +5,7 @@ latitude: 51.18165260000001
 longitude: 10.170600100000001
 postcode: 37281
 city: Wanfried
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

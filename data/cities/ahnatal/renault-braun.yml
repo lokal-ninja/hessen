@@ -5,7 +5,7 @@ latitude: 51.364776400000004
 longitude: 9.4305547
 postcode: 34292
 city: Ahnatal
-street: Obervellmarsche Straße
+street: "Obervellmarsche Straße"
 housenumber: 10
 phone: "+49 56 09  550"
 opening_hours: ""

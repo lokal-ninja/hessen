@@ -5,7 +5,7 @@ latitude: 50.5554323
 longitude: 8.434364500000001
 postcode: 35606
 city: Solms
-street: Grundstraße
+street: "Grundstraße"
 housenumber: 63
 phone: "+49 6441 567 364"
 opening_hours: ""

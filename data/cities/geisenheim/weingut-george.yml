@@ -5,7 +5,7 @@ latitude: 49.987559600000004
 longitude: 7.975079300000001
 postcode: 65366
 city: Geisenheim
-street: Winkeler Straße
+street: "Winkeler Straße"
 housenumber: 111
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.120241400000005
 longitude: 8.6494216
 postcode: 60486
 city: Frankfurt am Main
-street: Adalbertstraße
+street: "Adalbertstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-We,Fr 09:00-18:30; Th 09:00-20:00; Sa 09:00-14:30"

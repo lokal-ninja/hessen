@@ -5,7 +5,7 @@ latitude: 50.590797900000005
 longitude: 8.4632515
 postcode: 35614
 city: Aßlar
-street: Bachstraße
+street: "Bachstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Th 08:00-19:00; Sa 08:00-16:00"

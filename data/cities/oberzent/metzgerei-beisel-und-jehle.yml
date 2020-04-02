@@ -5,7 +5,7 @@ latitude: 49.4984819
 longitude: 8.921017800000001
 postcode: 64760
 city: Oberzent
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

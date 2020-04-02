@@ -5,7 +5,7 @@ latitude: 50.052957400000004
 longitude: 8.3094448
 postcode: 65205
 city: Wiesbaden
-street: Rennbahnstraße
+street: "Rennbahnstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-12:30"

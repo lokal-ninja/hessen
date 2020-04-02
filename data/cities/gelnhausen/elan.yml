@@ -5,7 +5,7 @@ latitude: 50.207097700000006
 longitude: 9.1557206
 postcode: 63571
 city: Gelnhausen
-street: Hochstraße
+street: "Hochstraße"
 housenumber: 23
 phone: "+49 6051 3323"
 opening_hours: "Mo-Fr 06:00-21:00; Sa 07:30-21:00; Su,PH 07:30-20:30"

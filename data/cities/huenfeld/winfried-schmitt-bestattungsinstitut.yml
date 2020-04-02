@@ -5,7 +5,7 @@ latitude: 50.6806205
 longitude: 9.762433900000001
 postcode: 36088
 city: Hünfeld
-street: Ströherstraße
+street: "Ströherstraße"
 housenumber: 7-9
 phone: "+49 6652 4758"
 opening_hours: ""

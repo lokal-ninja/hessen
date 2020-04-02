@@ -5,7 +5,7 @@ latitude: 49.8272314
 longitude: 8.8310937
 postcode: 64354
 city: Reinheim
-street: Darmstädter Straße
+street: "Darmstädter Straße"
 housenumber: 10
 phone: ""
 opening_hours: ""

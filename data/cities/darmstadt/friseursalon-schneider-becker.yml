@@ -5,7 +5,7 @@ latitude: 49.855676700000004
 longitude: 8.6523213
 postcode: 64285
 city: Darmstadt
-street: Herderstraße
+street: "Herderstraße"
 housenumber: 1
 phone: "+49 6151 62457"
 opening_hours: "Tu-Fr 8:00-18:00; Sa 8:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.9922477
 longitude: 8.648851
 postcode: 63225
 city: Langen (Hessen)
-street: Berliner Allee
+street: "Berliner Allee"
 housenumber: 5
 phone: "+49 6103 71401"
 opening_hours: "Tu-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.8583572
 longitude: 8.576585900000001
 postcode: 64347
 city: Griesheim
-street: Bessunger Straße
+street: "Bessunger Straße"
 housenumber: 169
 phone: "+49-6155-62518"
 opening_hours: ""

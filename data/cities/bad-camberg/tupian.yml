@@ -5,7 +5,7 @@ latitude: 50.2997432
 longitude: 8.252739
 postcode: 65520
 city: Bad Camberg
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

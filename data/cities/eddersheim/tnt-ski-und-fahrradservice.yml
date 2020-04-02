@@ -5,7 +5,7 @@ latitude: 50.0372691
 longitude: 8.4699916
 postcode: 65795
 city: Eddersheim
-street: Ankerstraße
+street: "Ankerstraße"
 housenumber: 24
 phone: "+49 6145 590351"
 opening_hours: "Tu 15:30-18:30, Sa 10:00-14:00"

@@ -5,7 +5,7 @@ latitude: 50.226312400000005
 longitude: 9.3489574
 postcode: 63619
 city: Bad Orb
-street: Gretenbachstraße
+street: "Gretenbachstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.5349057
 longitude: 9.7139311
 postcode: 36093
 city: Künzell
-street: Turmstraße
+street: "Turmstraße"
 housenumber: 100
 phone: ""
 opening_hours: "Mo,We 09:00-12:00,15:00-18:00; Fr 09:00-12:00"

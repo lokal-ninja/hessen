@@ -5,7 +5,7 @@ latitude: 50.752803
 longitude: 9.270071100000001
 postcode: 36304
 city: Alsfeld
-street: Ludwigsplatz
+street: "Ludwigsplatz"
 housenumber: 1
 phone: "+49 6631 96930"
 opening_hours: "Mo-Fr 10:00-18:00, Sa nach Vereinbarung"

@@ -5,7 +5,7 @@ latitude: 51.4941504
 longitude: 9.382559800000001
 postcode: 34369
 city: Hofgeismar
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

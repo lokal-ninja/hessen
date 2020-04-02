@@ -5,7 +5,7 @@ latitude: 50.1114521
 longitude: 8.677966000000001
 postcode: 60313
 city: Frankfurt am Main
-street: Weißadlergasse
+street: "Weißadlergasse"
 housenumber: 
 phone: ""
 opening_hours: ""

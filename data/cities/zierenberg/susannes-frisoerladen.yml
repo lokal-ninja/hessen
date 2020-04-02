@@ -5,7 +5,7 @@ latitude: 51.36753100000001
 longitude: 9.3003626
 postcode: 34289
 city: Zierenberg
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 35
 phone: ""
 opening_hours: ""

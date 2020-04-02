@@ -5,7 +5,7 @@ latitude: 50.365157
 longitude: 8.7368361
 postcode: 61231
 city: Bad Nauheim
-street: Reinhardstraße
+street: "Reinhardstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

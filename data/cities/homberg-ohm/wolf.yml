@@ -5,7 +5,7 @@ latitude: 50.7311848
 longitude: 9.0007903
 postcode: 35315
 city: Homberg (Ohm)
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

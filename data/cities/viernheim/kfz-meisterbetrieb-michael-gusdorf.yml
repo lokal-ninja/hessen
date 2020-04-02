@@ -5,7 +5,7 @@ latitude: 49.549336100000005
 longitude: 8.589575
 postcode: 68519
 city: Viernheim
-street: Bunsenstraße
+street: "Bunsenstraße"
 housenumber: 2
 phone: "+49 6204 60 27 66"
 opening_hours: ""

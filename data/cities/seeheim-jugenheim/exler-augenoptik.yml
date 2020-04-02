@@ -5,7 +5,7 @@ latitude: 49.768825500000005
 longitude: 8.642968100000001
 postcode: 64342
 city: Seeheim-Jugenheim
-street: Am Grundweg
+street: "Am Grundweg"
 housenumber: 10
 phone: ""
 opening_hours: ""

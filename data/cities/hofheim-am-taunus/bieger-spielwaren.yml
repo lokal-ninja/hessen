@@ -5,7 +5,7 @@ latitude: 50.073343
 longitude: 8.4356278
 postcode: 65719
 city: Hofheim am Taunus
-street: Bahnstraße
+street: "Bahnstraße"
 housenumber: 22
 phone: "+49 6192 24870"
 opening_hours: "Mo-Fr 10:00-12:30,14:00-18:30, Sa 09:30-13:00"

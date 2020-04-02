@@ -5,7 +5,7 @@ latitude: 50.104396200000004
 longitude: 8.662247
 postcode: 
 city: Frankfurt am Main
-street: Stuttgarter Straße
+street: "Stuttgarter Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

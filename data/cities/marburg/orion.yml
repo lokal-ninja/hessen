@@ -5,7 +5,7 @@ latitude: 50.8422016
 longitude: 8.7682452
 postcode: 35041
 city: Marburg
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00; PH off"

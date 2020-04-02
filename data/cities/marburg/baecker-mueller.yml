@@ -5,7 +5,7 @@ latitude: 50.8097574
 longitude: 8.771019500000001
 postcode: 35037
 city: Marburg
-street: Wettergasse
+street: "Wettergasse"
 housenumber: 
 phone: ""
 opening_hours: ""

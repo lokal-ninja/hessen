@@ -5,7 +5,7 @@ latitude: 51.12825410000001
 longitude: 9.2934652
 postcode: 34560
 city: Fritzlar
-street: Gewerbering
+street: "Gewerbering"
 housenumber: 1
 phone: "+49 5622 915366"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

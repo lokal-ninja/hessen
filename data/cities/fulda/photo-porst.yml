@@ -5,7 +5,7 @@ latitude: 50.5502319
 longitude: 9.6746792
 postcode: 36037
 city: Fulda
-street: Robert-Kircher-Straße
+street: "Robert-Kircher-Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

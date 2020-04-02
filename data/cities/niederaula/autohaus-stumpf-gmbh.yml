@@ -5,7 +5,7 @@ latitude: 50.798228800000004
 longitude: 9.602111800000001
 postcode: 36272
 city: Niederaula
-street: Schlitzer Straße
+street: "Schlitzer Straße"
 housenumber: 29
 phone: "+49 6625 919840"
 opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-15:00"

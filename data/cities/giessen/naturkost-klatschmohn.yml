@@ -5,7 +5,7 @@ latitude: 50.585517200000005
 longitude: 8.676517500000001
 postcode: 35390
 city: Gießen
-street: Neuen Bäue
+street: "Neuen Bäue"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:00"

@@ -5,7 +5,7 @@ latitude: 51.3605834
 longitude: 8.8013271
 postcode: 34519
 city: Diemelsee
-street: Rhenegger Straße
+street: "Rhenegger Straße"
 housenumber: 5-11
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

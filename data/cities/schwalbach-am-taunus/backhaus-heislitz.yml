@@ -5,7 +5,7 @@ latitude: 50.1549643
 longitude: 8.5276408
 postcode: 65824
 city: Schwalbach am Taunus
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 38
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30, Sa 06:30-13:00, Su,PH 07:30-11:00"

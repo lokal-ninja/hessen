@@ -5,7 +5,7 @@ latitude: 50.0131032
 longitude: 8.9924973
 postcode: 63533
 city: Mainhausen
-street: Heinrich-Heine-Straße
+street: "Heinrich-Heine-Straße"
 housenumber: 8
 phone: "+49 6182 21643"
 opening_hours: "Mo-Th 15:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00"

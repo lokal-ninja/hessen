@@ -5,7 +5,7 @@ latitude: 51.32556700000001
 longitude: 9.1709337
 postcode: 34466
 city: Wolfhagen
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 18
 phone: ""
 opening_hours: ""

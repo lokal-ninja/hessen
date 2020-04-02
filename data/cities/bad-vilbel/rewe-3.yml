@@ -5,7 +5,7 @@ latitude: 50.1680944
 longitude: 8.7271405
 postcode: 61118
 city: Bad Vilbel
-street: Alte Frankfurter Straße
+street: "Alte Frankfurter Straße"
 housenumber: 26
 phone: "+49 6101 583940"
 opening_hours: "Mo-Sa 07:00-22:00"

@@ -5,7 +5,7 @@ latitude: 50.811261
 longitude: 8.7750272
 postcode: 35037
 city: Marburg
-street: Biegenstraße
+street: "Biegenstraße"
 housenumber: 17
 phone: ""
 opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.7465874
 longitude: 9.0027153
 postcode: 64732
 city: Bad König
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 70
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

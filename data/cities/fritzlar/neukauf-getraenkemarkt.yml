@@ -5,7 +5,7 @@ latitude: 51.134408400000005
 longitude: 9.2759952
 postcode: 34560
 city: Fritzlar
-street: Am Hospital
+street: "Am Hospital"
 housenumber: 7
 phone: ""
 opening_hours: ""

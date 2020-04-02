@@ -5,7 +5,7 @@ latitude: 50.293964700000004
 longitude: 8.270629000000001
 postcode: 65520
 city: Bad Camberg
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 72
 phone: ""
 opening_hours: ""

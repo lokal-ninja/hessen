@@ -5,7 +5,7 @@ latitude: 49.681584300000004
 longitude: 8.6234034
 postcode: 64625
 city: Bensheim
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 8
 phone: ""
 opening_hours: ""

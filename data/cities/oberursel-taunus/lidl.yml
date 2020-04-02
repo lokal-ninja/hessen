@@ -5,7 +5,7 @@ latitude: 50.1931913
 longitude: 8.5882477
 postcode: 61440
 city: Oberursel (Taunus)
-street: Pfeiffstraße
+street: "Pfeiffstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

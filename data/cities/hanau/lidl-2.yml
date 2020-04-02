@@ -5,7 +5,7 @@ latitude: 50.104457800000006
 longitude: 8.919623300000001
 postcode: 63456
 city: Hanau
-street: Geleitstraße
+street: "Geleitstraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

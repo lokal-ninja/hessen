@@ -5,7 +5,7 @@ latitude: 50.9048298
 longitude: 9.746496800000001
 postcode: 36251
 city: Ludwigsau-Friedlos
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 6
 phone: "+49 6621 504920"
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.550528400000005
 longitude: 9.677814300000001
 postcode: 36037
 city: Fulda
-street: Buttermarkt
+street: "Buttermarkt"
 housenumber: 
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.113663900000006
 longitude: 8.677123700000001
 postcode: 60313
 city: Frankfurt am Main
-street: Steinweg
+street: "Steinweg"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"

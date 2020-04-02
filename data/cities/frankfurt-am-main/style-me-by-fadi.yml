@@ -5,7 +5,7 @@ latitude: 50.1007121
 longitude: 8.5512909
 postcode: 65929
 city: Frankfurt am Main
-street: Bolongarostraße
+street: "Bolongarostraße"
 housenumber: 115
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

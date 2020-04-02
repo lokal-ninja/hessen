@@ -5,7 +5,7 @@ latitude: 49.9777379
 longitude: 8.424196400000001
 postcode: 65428
 city: Rüsselsheim am Main
-street: Eisenstraße
+street: "Eisenstraße"
 housenumber: 26
 phone: ""
 opening_hours: ""

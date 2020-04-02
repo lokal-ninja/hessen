@@ -5,7 +5,7 @@ latitude: 50.1236997
 longitude: 8.7155729
 postcode: 60385
 city: Frankfurt am Main
-street: Saalburgallee
+street: "Saalburgallee"
 housenumber: 30d
 phone: ""
 opening_hours: "Mo-Th 08:30-20:30; Fr 08:30-14:00; Sa off; Su 08:30-20:00; PH Sa off"

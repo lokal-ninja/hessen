@@ -5,7 +5,7 @@ latitude: 51.334031
 longitude: 9.4915459
 postcode: 34127
 city: Kassel
-street: Struthbachweg
+street: "Struthbachweg"
 housenumber: 26
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

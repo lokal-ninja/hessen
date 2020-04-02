@@ -5,7 +5,7 @@ latitude: 51.317071500000004
 longitude: 9.4983067
 postcode: 34117
 city: Kassel
-street: Königsplatz
+street: "Königsplatz"
 housenumber: 61
 phone: "+49 561 70140"
 opening_hours: "Mo-Sa 09:30-20:00; Su off"

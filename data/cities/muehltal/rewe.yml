@@ -5,7 +5,7 @@ latitude: 49.8202889
 longitude: 8.6864933
 postcode: 64367
 city: Mühltal
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 47
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

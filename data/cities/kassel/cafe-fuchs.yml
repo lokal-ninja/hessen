@@ -5,7 +5,7 @@ latitude: 51.31432100000001
 longitude: 9.474866800000001
 postcode: 34119
 city: Kassel
-street: Murhardstraße
+street: "Murhardstraße"
 housenumber: 10a
 phone: "+49 561 8 16 49 49"
 opening_hours: "Mo-Fr 05:30-18:00; Sa 06:30-12:00; Su 08:00-12:00"

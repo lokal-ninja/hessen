@@ -5,7 +5,7 @@ latitude: 49.9205127
 longitude: 8.4824976
 postcode: 64521
 city: Groß-Gerau
-street: Darmstädter Straße
+street: "Darmstädter Straße"
 housenumber: 7
 phone: "+49 6152 2739"
 opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"

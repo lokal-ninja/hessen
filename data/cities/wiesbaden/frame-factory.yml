@@ -5,7 +5,7 @@ latitude: 50.079781800000006
 longitude: 8.201621300000001
 postcode: 65199
 city: Wiesbaden
-street: Flachstraße
+street: "Flachstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

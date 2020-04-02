@@ -5,7 +5,7 @@ latitude: 51.1921593
 longitude: 10.0558631
 postcode: 37269
 city: Eschwege
-street: Eschenweg
+street: "Eschenweg"
 housenumber: 1-3
 phone: "+49 5651 99208333"
 opening_hours: ""

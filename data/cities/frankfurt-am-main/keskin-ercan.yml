@@ -5,7 +5,7 @@ latitude: 50.086338700000006
 longitude: 8.579708700000001
 postcode: 60529
 city: Frankfurt am Main
-street: Schwarzbachstraße
+street: "Schwarzbachstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 08:30-13:00,15:00-18:30; Sa 08:30-13:00"

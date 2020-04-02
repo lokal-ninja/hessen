@@ -5,7 +5,7 @@ latitude: 51.3425121
 longitude: 9.477076100000001
 postcode: 34127
 city: Kassel
-street: Holländische Straße
+street: "Holländische Straße"
 housenumber: 207
 phone: "+49 561 8618 8715"
 opening_hours: "Mo-Fr 08:30-19:00, Sa 08:30-15:00"

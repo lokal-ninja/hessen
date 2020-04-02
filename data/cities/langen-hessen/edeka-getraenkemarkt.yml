@@ -5,7 +5,7 @@ latitude: 49.9960139
 longitude: 8.6527201
 postcode: 63225
 city: Langen (Hessen)
-street: Ampèrestraße
+street: "Ampèrestraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 51.3220023
 longitude: 9.4533881
 postcode: 34130
 city: Kassel
-street: Zentgrafenstraße
+street: "Zentgrafenstraße"
 housenumber: 51
 phone: ""
 opening_hours: ""

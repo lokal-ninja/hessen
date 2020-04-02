@@ -5,7 +5,7 @@ latitude: 49.6770076
 longitude: 8.610130700000001
 postcode: 64625
 city: Bensheim
-street: Schlesierstraße
+street: "Schlesierstraße"
 housenumber: 6
 phone: "+49625168284"
 opening_hours: "Mo-Fr 17:00-19:00; Sa 09:30-14:00"

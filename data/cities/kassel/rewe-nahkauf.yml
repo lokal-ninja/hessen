@@ -5,7 +5,7 @@ latitude: 51.2891131
 longitude: 9.415162800000001
 postcode: 34132
 city: Kassel
-street: Nordshäuser Straße
+street: "Nordshäuser Straße"
 housenumber: 40
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-13:00"

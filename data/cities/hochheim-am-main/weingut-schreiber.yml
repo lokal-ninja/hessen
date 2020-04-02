@@ -5,7 +5,7 @@ latitude: 50.0265665
 longitude: 8.362671500000001
 postcode: 65239
 city: Hochheim am Main
-street: Johanneshof
+street: "Johanneshof"
 housenumber: 
 phone: "+49 6146 9171"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

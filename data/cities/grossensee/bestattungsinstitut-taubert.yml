@@ -5,7 +5,7 @@ latitude: 50.9347074
 longitude: 9.9705086
 postcode: 99837
 city: Großensee
-street: Feldstraße
+street: "Feldstraße"
 housenumber: 6
 phone: "+49 36922 30857"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.0275927
 longitude: 8.6958318
 postcode: 63303
 city: Dreieich
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 109
 phone: ""
 opening_hours: ""

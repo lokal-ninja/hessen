@@ -5,7 +5,7 @@ latitude: 49.657507800000005
 longitude: 8.4102399
 postcode: 68623
 city: Lampertheim OT Hofheim
-street: Neugasse
+street: "Neugasse"
 housenumber: 1
 phone: "+49 6241 9548190"
 opening_hours: "Mo-Sa 05:30-20:00; Su 08:00-11:00"

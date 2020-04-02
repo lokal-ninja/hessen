@@ -5,7 +5,7 @@ latitude: 51.42950810000001
 longitude: 9.0260409
 postcode: 34454
 city: Bad Arolsen
-street: Rhoder Straße
+street: "Rhoder Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

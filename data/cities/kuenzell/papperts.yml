@@ -5,7 +5,7 @@ latitude: 50.5392202
 longitude: 9.7132017
 postcode: 36093
 city: Künzell
-street: Eisenacher Straße
+street: "Eisenacher Straße"
 housenumber: 1
 phone: "+49 661 38192"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

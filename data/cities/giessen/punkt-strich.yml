@@ -5,7 +5,7 @@ latitude: 50.587055500000005
 longitude: 8.6750518
 postcode: 35390
 city: Gießen
-street: Kirchenplatz
+street: "Kirchenplatz"
 housenumber: 4
 phone: "+49 641 38719"
 opening_hours: "Mo-Fr 9:30-18:30; Sa 9:30-16:00"

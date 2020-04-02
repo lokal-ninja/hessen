@@ -5,7 +5,7 @@ latitude: 49.976021700000004
 longitude: 8.568472400000001
 postcode: 64546
 city: Mörfelden-Walldorf
-street: Langener Straße
+street: "Langener Straße"
 housenumber: 8
 phone: "+49 6105 26399"
 opening_hours: "Mo-Fr 9:00-18:00;Sa 9:00-12:30"

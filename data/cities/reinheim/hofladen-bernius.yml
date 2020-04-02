@@ -5,7 +5,7 @@ latitude: 49.824674
 longitude: 8.8309899
 postcode: 64354
 city: Reinheim
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 11
 phone: "+49 6162 3301"
 opening_hours: ""

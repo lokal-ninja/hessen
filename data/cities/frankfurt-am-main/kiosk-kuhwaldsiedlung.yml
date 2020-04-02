@@ -5,7 +5,7 @@ latitude: 50.113229000000004
 longitude: 8.630536600000001
 postcode: 60486
 city: Frankfurt am Main
-street: Funckstraße
+street: "Funckstraße"
 housenumber: 54
 phone: "+49-69-41071165"
 opening_hours: "Mo-Tu,Th-Su 08:00-22:00; We 08:00-20:00"

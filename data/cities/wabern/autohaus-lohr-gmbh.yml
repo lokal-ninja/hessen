@@ -5,7 +5,7 @@ latitude: 51.0699972
 longitude: 9.3935935
 postcode: 34590
 city: Wabern
-street: Melsunger Straße
+street: "Melsunger Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:00"

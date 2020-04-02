@@ -5,7 +5,7 @@ latitude: 51.275124000000005
 longitude: 9.4392692
 postcode: 34132
 city: Kassel
-street: Mattenbergstraße
+street: "Mattenbergstraße"
 housenumber: 62
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

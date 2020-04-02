@@ -5,7 +5,7 @@ latitude: 50.0881301
 longitude: 8.5747715
 postcode: 60529
 city: Frankfurt am Main
-street: Nürburgstraße
+street: "Nürburgstraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

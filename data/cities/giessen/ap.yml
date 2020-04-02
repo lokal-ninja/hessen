@@ -5,7 +5,7 @@ latitude: 50.5915316
 longitude: 8.676195100000001
 postcode: 35390
 city: Gießen
-street: Steinstraße
+street: "Steinstraße"
 housenumber: 68
 phone: ""
 opening_hours: ""

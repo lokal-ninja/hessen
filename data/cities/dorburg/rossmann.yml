@@ -5,7 +5,7 @@ latitude: 50.5118449
 longitude: 8.0321706
 postcode: 65599
 city: Dorburg
-street: Langendernbacher Straße
+street: "Langendernbacher Straße"
 housenumber: 47b
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

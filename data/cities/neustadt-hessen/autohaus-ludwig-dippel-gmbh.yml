@@ -5,7 +5,7 @@ latitude: 50.851119000000004
 longitude: 9.1056986
 postcode: 35279
 city: Neustadt (Hessen)
-street: Marburger Straße
+street: "Marburger Straße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 50.1100355
 longitude: 8.675364700000001
 postcode: 60311
 city: Frankfurt am Main
-street: Friedensstraße
+street: "Friedensstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Th 11:00-19:00, Fr 10:00-19:00, Sa 11:00-16:00"

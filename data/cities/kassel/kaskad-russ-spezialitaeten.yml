@@ -5,7 +5,7 @@ latitude: 51.29058190000001
 longitude: 9.5193179
 postcode: 34123
 city: Kassel
-street: Görlitzer Straße
+street: "Görlitzer Straße"
 housenumber: 39a
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

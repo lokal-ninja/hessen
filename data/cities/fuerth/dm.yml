@@ -5,7 +5,7 @@ latitude: 49.656315400000004
 longitude: 8.7861927
 postcode: 64658
 city: Fürth
-street: Erbacher Straße
+street: "Erbacher Straße"
 housenumber: 64
 phone: ""
 opening_hours: ""

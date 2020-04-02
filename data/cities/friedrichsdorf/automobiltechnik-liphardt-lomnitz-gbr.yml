@@ -5,7 +5,7 @@ latitude: 50.2744512
 longitude: 8.6545605
 postcode: 61381
 city: Friedrichsdorf
-street: Wagnerstraße
+street: "Wagnerstraße"
 housenumber: 8-12
 phone: "+49 6175 796076"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.657658700000006
 longitude: 8.4170964
 postcode: 68623
 city: Lampertheim
-street: Friedensstraße
+street: "Friedensstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

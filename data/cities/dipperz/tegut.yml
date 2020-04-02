@@ -5,7 +5,7 @@ latitude: 50.539804800000006
 longitude: 9.787987300000001
 postcode: 36160
 city: Dipperz
-street: Gewerbepark
+street: "Gewerbepark"
 housenumber: 5
 phone: "+49 6657 6087195"
 opening_hours: "Mo-Sa 07:00-21:00"

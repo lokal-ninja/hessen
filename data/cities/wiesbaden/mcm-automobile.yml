@@ -5,7 +5,7 @@ latitude: 50.058988500000005
 longitude: 8.3323622
 postcode: 65205
 city: Wiesbaden
-street: Daimlerring
+street: "Daimlerring"
 housenumber: 9
 phone: ""
 opening_hours: ""

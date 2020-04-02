@@ -5,7 +5,7 @@ latitude: 50.0315183
 longitude: 9.025255300000001
 postcode: 63533
 city: Mainhausen
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 25
 phone: ""
 opening_hours: "We,Th 08:00-12:00; Fr 08:00-18:00; Sa 06:30-13:00"

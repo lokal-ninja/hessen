@@ -5,7 +5,7 @@ latitude: 51.3663663
 longitude: 9.3931476
 postcode: 34292
 city: Ahnatal
-street: Steinweg
+street: "Steinweg"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Fr 10:00-13:00, 15:00-18:00; Sa 10:00-13:00; Su,PH off"

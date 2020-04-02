@@ -5,7 +5,7 @@ latitude: 51.2515963
 longitude: 9.4799351
 postcode: 34277
 city: Fuldabrück
-street: Parkstraße
+street: "Parkstraße"
 housenumber: 5
 phone: "+49 561 46111"
 opening_hours: ""

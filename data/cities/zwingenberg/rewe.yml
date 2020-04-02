@@ -5,7 +5,7 @@ latitude: 49.717001800000006
 longitude: 8.6128306
 postcode: 64673
 city: Zwingenberg
-street: Heidelberger Straße
+street: "Heidelberger Straße"
 housenumber: 41
 phone: "+49 6251 7058908"
 opening_hours: "Mo-Sa 07:00-22:00; Su off; Ph off"

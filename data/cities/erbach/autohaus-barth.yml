@@ -5,7 +5,7 @@ latitude: 49.665618200000004
 longitude: 9.006500500000001
 postcode: 64711
 city: Erbach
-street: Stockheimer Ring
+street: "Stockheimer Ring"
 housenumber: 25
 phone: "+49 6061 960100"
 opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00"

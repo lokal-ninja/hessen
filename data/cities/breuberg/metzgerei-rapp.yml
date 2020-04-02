@@ -5,7 +5,7 @@ latitude: 49.818534500000005
 longitude: 9.017755300000001
 postcode: 64747
 city: Breuberg
-street: Höchster Straße
+street: "Höchster Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

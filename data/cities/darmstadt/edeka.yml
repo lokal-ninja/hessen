@@ -5,7 +5,7 @@ latitude: 49.806255500000006
 longitude: 8.642878900000001
 postcode: 64297
 city: Darmstadt
-street: In der Kirchtanne
+street: "In der Kirchtanne"
 housenumber: 27
 phone: "+49 6151 54857"
 opening_hours: "Mo-Sa 08:00-20:00"

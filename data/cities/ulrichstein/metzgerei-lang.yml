@@ -5,7 +5,7 @@ latitude: 50.5751769
 longitude: 9.193686600000001
 postcode: 35327
 city: Ulrichstein
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

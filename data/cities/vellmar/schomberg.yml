@@ -5,7 +5,7 @@ latitude: 51.3552626
 longitude: 9.478589600000001
 postcode: 34246
 city: Vellmar
-street: Obervellmarsche Straße
+street: "Obervellmarsche Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 07:30-13:00,15:00-18:00; We,Sa 07:30-13:00"

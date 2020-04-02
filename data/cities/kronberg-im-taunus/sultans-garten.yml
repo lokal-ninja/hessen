@@ -5,7 +5,7 @@ latitude: 50.1801788
 longitude: 8.510651600000001
 postcode: 61476
 city: Kronberg im Taunus
-street: Hainstraße
+street: "Hainstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

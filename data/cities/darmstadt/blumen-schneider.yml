@@ -5,7 +5,7 @@ latitude: 49.805797500000004
 longitude: 8.6398571
 postcode: 64297
 city: Darmstadt
-street: Eschelkopfweg
+street: "Eschelkopfweg"
 housenumber: 10
 phone: ""
 opening_hours: ""

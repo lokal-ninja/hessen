@@ -5,7 +5,7 @@ latitude: 50.5905981
 longitude: 8.9593836
 postcode: 35305
 city: Grünberg
-street: Rabegasse
+street: "Rabegasse"
 housenumber: 15
 phone: "+49 6401 8951"
 opening_hours: "Mo-Fr 09:30-13:00,14:00-18:00; Sa 09:30-13:00"

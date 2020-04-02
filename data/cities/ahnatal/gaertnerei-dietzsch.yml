@@ -5,7 +5,7 @@ latitude: 51.36793410000001
 longitude: 9.3913203
 postcode: 34292
 city: Ahnatal
-street: Oberstraße
+street: "Oberstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo,Tu,Th,Fr 08:00-13:00,15:00-18:00; We,Sa 08:00-13:00; PH Su off"

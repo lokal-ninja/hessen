@@ -5,7 +5,7 @@ latitude: 50.9081545
 longitude: 9.1996038
 postcode: 34613
 city: Schwalmstadt
-street: Marienburger Straße
+street: "Marienburger Straße"
 housenumber: 30
 phone: ""
 opening_hours: ""

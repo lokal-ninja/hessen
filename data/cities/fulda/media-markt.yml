@@ -5,7 +5,7 @@ latitude: 50.5491709
 longitude: 9.688530400000001
 postcode: 36037
 city: Fulda
-street: Petersberger Straße
+street: "Petersberger Straße"
 housenumber: 36
 phone: ""
 opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00"

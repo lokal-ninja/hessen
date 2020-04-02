@@ -5,7 +5,7 @@ latitude: 49.860023700000006
 longitude: 8.653500000000001
 postcode: 64285
 city: Darmstadt
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 1-5
 phone: ""
 opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 09:00-16:00"

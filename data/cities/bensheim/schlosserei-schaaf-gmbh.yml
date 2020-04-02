@@ -5,7 +5,7 @@ latitude: 49.684691400000006
 longitude: 8.5984978
 postcode: 64625
 city: Bensheim
-street: Weidenring
+street: "Weidenring"
 housenumber: 14
 phone: "+49 6251 2047"
 opening_hours: ""

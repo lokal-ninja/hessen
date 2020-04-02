@@ -5,7 +5,7 @@ latitude: 49.661536600000005
 longitude: 8.5615915
 postcode: 64653
 city: Lorsch
-street: Ludwig-Erhard-Straße
+street: "Ludwig-Erhard-Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

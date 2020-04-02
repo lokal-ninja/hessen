@@ -5,7 +5,7 @@ latitude: 50.318576400000005
 longitude: 8.7526405
 postcode: 61169
 city: Friedberg (Hessen)
-street: Emil-Frey-Straße
+street: "Emil-Frey-Straße"
 housenumber: 6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.533307400000005
 longitude: 8.584819900000001
 postcode: 
 city: Viernheim
-street: Heidelberger Straße
+street: "Heidelberger Straße"
 housenumber: 29
 phone: "+49 6204 9292234"
 opening_hours: "Mo-Fr 10:00-19:00;Sa 10:00-18:00"

@@ -5,7 +5,7 @@ latitude: 49.8313167
 longitude: 8.837283300000001
 postcode: 64354
 city: Reinheim
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 11
 phone: "+49 6162 93330"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"

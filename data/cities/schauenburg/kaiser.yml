@@ -5,7 +5,7 @@ latitude: 51.280987100000004
 longitude: 9.3102529
 postcode: 34270
 city: Schauenburg
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

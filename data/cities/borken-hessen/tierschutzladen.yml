@@ -5,7 +5,7 @@ latitude: 51.048343900000006
 longitude: 9.2810491
 postcode: 34582
 city: Borken (Hessen)
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

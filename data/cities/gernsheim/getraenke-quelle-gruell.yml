@@ -5,7 +5,7 @@ latitude: 49.753198700000006
 longitude: 8.4912959
 postcode: 64579
 city: Gernsheim
-street: Bensheimer Straße
+street: "Bensheimer Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

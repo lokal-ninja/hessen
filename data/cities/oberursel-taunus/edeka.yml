@@ -5,7 +5,7 @@ latitude: 50.214999600000006
 longitude: 8.5534116
 postcode: 61440
 city: Oberursel (Taunus)
-street: Camp-King-Allee
+street: "Camp-King-Allee"
 housenumber: 2
 phone: ""
 opening_hours: ""

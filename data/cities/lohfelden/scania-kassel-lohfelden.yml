@@ -5,7 +5,7 @@ latitude: 51.269775700000004
 longitude: 9.526053800000001
 postcode: 34253
 city: Lohfelden
-street: Alexander-von-Humboldt-Straße
+street: "Alexander-von-Humboldt-Straße"
 housenumber: 3
 phone: "+49 561 81024290"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-12:30"

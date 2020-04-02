@@ -5,7 +5,7 @@ latitude: 50.047341900000006
 longitude: 8.7115793
 postcode: 63263
 city: Neu-Isenburg
-street: Martin-Behaim-Straße
+street: "Martin-Behaim-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

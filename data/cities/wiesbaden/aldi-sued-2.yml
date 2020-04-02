@@ -5,7 +5,7 @@ latitude: 50.083372700000005
 longitude: 8.2387329
 postcode: 65183
 city: Wiesbaden
-street: Schützenhofstraße
+street: "Schützenhofstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

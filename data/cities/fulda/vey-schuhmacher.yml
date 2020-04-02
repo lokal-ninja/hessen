@@ -5,7 +5,7 @@ latitude: 50.5481792
 longitude: 9.6800919
 postcode: 36043
 city: Fulda
-street: Florengasse
+street: "Florengasse"
 housenumber: 57
 phone: ""
 opening_hours: ""

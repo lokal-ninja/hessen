@@ -5,7 +5,7 @@ latitude: 51.2846562
 longitude: 9.288030000000001
 postcode: 34270
 city: Schauenburg
-street: Höhweg
+street: "Höhweg"
 housenumber: 2
 phone: "+49 5601 2836"
 opening_hours: "Mo,Th,Fr 09:00-13:00,15:00-18:00, Tu 09:00-13:00, We 15:00-18:00, Sa 07:30-13:00"

@@ -5,7 +5,7 @@ latitude: 50.116579400000006
 longitude: 8.8544886
 postcode: 63165
 city: Mühlheim am Main
-street: Lämmerspieler Weg
+street: "Lämmerspieler Weg"
 housenumber: 35
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.619924000000005
 longitude: 8.6649434
 postcode: 35435
 city: Launsbach
-street: Herrngarten
+street: "Herrngarten"
 housenumber: 12
 phone: "+49 641 980343"
 opening_hours: "Mo off; Di-Fr 10:00-12:00, 13:00-18:00; Sa 10:00-13:00; Su off; PH off; Nov-Feb: Di-Fr 10:00-12:00, 14:00-18:00; Sa 10:00-13:00; Su off; PH off"

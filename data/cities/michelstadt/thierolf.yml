@@ -5,7 +5,7 @@ latitude: 49.6783979
 longitude: 9.0005507
 postcode: 64720
 city: Michelstadt
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

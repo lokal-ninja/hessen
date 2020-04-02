@@ -5,7 +5,7 @@ latitude: 49.9901562
 longitude: 8.669320800000001
 postcode: 63225
 city: Langen (Hessen)
-street: Bahnstraße
+street: "Bahnstraße"
 housenumber: 47
 phone: "+49/6103/28443"
 opening_hours: ""

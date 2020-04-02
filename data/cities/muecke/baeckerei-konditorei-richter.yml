@@ -5,7 +5,7 @@ latitude: 50.6163406
 longitude: 9.1137321
 postcode: 35325
 city: Mücke
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.037102600000004
 longitude: 8.8773865
 postcode: 63110
 city: Rodgau
-street: Rochusstraße
+street: "Rochusstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00 - 22:00"

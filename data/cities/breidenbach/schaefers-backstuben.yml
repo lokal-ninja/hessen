@@ -5,7 +5,7 @@ latitude: 50.8868116
 longitude: 8.4543142
 postcode: 35236
 city: Breidenbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 40
 phone: "+49 64 65 91 27 67 8"
 opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-18:00; Su 07:00-18:00"

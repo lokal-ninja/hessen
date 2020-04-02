@@ -5,7 +5,7 @@ latitude: 51.390820000000005
 longitude: 9.4662319
 postcode: 34314
 city: Espenau
-street: Goethestraße
+street: "Goethestraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

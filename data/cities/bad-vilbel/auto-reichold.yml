@@ -5,7 +5,7 @@ latitude: 50.1871413
 longitude: 8.7328995
 postcode: 61118
 city: Bad Vilbel
-street: Homburger Straße
+street: "Homburger Straße"
 housenumber: 65
 phone: ""
 opening_hours: ""

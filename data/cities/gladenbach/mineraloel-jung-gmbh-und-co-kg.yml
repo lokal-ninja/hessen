@@ -5,7 +5,7 @@ latitude: 50.751044500000006
 longitude: 8.5528444
 postcode: 35075
 city: Gladenbach
-street: Herborner Straße
+street: "Herborner Straße"
 housenumber: 27
 phone: "+49 6462 926417"
 opening_hours: "Mo-Sa 07:00-22:00"

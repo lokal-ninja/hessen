@@ -5,7 +5,7 @@ latitude: 49.64628200000001
 longitude: 8.6296663
 postcode: 
 city: Heppenheim
-street: Weiherhausstraße
+street: "Weiherhausstraße"
 housenumber: 17a
 phone: ""
 opening_hours: ""

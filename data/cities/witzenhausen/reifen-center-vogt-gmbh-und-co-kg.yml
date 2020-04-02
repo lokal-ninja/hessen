@@ -5,7 +5,7 @@ latitude: 51.327629200000004
 longitude: 9.849883700000001
 postcode: 37213
 city: Witzenhausen
-street: Kasseler Landstraße
+street: "Kasseler Landstraße"
 housenumber: 16
 phone: "+4905542911525"
 opening_hours: ""

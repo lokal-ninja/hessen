@@ -5,7 +5,7 @@ latitude: 50.179592400000004
 longitude: 8.9087666
 postcode: 63486
 city: Bruchköbel
-street: Chattenstraße
+street: "Chattenstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-15:00"

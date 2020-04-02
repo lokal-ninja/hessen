@@ -5,7 +5,7 @@ latitude: 50.1122274
 longitude: 8.6834716
 postcode: 60311
 city: Frankfurt am Main
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 22
 phone: "+49 69 17427145"
 opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"

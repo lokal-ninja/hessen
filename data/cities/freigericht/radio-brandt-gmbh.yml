@@ -5,7 +5,7 @@ latitude: 50.144280800000004
 longitude: 9.1135269
 postcode: 63579
 city: Freigericht
-street: Hanauer Straße
+street: "Hanauer Straße"
 housenumber: 24
 phone: "+4960552367"
 opening_hours: ""

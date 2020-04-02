@@ -5,7 +5,7 @@ latitude: 50.7574276
 longitude: 8.4775217
 postcode: 35080
 city: Bad Endbach
-street: Am Bewegungsbad
+street: "Am Bewegungsbad"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

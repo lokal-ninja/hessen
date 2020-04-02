@@ -5,7 +5,7 @@ latitude: 49.9903829
 longitude: 8.4439317
 postcode: 65428
 city: Rüsselsheim am Main
-street: Feuerbachstraße
+street: "Feuerbachstraße"
 housenumber: 8
 phone: "+49 6142 958618"
 opening_hours: "Tu, We, Fr 08:30-18:00; Th 09:30-19:00; Sa 08:30-13:30"

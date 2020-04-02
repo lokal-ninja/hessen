@@ -5,7 +5,7 @@ latitude: 49.7973222
 longitude: 8.993449700000001
 postcode: 64739
 city: Höchst im Odenwald
-street: Bismarckstraße
+street: "Bismarckstraße"
 housenumber: 3
 phone: "+49 6163 82575"
 opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,14:00-18:30; We 08:30-12:30; Sa 09:00-12:30"

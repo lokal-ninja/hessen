@@ -5,7 +5,7 @@ latitude: 50.0068233
 longitude: 8.0281763
 postcode: 65375
 city: Oestrich-Winkel
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

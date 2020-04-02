@@ -5,7 +5,7 @@ latitude: 50.050486400000004
 longitude: 8.700510000000001
 postcode: 63263
 city: Neu-Isenburg
-street: Herzogstraße
+street: "Herzogstraße"
 housenumber: 59
 phone: "+49 6102 770893"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:00"

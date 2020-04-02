@@ -5,7 +5,7 @@ latitude: 50.318870700000005
 longitude: 9.4718744
 postcode: 36396
 city: Steinau an der Straße
-street: Leipziger Straße
+street: "Leipziger Straße"
 housenumber: 85
 phone: ""
 opening_hours: ""

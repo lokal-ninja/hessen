@@ -5,7 +5,7 @@ latitude: 49.870277900000005
 longitude: 8.662073300000001
 postcode: 64287
 city: Darmstadt
-street: Teichhausstraße
+street: "Teichhausstraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

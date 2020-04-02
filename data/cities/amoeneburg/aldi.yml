@@ -5,7 +5,7 @@ latitude: 50.76307550000001
 longitude: 8.9220997
 postcode: 35287
 city: Amöneburg
-street: Homberger Straße
+street: "Homberger Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

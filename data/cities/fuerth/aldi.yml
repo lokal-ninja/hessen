@@ -5,7 +5,7 @@ latitude: 49.659114200000005
 longitude: 8.787925000000001
 postcode: 64658
 city: Fürth
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

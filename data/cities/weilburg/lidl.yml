@@ -5,7 +5,7 @@ latitude: 50.4784633
 longitude: 8.287976200000001
 postcode: 35781
 city: Weilburg
-street: Kubacher Weg
+street: "Kubacher Weg"
 housenumber: 6
 phone: ""
 opening_hours: ""

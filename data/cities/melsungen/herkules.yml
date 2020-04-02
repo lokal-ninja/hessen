@@ -5,7 +5,7 @@ latitude: 51.1321177
 longitude: 9.521256900000001
 postcode: 34212
 city: Melsungen
-street: Bürstoß
+street: "Bürstoß"
 housenumber: 2
 phone: "+49 5661 92970"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

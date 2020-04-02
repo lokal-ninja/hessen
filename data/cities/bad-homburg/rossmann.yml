@@ -5,7 +5,7 @@ latitude: 50.2259237
 longitude: 8.618856300000001
 postcode: 61348
 city: Bad Homburg
-street: Louisenstraße
+street: "Louisenstraße"
 housenumber: 70
 phone: ""
 opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-20:00; PH off"

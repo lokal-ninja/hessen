@@ -5,7 +5,7 @@ latitude: 50.0295993
 longitude: 8.7003991
 postcode: 63303
 city: Dreieich
-street: Voltastraße
+street: "Voltastraße"
 housenumber: 16
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

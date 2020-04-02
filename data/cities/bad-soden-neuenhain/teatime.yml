@@ -5,7 +5,7 @@ latitude: 50.156363600000006
 longitude: 8.4928012
 postcode: 65812
 city: Bad Soden-Neuenhain
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 31
 phone: "+49 6196 5232618"
 opening_hours: "Mo-Fr 09:30-13:00, 15:00-18:30; We, Sa 09:30-13:00"

@@ -5,7 +5,7 @@ latitude: 50.3996645
 longitude: 8.8169049
 postcode: 61200
 city: Wölfersheim
-street: Seestraße
+street: "Seestraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

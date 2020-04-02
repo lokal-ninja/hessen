@@ -5,7 +5,7 @@ latitude: 50.092862600000004
 longitude: 8.6693548
 postcode: 60596
 city: Frankfurt am Main
-street: Heimatring
+street: "Heimatring"
 housenumber: 27
 phone: "+49 69 635 635"
 opening_hours: "Mo-Fr 09:00-18:00"

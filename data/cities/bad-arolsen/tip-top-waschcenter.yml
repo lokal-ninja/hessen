@@ -5,7 +5,7 @@ latitude: 51.3804042
 longitude: 9.0091365
 postcode: 34454
 city: Bad Arolsen
-street: Helenenstraße
+street: "Helenenstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo 09:00-12:30,15:00-18:00; Tu-Th 08:30-12:30,15:00-18:00; Fr 08:00-13:00"

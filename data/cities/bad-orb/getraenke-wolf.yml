@@ -5,7 +5,7 @@ latitude: 50.2313683
 longitude: 9.3449086
 postcode: 63619
 city: Bad Orb
-street: Austraße
+street: "Austraße"
 housenumber: 41
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.077712500000004
 longitude: 8.2343135
 postcode: 65185
 city: Wiesbaden
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 83
 phone: "+49 611 372386"
 opening_hours: ""

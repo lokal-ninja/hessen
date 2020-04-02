@@ -5,7 +5,7 @@ latitude: 51.0127821
 longitude: 9.9332733
 postcode: 36214
 city: Nentershausen
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"

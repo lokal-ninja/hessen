@@ -5,7 +5,7 @@ latitude: 50.0287166
 longitude: 8.2757831
 postcode: 55252
 city: Wiesbaden
-street: Fritz-Ullmann-Straße
+street: "Fritz-Ullmann-Straße"
 housenumber: 7
 phone: "+49 6134 189 0"
 opening_hours: ""

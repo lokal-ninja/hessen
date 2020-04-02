@@ -5,7 +5,7 @@ latitude: 50.579026400000004
 longitude: 8.493193400000001
 postcode: 35586
 city: Wetzlar
-street: Burgstraße
+street: "Burgstraße"
 housenumber: 6B
 phone: ""
 opening_hours: ""

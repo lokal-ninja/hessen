@@ -5,7 +5,7 @@ latitude: 50.054936600000005
 longitude: 8.498508900000001
 postcode: 65795
 city: Hattersheim am Main
-street: Mainstraße
+street: "Mainstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

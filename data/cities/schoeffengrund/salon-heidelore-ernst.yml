@@ -5,7 +5,7 @@ latitude: 50.497991600000006
 longitude: 8.4691582
 postcode: 35641
 city: Schöffengrund
-street: Schulstraße
+street: "Schulstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

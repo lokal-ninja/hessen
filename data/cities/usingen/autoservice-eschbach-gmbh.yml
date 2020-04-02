@@ -5,7 +5,7 @@ latitude: 50.357130000000005
 longitude: 8.538045200000001
 postcode: 61250
 city: Usingen
-street: Wernborner Straße
+street: "Wernborner Straße"
 housenumber: 9
 phone: "+49 6081 14498"
 opening_hours: "Mo-Fr 08:00-17:00"

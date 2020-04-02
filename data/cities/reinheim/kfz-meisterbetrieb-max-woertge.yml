@@ -5,7 +5,7 @@ latitude: 49.836952800000006
 longitude: 8.831284700000001
 postcode: 64354
 city: Reinheim
-street: Engelbert-Wörz-Straße
+street: "Engelbert-Wörz-Straße"
 housenumber: 5
 phone: "+49 6162 9190890"
 opening_hours: ""

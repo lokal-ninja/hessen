@@ -5,7 +5,7 @@ latitude: 50.116064
 longitude: 8.7102962
 postcode: 60385
 city: Frankfurt am Main
-street: Röderbergweg
+street: "Röderbergweg"
 housenumber: 121
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa,Su 09:00-20:00"

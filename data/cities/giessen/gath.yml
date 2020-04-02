@@ -5,7 +5,7 @@ latitude: 50.5823468
 longitude: 8.666725900000001
 postcode: 
 city: Gießen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 70
 phone: "+49 641 74459"
 opening_hours: "Tu-We 09:00-18:30; Th 10:00-19:00; Fr 09:00-19:00; Sa 09:00-15:00"

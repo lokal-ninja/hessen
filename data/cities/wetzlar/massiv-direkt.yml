@@ -5,7 +5,7 @@ latitude: 50.562003000000004
 longitude: 8.6077633
 postcode: 35582
 city: Wetzlar
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

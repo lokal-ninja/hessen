@@ -5,7 +5,7 @@ latitude: 50.035469000000006
 longitude: 8.259871500000001
 postcode: 65203
 city: Wiesbaden
-street: Wiesbadener Landstraße
+street: "Wiesbadener Landstraße"
 housenumber: 104
 phone: ""
 opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-15:00"

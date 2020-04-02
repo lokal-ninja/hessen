@@ -5,7 +5,7 @@ latitude: 50.142601500000005
 longitude: 8.5793835
 postcode: 65760
 city: Eschborn
-street: Ginnheimer Straße
+street: "Ginnheimer Straße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"

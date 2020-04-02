@@ -5,7 +5,7 @@ latitude: 49.987935
 longitude: 8.4412274
 postcode: 65428
 city: Rüsselsheim am Main
-street: Lucas-Cranach-Straße
+street: "Lucas-Cranach-Straße"
 housenumber: 4
 phone: "+496142564635"
 opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-18:00"

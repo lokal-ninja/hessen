@@ -5,7 +5,7 @@ latitude: 49.930775700000005
 longitude: 8.5988494
 postcode: 64331
 city: Weiterstadt
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 5
 phone: ""
 opening_hours: ""

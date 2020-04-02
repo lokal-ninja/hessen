@@ -5,7 +5,7 @@ latitude: 51.2775893
 longitude: 8.8655452
 postcode: 34497
 city: Korbach
-street: Briloner Landstraße
+street: "Briloner Landstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

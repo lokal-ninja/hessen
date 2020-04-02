@@ -5,7 +5,7 @@ latitude: 49.870183000000004
 longitude: 8.6514051
 postcode: 64283
 city: Darmstadt
-street: Wilhelminenstraße
+street: "Wilhelminenstraße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

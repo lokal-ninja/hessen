@@ -5,7 +5,7 @@ latitude: 50.1115313
 longitude: 8.6794513
 postcode: 60311
 city: Frankfurt am Main
-street: Kornmarkt
+street: "Kornmarkt"
 housenumber: 6
 phone: "+49 69 287773"
 opening_hours: ""

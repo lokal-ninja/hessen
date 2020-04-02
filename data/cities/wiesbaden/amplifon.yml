@@ -5,7 +5,7 @@ latitude: 50.0572895
 longitude: 8.3400736
 postcode: 65205
 city: Wiesbaden
-street: Borsigstraße
+street: "Borsigstraße"
 housenumber: 2
 phone: "+49 6122 5331833"
 opening_hours: ""

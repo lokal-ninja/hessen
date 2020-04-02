@@ -5,7 +5,7 @@ latitude: 50.066782800000006
 longitude: 8.489676300000001
 postcode: 65795
 city: Hattersheim
-street: An der Taunuseisenbahn
+street: "An der Taunuseisenbahn"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.1824546
 longitude: 9.031899300000001
 postcode: 63505
 city: Langenselbold
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 43A
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 10:00-13:00"

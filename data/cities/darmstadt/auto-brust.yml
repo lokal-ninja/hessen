@@ -5,7 +5,7 @@ latitude: 49.9164426
 longitude: 8.6409961
 postcode: 64291
 city: Darmstadt
-street: Guerickeweg
+street: "Guerickeweg"
 housenumber: 6
 phone: "+49 (0)6151-374078"
 opening_hours: ""

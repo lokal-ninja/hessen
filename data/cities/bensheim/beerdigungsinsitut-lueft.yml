@@ -5,7 +5,7 @@ latitude: 49.702854800000004
 longitude: 8.624436900000001
 postcode: 64625
 city: Bensheim
-street: Bachgasse
+street: "Bachgasse"
 housenumber: 47
 phone: ""
 opening_hours: ""

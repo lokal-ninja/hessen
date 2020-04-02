@@ -5,7 +5,7 @@ latitude: 49.872216200000004
 longitude: 8.651593
 postcode: 64283
 city: Darmstadt
-street: Luisenplatz
+street: "Luisenplatz"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"

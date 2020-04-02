@@ -5,7 +5,7 @@ latitude: 50.8488528
 longitude: 8.7835132
 postcode: 35091
 city: Cölbe
-street: Alte Dorfstraße
+street: "Alte Dorfstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

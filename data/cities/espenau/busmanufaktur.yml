@@ -5,7 +5,7 @@ latitude: 51.401960800000005
 longitude: 9.4708626
 postcode: 34314
 city: Espenau
-street: Teichstraße
+street: "Teichstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

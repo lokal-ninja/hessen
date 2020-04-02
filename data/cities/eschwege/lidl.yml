@@ -5,7 +5,7 @@ latitude: 51.1912212
 longitude: 10.048520100000001
 postcode: 37269
 city: Eschwege
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

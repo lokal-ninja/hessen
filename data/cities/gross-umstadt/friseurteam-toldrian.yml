@@ -5,7 +5,7 @@ latitude: 49.861173900000004
 longitude: 8.919760100000001
 postcode: 64823
 city: Groß-Umstadt
-street: Warthweg
+street: "Warthweg"
 housenumber: 13
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.240889
 longitude: 9.0104238
 postcode: 34513
 city: Waldeck
-street: Nieder-Werber-Straße
+street: "Nieder-Werber-Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

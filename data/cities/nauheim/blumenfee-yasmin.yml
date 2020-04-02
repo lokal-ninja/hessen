@@ -5,7 +5,7 @@ latitude: 49.9447696
 longitude: 8.452795100000001
 postcode: 64569
 city: Nauheim
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 10
 phone: ""
 opening_hours: "Tu,Th,Fr 09:00-12:30,14:30-18:00; We,Sa 09:00-12:30; Su 09:00-12:00"

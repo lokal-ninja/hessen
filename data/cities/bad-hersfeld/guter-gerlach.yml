@@ -5,7 +5,7 @@ latitude: 50.8636215
 longitude: 9.706773100000001
 postcode: 36251
 city: Bad Hersfeld
-street: Heinrich-von-Stephan-Straße
+street: "Heinrich-von-Stephan-Straße"
 housenumber: 4
 phone: "+49 6621 9659759"
 opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00"

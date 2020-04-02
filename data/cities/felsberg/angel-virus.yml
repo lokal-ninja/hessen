@@ -5,7 +5,7 @@ latitude: 51.130329100000004
 longitude: 9.4409209
 postcode: 34587
 city: Felsberg
-street: Parkstraße
+street: "Parkstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"

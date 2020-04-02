@@ -5,7 +5,7 @@ latitude: 50.1170625
 longitude: 8.840889500000001
 postcode: 63165
 city: Mühlheim am Main
-street: Ernst-Abbe-Straße
+street: "Ernst-Abbe-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

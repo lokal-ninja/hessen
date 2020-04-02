@@ -5,7 +5,7 @@ latitude: 50.1019206
 longitude: 8.629815500000001
 postcode: 60326
 city: Frankfurt am Main
-street: Sodener Straße
+street: "Sodener Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

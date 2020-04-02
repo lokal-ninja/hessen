@@ -5,7 +5,7 @@ latitude: 49.868765100000005
 longitude: 8.9181994
 postcode: 64823
 city: Groß-Umstadt
-street: Albert-Einstein-Straße
+street: "Albert-Einstein-Straße"
 housenumber: 13
 phone: ""
 opening_hours: ""

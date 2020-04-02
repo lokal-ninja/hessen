@@ -5,7 +5,7 @@ latitude: 51.2909292
 longitude: 9.470851300000001
 postcode: 34134
 city: Kassel
-street: Leuschnerstraße
+street: "Leuschnerstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo off; Tu-Fr 08:30-17:30; Sa 08:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.7473046
 longitude: 8.8764219
 postcode: 64395
 city: Brensbach
-street: Mannheimer Landstraße
+street: "Mannheimer Landstraße"
 housenumber: 49
 phone: ""
 opening_hours: ""

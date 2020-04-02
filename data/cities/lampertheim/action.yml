@@ -5,7 +5,7 @@ latitude: 49.597272000000004
 longitude: 8.485515000000001
 postcode: 68623
 city: Lampertheim
-street: Otto-Hahn-Straße
+street: "Otto-Hahn-Straße"
 housenumber: 16
 phone: ""
 opening_hours: "Monday 09:00-20:00; Tuesday 09:00-20:00; Wednesday 09:00-20:00; Thursday 09:00-20:00; Friday 09:00-20:00; Saturday 09:00-20:00; Sunday closed"

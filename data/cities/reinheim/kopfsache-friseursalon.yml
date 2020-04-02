@@ -5,7 +5,7 @@ latitude: 49.8422908
 longitude: 8.826841
 postcode: 64354
 city: Reinheim
-street: Erbacher Straße
+street: "Erbacher Straße"
 housenumber: 14
 phone: "+49 6162 801743"
 opening_hours: ""

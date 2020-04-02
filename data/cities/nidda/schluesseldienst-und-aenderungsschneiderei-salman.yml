@@ -5,7 +5,7 @@ latitude: 50.409649200000004
 longitude: 9.010596300000001
 postcode: 63667
 city: Nidda
-street: An der Heugasse
+street: "An der Heugasse"
 housenumber: 6
 phone: ""
 opening_hours: ""

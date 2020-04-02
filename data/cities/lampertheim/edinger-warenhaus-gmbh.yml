@@ -5,7 +5,7 @@ latitude: 49.6119324
 longitude: 8.447537500000001
 postcode: 68623
 city: Lampertheim
-street: Chemiestraße
+street: "Chemiestraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.640768300000005
 longitude: 8.4572652
 postcode: 68642
 city: Bürstadt
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 21
 phone: ""
 opening_hours: ""

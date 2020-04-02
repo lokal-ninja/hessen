@@ -5,7 +5,7 @@ latitude: 49.8270246
 longitude: 8.8391689
 postcode: 64354
 city: Reinheim
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 67
 phone: "+49 6162 82376"
 opening_hours: ""

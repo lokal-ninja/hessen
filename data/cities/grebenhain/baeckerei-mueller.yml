@@ -5,7 +5,7 @@ latitude: 50.485288100000005
 longitude: 9.348101900000001
 postcode: 36355
 city: Grebenhain
-street: An der Cent
+street: "An der Cent"
 housenumber: 2
 phone: ""
 opening_hours: ""

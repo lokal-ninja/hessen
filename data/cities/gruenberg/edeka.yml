@@ -5,7 +5,7 @@ latitude: 50.594708000000004
 longitude: 8.9486407
 postcode: 35305
 city: Grünberg
-street: Gießener Straße
+street: "Gießener Straße"
 housenumber: 52
 phone: "+49 6401 903370"
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 49.984633
 longitude: 7.966897800000001
 postcode: 65366
 city: Geisenheim
-street: Behlstraße
+street: "Behlstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

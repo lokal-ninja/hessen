@@ -5,7 +5,7 @@ latitude: 50.662592100000005
 longitude: 9.7543627
 postcode: 36088
 city: Hünfeld
-street: Fuldaer Straße
+street: "Fuldaer Straße"
 housenumber: 52
 phone: "+49 6652 917925"
 opening_hours: ""

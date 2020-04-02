@@ -5,7 +5,7 @@ latitude: 49.7001153
 longitude: 8.7928827
 postcode: 64678
 city: Lindenfels
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 36
 phone: ""
 opening_hours: ""

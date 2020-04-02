@@ -5,7 +5,7 @@ latitude: 49.860814100000006
 longitude: 8.5608737
 postcode: 64347
 city: Griesheim
-street: Hofmannstraße
+street: "Hofmannstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

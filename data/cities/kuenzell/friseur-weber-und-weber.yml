@@ -5,7 +5,7 @@ latitude: 50.544426400000006
 longitude: 9.720857200000001
 postcode: 36093
 city: Künzell
-street: Keuloser Straße
+street: "Keuloser Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

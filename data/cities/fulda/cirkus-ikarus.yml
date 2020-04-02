@@ -5,7 +5,7 @@ latitude: 50.5545959
 longitude: 9.67829
 postcode: 36037
 city: Fulda
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

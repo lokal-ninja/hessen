@@ -5,7 +5,7 @@ latitude: 50.058426000000004
 longitude: 8.7527681
 postcode: 63263
 city: Neu-Isenburg
-street: Am Forsthaus Gravenbruch
+street: "Am Forsthaus Gravenbruch"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Fr 10:00-13:00,14:30-19:00; Sa 10:00-14:00"

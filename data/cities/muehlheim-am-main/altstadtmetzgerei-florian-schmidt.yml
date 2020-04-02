@@ -5,7 +5,7 @@ latitude: 50.126393900000004
 longitude: 8.8285613
 postcode: 63165
 city: Mühlheim am Main
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 35-37
 phone: "+49 6108 74144"
 opening_hours: ""

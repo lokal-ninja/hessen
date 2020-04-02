@@ -5,7 +5,7 @@ latitude: 50.8494668
 longitude: 8.773377400000001
 postcode: 35091
 city: Cölbe
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

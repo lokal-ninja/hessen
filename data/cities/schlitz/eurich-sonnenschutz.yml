@@ -5,7 +5,7 @@ latitude: 50.656700900000004
 longitude: 9.593839200000001
 postcode: 36110
 city: Schlitz
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

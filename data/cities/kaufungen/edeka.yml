@@ -5,7 +5,7 @@ latitude: 51.2867795
 longitude: 9.6293629
 postcode: 34260
 city: Kaufungen
-street: Am Stechkopf
+street: "Am Stechkopf"
 housenumber: 5
 phone: "+49 5605 2686"
 opening_hours: "Mo-Sa 07:00-21:00"

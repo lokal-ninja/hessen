@@ -5,7 +5,7 @@ latitude: 50.5793121
 longitude: 8.6669944
 postcode: 35392
 city: Gießen
-street: Wilhelmstraße
+street: "Wilhelmstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Th 10:00-19:00, Fr 10:00-15:00"

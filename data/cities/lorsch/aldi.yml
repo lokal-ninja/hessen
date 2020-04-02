@@ -5,7 +5,7 @@ latitude: 49.653944300000006
 longitude: 8.554687000000001
 postcode: 64653
 city: Lorsch
-street: In der Dieterswiese
+street: "In der Dieterswiese"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

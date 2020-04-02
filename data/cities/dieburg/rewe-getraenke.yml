@@ -5,7 +5,7 @@ latitude: 49.906252
 longitude: 8.848171
 postcode: 64807
 city: Dieburg
-street: Lagerstraße
+street: "Lagerstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.5481035
 longitude: 9.5155189
 postcode: 36137
 city: Großenlüder
-street: Mühlenstraße
+street: "Mühlenstraße"
 housenumber: 1
 phone: "+49 6650 919635"
 opening_hours: ""

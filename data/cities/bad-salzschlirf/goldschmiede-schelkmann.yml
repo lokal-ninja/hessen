@@ -5,7 +5,7 @@ latitude: 50.625822400000004
 longitude: 9.5061547
 postcode: 36364
 city: Bad Salzschlirf
-street: Schmittstraße
+street: "Schmittstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

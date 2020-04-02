@@ -5,7 +5,7 @@ latitude: 50.078098700000005
 longitude: 8.9968546
 postcode: 63538
 city: Großkrotzenburg
-street: Ostendstraße
+street: "Ostendstraße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

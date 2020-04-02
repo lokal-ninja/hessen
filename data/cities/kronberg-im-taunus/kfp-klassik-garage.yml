@@ -5,7 +5,7 @@ latitude: 50.1757794
 longitude: 8.5230453
 postcode: 61476
 city: Kronberg im Taunus
-street: Westerbachstraße
+street: "Westerbachstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

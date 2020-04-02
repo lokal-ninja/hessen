@@ -5,7 +5,7 @@ latitude: 51.3819846
 longitude: 9.009371400000001
 postcode: 34454
 city: Bad Arolsen
-street: Watterweg
+street: "Watterweg"
 housenumber: 3
 phone: ""
 opening_hours: ""

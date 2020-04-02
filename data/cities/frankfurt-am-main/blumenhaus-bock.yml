@@ -5,7 +5,7 @@ latitude: 50.137643700000005
 longitude: 8.607784200000001
 postcode: 60488
 city: Frankfurt am Main
-street: Kollwitzstraße
+street: "Kollwitzstraße"
 housenumber: 25
 phone: "+49 69 7681666"
 opening_hours: ""

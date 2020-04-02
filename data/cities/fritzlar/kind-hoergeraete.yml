@@ -5,7 +5,7 @@ latitude: 51.1316532
 longitude: 9.2732537
 postcode: 34560
 city: Fritzlar
-street: Zwischen den Krämen
+street: "Zwischen den Krämen"
 housenumber: 2
 phone: "+49 5622 916630"
 opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 51.11731150000001
 longitude: 9.1472311
 postcode: 34537
 city: Bad Wildungen
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.997902
 longitude: 8.4292855
 postcode: 65428
 city: Rüsselsheim am Main
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 33
 phone: "+49 (0) 6142 46507"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-14:00; Mo,PH off"

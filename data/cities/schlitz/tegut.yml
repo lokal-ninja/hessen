@@ -5,7 +5,7 @@ latitude: 50.677627400000006
 longitude: 9.5640654
 postcode: 36110
 city: Schlitz
-street: Bruchwiesenweg
+street: "Bruchwiesenweg"
 housenumber: 2
 phone: "+49 6642 911330"
 opening_hours: ""

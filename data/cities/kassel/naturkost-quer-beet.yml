@@ -5,7 +5,7 @@ latitude: 51.2815692
 longitude: 9.4331748
 postcode: 34132
 city: Kassel
-street: Korbacher Straße
+street: "Korbacher Straße"
 housenumber: 211
 phone: "+49 561 404702"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-13:00"

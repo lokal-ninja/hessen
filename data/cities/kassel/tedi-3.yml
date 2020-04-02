@@ -5,7 +5,7 @@ latitude: 51.3309939
 longitude: 9.5024076
 postcode: 34127
 city: Kassel
-street: Fiedlerstraße
+street: "Fiedlerstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

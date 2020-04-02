@@ -5,7 +5,7 @@ latitude: 49.7981403
 longitude: 8.738655600000001
 postcode: 64372
 city: Ober-Ramstadt
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 52
 phone: ""
 opening_hours: ""

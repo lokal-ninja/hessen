@@ -5,7 +5,7 @@ latitude: 51.1262525
 longitude: 9.5461437
 postcode: 34212
 city: Melsungen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 1
 phone: "+49 5661 9286349"
 opening_hours: "Mo-Fr 05:45-18:00; Sa 08:00-12:00; Su off"

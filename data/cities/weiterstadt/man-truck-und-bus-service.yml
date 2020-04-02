@@ -5,7 +5,7 @@ latitude: 49.8990226
 longitude: 8.615562500000001
 postcode: 64331
 city: Weiterstadt
-street: Lagerstraße
+street: "Lagerstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.650256000000006
 longitude: 9.0046437
 postcode: 64711
 city: Erbach
-street: Erlenbacher Straße
+street: "Erlenbacher Straße"
 housenumber: 73
 phone: "+49 6062 91119"
 opening_hours: ""

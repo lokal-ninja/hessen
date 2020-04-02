@@ -5,7 +5,7 @@ latitude: 50.697196500000004
 longitude: 9.727015300000001
 postcode: 36151
 city: Burghaun
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 3
 phone: "+49 6652 919540"
 opening_hours: "Mo-Sa 08:00-20:00"

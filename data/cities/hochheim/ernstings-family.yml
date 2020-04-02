@@ -5,7 +5,7 @@ latitude: 50.011314000000006
 longitude: 8.3506543
 postcode: 65239
 city: Hochheim
-street: Mainzer Straße
+street: "Mainzer Straße"
 housenumber: 1
 phone: "+49-1805-833033"
 opening_hours: ""

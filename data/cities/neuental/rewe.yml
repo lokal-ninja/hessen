@@ -5,7 +5,7 @@ latitude: 51.0080345
 longitude: 9.199753900000001
 postcode: 34599
 city: Neuental
-street: Am Kronberg
+street: "Am Kronberg"
 housenumber: 1
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

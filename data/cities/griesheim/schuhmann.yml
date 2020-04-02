@@ -5,7 +5,7 @@ latitude: 49.8524058
 longitude: 8.5548888
 postcode: 64347
 city: Griesheim
-street: Oberndorfer Straße
+street: "Oberndorfer Straße"
 housenumber: 109
 phone: ""
 opening_hours: "Mo-Sa 09:00-19:00"

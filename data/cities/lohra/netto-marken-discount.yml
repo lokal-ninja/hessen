@@ -5,7 +5,7 @@ latitude: 50.7362259
 longitude: 8.627636
 postcode: 35102
 city: Lohra
-street: Gladenbacher Straße
+street: "Gladenbacher Straße"
 housenumber: 15a
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; PH off"

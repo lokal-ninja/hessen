@@ -5,7 +5,7 @@ latitude: 49.763856000000004
 longitude: 9.074964900000001
 postcode: 64750
 city: Lützelbach
-street: Hengmantelstraße
+street: "Hengmantelstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

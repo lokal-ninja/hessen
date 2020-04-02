@@ -5,7 +5,7 @@ latitude: 49.5300555
 longitude: 8.5719361
 postcode: 68519
 city: Viernheim
-street: Mannheimer Straße
+street: "Mannheimer Straße"
 housenumber: 81
 phone: ""
 opening_hours: ""

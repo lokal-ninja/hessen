@@ -5,7 +5,7 @@ latitude: 50.5415271
 longitude: 9.678859300000001
 postcode: 36043
 city: Fulda
-street: Rangstraße
+street: "Rangstraße"
 housenumber: 41
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

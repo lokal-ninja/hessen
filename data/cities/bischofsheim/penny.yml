@@ -5,7 +5,7 @@ latitude: 49.99219050000001
 longitude: 8.348220000000001
 postcode: 65474
 city: Bischofsheim
-street: Mainzer Straße
+street: "Mainzer Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

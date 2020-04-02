@@ -5,7 +5,7 @@ latitude: 49.8191592
 longitude: 9.017733900000001
 postcode: 64747
 city: Breuberg
-street: Ernst-Ludwig-Straße
+street: "Ernst-Ludwig-Straße"
 housenumber: 6
 phone: "+49 6163 3347"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-17:00; PH off"

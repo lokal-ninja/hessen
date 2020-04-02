@@ -5,7 +5,7 @@ latitude: 51.2425015
 longitude: 9.256336300000001
 postcode: 34308
 city: Bad Emstal
-street: Am Langen Garten
+street: "Am Langen Garten"
 housenumber: 5
 phone: ""
 opening_hours: ""

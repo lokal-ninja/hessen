@@ -5,7 +5,7 @@ latitude: 50.2294403
 longitude: 8.611556400000001
 postcode: 61348
 city: Bad Homburg v.d. Höhe
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

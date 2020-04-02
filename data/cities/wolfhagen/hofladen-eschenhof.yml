@@ -5,7 +5,7 @@ latitude: 51.3431216
 longitude: 9.223395100000001
 postcode: 34466
 city: Wolfhagen
-street: Bärenbergstraße
+street: "Bärenbergstraße"
 housenumber: 1
 phone: "+49 5692 2464"
 opening_hours: "We 15:00-18:00; Fr 15:30-18:30; Sa 08:00-12:30"

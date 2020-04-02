@@ -5,7 +5,7 @@ latitude: 49.686813
 longitude: 8.5910115
 postcode: 64625
 city: Bensheim
-street: Zeppelinstraße
+street: "Zeppelinstraße"
 housenumber: 8
 phone: "+49 6251 39006"
 opening_hours: ""

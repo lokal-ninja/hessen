@@ -5,7 +5,7 @@ latitude: 51.495967300000004
 longitude: 9.3794985
 postcode: 34369
 city: Hofgeismar
-street: Markt
+street: "Markt"
 housenumber: 9
 phone: ""
 opening_hours: ""

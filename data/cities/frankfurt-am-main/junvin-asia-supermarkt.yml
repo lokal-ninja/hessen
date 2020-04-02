@@ -5,7 +5,7 @@ latitude: 50.112934300000006
 longitude: 8.685906600000001
 postcode: 60311
 city: Frankfurt am Main
-street: Fahrgasse
+street: "Fahrgasse"
 housenumber: 89
 phone: "+49 69 36603131"
 opening_hours: "Mo-Sa 09:30-20:00"

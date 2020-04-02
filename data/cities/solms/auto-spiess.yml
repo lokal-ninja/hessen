@@ -5,7 +5,7 @@ latitude: 50.54140760000001
 longitude: 8.4072709
 postcode: 35606
 city: Solms
-street: Georgshüttenstraße
+street: "Georgshüttenstraße"
 housenumber: 11
 phone: "+49 6442 922339"
 opening_hours: ""

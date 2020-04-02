@@ -5,7 +5,7 @@ latitude: 49.9145089
 longitude: 8.870087
 postcode: 64839
 city: Münster
-street: Außerhalb
+street: "Außerhalb"
 housenumber: 10
 phone: ""
 opening_hours: "Tu-Fr 08:30-12:30, 15:00-18:30; Sa 08:00-13:00"

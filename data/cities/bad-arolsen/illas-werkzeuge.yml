@@ -5,7 +5,7 @@ latitude: 51.380962000000004
 longitude: 9.0014249
 postcode: 34454
 city: Bad Arolsen
-street: Uplandstraße
+street: "Uplandstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

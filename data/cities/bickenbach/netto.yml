@@ -5,7 +5,7 @@ latitude: 49.752726100000004
 longitude: 8.6099049
 postcode: 64404
 city: Bickenbach
-street: Berta-Benz-Straße
+street: "Berta-Benz-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

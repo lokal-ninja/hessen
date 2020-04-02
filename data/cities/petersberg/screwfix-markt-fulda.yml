@@ -5,7 +5,7 @@ latitude: 50.5526387
 longitude: 9.717685900000001
 postcode: 36100
 city: Petersberg
-street: Dr.-Raabe-Straße
+street: "Dr.-Raabe-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

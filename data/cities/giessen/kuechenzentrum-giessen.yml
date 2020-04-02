@@ -5,7 +5,7 @@ latitude: 50.585504
 longitude: 8.6489954
 postcode: 35398
 city: Gießen
-street: Philipp-Reis-Straße
+street: "Philipp-Reis-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"

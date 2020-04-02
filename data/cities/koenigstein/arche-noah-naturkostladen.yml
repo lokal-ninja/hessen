@@ -5,7 +5,7 @@ latitude: 50.184005000000006
 longitude: 8.466792100000001
 postcode: 61462
 city: Königstein
-street: Klosterstraße
+street: "Klosterstraße"
 housenumber: 3a
 phone: "+49 6174 4754"
 opening_hours: ""

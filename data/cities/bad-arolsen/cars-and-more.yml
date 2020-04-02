@@ -5,7 +5,7 @@ latitude: 51.381626100000005
 longitude: 9.0039663
 postcode: 34454
 city: Bad Arolsen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 78
 phone: ""
 opening_hours: "Mo-Fr 07:00-17:45; Sa 10:00-12:00"

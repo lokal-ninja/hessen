@@ -5,7 +5,7 @@ latitude: 51.3886904
 longitude: 8.951317600000001
 postcode: 34454
 city: Bad Arolsen
-street: Ringstraße
+street: "Ringstraße"
 housenumber: 20
 phone: ""
 opening_hours: ""

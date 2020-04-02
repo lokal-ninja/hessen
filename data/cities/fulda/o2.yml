@@ -5,7 +5,7 @@ latitude: 50.5493923
 longitude: 9.6752324
 postcode: 36037
 city: Fulda
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 38
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.094769400000004
 longitude: 8.681554700000001
 postcode: 60598
 city: Frankfurt am Main
-street: Ziegelhüttenweg
+street: "Ziegelhüttenweg"
 housenumber: 4
 phone: "+49 1577 6973093"
 opening_hours: "Mo-Fr 07:00-18:30; Sa 07:00-13:30; Su 08:00-12:00"

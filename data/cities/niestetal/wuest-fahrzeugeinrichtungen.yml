@@ -5,7 +5,7 @@ latitude: 51.3228032
 longitude: 9.554654300000001
 postcode: 34266
 city: Niestetal
-street: Ysenburgstraße
+street: "Ysenburgstraße"
 housenumber: 8
 phone: "+49 561 525940"
 opening_hours: ""

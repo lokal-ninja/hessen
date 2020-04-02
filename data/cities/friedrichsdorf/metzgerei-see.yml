@@ -5,7 +5,7 @@ latitude: 50.275829
 longitude: 8.6500135
 postcode: 61381
 city: Friedrichsdorf
-street: Mühlstraße
+street: "Mühlstraße"
 housenumber: 1
 phone: "+49 6175 93340;+49 6175 1047"
 opening_hours: ""

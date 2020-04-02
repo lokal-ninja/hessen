@@ -5,7 +5,7 @@ latitude: 49.912218900000006
 longitude: 8.4866154
 postcode: 64521
 city: Groß-Gerau
-street: Gernsheimer Straße
+street: "Gernsheimer Straße"
 housenumber: 58
 phone: ""
 opening_hours: ""

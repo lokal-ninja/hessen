@@ -5,7 +5,7 @@ latitude: 50.5484154
 longitude: 8.4611105
 postcode: 35579
 city: Wetzlar
-street: Unterdorfstraße
+street: "Unterdorfstraße"
 housenumber: 8
 phone: "+49 6441 9115-0"
 opening_hours: "Mo-Fr 09:00-17:00"

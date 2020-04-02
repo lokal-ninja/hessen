@@ -5,7 +5,7 @@ latitude: 49.8087631
 longitude: 8.8911791
 postcode: 64853
 city: Otzberg
-street: Wiesenstraße
+street: "Wiesenstraße"
 housenumber: 6
 phone: "+49 6162 71909"
 opening_hours: "We 15:00-18:30; Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"

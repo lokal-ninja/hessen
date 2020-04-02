@@ -5,7 +5,7 @@ latitude: 50.533620000000006
 longitude: 8.409830300000001
 postcode: 35606
 city: Solms
-street: Stadionstraße
+street: "Stadionstraße"
 housenumber: 24
 phone: "+49 6442 922122"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.8772169
 longitude: 8.661845000000001
 postcode: 64289
 city: Darmstadt
-street: Heinheimer Straße
+street: "Heinheimer Straße"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

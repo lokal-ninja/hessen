@@ -5,7 +5,7 @@ latitude: 50.908019900000006
 longitude: 9.190325000000001
 postcode: 34613
 city: Schwalmstadt
-street: Siebenbürgener Weg
+street: "Siebenbürgener Weg"
 housenumber: 3
 phone: ""
 opening_hours: ""

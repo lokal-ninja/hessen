@@ -5,7 +5,7 @@ latitude: 51.308488200000006
 longitude: 9.570098100000001
 postcode: 34266
 city: Niestetal
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 36
 phone: "+49 561 522200"
 opening_hours: ""

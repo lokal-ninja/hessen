@@ -5,7 +5,7 @@ latitude: 49.650334
 longitude: 8.785531200000001
 postcode: 64658
 city: Fürth
-street: Kröckelbacher Straße
+street: "Kröckelbacher Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

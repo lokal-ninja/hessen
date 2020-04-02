@@ -5,7 +5,7 @@ latitude: 50.113290500000005
 longitude: 8.6770276
 postcode: 60311
 city: Frankfurt am Main
-street: Goetheplatz
+street: "Goetheplatz"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

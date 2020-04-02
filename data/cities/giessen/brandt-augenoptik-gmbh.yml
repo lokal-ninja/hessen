@@ -5,7 +5,7 @@ latitude: 50.5781561
 longitude: 8.6659833
 postcode: 35392
 city: Gießen
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 37
 phone: ""
 opening_hours: ""

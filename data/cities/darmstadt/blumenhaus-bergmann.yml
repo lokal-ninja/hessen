@@ -5,7 +5,7 @@ latitude: 49.867326000000006
 longitude: 8.664557700000001
 postcode: 64287
 city: Darmstadt
-street: Wienerstraße
+street: "Wienerstraße"
 housenumber: 86
 phone: "+49 6151 4291717"
 opening_hours: ""

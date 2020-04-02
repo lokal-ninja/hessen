@@ -5,7 +5,7 @@ latitude: 49.859211
 longitude: 8.5841239
 postcode: 64347
 city: Griesheim
-street: Groenhoffstraße
+street: "Groenhoffstraße"
 housenumber: 7
 phone: "+49-6155-62420"
 opening_hours: "Tu-Fr 08:30-12:00,13:30-18:00; Sa 08:00-13:00"

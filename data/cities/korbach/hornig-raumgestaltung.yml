@@ -5,7 +5,7 @@ latitude: 51.278476000000005
 longitude: 8.8814167
 postcode: 34497
 city: Korbach
-street: Oststraße
+street: "Oststraße"
 housenumber: 25
 phone: "+49 5631 913369"
 opening_hours: ""

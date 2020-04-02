@@ -5,7 +5,7 @@ latitude: 50.5877599
 longitude: 8.654181000000001
 postcode: 35398
 city: Gießen
-street: Rodheimer Straße
+street: "Rodheimer Straße"
 housenumber: 100
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

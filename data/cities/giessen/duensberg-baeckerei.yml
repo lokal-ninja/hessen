@@ -5,7 +5,7 @@ latitude: 50.5879282
 longitude: 8.675374300000001
 postcode: 35390
 city: Gießen
-street: Walltorstraße
+street: "Walltorstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

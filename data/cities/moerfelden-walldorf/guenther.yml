@@ -5,7 +5,7 @@ latitude: 49.9762916
 longitude: 8.567376600000001
 postcode: 64546
 city: Mörfelden-Walldorf
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo,Tu 09:00-13:00,14:00-18:00; We,Sa 09:00-13:00; Th,Fr 09:00-13:00,14:00-17:45"

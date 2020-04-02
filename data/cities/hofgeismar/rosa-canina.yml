@@ -5,7 +5,7 @@ latitude: 51.4945937
 longitude: 9.3800855
 postcode: 34369
 city: Hofgeismar
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 6
 phone: "+49 5671 507920"
 opening_hours: "Mo off; Tu-Fr 09:00-18:00; Sa 09:00-13:00; Su off"

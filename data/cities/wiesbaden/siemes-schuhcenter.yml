@@ -5,7 +5,7 @@ latitude: 50.019142200000005
 longitude: 8.286390500000001
 postcode: 55252
 city: Wiesbaden
-street: Boelckestraße
+street: "Boelckestraße"
 housenumber: 57
 phone: "+49 6134 188764"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"

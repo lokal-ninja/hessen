@@ -5,7 +5,7 @@ latitude: 50.365872100000004
 longitude: 8.689760900000001
 postcode: 61239
 city: Ober-Mörlen
-street: Hasselhecker Straße
+street: "Hasselhecker Straße"
 housenumber: 25
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

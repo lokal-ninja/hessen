@@ -5,7 +5,7 @@ latitude: 49.8449128
 longitude: 8.7926309
 postcode: 64354
 city: Reinheim
-street: Walter-Kolb-Straße
+street: "Walter-Kolb-Straße"
 housenumber: 5
 phone: "+49 6162 4486"
 opening_hours: ""

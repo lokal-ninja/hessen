@@ -5,7 +5,7 @@ latitude: 50.0763741
 longitude: 8.2325964
 postcode: 
 city: Wiesbaden
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.363132
 longitude: 8.7352609
 postcode: 61231
 city: Bad Nauheim
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

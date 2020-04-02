@@ -5,7 +5,7 @@ latitude: 50.0921018
 longitude: 8.691527800000001
 postcode: 60598
 city: Frankfurt am Main
-street: Darmstädter Landstraße
+street: "Darmstädter Landstraße"
 housenumber: 225
 phone: "+49 69 681507"
 opening_hours: ""

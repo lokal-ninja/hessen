@@ -5,7 +5,7 @@ latitude: 51.1148322
 longitude: 9.647845400000001
 postcode: 34286
 city: Spangenberg
-street: Mörshäuser Weg
+street: "Mörshäuser Weg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-12:00"

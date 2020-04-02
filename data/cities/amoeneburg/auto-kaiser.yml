@@ -5,7 +5,7 @@ latitude: 50.763366500000004
 longitude: 8.9213915
 postcode: 35287
 city: Amöneburg
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 13
 phone: "+49 6429 8290550"
 opening_hours: ""

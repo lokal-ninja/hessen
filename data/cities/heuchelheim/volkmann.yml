@@ -5,7 +5,7 @@ latitude: 50.583789900000006
 longitude: 8.6325353
 postcode: 35452
 city: Heuchelheim
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

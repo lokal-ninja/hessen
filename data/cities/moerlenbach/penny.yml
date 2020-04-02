@@ -5,7 +5,7 @@ latitude: 49.588396
 longitude: 8.7295257
 postcode: 69509
 city: Mörlenbach
-street: Weinheimer Straße
+street: "Weinheimer Straße"
 housenumber: 64b
 phone: ""
 opening_hours: "Mo-Sa 07:30-21:00"

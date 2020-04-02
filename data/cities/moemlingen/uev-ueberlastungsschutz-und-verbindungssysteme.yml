@@ -5,7 +5,7 @@ latitude: 49.849963200000005
 longitude: 9.082558
 postcode: 63853
 city: Mömlingen
-street: Sudetenstraße
+street: "Sudetenstraße"
 housenumber: 27
 phone: ""
 opening_hours: ""

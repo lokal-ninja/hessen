@@ -5,7 +5,7 @@ latitude: 50.1957393
 longitude: 9.194161900000001
 postcode: 63589
 city: Linsengericht
-street: Stadtweg
+street: "Stadtweg"
 housenumber: 2
 phone: "+49 6051 71885"
 opening_hours: ""

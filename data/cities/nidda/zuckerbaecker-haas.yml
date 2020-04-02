@@ -5,7 +5,7 @@ latitude: 50.4640919
 longitude: 9.0134734
 postcode: 63667
 city: Nidda
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 50
 phone: "+49 6043 400470"
 opening_hours: ""

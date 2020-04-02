@@ -5,7 +5,7 @@ latitude: 50.821174600000006
 longitude: 8.9199383
 postcode: 35274
 city: Kirchhain
-street: Brießelstraße
+street: "Brießelstraße"
 housenumber: 7
 phone: "+49 6422 1532"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.0119083
 longitude: 8.454119500000001
 postcode: 65479
 city: Raunheim
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 55
 phone: "+49 6142 408792"
 opening_hours: "Mo-Fr 9:00-12:30,14:30-18:00; We,Sa 9:00-12:30"

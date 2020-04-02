@@ -5,7 +5,7 @@ latitude: 50.105685400000006
 longitude: 8.6876142
 postcode: 60594
 city: Frankfurt am Main
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 21
 phone: "+49 176 35424235"
 opening_hours: "Tu-Fr 12:00-20:00; Sa 11:00-16:00; Mo off"

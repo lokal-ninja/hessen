@@ -5,7 +5,7 @@ latitude: 50.827538000000004
 longitude: 9.012953300000001
 postcode: 35260
 city: Stadtallendorf
-street: Straße des 17. Juni
+street: "Straße des 17. Juni"
 housenumber: 
 phone: ""
 opening_hours: ""

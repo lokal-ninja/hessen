@@ -5,7 +5,7 @@ latitude: 50.060984000000005
 longitude: 8.3317365
 postcode: 65205
 city: Wiesbaden
-street: Daimlerring
+street: "Daimlerring"
 housenumber: 6
 phone: "+49 6122 90 91 10"
 opening_hours: "Mo-Fr 08:00-17:00; Th 08:00-18:30"

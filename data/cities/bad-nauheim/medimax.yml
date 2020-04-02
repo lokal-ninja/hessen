@@ -5,7 +5,7 @@ latitude: 50.360329400000005
 longitude: 8.7523601
 postcode: 61231
 city: Bad Nauheim
-street: Georg-Scheller-Straße
+street: "Georg-Scheller-Straße"
 housenumber: 3-7
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.7733513
 longitude: 8.6405232
 postcode: 64342
 city: Seeheim-Jugenheim
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 37
 phone: "+49 6257 82331"
 opening_hours: ""

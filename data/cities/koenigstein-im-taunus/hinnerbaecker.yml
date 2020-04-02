@@ -5,7 +5,7 @@ latitude: 50.18223020000001
 longitude: 8.469061700000001
 postcode: 61462
 city: Königstein im Taunus
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 5
 phone: "+49 6174 9682484"
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-14:00; Su 07:00-12:00"

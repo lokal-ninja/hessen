@@ -5,7 +5,7 @@ latitude: 51.1201407
 longitude: 9.6664595
 postcode: 34286
 city: Spangenberg
-street: Bergstraße
+street: "Bergstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

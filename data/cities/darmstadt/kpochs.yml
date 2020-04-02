@@ -5,7 +5,7 @@ latitude: 49.8714962
 longitude: 8.6492161
 postcode: 64283
 city: Darmstadt
-street: Grafenstraße
+street: "Grafenstraße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-We 08:30-20:00; Th-Fr 08:30-24:00; Sa 08:30-18:00"

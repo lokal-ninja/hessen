@@ -5,7 +5,7 @@ latitude: 51.3732301
 longitude: 9.0067219
 postcode: 34454
 city: Bad Arolsen
-street: Mengeringhäuser Straße
+street: "Mengeringhäuser Straße"
 housenumber: 2
 phone: "+49 5691 624990"
 opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 50.388759300000004
 longitude: 8.063611700000001
 postcode: 65549
 city: Limburg a. d. Lahn
-street: Fischmarkt
+street: "Fischmarkt"
 housenumber: 6
 phone: ""
 opening_hours: ""

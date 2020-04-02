@@ -5,7 +5,7 @@ latitude: 49.655935500000005
 longitude: 8.7898779
 postcode: 64658
 city: Fürth
-street: Siemensring
+street: "Siemensring"
 housenumber: 8
 phone: "+49-6253-9909980"
 opening_hours: "Mo-Fr 09:30-13:00,14:30-18:30; We 08:30-12:00"

@@ -5,7 +5,7 @@ latitude: 50.586527100000005
 longitude: 8.5522785
 postcode: 35633
 city: Lahnau
-street: Rodheimer Straße
+street: "Rodheimer Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.5558497
 longitude: 9.351619900000001
 postcode: 36358
 city: Herbstein
-street: Hessenstraße
+street: "Hessenstraße"
 housenumber: 83
 phone: ""
 opening_hours: ""

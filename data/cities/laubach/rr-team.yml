@@ -5,7 +5,7 @@ latitude: 50.541757700000005
 longitude: 9.0009067
 postcode: 35321
 city: Laubach
-street: Schottener Straße
+street: "Schottener Straße"
 housenumber: 42
 phone: ""
 opening_hours: ""

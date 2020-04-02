@@ -5,7 +5,7 @@ latitude: 50.654448800000004
 longitude: 8.327863
 postcode: 35764
 city: Sinn
-street: Jordanstraße
+street: "Jordanstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

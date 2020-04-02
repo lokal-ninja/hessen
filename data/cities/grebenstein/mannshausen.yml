@@ -5,7 +5,7 @@ latitude: 51.445528200000005
 longitude: 9.4182172
 postcode: 34393
 city: Grebenstein
-street: Udenhäuser Straße
+street: "Udenhäuser Straße"
 housenumber: 19
 phone: "+49 5674 1327"
 opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"

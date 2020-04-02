@@ -5,7 +5,7 @@ latitude: 50.1308888
 longitude: 8.905321800000001
 postcode: 63450
 city: Hanau
-street: Philippsruher Allee
+street: "Philippsruher Allee"
 housenumber: 14
 phone: "+49 6181 5078395"
 opening_hours: ""

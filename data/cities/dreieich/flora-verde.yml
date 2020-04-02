@@ -5,7 +5,7 @@ latitude: 50.030736100000006
 longitude: 8.702625600000001
 postcode: 63303
 city: Dreieich
-street: Robert-Bosch-Straße
+street: "Robert-Bosch-Straße"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa 10:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.5519837
 longitude: 9.675123600000001
 postcode: 36037
 city: Fulda
-street: Pfandhausstraße
+street: "Pfandhausstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

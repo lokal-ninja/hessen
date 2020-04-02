@@ -5,7 +5,7 @@ latitude: 51.031123900000004
 longitude: 9.421188
 postcode: 34576
 city: Homberg (Efze)
-street: August-Vilmar-Straße
+street: "August-Vilmar-Straße"
 housenumber: 26
 phone: "+49 5681 60494"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-17:00"

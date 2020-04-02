@@ -5,7 +5,7 @@ latitude: 50.752475100000005
 longitude: 8.563134
 postcode: 35075
 city: Gladenbach
-street: Blaumühlenweg
+street: "Blaumühlenweg"
 housenumber: 9
 phone: ""
 opening_hours: ""

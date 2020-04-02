@@ -5,7 +5,7 @@ latitude: 51.3654747
 longitude: 9.425886700000001
 postcode: 34292
 city: Ahnatal
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

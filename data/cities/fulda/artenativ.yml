@@ -5,7 +5,7 @@ latitude: 50.5524593
 longitude: 9.6735846
 postcode: 36037
 city: Fulda
-street: Rittergasse
+street: "Rittergasse"
 housenumber: 16
 phone: ""
 opening_hours: ""

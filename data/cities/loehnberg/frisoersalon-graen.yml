@@ -5,7 +5,7 @@ latitude: 50.512356700000005
 longitude: 8.2682091
 postcode: 35792
 city: Löhnberg
-street: Forsthausstraße
+street: "Forsthausstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

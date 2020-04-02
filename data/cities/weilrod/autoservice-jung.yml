@@ -5,7 +5,7 @@ latitude: 50.3382104
 longitude: 8.3814157
 postcode: 61276
 city: Weilrod
-street: Weilstraße
+street: "Weilstraße"
 housenumber: 41a
 phone: "+49 6083 910240"
 opening_hours: "Mo-Fr 08:00-12:00,14:00-17:30, Sa 09:00-12:00"

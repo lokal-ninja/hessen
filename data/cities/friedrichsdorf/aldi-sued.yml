@@ -5,7 +5,7 @@ latitude: 50.248865200000004
 longitude: 8.6406717
 postcode: 61381
 city: Friedrichsdorf
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

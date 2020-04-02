@@ -5,7 +5,7 @@ latitude: 50.1413224
 longitude: 8.7204095
 postcode: 60389
 city: Frankfurt am Main
-street: Atzelbergplatz
+street: "Atzelbergplatz"
 housenumber: 9-11
 phone: "+49 69 47884808"
 opening_hours: "Mo-Sa 09:00-13:00"

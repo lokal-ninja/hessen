@@ -5,7 +5,7 @@ latitude: 51.34986850000001
 longitude: 9.850557
 postcode: 37213
 city: Witzenhausen
-street: Bischhäuser
+street: "Bischhäuser"
 housenumber: Aue
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"

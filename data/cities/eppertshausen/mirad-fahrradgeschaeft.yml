@@ -5,7 +5,7 @@ latitude: 49.9465019
 longitude: 8.8434272
 postcode: 64859
 city: Eppertshausen
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 68
 phone: ""
 opening_hours: ""

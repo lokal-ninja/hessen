@@ -5,7 +5,7 @@ latitude: 51.32662800000001
 longitude: 9.533531
 postcode: 34125
 city: Kassel
-street: Fuldatalstraße
+street: "Fuldatalstraße"
 housenumber: 126
 phone: ""
 opening_hours: ""

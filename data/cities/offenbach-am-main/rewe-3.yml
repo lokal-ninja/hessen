@@ -5,7 +5,7 @@ latitude: 50.112450100000004
 longitude: 8.7553669
 postcode: 63067
 city: Offenbach am Main
-street: Hafenplatz
+street: "Hafenplatz"
 housenumber: 1-3
 phone: "+49 69 85095915"
 opening_hours: "07:00-22:00"

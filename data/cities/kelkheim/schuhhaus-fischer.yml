@@ -5,7 +5,7 @@ latitude: 50.1520354
 longitude: 8.422048100000001
 postcode: 65779
 city: Kelkheim
-street: Fischbacher Kirchgasse
+street: "Fischbacher Kirchgasse"
 housenumber: 2
 phone: "+49 6195 62307"
 opening_hours: "Mo-Sa 09:00-13:00; Mo,Tu,Th,Fr 15:00-18:30"

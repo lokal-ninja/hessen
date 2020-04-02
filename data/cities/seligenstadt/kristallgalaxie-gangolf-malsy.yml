@@ -5,7 +5,7 @@ latitude: 50.0425739
 longitude: 8.9682866
 postcode: 63500
 city: Seligenstadt
-street: Kaiser-Karl-Straße
+street: "Kaiser-Karl-Straße"
 housenumber: 38
 phone: ""
 opening_hours: "Termine nach Vereinbarung"

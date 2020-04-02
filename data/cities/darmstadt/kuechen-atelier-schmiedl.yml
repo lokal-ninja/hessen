@@ -5,7 +5,7 @@ latitude: 49.8697418
 longitude: 8.6482664
 postcode: 64283
 city: Darmstadt
-street: Elisabethenstraße
+street: "Elisabethenstraße"
 housenumber: 46
 phone: ""
 opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-16:00"

@@ -5,7 +5,7 @@ latitude: 50.789409500000005
 longitude: 8.738038600000001
 postcode: 35037
 city: Marburg
-street: Dietrich-Bonhoeffer-Straße
+street: "Dietrich-Bonhoeffer-Straße"
 housenumber: 11
 phone: ""
 opening_hours: ""

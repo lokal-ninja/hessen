@@ -5,7 +5,7 @@ latitude: 50.2914023
 longitude: 8.5096086
 postcode: 61267
 city: Neu-Anspach
-street: Breitestraße
+street: "Breitestraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

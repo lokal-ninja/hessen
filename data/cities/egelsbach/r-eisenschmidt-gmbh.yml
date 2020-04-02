@@ -5,7 +5,7 @@ latitude: 49.963702700000006
 longitude: 8.641762
 postcode: 63329
 city: Egelsbach
-street: Am Flugplatz
+street: "Am Flugplatz"
 housenumber: 1
 phone: "+49 6103 205960"
 opening_hours: "Mo-Fr 09:00-17:00"

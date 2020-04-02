@@ -5,7 +5,7 @@ latitude: 50.2173074
 longitude: 8.8337989
 postcode: 61137
 city: Schöneck
-street: Südliche Hauptstraße
+street: "Südliche Hauptstraße"
 housenumber: 4
 phone: "+49 6187 6989"
 opening_hours: "Mo-Fr 08:00-12:30, 14:30-18:00; Tu 08:00-12:30; Sa 08:00 - 13:00"

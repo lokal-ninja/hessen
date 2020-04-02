@@ -5,7 +5,7 @@ latitude: 50.0646081
 longitude: 8.1091386
 postcode: 65345
 city: Eltville am Rhein
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 34a
 phone: "+49 6123 74193"
 opening_hours: ""

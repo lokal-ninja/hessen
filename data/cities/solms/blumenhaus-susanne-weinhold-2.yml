@@ -5,7 +5,7 @@ latitude: 50.555189500000004
 longitude: 8.400415800000001
 postcode: 35606
 city: Solms
-street: Weilburger Straße
+street: "Weilburger Straße"
 housenumber: 29
 phone: "+49 6442 8462"
 opening_hours: "Mo 09:00-12:30; Tu-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00"

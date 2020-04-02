@@ -5,7 +5,7 @@ latitude: 51.355031100000005
 longitude: 9.4614005
 postcode: 34246
 city: Vellmar
-street: Lange Wender
+street: "Lange Wender"
 housenumber: 7
 phone: ""
 opening_hours: "Mo-Sa 09:30-20:00"

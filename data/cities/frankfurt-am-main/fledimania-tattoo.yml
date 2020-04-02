@@ -5,7 +5,7 @@ latitude: 50.106532300000005
 longitude: 8.693432600000001
 postcode: 60594
 city: Frankfurt am Main
-street: Seehofstraße
+street: "Seehofstraße"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.597169900000004
 longitude: 8.6613074
 postcode: 
 city: Gießen
-street: Pater-Delp-Straße
+street: "Pater-Delp-Straße"
 housenumber: 20
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.0258187
 longitude: 9.0269525
 postcode: 63533
 city: Mainhausen
-street: Seestraße
+street: "Seestraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

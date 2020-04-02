@@ -5,7 +5,7 @@ latitude: 50.052375500000004
 longitude: 8.8885249
 postcode: 63110
 city: Rodgau
-street: Goetheplatz
+street: "Goetheplatz"
 housenumber: 8
 phone: ""
 opening_hours: ""

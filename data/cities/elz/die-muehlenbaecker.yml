@@ -5,7 +5,7 @@ latitude: 50.411509300000006
 longitude: 8.0360928
 postcode: 65604
 city: Elz
-street: Rathausstraße
+street: "Rathausstraße"
 housenumber: 20
 phone: "+49 643151185"
 opening_hours: ""

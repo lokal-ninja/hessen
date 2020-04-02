@@ -5,7 +5,7 @@ latitude: 50.163053100000006
 longitude: 8.6622541
 postcode: 60433
 city: Frankfurt am Main
-street: Im Geeren
+street: "Im Geeren"
 housenumber: 92
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-17:00"

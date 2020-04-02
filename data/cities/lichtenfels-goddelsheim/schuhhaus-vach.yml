@@ -5,7 +5,7 @@ latitude: 51.203136
 longitude: 8.8083265
 postcode: 35104
 city: Lichtenfels-Goddelsheim
-street: Korbacher Straße
+street: "Korbacher Straße"
 housenumber: 15
 phone: "+49 5636 273"
 opening_hours: ""

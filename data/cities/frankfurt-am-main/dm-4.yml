@@ -5,7 +5,7 @@ latitude: 50.1558155
 longitude: 8.698798400000001
 postcode: 60435
 city: Frankfurt am Main
-street: Gundelandstraße
+street: "Gundelandstraße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

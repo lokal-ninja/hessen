@@ -5,7 +5,7 @@ latitude: 50.640536700000006
 longitude: 8.7018257
 postcode: 35457
 city: Lollar
-street: Pfingstweide
+street: "Pfingstweide"
 housenumber: 10
 phone: "+49 6406 91260"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"

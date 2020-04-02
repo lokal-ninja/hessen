@@ -5,7 +5,7 @@ latitude: 51.323959
 longitude: 9.516363
 postcode: 34125
 city: Kassel
-street: Ostring
+street: "Ostring"
 housenumber: 62a
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

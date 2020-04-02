@@ -5,7 +5,7 @@ latitude: 50.3537303
 longitude: 9.310843100000001
 postcode: 63633
 city: Birstein
-street: Reichenbacher Straße
+street: "Reichenbacher Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 07:00-19:00, Sa 07:00-16:00"

@@ -5,7 +5,7 @@ latitude: 49.9072322
 longitude: 8.6486377
 postcode: 
 city: Darmstadt
-street: Schorlemmerstraße
+street: "Schorlemmerstraße"
 housenumber: 45
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 49.869255100000004
 longitude: 8.6476276
 postcode: 64283
 city: Darmstadt
-street: Saalbaustraße
+street: "Saalbaustraße"
 housenumber: 35
 phone: "+49 6151 6790665"
 opening_hours: ""

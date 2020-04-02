@@ -5,7 +5,7 @@ latitude: 50.385243100000004
 longitude: 9.1962091
 postcode: 63688
 city: Gedern
-street: Untertorstraße
+street: "Untertorstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

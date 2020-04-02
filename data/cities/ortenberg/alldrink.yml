@@ -5,7 +5,7 @@ latitude: 50.352909700000005
 longitude: 9.0487926
 postcode: 63683
 city: Ortenberg
-street: Karl-Hofmann-Straße
+street: "Karl-Hofmann-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

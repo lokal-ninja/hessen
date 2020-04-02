@@ -5,7 +5,7 @@ latitude: 49.693064500000006
 longitude: 8.4632845
 postcode: 68647
 city: Biblis
-street: Darmstädter Straße
+street: "Darmstädter Straße"
 housenumber: 127
 phone: ""
 opening_hours: ""

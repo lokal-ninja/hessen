@@ -5,7 +5,7 @@ latitude: 51.308192500000004
 longitude: 9.4689327
 postcode: 34121
 city: Kassel
-street: Schönfelder Straße
+street: "Schönfelder Straße"
 housenumber: 47a
 phone: ""
 opening_hours: "Tu-Fr 09:00-18:00;Sa 09:00-13:00"

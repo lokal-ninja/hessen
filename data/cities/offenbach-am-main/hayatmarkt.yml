@@ -5,7 +5,7 @@ latitude: 50.0963658
 longitude: 8.7562998
 postcode: 63069
 city: Offenbach am Main
-street: Starkenburgring
+street: "Starkenburgring"
 housenumber: 71
 phone: ""
 opening_hours: "Mo-Sa 8:00-20:00"

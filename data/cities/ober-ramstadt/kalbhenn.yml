@@ -5,7 +5,7 @@ latitude: 49.8253373
 longitude: 8.7522917
 postcode: 64372
 city: Ober-Ramstadt
-street: Grabengasse
+street: "Grabengasse"
 housenumber: 31
 phone: ""
 opening_hours: "mo-fr 9:00-13:00, 14:00-18:00; sa 9:00-13:00; su 10:00-12:00"

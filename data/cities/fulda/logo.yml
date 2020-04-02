@@ -5,7 +5,7 @@ latitude: 50.5748643
 longitude: 9.6745142
 postcode: 36039
 city: Fulda
-street: Niesiger Straße
+street: "Niesiger Straße"
 housenumber: 163
 phone: ""
 opening_hours: ""

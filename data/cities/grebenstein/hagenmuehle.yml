@@ -5,7 +5,7 @@ latitude: 51.4469865
 longitude: 9.417728
 postcode: 34393
 city: Grebenstein
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 8
 phone: "+49 5674 206"
 opening_hours: "Su-Tu off; We-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00"

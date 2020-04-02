@@ -5,7 +5,7 @@ latitude: 49.6162654
 longitude: 8.755342500000001
 postcode: 64668
 city: Rimbach
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 57
 phone: "+49-6253-6922"
 opening_hours: "Mo-Th 07:15-18:00; Fr 07:15-17:00; Sa 09:00-12:30"

@@ -5,7 +5,7 @@ latitude: 50.3718116
 longitude: 8.895585500000001
 postcode: 61209
 city: Bingenheim
-street: Raunstraße
+street: "Raunstraße"
 housenumber: 2
 phone: "+49 6035 9687756"
 opening_hours: "Mo-Fr 8:00-12:30 und 15.00-18.00 Sa 8:00-12:30"

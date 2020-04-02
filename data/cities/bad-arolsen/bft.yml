@@ -5,7 +5,7 @@ latitude: 51.380352800000004
 longitude: 8.9992643
 postcode: 34454
 city: Bad Arolsen
-street: Korbacher Straße
+street: "Korbacher Straße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-21:00"

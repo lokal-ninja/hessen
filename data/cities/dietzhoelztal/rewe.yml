@@ -5,7 +5,7 @@ latitude: 50.834608100000004
 longitude: 8.325584600000001
 postcode: 35716
 city: Dietzhölztal
-street: Storchweg
+street: "Storchweg"
 housenumber: 
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.4549761
 longitude: 9.0566802
 postcode: 63667
 city: Nidda
-street: Brandesgasse
+street: "Brandesgasse"
 housenumber: 6a
 phone: "+49 6043 1003"
 opening_hours: ""

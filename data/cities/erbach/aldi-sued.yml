@@ -5,7 +5,7 @@ latitude: 49.6704415
 longitude: 8.992817200000001
 postcode: 64711
 city: Erbach
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 25
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.686739200000005
 longitude: 8.4458679
 postcode: 68647
 city: Biblis
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 4
 phone: ""
 opening_hours: ""

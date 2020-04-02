@@ -5,7 +5,7 @@ latitude: 50.057022700000005
 longitude: 8.815434900000001
 postcode: 63150
 city: Heusenstamm
-street: Rudolf-Braas-Straße
+street: "Rudolf-Braas-Straße"
 housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 09:00-12:30, 14:30-18:30; Sa 09:00-14:00; Su,PH off"

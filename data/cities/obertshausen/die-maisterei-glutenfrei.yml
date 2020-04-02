@@ -5,7 +5,7 @@ latitude: 50.0789175
 longitude: 8.872810000000001
 postcode: 63179
 city: Obertshausen
-street: Bürgermeister-Mahr-Straße
+street: "Bürgermeister-Mahr-Straße"
 housenumber: 4-6
 phone: ""
 opening_hours: "Tu,Th 09:30-13:00,14:00-18:00"

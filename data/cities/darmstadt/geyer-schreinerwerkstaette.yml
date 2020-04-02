@@ -5,7 +5,7 @@ latitude: 49.8616776
 longitude: 8.654424
 postcode: 64285
 city: Darmstadt
-street: Herdweg
+street: "Herdweg"
 housenumber: 10
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.8102396
 longitude: 8.588897600000001
 postcode: 64319
 city: Pfungstadt
-street: Mainstraße
+street: "Mainstraße"
 housenumber: 128
 phone: "+49 6157 801990"
 opening_hours: "Mo-Sa 08:00-22:00"

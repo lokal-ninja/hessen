@@ -5,7 +5,7 @@ latitude: 51.210424
 longitude: 9.002049000000001
 postcode: 34513
 city: Waldeck
-street: Unter dem Hagen
+street: "Unter dem Hagen"
 housenumber: 1
 phone: "+49 5634 7548"
 opening_hours: "Th-Su 10:00-18:00"

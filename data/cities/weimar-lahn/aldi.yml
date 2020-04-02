@@ -5,7 +5,7 @@ latitude: 50.7616905
 longitude: 8.738798300000001
 postcode: 35096
 city: Weimar (Lahn)
-street: Herborner Straße
+street: "Herborner Straße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

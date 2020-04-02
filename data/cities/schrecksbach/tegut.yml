@@ -5,7 +5,7 @@ latitude: 50.840322300000004
 longitude: 9.287191100000001
 postcode: 34637
 city: Schrecksbach
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 25
 phone: "+49 6698 919105"
 opening_hours: "Mo-Sa 08:00-20:00"

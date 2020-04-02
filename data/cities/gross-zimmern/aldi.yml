@@ -5,7 +5,7 @@ latitude: 49.8808166
 longitude: 8.819362400000001
 postcode: 64846
 city: Groß-Zimmern
-street: Waldstraße
+street: "Waldstraße"
 housenumber: 71
 phone: ""
 opening_hours: ""

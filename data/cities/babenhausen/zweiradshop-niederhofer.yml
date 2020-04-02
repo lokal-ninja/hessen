@@ -5,7 +5,7 @@ latitude: 49.959040900000005
 longitude: 8.960999600000001
 postcode: 64832
 city: Babenhausen
-street: Aschaffenburger Straße
+street: "Aschaffenburger Straße"
 housenumber: 2
 phone: "+49-6073-712003"
 opening_hours: ""

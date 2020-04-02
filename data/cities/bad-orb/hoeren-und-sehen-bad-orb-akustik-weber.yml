@@ -5,7 +5,7 @@ latitude: 50.224296200000005
 longitude: 9.3484791
 postcode: 63619
 city: Bad Orb
-street: Burgring
+street: "Burgring"
 housenumber: 2
 phone: "+49 6052 1634"
 opening_hours: ""

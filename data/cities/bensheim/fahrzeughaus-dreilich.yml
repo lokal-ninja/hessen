@@ -5,7 +5,7 @@ latitude: 49.687208600000005
 longitude: 8.5896617
 postcode: 64625
 city: Bensheim
-street: Lilienthalstraße
+street: "Lilienthalstraße"
 housenumber: 22,24
 phone: "+49 6251 39855"
 opening_hours: "Mo-Fr 08:00-18:00; Sa nach Vereinbarung"

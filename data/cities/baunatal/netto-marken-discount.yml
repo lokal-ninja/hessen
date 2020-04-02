@@ -5,7 +5,7 @@ latitude: 51.2585357
 longitude: 9.4491496
 postcode: 34225
 city: Baunatal
-street: Knallhütter Straße
+street: "Knallhütter Straße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

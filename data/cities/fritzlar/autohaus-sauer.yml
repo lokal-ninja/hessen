@@ -5,7 +5,7 @@ latitude: 51.123828100000004
 longitude: 9.2817494
 postcode: 34560
 city: Fritzlar
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 7
 phone: "+49 5622 1630"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 9:00-13:00; PH off"

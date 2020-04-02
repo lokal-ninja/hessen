@@ -5,7 +5,7 @@ latitude: 51.581144900000005
 longitude: 9.5862595
 postcode: 34399
 city: Wesertal
-street: Untere Straße
+street: "Untere Straße"
 housenumber: 48
 phone: ""
 opening_hours: ""

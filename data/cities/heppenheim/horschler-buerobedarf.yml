@@ -5,7 +5,7 @@ latitude: 49.6404566
 longitude: 8.629625200000001
 postcode: 64646
 city: Heppenheim
-street: Uhlandstraße
+street: "Uhlandstraße"
 housenumber: 12
 phone: "+49 6252 982186"
 opening_hours: "Mo-Fr 7:00-18:30; Sa 7:00-13:00"

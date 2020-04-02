@@ -5,7 +5,7 @@ latitude: 49.8995496
 longitude: 8.5943837
 postcode: 64331
 city: Weiterstadt
-street: Max-Planck-Straße
+street: "Max-Planck-Straße"
 housenumber: 4
 phone: "+49 6150 134764-0"
 opening_hours: "Mo-Sa 09:00-20:00"

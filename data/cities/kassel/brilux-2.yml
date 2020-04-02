@@ -5,7 +5,7 @@ latitude: 51.2751485
 longitude: 9.5197524
 postcode: 34123
 city: Kassel
-street: Heinrich-Hertz-Straße
+street: "Heinrich-Hertz-Straße"
 housenumber: 50
 phone: ""
 opening_hours: ""

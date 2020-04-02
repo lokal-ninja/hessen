@@ -5,7 +5,7 @@ latitude: 50.026475000000005
 longitude: 8.4034949
 postcode: 65439
 city: Flörsheim am Main
-street: Taunusstraße
+street: "Taunusstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

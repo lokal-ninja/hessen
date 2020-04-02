@@ -5,7 +5,7 @@ latitude: 50.495168500000005
 longitude: 9.6952025
 postcode: 36124
 city: Eichenzell
-street: Fuldaer Straße
+street: "Fuldaer Straße"
 housenumber: 8a
 phone: "+49 6659 918132"
 opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"

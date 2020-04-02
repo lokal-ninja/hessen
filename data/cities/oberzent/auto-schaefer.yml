@@ -5,7 +5,7 @@ latitude: 49.5759665
 longitude: 8.9830916
 postcode: 64760
 city: Oberzent
-street: Mümlingtalstraße
+street: "Mümlingtalstraße"
 housenumber: 93
 phone: "+49 (0) 6068 1538"
 opening_hours: ""

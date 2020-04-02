@@ -5,7 +5,7 @@ latitude: 50.0154117
 longitude: 8.695509000000001
 postcode: 
 city: Dreieich
-street: Darmstädter Straße
+street: "Darmstädter Straße"
 housenumber: 3-7
 phone: ""
 opening_hours: ""

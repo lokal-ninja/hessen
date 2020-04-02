@@ -5,7 +5,7 @@ latitude: 51.316048900000006
 longitude: 9.5406575
 postcode: 34266
 city: Niestetal
-street: Hannoversche Straße
+street: "Hannoversche Straße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 51.3149595
 longitude: 9.439886600000001
 postcode: 34131
 city: Kassel
-street: Kunoldstraße
+street: "Kunoldstraße"
 housenumber: 16
 phone: "+49 561 312 842"
 opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00"

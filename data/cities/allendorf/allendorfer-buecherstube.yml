@@ -5,7 +5,7 @@ latitude: 50.6781596
 longitude: 8.822608200000001
 postcode: 35469
 city: Allendorf
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

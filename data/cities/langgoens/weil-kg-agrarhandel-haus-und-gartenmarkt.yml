@@ -5,7 +5,7 @@ latitude: 50.499726300000006
 longitude: 8.655937400000001
 postcode: 35428
 city: Langgöns
-street: Hinter dem Brauhaus
+street: "Hinter dem Brauhaus"
 housenumber: 3
 phone: "+49 6403 2246"
 opening_hours: ""

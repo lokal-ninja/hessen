@@ -5,7 +5,7 @@ latitude: 50.1241062
 longitude: 8.769359900000001
 postcode: 60386
 city: Frankfurt am Main
-street: Alt-Fechenheim
+street: "Alt-Fechenheim"
 housenumber: 
 phone: "+49 69 411 383"
 opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"

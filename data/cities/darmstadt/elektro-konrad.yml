@@ -5,7 +5,7 @@ latitude: 49.860507000000005
 longitude: 8.6535533
 postcode: 64285
 city: Darmstadt
-street: Orangerieallee
+street: "Orangerieallee"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"

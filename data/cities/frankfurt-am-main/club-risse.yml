@@ -5,7 +5,7 @@ latitude: 50.126087000000005
 longitude: 8.6838453
 postcode: 60318
 city: Frankfurt am Main
-street: Humboldtstraße
+street: "Humboldtstraße"
 housenumber: 59
 phone: ""
 opening_hours: "Fr 17:00-20:00, Sa 11:00-15:00"

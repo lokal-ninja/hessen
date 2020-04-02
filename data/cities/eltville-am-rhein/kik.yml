@@ -5,7 +5,7 @@ latitude: 50.0251092
 longitude: 8.1106276
 postcode: 65343
 city: Eltville am Rhein
-street: H.J.-Müller-Straße
+street: "H.J.-Müller-Straße"
 housenumber: 1b
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"

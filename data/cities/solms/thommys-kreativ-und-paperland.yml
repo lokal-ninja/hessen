@@ -5,7 +5,7 @@ latitude: 50.5433846
 longitude: 8.406674800000001
 postcode: 35606
 city: Solms
-street: Bahnhofsallee
+street: "Bahnhofsallee"
 housenumber: 20
 phone: ""
 opening_hours: ""

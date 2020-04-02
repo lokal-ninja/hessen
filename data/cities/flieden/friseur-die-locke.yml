@@ -5,7 +5,7 @@ latitude: 50.423410800000006
 longitude: 9.565957800000001
 postcode: 36103
 city: Flieden
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

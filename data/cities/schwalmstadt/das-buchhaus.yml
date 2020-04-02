@@ -5,7 +5,7 @@ latitude: 50.91208760000001
 longitude: 9.242500600000001
 postcode: 34613
 city: Schwalmstadt
-street: Wiederholdstraße
+street: "Wiederholdstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

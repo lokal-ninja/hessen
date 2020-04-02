@@ -5,7 +5,7 @@ latitude: 49.6435965
 longitude: 8.6307195
 postcode: 64646
 city: Heppenheim
-street: Lilienthalstraße
+street: "Lilienthalstraße"
 housenumber: 4
 phone: ""
 opening_hours: ""

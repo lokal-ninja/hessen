@@ -5,7 +5,7 @@ latitude: 50.1043591
 longitude: 8.7684566
 postcode: 63065
 city: Offenbach am Main
-street: Bieberer Straße
+street: "Bieberer Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Su 07:00-21:45"

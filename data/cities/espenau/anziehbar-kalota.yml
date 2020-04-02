@@ -5,7 +5,7 @@ latitude: 51.399249600000005
 longitude: 9.470385400000001
 postcode: 34314
 city: Espenau
-street: Mönchehofer Straße
+street: "Mönchehofer Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

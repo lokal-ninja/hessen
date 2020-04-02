@@ -5,7 +5,7 @@ latitude: 49.7690021
 longitude: 8.6427242
 postcode: 64342
 city: Seeheim-Jugenheim
-street: Am Grundweg
+street: "Am Grundweg"
 housenumber: 14
 phone: "+49 6257 868636"
 opening_hours: "Mo-Fr 07:00-13:00,13:30-18:00; Sa 06:00-13:00"

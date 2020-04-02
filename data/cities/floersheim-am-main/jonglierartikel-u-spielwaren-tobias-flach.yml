@@ -5,7 +5,7 @@ latitude: 50.045041700000006
 longitude: 8.4398602
 postcode: 65439
 city: Flörsheim am Main
-street: Josef-Theis-Straße
+street: "Josef-Theis-Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

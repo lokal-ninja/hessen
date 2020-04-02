@@ -5,7 +5,7 @@ latitude: 51.2282226
 longitude: 9.6578503
 postcode: 34298
 city: Helsa
-street: Welleroder Weg
+street: "Welleroder Weg"
 housenumber: 15
 phone: "+49 5602 915402"
 opening_hours: "Mo-Fr 08:00-18:30; Sa 07:30-16:00"

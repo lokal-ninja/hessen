@@ -5,7 +5,7 @@ latitude: 51.500332400000005
 longitude: 9.3928872
 postcode: 34369
 city: Hofgeismar
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 17
 phone: "+49 5671 80000"
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su off"

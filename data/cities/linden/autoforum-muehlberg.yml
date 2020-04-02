@@ -5,7 +5,7 @@ latitude: 50.5364279
 longitude: 8.674465300000001
 postcode: 35440
 city: Linden
-street: Gießener Straße
+street: "Gießener Straße"
 housenumber: 96
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.6376785
 longitude: 9.397289800000001
 postcode: 36341
 city: Lauterbach
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

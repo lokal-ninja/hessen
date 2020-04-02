@@ -5,7 +5,7 @@ latitude: 50.5490562
 longitude: 9.672334300000001
 postcode: 36037
 city: Fulda
-street: Am Rosengarten
+street: "Am Rosengarten"
 housenumber: 16
 phone: ""
 opening_hours: ""

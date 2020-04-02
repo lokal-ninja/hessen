@@ -5,7 +5,7 @@ latitude: 50.0669173
 longitude: 8.9683734
 postcode: 63512
 city: Hainburg
-street: Siemensstraße
+street: "Siemensstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

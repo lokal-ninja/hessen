@@ -5,7 +5,7 @@ latitude: 50.014123000000005
 longitude: 8.263737
 postcode: 55118
 city: Mainz
-street: Taunusstraße
+street: "Taunusstraße"
 housenumber: 72
 phone: "+49 6131 227063"
 opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"

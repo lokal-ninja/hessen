@@ -5,7 +5,7 @@ latitude: 50.1484254
 longitude: 8.6914228
 postcode: 60435
 city: Frankfurt am Main
-street: Theobald-Ziegler-Straße
+street: "Theobald-Ziegler-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

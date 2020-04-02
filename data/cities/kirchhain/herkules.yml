@@ -5,7 +5,7 @@ latitude: 50.8202882
 longitude: 8.9402957
 postcode: 35274
 city: Kirchhain
-street: Fuldaer Straße
+street: "Fuldaer Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

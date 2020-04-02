@@ -5,7 +5,7 @@ latitude: 50.487329100000004
 longitude: 9.708680000000001
 postcode: 36124
 city: Eichenzell
-street: Rhönhof
+street: "Rhönhof"
 housenumber: 8
 phone: "+49 6659 618314"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"

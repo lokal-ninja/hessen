@@ -5,7 +5,7 @@ latitude: 50.617901100000005
 longitude: 8.7373106
 postcode: 35418
 city: Buseck
-street: Kiesacker
+street: "Kiesacker"
 housenumber: 6
 phone: "+49 6408 - 54 75 70"
 opening_hours: ""

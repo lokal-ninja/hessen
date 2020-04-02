@@ -5,7 +5,7 @@ latitude: 50.635708300000005
 longitude: 9.396159200000001
 postcode: 36341
 city: Lauterbach
-street: Eisenbacher Tor
+street: "Eisenbacher Tor"
 housenumber: 14
 phone: ""
 opening_hours: ""

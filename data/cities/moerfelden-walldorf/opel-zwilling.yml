@@ -5,7 +5,7 @@ latitude: 49.9796873
 longitude: 8.5812792
 postcode: 64546
 city: Mörfelden-Walldorf
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 3
 phone: "+49 6105 22229"
 opening_hours: "Mo-Th 07:30-18:30; Fr 07:30-18:00; Sa 09:00-13:00"

@@ -5,7 +5,7 @@ latitude: 49.684572100000004
 longitude: 8.779662100000001
 postcode: 64678
 city: Lindenfels
-street: Schlierbacher Weg
+street: "Schlierbacher Weg"
 housenumber: 4
 phone: ""
 opening_hours: ""

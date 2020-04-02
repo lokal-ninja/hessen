@@ -5,7 +5,7 @@ latitude: 50.269706600000006
 longitude: 9.375001000000001
 postcode: 63628
 city: Bad Soden-Salmünster
-street: Am Palmusacker
+street: "Am Palmusacker"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"

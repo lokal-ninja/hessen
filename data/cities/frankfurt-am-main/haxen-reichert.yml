@@ -5,7 +5,7 @@ latitude: 50.1022728
 longitude: 8.548052100000001
 postcode: 65929
 city: Frankfurt am Main
-street: Königsteiner Straße
+street: "Königsteiner Straße"
 housenumber: 24a
 phone: ""
 opening_hours: ""

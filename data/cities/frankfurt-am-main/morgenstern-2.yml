@@ -5,7 +5,7 @@ latitude: 50.0785591
 longitude: 8.6475335
 postcode: 60528
 city: Frankfurt am Main
-street: Gerauer Straße
+street: "Gerauer Straße"
 housenumber: 100
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa-Su 07:00-15:00"

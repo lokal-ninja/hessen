@@ -5,7 +5,7 @@ latitude: 50.9971527
 longitude: 9.146395700000001
 postcode: 34632
 city: Jesberg
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 3
 phone: "+496695 268"
 opening_hours: "Mo-Fr 08:00-17:00"

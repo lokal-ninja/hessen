@@ -5,7 +5,7 @@ latitude: 50.550484100000006
 longitude: 9.6824639
 postcode: 36037
 city: Fulda
-street: Vor dem Peterstor
+street: "Vor dem Peterstor"
 housenumber: 5
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.1165181
 longitude: 9.657001300000001
 postcode: 34286
 city: Spangenberg
-street: Berliner Straße
+street: "Berliner Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

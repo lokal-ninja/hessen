@@ -5,7 +5,7 @@ latitude: 50.208500400000005
 longitude: 9.2328633
 postcode: 63571
 city: Gelnhausen
-street: Leipziger Allee
+street: "Leipziger Allee"
 housenumber: 51
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 49.80543
 longitude: 8.4602549
 postcode: 64589
 city: Stockstadt am Rhein
-street: Südstraße
+street: "Südstraße"
 housenumber: 23
 phone: "+49 6158 99239-0"
 opening_hours: ""

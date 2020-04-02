@@ -5,7 +5,7 @@ latitude: 50.5743154
 longitude: 8.706610300000001
 postcode: 35394
 city: Gießen
-street: An der Automeile
+street: "An der Automeile"
 housenumber: 6
 phone: "+49 641 32052843"
 opening_hours: ""

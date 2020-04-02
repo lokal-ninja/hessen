@@ -5,7 +5,7 @@ latitude: 50.0620946
 longitude: 8.2617241
 postcode: 65189
 city: Wiesbaden
-street: Andreas-Schlüter-Straße
+street: "Andreas-Schlüter-Straße"
 housenumber: 1
 phone: "+49 611 74998"
 opening_hours: ""

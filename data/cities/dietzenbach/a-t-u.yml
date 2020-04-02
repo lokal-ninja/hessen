@@ -5,7 +5,7 @@ latitude: 50.0139939
 longitude: 8.7944419
 postcode: 63128
 city: Dietzenbach
-street: Elisabeth-Selbert-Straße
+street: "Elisabeth-Selbert-Straße"
 housenumber: 2a
 phone: "+49 6074 2113649"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-16:00"

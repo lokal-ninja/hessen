@@ -5,7 +5,7 @@ latitude: 49.898677400000004
 longitude: 8.6100853
 postcode: 64331
 city: Weiterstadt
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 4
 phone: "+49 6151 893403"
 opening_hours: "Mo-Fr 8:00-12:00, 13:00-18:00"

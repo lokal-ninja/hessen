@@ -5,7 +5,7 @@ latitude: 50.199517400000005
 longitude: 9.177437000000001
 postcode: 63571
 city: Gelnhausen
-street: Fischerweg
+street: "Fischerweg"
 housenumber: 8
 phone: ""
 opening_hours: ""

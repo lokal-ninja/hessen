@@ -5,7 +5,7 @@ latitude: 50.2261449
 longitude: 9.348265900000001
 postcode: 63619
 city: Bad Orb
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 28
 phone: ""
 opening_hours: ""

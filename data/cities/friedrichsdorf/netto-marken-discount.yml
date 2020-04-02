@@ -5,7 +5,7 @@ latitude: 50.2573012
 longitude: 8.6801939
 postcode: 61381
 city: Friedrichsdorf
-street: Rodheimer Straße
+street: "Rodheimer Straße"
 housenumber: 46
 phone: ""
 opening_hours: "mo-sa; 07:00-21:00"

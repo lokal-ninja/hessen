@@ -5,7 +5,7 @@ latitude: 50.2003155
 longitude: 8.581660000000001
 postcode: 61440
 city: Oberursel
-street: Oberhöchstadter Straße
+street: "Oberhöchstadter Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00;Sa 10:00-13:00"

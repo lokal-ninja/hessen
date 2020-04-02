@@ -5,7 +5,7 @@ latitude: 50.544001
 longitude: 8.5347208
 postcode: 35578
 city: Wetzlar
-street: Unter dem Nußbaum
+street: "Unter dem Nußbaum"
 housenumber: 12
 phone: "+49 6441 77788"
 opening_hours: "Tu-Fr 08:00-18:00; Sa 07:00-14:00"

@@ -5,7 +5,7 @@ latitude: 50.4316571
 longitude: 8.4955776
 postcode: 35647
 city: Waldsolms
-street: Hasselborner Straße
+street: "Hasselborner Straße"
 housenumber: 13
 phone: ""
 opening_hours: "07:00-20:00"

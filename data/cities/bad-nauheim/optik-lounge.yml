@@ -5,7 +5,7 @@ latitude: 50.381111800000006
 longitude: 8.7234877
 postcode: 61231
 city: Bad Nauheim
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 279
 phone: ""
 opening_hours: ""

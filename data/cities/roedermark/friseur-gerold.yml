@@ -5,7 +5,7 @@ latitude: 49.972029400000004
 longitude: 8.794992500000001
 postcode: 63322
 city: Rödermark
-street: Konrad-Adenauer-Straße
+street: "Konrad-Adenauer-Straße"
 housenumber: 11
 phone: "+496074 847186"
 opening_hours: ""

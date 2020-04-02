@@ -5,7 +5,7 @@ latitude: 50.146239
 longitude: 8.6820734
 postcode: 60435
 city: Frankfurt am Main
-street: Eckenheimer Landstraße
+street: "Eckenheimer Landstraße"
 housenumber: 425
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"

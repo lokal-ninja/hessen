@@ -5,7 +5,7 @@ latitude: 51.314944700000005
 longitude: 9.4932373
 postcode: 34117
 city: Kassel
-street: Wolfsschlucht
+street: "Wolfsschlucht"
 housenumber: 17
 phone: "+49 561 700090"
 opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00"

@@ -5,7 +5,7 @@ latitude: 50.118891000000005
 longitude: 8.527894700000001
 postcode: 65843
 city: Sulzbach (Taunus)
-street: Am Main-Taunus-Zentrum
+street: "Am Main-Taunus-Zentrum"
 housenumber: 
 phone: "+49 69 97766920"
 opening_hours: "Mo-We 10:00-21:00; Th-Sa 10:00-23:00"

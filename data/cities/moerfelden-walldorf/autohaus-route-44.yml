@@ -5,7 +5,7 @@ latitude: 49.9860011
 longitude: 8.5819325
 postcode: 64546
 city: Mörfelden-Walldorf
-street: Starkenburgstraße
+street: "Starkenburgstraße"
 housenumber: 10
 phone: "+49 6105 40000"
 opening_hours: ""

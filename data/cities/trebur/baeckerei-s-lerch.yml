@@ -5,7 +5,7 @@ latitude: 49.9252936
 longitude: 8.403467800000001
 postcode: 65468
 city: Trebur
-street: Rüsselsheimer Straße
+street: "Rüsselsheimer Straße"
 housenumber: 1
 phone: ""
 opening_hours: ""

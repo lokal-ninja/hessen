@@ -5,7 +5,7 @@ latitude: 50.0458708
 longitude: 8.2183683
 postcode: 65203
 city: Wiesbaden
-street: Äppelallee
+street: "Äppelallee"
 housenumber: 69
 phone: ""
 opening_hours: ""

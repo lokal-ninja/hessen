@@ -5,7 +5,7 @@ latitude: 49.9612956
 longitude: 8.9535364
 postcode: 64832
 city: Babenhausen
-street: Fahrstraße
+street: "Fahrstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"

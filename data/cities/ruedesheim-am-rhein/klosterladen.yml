@@ -5,7 +5,7 @@ latitude: 49.992205500000004
 longitude: 7.927405
 postcode: 65385
 city: Rüdesheim am Rhein
-street: Klosterweg
+street: "Klosterweg"
 housenumber: 1
 phone: "+49 6722 499116"
 opening_hours: ""

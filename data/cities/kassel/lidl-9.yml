@@ -5,7 +5,7 @@ latitude: 51.3012523
 longitude: 9.5295213
 postcode: 34123
 city: Kassel
-street: Ochshäuser Straße
+street: "Ochshäuser Straße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

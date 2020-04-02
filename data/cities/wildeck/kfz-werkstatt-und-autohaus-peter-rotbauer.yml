@@ -5,7 +5,7 @@ latitude: 50.936482700000006
 longitude: 9.9346397
 postcode: 36208
 city: Wildeck
-street: Thüringer Straße
+street: "Thüringer Straße"
 housenumber: 1A
 phone: "+49 6678 347"
 opening_hours: "Mo-Th 08:00-18:00, Fr 08:00-15:00, Sa-Su closed"

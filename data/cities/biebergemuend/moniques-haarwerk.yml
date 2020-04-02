@@ -5,7 +5,7 @@ latitude: 50.2033488
 longitude: 9.2838317
 postcode: 63599
 city: Biebergemünd
-street: Elisabethenstraße
+street: "Elisabethenstraße"
 housenumber: 5
 phone: "+49 6050 7510"
 opening_hours: ""

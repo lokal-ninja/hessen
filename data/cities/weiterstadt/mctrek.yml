@@ -5,7 +5,7 @@ latitude: 49.8965046
 longitude: 8.6094225
 postcode: 64331
 city: Weiterstadt
-street: Robert-Koch-Straße
+street: "Robert-Koch-Straße"
 housenumber: 6-16
 phone: "+49 (0) 61 51 . 39 79 777"
 opening_hours: "Mo-Sa 10:00-20:00"

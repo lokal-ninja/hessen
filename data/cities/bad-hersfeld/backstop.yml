@@ -5,7 +5,7 @@ latitude: 50.8691132
 longitude: 9.768163900000001
 postcode: 36251
 city: Bad Hersfeld
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 36
 phone: "+49 6621 794135"
 opening_hours: ""

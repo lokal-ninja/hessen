@@ -5,7 +5,7 @@ latitude: 51.004223
 longitude: 9.4767399
 postcode: 34593
 city: Knüllwald
-street: Lange Straße
+street: "Lange Straße"
 housenumber: 20
 phone: "+49 5681 2444"
 opening_hours: "Tu-Su 07:45-18:00; Sa 07:45-13:00"

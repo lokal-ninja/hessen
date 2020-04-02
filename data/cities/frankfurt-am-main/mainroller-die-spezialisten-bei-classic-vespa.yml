@@ -5,7 +5,7 @@ latitude: 50.114791200000006
 longitude: 8.7109279
 postcode: 60385
 city: Frankfurt am Main
-street: Ostparkstraße
+street: "Ostparkstraße"
 housenumber: 25
 phone: ""
 opening_hours: ""

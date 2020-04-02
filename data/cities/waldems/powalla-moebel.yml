@@ -5,7 +5,7 @@ latitude: 50.274958000000005
 longitude: 8.3534512
 postcode: 65529
 city: Waldems
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

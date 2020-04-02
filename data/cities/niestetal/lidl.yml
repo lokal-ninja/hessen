@@ -5,7 +5,7 @@ latitude: 51.316160100000005
 longitude: 9.5429882
 postcode: 34266
 city: Niestetal
-street: Egon-Höhmann-Straße
+street: "Egon-Höhmann-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

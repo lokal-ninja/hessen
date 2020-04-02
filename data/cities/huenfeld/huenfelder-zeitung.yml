@@ -5,7 +5,7 @@ latitude: 50.672288900000005
 longitude: 9.7658837
 postcode: 36088
 city: Hünfeld
-street: Fuldaer Berg
+street: "Fuldaer Berg"
 housenumber: 46
 phone: "+49 6652 96640"
 opening_hours: ""

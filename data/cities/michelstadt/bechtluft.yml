@@ -5,7 +5,7 @@ latitude: 49.6837
 longitude: 9.0036938
 postcode: 64720
 city: Michelstadt
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

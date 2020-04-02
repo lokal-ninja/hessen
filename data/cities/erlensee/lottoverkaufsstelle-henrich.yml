@@ -5,7 +5,7 @@ latitude: 50.169701700000005
 longitude: 8.9807161
 postcode: 63526
 city: Erlensee
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 06:00-12:30,15:00-18:00; Sa 07:00-13:00"

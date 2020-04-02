@@ -5,7 +5,7 @@ latitude: 51.3437581
 longitude: 9.8573613
 postcode: 37213
 city: Witzenhausen
-street: Brückenstraße
+street: "Brückenstraße"
 housenumber: 22
 phone: "+49 5542 6199257"
 opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; We,Sa 09:00-13:00"

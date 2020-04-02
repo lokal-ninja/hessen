@@ -5,7 +5,7 @@ latitude: 50.015528700000004
 longitude: 8.4226861
 postcode: 65439
 city: Flörsheim am Main
-street: Wickerer Straße
+street: "Wickerer Straße"
 housenumber: 50
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

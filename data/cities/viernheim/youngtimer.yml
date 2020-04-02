@@ -5,7 +5,7 @@ latitude: 49.5417776
 longitude: 8.571710900000001
 postcode: 68519
 city: Viernheim
-street: Illertstraße
+street: "Illertstraße"
 housenumber: 2
 phone: "+49 175 4225717"
 opening_hours: ""

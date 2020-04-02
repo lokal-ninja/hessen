@@ -5,7 +5,7 @@ latitude: 50.6451026
 longitude: 9.0344055
 postcode: 35325
 city: Mücke
-street: Kirschgartener Straße
+street: "Kirschgartener Straße"
 housenumber: 3
 phone: "+49 6400 - 52 84"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-16:00"

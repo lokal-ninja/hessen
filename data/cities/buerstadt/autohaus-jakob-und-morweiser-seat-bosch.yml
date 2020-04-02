@@ -5,7 +5,7 @@ latitude: 49.647988000000005
 longitude: 8.470217
 postcode: 68642
 city: Bürstadt
-street: Forsthausstraße
+street: "Forsthausstraße"
 housenumber: 18
 phone: "+49 6206 98760"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

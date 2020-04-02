@@ -5,7 +5,7 @@ latitude: 50.671523300000004
 longitude: 8.5173472
 postcode: 35644
 city: Hohenahr
-street: Gewerbestraße
+street: "Gewerbestraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.5407455
 longitude: 9.640853700000001
 postcode: 36041
 city: Fulda
-street: Paul-Klee-Straße
+street: "Paul-Klee-Straße"
 housenumber: 71
 phone: ""
 opening_hours: ""

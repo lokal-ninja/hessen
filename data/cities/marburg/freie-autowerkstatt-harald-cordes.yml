@@ -5,7 +5,7 @@ latitude: 50.801264700000004
 longitude: 8.7933904
 postcode: 35039
 city: Marburg
-street: Sonnenblickallee
+street: "Sonnenblickallee"
 housenumber: 4
 phone: ""
 opening_hours: ""

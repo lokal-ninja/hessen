@@ -5,7 +5,7 @@ latitude: 50.5030541
 longitude: 9.123659400000001
 postcode: 63679
 city: Schotten
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 6
 phone: "+49 6044 - 95 00 96"
 opening_hours: "Mo-Th 09:00-12:00,12:30-16:00, Fr 09:00-12:00, 12:30-15:00, Sa, Su closed, nach Vereinbarung"

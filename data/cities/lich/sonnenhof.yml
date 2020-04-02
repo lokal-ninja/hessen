@@ -5,7 +5,7 @@ latitude: 50.541772300000005
 longitude: 8.8883989
 postcode: 35423
 city: Lich
-street: Ettingshäuser Straße
+street: "Ettingshäuser Straße"
 housenumber: 15
 phone: ""
 opening_hours: ""

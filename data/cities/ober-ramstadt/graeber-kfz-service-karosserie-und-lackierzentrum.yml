@@ -5,7 +5,7 @@ latitude: 49.840376000000006
 longitude: 8.744836900000001
 postcode: 64372
 city: Ober-Ramstadt
-street: Im Seesengrund
+street: "Im Seesengrund"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-15:00"

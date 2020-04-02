@@ -5,7 +5,7 @@ latitude: 50.55167470000001
 longitude: 8.4281203
 postcode: 35606
 city: Solms
-street: Wetzlarer Straße
+street: "Wetzlarer Straße"
 housenumber: 51
 phone: "+49 6441 545 36"
 opening_hours: ""

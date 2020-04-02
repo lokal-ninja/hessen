@@ -5,7 +5,7 @@ latitude: 49.7089208
 longitude: 8.8478083
 postcode: 64385
 city: Reichelsheim (Odenwald)
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 28
 phone: "+49 6164/500344"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"

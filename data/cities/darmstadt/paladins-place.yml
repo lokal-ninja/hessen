@@ -5,7 +5,7 @@ latitude: 49.8708213
 longitude: 8.6565562
 postcode: 64283
 city: Darmstadt
-street: Kirchstraße
+street: "Kirchstraße"
 housenumber: 21
 phone: "+49 6151 293911"
 opening_hours: "Mo 12:00-20:00; Tu-Fr 12:00-18:30; Sa 11:00-16:00"

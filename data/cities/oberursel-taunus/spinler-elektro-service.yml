@@ -5,7 +5,7 @@ latitude: 50.226849800000004
 longitude: 8.5742372
 postcode: 61440
 city: Oberursel (Taunus)
-street: Pfarrstraße
+street: "Pfarrstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

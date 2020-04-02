@@ -5,7 +5,7 @@ latitude: 50.0546668
 longitude: 8.310202
 postcode: 65205
 city: Wiesbaden
-street: Krautgartenstraße
+street: "Krautgartenstraße"
 housenumber: 36
 phone: "+49 611 716500"
 opening_hours: ""

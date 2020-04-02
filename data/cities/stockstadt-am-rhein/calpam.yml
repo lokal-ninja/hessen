@@ -5,7 +5,7 @@ latitude: 49.8137744
 longitude: 8.470173
 postcode: 64589
 city: Stockstadt am Rhein
-street: Vorderstraße
+street: "Vorderstraße"
 housenumber: 44
 phone: "+49 6158 84330"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.5527778
 longitude: 9.680930400000001
 postcode: 36037
 city: Fulda
-street: Lindenstraße
+street: "Lindenstraße"
 housenumber: 12
 phone: ""
 opening_hours: ""

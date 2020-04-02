@@ -5,7 +5,7 @@ latitude: 50.546012000000005
 longitude: 9.673933100000001
 postcode: 36041
 city: Fulda
-street: Kothenbachweg
+street: "Kothenbachweg"
 housenumber: 4
 phone: "+49 661 90190315"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-19:00"

@@ -5,7 +5,7 @@ latitude: 50.5280117
 longitude: 9.6834669
 postcode: 36043
 city: Fulda
-street: Ferdinand-Schneider-Straße
+street: "Ferdinand-Schneider-Straße"
 housenumber: 2
 phone: "+49 661 9429797"
 opening_hours: "Mo - Fr 10:00 - 19:00, Sa 9:00 - 15:00"

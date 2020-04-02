@@ -5,7 +5,7 @@ latitude: 49.8776595
 longitude: 8.6575705
 postcode: 64289
 city: Darmstadt
-street: Lauteschlägerstraße
+street: "Lauteschlägerstraße"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:30-13:00, Th-Fr 15:00-18:00; Su,PH off"

@@ -5,7 +5,7 @@ latitude: 50.3343708
 longitude: 8.5370775
 postcode: 61250
 city: Usingen
-street: Obergasse
+street: "Obergasse"
 housenumber: 2
 phone: "+49 6081 2417"
 opening_hours: "Mo-Sa 07:00-19:00; Su,PH 09:00-19:00"

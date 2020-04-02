@@ -5,7 +5,7 @@ latitude: 50.100273
 longitude: 8.6865375
 postcode: 60594
 city: Frankfurt am Main
-street: Hedderichstraße
+street: "Hedderichstraße"
 housenumber: 47-49
 phone: "+49 69 60329929"
 opening_hours: "Mo-Su 08:00-21:00"

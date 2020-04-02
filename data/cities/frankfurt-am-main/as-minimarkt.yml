@@ -5,7 +5,7 @@ latitude: 50.125398700000005
 longitude: 8.643298600000001
 postcode: 60487
 city: Frankfurt am Main
-street: Basaltstraße
+street: "Basaltstraße"
 housenumber: 29
 phone: ""
 opening_hours: "Mo-Fr 08:00-13:00,15:00-23:00; Sa 08:00-11:00,17:00-23:00; Su 08:00-23:00"

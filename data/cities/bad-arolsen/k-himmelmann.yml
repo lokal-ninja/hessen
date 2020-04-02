@@ -5,7 +5,7 @@ latitude: 51.3835338
 longitude: 9.0135796
 postcode: 34454
 city: Bad Arolsen
-street: Rauchstraße
+street: "Rauchstraße"
 housenumber: 25a
 phone: ""
 opening_hours: ""

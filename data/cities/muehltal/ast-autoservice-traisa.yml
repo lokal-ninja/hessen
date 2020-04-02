@@ -5,7 +5,7 @@ latitude: 49.838517700000004
 longitude: 8.7024337
 postcode: 64367
 city: Mühltal
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 83
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"

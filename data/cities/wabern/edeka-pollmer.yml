@@ -5,7 +5,7 @@ latitude: 51.103003400000006
 longitude: 9.3478721
 postcode: 34590
 city: Wabern
-street: Landgrafenstraße
+street: "Landgrafenstraße"
 housenumber: 2
 phone: "+49 5683 342"
 opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"

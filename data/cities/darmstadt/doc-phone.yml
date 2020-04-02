@@ -5,7 +5,7 @@ latitude: 49.870468
 longitude: 8.644833
 postcode: 64283
 city: Darmstadt
-street: Neckarstraße
+street: "Neckarstraße"
 housenumber: 5
 phone: ""
 opening_hours: ""

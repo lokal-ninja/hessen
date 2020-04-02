@@ -5,7 +5,7 @@ latitude: 50.622935600000005
 longitude: 9.7288876
 postcode: 36100
 city: Petersberg
-street: Josef-Damian-Schmitt-Straße
+street: "Josef-Damian-Schmitt-Straße"
 housenumber: 1a
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

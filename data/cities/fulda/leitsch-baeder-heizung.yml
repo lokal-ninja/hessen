@@ -5,7 +5,7 @@ latitude: 50.529365500000004
 longitude: 9.679165300000001
 postcode: 36043
 city: Fulda
-street: Jordanisstraße
+street: "Jordanisstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

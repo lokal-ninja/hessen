@@ -5,7 +5,7 @@ latitude: 50.273792900000004
 longitude: 9.3756301
 postcode: 63628
 city: Bad Soden-Salmünster
-street: Spessartstraße
+street: "Spessartstraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

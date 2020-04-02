@@ -5,7 +5,7 @@ latitude: 49.852659
 longitude: 8.6580707
 postcode: 64285
 city: Darmstadt
-street: Klappacher Straße
+street: "Klappacher Straße"
 housenumber: 122-124
 phone: "+49 6151 6013322"
 opening_hours: "Mo-Fr 9:00 -18:00, Sa 9:00 -14:00"

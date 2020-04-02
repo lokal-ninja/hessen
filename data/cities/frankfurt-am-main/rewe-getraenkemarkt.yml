@@ -5,7 +5,7 @@ latitude: 50.160051800000005
 longitude: 8.6883888
 postcode: 60435
 city: Frankfurt am Main
-street: Am Dachsberg
+street: "Am Dachsberg"
 housenumber: 202a
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

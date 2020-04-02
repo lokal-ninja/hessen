@@ -5,7 +5,7 @@ latitude: 50.8836084
 longitude: 9.862316900000001
 postcode: 36289
 city: Friedewald
-street: Hönebacher Straße
+street: "Hönebacher Straße"
 housenumber: 15
 phone: "+49 6674 918577"
 opening_hours: ""

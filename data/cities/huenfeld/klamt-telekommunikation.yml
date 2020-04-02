@@ -5,7 +5,7 @@ latitude: 50.673287800000004
 longitude: 9.7663664
 postcode: 36088
 city: Hünfeld
-street: Mittelstraße
+street: "Mittelstraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

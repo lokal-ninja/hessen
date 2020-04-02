@@ -5,7 +5,7 @@ latitude: 49.832910700000006
 longitude: 8.7353577
 postcode: 64372
 city: Ober-Ramstadt
-street: Gräfenbergweg
+street: "Gräfenbergweg"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

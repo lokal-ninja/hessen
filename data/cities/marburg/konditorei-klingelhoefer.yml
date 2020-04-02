@@ -5,7 +5,7 @@ latitude: 50.8044693
 longitude: 8.7655122
 postcode: 35037
 city: Marburg
-street: Haspelstraße
+street: "Haspelstraße"
 housenumber: 21
 phone: "+49 6421 23372"
 opening_hours: "Tu-Su 08:00-18:00; Mo off"

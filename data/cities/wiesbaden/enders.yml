@@ -5,7 +5,7 @@ latitude: 50.0431967
 longitude: 8.219438400000001
 postcode: 65203
 city: Wiesbaden
-street: Carl-Bosch-Straße
+street: "Carl-Bosch-Straße"
 housenumber: 9
 phone: "+49-611-928140"
 opening_hours: ""

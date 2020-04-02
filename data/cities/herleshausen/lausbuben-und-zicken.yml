@@ -5,7 +5,7 @@ latitude: 51.0063643
 longitude: 10.161904600000002
 postcode: 37293
 city: Herleshausen
-street: Am Anger
+street: "Am Anger"
 housenumber: 6
 phone: "+49 1577 1725271"
 opening_hours: ""

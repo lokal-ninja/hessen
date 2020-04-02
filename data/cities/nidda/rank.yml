@@ -5,7 +5,7 @@ latitude: 50.4128667
 longitude: 9.0086659
 postcode: 63667
 city: Nidda
-street: Markt
+street: "Markt"
 housenumber: 24
 phone: "+49 6043 96530"
 opening_hours: ""

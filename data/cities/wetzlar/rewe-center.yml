@@ -5,7 +5,7 @@ latitude: 50.55024280000001
 longitude: 8.4714504
 postcode: 35578
 city: Wetzlar
-street: Westendstraße
+street: "Westendstraße"
 housenumber: 2 - 4
 phone: ""
 opening_hours: "Mo-Sa 06:00-22:00"

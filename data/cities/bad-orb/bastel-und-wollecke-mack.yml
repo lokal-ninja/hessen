@@ -5,7 +5,7 @@ latitude: 50.225098700000004
 longitude: 9.348059600000001
 postcode: 63619
 city: Bad Orb
-street: Obertorstraße
+street: "Obertorstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

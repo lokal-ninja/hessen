@@ -5,7 +5,7 @@ latitude: 51.2898864
 longitude: 9.4716819
 postcode: 34134
 city: Kassel
-street: Töpfenhofweg
+street: "Töpfenhofweg"
 housenumber: 4
 phone: ""
 opening_hours: "Mo-Sa 07:30-22:00"

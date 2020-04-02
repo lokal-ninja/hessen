@@ -5,7 +5,7 @@ latitude: 49.9908465
 longitude: 7.9773092000000005
 postcode: 65366
 city: Geisenheim
-street: Industriestraße
+street: "Industriestraße"
 housenumber: 8
 phone: ""
 opening_hours: ""

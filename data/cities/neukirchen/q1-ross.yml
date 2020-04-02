@@ -5,7 +5,7 @@ latitude: 50.8721175
 longitude: 9.336299200000001
 postcode: 34626
 city: Neukirchen
-street: Niederrheinische Straße
+street: "Niederrheinische Straße"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 06:00-20:00; Sa 07:30-20:00; Su 08:00-19:00"

@@ -5,7 +5,7 @@ latitude: 50.353960900000004
 longitude: 8.7647803
 postcode: 61231
 city: Bad Nauheim
-street: Schwalheimer Hauptstraße
+street: "Schwalheimer Hauptstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Tu-Fr 14:00-19:00; Sa 07:30-14:00; Mo off"

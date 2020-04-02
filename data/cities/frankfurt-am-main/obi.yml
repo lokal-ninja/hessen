@@ -5,7 +5,7 @@ latitude: 50.0950062
 longitude: 8.6830034
 postcode: 60598
 city: Frankfurt am Main
-street: Mörfelder Landstraße
+street: "Mörfelder Landstraße"
 housenumber: 129
 phone: "+49 (0)69 6605683"
 opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-21:00"

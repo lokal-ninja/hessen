@@ -5,7 +5,7 @@ latitude: 51.126087500000004
 longitude: 9.2830337
 postcode: 34560
 city: Fritzlar
-street: Waberner Straße
+street: "Waberner Straße"
 housenumber: 8
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"

@@ -5,7 +5,7 @@ latitude: 50.1826073
 longitude: 8.465791000000001
 postcode: 61462
 city: Königstein im Taunus
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 16
 phone: ""
 opening_hours: ""

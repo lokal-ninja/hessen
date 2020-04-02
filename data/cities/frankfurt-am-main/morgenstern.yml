@@ -5,7 +5,7 @@ latitude: 50.083999500000004
 longitude: 8.6386155
 postcode: 60528
 city: Frankfurt am Main
-street: Melibocusstraße
+street: "Melibocusstraße"
 housenumber: 35d
 phone: ""
 opening_hours: "Mo-Fr 06:00-18:30; Sa-Su 07:00-15:00"

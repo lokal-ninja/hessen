@@ -5,7 +5,7 @@ latitude: 50.6048278
 longitude: 8.9572103
 postcode: 35305
 city: Grünberg
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 20
 phone: "+49 6401 220004"
 opening_hours: ""

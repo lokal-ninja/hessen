@@ -5,7 +5,7 @@ latitude: 50.560368000000004
 longitude: 9.677617000000001
 postcode: 36039
 city: Fulda
-street: Boyneburgstraße
+street: "Boyneburgstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

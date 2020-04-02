@@ -5,7 +5,7 @@ latitude: 49.8714413
 longitude: 8.6539164
 postcode: 64283
 city: Darmstadt
-street: Ernst-Ludwig-Straße
+street: "Ernst-Ludwig-Straße"
 housenumber: 
 phone: "+49 6151 4920503"
 opening_hours: "Mo-Sa 10:00-19:00; PH off"

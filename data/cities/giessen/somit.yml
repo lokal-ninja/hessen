@@ -5,7 +5,7 @@ latitude: 50.5676222
 longitude: 8.692511900000001
 postcode: 
 city: Gießen
-street: Pistorstraße
+street: "Pistorstraße"
 housenumber: 9
 phone: ""
 opening_hours: ""

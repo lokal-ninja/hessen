@@ -5,7 +5,7 @@ latitude: 51.1299459
 longitude: 9.436998800000001
 postcode: 34587
 city: Felsberg
-street: Karthäuser Straße
+street: "Karthäuser Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

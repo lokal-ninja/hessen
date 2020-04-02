@@ -5,7 +5,7 @@ latitude: 50.1518092
 longitude: 8.1987272
 postcode: 65232
 city: Taunusstein
-street: Platter Straße
+street: "Platter Straße"
 housenumber: 86a
 phone: "+49 61 28 859 43 10"
 opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-15:00"

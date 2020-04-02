@@ -5,7 +5,7 @@ latitude: 50.0713645
 longitude: 8.473897800000001
 postcode: 65795
 city: Hattersheim
-street: Heddingheimer Straße
+street: "Heddingheimer Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

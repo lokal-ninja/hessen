@@ -5,7 +5,7 @@ latitude: 50.555002
 longitude: 9.714047200000001
 postcode: 36100
 city: Petersberg
-street: Alte Ziegelei
+street: "Alte Ziegelei"
 housenumber: 7
 phone: ""
 opening_hours: ""

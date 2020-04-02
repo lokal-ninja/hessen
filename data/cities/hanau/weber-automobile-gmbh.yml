@@ -5,7 +5,7 @@ latitude: 50.145360800000006
 longitude: 8.921999300000001
 postcode: 63452
 city: Hanau
-street: Martin-Luther-King-Straße
+street: "Martin-Luther-King-Straße"
 housenumber: 10
 phone: ""
 opening_hours: "Mo-Fr 07:00-18:30 Sa 09:00-14:00"

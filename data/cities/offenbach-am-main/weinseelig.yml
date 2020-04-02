@@ -5,7 +5,7 @@ latitude: 50.0974401
 longitude: 8.7630342
 postcode: 63069
 city: Offenbach am Main
-street: Hermannstraße
+street: "Hermannstraße"
 housenumber: 2
 phone: ""
 opening_hours: "Tu 17:00-23:00, Fr 16:00-23:00"

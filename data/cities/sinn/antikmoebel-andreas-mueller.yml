@@ -5,7 +5,7 @@ latitude: 50.6497509
 longitude: 8.330526800000001
 postcode: 35764
 city: Sinn
-street: Hofstraße
+street: "Hofstraße"
 housenumber: 9
 phone: "+49 2772 52890"
 opening_hours: "Mo-Th 08:00-12:00,14:00-17:00; Fr 08:00-12:00,14:00-18:00"

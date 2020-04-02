@@ -5,7 +5,7 @@ latitude: 50.874523
 longitude: 8.444116900000001
 postcode: 35236
 city: Breidenbach
-street: Sellbachsweg
+street: "Sellbachsweg"
 housenumber: 2
 phone: "+49 6465 7105"
 opening_hours: "Mo-Fr 07:30-09:45,10:00-12:00,13:00-16:30; PH off"

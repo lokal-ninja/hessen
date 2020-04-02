@@ -5,7 +5,7 @@ latitude: 50.101211000000006
 longitude: 8.6323202
 postcode: 60326
 city: Frankfurt am Main
-street: Mainzer Landstraße
+street: "Mainzer Landstraße"
 housenumber: 377
 phone: "+49 800 4353361"
 opening_hours: "Mo-Sa 07:00-22:00"

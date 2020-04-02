@@ -5,7 +5,7 @@ latitude: 50.207574900000004
 longitude: 9.222998200000001
 postcode: 63571
 city: Gelnhausen
-street: Birsteiner Straße
+street: "Birsteiner Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

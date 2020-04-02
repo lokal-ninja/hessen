@@ -5,7 +5,7 @@ latitude: 50.3542008
 longitude: 9.051769700000001
 postcode: 63683
 city: Ortenberg
-street: Wilhelm-Leuschner-Straße
+street: "Wilhelm-Leuschner-Straße"
 housenumber: 19
 phone: ""
 opening_hours: ""

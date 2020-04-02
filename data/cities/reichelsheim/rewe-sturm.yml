@@ -5,7 +5,7 @@ latitude: 50.3598538
 longitude: 8.8715413
 postcode: 61203
 city: Reichelsheim
-street: Eichenstraße
+street: "Eichenstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 49.833322800000005
 longitude: 9.0420087
 postcode: 64747
 city: Breuberg
-street: Mainstraße
+street: "Mainstraße"
 housenumber: 
 phone: "+49 6165 912834"
 opening_hours: "Mo-Fr 06:30-11:00; Sa 6:30-12:00; Su 08:00-11:00"

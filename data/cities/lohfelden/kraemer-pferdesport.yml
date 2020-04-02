@@ -5,7 +5,7 @@ latitude: 51.269490000000005
 longitude: 9.525248600000001
 postcode: 34253
 city: Lohfelden
-street: Matthäus-Merian-Straße
+street: "Matthäus-Merian-Straße"
 housenumber: 1c
 phone: ""
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"

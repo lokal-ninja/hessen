@@ -5,7 +5,7 @@ latitude: 50.229134900000005
 longitude: 8.6116091
 postcode: 61348
 city: Bad Homburg v.d. Höhe
-street: Schulberg
+street: "Schulberg"
 housenumber: 4
 phone: "+49 6172 4535080"
 opening_hours: "Mo 09:00-18:00; Tu-Fr 09:00-19:00; Sa 09:00-17:00"

@@ -5,7 +5,7 @@ latitude: 50.1179555
 longitude: 8.8544745
 postcode: 63165
 city: Mühlheim am Main
-street: Dieselstraße
+street: "Dieselstraße"
 housenumber: 67-69
 phone: ""
 opening_hours: "Mo-Fr 07:15-18:00"

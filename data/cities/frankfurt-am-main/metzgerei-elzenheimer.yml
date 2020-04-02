@@ -5,7 +5,7 @@ latitude: 50.1087768
 longitude: 8.5325571
 postcode: 65929
 city: Frankfurt am Main
-street: Heimchenweg
+street: "Heimchenweg"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Fr 08:00-13:00, Tu- Fr 15:00-18:00; Sa 07:30-13:00"

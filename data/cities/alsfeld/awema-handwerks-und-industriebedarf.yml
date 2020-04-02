@@ -5,7 +5,7 @@ latitude: 50.7413298
 longitude: 9.259883400000001
 postcode: 36304
 city: Alsfeld
-street: Liederbacher Straße
+street: "Liederbacher Straße"
 housenumber: 16
 phone: ""
 opening_hours: ""

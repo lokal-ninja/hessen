@@ -5,7 +5,7 @@ latitude: 50.5511452
 longitude: 9.674536400000001
 postcode: 36037
 city: Fulda
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 30
 phone: ""
 opening_hours: ""

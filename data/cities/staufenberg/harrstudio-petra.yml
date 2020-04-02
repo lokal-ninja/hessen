@@ -5,7 +5,7 @@ latitude: 50.666521800000005
 longitude: 8.789060600000001
 postcode: 35460
 city: Staufenberg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 37
 phone: ""
 opening_hours: ""

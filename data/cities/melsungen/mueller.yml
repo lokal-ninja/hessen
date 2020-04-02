@@ -5,7 +5,7 @@ latitude: 51.1332912
 longitude: 9.5418379
 postcode: 34212
 city: Melsungen
-street: Sparkassenplatz
+street: "Sparkassenplatz"
 housenumber: 2
 phone: "+49 5661 928939-0"
 opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"

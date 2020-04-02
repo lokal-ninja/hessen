@@ -5,7 +5,7 @@ latitude: 49.655710600000006
 longitude: 8.5675
 postcode: 64653
 city: Lorsch
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 22
 phone: "+49 6251 57181"
 opening_hours: ""

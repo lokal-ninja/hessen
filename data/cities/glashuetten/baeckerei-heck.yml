@@ -5,7 +5,7 @@ latitude: 50.2005325
 longitude: 8.3805536
 postcode: 61479
 city: Glashütten
-street: Weiherstraße
+street: "Weiherstraße"
 housenumber: 42
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.0718424
 longitude: 9.0003083
 postcode: 63796
 city: Kahl am Main
-street: Krotzenburger Straße
+street: "Krotzenburger Straße"
 housenumber: 30-32
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

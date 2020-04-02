@@ -5,7 +5,7 @@ latitude: 49.9955342
 longitude: 8.331257800000001
 postcode: 65462
 city: Ginsheim-Gustavsburg
-street: Mierendorffstraße
+street: "Mierendorffstraße"
 housenumber: 17
 phone: ""
 opening_hours: ""

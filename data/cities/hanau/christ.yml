@@ -5,7 +5,7 @@ latitude: 50.1340653
 longitude: 8.9163484
 postcode: 63450
 city: Hanau
-street: Hammerstraße
+street: "Hammerstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

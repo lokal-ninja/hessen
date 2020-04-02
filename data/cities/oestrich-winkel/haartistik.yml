@@ -5,7 +5,7 @@ latitude: 50.006675400000006
 longitude: 8.0284346
 postcode: 65375
 city: Oestrich-Winkel
-street: Friedensplatz
+street: "Friedensplatz"
 housenumber: 23
 phone: "+49 6723 885050"
 opening_hours: ""

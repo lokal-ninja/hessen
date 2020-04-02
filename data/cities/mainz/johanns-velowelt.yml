@@ -5,7 +5,7 @@ latitude: 50.0014643
 longitude: 8.3099991
 postcode: 55246
 city: Mainz
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 85
 phone: "+4961342401010"
 opening_hours: "Tu 10:00-13:00,15:00-18:30; We 15:00-18:30; Th 10:00-13:00,15:00-18:30; Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00"

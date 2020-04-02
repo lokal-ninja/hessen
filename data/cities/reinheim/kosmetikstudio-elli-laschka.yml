@@ -5,7 +5,7 @@ latitude: 49.83121310000001
 longitude: 8.8313916
 postcode: 64354
 city: Reinheim
-street: Wingertstraße
+street: "Wingertstraße"
 housenumber: 19
 phone: "+49 6162 81232"
 opening_hours: ""

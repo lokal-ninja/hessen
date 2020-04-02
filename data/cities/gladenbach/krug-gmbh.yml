@@ -5,7 +5,7 @@ latitude: 50.7689357
 longitude: 8.580198000000001
 postcode: 35075
 city: Gladenbach
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 3
 phone: "+49 6462 92650"
 opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00; PH closed"

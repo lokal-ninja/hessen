@@ -5,7 +5,7 @@ latitude: 50.808754500000006
 longitude: 8.7696444
 postcode: 35037
 city: Marburg
-street: Barfüßerstraße
+street: "Barfüßerstraße"
 housenumber: 49
 phone: ""
 opening_hours: ""

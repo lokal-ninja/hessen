@@ -5,7 +5,7 @@ latitude: 49.8601059
 longitude: 8.5913676
 postcode: 64347
 city: Griesheim
-street: Flughafenstraße
+street: "Flughafenstraße"
 housenumber: 16
 phone: ""
 opening_hours: "09:00-20:00; Su,PH off"

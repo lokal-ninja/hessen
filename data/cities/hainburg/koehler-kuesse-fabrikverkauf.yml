@@ -5,7 +5,7 @@ latitude: 50.0749853
 longitude: 8.958253800000001
 postcode: 63512
 city: Hainburg
-street: Herderstraße
+street: "Herderstraße"
 housenumber: 31 - 33
 phone: "+49 6182 957890; +49 6182 4116; +49 6182 5611"
 opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"

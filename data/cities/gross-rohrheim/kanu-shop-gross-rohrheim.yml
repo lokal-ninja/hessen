@@ -5,7 +5,7 @@ latitude: 49.7138593
 longitude: 8.4814004
 postcode: 68649
 city: Groß-Rohrheim
-street: Brahmsweg
+street: "Brahmsweg"
 housenumber: 6
 phone: "+49 6245 905867"
 opening_hours: "th, fr 15:00-18:00; sa 10:00 - 13:00"

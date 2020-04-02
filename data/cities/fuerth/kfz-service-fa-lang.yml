@@ -5,7 +5,7 @@ latitude: 49.64582720000001
 longitude: 8.7748006
 postcode: 64658
 city: Fürth
-street: Carl-Benz-Straße
+street: "Carl-Benz-Straße"
 housenumber: 7
 phone: ""
 opening_hours: ""

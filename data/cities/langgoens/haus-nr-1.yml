@@ -5,7 +5,7 @@ latitude: 50.489299100000004
 longitude: 8.667790400000001
 postcode: 35428
 city: Langgöns
-street: Anne-Frank-Straße
+street: "Anne-Frank-Straße"
 housenumber: 1
 phone: "+49 6403 4978"
 opening_hours: ""

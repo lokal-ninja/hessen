@@ -5,7 +5,7 @@ latitude: 50.749692200000005
 longitude: 9.2692435
 postcode: 36304
 city: Alsfeld
-street: Mainzer Tor
+street: "Mainzer Tor"
 housenumber: 12
 phone: ""
 opening_hours: ""

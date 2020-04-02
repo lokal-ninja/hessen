@@ -5,7 +5,7 @@ latitude: 50.0777477
 longitude: 8.2028091
 postcode: 65199
 city: Wiesbaden
-street: Schönbergstraße
+street: "Schönbergstraße"
 housenumber: 13
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:30; PH off"

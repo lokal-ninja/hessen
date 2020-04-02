@@ -5,7 +5,7 @@ latitude: 50.596577200000006
 longitude: 9.417121400000001
 postcode: 36341
 city: Lauterbach
-street: Hohwaldstraße
+street: "Hohwaldstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.193538100000005
 longitude: 10.1016969
 postcode: 37276
 city: Meinhard
-street: Werragasse
+street: "Werragasse"
 housenumber: 1
 phone: "+49 5651 5521"
 opening_hours: ""

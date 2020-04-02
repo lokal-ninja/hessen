@@ -5,7 +5,7 @@ latitude: 49.828459200000005
 longitude: 8.834981
 postcode: 64354
 city: Reinheim
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 21
 phone: "+49 6162 9169050"
 opening_hours: ""

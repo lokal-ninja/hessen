@@ -5,7 +5,7 @@ latitude: 50.748278500000005
 longitude: 9.2733101
 postcode: 36304
 city: Alsfeld
-street: Wallgasse
+street: "Wallgasse"
 housenumber: 15
 phone: ""
 opening_hours: ""

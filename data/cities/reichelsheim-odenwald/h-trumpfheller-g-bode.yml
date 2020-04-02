@@ -5,7 +5,7 @@ latitude: 49.6606558
 longitude: 8.845031800000001
 postcode: 64385
 city: Reichelsheim (Odenwald)
-street: Erzbacher Weg
+street: "Erzbacher Weg"
 housenumber: 8
 phone: "+49-6253-5043"
 opening_hours: ""

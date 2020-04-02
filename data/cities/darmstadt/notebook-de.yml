@@ -5,7 +5,7 @@ latitude: 49.87070000000001
 longitude: 8.6479481
 postcode: 64283
 city: Darmstadt
-street: Adelungstraße
+street: "Adelungstraße"
 housenumber: 24
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

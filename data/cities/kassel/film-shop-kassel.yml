@@ -5,7 +5,7 @@ latitude: 51.320105500000004
 longitude: 9.493052800000001
 postcode: 34117
 city: Kassel
-street: Erzbergerstraße
+street: "Erzbergerstraße"
 housenumber: 12
 phone: "+49 561 17538"
 opening_hours: "Mo-Fr 18:00-21:00, Sa 15:00-21:00"

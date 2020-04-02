@@ -5,7 +5,7 @@ latitude: 51.003848600000005
 longitude: 9.470712500000001
 postcode: 34593
 city: Knüllwald
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 19
 phone: ""
 opening_hours: ""

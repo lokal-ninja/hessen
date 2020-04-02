@@ -5,7 +5,7 @@ latitude: 51.40051630000001
 longitude: 9.4709482
 postcode: 34314
 city: Espenau
-street: Neues Dörfchen
+street: "Neues Dörfchen"
 housenumber: 
 phone: "+49 5673 1458"
 opening_hours: "Su 14:00-18:00"

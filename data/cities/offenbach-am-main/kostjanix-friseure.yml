@@ -5,7 +5,7 @@ latitude: 50.104565900000004
 longitude: 8.7696927
 postcode: 63065
 city: Offenbach am Main
-street: Karlstraße
+street: "Karlstraße"
 housenumber: 49
 phone: "+49 69 36604144"
 opening_hours: "Mo-Sa 10:00-19:00"

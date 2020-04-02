@@ -5,7 +5,7 @@ latitude: 50.9062782
 longitude: 8.692920200000001
 postcode: 35083
 city: Wetter (Hessen)
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 20
 phone: ""
 opening_hours: "Mo-Fr 08:00-17:00"

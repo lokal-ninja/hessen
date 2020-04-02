@@ -5,7 +5,7 @@ latitude: 51.1326261
 longitude: 9.2747468
 postcode: 34560
 city: Fritzlar
-street: Kasseler Straße
+street: "Kasseler Straße"
 housenumber: 14
 phone: "+49 5622 790680"
 opening_hours: "Mo-We, Fr 09:30-13:00, 14:00-18:00; Sa 09:30-14:00"

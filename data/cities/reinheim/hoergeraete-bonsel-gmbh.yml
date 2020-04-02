@@ -5,7 +5,7 @@ latitude: 49.845630400000005
 longitude: 8.810407300000001
 postcode: 64354
 city: Reinheim
-street: Hirschbachstraße
+street: "Hirschbachstraße"
 housenumber: 48
 phone: "+49 6162 932490"
 opening_hours: ""

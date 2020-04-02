@@ -5,7 +5,7 @@ latitude: 50.2262806
 longitude: 9.347529100000001
 postcode: 63619
 city: Bad Orb
-street: Kanalstraße
+street: "Kanalstraße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo,Th 11:00-18:00; Sa 11:00-14:00"

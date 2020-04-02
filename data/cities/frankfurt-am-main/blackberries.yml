@@ -5,7 +5,7 @@ latitude: 50.102035300000004
 longitude: 8.662937600000001
 postcode: 
 city: Frankfurt am Main
-street: Schleusenstraße
+street: "Schleusenstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

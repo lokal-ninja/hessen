@@ -5,7 +5,7 @@ latitude: 49.646342700000005
 longitude: 8.639226
 postcode: 64646
 city: Heppenheim
-street: Darmstädter Straße
+street: "Darmstädter Straße"
 housenumber: 32-34
 phone: ""
 opening_hours: ""

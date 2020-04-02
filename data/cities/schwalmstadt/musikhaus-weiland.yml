@@ -5,7 +5,7 @@ latitude: 50.9178371
 longitude: 9.191246600000001
 postcode: 34613
 city: Schwalmstadt
-street: Friedrich-Ebert-Straße
+street: "Friedrich-Ebert-Straße"
 housenumber: 35
 phone: ""
 opening_hours: ""

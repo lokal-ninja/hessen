@@ -5,7 +5,7 @@ latitude: 49.9676952
 longitude: 8.6527767
 postcode: 63329
 city: Egelsbach
-street: Wolfsgartenstraße
+street: "Wolfsgartenstraße"
 housenumber: 2
 phone: "+49 (0)6103 204185"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.5196861
 longitude: 8.8186026
 postcode: 35423
 city: Lich
-street: Braugasse
+street: "Braugasse"
 housenumber: 9
 phone: ""
 opening_hours: ""

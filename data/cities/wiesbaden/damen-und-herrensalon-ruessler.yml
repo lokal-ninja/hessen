@@ -5,7 +5,7 @@ latitude: 50.002143700000005
 longitude: 8.3093526
 postcode: 55246
 city: Wiesbaden
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 53
 phone: ""
 opening_hours: "Tu-Fr 08:30-17:00; Sa 08:30-12:30; PH off"

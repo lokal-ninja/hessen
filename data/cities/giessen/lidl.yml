@@ -5,7 +5,7 @@ latitude: 50.594957300000004
 longitude: 8.681152800000001
 postcode: 35390
 city: Gießen
-street: Sudetenlandstraße
+street: "Sudetenlandstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

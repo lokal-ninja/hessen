@@ -5,7 +5,7 @@ latitude: 50.5965166
 longitude: 8.8189677
 postcode: 35447
 city: Reiskirchen
-street: Bänningerstraße
+street: "Bänningerstraße"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

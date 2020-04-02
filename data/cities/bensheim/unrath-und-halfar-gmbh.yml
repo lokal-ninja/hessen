@@ -5,7 +5,7 @@ latitude: 49.6696042
 longitude: 8.608449400000001
 postcode: 64625
 city: Bensheim
-street: Werner-von-Siemens-Straße
+street: "Werner-von-Siemens-Straße"
 housenumber: 37
 phone: ""
 opening_hours: ""

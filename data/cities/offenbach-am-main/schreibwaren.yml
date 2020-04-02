@@ -5,7 +5,7 @@ latitude: 50.1190646
 longitude: 8.7854481
 postcode: 63075
 city: Offenbach am Main
-street: Langstraße
+street: "Langstraße"
 housenumber: 
 phone: ""
 opening_hours: ""

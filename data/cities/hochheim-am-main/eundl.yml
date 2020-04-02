@@ -5,7 +5,7 @@ latitude: 50.0149963
 longitude: 8.364903400000001
 postcode: 65239
 city: Hochheim am Main
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 75
 phone: ""
 opening_hours: ""

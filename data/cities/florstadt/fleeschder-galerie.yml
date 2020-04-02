@@ -5,7 +5,7 @@ latitude: 50.3172325
 longitude: 8.8706976
 postcode: 61197
 city: Florstadt
-street: Kirchweg-Allee
+street: "Kirchweg-Allee"
 housenumber: 8
 phone: "+49 6035 967154"
 opening_hours: ""

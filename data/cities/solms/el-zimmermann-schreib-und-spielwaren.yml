@@ -5,7 +5,7 @@ latitude: 50.5384156
 longitude: 8.406035000000001
 postcode: 35606
 city: Solms
-street: Krautgärtenstraße
+street: "Krautgärtenstraße"
 housenumber: 8
 phone: "+49 6442 1856"
 opening_hours: ""

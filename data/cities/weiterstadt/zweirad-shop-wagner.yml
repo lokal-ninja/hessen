@@ -5,7 +5,7 @@ latitude: 49.8880934
 longitude: 8.6086747
 postcode: 64331
 city: Weiterstadt
-street: Feldstraße
+street: "Feldstraße"
 housenumber: 8
 phone: "+49 6151 21140"
 opening_hours: ""

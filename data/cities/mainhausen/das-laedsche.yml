@@ -5,7 +5,7 @@ latitude: 50.0251116
 longitude: 9.016378000000001
 postcode: 63533
 city: Mainhausen
-street: Ginkgoring
+street: "Ginkgoring"
 housenumber: 60
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00; Su,PH off"

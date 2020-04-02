@@ -5,7 +5,7 @@ latitude: 49.682255600000005
 longitude: 8.6214916
 postcode: 64625
 city: Bensheim
-street: Dalbergergasse
+street: "Dalbergergasse"
 housenumber: 5
 phone: "+49 6251 8606627"
 opening_hours: "Mo-Sa 10:00-20:00, Su off"

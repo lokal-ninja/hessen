@@ -5,7 +5,7 @@ latitude: 50.103974
 longitude: 8.765766000000001
 postcode: 63065
 city: Offenbach am Main
-street: Wilhelmsplatz
+street: "Wilhelmsplatz"
 housenumber: 10
 phone: ""
 opening_hours: "Mo 15:00-19:00; Tu-Fr 10:00-19:00; Sa 09:00-16:00"

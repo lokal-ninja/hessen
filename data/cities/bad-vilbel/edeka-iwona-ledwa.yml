@@ -5,7 +5,7 @@ latitude: 50.17394650000001
 longitude: 8.7171359
 postcode: 61118
 city: Bad Vilbel
-street: Otto-Fricke-Straße
+street: "Otto-Fricke-Straße"
 housenumber: 107
 phone: "+49 6101 84661"
 opening_hours: ""

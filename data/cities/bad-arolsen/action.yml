@@ -5,7 +5,7 @@ latitude: 51.3825239
 longitude: 9.011931200000001
 postcode: 34454
 city: Bad Arolsen
-street: Varnhagenstraße
+street: "Varnhagenstraße"
 housenumber: 9
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"

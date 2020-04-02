@@ -5,7 +5,7 @@ latitude: 50.517645900000005
 longitude: 8.3926935
 postcode: 35619
 city: Braunfels
-street: Kaiser-Friedrich-Straße
+street: "Kaiser-Friedrich-Straße"
 housenumber: 1 a
 phone: ""
 opening_hours: ""

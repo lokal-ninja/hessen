@@ -5,7 +5,7 @@ latitude: 50.8166511
 longitude: 8.7695548
 postcode: 35037
 city: Marburg
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 8
 phone: "+49 6421 65523"
 opening_hours: "Mo-Fr 8:00-18:00;Sa 09:00-13:00"

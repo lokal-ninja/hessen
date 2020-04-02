@@ -5,7 +5,7 @@ latitude: 50.3473957
 longitude: 9.5258793
 postcode: 36381
 city: Schlüchtern
-street: Wassergasse
+street: "Wassergasse"
 housenumber: 15
 phone: ""
 opening_hours: "Mo-Sa. 9:30 - 19:00"

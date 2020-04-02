@@ -5,7 +5,7 @@ latitude: 51.412019300000004
 longitude: 9.119956100000001
 postcode: 34471
 city: Volkmarsen
-street: Gerichtsstraße
+street: "Gerichtsstraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"

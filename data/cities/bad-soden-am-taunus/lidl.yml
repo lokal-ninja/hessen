@@ -5,7 +5,7 @@ latitude: 50.1403028
 longitude: 8.5065126
 postcode: 65812
 city: Bad Soden am Taunus
-street: Königsteiner Straße
+street: "Königsteiner Straße"
 housenumber: 44
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"

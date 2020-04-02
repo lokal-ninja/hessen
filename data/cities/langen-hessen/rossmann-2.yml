@@ -5,7 +5,7 @@ latitude: 49.99595720000001
 longitude: 8.675753700000001
 postcode: 63225
 city: Langen (Hessen)
-street: Elisabeth-Selbert-Allee
+street: "Elisabeth-Selbert-Allee"
 housenumber: 19
 phone: ""
 opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; Su off; PH off"

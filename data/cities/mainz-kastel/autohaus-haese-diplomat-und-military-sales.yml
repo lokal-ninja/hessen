@@ -5,7 +5,7 @@ latitude: 50.015681900000004
 longitude: 8.284724800000001
 postcode: 55252
 city: Mainz-Kastel
-street: Boelckestraße
+street: "Boelckestraße"
 housenumber: 38
 phone: "+49 6134 284943"
 opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"

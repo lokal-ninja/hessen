@@ -5,7 +5,7 @@ latitude: 50.5539697
 longitude: 9.680322100000001
 postcode: 36037
 city: Fulda
-street: Sturmiusstraße
+street: "Sturmiusstraße"
 housenumber: 1b
 phone: ""
 opening_hours: ""

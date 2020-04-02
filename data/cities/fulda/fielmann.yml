@@ -5,7 +5,7 @@ latitude: 50.550874300000004
 longitude: 9.6771753
 postcode: 36037
 city: Fulda
-street: Marktstraße
+street: "Marktstraße"
 housenumber: 14
 phone: ""
 opening_hours: ""

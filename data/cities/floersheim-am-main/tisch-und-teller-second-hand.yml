@@ -5,7 +5,7 @@ latitude: 50.0055349
 longitude: 8.4166814
 postcode: 65439
 city: Flörsheim am Main
-street: Liebigstraße
+street: "Liebigstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 10:00-18:00"

@@ -5,7 +5,7 @@ latitude: 50.7360618
 longitude: 8.810479200000001
 postcode: 35085
 city: Ebsdorfergrund
-street: Bortshäuser Straße
+street: "Bortshäuser Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.1019761
 longitude: 8.5490796
 postcode: 65929
 city: Frankfurt am Main
-street: Emmerich-Josef-Straße
+street: "Emmerich-Josef-Straße"
 housenumber: 20
 phone: "+49-69-301070"
 opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH closed"

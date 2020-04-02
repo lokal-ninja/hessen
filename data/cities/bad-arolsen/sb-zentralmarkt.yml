@@ -5,7 +5,7 @@ latitude: 51.3720536
 longitude: 8.994411900000001
 postcode: 34454
 city: Bad Arolsen
-street: Ostpreußenstraße
+street: "Ostpreußenstraße"
 housenumber: 66
 phone: ""
 opening_hours: ""

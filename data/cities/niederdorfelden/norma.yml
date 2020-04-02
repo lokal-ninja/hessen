@@ -5,7 +5,7 @@ latitude: 50.190265600000004
 longitude: 8.8040844
 postcode: 61138
 city: Niederdorfelden
-street: Auf dem Hainspiel
+street: "Auf dem Hainspiel"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 50.353112100000004
 longitude: 9.309546000000001
 postcode: 63633
 city: Birstein
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 17
 phone: "+49 6054 900280"
 opening_hours: "Mo 09:00-13:00,15:00-18:00; Tu-Fr 09:00-12:00,15:00-18:00; Sa 09:00-13:00"

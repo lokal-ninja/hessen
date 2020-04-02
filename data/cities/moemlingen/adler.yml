@@ -5,7 +5,7 @@ latitude: 49.850847900000005
 longitude: 9.077393200000001
 postcode: 63853
 city: Mömlingen
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 24
 phone: "+49 6022 30090"
 opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off"

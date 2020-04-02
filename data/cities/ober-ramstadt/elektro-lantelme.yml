@@ -5,7 +5,7 @@ latitude: 49.798236300000006
 longitude: 8.7597213
 postcode: 64372
 city: Ober-Ramstadt
-street: Brunnenstraße
+street: "Brunnenstraße"
 housenumber: 18
 phone: ""
 opening_hours: "Mo-Fr 07:30-12:00, 14:00-18:30; Sa 08:30-12:00"

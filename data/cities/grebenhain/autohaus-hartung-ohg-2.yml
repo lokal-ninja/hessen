@@ -5,7 +5,7 @@ latitude: 50.494156000000004
 longitude: 9.3466102
 postcode: 36355
 city: Grebenhain
-street: Bahnhofstraße
+street: "Bahnhofstraße"
 housenumber: 68
 phone: ""
 opening_hours: ""

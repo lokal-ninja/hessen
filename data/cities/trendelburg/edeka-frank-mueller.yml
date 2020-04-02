@@ -5,7 +5,7 @@ latitude: 51.575494400000004
 longitude: 9.415979
 postcode: 34388
 city: Trendelburg
-street: Karlshafener Straße
+street: "Karlshafener Straße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

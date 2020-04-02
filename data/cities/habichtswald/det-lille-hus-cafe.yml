@@ -5,7 +5,7 @@ latitude: 51.324876800000006
 longitude: 9.309364500000001
 postcode: 34317
 city: Habichtswald
-street: Steinweg
+street: "Steinweg"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.768774
 longitude: 9.692502600000001
 postcode: 36166
 city: Haunetal
-street: Raiffeisenstraße
+street: "Raiffeisenstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.276260900000004
 longitude: 9.541953600000001
 postcode: 34253
 city: Lohfelden
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 37
 phone: "+49 561 5101246"
 opening_hours: "Mo-Fr 06:30-18:00; Sa 06:00-17:00; Su,PH 07:00-17:00"

@@ -5,7 +5,7 @@ latitude: 50.161309200000005
 longitude: 8.3125976
 postcode: 65527
 city: Niedernhausen
-street: Fritz-Gontermann-Straße
+street: "Fritz-Gontermann-Straße"
 housenumber: 2
 phone: ""
 opening_hours: ""

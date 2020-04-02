@@ -5,7 +5,7 @@ latitude: 50.120124800000006
 longitude: 8.8478694
 postcode: 63165
 city: Mühlheim am Main
-street: Schillerstraße
+street: "Schillerstraße"
 housenumber: 77-79
 phone: ""
 opening_hours: "Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00"

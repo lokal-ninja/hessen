@@ -5,7 +5,7 @@ latitude: 49.787793300000004
 longitude: 9.077286
 postcode: 64750
 city: Lützelbach
-street: Mainstraße
+street: "Mainstraße"
 housenumber: 6
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"

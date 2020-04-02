@@ -5,7 +5,7 @@ latitude: 49.9090031
 longitude: 8.4963911
 postcode: 64521
 city: Groß-Gerau
-street: Helvetiastraße
+street: "Helvetiastraße"
 housenumber: 5
 phone: ""
 opening_hours: "Mo-Sa 08:00-22:00"

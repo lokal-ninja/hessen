@@ -5,7 +5,7 @@ latitude: 50.5768883
 longitude: 8.6824393
 postcode: 35394
 city: Gießen
-street: Schiffenberger Weg
+street: "Schiffenberger Weg"
 housenumber: 21
 phone: ""
 opening_hours: ""

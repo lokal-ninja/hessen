@@ -5,7 +5,7 @@ latitude: 50.1935293
 longitude: 8.478846500000001
 postcode: 61462
 city: Königstein im Taunus
-street: Hohemarkstraße
+street: "Hohemarkstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""

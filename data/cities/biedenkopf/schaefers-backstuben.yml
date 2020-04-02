@@ -5,7 +5,7 @@ latitude: 50.902050800000005
 longitude: 8.5348963
 postcode: 35216
 city: Biedenkopf
-street: Georg-Kramer-Straße
+street: "Georg-Kramer-Straße"
 housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 08:00-21:00; Su Off"

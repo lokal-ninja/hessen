@@ -5,7 +5,7 @@ latitude: 51.358506000000006
 longitude: 8.9908537
 postcode: 34454
 city: Bad Arolsen
-street: Am Papiermühler Weg
+street: "Am Papiermühler Weg"
 housenumber: 3
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.312266400000006
 longitude: 9.4591045
 postcode: 36396
 city: Steinau
-street: Brüder-Grimm-Straße
+street: "Brüder-Grimm-Straße"
 housenumber: 90
 phone: "+49 6663 919381"
 opening_hours: ""

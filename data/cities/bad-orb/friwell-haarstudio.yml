@@ -5,7 +5,7 @@ latitude: 50.2255101
 longitude: 9.350001200000001
 postcode: 63619
 city: Bad Orb
-street: Quellenring
+street: "Quellenring"
 housenumber: 8
 phone: ""
 opening_hours: ""

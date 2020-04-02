@@ -5,7 +5,7 @@ latitude: 50.8347941
 longitude: 9.575056700000001
 postcode: 36275
 city: Kirchheim
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 
 phone: "+49 6625 3459600"
 opening_hours: "Mo-Su 09:00-18:00"

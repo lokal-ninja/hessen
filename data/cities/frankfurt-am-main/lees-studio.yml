@@ -5,7 +5,7 @@ latitude: 50.18947
 longitude: 8.663774
 postcode: 60437
 city: Frankfurt am Main
-street: Ben-Gurion-Ring
+street: "Ben-Gurion-Ring"
 housenumber: 56
 phone: ""
 opening_hours: ""

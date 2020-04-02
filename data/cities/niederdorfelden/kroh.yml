@@ -5,7 +5,7 @@ latitude: 50.1946664
 longitude: 8.8002166
 postcode: 61138
 city: Niederdorfelden
-street: Schäfergasse
+street: "Schäfergasse"
 housenumber: 29
 phone: "+49 6101 32514"
 opening_hours: ""

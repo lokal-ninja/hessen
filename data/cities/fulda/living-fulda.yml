@@ -5,7 +5,7 @@ latitude: 50.5446734
 longitude: 9.677137700000001
 postcode: 36043
 city: Fulda
-street: Martin-Luther-Platz
+street: "Martin-Luther-Platz"
 housenumber: 2-6
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.1053202
 longitude: 8.553296300000001
 postcode: 65929
 city: Frankfurt am Main
-street: Kurmainzer Straße
+street: "Kurmainzer Straße"
 housenumber: 8
 phone: ""
 opening_hours: ""

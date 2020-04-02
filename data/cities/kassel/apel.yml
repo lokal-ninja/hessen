@@ -5,7 +5,7 @@ latitude: 51.3289811
 longitude: 9.5298567
 postcode: 34125
 city: Kassel
-street: Wolfsangerstraße
+street: "Wolfsangerstraße"
 housenumber: 100
 phone: ""
 opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su 08:00-11:00"

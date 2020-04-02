@@ -5,7 +5,7 @@ latitude: 51.3801883
 longitude: 9.018848400000001
 postcode: 34454
 city: Bad Arolsen
-street: Schloßstraße
+street: "Schloßstraße"
 housenumber: 13
 phone: ""
 opening_hours: ""

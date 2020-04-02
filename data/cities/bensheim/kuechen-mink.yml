@@ -5,7 +5,7 @@ latitude: 49.6751622
 longitude: 8.5926667
 postcode: 64625
 city: Bensheim
-street: Ampèrestraße
+street: "Ampèrestraße"
 housenumber: 11
 phone: ""
 opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"

@@ -5,7 +5,7 @@ latitude: 50.0864874
 longitude: 8.2904978
 postcode: 65191
 city: Wiesbaden
-street: Kloppenheimer Weg
+street: "Kloppenheimer Weg"
 housenumber: 6
 phone: "+49 611 377076"
 opening_hours: ""

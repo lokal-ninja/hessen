@@ -5,7 +5,7 @@ latitude: 50.112532200000004
 longitude: 8.706469
 postcode: 60314
 city: Frankfurt am Main
-street: Danziger Platz
+street: "Danziger Platz"
 housenumber: 2-4
 phone: "+49 69 40807870"
 opening_hours: "Mo-Sa 10:00-18:00"

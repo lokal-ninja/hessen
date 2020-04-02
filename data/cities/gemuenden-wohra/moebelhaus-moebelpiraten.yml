@@ -5,7 +5,7 @@ latitude: 50.981814400000005
 longitude: 8.970068600000001
 postcode: 35285
 city: Gemünden (Wohra)
-street: Grüsener Straße
+street: "Grüsener Straße"
 housenumber: 24
 phone: ""
 opening_hours: ""

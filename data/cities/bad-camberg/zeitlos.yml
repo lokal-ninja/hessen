@@ -5,7 +5,7 @@ latitude: 50.2976225
 longitude: 8.268557000000001
 postcode: 65520
 city: Bad Camberg
-street: Strackgasse
+street: "Strackgasse"
 housenumber: 10
 phone: ""
 opening_hours: ""

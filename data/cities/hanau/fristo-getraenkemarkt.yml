@@ -5,7 +5,7 @@ latitude: 50.14281810000001
 longitude: 8.9399105
 postcode: 63452
 city: Hanau
-street: Lamboystraße
+street: "Lamboystraße"
 housenumber: 62
 phone: ""
 opening_hours: "08:00-20:00; Sa 08:00-18:00"

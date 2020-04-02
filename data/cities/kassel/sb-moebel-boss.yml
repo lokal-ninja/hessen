@@ -5,7 +5,7 @@ latitude: 51.290481
 longitude: 9.4549295
 postcode: 34134
 city: Kassel
-street: Glöcknerpfad
+street: "Glöcknerpfad"
 housenumber: 31
 phone: ""
 opening_hours: "Mo-Fr 10:00-20:00, Sa 10:00-18:00"

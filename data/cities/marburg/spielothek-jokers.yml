@@ -5,7 +5,7 @@ latitude: 50.8213823
 longitude: 8.7723332
 postcode: 35039
 city: Marburg
-street: Neue Kasseler Straße
+street: "Neue Kasseler Straße"
 housenumber: 9
 phone: ""
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.290096000000005
 longitude: 9.5152107
 postcode: 34123
 city: Kassel
-street: Nürnberger Straße
+street: "Nürnberger Straße"
 housenumber: 161
 phone: ""
 opening_hours: "Mo-Fr 07:00-13:00, 15:00-18:00; Sa 06:00-13:00; Su 7:30-10:30"

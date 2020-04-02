@@ -5,7 +5,7 @@ latitude: 50.1075935
 longitude: 8.656513200000001
 postcode: 60327
 city: Frankfurt am Main
-street: Mainzer Landstraße
+street: "Mainzer Landstraße"
 housenumber: 131
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-17:00; PH unknown"

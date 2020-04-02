@@ -5,7 +5,7 @@ latitude: 50.6353803
 longitude: 9.397480400000001
 postcode: 36341
 city: Lauterbach
-street: Langgasse
+street: "Langgasse"
 housenumber: 18
 phone: ""
 opening_hours: ""

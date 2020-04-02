@@ -5,7 +5,7 @@ latitude: 50.529959500000004
 longitude: 9.676748
 postcode: 
 city: Fulda
-street: Frankfurter Straße
+street: "Frankfurter Straße"
 housenumber: 124
 phone: ""
 opening_hours: "24/7"

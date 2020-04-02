@@ -5,7 +5,7 @@ latitude: 51.323666200000005
 longitude: 9.503836600000001
 postcode: 
 city: Kassel
-street: Gottschalkstraße
+street: "Gottschalkstraße"
 housenumber: 10
 phone: "+49 561 897007"
 opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"

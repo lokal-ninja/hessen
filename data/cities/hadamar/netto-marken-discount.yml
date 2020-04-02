@@ -5,7 +5,7 @@ latitude: 50.441418500000005
 longitude: 8.0405441
 postcode: 65589
 city: Hadamar
-street: Mainzer Landstraße
+street: "Mainzer Landstraße"
 housenumber: 21
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

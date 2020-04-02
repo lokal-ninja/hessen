@@ -5,7 +5,7 @@ latitude: 51.4129707
 longitude: 9.117024200000001
 postcode: 34471
 city: Volkmarsen
-street: Wittmarstraße
+street: "Wittmarstraße"
 housenumber: 14
 phone: ""
 opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00; Sa 08:30-12:30"

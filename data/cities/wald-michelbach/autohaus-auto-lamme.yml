@@ -5,7 +5,7 @@ latitude: 49.573538500000005
 longitude: 8.8231138
 postcode: 69483
 city: Wald-Michelbach
-street: Ludwigstraße
+street: "Ludwigstraße"
 housenumber: 21-27
 phone: "+49 6207 9417-0"
 opening_hours: ""

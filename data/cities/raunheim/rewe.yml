@@ -5,7 +5,7 @@ latitude: 50.008041500000004
 longitude: 8.4502892
 postcode: 65479
 city: Raunheim
-street: Am Stadtzentrum
+street: "Am Stadtzentrum"
 housenumber: 4
 phone: ""
 opening_hours: ""

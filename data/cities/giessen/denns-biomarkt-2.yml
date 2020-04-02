@@ -5,7 +5,7 @@ latitude: 50.5868826
 longitude: 8.656042000000001
 postcode: 35398
 city: Gießen
-street: An der Hessenhalle
+street: "An der Hessenhalle"
 housenumber: 1
 phone: "+49 641-96090572"
 opening_hours: "Mo-Sa 08:00-20:00; PH off"

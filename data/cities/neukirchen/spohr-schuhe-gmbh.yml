@@ -5,7 +5,7 @@ latitude: 50.866212700000005
 longitude: 9.3441256
 postcode: 34626
 city: Neukirchen
-street: Birkenallee
+street: "Birkenallee"
 housenumber: 2
 phone: ""
 opening_hours: ""

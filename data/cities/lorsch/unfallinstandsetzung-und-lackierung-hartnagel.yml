@@ -5,7 +5,7 @@ latitude: 49.6573178
 longitude: 8.5653425
 postcode: 64653
 city: Lorsch
-street: Rheinstraße
+street: "Rheinstraße"
 housenumber: 32
 phone: "+49 6251 51468"
 opening_hours: "Mo 8:00-16:30, Tu,We,Th 7:00-12:00,13:00-16:30, Fr 7:00-13:00"

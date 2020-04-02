@@ -5,7 +5,7 @@ latitude: 50.000046700000006
 longitude: 8.6475706
 postcode: 63225
 city: Langen (Hessen)
-street: Ohmstraße
+street: "Ohmstraße"
 housenumber: 10
 phone: ""
 opening_hours: ""

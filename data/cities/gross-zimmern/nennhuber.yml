@@ -5,7 +5,7 @@ latitude: 49.873676100000004
 longitude: 8.8311028
 postcode: 64846
 city: Groß-Zimmern
-street: Jahnstraße
+street: "Jahnstraße"
 housenumber: 7
 phone: ""
 opening_hours: ""

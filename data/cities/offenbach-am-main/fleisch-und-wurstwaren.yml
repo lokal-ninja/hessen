@@ -5,7 +5,7 @@ latitude: 50.1184157
 longitude: 8.7849331
 postcode: 63075
 city: Offenbach am Main
-street: Langstraße
+street: "Langstraße"
 housenumber: 17
 phone: "+49 69 861606"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 51.287562400000006
 longitude: 8.618214400000001
 postcode: 34508
 city: Willingen (Upland)
-street: Stryckweg
+street: "Stryckweg"
 housenumber: 40
 phone: "+49 5632 968572"
 opening_hours: "Mo-Fr 09:15-11:45,13:30-17:30; Sa 09:00-16:00; Su 09:00-13:00; Tu off"

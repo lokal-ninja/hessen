@@ -5,7 +5,7 @@ latitude: 49.9066114
 longitude: 8.5756317
 postcode: 64331
 city: Weiterstadt
-street: Büttelborner Weg
+street: "Büttelborner Weg"
 housenumber: 1
 phone: "+49 6150 18160"
 opening_hours: "Mo-Sa 07:00-21:00"

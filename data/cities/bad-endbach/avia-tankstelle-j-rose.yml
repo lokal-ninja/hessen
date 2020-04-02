@@ -5,7 +5,7 @@ latitude: 50.75754370000001
 longitude: 8.4633423
 postcode: 35080
 city: Bad Endbach
-street: Hauptstraße
+street: "Hauptstraße"
 housenumber: 62
 phone: "+49 2776 911030"
 opening_hours: "Mo-Fr 06:00-22:00; Sa,Su 07:00-22:00"

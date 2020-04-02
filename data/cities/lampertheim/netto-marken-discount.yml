@@ -5,7 +5,7 @@ latitude: 49.60187620000001
 longitude: 8.4612373
 postcode: 68623
 city: Lampertheim
-street: Andreasstraße
+street: "Andreasstraße"
 housenumber: 4-6
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"

@@ -5,7 +5,7 @@ latitude: 51.340695700000005
 longitude: 9.4788288
 postcode: 34127
 city: Kassel
-street: Schenkebier Stanne
+street: "Schenkebier Stanne"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"

@@ -5,7 +5,7 @@ latitude: 50.7949348
 longitude: 8.7567866
 postcode: 35037
 city: Marburg
-street: Gisselberger Straße
+street: "Gisselberger Straße"
 housenumber: 53
 phone: ""
 opening_hours: ""

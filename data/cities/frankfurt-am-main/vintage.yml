@@ -5,7 +5,7 @@ latitude: 50.1235586
 longitude: 8.6353636
 postcode: 60487
 city: Frankfurt am Main
-street: Rödelheimer Straße
+street: "Rödelheimer Straße"
 housenumber: 33
 phone: ""
 opening_hours: ""

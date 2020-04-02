@@ -5,7 +5,7 @@ latitude: 50.0432502
 longitude: 8.216975
 postcode: 65203
 city: Wiesbaden
-street: Otto-Wallach-Straße
+street: "Otto-Wallach-Straße"
 housenumber: 5
 phone: "+49 611 53269977"
 opening_hours: "Mo-Sa 08:30-20:00"

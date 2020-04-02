@@ -5,7 +5,7 @@ latitude: 49.8607334
 longitude: 8.6548642
 postcode: 64285
 city: Darmstadt
-street: Wittmannstraße
+street: "Wittmannstraße"
 housenumber: 15
 phone: "+49 6151 7898862"
 opening_hours: ""

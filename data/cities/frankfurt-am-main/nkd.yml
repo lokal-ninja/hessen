@@ -5,7 +5,7 @@ latitude: 50.1279862
 longitude: 8.6067525
 postcode: 60489
 city: Frankfurt am Main
-street: Lorscher Straße
+street: "Lorscher Straße"
 housenumber: 41
 phone: "+49 69 78076169"
 opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su off"

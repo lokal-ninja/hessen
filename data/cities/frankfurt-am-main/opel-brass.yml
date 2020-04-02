@@ -5,7 +5,7 @@ latitude: 50.115795000000006
 longitude: 8.723786500000001
 postcode: 60314
 city: Frankfurt am Main
-street: Hanauer Landstraße
+street: "Hanauer Landstraße"
 housenumber: 263
 phone: "+49 69 4050050"
 opening_hours: ""

@@ -5,7 +5,7 @@ latitude: 50.7991662
 longitude: 9.6017192
 postcode: 36272
 city: Niederaula
-street: Hattenbacher Straße
+street: "Hattenbacher Straße"
 housenumber: 1
 phone: "+49 6625 922320"
 opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:00"

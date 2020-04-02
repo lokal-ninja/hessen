@@ -5,7 +5,7 @@ latitude: 50.141181800000005
 longitude: 8.5660583
 postcode: 65760
 city: Eschborn
-street: Sossenheimer Straße
+street: "Sossenheimer Straße"
 housenumber: 1
 phone: "+49 6196 43456"
 opening_hours: ""

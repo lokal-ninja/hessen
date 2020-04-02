@@ -5,7 +5,7 @@ latitude: 49.8673493
 longitude: 8.6432666
 postcode: 64295
 city: Darmstadt
-street: Hindenburgstraße
+street: "Hindenburgstraße"
 housenumber: 36
 phone: "+49 6151 33399"
 opening_hours: "Mo-Fr 09:00-12:30, 13:30-18:00"

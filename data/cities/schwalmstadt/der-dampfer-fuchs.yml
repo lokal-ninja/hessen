@@ -5,7 +5,7 @@ latitude: 50.912738100000006
 longitude: 9.188785000000001
 postcode: 34613
 city: Schwalmstadt
-street: Marktplatz
+street: "Marktplatz"
 housenumber: 6
 phone: ""
 opening_hours: ""

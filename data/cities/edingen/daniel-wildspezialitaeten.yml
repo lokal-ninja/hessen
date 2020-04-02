@@ -5,7 +5,7 @@ latitude: 50.6344986
 longitude: 8.320088100000001
 postcode: 35764
 city: Edingen
-street: Fleisbacher Straße
+street: "Fleisbacher Straße"
 housenumber: 26
 phone: ""
 opening_hours: ""

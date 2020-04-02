@@ -5,7 +5,7 @@ latitude: 50.6742463
 longitude: 9.555477900000001
 postcode: 36110
 city: Schlitz
-street: Seebergstraße
+street: "Seebergstraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

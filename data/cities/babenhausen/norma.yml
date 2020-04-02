@@ -5,7 +5,7 @@ latitude: 49.9603328
 longitude: 8.955213500000001
 postcode: 64832
 city: Babenhausen
-street: Platanenallee
+street: "Platanenallee"
 housenumber: 23
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"

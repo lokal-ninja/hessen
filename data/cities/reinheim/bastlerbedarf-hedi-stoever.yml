@@ -5,7 +5,7 @@ latitude: 49.82838580000001
 longitude: 8.836844900000001
 postcode: 64354
 city: Reinheim
-street: Heinrichstraße
+street: "Heinrichstraße"
 housenumber: 38
 phone: "+49 6162 2646"
 opening_hours: ""

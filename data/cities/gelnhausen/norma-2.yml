@@ -5,7 +5,7 @@ latitude: 50.182214200000004
 longitude: 9.1373688
 postcode: 63571
 city: Gelnhausen
-street: Wingertstraße
+street: "Wingertstraße"
 housenumber: 6
 phone: ""
 opening_hours: ""

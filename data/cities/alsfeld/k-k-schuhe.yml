@@ -5,7 +5,7 @@ latitude: 50.7514125
 longitude: 9.2667339
 postcode: 36304
 city: Alsfeld
-street: Alicestraße
+street: "Alicestraße"
 housenumber: 11
 phone: ""
 opening_hours: ""

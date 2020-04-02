@@ -5,7 +5,7 @@ latitude: 49.872838300000005
 longitude: 8.6830306
 postcode: 64287
 city: Darmstadt
-street: Erbacher Straße
+street: "Erbacher Straße"
 housenumber: 125
 phone: ""
 opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
