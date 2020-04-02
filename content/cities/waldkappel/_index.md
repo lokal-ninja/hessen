@@ -1,0 +1,4 @@
+---
+title: Waldkappel
+url: /waldkappel/
+---

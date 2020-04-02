@@ -1,0 +1,4 @@
+---
+title: Edertal
+url: /edertal/
+---

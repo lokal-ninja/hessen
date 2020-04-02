@@ -1,0 +1,4 @@
+---
+title: Seiferts
+url: /seiferts/
+---

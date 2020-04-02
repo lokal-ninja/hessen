@@ -1,0 +1,4 @@
+---
+title: "Reisebüro Klass"
+url: /kassel/reisebuero-klass/
+---

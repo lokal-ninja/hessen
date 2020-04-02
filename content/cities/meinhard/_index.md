@@ -1,0 +1,4 @@
+---
+title: Meinhard
+url: /meinhard/
+---

@@ -1,0 +1,4 @@
+---
+title: Schöffengrund
+url: /schoeffengrund/
+---

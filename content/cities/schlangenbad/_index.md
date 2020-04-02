@@ -1,0 +1,4 @@
+---
+title: Schlangenbad
+url: /schlangenbad/
+---

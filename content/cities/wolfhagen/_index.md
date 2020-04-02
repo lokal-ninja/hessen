@@ -1,0 +1,4 @@
+---
+title: Wolfhagen
+url: /wolfhagen/
+---

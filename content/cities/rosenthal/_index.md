@@ -1,0 +1,4 @@
+---
+title: Rosenthal
+url: /rosenthal/
+---

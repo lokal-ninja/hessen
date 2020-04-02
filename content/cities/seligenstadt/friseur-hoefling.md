@@ -1,0 +1,4 @@
+---
+title: "Friseur Höfling"
+url: /seligenstadt/friseur-hoefling/
+---

@@ -1,0 +1,4 @@
+---
+title: Schwalmstadt
+url: /schwalmstadt/
+---

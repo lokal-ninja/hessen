@@ -1,0 +1,4 @@
+---
+title: Schauenburg
+url: /schauenburg/
+---

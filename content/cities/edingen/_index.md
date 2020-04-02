@@ -1,0 +1,4 @@
+---
+title: Edingen
+url: /edingen/
+---

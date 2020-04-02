@@ -1,0 +1,4 @@
+---
+title: "Logo"
+url: /rotenburg-an-der-fulda/logo/
+---

@@ -1,0 +1,4 @@
+---
+title: "ALDI"
+url: /weimar-lahn/aldi/
+---

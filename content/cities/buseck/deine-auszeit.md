@@ -1,0 +1,4 @@
+---
+title: "Deine Auszeit"
+url: /buseck/deine-auszeit/
+---

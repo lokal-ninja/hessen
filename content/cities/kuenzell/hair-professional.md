@@ -1,0 +1,4 @@
+---
+title: "Hair Professional"
+url: /kuenzell/hair-professional/
+---

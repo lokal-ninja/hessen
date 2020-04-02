@@ -1,0 +1,4 @@
+---
+title: "Autoschilder"
+url: /bad-arolsen/autoschilder/
+---

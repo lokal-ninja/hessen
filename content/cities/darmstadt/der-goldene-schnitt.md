@@ -1,0 +1,4 @@
+---
+title: "Der Goldene Schnitt"
+url: /darmstadt/der-goldene-schnitt/
+---

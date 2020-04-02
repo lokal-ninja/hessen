@@ -1,0 +1,4 @@
+---
+title: Hosenfeld
+url: /hosenfeld/
+---

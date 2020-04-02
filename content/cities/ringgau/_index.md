@@ -1,0 +1,4 @@
+---
+title: Ringgau
+url: /ringgau/
+---

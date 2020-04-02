@@ -1,0 +1,4 @@
+---
+title: Vöhl
+url: /voehl/
+---

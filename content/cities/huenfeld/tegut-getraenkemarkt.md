@@ -1,0 +1,4 @@
+---
+title: "Tegut Getränkemarkt"
+url: /huenfeld/tegut-getraenkemarkt/
+---

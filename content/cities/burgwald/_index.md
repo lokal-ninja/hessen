@@ -1,0 +1,4 @@
+---
+title: Burgwald
+url: /burgwald/
+---

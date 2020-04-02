@@ -1,0 +1,4 @@
+---
+title: Bottenhorn
+url: /bottenhorn/
+---

@@ -1,0 +1,4 @@
+---
+title: "Haarstudio 13"
+url: /kassel/haarstudio-13/
+---

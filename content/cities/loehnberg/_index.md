@@ -1,0 +1,4 @@
+---
+title: Löhnberg
+url: /loehnberg/
+---

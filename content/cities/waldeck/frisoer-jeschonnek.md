@@ -1,0 +1,4 @@
+---
+title: "Frisör Jeschonnek"
+url: /waldeck/frisoer-jeschonnek/
+---

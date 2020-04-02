@@ -1,0 +1,4 @@
+---
+title: "Jörg Klose"
+url: /bad-camberg/joerg-klose/
+---

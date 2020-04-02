@@ -1,0 +1,4 @@
+---
+title: Sinntal
+url: /sinntal/
+---

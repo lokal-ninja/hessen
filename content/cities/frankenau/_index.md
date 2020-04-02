@@ -1,0 +1,4 @@
+---
+title: Frankenau
+url: /frankenau/
+---

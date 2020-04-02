@@ -1,0 +1,4 @@
+---
+title: "Schwälmer Brotladen"
+url: /giessen/schwaelmer-brotladen/
+---

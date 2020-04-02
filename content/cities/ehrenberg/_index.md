@@ -1,0 +1,4 @@
+---
+title: Ehrenberg
+url: /ehrenberg/
+---

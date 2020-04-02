@@ -1,0 +1,4 @@
+---
+title: Ebersburg
+url: /ebersburg/
+---

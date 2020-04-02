@@ -1,0 +1,4 @@
+---
+title: "XXXL Mann Mobilia"
+url: /eschborn/xxxl-mann-mobilia/
+---

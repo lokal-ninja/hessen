@@ -1,0 +1,4 @@
+---
+title: "Farbenkrauth Baumarkt"
+url: /darmstadt/farbenkrauth-baumarkt/
+---
