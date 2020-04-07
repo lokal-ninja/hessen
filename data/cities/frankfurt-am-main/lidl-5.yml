@@ -1,12 +1,12 @@
-id: 1683567181
+id: 902646082
 type: node
 shop: Supermarkt
-latitude: 50.1276014
-longitude: 8.606858800000001
-postcode: 60489
+latitude: 50.095953400000006
+longitude: 8.5978972
+postcode: 65933
 city: Frankfurt am Main
-street: "Lorscher Straße"
-housenumber: 41
+street: "Elektronstraße"
+housenumber: 62
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "https://www.lidl.de/"
+opening_hours: "Mo-Sa 07:00-21:00"
+website: ""

@@ -1,6 +1,6 @@
 id: 4652656107
 type: node
-shop: Kiosk
+shop: Hofladen
 latitude: 50.6610692
 longitude: 8.7122255
 postcode: 35457
@@ -8,5 +8,5 @@ city: Lollar
 street: "Untergasse"
 housenumber: 1
 phone: ""
-opening_hours: ""
-website: "http://www.friedelhausen.de/aktuelles/185-der-dorfladen-in-ruttershausen"
+opening_hours: "Mo,Tu,Th,Fr 07:00-18:00; We 07:00-12:00; Sa 07:00-13:00; Su,PH off"
+website: ""
