@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 49.699717
 longitude: 8.622297600000001
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Diefenbachweg"
 housenumber: 2

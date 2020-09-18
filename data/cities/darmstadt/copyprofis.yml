@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.870223
 longitude: 8.6344664
-postcode: 64295
+postcode: "64295"
 city: Darmstadt
 street: "Rheinstraße"
 housenumber: 94

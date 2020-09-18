@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.7688714
 longitude: 8.642549500000001
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Beethovenring"
 housenumber: 59

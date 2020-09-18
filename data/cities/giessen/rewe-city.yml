@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.586189000000005
 longitude: 8.6737905
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Marktstraße"
 housenumber: 6

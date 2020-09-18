@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 50.8325436
 longitude: 8.3160749
-postcode: 35716
+postcode: "35716"
 city: Dietzhölztal
 street: "Hauptstraße"
 housenumber: 76

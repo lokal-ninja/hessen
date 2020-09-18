@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0567652
 longitude: 8.8006121
-postcode: 35066
+postcode: "35066"
 city: Frankenberg (Eder)
 street: "Hainstraße"
 housenumber: 13

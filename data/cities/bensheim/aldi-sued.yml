@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.702629800000004
 longitude: 8.6114976
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Berliner Ring"
 housenumber: 159

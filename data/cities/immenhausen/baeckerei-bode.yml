@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.4274836
 longitude: 9.4742609
-postcode: 34376
+postcode: "34376"
 city: Immenhausen
 street: "Obere Bahnhofstraße"
 housenumber: 48

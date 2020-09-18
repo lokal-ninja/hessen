@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.82791700000001
 longitude: 8.832375
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Darmstädter Straße"
 housenumber: 24

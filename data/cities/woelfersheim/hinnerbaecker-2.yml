@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.397691
 longitude: 8.811219300000001
-postcode: 61200
+postcode: "61200"
 city: Wölfersheim
 street: "Hauptstraße"
 housenumber: 65

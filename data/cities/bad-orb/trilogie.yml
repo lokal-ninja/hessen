@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.225446000000005
 longitude: 9.348122400000001
-postcode: 63619
+postcode: "63619"
 city: Bad Orb
 street: "Kanalstraße"
 housenumber: 37

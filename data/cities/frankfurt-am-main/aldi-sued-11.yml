@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.102205600000005
 longitude: 8.632611500000001
-postcode: 60326
+postcode: "60326"
 city: Frankfurt am Main
 street: "Mainzer Landstraße"
 housenumber: 336

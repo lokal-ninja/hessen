@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.17394650000001
 longitude: 8.7171359
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Otto-Fricke-Straße"
 housenumber: 107

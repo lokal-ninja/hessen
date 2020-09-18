@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.8675311
 longitude: 8.5449286
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Pfützenstraße"
 housenumber: 90

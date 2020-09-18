@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.021394
 longitude: 8.693819900000001
-postcode: 63303
+postcode: "63303"
 city: Sprendlingen
 street: "Elisabethenstraße"
 housenumber: 13

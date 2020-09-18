@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0445663
 longitude: 8.434420000000001
-postcode: 65439
+postcode: "65439"
 city: Flörsheim am Main
 street: "Frankfurter Straße"
 housenumber: 28

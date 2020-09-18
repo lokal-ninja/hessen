@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.8706825
 longitude: 8.6556833
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Schulstraße"
 housenumber: 10

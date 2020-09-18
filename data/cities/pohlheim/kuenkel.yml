@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5386614
 longitude: 8.7544146
-postcode: 35415
+postcode: "35415"
 city: Pohlheim
 street: "Alter Weg"
 housenumber: 6

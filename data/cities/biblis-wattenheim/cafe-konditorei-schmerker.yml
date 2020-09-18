@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 49.6850863
 longitude: 8.4090814
-postcode: 68647
+postcode: "68647"
 city: Biblis-Wattenheim
 street: "Rheinstraße"
 housenumber: 21

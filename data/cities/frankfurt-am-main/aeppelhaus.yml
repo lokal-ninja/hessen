@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.151473100000004
 longitude: 8.733096100000001
-postcode: 60389
+postcode: "60389"
 city: Frankfurt am Main
 street: "Klingenweg"
 housenumber: 90

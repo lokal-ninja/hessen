@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.690879
 longitude: 9.0044046
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Walther-Rathenau-Allee"
 housenumber: 25

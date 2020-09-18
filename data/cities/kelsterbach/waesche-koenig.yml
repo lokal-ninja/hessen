@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.0635453
 longitude: 8.5305689
-postcode: 65451
+postcode: "65451"
 city: Kelsterbach
 street: "Frankfurter Straße"
 housenumber: 2

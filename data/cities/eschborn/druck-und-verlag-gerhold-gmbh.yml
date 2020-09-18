@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 50.14406940000001
 longitude: 8.5670696
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Oberortstraße"
 housenumber: 18

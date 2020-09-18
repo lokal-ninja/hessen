@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.2865557
 longitude: 9.469352800000001
-postcode: 34134
+postcode: "34134"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 268

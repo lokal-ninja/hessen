@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 49.8596154
 longitude: 8.653567200000001
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Orangerieallee"
 housenumber: 16

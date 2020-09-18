@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.008497600000005
 longitude: 8.7917491
-postcode: 63128
+postcode: "63128"
 city: Dietzenbach
 street: "Justus-von-Liebig-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.9917114
 longitude: 8.3645092
-postcode: 65474
+postcode: "65474"
 city: Bischofsheim
 street: "Rüsselsheimer Straße"
 housenumber: 29

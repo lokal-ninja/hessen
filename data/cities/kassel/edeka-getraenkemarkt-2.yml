@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.323998
 longitude: 9.4700732
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Wolfhager Straße"
 housenumber: 197

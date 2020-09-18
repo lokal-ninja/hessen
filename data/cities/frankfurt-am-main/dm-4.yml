@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.1558155
 longitude: 8.698798400000001
-postcode: 60435
+postcode: "60435"
 city: Frankfurt am Main
 street: "Gundelandstraße"
 housenumber: 22

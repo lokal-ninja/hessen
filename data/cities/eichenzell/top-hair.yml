@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.4874991
 longitude: 9.708380100000001
-postcode: 36124
+postcode: "36124"
 city: Eichenzell
 street: "Rhönhof"
 housenumber: 4

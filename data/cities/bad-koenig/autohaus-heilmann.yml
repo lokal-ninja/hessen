@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.747793900000005
 longitude: 9.003631500000001
-postcode: 64732
+postcode: "64732"
 city: Bad König
 street: "Frankfurter Straße"
 housenumber: 75

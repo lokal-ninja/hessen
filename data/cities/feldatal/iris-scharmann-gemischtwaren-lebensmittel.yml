@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.617799600000005
 longitude: 9.2105599
-postcode: 36325
+postcode: "36325"
 city: Feldatal
 street: "Helpershainer Straße"
 housenumber: 33

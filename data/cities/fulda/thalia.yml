@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 50.553277200000004
 longitude: 9.6815975
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Bahnhofstraße"
 housenumber: 16
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-17:00"
 website: ""

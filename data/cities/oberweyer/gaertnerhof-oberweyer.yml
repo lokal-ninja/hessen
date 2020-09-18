@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.456653800000005
 longitude: 8.0953763
-postcode: 65589
+postcode: "65589"
 city: Oberweyer
 street: "Oberdorfstraße"
 housenumber: 9

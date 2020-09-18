@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.068901800000006
 longitude: 8.226635100000001
-postcode: 65187
+postcode: "65187"
 city: Wiesbaden
 street: "Schiersteiner Straße"
 housenumber: 62

@@ -1,12 +1,12 @@
-id: 59181972
+id: 59124504
 type: way
 shop: Supermarkt
-latitude: 50.089625700000006
-longitude: 8.2904788
-postcode: 65191
+latitude: 50.046191300000004
+longitude: 8.2208524
+postcode: "65203"
 city: Wiesbaden
-street: "Rostocker Straße"
-housenumber: 7-11
+street: "Friedrich-Bergius-Straße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00"
+website: "https://www.lidl.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.439654000000004
 longitude: 9.774108
-postcode: 36157
+postcode: "36157"
 city: Ebersburg
 street: "Kreuzbergstraße"
 housenumber: 2

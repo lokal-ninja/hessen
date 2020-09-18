@@ -3,7 +3,7 @@ type: way
 shop: Nähzubehör
 latitude: 51.3362819
 longitude: 9.4409202
-postcode: 34128
+postcode: "34128"
 city: Kassel
 street: "Wolfhager Straße"
 housenumber: 362

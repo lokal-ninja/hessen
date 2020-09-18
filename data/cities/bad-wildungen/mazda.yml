@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1177287
 longitude: 9.1418198
-postcode: 34537
+postcode: "34537"
 city: Bad Wildungen
 street: "Industriestraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.859784000000005
 longitude: 8.697066000000001
-postcode: 35094
+postcode: "35094"
 city: Sterzhausen
 street: "Wittgensteiner Straße"
 housenumber: 1a

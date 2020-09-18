@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1394911
 longitude: 8.3470219
-postcode: 65817
+postcode: "65817"
 city: Eppstein
 street: "Valterweg"
 housenumber: 1

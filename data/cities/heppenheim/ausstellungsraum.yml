@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 49.642371600000004
 longitude: 8.6374455
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Bahnhofstraße"
 housenumber: 1

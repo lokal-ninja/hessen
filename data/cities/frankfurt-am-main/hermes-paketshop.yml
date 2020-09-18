@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.1441455
 longitude: 8.727338600000001
-postcode: 60389
+postcode: "60389"
 city: Frankfurt am Main
 street: "Niedergasse"
 housenumber: 3

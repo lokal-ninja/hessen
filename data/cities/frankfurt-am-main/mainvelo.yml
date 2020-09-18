@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.1821053
 longitude: 8.6939045
-postcode: 60437
+postcode: "60437"
 city: Frankfurt am Main
 street: "Alt-Harheim"
 housenumber: 27

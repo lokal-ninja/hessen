@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.0372691
 longitude: 8.4699916
-postcode: 65795
+postcode: "65795"
 city: Eddersheim
 street: "Ankerstraße"
 housenumber: 24

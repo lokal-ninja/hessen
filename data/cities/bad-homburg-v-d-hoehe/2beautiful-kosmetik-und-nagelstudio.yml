@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.229465600000005
 longitude: 8.6129957
-postcode: 61348
+postcode: "61348"
 city: Bad Homburg v.d. Höhe
 street: "Haingasse"
 housenumber: 12

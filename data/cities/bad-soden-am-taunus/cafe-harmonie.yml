@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.139239100000005
 longitude: 8.5059463
-postcode: 65812
+postcode: "65812"
 city: Bad Soden am Taunus
 street: "Mendelssohn-Bartholdy-Straße"
 housenumber: 1

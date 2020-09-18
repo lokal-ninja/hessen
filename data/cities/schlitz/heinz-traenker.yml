@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7134712
 longitude: 9.576538300000001
-postcode: 36110
+postcode: "36110"
 city: Schlitz
 street: "Hauptstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.9328919
 longitude: 8.6415077
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Römergasse"
 housenumber: 14

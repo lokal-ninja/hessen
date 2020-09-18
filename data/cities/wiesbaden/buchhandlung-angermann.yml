@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.0812127
 longitude: 8.2403485
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Mauergasse"
 housenumber: 21

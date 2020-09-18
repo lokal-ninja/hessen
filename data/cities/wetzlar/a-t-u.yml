@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.551154100000005
 longitude: 8.4726589
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "Siegmund-Hiepe-Straße"
 housenumber: 41

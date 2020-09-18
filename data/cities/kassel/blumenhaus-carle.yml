@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.3269949
 longitude: 9.499724500000001
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Holländische Straße"
 housenumber: 77

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.8372851
 longitude: 9.669609600000001
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Alsfelder Straße"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "http://www.norma-online.de/"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.norma-online.de/"

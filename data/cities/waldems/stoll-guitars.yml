@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 50.246302400000005
 longitude: 8.3098925
-postcode: 65529
+postcode: "65529"
 city: Waldems
 street: "In der Marschbach"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.8141776
 longitude: 8.767757600000001
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Ketzerbach"
 housenumber: 19

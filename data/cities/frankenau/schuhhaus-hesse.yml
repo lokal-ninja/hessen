@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.068476200000006
 longitude: 8.9070388
-postcode: 35110
+postcode: "35110"
 city: Frankenau
 street: "Geismarer Straße"
 housenumber: 6

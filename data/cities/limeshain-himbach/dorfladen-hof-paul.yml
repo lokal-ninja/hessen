@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.2596434
 longitude: 9.000972800000001
-postcode: 63694
+postcode: "63694"
 city: Limeshain-Himbach
 street: "Taunusstraße"
 housenumber: 2

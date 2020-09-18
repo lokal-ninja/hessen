@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.0499616
 longitude: 8.6994738
-postcode: 63263
+postcode: "63263"
 city: Neu-Isenburg
 street: "Hermesstraße"
 housenumber: 4

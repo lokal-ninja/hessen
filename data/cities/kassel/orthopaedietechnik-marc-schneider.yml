@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.3122027
 longitude: 9.4683615
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Wilhelmshöher Allee"
 housenumber: 109

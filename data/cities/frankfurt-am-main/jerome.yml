@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 50.107866200000004
 longitude: 8.668422300000001
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Elbestraße"
 housenumber: 17

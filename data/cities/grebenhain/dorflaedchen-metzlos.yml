@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.4826871
 longitude: 9.400298000000001
-postcode: 36355
+postcode: "36355"
 city: Grebenhain
 street: "In der Ecke"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.550398900000005
 longitude: 9.6790078
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Peterstor"
 housenumber: 7

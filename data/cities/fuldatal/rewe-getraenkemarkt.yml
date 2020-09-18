@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.3419079
 longitude: 9.5177393
-postcode: 34233
+postcode: "34233"
 city: Fuldatal
 street: "Ihringshäuser Straße"
 housenumber: 161

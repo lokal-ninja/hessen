@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.4231539
 longitude: 8.658990000000001
-postcode: 35510
+postcode: "35510"
 city: Butzbach
 street: "Hausener Weg"
 housenumber: 

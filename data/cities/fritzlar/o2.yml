@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.1326261
 longitude: 9.2747468
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Kasseler Straße"
 housenumber: 14

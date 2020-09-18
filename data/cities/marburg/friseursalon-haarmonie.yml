@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.8452866
 longitude: 8.710512000000001
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Michelbacher Straße"
 housenumber: 20a

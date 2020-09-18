@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 51.274979300000005
 longitude: 9.373711100000001
-postcode: 34270
+postcode: "34270"
 city: Schauenburg
 street: "Lange Baunastraße"
 housenumber: 50

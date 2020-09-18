@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.141918800000006
 longitude: 8.5710238
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Unterortstraße"
 housenumber: 30

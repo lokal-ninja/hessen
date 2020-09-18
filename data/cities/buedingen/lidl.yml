@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.289607600000004
 longitude: 9.1008966
-postcode: 63654
+postcode: "63654"
 city: Büdingen
 street: "Düdelsheimer Straße"
 housenumber: 28a

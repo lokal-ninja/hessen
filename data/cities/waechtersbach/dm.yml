@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.251119700000004
 longitude: 9.2914692
-postcode: 63607
+postcode: "63607"
 city: Wächtersbach
 street: "Main-Kinzig-Straße"
 housenumber: 32a

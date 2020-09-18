@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.1290799
 longitude: 8.8930041
-postcode: 63454
+postcode: "63454"
 city: Hanau
 street: "Kastanienallee"
 housenumber: 2

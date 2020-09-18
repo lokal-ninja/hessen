@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.5520324
 longitude: 9.6757699
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Friedrichstraße"
 housenumber: 1

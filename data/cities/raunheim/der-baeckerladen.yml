@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0143009
 longitude: 8.4506862
-postcode: 65479
+postcode: "65479"
 city: Raunheim
 street: "Mainzer Straße"
 housenumber: 14

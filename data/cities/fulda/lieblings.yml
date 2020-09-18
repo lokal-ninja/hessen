@@ -3,10 +3,10 @@ type: node
 shop: Andenken
 latitude: 50.552299600000005
 longitude: 9.6760338
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Friedrichstraße"
 housenumber: 16
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
 website: ""

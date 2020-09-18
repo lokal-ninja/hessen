@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.56044240000001
 longitude: 9.6651246
-postcode: 36039
+postcode: "36039"
 city: Fulda
 street: "Horaser Weg"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.2865246
 longitude: 9.5027509
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Falderbaumstraße"
 housenumber: 2

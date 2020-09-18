@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.1550912
 longitude: 8.527740900000001
-postcode: 65824
+postcode: "65824"
 city: Schwalbach am Taunus
 street: "Marktplatz"
 housenumber: 18

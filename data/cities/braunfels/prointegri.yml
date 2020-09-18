@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.5200826
 longitude: 8.3896248
-postcode: 35619
+postcode: "35619"
 city: Braunfels
 street: "Wintersburgstraße"
 housenumber: 9

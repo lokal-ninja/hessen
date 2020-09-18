@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1211676
 longitude: 8.820219100000001
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Offenbacher Straße"
 housenumber: 101-103

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3166005
 longitude: 9.4980972
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Königsplatz"
 housenumber: 61

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.108173400000005
 longitude: 8.6706573
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Münchener Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.750514200000005
 longitude: 8.559319
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Herborner Straße"
 housenumber: 23

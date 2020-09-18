@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.823537
 longitude: 8.4484291
-postcode: 35719
+postcode: "35719"
 city: Angelburg
 street: "Schelde-Lahn-Straße"
 housenumber: 236

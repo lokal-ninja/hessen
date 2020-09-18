@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.078098700000005
 longitude: 8.9968546
-postcode: 63538
+postcode: "63538"
 city: Großkrotzenburg
 street: "Ostendstraße"
 housenumber: 7

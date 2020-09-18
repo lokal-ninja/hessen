@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1553174
 longitude: 8.5272816
-postcode: 65824
+postcode: "65824"
 city: Schwalbach am Taunus
 street: "Marktplatz"
 housenumber: 22

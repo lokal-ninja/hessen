@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.0589213
 longitude: 8.803909
-postcode: 63150
+postcode: "63150"
 city: Heusenstamm
 street: "Frankfurter Straße"
 housenumber: 52

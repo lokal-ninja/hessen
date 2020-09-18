@@ -3,7 +3,7 @@ type: way
 shop: Elektrisch
 latitude: 50.254541700000004
 longitude: 8.6404187
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Bahnstraße"
 housenumber: 10

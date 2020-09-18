@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.604788000000006
 longitude: 8.7908522
-postcode: 35418
+postcode: "35418"
 city: Buseck
 street: "Zeilstraße"
 housenumber: 55

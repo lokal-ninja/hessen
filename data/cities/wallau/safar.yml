@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.0633343
 longitude: 8.3915591
-postcode: 65719
+postcode: "65719"
 city: Wallau
 street: "Robert-Bosch-Straße"
 housenumber: 13a

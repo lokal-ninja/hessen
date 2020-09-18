@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 49.9486867
 longitude: 8.646312100000001
-postcode: 64390
+postcode: "64390"
 city: Erzhausen
 street: "Arheilger Straße"
 housenumber: 

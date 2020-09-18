@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3139173
 longitude: 9.499942200000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Steinweg"
 housenumber: 7

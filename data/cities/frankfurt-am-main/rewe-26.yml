@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.121486600000004
 longitude: 8.651996500000001
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Gräfstraße"
 housenumber: 92

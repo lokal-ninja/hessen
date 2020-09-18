@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.290809800000005
 longitude: 9.455358200000001
-postcode: 34134
+postcode: "34134"
 city: Kassel
 street: "Glöcknerpfad"
 housenumber: 33

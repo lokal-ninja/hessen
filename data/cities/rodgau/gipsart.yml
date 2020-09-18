@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.0251463
 longitude: 8.883539500000001
-postcode: 63110
+postcode: "63110"
 city: Rodgau
 street: "Vordergasse"
 housenumber: 61

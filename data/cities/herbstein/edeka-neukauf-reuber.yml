@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5558497
 longitude: 9.351619900000001
-postcode: 36358
+postcode: "36358"
 city: Herbstein
 street: "Hessenstraße"
 housenumber: 83

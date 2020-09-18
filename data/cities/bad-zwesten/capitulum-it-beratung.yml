@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.059477300000005
 longitude: 9.181709000000001
-postcode: 34596
+postcode: "34596"
 city: Bad Zwesten
 street: "Brüder-Grimm-Straße"
 housenumber: 1a

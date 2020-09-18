@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.427736
 longitude: 9.480403800000001
-postcode: 34376
+postcode: "34376"
 city: Immenhausen
 street: "Neue Straße"
 housenumber: 20

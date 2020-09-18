@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.7904525
 longitude: 8.7659044
-postcode: 35039
+postcode: "35039"
 city: Marburg
 street: "Frauenbergstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.081254
 longitude: 8.9807276
-postcode: 63538
+postcode: "63538"
 city: Großkrotzenburg
 street: "Bahnhofstraße"
 housenumber: 2

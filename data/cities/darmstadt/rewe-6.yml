@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.882201800000004
 longitude: 8.6564595
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Liebfrauenstraße"
 housenumber: 34

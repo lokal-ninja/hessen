@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.275239000000006
 longitude: 8.8705785
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Professor-Bier-Straße"
 housenumber: 2a

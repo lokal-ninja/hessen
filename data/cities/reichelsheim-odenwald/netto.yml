@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7084138
 longitude: 8.8436149
-postcode: 64385
+postcode: "64385"
 city: Reichelsheim (Odenwald)
 street: "Sudetenstraße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.905454500000005
 longitude: 8.8505261
-postcode: 64807
+postcode: "64807"
 city: Dieburg
 street: "Industriestraße"
 housenumber: 15

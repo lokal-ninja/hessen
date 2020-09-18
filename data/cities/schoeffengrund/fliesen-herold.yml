@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 50.491675
 longitude: 8.473395700000001
-postcode: 35641
+postcode: "35641"
 city: Schöffengrund
 street: "Steinstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.593626400000005
 longitude: 8.662452
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Krofdorfer Straße"
 housenumber: 72

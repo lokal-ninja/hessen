@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.896585200000004
 longitude: 8.5186299
-postcode: 64572
+postcode: "64572"
 city: Büttelborn
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0890907
 longitude: 8.7655054
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Odenwaldring"
 housenumber: 40

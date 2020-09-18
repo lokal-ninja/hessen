@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7675859
 longitude: 8.644873800000001
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Heidelberger Straße"
 housenumber: 62

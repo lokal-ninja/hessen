@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5633482
 longitude: 8.5019183
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Bahnhofstraße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.894734
 longitude: 8.6088365
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Friedrich-Schaefer-Straße"
 housenumber: 1

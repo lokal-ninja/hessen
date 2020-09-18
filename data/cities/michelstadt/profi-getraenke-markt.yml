@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.678803900000005
 longitude: 8.998178900000001
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Hammerweg"
 housenumber: 35

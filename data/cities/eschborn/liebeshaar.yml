@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1411646
 longitude: 8.5734083
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Rathausplatz"
 housenumber: 20

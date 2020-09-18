@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3054524
 longitude: 9.4437788
-postcode: 34131
+postcode: "34131"
 city: Kassel
 street: "Ludwig-Erhard-Straße"
 housenumber: 11

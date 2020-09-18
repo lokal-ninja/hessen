@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.534898000000005
 longitude: 9.7152873
-postcode: 36093
+postcode: "36093"
 city: Künzell
 street: "Turmstraße"
 housenumber: 109

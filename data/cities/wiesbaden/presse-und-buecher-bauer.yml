@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.0830482
 longitude: 8.2390785
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Langgasse"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.192964700000005
 longitude: 9.4745618
-postcode: 63637
+postcode: "63637"
 city: Jossgrund
 street: "Frankfurter Straße"
 housenumber: 26

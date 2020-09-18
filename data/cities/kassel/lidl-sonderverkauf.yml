@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.325255500000004
 longitude: 9.5171969
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Fuldatalstraße"
 housenumber: 10c

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9704491
 longitude: 9.792976000000001
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Nürnberger Straße"
 housenumber: 25-27

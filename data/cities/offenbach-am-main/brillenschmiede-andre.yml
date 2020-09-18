@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.1059381
 longitude: 8.7621613
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Herrnstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.344088400000004
 longitude: 9.858545600000001
-postcode: 37213
+postcode: "37213"
 city: Witzenhausen
 street: "Steinstraße"
 housenumber: 19

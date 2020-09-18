@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.29477970000001
 longitude: 8.513751000000001
-postcode: 61267
+postcode: "61267"
 city: Neu-Anspach
 street: "Bahnhofstraße"
 housenumber: 62

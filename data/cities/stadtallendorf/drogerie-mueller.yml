@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.826472200000005
 longitude: 9.0124066
-postcode: 35260
+postcode: "35260"
 city: Stadtallendorf
 street: "Herrenwaldstraße"
 housenumber: 4a

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6354581
 longitude: 9.395616200000001
-postcode: 36341
+postcode: "36341"
 city: Lauterbach
 street: "Am Wörth"
 housenumber: 2

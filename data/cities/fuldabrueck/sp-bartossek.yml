@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.2286657
 longitude: 9.5014973
-postcode: 34277
+postcode: "34277"
 city: Fuldabrück
 street: "Rundstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9116355
 longitude: 8.4881434
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Odenwaldstraße"
 housenumber: 2

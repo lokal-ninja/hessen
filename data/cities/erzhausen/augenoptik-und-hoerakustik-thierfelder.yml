@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.9519187
 longitude: 8.6407162
-postcode: 64390
+postcode: "64390"
 city: Erzhausen
 street: "Bahnstraße"
 housenumber: 88

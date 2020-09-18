@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.8060521
 longitude: 8.6065567
-postcode: 64319
+postcode: "64319"
 city: Pfungstadt
 street: "Eberstädter Straße"
 housenumber: 94c

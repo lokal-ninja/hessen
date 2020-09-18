@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1886227
 longitude: 8.7327055
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Homburger Straße"
 housenumber: 74

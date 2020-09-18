@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 50.184733
 longitude: 9.144577700000001
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Hanauer Landstraße"
 housenumber: 18

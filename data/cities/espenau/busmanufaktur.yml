@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.401960800000005
 longitude: 9.4708626
-postcode: 34314
+postcode: "34314"
 city: Espenau
 street: "Teichstraße"
 housenumber: 7

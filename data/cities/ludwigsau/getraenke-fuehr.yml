@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.9774437
 longitude: 9.584379100000001
-postcode: 36251
+postcode: "36251"
 city: Ludwigsau
 street: "Rengshäuser Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.7744305
 longitude: 8.6373148
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Friedrich-Ebert-Straße"
 housenumber: 51

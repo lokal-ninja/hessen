@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.2005053
 longitude: 9.177086800000001
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Freigerichter Straße"
 housenumber: 4

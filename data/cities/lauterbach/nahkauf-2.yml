@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6630994
 longitude: 9.387072700000001
-postcode: 36341
+postcode: "36341"
 city: Lauterbach
 street: "Maarer Goldhelg"
 housenumber: 13

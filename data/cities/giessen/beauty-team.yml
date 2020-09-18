@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.583768400000004
 longitude: 8.6729952
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Seltersweg"
 housenumber: 27

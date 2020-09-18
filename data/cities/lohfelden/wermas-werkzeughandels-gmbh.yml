@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 51.2864213
 longitude: 9.5330972
-postcode: 34253
+postcode: "34253"
 city: Lohfelden
 street: "Justus-Liebig-Straße"
 housenumber: 1

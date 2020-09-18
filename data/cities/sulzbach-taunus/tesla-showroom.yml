@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.119611600000006
 longitude: 8.525940700000001
-postcode: 65843
+postcode: "65843"
 city: Sulzbach (Taunus)
 street: "Am Main-Taunus-Zentrum"
 housenumber: 

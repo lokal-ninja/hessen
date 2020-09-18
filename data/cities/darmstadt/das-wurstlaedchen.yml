@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.873846
 longitude: 8.6514282
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Luisenstraße"
 housenumber: 4

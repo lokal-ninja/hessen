@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.584782100000005
 longitude: 8.689221100000001
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Grünberger Straße"
 housenumber: 49-63

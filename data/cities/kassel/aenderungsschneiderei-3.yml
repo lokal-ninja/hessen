@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.2830445
 longitude: 9.4363946
-postcode: 34132
+postcode: "34132"
 city: Kassel
 street: "Korbacher Straße"
 housenumber: 188

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.2975495
 longitude: 9.4806685
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 155

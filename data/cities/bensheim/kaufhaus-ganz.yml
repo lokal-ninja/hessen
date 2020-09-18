@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 49.680076
 longitude: 8.622437
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Hauptstraße"
 housenumber: 56

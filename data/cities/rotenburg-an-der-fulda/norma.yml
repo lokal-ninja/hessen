@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9913826
 longitude: 9.7751465
-postcode: 36199
+postcode: "36199"
 city: Rotenburg an der Fulda
 street: "Nürnberger Straße"
 housenumber: 61

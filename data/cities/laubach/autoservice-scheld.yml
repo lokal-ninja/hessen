@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.540766700000006
 longitude: 8.9825561
-postcode: 35321
+postcode: "35321"
 city: Laubach
 street: "Bürgelweg"
 housenumber: 3

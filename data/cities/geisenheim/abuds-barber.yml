@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9829608
 longitude: 7.9656079
-postcode: 65366
+postcode: "65366"
 city: Geisenheim
 street: "Lindenplatz"
 housenumber: 3

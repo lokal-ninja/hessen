@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 51.291212300000005
 longitude: 9.4731672
-postcode: 34134
+postcode: "34134"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 192
-phone: ""
+phone: "+49 561 43592"
 opening_hours: ""
-website: ""
+website: "https://www.autoservice192.de/"

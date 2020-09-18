@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.390820000000005
 longitude: 9.4662319
-postcode: 34314
+postcode: "34314"
 city: Espenau
 street: "Goethestraße"
 housenumber: 19

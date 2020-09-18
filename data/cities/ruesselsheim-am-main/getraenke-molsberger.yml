@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.957392000000006
 longitude: 8.4506213
-postcode: 65428
+postcode: "65428"
 city: Rüsselsheim am Main
 street: "Nauheimer Straße"
 housenumber: 80

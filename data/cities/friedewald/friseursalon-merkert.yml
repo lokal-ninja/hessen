@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.881987800000005
 longitude: 9.856265800000001
-postcode: 36289
+postcode: "36289"
 city: Friedewald
 street: "Große Hohle"
 housenumber: 1

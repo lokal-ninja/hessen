@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.8593703
 longitude: 8.6517199
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Niederstraße"
 housenumber: 1

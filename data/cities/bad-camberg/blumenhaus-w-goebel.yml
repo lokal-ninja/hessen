@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.296750700000004
 longitude: 8.2613619
-postcode: 65520
+postcode: "65520"
 city: Bad Camberg
 street: "Gebrüder-Grimm-Straße"
 housenumber: 2

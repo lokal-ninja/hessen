@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.5761285
 longitude: 8.5086592
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Naunheimer Straße"
 housenumber: 36

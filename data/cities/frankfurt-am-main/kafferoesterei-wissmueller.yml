@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.1221376
 longitude: 8.6467273
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Leipziger Straße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 49.8273931
 longitude: 8.8318134
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Darmstädter Straße"
 housenumber: 13

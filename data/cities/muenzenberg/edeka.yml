@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.457497100000005
 longitude: 8.732582500000001
-postcode: 35516
+postcode: "35516"
 city: Münzenberg
 street: "Butzbacher Straße"
 housenumber: 3

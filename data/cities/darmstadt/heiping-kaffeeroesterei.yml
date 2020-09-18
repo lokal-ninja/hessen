@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.8652784
 longitude: 8.6556449
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Karlstraße"
 housenumber: 64

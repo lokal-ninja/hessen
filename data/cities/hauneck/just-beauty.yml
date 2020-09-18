@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.8379385
 longitude: 9.7198154
-postcode: 36282
+postcode: "36282"
 city: Hauneck
 street: "Döllwiesen"
 housenumber: 18

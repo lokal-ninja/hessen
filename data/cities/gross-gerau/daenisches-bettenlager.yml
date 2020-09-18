@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.9090896
 longitude: 8.498836800000001
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Helvetiastraße"
 housenumber: 5

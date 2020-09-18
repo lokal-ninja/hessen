@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 50.133000800000005
 longitude: 8.4537244
-postcode: 65779
+postcode: "65779"
 city: Kelkheim (Taunus)
 street: "Höchster Straße"
 housenumber: 6

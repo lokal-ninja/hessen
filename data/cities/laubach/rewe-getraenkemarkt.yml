@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5437729
 longitude: 8.980438900000001
-postcode: 35321
+postcode: "35321"
 city: Laubach
 street: "Dexionstraße"
 housenumber: 2

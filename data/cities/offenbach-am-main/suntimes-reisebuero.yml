@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.0871884
 longitude: 8.7613489
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Odenwaldring"
 housenumber: 70

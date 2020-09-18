@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.790944800000005
 longitude: 8.6767357
-postcode: 64367
+postcode: "64367"
 city: Mühltal
 street: "Untergasse"
 housenumber: 1

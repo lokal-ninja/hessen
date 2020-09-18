@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.4975949
 longitude: 8.660364600000001
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Breitgasse"
 housenumber: 2a

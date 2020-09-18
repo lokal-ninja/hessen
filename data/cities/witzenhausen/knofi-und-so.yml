@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.34231260000001
 longitude: 9.8829505
-postcode: 37214
+postcode: "37214"
 city: Witzenhausen
 street: "Ludwigsteinstraße"
 housenumber: 32

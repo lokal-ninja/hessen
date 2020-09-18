@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.5484103
 longitude: 9.6868228
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Am Emaillierwerk"
 housenumber: 1

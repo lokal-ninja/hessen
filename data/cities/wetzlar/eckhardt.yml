@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5525779
 longitude: 8.500383000000001
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "Silhöfertorstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.550867600000004
 longitude: 9.681529300000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Petersgasse"
 housenumber: 6

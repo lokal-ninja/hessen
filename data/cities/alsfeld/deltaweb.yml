@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.752803
 longitude: 9.270071100000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Ludwigsplatz"
 housenumber: 1

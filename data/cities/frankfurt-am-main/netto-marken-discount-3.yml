@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1230958
 longitude: 8.6010038
-postcode: 60489
+postcode: "60489"
 city: Frankfurt am Main
 street: "Westerbachstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1114972
 longitude: 8.683685200000001
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Braubachstraße"
 housenumber: 14

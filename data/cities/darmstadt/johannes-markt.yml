@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.8816836
 longitude: 8.6507456
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
 street: "Frankfurter Straße"
 housenumber: 68

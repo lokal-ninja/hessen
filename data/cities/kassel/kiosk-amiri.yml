@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.3053552
 longitude: 9.4857291
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 71

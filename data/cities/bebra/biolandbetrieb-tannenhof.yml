@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.005425300000006
 longitude: 9.857076300000001
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Hof Vockerode"
 housenumber: 5

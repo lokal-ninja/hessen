@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.104899100000004
 longitude: 8.763736600000001
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Frankfurter Straße"
 housenumber: 7

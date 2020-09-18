@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.2276315
 longitude: 8.6122431
-postcode: 61348
+postcode: "61348"
 city: Bad Homburg v.d. Höhe
 street: "Löwengasse"
 housenumber: 9

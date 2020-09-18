@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.678705
 longitude: 8.621692300000001
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Hauptstraße"
 housenumber: 96

@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 50.1215235
 longitude: 8.7372016
-postcode: 60314
+postcode: "60314"
 city: Frankfurt am Main
 street: "Hanauer Landstraße"
 housenumber: 423a

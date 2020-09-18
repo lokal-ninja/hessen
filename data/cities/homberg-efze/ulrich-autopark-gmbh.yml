@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0297507
 longitude: 9.4176876
-postcode: 34576
+postcode: "34576"
 city: Homberg (Efze)
 street: "Hersfelder Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.7566599
 longitude: 8.6352878
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Alte Bergstraße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.325250700000005
 longitude: 9.1731981
-postcode: 34466
+postcode: "34466"
 city: Wolfhagen
 street: "Hans-Staden-Straße"
 housenumber: 2

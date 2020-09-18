@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 50.0696856
 longitude: 8.485317100000001
-postcode: 65795
+postcode: "65795"
 city: Hattersheim
 street: "Hauptstraße"
 housenumber: 40

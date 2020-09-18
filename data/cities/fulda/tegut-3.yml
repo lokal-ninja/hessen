@@ -1,12 +1,12 @@
-id: 134571090
+id: 134130542
 type: way
 shop: Supermarkt
-latitude: 50.558315300000004
-longitude: 9.656644700000001
-postcode: 36041
+latitude: 50.5476657
+longitude: 9.629876900000001
+postcode: "36041"
 city: Fulda
-street: "Maberzeller Straße"
-housenumber: 45
+street: "Merkurstraße"
+housenumber: 16-20
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: ""
 website: ""

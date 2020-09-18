@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.119005400000006
 longitude: 8.5260636
-postcode: 65843
+postcode: "65843"
 city: Sulzbach (Taunus)
 street: "Am Main-Taunus-Zentrum"
 housenumber: 

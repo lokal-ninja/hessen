@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.5917236
 longitude: 9.5038592
-postcode: 36137
+postcode: "36137"
 city: Großenlüder
 street: "Hauptstraße"
 housenumber: 26

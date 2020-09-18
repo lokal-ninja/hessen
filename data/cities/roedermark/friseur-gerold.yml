@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.972029400000004
 longitude: 8.794992500000001
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Konrad-Adenauer-Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.5507866
 longitude: 9.678414
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Buttermarkt"
 housenumber: 17

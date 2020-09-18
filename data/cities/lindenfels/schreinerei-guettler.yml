@@ -3,7 +3,7 @@ type: node
 shop: Schreinerei
 latitude: 49.694333400000005
 longitude: 8.745469400000001
-postcode: 64678
+postcode: "64678"
 city: Lindenfels
 street: "Ortsstraße"
 housenumber: 38

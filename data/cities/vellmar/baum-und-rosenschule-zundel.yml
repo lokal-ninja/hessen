@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.3463105
 longitude: 9.475212
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Warburger Straße"
 housenumber: 2

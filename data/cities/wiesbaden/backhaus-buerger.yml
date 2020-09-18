@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0874596
 longitude: 8.2370833
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Röderstraße"
 housenumber: 17

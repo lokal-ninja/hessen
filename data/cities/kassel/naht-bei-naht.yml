@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 51.322209300000004
 longitude: 9.4501284
-postcode: 34130
+postcode: "34130"
 city: Kassel
 street: "Zentgrafenstraße"
 housenumber: 93

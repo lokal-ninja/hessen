@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6783979
 longitude: 9.0005507
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Marktstraße"
 housenumber: 1

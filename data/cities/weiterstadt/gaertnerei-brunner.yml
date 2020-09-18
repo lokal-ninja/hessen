@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.886945700000005
 longitude: 8.6097651
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Wiesenstraße"
 housenumber: 56

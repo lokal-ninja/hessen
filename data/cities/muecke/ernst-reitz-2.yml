@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.6454176
 longitude: 9.0329336
-postcode: 35325
+postcode: "35325"
 city: Mücke
 street: "Merlauer Straße"
 housenumber: 2

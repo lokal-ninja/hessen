@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.620826900000004
 longitude: 8.6358084
-postcode: 35435
+postcode: "35435"
 city: Wettenberg
 street: "Wetzlarer Straße"
 housenumber: 

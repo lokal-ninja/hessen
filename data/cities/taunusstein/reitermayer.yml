@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.170320600000004
 longitude: 8.212112000000001
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
 street: "Limburger Straße"
 housenumber: 

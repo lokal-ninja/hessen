@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.109963400000005
 longitude: 8.710200500000001
-postcode: 60314
+postcode: "60314"
 city: Frankfurt am Main
 street: "Mayfarthstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.307924400000005
 longitude: 8.5067053
-postcode: 61267
+postcode: "61267"
 city: Neu-Anspach
 street: "Hauptstraße"
 housenumber: 3

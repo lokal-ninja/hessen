@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.334186
 longitude: 8.536287100000001
-postcode: 61250
+postcode: "61250"
 city: Usingen
 street: "Wilhelmjstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.690163600000005
 longitude: 8.5922719
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Am Schlachthof"
 housenumber: 5

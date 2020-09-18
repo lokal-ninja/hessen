@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.8317362
 longitude: 8.8327185
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Goethestraße"
 housenumber: 6

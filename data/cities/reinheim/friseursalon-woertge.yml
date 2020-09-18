@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.8224704
 longitude: 8.8451892
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Obere Straße"
 housenumber: 30

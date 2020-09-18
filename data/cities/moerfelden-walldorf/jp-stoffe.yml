@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.966663200000006
 longitude: 8.5649519
-postcode: 64546
+postcode: "64546"
 city: Mörfelden-Walldorf
 street: "Siemensstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.5719172
 longitude: 8.8233513
-postcode: 69483
+postcode: "69483"
 city: Wald-Michelbach
 street: "In der Gass"
 housenumber: 15

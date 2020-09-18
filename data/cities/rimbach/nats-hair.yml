@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.620395900000005
 longitude: 8.7586435
-postcode: 64668
+postcode: "64668"
 city: Rimbach
 street: "Schloßstraße"
 housenumber: 25

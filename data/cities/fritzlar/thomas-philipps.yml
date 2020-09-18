@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.1277958
 longitude: 9.2921671
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Gewerbering"
 housenumber: 2

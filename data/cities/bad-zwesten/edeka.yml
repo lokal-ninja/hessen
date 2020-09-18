@@ -1,9 +1,9 @@
 id: 1673296288
 type: node
 shop: Supermarkt
-latitude: 51.0526514
-longitude: 9.1762072
-postcode: 34596
+latitude: 51.0526416
+longitude: 9.176169900000001
+postcode: "34596"
 city: Bad Zwesten
 street: "Hauptstraße"
 housenumber: 5

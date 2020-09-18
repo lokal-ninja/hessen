@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.8711247
 longitude: 8.6507137
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Adelungstraße"
 housenumber: 2

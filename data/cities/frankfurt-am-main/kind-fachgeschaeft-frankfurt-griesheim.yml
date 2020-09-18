@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.0919122
 longitude: 8.6071842
-postcode: 65933
+postcode: "65933"
 city: Frankfurt am Main
 street: "Alte Falterstraße"
 housenumber: 11

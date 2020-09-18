@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.100273
 longitude: 8.6865375
-postcode: 60594
+postcode: "60594"
 city: Frankfurt am Main
 street: "Hedderichstraße"
 housenumber: 47-49

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.14439
 longitude: 8.92083
-postcode: 
+postcode: ""
 city: Hanau
 street: "Alter Rückinger Weg"
 housenumber: 57

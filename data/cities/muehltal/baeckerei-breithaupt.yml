@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.8266981
 longitude: 8.703069300000001
-postcode: 64367
+postcode: "64367"
 city: Mühltal
 street: "Ober-Ramstädter Straße"
 housenumber: 39

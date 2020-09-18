@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.9951598
 longitude: 8.6784193
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "An der Winkelwiese"
 housenumber: 1A

@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 50.5963341
 longitude: 8.7098674
-postcode: 35396
+postcode: "35396"
 city: Gießen
 street: "Ursulum"
 housenumber: 16

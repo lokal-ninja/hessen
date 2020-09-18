@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9754724
 longitude: 9.326678600000001
-postcode: 34621
+postcode: "34621"
 city: Frielendorf
 street: "Hauptstraße"
 housenumber: 58

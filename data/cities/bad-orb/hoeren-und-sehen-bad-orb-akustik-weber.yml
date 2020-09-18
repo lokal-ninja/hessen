@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.224296200000005
 longitude: 9.3484791
-postcode: 63619
+postcode: "63619"
 city: Bad Orb
 street: "Burgring"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.3413163
 longitude: 9.8590193
-postcode: 37213
+postcode: "37213"
 city: Witzenhausen
 street: "Walburger Straße"
 housenumber: 19

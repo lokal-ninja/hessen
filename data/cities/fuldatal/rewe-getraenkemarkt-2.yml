@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.3860849
 longitude: 9.5232004
-postcode: 34233
+postcode: "34233"
 city: Fuldatal
 street: "Reinhardswaldstraße"
 housenumber: 2

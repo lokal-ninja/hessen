@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9751507
 longitude: 8.786004700000001
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Konrad-Adenauer-Straße"
 housenumber: 87

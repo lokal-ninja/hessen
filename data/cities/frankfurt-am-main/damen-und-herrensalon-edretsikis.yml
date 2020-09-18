@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.120241400000005
 longitude: 8.6494216
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Adalbertstraße"
 housenumber: 2

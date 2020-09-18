@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1174255
 longitude: 8.815844700000001
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Borsigstraße"
 housenumber: 17

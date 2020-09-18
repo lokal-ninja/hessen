@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.5531359
 longitude: 9.720205100000001
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Ignaz-Komp-Straße"
 housenumber: 5

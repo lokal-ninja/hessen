@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.7407339
 longitude: 9.0038081
-postcode: 64732
+postcode: "64732"
 city: Bad König
 street: "Bahnhofstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.1315347
 longitude: 9.271033000000001
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Am Hochzeitshaus"
 housenumber: 23

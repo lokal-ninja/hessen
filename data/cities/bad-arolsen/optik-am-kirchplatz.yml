@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.3806583
 longitude: 9.015215300000001
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Kirchplatz"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.023729100000004
 longitude: 8.6951145
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Frankfurter Straße"
 housenumber: 70-72

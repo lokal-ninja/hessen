@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.388977600000004
 longitude: 9.007198500000001
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Prof.-Bier-Straße"
 housenumber: 70

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.335733100000006
 longitude: 8.5323112
-postcode: 61250
+postcode: "61250"
 city: Usingen
 street: "Neutorstraße"
 housenumber: 8

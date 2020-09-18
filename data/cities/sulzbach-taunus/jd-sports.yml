@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.118585200000005
 longitude: 8.5278983
-postcode: 65843
+postcode: "65843"
 city: Sulzbach (Taunus)
 street: "Am Main-Taunus-Zentrum"
 housenumber: 

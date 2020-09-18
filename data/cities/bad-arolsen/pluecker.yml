@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.379727200000005
 longitude: 9.0164159
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Rathausstraße"
 housenumber: 1

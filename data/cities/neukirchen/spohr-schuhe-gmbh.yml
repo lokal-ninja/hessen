@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.866212700000005
 longitude: 9.3441256
-postcode: 34626
+postcode: "34626"
 city: Neukirchen
 street: "Birkenallee"
 housenumber: 2

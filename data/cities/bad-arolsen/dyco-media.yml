@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.3754003
 longitude: 9.003261
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Albert-Schweitzer-Straße"
 housenumber: 33b

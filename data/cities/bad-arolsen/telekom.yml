@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.380549
 longitude: 9.0120549
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Bahnhofstraße"
 housenumber: 23

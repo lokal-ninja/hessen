@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.193909000000005
 longitude: 8.728858800000001
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Zeppelinstraße"
 housenumber: 25

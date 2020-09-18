@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0315183
 longitude: 9.025255300000001
-postcode: 63533
+postcode: "63533"
 city: Mainhausen
 street: "Schillerstraße"
 housenumber: 25

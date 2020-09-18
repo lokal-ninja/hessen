@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.757204900000005
 longitude: 9.2325427
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Sielweg"
 housenumber: 11

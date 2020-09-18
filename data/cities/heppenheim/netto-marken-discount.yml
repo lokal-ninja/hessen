@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.646342700000005
 longitude: 8.639226
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Darmstädter Straße"
 housenumber: 32-34

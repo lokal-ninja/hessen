@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3975991
 longitude: 8.749348900000001
-postcode: 61231
+postcode: "61231"
 city: Bad Nauheim
 street: "Im Steckgarten"
 housenumber: 8

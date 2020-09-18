@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.5845914
 longitude: 8.6736766
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Seltersweg"
 housenumber: 10

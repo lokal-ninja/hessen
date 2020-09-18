@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.825650100000004
 longitude: 8.8256998
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Ober-Ramstädter Weg"
 housenumber: 15

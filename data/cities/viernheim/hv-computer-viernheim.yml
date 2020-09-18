@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.542950100000006
 longitude: 8.5963127
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Walter-Oehmichen-Straße"
 housenumber: 16

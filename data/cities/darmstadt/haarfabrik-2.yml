@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.8204566
 longitude: 8.6445495
-postcode: 64297
+postcode: "64297"
 city: Darmstadt
 street: "Heidelberger Landstraße"
 housenumber: 186b

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.97570210000001
 longitude: 8.3817091
-postcode: 65474
+postcode: "65474"
 city: Bischofsheim
 street: "Neben dem Mühlweg"
 housenumber: 12-14

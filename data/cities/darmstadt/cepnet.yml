@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 49.870124700000005
 longitude: 8.654423000000001
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Schützenstraße"
 housenumber: 

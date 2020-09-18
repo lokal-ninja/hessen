@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.3726944
 longitude: 8.992564100000001
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Ostpreußenstraße"
 housenumber: 57

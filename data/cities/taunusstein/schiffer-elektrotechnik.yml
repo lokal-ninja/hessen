@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.1575173
 longitude: 8.215074300000001
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
 street: "Am Segelflugplatz"
 housenumber: 3

@@ -1,12 +1,12 @@
-id: 2699699453
-type: node
-shop: Supermarkt
-latitude: 51.5750036
-longitude: 9.4294945
-postcode: 34388
+id: 166747427
+type: way
+shop: Getränke
+latitude: 51.574695600000005
+longitude: 9.4295161
+postcode: "34388"
 city: Trendelburg
 street: "Friedrichsfelder Straße"
-housenumber: 
+housenumber: 2a
 phone: ""
 opening_hours: "Mo-Sa 09:00-20:00"
 website: ""

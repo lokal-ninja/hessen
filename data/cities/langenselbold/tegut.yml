@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1803005
 longitude: 9.0280956
-postcode: 63505
+postcode: "63505"
 city: Langenselbold
 street: "Ringstraße"
 housenumber: 58

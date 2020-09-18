@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.535436600000004
 longitude: 8.534476600000001
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "Wilhelm-Loh-Straße"
 housenumber: 10

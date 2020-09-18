@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.104182900000005
 longitude: 8.7693624
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Bieberer Straße"
 housenumber: 37

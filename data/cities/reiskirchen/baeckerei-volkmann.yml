@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.598519800000005
 longitude: 8.8307749
-postcode: 35447
+postcode: "35447"
 city: Reiskirchen
 street: "Grünberger Straße"
 housenumber: 32

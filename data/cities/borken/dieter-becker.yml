@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.046085600000005
 longitude: 9.2830875
-postcode: 34582
+postcode: "34582"
 city: Borken
 street: "Bahnhofstraße"
 housenumber: 67

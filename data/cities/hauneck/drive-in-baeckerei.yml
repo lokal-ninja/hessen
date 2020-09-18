@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8353959
 longitude: 9.722439900000001
-postcode: 36282
+postcode: "36282"
 city: Hauneck
 street: "Hersfelder Straße"
 housenumber: 11

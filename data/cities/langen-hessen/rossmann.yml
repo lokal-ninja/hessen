@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.989933900000004
 longitude: 8.6707357
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Bahnstraße"
 housenumber: 31-33

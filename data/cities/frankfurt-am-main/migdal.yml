@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.1236997
 longitude: 8.7155729
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Saalburgallee"
 housenumber: 30d

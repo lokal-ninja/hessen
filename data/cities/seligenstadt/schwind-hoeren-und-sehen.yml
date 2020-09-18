@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.044463900000004
 longitude: 8.973190800000001
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Frankfurter Straße"
 housenumber: 19

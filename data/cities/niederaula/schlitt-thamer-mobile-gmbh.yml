@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.798682500000005
 longitude: 9.6015741
-postcode: 36272
+postcode: "36272"
 city: Niederaula
 street: "Schlitzer Straße"
 housenumber: 24

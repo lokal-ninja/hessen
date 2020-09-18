@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.9685816
 longitude: 8.8376176
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Breidertring"
 housenumber: 2a

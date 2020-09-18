@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.0804156
 longitude: 8.9815355
-postcode: 63538
+postcode: "63538"
 city: Großkrotzenburg
 street: "Oberhaag"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.9823303
 longitude: 8.677618800000001
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Darmstädter Straße"
 housenumber: 47-49

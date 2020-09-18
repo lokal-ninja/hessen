@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.548357
 longitude: 8.476491300000001
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "An der Kommandantur"
 housenumber: 4

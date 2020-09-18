@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 50.112155200000004
 longitude: 8.679680900000001
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Kornmarkt"
 housenumber: 10

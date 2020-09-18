@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.753168800000005
 longitude: 8.4937737
-postcode: 35080
+postcode: "35080"
 city: Bad Endbach
 street: "Landstraße"
 housenumber: 33

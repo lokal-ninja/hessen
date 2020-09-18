@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.060122
 longitude: 8.798493
-postcode: 35066
+postcode: "35066"
 city: Frankenberg (Eder)
 street: "Neustädter Straße"
 housenumber: 52

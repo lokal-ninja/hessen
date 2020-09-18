@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.588562700000004
 longitude: 8.5462696
-postcode: 35633
+postcode: "35633"
 city: Lahnau
 street: "Ludwig-Rinn-Straße"
 housenumber: 16

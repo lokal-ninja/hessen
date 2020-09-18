@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.21618410000001
 longitude: 8.8327904
-postcode: 61137
+postcode: "61137"
 city: Schöneck
 street: "Südliche Hauptstraße"
 housenumber: 23

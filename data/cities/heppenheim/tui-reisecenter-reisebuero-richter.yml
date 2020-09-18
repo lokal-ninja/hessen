@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.642791700000004
 longitude: 8.6409983
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Zwerchgasse"
 housenumber: 3

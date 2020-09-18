@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.344272800000006
 longitude: 8.744337
-postcode: 61169
+postcode: "61169"
 city: Friedberg (Hessen)
 street: "Anna-Kloos-Straße"
 housenumber: 1

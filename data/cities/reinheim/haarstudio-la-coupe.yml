@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.828692100000005
 longitude: 8.836418400000001
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Friedrichstraße"
 housenumber: 31

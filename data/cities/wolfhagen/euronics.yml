@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.332328600000004
 longitude: 9.175125000000001
-postcode: 34466
+postcode: "34466"
 city: Wolfhagen
 street: "Bunsenstraße"
 housenumber: 8

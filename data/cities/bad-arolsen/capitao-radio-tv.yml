@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.3650072
 longitude: 8.9772864
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Lerchenweg"
 housenumber: 26

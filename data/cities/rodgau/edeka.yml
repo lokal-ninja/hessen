@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0154769
 longitude: 8.8873542
-postcode: 63110
+postcode: "63110"
 city: Rodgau
 street: "Hegelstraße"
 housenumber: 3

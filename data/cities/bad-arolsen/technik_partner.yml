@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.3770308
 longitude: 9.0101691
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Georg-Viktor-Straße"
 housenumber: 2

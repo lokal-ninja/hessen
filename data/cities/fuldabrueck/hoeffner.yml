@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 51.2738318
 longitude: 9.5019497
-postcode: 34277
+postcode: "34277"
 city: Fuldabrück
 street: "Albert-Einstein-Straße"
 housenumber: 6
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-19:00"
 website: "https://www.hoeffner.de/kassel"

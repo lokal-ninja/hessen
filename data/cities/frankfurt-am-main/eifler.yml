@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.126294400000006
 longitude: 8.707731
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Berger Straße"
 housenumber: 298

@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.9199617
 longitude: 8.4844878
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Darmstädter Straße"
 housenumber: 25

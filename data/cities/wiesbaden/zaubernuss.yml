@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.084197
 longitude: 8.227173200000001
-postcode: 65195
+postcode: "65195"
 city: Wiesbaden
 street: "Seerobenstraße"
 housenumber: 19

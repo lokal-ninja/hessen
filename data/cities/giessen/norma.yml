@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6014435
 longitude: 8.6958789
-postcode: 35396
+postcode: "35396"
 city: Gießen
 street: "Wingert"
 housenumber: 17

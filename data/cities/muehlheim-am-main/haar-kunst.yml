@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0938298
 longitude: 8.854071900000001
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Bürgermeister-Beheim-Straße"
 housenumber: 2

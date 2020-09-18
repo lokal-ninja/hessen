@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.1279862
 longitude: 8.6067525
-postcode: 60489
+postcode: "60489"
 city: Frankfurt am Main
 street: "Lorscher Straße"
 housenumber: 41

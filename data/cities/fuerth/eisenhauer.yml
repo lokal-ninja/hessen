@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.666955300000005
 longitude: 8.7957611
-postcode: 64658
+postcode: "64658"
 city: Fürth
 street: "Pfannstiel"
 housenumber: 3

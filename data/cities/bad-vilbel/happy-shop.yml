@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.1734604
 longitude: 8.7199367
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Otto-Fricke-Straße"
 housenumber: 18

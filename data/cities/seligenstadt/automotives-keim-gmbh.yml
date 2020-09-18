@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.055328800000005
 longitude: 8.9631314
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Marie-Curie-Straße"
 housenumber: 1

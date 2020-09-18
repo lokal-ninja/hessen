@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 50.091973700000004
 longitude: 9.1463023
-postcode: 63776
+postcode: "63776"
 city: Mömbris
 street: "Alzenauer Straße"
 housenumber: 108

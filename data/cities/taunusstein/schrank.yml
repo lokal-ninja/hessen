@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.153328800000004
 longitude: 8.1811419
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
 street: "Aarstraße"
 housenumber: 218

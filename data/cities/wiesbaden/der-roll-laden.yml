@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 50.10341450000001
 longitude: 8.3407283
-postcode: 65207
+postcode: "65207"
 city: Wiesbaden
 street: "In der Hofreite"
 housenumber: 13

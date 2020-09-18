@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.044639000000004
 longitude: 9.669817
-postcode: 36211
+postcode: "36211"
 city: Alheim
 street: "Nürnberger Straße"
 housenumber: 45

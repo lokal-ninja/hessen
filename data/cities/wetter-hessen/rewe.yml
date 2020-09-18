@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.904237300000005
 longitude: 8.721645500000001
-postcode: 35083
+postcode: "35083"
 city: Wetter (Hessen)
 street: "An der Bleiche"
 housenumber: 1

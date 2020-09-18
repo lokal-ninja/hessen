@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.067132300000004
 longitude: 9.620710500000001
-postcode: 34326
+postcode: "34326"
 city: Morschen
 street: "Nürnberger Landstraße"
 housenumber: 37

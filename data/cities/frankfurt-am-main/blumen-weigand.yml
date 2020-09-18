@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.123856100000005
 longitude: 8.5654751
-postcode: 65936
+postcode: "65936"
 city: Frankfurt am Main
 street: "Siegener Straße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0140958
 longitude: 8.2878246
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Ludwig-Wolker-Straße"
 housenumber: 14

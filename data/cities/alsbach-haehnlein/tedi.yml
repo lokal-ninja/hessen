@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.7428085
 longitude: 8.607923300000001
-postcode: 64665
+postcode: "64665"
 city: Alsbach-Hähnlein
 street: "In der Pfarrtanne"
 housenumber: 5

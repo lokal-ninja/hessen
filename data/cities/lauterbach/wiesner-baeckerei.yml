@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6358587
 longitude: 9.3919578
-postcode: 36341
+postcode: "36341"
 city: Lauterbach
 street: "Rockelsgasse"
 housenumber: 46

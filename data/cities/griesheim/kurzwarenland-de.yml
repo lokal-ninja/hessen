@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.8705731
 longitude: 8.5585231
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Dieselstraße"
 housenumber: 13

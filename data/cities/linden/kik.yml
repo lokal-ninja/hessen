@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.5379481
 longitude: 8.6715452
-postcode: 35440
+postcode: "35440"
 city: Linden
 street: ""
 housenumber: 

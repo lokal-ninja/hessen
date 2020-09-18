@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.5753423
 longitude: 8.7155939
-postcode: 69488
+postcode: "69488"
 city: Birkenau
 street: "Hauptstraße"
 housenumber: 191

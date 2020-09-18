@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.19571800000001
 longitude: 10.1014503
-postcode: 37276
+postcode: "37276"
 city: Meinhard
 street: "Dorfstraße"
 housenumber: 6

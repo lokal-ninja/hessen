@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.1382935
 longitude: 8.4991603
-postcode: 65812
+postcode: "65812"
 city: Bad Soden am Taunus
 street: "Händelstraße"
 housenumber: 4

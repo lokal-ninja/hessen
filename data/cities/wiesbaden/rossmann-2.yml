@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.044107200000006
 longitude: 8.2413685
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Straße der Republik"
 housenumber: 19a

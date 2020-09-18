@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.6785738
 longitude: 9.004056700000001
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Marktplatz"
 housenumber: 4

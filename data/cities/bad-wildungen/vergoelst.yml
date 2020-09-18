@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 51.1245537
 longitude: 9.1236814
-postcode: 34537
+postcode: "34537"
 city: Bad Wildungen
 street: "Friedrich-Ebert-Straße"
 housenumber: 5

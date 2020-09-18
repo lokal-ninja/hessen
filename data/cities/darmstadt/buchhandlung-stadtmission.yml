@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.8738505
 longitude: 8.661468300000001
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Merckstraße"
 housenumber: 24

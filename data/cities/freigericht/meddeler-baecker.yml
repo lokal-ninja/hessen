@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.1545834
 longitude: 9.1425599
-postcode: 63579
+postcode: "63579"
 city: Freigericht
 street: "Birkenhainer Straße"
 housenumber: 23

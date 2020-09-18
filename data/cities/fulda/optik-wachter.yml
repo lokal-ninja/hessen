@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.551268300000004
 longitude: 9.676878400000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Marktstraße"
 housenumber: 6

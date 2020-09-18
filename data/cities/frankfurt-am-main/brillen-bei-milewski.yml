@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.1528488
 longitude: 8.6615169
-postcode: 60433
+postcode: "60433"
 city: Frankfurt am Main
 street: "Eschersheimer Landstraße"
 housenumber: 476

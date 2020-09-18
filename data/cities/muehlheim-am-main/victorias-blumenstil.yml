@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.0974255
 longitude: 8.849675000000001
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Offenbacher Weg"
 housenumber: 28

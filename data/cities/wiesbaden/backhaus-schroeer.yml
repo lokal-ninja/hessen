@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0806507
 longitude: 8.2308458
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Bleichstraße"
 housenumber: 43

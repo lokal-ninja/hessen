@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.712338700000004
 longitude: 8.8388898
-postcode: 64385
+postcode: "64385"
 city: Reichelsheim (Odenwald)
 street: "Heidelberger Straße"
 housenumber: 

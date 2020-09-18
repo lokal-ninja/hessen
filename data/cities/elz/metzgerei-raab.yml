@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.4116853
 longitude: 8.0358031
-postcode: 65604
+postcode: "65604"
 city: Elz
 street: "Rathausstraße"
 housenumber: 23

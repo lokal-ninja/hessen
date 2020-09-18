@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1068045
 longitude: 8.6662563
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Münchener Straße"
 housenumber: 57

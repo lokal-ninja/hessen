@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.472324400000005
 longitude: 8.6539182
-postcode: 35510
+postcode: "35510"
 city: Butzbach
 street: "Hauptstraße"
 housenumber: 2

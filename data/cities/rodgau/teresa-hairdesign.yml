@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0300541
 longitude: 8.8843028
-postcode: 63110
+postcode: "63110"
 city: Rodgau
 street: "Ludwigstraße"
 housenumber: 76

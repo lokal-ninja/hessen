@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.4619809
 longitude: 9.20085
-postcode: 63679
+postcode: "63679"
 city: Schotten
 street: "Niddergrund"
 housenumber: 24

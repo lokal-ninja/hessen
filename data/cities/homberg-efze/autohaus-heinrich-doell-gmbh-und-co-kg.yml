@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.039386400000005
 longitude: 9.3954046
-postcode: 34576
+postcode: "34576"
 city: Homberg (Efze)
 street: "Basthauptweg"
 housenumber: 5

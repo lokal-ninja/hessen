@@ -3,9 +3,9 @@ type: node
 shop: Lebensmittel
 latitude: 49.6731137
 longitude: 8.5973488
-postcode: 64625
+postcode: "64625"
 city: Bensheim
-street: "Ampèrestraße"
+street: "AMPèrestraße"
 housenumber: 1
 phone: ""
 opening_hours: "24/7"

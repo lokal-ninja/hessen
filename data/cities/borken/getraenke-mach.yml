@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.0530072
 longitude: 9.2764725
-postcode: 34582
+postcode: "34582"
 city: Borken
 street: "Gombether Straße"
 housenumber: 9

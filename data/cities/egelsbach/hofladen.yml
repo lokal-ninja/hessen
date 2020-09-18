@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.9586593
 longitude: 8.6646985
-postcode: 63329
+postcode: "63329"
 city: Egelsbach
 street: "Büchenhöfe"
 housenumber: 16

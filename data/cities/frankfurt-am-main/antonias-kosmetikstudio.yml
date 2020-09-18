@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.1251011
 longitude: 8.638530900000001
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Grempstraße"
 housenumber: 29a

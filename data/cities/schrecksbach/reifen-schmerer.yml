@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8301986
 longitude: 9.280732500000001
-postcode: 34637
+postcode: "34637"
 city: Schrecksbach
 street: "Alsfelder Straße"
 housenumber: 40

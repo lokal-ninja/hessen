@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.028730800000005
 longitude: 8.1249654
-postcode: 65343
+postcode: "65343"
 city: Eltville am Rhein
 street: "Sonnenbergstraße"
 housenumber: 2
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.rewe.de/"

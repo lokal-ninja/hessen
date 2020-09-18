@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.1391238
 longitude: 9.270671400000001
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Haddamarweg"
 housenumber: 13

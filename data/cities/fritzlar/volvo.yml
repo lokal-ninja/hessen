@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1384558
 longitude: 9.273784000000001
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Wolfhager Straße"
 housenumber: 5

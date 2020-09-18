@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.029428
 longitude: 8.694340500000001
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Freiherr-vom-Stein-Straße"
 housenumber: 6

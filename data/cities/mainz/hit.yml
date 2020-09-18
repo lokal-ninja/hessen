@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.008054200000004
 longitude: 8.293024500000001
-postcode: 55246
+postcode: "55246"
 city: Mainz
 street: "Hochheimer Straße"
 housenumber: 35

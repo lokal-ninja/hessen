@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.814426700000006
 longitude: 8.7678208
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: ""
 housenumber: 

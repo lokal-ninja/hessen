@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.88209560000001
 longitude: 8.6533953
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Mollerstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.909888
 longitude: 8.6570865
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Frankfurter Landstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.867250500000004
 longitude: 8.9274509
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Obergasse"
 housenumber: 5

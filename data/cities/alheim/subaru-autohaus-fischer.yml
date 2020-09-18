@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0421178
 longitude: 9.6721137
-postcode: 36211
+postcode: "36211"
 city: Alheim
 street: "Industriestraße"
 housenumber: 5

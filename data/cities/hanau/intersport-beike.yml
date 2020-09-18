@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.132271200000005
 longitude: 8.920166400000001
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Nürnberger Straße"
 housenumber: 21

@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 50.5860391
 longitude: 8.5485092
-postcode: 35633
+postcode: "35633"
 city: Lahnau
 street: "Kreuzerstraße"
 housenumber: 33
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 06:00-13:00, Tu-Fr 14:00-18:00"
 website: ""

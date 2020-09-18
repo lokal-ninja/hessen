@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.316338800000004
 longitude: 9.4997965
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Druselplatz"
 housenumber: 3

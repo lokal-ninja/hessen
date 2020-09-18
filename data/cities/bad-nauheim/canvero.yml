@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.365359500000004
 longitude: 8.737652200000001
-postcode: 61231
+postcode: "61231"
 city: Bad Nauheim
 street: "Parkstraße"
 housenumber: 16

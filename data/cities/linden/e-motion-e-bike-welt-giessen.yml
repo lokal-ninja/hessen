@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.5383781
 longitude: 8.6563307
-postcode: 35440
+postcode: "35440"
 city: Linden
 street: "Carl-Benz-Straße"
 housenumber: 5

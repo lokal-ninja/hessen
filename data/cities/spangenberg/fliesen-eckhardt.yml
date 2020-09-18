@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.114860400000005
 longitude: 9.6472786
-postcode: 34286
+postcode: "34286"
 city: Spangenberg
 street: "Mörshäuser Weg"
 housenumber: 6

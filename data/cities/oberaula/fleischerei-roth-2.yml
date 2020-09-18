@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.855574000000004
 longitude: 9.462182
-postcode: 36280
+postcode: "36280"
 city: Oberaula
 street: "Schwimmbadstraße"
 housenumber: 1

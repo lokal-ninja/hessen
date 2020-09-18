@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0420597
 longitude: 8.9763608
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Aschaffenburger Straße"
 housenumber: 49

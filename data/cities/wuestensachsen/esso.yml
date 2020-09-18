@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.503840600000004
 longitude: 10.0079144
-postcode: 36115
+postcode: "36115"
 city: Wüstensachsen
 street: "Tanner Straße"
 housenumber: 21

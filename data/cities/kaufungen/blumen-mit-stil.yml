@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.2800358
 longitude: 9.6185568
-postcode: 34260
+postcode: "34260"
 city: Kaufungen
 street: "Hessenring"
 housenumber: 1

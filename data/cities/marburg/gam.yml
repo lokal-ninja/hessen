@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.823965
 longitude: 8.7713746
-postcode: 35039
+postcode: "35039"
 city: Marburg
 street: "Neue Kasseler Straße"
 housenumber: 

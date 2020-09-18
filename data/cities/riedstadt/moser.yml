@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.8340637
 longitude: 8.49076
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Bahnhofsallee"
 housenumber: 14

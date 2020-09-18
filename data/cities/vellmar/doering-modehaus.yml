@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.362451
 longitude: 9.4680575
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Rathausplatz"
 housenumber: 3

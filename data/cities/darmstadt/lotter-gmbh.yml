@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 49.868889800000005
 longitude: 8.6562398
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Karlstraße"
 housenumber: 12-16

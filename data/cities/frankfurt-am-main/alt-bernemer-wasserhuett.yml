@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.1305707
 longitude: 8.714194
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Berger Straße"
 housenumber: 297

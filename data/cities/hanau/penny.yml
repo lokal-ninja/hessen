@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.102294400000005
 longitude: 8.9210963
-postcode: 63456
+postcode: "63456"
 city: Hanau
 street: "Geleitstraße"
 housenumber: 50

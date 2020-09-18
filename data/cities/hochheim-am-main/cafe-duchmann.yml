@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0111757
 longitude: 8.3497658
-postcode: 65239
+postcode: "65239"
 city: Hochheim am Main
 street: "Mainzer Straße"
 housenumber: 5-9

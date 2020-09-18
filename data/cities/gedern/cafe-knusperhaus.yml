@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.42348500000001
 longitude: 9.198130500000001
-postcode: 63688
+postcode: "63688"
 city: Gedern
 street: "Frankfurter Straße"
 housenumber: 2

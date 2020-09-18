@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 51.3242046
 longitude: 9.5012124
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Holländische Straße"
 housenumber: 44
 phone: ""
 opening_hours: "Tu,Th,Fr,Sa 09:30-19:00; We 09:30-18:30; Mo,Su off"
-website: ""
+website: "http://alpbarbershop-kassel.de/"

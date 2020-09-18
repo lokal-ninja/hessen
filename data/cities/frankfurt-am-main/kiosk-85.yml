@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.1236492
 longitude: 8.641828700000001
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Leipziger Straße"
 housenumber: 85

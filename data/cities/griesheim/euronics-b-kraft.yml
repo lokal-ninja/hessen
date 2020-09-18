@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.858885900000004
 longitude: 8.567128700000001
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Bessunger Straße"
 housenumber: 100

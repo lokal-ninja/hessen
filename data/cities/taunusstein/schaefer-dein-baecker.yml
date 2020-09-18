@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.140948800000004
 longitude: 8.156659600000001
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
 street: "Gottfried-Keller-Straße"
 housenumber: 13

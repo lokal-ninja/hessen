@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5985067
 longitude: 8.4247355
-postcode: 35614
+postcode: "35614"
 city: Aßlar
 street: "Auf dem Hollerstück"
 housenumber: 1

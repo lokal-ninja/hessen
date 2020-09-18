@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 51.355431700000004
 longitude: 9.512352
-postcode: 34233
+postcode: "34233"
 city: Fuldatal
 street: "Philipp-Schwarzenberg-Straße"
 housenumber: 3

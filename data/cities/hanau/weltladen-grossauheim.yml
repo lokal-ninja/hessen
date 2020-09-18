@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.103632000000005
 longitude: 8.9449096
-postcode: 63457
+postcode: "63457"
 city: Hanau
 street: "Rochusplatz"
 housenumber: 1

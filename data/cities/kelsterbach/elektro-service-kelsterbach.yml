@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.0580786
 longitude: 8.5368636
-postcode: 65451
+postcode: "65451"
 city: Kelsterbach
 street: "Mörfelder Straße"
 housenumber: 87

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.1257883
 longitude: 8.6977939
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
 street: "Martin-Luther-Straße"
 housenumber: 33

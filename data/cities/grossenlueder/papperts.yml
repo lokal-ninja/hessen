@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5742958
 longitude: 9.5737045
-postcode: 36137
+postcode: "36137"
 city: Großenlüder
 street: "Im Lüdertal"
 housenumber: 1

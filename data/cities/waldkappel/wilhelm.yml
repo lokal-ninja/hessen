@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1431036
 longitude: 9.875160600000001
-postcode: 37284
+postcode: "37284"
 city: Waldkappel
 street: "Leipziger Straße"
 housenumber: 71

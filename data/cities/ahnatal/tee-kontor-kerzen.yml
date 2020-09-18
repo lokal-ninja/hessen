@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.3662968
 longitude: 9.3931731
-postcode: 36292
+postcode: "36292"
 city: Ahnatal
 street: "Steinweg"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.8952176
 longitude: 8.6061989
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Gutenbergstraße"
 housenumber: 1

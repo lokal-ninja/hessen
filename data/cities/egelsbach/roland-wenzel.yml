@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.9595823
 longitude: 8.670319300000001
-postcode: 63329
+postcode: "63329"
 city: Egelsbach
 street: "Kurt-Schumacher-Ring"
 housenumber: 11

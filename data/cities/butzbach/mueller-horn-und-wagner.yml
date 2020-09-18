@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.433362200000005
 longitude: 8.671504
-postcode: 35510
+postcode: "35510"
 city: Butzbach
 street: "Weiseler Straße"
 housenumber: 6

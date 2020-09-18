@@ -3,7 +3,7 @@ type: node
 shop: Gasflaschen
 latitude: 50.224529700000005
 longitude: 8.7638504
-postcode: 61184
+postcode: "61184"
 city: Karben
 street: "Max-Planck-Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.8305312
 longitude: 8.8340405
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Darmstädter Straße"
 housenumber: 45a

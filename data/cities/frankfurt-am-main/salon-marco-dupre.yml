@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1070769
 longitude: 8.6487988
-postcode: 60327
+postcode: "60327"
 city: Frankfurt am Main
 street: "Speyerer Straße"
 housenumber: 23

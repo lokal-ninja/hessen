@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.628341000000006
 longitude: 9.395140600000001
-postcode: 36341
+postcode: "36341"
 city: Lauterbach
 street: "Vogelsbergstraße"
 housenumber: 79

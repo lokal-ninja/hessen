@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 49.9126367
 longitude: 8.6550975
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Römerstraße"
 housenumber: 1a

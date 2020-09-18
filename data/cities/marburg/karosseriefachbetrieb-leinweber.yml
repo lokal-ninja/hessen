@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8384214
 longitude: 8.7709236
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Siemensstraße"
 housenumber: 12

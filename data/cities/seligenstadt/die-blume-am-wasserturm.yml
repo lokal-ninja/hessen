@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.0430915
 longitude: 8.9654729
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Am Wasserturm"
 housenumber: 2a

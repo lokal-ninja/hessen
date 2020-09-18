@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.350230700000004
 longitude: 9.521064200000001
-postcode: 34233
+postcode: "34233"
 city: Fuldatal
 street: "Niedervellmarsche Straße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.101832800000004
 longitude: 8.6339971
-postcode: 60326
+postcode: "60326"
 city: Frankfurt am Main
 street: "Mainzer Landstraße"
 housenumber: 351-353

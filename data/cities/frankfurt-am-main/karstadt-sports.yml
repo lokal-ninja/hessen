@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.112893400000004
 longitude: 8.6789795
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "An der Hauptwache"
 housenumber: 1

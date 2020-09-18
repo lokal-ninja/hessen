@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2251842
 longitude: 9.4296535
-postcode: 34295
+postcode: "34295"
 city: Edermünde
 street: "Lange Heideteile"
 housenumber: 11

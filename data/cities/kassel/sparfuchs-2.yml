@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.305527500000004
 longitude: 9.450807000000001
-postcode: 34131
+postcode: "34131"
 city: Kassel
 street: "Druseltalstraße"
 housenumber: 1b

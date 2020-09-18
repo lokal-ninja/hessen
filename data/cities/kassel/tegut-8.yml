@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3319672
 longitude: 9.4551119
-postcode: 34128
+postcode: "34128"
 city: Kassel
 street: "Wolfhager Straße"
 housenumber: 278

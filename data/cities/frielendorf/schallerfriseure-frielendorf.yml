@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9753732
 longitude: 9.325394000000001
-postcode: 34621
+postcode: "34621"
 city: Frielendorf
 street: "Hauptstraße"
 housenumber: 49

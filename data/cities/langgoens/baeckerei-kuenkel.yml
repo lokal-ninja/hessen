@@ -1,12 +1,12 @@
 id: 761179626
 type: node
 shop: Bäckerei
-latitude: 50.4922265
-longitude: 8.6608351
-postcode: 35428
+latitude: 50.4922539
+longitude: 8.6608829
+postcode: "35428"
 city: Langgöns
 street: "St.-Ulrich-Ring"
 housenumber: 1-5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 05.30-18:00; Sa 05:30-16:00; Su 07:30-12:00"
 website: "https://www.baeckerei-kuenkel.de/"

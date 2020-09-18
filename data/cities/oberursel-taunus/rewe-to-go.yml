@@ -1,9 +1,9 @@
 id: 5233437588
 type: node
-shop: Supermarkt
+shop: Lebensmittel
 latitude: 50.180357900000004
 longitude: 8.6051392
-postcode: 61440
+postcode: "61440"
 city: Oberursel (Taunus)
 street: "Frankfurter Landstraße"
 housenumber: 200

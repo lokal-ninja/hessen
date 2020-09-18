@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.7120243
 longitude: 8.8420511
-postcode: 64385
+postcode: "64385"
 city: Reichelsheim (Odenwald)
 street: "Darmstädter Straße"
 housenumber: 15

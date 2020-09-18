@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.115617
 longitude: 8.6852243
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "Schäfergasse"
 housenumber: 14

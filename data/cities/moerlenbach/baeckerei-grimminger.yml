@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.6147702
 longitude: 8.715832200000001
-postcode: 69509
+postcode: "69509"
 city: Mörlenbach
 street: "Edertalstraße"
 housenumber: 40

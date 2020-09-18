@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.6713048
 longitude: 8.6097791
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Rheinstraße"
 housenumber: 36

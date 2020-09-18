@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.8983226
 longitude: 8.6123002
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Industriestraße"
 housenumber: 10

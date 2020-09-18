@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.116669300000005
 longitude: 8.9624915
-postcode: 63457
+postcode: "63457"
 city: Hanau
 street: "Grashüpferweg"
 housenumber: 5

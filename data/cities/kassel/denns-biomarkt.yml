@@ -1,12 +1,12 @@
-id: 3215314743
+id: 1684732979
 type: node
 shop: Supermarkt
-latitude: 51.3154745
-longitude: 9.496994500000001
-postcode: 34117
+latitude: 51.316425900000006
+longitude: 9.463979100000001
+postcode: "34119"
 city: Kassel
-street: "Königsplatz"
-housenumber: 53
-phone: "+49 561 70161874"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denns-biomarkt.de/"
+street: "Kirchweg"
+housenumber: 70
+phone: "+49 561 60290820"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+website: ""

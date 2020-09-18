@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.5548556
 longitude: 9.6665281
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Langebrückenstraße"
 housenumber: 33

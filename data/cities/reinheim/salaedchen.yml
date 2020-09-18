@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.8425632
 longitude: 8.8276354
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Seestraße"
 housenumber: 5

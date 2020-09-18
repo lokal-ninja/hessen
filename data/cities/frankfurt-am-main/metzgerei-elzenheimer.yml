@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.1087768
 longitude: 8.5325571
-postcode: 65929
+postcode: "65929"
 city: Frankfurt am Main
 street: "Heimchenweg"
 housenumber: 5

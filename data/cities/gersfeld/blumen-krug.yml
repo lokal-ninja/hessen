@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.450011100000005
 longitude: 9.9185469
-postcode: 36129
+postcode: "36129"
 city: Gersfeld
 street: "Berliner Straße"
 housenumber: 1

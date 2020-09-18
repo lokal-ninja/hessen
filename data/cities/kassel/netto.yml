@@ -1,12 +1,12 @@
-id: 2603689469
-type: node
+id: 194101440
+type: way
 shop: Supermarkt
-latitude: 51.2871697
-longitude: 9.5286589
-postcode: 34123
+latitude: 51.30829850000001
+longitude: 9.481715900000001
+postcode: "34121"
 city: Kassel
-street: "Kasseler Straße"
-housenumber: 76
+street: "Tischbeinstraße"
+housenumber: 59
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
 website: ""

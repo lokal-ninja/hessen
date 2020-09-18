@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.773819700000004
 longitude: 9.357886800000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Schulstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.9573479
 longitude: 8.9584846
-postcode: 64832
+postcode: "64832"
 city: Babenhausen
 street: "Aschaffenburger Straße"
 housenumber: 3

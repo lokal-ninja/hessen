@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.8688489
 longitude: 8.6558068
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Karlstraße"
 housenumber: 25

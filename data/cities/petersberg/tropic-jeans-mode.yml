@@ -3,10 +3,10 @@ type: way
 shop: Kleidung
 latitude: 50.554280600000006
 longitude: 9.7170485
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Alte Ziegelei"
 housenumber: 14
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:30"
 website: ""

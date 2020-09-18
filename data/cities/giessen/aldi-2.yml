@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5950162
 longitude: 8.659858100000001
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Krofdorfer Straße"
 housenumber: 89

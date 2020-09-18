@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.018652100000004
 longitude: 8.695375700000001
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Hauptstraße"
 housenumber: 80

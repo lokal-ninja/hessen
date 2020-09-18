@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.3471604
 longitude: 9.856800600000001
-postcode: 37213
+postcode: "37213"
 city: Witzenhausen
 street: "An der Bohlenbrücke"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.07046020000001
 longitude: 8.2417323
-postcode: 65189
+postcode: "65189"
 city: Wiesbaden
 street: "Bahnhofsplatz"
 housenumber: 3

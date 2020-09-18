@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.5508457
 longitude: 9.675559400000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Gemüsemarkt"
 housenumber: 8

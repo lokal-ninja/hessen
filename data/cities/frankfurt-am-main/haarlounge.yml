@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1221942
 longitude: 8.7705225
-postcode: 60386
+postcode: "60386"
 city: Frankfurt am Main
 street: "Alt-Fechenheim"
 housenumber: 128

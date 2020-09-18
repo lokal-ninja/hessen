@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.094426000000006
 longitude: 8.8594459
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Hausener Straße"
 housenumber: 30

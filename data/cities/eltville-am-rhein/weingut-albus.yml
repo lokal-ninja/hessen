@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.0646081
 longitude: 8.1091386
-postcode: 65345
+postcode: "65345"
 city: Eltville am Rhein
 street: "Jahnstraße"
 housenumber: 34a

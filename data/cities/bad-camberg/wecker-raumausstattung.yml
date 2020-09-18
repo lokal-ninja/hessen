@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 50.2974155
 longitude: 8.2518843
-postcode: 65520
+postcode: "65520"
 city: Bad Camberg
 street: "Max-Planck-Straße"
 housenumber: 17

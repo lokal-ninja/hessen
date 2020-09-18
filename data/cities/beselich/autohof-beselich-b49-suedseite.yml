@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.468174600000005
 longitude: 8.1381764
-postcode: 65614
+postcode: "65614"
 city: Beselich
 street: "An der B 49"
 housenumber: 

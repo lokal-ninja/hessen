@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.4140578
 longitude: 9.0064133
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Bahnhofstraße"
 housenumber: 3-5

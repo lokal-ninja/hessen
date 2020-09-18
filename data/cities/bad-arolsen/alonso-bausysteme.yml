@@ -3,7 +3,7 @@ type: node
 shop: Türen
 latitude: 51.3724713
 longitude: 8.9990114
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Am Ankenberg"
 housenumber: 11

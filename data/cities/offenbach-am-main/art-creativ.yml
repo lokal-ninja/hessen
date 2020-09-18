@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 50.0892962
 longitude: 8.8048034
-postcode: 63073
+postcode: "63073"
 city: Offenbach am Main
 street: "Aschaffenburger Straße"
 housenumber: 42

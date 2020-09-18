@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.999339000000006
 longitude: 9.1483875
-postcode: 34632
+postcode: "34632"
 city: Jesberg
 street: "Industriestraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.5808352
 longitude: 9.2632375
-postcode: 36369
+postcode: "36369"
 city: Lautertal
 street: "Vorderstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.9836
 longitude: 8.3954492
-postcode: 65428
+postcode: "65428"
 city: Rüsselsheim am Main
 street: "Alzeyer Straße"
 housenumber: 13

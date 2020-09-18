@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.0688012
 longitude: 9.610839200000001
-postcode: 34326
+postcode: "34326"
 city: Morschen
 street: "Heinaer Straße"
 housenumber: 1

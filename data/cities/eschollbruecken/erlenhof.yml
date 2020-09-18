@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.8119414
 longitude: 8.5604967
-postcode: 64319
+postcode: "64319"
 city: Eschollbrücken
 street: "Crumstädter Straße"
 housenumber: 47

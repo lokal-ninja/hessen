@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.9901562
 longitude: 8.669320800000001
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Bahnstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.133044000000005
 longitude: 8.850047400000001
-postcode: 63477
+postcode: "63477"
 city: Maintal
 street: "Zeppelinstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.99703280000001
 longitude: 9.729253400000001
-postcode: 36199
+postcode: "36199"
 city: Rotenburg an der Fulda
 street: "Steinweg"
 housenumber: 7

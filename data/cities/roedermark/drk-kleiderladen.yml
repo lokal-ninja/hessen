@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.978858900000006
 longitude: 8.8272578
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Frankfurter Straße"
 housenumber: 10

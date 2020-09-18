@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.058426000000004
 longitude: 8.7527681
-postcode: 63263
+postcode: "63263"
 city: Neu-Isenburg
 street: "Am Forsthaus Gravenbruch"
 housenumber: 3

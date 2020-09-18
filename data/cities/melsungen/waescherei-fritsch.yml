@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 51.1305993
 longitude: 9.542503100000001
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Fritzlarer Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.106397300000005
 longitude: 8.6641489
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Am Hauptbahnhof"
 housenumber: 

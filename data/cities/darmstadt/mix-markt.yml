@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.895693400000006
 longitude: 8.6802414
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Siemensstraße"
 housenumber: 2-16

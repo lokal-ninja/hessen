@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.149094000000005
 longitude: 8.0820858
-postcode: 65307
+postcode: "65307"
 city: Bad Schwalbach
 street: "Bahnhofstraße"
 housenumber: 37

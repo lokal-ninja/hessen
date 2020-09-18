@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.1861758
 longitude: 8.7398547
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Dieselstraße"
 housenumber: 4

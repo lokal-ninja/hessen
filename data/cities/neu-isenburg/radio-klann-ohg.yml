@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.05093
 longitude: 8.6954145
-postcode: 63263
+postcode: "63263"
 city: Neu-Isenburg
 street: "Frankfurter Straße"
 housenumber: 132-134

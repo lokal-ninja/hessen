@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.883957
 longitude: 8.6349537
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
 street: "Pallaswiesenstraße"
 housenumber: 145

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.918713000000004
 longitude: 8.4858854
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Am Marktplatz"
 housenumber: 18

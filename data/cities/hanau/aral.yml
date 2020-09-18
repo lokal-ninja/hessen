@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.129606200000005
 longitude: 8.9218873
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Friedrich-Ebert-Anlage"
 housenumber: 7

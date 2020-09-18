@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.8356811
 longitude: 8.4948282
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Bahnhofstraße"
 housenumber: 22

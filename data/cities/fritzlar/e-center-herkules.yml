@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.137797500000005
 longitude: 9.2728908
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Wolfhager Straße"
 housenumber: 

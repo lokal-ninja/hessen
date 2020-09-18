@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.416461600000005
 longitude: 9.5365306
-postcode: 34376
+postcode: "34376"
 city: Immenhausen
 street: "Kasseler Straße"
 housenumber: 16

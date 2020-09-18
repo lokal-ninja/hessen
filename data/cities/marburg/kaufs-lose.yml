@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.811261
 longitude: 8.7750272
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Biegenstraße"
 housenumber: 17

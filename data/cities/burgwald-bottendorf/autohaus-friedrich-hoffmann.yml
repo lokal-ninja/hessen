@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.0354406
 longitude: 8.8086974
-postcode: 35099
+postcode: "35099"
 city: Burgwald-Bottendorf
 street: "Wickersdorfer Ring"
 housenumber: 6

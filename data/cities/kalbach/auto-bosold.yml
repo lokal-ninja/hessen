@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.427567700000004
 longitude: 9.643548800000001
-postcode: 36148
+postcode: "36148"
 city: Kalbach
 street: "Gewerbestraße"
 housenumber: 10

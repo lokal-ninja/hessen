@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.9617706
 longitude: 8.6724119
-postcode: 63329
+postcode: "63329"
 city: Egelsbach
 street: "Kurt-Schumacher-Ring"
 housenumber: 2

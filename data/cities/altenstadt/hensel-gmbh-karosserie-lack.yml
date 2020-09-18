@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.2826314
 longitude: 8.9397705
-postcode: 63674
+postcode: "63674"
 city: Altenstadt
 street: "Zum Niddersteg"
 housenumber: 7

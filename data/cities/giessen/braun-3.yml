@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.568468200000005
 longitude: 8.6577157
-postcode: 35392
+postcode: "35392"
 city: Gießen
 street: "Carl-Maria-von-Weber-Straße"
 housenumber: 10

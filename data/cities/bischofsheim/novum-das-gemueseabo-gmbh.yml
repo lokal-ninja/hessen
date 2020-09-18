@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.972131000000005
 longitude: 8.3908576
-postcode: 65474
+postcode: "65474"
 city: Bischofsheim
 street: "Industriestraße"
 housenumber: 14

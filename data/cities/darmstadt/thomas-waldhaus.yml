@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.9183797
 longitude: 8.654666500000001
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Frankfurter Landstraße"
 housenumber: 257

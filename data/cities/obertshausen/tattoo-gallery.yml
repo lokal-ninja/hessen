@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.0770459
 longitude: 8.8639834
-postcode: 63179
+postcode: "63179"
 city: Obertshausen
 street: "Seligenstädter Straße"
 housenumber: 64

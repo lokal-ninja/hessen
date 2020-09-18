@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.85859730000001
 longitude: 8.5486894
-postcode: 35232
+postcode: "35232"
 city: Dautphetal
 street: "Industriestraße"
 housenumber: 1

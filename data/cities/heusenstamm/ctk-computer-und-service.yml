@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.047850000000004
 longitude: 8.79907
-postcode: 63150
+postcode: "63150"
 city: Heusenstamm
 street: "Ottostraße"
 housenumber: 3a

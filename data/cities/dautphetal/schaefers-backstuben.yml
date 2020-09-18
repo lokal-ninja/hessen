@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.856525100000006
 longitude: 8.5610657
-postcode: 35232
+postcode: "35232"
 city: Dautphetal
 street: "Lahnstraße"
 housenumber: 

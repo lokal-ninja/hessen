@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.427227800000004
 longitude: 9.478667900000001
-postcode: 34376
+postcode: "34376"
 city: Immenhausen
 street: "Obere Bahnhofstraße"
 housenumber: 7

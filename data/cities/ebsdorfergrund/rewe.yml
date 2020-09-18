@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7327913
 longitude: 8.8495174
-postcode: 35085
+postcode: "35085"
 city: Ebsdorfergrund
 street: "Alte Landstraße"
 housenumber: 2A

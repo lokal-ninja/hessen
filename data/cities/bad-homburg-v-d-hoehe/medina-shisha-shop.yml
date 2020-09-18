@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.2309586
 longitude: 8.611495
-postcode: 61348
+postcode: "61348"
 city: Bad Homburg v. d. Höhe
 street: "Obergasse"
 housenumber: 5

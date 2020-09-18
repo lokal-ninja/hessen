@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.4825278
 longitude: 9.3975747
-postcode: 36355
+postcode: "36355"
 city: Grebenhain
 street: "Am Mühlgraben"
 housenumber: 30

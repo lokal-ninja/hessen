@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.869850400000004
 longitude: 8.6475887
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Saalbaustraße"
 housenumber: 29

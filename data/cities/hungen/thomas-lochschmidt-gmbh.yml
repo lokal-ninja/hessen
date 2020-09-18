@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.47311070000001
 longitude: 8.912500900000001
-postcode: 35410
+postcode: "35410"
 city: Hungen
 street: "Mohastraße"
 housenumber: 6

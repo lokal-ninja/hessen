@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.1380678
 longitude: 9.273228600000001
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Wolfhager Straße"
 housenumber: 

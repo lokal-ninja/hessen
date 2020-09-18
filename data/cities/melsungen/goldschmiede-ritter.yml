@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 51.1319072
 longitude: 9.5418123
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Burgstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.5389027
 longitude: 9.489084
-postcode: 36154
+postcode: "36154"
 city: Hosenfeld
 street: "In der Steinshecke"
 housenumber: 2

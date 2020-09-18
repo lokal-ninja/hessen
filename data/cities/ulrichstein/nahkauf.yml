@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5786316
 longitude: 9.19881
-postcode: 35327
+postcode: "35327"
 city: Ulrichstein
 street: "Schaubstraße"
 housenumber: 11

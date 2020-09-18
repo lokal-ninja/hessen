@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0503585
 longitude: 9.2761256
-postcode: 34582
+postcode: "34582"
 city: Borken
 street: "Am Bahnhof"
 housenumber: 3-5

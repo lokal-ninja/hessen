@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 50.734085400000005
 longitude: 8.3426265
-postcode: 35688
+postcode: "35688"
 city: Dillenburg
 street: "Schelde-Lahn-Straße"
 housenumber: 29

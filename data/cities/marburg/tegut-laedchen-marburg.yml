@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.817758000000005
 longitude: 8.7821175
-postcode: 35039
+postcode: "35039"
 city: Marburg
 street: "Rudolf-Bultmann-Straße"
 housenumber: 8

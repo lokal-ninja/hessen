@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6811718
 longitude: 8.9995779
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Hammerweg"
 housenumber: 29

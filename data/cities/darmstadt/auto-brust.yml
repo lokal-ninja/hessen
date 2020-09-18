@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9164426
 longitude: 8.6409961
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Guerickeweg"
 housenumber: 6

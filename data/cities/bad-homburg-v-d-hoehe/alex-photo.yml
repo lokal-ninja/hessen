@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.22775
 longitude: 8.6165378
-postcode: 61348
+postcode: "61348"
 city: Bad Homburg v.d. Höhe
 street: "Schwedenpfad"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.5793121
 longitude: 8.6669944
-postcode: 35392
+postcode: "35392"
 city: Gießen
 street: "Wilhelmstraße"
 housenumber: 2

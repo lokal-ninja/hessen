@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.768512300000005
 longitude: 8.646572800000001
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Pfungstädter Straße"
 housenumber: 7

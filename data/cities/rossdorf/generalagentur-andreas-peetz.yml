@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.8543467
 longitude: 8.761179
-postcode: 64380
+postcode: "64380"
 city: Roßdorf
 street: "Ringstraße"
 housenumber: 129

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.5711755
 longitude: 8.6863393
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Bänningerstraße"
 housenumber: 14

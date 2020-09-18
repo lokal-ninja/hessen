@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4145467
 longitude: 8.036313700000001
-postcode: 65604
+postcode: "65604"
 city: Elz
 street: "Hadamarer Straße"
 housenumber: 14

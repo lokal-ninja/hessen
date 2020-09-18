@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.9274283
 longitude: 8.869690700000001
-postcode: 64839
+postcode: "64839"
 city: Münster
 street: "Auf der Beune"
 housenumber: 3

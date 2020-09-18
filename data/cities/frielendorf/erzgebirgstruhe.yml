@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 50.9751683
 longitude: 9.321588100000001
-postcode: 34621
+postcode: "34621"
 city: Frielendorf
 street: "Hauptstraße"
 housenumber: 7

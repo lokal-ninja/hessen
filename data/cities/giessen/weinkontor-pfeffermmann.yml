@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.585887400000004
 longitude: 8.6973873
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Grünberger Straße"
 housenumber: 120

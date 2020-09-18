@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9844723
 longitude: 7.9363745
-postcode: 65385
+postcode: "65385"
 city: Rüdesheim am Rhein
 street: "Fürstbischof-Rudolf-Straße"
 housenumber: 14

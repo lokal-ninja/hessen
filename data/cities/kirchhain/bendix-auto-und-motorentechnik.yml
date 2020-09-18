@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8453194
 longitude: 8.861366
-postcode: 35274
+postcode: "35274"
 city: Kirchhain
 street: "Marburger Straße"
 housenumber: 57

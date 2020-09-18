@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.541554700000006
 longitude: 8.988848200000001
-postcode: 35321
+postcode: "35321"
 city: Laubach
 street: "Bahnhofstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.763366500000004
 longitude: 8.9213915
-postcode: 35287
+postcode: "35287"
 city: Amöneburg
 street: "Raiffeisenstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.363343300000004
 longitude: 9.388060900000001
-postcode: 34292
+postcode: "34292"
 city: Ahnatal
 street: "Dörnbergstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.6750066
 longitude: 8.617282000000001
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Fabrikstraße"
 housenumber: 14

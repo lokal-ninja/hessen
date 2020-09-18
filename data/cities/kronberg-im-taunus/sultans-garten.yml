@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.1801788
 longitude: 8.510651600000001
-postcode: 61476
+postcode: "61476"
 city: Kronberg im Taunus
 street: "Hainstraße"
 housenumber: 2

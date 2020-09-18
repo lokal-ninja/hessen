@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.1332912
 longitude: 9.5418379
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Sparkassenplatz"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.811526300000004
 longitude: 8.6892894
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Am Denkmal"
 housenumber: 4

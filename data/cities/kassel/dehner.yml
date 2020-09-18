@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.3439466
 longitude: 9.4752112
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Holländische Straße"
 housenumber: 209

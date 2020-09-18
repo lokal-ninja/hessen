@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5428323
 longitude: 8.4117669
-postcode: 35606
+postcode: "35606"
 city: Solms
 street: "Solmser Gewerbepark"
 housenumber: 6

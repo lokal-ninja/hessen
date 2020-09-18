@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.4286942
 longitude: 8.7363601
-postcode: 35519
+postcode: "35519"
 city: Rockenberg
 street: "Obergasse"
 housenumber: 11

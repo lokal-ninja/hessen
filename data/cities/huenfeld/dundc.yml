@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.673621000000004
 longitude: 9.766454000000001
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Hainstraße"
 housenumber: 1

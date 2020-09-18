@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.8370097
 longitude: 9.045093900000001
-postcode: 64747
+postcode: "64747"
 city: Breuberg
 street: "Talstraße"
 housenumber: 30

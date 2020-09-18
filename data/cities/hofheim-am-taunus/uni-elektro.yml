@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.094422300000005
 longitude: 8.455183700000001
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Am Stegskreuz"
 housenumber: 2a

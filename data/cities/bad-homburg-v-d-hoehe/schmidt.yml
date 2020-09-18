@@ -3,7 +3,7 @@ type: way
 shop: Schlüsseldienst
 latitude: 50.240230200000006
 longitude: 8.592414
-postcode: 61350
+postcode: "61350"
 city: Bad Homburg v.d. Höhe
 street: "Anspacher Straße"
 housenumber: 36

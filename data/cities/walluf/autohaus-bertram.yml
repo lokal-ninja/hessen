@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0453057
 longitude: 8.1629976
-postcode: 65396
+postcode: "65396"
 city: Walluf
 street: "Am Klingenweg"
 housenumber: 8

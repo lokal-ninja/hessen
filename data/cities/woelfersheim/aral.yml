@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.402566
 longitude: 8.819688600000001
-postcode: 61200
+postcode: "61200"
 city: Wölfersheim
 street: "Seestraße"
 housenumber: 34

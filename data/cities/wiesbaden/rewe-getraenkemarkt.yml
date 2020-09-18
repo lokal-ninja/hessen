@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.086054600000004
 longitude: 8.2903453
-postcode: 65191
+postcode: "65191"
 city: Wiesbaden
 street: "Kloppenheimer Weg"
 housenumber: 4

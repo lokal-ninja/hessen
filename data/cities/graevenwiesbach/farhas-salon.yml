@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.3883366
 longitude: 8.4661407
-postcode: 61279
+postcode: "61279"
 city: Grävenwiesbach
 street: "Astrid-Lindgren-Straße"
 housenumber: 4

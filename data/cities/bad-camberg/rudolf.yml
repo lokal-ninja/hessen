@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.2998939
 longitude: 8.2616236
-postcode: 65520
+postcode: "65520"
 city: Bad Camberg
 street: "Lahnstraße"
 housenumber: 6

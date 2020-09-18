@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.5992364
 longitude: 8.8592641
-postcode: 69483
+postcode: "69483"
 city: Wald-Michelbach
 street: "Beerfeldener Straße"
 housenumber: 26

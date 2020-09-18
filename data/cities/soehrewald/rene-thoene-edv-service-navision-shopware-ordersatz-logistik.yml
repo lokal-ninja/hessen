@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.192822500000005
 longitude: 9.5926532
-postcode: 34320
+postcode: "34320"
 city: Söhrewald
 street: "Auf der Höhe"
 housenumber: 4

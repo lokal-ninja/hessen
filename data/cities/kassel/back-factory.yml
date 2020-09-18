@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3122916
 longitude: 9.491885400000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Obere Königsstraße"
 housenumber: 9

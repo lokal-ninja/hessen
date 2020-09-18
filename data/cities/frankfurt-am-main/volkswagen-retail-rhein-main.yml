@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.1495504
 longitude: 8.6774973
-postcode: 60435
+postcode: "60435"
 city: Frankfurt am Main
 street: "Hügelstraße"
 housenumber: 21

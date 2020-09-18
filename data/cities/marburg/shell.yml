@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.7949348
 longitude: 8.7567866
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Gisselberger Straße"
 housenumber: 53

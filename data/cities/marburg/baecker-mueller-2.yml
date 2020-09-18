@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8419261
 longitude: 8.7671372
-postcode: 
+postcode: ""
 city: Marburg
 street: "Industriestraße"
 housenumber: 5

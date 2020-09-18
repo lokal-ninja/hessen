@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.133044500000004
 longitude: 8.919121800000001
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Rosenstraße"
 housenumber: 9-11

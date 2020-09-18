@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.2695572
 longitude: 9.1948109
-postcode: 34311
+postcode: "34311"
 city: Naumburg
 street: "Kurstraße"
 housenumber: 1

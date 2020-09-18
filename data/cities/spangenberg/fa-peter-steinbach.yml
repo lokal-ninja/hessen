@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1148322
 longitude: 9.647845400000001
-postcode: 34286
+postcode: "34286"
 city: Spangenberg
 street: "Mörshäuser Weg"
 housenumber: 4

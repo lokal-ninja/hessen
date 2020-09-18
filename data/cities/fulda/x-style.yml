@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.551494000000005
 longitude: 9.6802232
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Rabanusstraße"
 housenumber: 30

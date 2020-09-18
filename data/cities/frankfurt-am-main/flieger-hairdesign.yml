@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.087622800000005
 longitude: 8.6382226
-postcode: 60528
+postcode: "60528"
 city: Frankfurt am Main
 street: "Melibocusstraße"
 housenumber: 11

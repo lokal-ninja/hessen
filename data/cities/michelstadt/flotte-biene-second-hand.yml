@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.6784241
 longitude: 9.002685000000001
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Neutorstraße"
 housenumber: 13

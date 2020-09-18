@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.6758371
 longitude: 9.0048945
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Erbacher Straße"
 housenumber: 21

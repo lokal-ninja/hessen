@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.6811153
 longitude: 8.303999600000001
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Hauptstraße"
 housenumber: 88

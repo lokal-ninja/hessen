@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2025761
 longitude: 9.4702569
-postcode: 34302
+postcode: "34302"
 city: Guxhagen
 street: "Grifter Straße"
 housenumber: 2

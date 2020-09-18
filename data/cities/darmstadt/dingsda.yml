@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.8518215
 longitude: 8.633812800000001
-postcode: 64295
+postcode: "64295"
 city: Darmstadt
 street: "Heimstättenweg"
 housenumber: 81

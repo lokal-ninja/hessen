@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.639973600000005
 longitude: 8.6895494
-postcode: 35435
+postcode: "35435"
 city: Wettenberg
 street: "Am Wißmarer See"
 housenumber: 

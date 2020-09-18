@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7945635
 longitude: 8.756687900000001
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Gisselberger Straße"
 housenumber: 55

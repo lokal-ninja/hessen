@@ -1,12 +1,12 @@
-id: 2123352618
+id: 4342162411
 type: node
 shop: Metzgerei
-latitude: 51.380704200000004
-longitude: 9.009849800000001
-postcode: 34454
+latitude: 51.365544500000006
+longitude: 8.986186100000001
+postcode: "34454"
 city: Bad Arolsen
-street: "Bahnhofstraße"
-housenumber: 39
+street: "Landstraße"
+housenumber: 52
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00"
+opening_hours: ""
 website: ""

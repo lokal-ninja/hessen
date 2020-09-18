@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.13548350000001
 longitude: 9.423554900000001
-postcode: 34587
+postcode: "34587"
 city: Felsberg
 street: "Untertor"
 housenumber: 12

@@ -1,12 +1,12 @@
-id: 62000954
+id: 45032398
 type: way
 shop: Supermarkt
-latitude: 50.1256867
-longitude: 8.5648274
-postcode: 65936
+latitude: 50.131468700000006
+longitude: 8.760293200000001
+postcode: "60386"
 city: Frankfurt am Main
-street: "Siegener Straße"
-housenumber: 69
+street: "Hanauer Landstraße"
+housenumber: 519
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Hüte
 latitude: 50.7503936
 longitude: 9.270486700000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Mainzer Gasse"
 housenumber: 8

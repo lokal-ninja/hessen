@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 49.9934535
 longitude: 8.6803372
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Frankfurter Straße"
 housenumber: 54

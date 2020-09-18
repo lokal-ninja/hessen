@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.500577400000005
 longitude: 8.656316200000001
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Hinter dem Brauhaus"
 housenumber: 2

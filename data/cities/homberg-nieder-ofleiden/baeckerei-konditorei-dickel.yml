@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.7550176
 longitude: 8.9700922
-postcode: 35315
+postcode: "35315"
 city: Homberg-Nieder-Ofleiden
 street: "Unterstraße"
 housenumber: 20

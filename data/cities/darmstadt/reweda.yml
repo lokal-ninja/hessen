@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.8660975
 longitude: 8.655706700000001
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Karlstraße"
 housenumber: 57

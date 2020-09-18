@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.1140947
 longitude: 8.6833889
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Hasengasse"
 housenumber: 25

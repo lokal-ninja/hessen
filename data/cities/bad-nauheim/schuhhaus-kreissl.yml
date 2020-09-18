@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.365157
 longitude: 8.7368361
-postcode: 61231
+postcode: "61231"
 city: Bad Nauheim
 street: "Reinhardstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.108852600000006
 longitude: 8.633280800000001
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Pariser Straße"
 housenumber: 4

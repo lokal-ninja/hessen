@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 49.5991275
 longitude: 8.7381509
-postcode: 69509
+postcode: "69509"
 city: Mörlenbach
 street: "Fürther Straße"
 housenumber: 18

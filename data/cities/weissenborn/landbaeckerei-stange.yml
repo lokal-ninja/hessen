@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.1249322
 longitude: 10.1149467
-postcode: 37299
+postcode: "37299"
 city: Weißenborn
 street: "Bachstraße"
 housenumber: 21

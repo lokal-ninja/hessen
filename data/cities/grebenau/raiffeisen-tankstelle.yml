@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.74188710000001
 longitude: 9.4774084
-postcode: 36323
+postcode: "36323"
 city: Grebenau
 street: "Bahnhofstraße"
 housenumber: 24

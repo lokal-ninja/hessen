@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1188682
 longitude: 8.5268906
-postcode: 65843
+postcode: "65843"
 city: Sulzbach (Taunus)
 street: "Am Main-Taunus-Zentrum"
 housenumber: 

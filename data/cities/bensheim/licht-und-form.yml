@@ -3,7 +3,7 @@ type: way
 shop: Lampen
 latitude: 49.6787646
 longitude: 8.618036100000001
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Rodensteinstraße"
 housenumber: 60

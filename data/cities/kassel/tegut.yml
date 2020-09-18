@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3443565
 longitude: 9.444579000000001
-postcode: 34128
+postcode: "34128"
 city: Kassel
 street: "Zum Hirtenkamp"
 housenumber: 1

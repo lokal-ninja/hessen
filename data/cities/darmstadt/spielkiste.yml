@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 49.8173399
 longitude: 8.6418006
-postcode: 64297
+postcode: "64297"
 city: Darmstadt
 street: "Pfungstädter Straße"
 housenumber: 23

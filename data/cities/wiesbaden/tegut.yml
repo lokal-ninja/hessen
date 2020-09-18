@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0792445
 longitude: 8.2407109
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Luisenstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.745996000000005
 longitude: 8.8656144
-postcode: 64407
+postcode: "64407"
 city: Fränkisch-Crumbach
 street: "Siedlerweg"
 housenumber: 18

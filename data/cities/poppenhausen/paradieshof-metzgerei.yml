@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.4881736
 longitude: 9.8680906
-postcode: 36163
+postcode: "36163"
 city: Poppenhausen
 street: "Georgstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.723034000000006
 longitude: 8.602466
-postcode: 64673
+postcode: "64673"
 city: Zwingenberg
 street: "Gießer Weg"
 housenumber: 16

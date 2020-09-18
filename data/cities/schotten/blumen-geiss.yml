@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.5038471
 longitude: 9.1272976
-postcode: 63679
+postcode: "63679"
 city: Schotten
 street: "Vogelsbergstraße"
 housenumber: 141

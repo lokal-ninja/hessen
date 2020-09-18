@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.1134004
 longitude: 8.8510819
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Südring"
 housenumber: 28

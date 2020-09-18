@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.0315116
 longitude: 9.029368700000001
-postcode: 63533
+postcode: "63533"
 city: Mainhausen
 street: "Hauptstraße"
 housenumber: 53

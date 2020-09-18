@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 50.585212500000004
 longitude: 8.6714737
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Mühlstraße"
 housenumber: 3

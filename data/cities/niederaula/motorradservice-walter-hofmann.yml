@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.82033920000001
 longitude: 9.6690877
-postcode: 36272
+postcode: "36272"
 city: Niederaula
 street: "Roßbach"
 housenumber: 1a

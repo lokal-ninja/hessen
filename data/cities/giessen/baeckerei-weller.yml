@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6042095
 longitude: 8.7035534
-postcode: 35396
+postcode: "35396"
 city: Gießen
 street: "Alte Schulstraße"
 housenumber: 10

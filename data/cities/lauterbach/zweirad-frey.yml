@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.6350573
 longitude: 9.395453900000001
-postcode: 36341
+postcode: "36341"
 city: Lauterbach
 street: "Kanalstraße"
 housenumber: 11a

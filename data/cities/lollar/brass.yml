@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6408355
 longitude: 8.7032342
-postcode: 35457
+postcode: "35457"
 city: Lollar
 street: "Pfingstweide"
 housenumber: 16

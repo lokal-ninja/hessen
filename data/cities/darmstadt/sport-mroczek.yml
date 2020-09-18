@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.819901900000005
 longitude: 8.6443552
-postcode: 64297
+postcode: "64297"
 city: Darmstadt
 street: "Heidelberger Landstraße"
 housenumber: 194

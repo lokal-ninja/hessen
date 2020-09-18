@@ -1,12 +1,12 @@
-id: 1370496059
+id: 2216637594
 type: node
 shop: Bäckerei
-latitude: 51.276260900000004
-longitude: 9.541953600000001
-postcode: 34253
+latitude: 51.2811073
+longitude: 9.558046500000001
+postcode: "34253"
 city: Lohfelden
-street: "Hauptstraße"
-housenumber: 37
-phone: "+49 561 5101246"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:00-17:00; Su,PH 07:00-17:00"
-website: "http://www.baeckerei-apel.de/"
+street: "Elisabeth-Selbert-Straße"
+housenumber: 40
+phone: "+49 561 45037585"
+opening_hours: "Mo-Sa 07:00-20:00, Su 08:00-11:00"
+website: ""

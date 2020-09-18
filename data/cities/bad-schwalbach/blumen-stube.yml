@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.1431905
 longitude: 8.073625
-postcode: 65307
+postcode: "65307"
 city: Bad Schwalbach
 street: "Adolfstraße"
 housenumber: 76

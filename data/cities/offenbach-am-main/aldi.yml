@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0844747
 longitude: 8.744375100000001
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Sprendlinger Landstraße"
 housenumber: 179

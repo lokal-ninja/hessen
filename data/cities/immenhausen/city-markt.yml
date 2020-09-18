@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.42719090000001
 longitude: 9.4789589
-postcode: 34376
+postcode: "34376"
 city: Immenhausen
 street: "Obere Bahnhofstraße"
 housenumber: 5

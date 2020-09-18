@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.4452372
 longitude: 8.0425131
-postcode: 65589
+postcode: "65589"
 city: Hadamar
 street: "Neue Chaussee"
 housenumber: 2a

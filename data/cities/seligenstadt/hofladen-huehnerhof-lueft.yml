@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.035996600000004
 longitude: 8.975058
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Rödchesweg"
 housenumber: 

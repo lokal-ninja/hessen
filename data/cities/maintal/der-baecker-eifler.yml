@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.150051000000005
 longitude: 8.8013635
-postcode: 63477
+postcode: "63477"
 city: Maintal
 street: "Fechenheimer Weg"
 housenumber: 

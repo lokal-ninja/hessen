@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0826927
 longitude: 8.6292182
-postcode: 60528
+postcode: "60528"
 city: Frankfurt am Main
 street: "Lyoner Straße"
 housenumber: 14

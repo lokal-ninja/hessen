@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.059552700000005
 longitude: 8.2583631
-postcode: 65189
+postcode: "65189"
 city: Wiesbaden
 street: "Hasengartenstraße"
 housenumber: 25

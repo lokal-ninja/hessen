@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.180244900000005
 longitude: 8.7401801
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Frankfurter Straße"
 housenumber: 71

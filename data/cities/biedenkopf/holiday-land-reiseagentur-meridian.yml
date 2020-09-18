@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.91061800000001
 longitude: 8.530530500000001
-postcode: 35216
+postcode: "35216"
 city: Biedenkopf
 street: "Hospitalstraße"
 housenumber: 14

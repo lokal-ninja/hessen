@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.5876036
 longitude: 8.6719833
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Neustadt"
 housenumber: 28

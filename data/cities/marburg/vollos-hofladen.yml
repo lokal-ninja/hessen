@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.780386
 longitude: 8.698983400000001
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Haddamshäuser Straße"
 housenumber: 42

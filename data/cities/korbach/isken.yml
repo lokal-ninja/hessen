@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.2764693
 longitude: 8.871831400000001
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Bahnhofstraße"
 housenumber: 3

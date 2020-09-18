@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5510741
 longitude: 9.6815488
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Petersgasse"
 housenumber: 11

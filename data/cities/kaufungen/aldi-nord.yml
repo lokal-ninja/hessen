@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2837808
 longitude: 9.6006962
-postcode: 34260
+postcode: "34260"
 city: Kaufungen
 street: "Im Feldhof"
 housenumber: 10

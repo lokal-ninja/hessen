@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 51.4943189
 longitude: 9.3824068
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: "Mühlenstraße"
-housenumber: 
+housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:00;Sa 09:30-13:00"
 website: ""

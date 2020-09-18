@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.3348815
 longitude: 8.9647748
-postcode: 34477
+postcode: "34477"
 city: Twistetal
 street: "Hüfte"
 housenumber: 17

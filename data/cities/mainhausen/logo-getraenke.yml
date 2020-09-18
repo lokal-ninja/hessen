@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.0252792
 longitude: 9.016626
-postcode: 63533
+postcode: "63533"
 city: Mainhausen
 street: "Ginkgoring"
 housenumber: 58

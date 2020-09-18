@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.8708213
 longitude: 8.6565562
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Kirchstraße"
 housenumber: 21

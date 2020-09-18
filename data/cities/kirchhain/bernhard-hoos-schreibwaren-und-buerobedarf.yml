@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.8231714
 longitude: 8.922217
-postcode: 35274
+postcode: "35274"
 city: Kirchhain
 street: "Brückenstraße"
 housenumber: 2a

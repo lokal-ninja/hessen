@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.3217669
 longitude: 9.5119606
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Weserstraße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.9912323
 longitude: 8.4274619
-postcode: 65428
+postcode: "65428"
 city: Rüsselsheim am Main
 street: "Walter-Flex-Straße"
 housenumber: 34

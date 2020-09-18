@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.1824675
 longitude: 8.580433300000001
-postcode: 61440
+postcode: "61440"
 city: Oberursel (Taunus)
 street: "Gartenstraße"
 housenumber: 34

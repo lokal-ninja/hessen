@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9166663
 longitude: 8.6382697
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Borsigstraße"
 housenumber: 18

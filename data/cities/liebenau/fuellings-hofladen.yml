@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.4839859
 longitude: 9.298492600000001
-postcode: 34396
+postcode: "34396"
 city: Liebenau
 street: "Steinweg"
 housenumber: 19

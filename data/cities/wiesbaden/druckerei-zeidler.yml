@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 50.0287166
 longitude: 8.2757831
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Fritz-Ullmann-Straße"
 housenumber: 7

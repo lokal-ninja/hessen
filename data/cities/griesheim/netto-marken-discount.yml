@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8693607
 longitude: 8.560949500000001
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Ottostraße"
 housenumber: 3

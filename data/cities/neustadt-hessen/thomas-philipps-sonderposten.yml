@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.8471983
 longitude: 9.098103400000001
-postcode: 35279
+postcode: "35279"
 city: Neustadt (Hessen)
 street: "Am Kaufpark"
 housenumber: 3

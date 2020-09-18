@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.201742700000004
 longitude: 8.5815736
-postcode: 61440
+postcode: "61440"
 city: Oberursel (Taunus)
 street: "Kumeliusstraße"
 housenumber: 1

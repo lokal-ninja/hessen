@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 50.049168200000004
 longitude: 8.6951046
-postcode: 63263
+postcode: "63263"
 city: Neu-Isenburg
 street: "Frankfurter Straße"
 housenumber: 163

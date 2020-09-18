@@ -3,7 +3,7 @@ type: way
 shop: Waffen
 latitude: 50.576950800000006
 longitude: 9.7060587
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Am Rabenstein"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.677924700000005
 longitude: 8.3001128
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Westerwaldstraße"
 housenumber: 36

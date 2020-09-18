@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1347682
 longitude: 9.541163500000001
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Kasseler Straße"
 housenumber: 52

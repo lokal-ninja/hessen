@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 50.117130100000004
 longitude: 8.707637400000001
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
 street: "Rhönstraße"
 housenumber: 55

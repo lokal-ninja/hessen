@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.0921018
 longitude: 8.691527800000001
-postcode: 60598
+postcode: "60598"
 city: Frankfurt am Main
 street: "Darmstädter Landstraße"
 housenumber: 225

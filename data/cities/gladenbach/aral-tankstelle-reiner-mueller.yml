@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.7530749
 longitude: 8.546712000000001
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Petersburg"
 housenumber: 6

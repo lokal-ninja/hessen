@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5816205
 longitude: 9.5425511
-postcode: 36137
+postcode: "36137"
 city: Großenlüder
 street: "An der Aspe"
 housenumber: 

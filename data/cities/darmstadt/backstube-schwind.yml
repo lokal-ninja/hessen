@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8201034
 longitude: 8.6443116
-postcode: 64297
+postcode: "64297"
 city: Darmstadt
 street: "Heidelberger Landstraße"
 housenumber: 192

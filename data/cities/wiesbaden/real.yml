@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.065874
 longitude: 8.252360300000001
-postcode: 65189
+postcode: "65189"
 city: Wiesbaden
 street: "Mainzer Straße"
 housenumber: 110

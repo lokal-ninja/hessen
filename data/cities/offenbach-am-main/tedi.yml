@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.096926
 longitude: 8.7633477
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Senefelderstraße"
 housenumber: 40

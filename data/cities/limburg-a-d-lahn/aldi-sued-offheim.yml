@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.410591700000005
 longitude: 8.0655628
-postcode: 65555
+postcode: "65555"
 city: Limburg a. d. Lahn
 street: ""
 housenumber: 

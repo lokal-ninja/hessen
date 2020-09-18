@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 50.5753872
 longitude: 8.7074751
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "An der Automeile"
 housenumber: 4

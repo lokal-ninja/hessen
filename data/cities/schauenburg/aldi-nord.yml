@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2799867
 longitude: 9.356758000000001
-postcode: 34270
+postcode: "34270"
 city: Schauenburg
 street: "Pfingstweide"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.96259980000001
 longitude: 9.7907846
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Gottlieb-Daimler-Straße"
 housenumber: 2

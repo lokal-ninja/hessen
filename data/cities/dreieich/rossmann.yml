@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.019583700000005
 longitude: 8.6953498
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Frankfurter Straße"
 housenumber: 10

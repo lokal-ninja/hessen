@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7365913
 longitude: 8.6274131
-postcode: 35102
+postcode: "35102"
 city: Lohra
 street: "Gladenbacher Straße"
 housenumber: 15a

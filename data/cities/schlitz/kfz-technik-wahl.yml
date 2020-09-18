@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6694818
 longitude: 9.558881300000001
-postcode: 36110
+postcode: "36110"
 city: Schlitz
 street: "Kreuzweg"
 housenumber: 7

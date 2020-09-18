@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1251546
 longitude: 8.9292569
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Dettinger Straße"
 housenumber: 2a

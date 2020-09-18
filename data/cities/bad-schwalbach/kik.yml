@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.142707
 longitude: 8.0492586
-postcode: 65307
+postcode: "65307"
 city: Bad Schwalbach
 street: "Edmund-Heusinger-Straße"
 housenumber: 5

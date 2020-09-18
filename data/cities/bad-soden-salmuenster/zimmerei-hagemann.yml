@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.2734551
 longitude: 9.367460900000001
-postcode: 63628
+postcode: "63628"
 city: Bad Soden-Salmünster
 street: "Weinstraße"
 housenumber: 6

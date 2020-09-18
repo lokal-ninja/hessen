@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.581237
 longitude: 9.543433
-postcode: 36137
+postcode: "36137"
 city: Großenlüder
 street: "An der Aspe"
 housenumber: 3

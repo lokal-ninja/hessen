@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.120495500000004
 longitude: 8.7542782
-postcode: 60386
+postcode: "60386"
 city: Frankfurt am Main
 street: "Carl-Benz-Straße"
 housenumber: 29

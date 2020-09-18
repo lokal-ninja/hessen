@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.815717500000005
 longitude: 8.6207022
-postcode: 64319
+postcode: "64319"
 city: Pfungstadt
 street: "Werner-von-Siemens-Straße"
 housenumber: 3

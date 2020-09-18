@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6376493
 longitude: 10.0207017
-postcode: 36142
+postcode: "36142"
 city: Tann
 street: "Heidelsteinstraße"
 housenumber: 2

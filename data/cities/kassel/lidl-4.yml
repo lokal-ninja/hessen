@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.314504500000005
 longitude: 9.5106959
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Hafenstraße"
 housenumber: 5

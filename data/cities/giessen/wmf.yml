@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.5835153
 longitude: 8.672278
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Seltersweg"
 housenumber: 44

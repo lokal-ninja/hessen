@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.677627400000006
 longitude: 9.5640654
-postcode: 36110
+postcode: "36110"
 city: Schlitz
 street: "Bruchwiesenweg"
 housenumber: 2

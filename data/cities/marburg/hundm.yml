@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.8072803
 longitude: 8.7682775
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Universitätsstraße"
 housenumber: 17

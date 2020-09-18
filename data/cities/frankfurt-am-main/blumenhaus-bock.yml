@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.137643700000005
 longitude: 8.607784200000001
-postcode: 60488
+postcode: "60488"
 city: Frankfurt am Main
 street: "Kollwitzstraße"
 housenumber: 25

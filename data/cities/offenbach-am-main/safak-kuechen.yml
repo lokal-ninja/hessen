@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.1027221
 longitude: 8.766313100000001
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Bleichstraße"
 housenumber: 

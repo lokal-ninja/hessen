@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.597292700000004
 longitude: 8.6843249
-postcode: 35396
+postcode: "35396"
 city: Gießen
 street: "Marburger Straße"
 housenumber: 86

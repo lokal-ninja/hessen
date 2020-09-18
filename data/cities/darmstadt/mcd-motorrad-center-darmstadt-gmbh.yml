@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.916356500000006
 longitude: 8.6437901
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Röntgenstraße"
 housenumber: 76

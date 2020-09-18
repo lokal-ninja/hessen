@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.765222400000006
 longitude: 8.285040500000001
-postcode: 35683
+postcode: "35683"
 city: Dillenburg
 street: "Hirschwiese"
 housenumber: 1

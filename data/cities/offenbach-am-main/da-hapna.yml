@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.107457700000005
 longitude: 8.731367200000001
-postcode: 63067
+postcode: "63067"
 city: Offenbach am Main
 street: "Strahlenbergerstraße"
 housenumber: 127

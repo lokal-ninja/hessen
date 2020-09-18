@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.4919517
 longitude: 8.6613482
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "St.-Ulrich-Ring"
 housenumber: 2

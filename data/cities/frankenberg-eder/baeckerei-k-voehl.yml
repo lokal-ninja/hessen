@@ -1,12 +1,12 @@
-id: 281532093
-type: way
+id: 937174605
+type: node
 shop: Bäckerei
-latitude: 51.058494100000004
-longitude: 8.8020265
-postcode: 35066
+latitude: 51.0584629
+longitude: 8.8020873
+postcode: "35066"
 city: Frankenberg (Eder)
 street: "Obermarkt"
 housenumber: 10
 phone: "+49 6451 9384"
-opening_hours: "Mo closed"
+opening_hours: "Tu-Fr 06:00-18:00; Sa 06:00-13:30"
 website: ""

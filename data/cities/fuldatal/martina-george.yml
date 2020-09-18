@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.370007300000005
 longitude: 9.5174456
-postcode: 34233
+postcode: "34233"
 city: Fuldatal
 street: "Kirchstraße"
 housenumber: 1a

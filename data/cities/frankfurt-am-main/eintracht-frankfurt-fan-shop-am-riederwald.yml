@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.1326307
 longitude: 8.729300700000001
-postcode: 60386
+postcode: "60386"
 city: Frankfurt am Main
 street: "Alfred-Pfaff-Straße"
 housenumber: 1

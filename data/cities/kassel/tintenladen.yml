@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.2727286
 longitude: 9.44257
-postcode: 34132
+postcode: "34132"
 city: Kassel
 street: "Altenbaunaer Straße"
 housenumber: 165

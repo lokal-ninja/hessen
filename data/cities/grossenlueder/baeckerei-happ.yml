@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5904649
 longitude: 9.540199600000001
-postcode: 36137
+postcode: "36137"
 city: Großenlüder
 street: "Lauterbacher Straße"
 housenumber: 12

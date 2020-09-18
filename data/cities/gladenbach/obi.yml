@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.7581932
 longitude: 8.578651800000001
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Jakob-Heuser-Straße"
 housenumber: 4

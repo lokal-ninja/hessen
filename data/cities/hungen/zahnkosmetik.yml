@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.4477616
 longitude: 8.841925
-postcode: 35410
+postcode: "35410"
 city: Hungen
 street: "Danziger Straße"
 housenumber: 40

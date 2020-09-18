@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1264441
 longitude: 8.6098444
-postcode: 60489
+postcode: "60489"
 city: Frankfurt am Main
 street: "Lorscher Straße"
 housenumber: 16

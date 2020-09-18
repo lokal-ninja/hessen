@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.067111600000004
 longitude: 9.9981188
-postcode: 36205
+postcode: "36205"
 city: Sontra - Breitau
 street: "Keudelsgasse"
 housenumber: 6

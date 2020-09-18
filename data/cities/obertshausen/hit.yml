@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0750358
 longitude: 8.8563779
-postcode: 63179
+postcode: "63179"
 city: Obertshausen
 street: "Königsberger Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.6464737
 longitude: 9.0328944
-postcode: 35325
+postcode: "35325"
 city: Mücke
 street: "Bernsfelder Straße"
 housenumber: 1

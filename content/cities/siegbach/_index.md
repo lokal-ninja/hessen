@@ -1,6 +1,6 @@
 ---
 title: Siegbach
 url: /siegbach/
-latitude: 50.7379541
-longitude: 8.417310500000001
+latitude: 50.741797000000005
+longitude: 8.4185765
 ---

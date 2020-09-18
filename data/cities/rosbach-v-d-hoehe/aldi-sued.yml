@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.29731090000001
 longitude: 8.691947800000001
-postcode: 61191
+postcode: "61191"
 city: Rosbach v. d. Höhe
 street: "Raiffeisenstraße"
 housenumber: 18

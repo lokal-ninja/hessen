@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.7547745
 longitude: 8.636899900000001
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Ludwigstraße"
 housenumber: 4a

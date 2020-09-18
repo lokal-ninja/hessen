@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.030861400000006
 longitude: 8.702954700000001
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Robert-Bosch-Straße"
 housenumber: 15

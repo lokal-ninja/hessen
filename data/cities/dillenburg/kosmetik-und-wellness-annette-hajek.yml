@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.724830100000005
 longitude: 8.3032327
-postcode: 35687
+postcode: "35687"
 city: Dillenburg
 street: "Waldstraße"
 housenumber: 6

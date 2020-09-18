@@ -3,7 +3,7 @@ type: way
 shop: Badezimmer
 latitude: 50.790683800000004
 longitude: 8.7635921
-postcode: 35039
+postcode: "35039"
 city: Marburg
 street: "Johann-Konrad-Schäfer-Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.961945
 longitude: 8.9530052
-postcode: 64832
+postcode: "64832"
 city: Babenhausen
 street: "Fahrstraße"
 housenumber: 16

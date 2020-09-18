@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.5876596
 longitude: 8.6766226
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Brandplatz"
 housenumber: 11

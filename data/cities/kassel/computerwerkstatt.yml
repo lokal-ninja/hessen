@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.274414
 longitude: 9.4466456
-postcode: 34132
+postcode: "34132"
 city: Kassel
 street: "Altenbaunaer Straße"
 housenumber: 112B

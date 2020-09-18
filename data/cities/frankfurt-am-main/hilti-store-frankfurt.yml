@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.1213605
 longitude: 8.7412498
-postcode: 60314
+postcode: "60314"
 city: Frankfurt am Main
 street: "Daimlerstraße"
 housenumber: 42

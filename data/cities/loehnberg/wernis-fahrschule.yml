@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.511918200000004
 longitude: 8.270407200000001
-postcode: 35792
+postcode: "35792"
 city: Löhnberg
 street: "Wetzlarer Straße"
 housenumber: 

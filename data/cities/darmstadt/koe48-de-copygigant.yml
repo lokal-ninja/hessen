@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.876041
 longitude: 8.6595177
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Magdalenenstraße"
 housenumber: 7

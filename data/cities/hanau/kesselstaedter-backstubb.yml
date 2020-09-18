@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.131146300000005
 longitude: 8.892753500000001
-postcode: 63454
+postcode: "63454"
 city: Hanau
 street: "Kronprinzenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.599264600000005
 longitude: 9.550411500000001
-postcode: 34399
+postcode: "34399"
 city: Wesertal
 street: "In der Klappe"
 housenumber: 2

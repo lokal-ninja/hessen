@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.123037100000005
 longitude: 8.463656700000001
-postcode: 65779
+postcode: "65779"
 city: Kelkheim
 street: "Industriestraße"
 housenumber: 3

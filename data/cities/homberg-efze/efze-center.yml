@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.0298869
 longitude: 9.424384700000001
-postcode: 34576
+postcode: "34576"
 city: Homberg (Efze)
 street: "August-Vilmar-Straße"
 housenumber: 22

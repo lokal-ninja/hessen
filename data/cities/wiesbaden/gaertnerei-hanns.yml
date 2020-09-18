@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.0252245
 longitude: 8.2908518
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Boelckestraße"
 housenumber: 144

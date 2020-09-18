@@ -3,10 +3,10 @@ type: way
 shop: Möbel
 latitude: 50.1299555
 longitude: 8.7398392
-postcode: 60386
+postcode: "60386"
 city: Frankfurt am Main
 street: "Am Erlenbruch"
 housenumber: 136
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-20:00"
 website: ""

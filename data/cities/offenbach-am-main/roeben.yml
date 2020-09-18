@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.089205500000006
 longitude: 8.8068425
-postcode: 63073
+postcode: "63073"
 city: Offenbach am Main
 street: "Philipp-Reis-Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.912206000000005
 longitude: 8.662563200000001
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Untere Mühlstraße"
 housenumber: 47

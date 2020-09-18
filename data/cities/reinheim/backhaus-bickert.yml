@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.827341600000004
 longitude: 8.8316365
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Darmstädter Straße"
 housenumber: 9

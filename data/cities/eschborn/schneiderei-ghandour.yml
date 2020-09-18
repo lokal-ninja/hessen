@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.1418339
 longitude: 8.565465600000001
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Hauptstraße"
 housenumber: 41

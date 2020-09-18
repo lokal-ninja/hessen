@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.897333700000004
 longitude: 8.837216900000001
-postcode: 64807
+postcode: "64807"
 city: Dieburg
 street: "Rheingaustraße"
 housenumber: 21

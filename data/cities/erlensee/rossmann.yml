@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.1560063
 longitude: 8.9842741
-postcode: 63526
+postcode: "63526"
 city: Erlensee
 street: "Leipziger Straße"
 housenumber: 41

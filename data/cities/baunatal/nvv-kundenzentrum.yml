@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.252965
 longitude: 9.4111496
-postcode: 34225
+postcode: "34225"
 city: Baunatal
 street: "Maximilian-Kolbe-Straße"
 housenumber: 6

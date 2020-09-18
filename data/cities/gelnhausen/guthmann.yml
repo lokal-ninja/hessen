@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 50.200508400000004
 longitude: 9.1914957
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Am Ziegelturm"
 housenumber: 11A

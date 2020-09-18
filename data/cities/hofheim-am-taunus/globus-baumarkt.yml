@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.0926406
 longitude: 8.4577154
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Nordring"
 housenumber: 5-9

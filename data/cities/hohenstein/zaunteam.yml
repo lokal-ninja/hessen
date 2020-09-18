@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.1938077
 longitude: 8.091655000000001
-postcode: 65329
+postcode: "65329"
 city: Hohenstein
 street: "Gronauer Straße"
 housenumber: 5a

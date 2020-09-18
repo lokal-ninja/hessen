@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.655935500000005
 longitude: 8.7898779
-postcode: 64658
+postcode: "64658"
 city: Fürth
 street: "Siemensring"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.2193308
 longitude: 8.6488426
-postcode: 61352
+postcode: "61352"
 city: Bad Homburg v. d. Höhe
 street: "Ober-Eschbacher Straße"
 housenumber: 

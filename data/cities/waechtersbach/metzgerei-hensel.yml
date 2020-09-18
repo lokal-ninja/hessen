@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.3174428
 longitude: 9.2299296
-postcode: 63607
+postcode: "63607"
 city: Wächtersbach
 street: "Wolferborner Straße"
 housenumber: 12

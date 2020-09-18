@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.909095900000004
 longitude: 8.4980785
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Helvetiastraße"
 housenumber: 5

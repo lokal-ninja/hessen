@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 51.130329100000004
 longitude: 9.4409209
-postcode: 34587
+postcode: "34587"
 city: Felsberg
 street: "Parkstraße"
 housenumber: 3

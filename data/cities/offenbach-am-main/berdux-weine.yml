@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.103974
 longitude: 8.765766000000001
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Wilhelmsplatz"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.385034100000006
 longitude: 9.001483200000001
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Prof.-Bier-Straße"
 housenumber: 24

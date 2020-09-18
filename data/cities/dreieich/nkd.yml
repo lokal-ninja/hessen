@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0198705
 longitude: 8.695374300000001
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Frankfurter Straße"
 housenumber: 14-16

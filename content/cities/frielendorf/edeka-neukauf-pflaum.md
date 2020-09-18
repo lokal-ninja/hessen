@@ -1,4 +1,4 @@
 ---
-title: "EDEKA Neukauf Pflaum"
+title: "Edeka Neukauf Pflaum"
 url: /frielendorf/edeka-neukauf-pflaum/
 ---

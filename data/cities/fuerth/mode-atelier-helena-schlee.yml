@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.6515062
 longitude: 8.7868299
-postcode: 64658
+postcode: "64658"
 city: Fürth
 street: "Kröckelbacher Straße"
 housenumber: 35

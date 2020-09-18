@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8012054
 longitude: 8.759695200000001
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Schwanallee"
 housenumber: 31

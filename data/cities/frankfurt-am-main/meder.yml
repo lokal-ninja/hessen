@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.1257998
 longitude: 8.7074767
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Berger Straße"
 housenumber: 198

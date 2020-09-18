@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 50.869035000000004
 longitude: 9.7097806
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Klausstraße"
 housenumber: 17

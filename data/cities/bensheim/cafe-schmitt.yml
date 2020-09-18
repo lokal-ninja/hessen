@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.678831900000006
 longitude: 8.6216757
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Hauptstraße"
 housenumber: 94

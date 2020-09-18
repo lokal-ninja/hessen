@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7562804
 longitude: 8.6118191
-postcode: 64404
+postcode: "64404"
 city: Bickenbach
 street: "Pfungstädter Straße"
 housenumber: 1

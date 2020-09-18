@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.1331927
 longitude: 8.920123400000001
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Salzstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8709016
 longitude: 8.6493981
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Grafenstraße"
 housenumber: 37

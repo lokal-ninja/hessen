@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.979049
 longitude: 8.7306612
-postcode: 35099
+postcode: "35099"
 city: Burgwald
 street: "Marburger Straße"
 housenumber: 35

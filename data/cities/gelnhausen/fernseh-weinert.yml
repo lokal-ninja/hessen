@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.197270800000005
 longitude: 9.1915709
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Altenhaßlauer Straße"
 housenumber: 8

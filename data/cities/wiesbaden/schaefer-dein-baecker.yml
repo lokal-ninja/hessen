@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0922496
 longitude: 8.2260781
-postcode: 65193
+postcode: "65193"
 city: Wiesbaden
 street: "Platter Straße"
 housenumber: 124

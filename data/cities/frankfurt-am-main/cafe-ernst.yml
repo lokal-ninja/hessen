@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.101544200000006
 longitude: 8.6860015
-postcode: 60594
+postcode: "60594"
 city: Frankfurt am Main
 street: "Textorstraße"
 housenumber: 40

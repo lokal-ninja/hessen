@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.6627548
 longitude: 9.6635316
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Am Linsenborn"
 housenumber: 8a

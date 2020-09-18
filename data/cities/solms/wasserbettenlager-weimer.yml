@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.544804400000004
 longitude: 8.3955958
-postcode: 35606
+postcode: "35606"
 city: Solms
 street: "Im Flurscheid"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.3130024
 longitude: 9.4877362
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Königstor"
 housenumber: 10-12

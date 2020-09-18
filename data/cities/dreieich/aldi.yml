@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0318758
 longitude: 8.6970851
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Benzstraße"
 housenumber: 56

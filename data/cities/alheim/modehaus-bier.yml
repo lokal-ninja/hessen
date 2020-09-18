@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.0458809
 longitude: 9.667661500000001
-postcode: 36211
+postcode: "36211"
 city: Alheim
 street: "Nürnberger Straße"
 housenumber: 39

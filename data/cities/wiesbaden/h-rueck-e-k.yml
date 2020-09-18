@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0562966
 longitude: 8.2954725
-postcode: 65205
+postcode: "65205"
 city: Wiesbaden
 street: ""
 housenumber: 249

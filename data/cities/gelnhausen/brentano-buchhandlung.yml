@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 50.202239600000006
 longitude: 9.1911574
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Langgasse"
 housenumber: 2

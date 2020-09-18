@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.869142000000004
 longitude: 8.6691792
-postcode: 64287
+postcode: "64287"
 city: Darmstadt
 street: "Roßdörfer Straße"
 housenumber: 69

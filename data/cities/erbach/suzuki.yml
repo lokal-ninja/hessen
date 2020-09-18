@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6630258
 longitude: 9.0103664
-postcode: 64711
+postcode: "64711"
 city: Erbach
 street: "Gewerbepark Gräsig"
 housenumber: 1

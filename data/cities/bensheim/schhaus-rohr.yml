@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 49.6817359
 longitude: 8.6224184
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Hauptstraße"
 housenumber: 30,32

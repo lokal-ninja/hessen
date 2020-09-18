@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.591561500000005
 longitude: 8.6630052
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Krofdorfer Straße"
 housenumber: 35

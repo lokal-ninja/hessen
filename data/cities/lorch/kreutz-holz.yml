@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.051025300000006
 longitude: 7.821765200000001
-postcode: 65391
+postcode: "65391"
 city: Lorch
 street: "Gewerbepark Wispertal"
 housenumber: 10

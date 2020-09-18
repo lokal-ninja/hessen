@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8608642
 longitude: 8.5909332
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Flughafenstraße"
 housenumber: 14

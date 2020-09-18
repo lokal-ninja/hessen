@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.1184157
 longitude: 8.7849331
-postcode: 63075
+postcode: "63075"
 city: Offenbach am Main
 street: "Langstraße"
 housenumber: 17

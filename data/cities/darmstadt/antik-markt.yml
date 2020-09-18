@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.876542300000004
 longitude: 8.6617692
-postcode: 64287
+postcode: "64287"
 city: Darmstadt
 street: "Dieburger Straße"
 housenumber: 10-12

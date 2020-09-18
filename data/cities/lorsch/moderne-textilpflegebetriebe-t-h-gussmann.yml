@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 49.656207800000004
 longitude: 8.5661748
-postcode: 64653
+postcode: "64653"
 city: Lorsch
 street: "Alexanderstraße"
 housenumber: 18

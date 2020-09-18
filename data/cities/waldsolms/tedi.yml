@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.431889700000006
 longitude: 8.4957267
-postcode: 35647
+postcode: "35647"
 city: Waldsolms
 street: "Hasselborner Straße"
 housenumber: 13-17

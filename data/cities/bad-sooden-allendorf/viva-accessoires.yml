@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.27302400000001
 longitude: 9.974079600000001
-postcode: 37242
+postcode: "37242"
 city: Bad Sooden-Allendorf
 street: "Kirchstraße"
 housenumber: 79

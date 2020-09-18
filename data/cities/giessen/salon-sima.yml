@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5843843
 longitude: 8.6726495
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Katharinengasse"
 housenumber: 13

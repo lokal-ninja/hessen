@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.133974200000004
 longitude: 8.9163457
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Langstraße"
 housenumber: 60

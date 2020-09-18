@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.071172600000004
 longitude: 8.243923
-postcode: 65189
+postcode: "65189"
 city: Wiesbaden
 street: "Bahnhofsplatz"
 housenumber: 1

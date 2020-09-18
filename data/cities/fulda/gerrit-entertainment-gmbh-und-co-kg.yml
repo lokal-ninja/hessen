@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.535656900000006
 longitude: 9.646481600000001
-postcode: 36041
+postcode: "36041"
 city: Fulda
 street: "Robert-Kronfeld-Straße"
 housenumber: 6

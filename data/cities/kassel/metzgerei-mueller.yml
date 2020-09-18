@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3129046
 longitude: 9.4450371
-postcode: 34131
+postcode: "34131"
 city: Kassel
 street: "Wilhelmshöher Allee"
 housenumber: 253

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8802171
 longitude: 9.7229469
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Friedloser Straße"
 housenumber: 29

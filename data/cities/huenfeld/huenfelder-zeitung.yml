@@ -3,7 +3,7 @@ type: way
 shop: Zeitungen
 latitude: 50.672288900000005
 longitude: 9.7658837
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Fuldaer Berg"
 housenumber: 46

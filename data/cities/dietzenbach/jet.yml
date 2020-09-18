@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.012789000000005
 longitude: 8.7927744
-postcode: 63128
+postcode: "63128"
 city: Dietzenbach
 street: "Elisabeth-Selbert-Straße"
 housenumber: 1

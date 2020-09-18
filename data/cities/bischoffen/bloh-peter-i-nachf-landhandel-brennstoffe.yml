@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.704063700000006
 longitude: 8.443484400000001
-postcode: 35649
+postcode: "35649"
 city: Bischoffen
 street: "Bahnhofstraße"
 housenumber: 27

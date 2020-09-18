@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.45217340000001
 longitude: 9.9233548
-postcode: 36129
+postcode: "36129"
 city: Gersfeld
 street: "Ursinusstraße"
 housenumber: 13

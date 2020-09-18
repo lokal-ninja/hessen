@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.125642400000004
 longitude: 8.706653900000001
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Berger Straße"
 housenumber: 183

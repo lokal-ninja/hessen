@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3195166
 longitude: 8.8598675
-postcode: 61197
+postcode: "61197"
 city: Florstadt
 street: "Messeplatz"
 housenumber: 3

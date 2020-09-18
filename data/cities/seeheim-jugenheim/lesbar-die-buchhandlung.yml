@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.7690861
 longitude: 8.6428094
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Am Grundweg"
 housenumber: 14

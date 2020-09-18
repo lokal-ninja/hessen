@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.5521984
 longitude: 9.671571100000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Aptstor"
 housenumber: 13

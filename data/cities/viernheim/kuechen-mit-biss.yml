@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 49.5391417
 longitude: 8.5804823
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Rathausstraße"
 housenumber: 8

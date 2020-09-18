@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.491330600000005
 longitude: 9.3823279
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: "Dragonerstraße"
 housenumber: 15

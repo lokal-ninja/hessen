@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.695647300000005
 longitude: 8.6592354
-postcode: 35457
+postcode: "35457"
 city: Lollar
 street: "Schmelz"
 housenumber: 1

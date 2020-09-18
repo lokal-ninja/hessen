@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.101999400000004
 longitude: 8.6358893
-postcode: 60326
+postcode: "60326"
 city: Frankfurt am Main
 street: "Mainzer Landstraße"
 housenumber: 341

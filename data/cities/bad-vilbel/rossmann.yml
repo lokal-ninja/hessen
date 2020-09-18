@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.179432500000004
 longitude: 8.7359636
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Frankfurter Straße"
 housenumber: 120

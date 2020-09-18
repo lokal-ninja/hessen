@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.3624579
 longitude: 9.4684687
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Rathausplatz"
 housenumber: 3

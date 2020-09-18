@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.120835400000004
 longitude: 8.648751500000001
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Leipziger Straße"
 housenumber: 15

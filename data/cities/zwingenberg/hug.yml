@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.7297766
 longitude: 8.609857700000001
-postcode: 64673
+postcode: "64673"
 city: Zwingenberg
 street: "Darmstädter Straße"
 housenumber: 65

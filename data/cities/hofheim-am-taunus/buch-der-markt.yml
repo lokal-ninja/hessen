@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0861609
 longitude: 8.443714100000001
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Hauptstraße"
 housenumber: 73

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.979819500000005
 longitude: 8.3730784
-postcode: 65474
+postcode: "65474"
 city: Bischofsheim
 street: "Wielandhof"
 housenumber: 44

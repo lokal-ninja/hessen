@@ -1,12 +1,12 @@
-id: 59124504
+id: 53181573
 type: way
 shop: Supermarkt
-latitude: 50.046191300000004
-longitude: 8.2208524
-postcode: 65203
+latitude: 50.0705619
+longitude: 8.1975123
+postcode: "65199"
 city: Wiesbaden
-street: "Friedrich-Bergius-Straße"
-housenumber: 1
+street: "Stegerwaldstraße"
+housenumber: 24
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: ""
+website: ""

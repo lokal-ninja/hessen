@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.5207185
 longitude: 9.0239002
-postcode: 35321
+postcode: "35321"
 city: Laubach
 street: "An der Straße nach Freienseen"
 housenumber: 

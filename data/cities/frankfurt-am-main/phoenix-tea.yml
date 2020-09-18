@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 50.1245387
 longitude: 8.691934400000001
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
 street: "Friedberger Landstraße"
 housenumber: 82

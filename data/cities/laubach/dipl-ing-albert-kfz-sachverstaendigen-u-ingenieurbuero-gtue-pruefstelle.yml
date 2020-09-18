@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.543563400000004
 longitude: 8.980315300000001
-postcode: 35321
+postcode: "35321"
 city: Laubach
 street: "Dexionstraße"
 housenumber: 10a

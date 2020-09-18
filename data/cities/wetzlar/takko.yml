@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.5485854
 longitude: 8.4765771
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "An der Kommandantur"
 housenumber: 2

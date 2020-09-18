@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0916191
 longitude: 8.6072939
-postcode: 65933
+postcode: "65933"
 city: Frankfurt am Main
 street: "Alte Falterstraße"
 housenumber: 3-5

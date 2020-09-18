@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.7515852
 longitude: 9.2748837
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Hersfelder Straße"
 housenumber: 39

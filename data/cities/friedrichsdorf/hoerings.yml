@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.275609700000004
 longitude: 8.650140200000001
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Köpperner Straße"
 housenumber: 79

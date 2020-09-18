@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.154434300000005
 longitude: 8.5295322
-postcode: 65824
+postcode: "65824"
 city: Schwalbach am Taunus
 street: "Marktplatz"
 housenumber: 11

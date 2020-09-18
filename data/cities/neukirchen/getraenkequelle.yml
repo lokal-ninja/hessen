@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.870702300000005
 longitude: 9.3423449
-postcode: 34626
+postcode: "34626"
 city: Neukirchen
 street: ""
 housenumber: 

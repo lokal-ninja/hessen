@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.985191300000004
 longitude: 8.358523
-postcode: 65474
+postcode: "65474"
 city: Bischofsheim
 street: "Darmstädter Straße"
 housenumber: 46

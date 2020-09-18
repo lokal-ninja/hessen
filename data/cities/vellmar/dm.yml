@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3538975
 longitude: 9.4646744
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Lange Wender"
 housenumber: 6

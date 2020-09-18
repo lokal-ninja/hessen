@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.8182209
 longitude: 8.6470892
-postcode: 64297
+postcode: "64297"
 city: Darmstadt
 street: "Eberstädter Marktstraße"
 housenumber: 18

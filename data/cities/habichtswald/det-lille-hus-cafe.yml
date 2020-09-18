@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 51.324876800000006
 longitude: 9.309364500000001
-postcode: 34317
+postcode: "34317"
 city: Habichtswald
 street: "Steinweg"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.083391400000004
 longitude: 8.2393999
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Langgasse"
 housenumber: 5-9

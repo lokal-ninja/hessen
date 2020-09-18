@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.45721270000001
 longitude: 8.7367415
-postcode: 35516
+postcode: "35516"
 city: Münzenberg
 street: "Am Römerhof"
 housenumber: 1

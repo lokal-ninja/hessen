@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.5310761
 longitude: 8.5720414
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Rathausstraße"
 housenumber: 122

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.797009
 longitude: 8.561113
-postcode: 64319
+postcode: "64319"
 city: Hahn
 street: "An der Gehrengasse"
 housenumber: 

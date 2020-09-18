@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.103057
 longitude: 8.685084100000001
-postcode: 60594
+postcode: "60594"
 city: Frankfurt am Main
 street: "Laubestraße"
 housenumber: 26

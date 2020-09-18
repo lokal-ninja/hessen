@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.5927847
 longitude: 8.4576376
-postcode: 35614
+postcode: "35614"
 city: Aßlar
 street: "Herborner Straße"
 housenumber: 35

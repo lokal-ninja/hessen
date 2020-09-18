@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.1845915
 longitude: 8.4663926
-postcode: 61462
+postcode: "61462"
 city: Königstein im Taunus
 street: "Limburger Straße"
 housenumber: 3

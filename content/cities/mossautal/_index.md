@@ -1,6 +1,6 @@
 ---
 title: Mossautal
 url: /mossautal/
-latitude: 49.66919
-longitude: 8.9233922
+latitude: 49.669988700000005
+longitude: 8.9249671
 ---

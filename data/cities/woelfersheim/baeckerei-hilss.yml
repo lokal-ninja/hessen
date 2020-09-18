@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3996645
 longitude: 8.8169049
-postcode: 61200
+postcode: "61200"
 city: Wölfersheim
 street: "Seestraße"
 housenumber: 16

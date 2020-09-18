@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1484352
 longitude: 8.677720800000001
-postcode: 60435
+postcode: "60435"
 city: Frankfurt am Main
 street: "Karl-von-Drais-Straße"
 housenumber: 13

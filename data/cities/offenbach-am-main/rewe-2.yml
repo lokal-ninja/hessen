@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1040944
 longitude: 8.7744348
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Mathildenstraße"
 housenumber: 15-19

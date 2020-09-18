@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3228312
 longitude: 9.5145359
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Hartwigstraße"
 housenumber: 14

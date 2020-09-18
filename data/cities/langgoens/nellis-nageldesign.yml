@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.501613500000005
 longitude: 8.6738595
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Fichtenweg"
 housenumber: 3

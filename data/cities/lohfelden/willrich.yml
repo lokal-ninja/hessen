@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.2611696
 longitude: 9.5638612
-postcode: 34253
+postcode: "34253"
 city: Lohfelden
 street: "Kasseler Straße"
 housenumber: 3

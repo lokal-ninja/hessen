@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 50.752557700000004
 longitude: 9.270239700000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Obergasse"
 housenumber: 33

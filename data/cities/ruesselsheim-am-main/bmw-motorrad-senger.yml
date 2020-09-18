@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.9777379
 longitude: 8.424196400000001
-postcode: 65428
+postcode: "65428"
 city: Rüsselsheim am Main
 street: "Eisenstraße"
 housenumber: 26

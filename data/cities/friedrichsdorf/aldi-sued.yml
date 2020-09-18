@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.248865200000004
 longitude: 8.6406717
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Industriestraße"
 housenumber: 12
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-21:00"
 website: ""

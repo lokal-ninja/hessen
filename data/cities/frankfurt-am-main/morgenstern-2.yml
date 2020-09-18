@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0785591
 longitude: 8.6475335
-postcode: 60528
+postcode: "60528"
 city: Frankfurt am Main
 street: "Gerauer Straße"
 housenumber: 100

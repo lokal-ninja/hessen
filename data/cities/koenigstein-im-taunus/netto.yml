@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1719969
 longitude: 8.4469922
-postcode: 61462
+postcode: "61462"
 city: Königstein im Taunus
 street: "Wiesbadener Straße"
 housenumber: 220

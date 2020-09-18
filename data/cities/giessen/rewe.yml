@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.5855667
 longitude: 8.696264000000001
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Grünberger Straße"
 housenumber: 114
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de"
+website: "https://www.rewe.de/marktseite/giessen/240726/rewe-markt-gruenberger-strasse-114/"

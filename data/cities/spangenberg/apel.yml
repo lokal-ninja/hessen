@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1159351
 longitude: 9.662382000000001
-postcode: 34286
+postcode: "34286"
 city: Spangenberg
 street: "Lochmühle"
 housenumber: 3

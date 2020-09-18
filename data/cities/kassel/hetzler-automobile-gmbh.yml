@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.300815
 longitude: 9.5338242
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Leipziger Straße"
 housenumber: 196

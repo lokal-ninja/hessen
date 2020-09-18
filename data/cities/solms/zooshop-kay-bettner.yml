@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.537855300000004
 longitude: 8.4061175
-postcode: 35606
+postcode: "35606"
 city: Solms
 street: "Krautgärtenstraße"
 housenumber: 18

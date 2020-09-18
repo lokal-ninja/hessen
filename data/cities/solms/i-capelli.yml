@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5442897
 longitude: 8.4347641
-postcode: 35606
+postcode: "35606"
 city: Solms
 street: "Am Kirchfeld"
 housenumber: 36

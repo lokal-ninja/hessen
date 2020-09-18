@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.396624200000005
 longitude: 8.7505948
-postcode: 61231
+postcode: "61231"
 city: Bad Nauheim
 street: "Zum Sauerbrunnen"
 housenumber: 14a

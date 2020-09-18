@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.312338600000004
 longitude: 9.491348700000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Fünffensterstraße"
 housenumber: 9 + 9A

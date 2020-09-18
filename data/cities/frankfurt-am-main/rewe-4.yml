@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1326027
 longitude: 8.6259922
-postcode: 60488
+postcode: "60488"
 city: Frankfurt am Main
 street: "Hausener Brückweg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.118751800000005
 longitude: 8.8175545
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Borsigstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.5540663
 longitude: 9.7167034
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Alte Ziegelei"
 housenumber: 16

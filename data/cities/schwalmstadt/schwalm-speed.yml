@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9111392
 longitude: 9.180486700000001
-postcode: 34613
+postcode: "34613"
 city: Schwalmstadt
 street: "Wierastraße"
 housenumber: 6

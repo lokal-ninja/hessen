@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 49.875880800000004
 longitude: 8.659963600000001
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Magdalenenstraße"
 housenumber: 3

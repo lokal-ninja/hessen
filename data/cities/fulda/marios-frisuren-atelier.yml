@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5492281
 longitude: 9.671915
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Am Rosengarten"
 housenumber: 15

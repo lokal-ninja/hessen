@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.1269538
 longitude: 8.611766600000001
-postcode: 60489
+postcode: "60489"
 city: Frankfurt am Main
 street: "Alexanderstraße"
 housenumber: 51
-phone: "+4969 977 688 42"
-opening_hours: "Mo-Sa 06:00-11:00"
+phone: "+49 69 97768842"
+opening_hours: "Mo-Sa 06:00-11:00; PH closed"
 website: "https://www.huckgmbh.de"

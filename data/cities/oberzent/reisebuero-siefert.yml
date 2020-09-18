@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.5672007
 longitude: 8.9735496
-postcode: 64760
+postcode: "64760"
 city: Oberzent
 street: "Hirschhorner Straße"
 housenumber: 2

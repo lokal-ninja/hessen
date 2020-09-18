@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.0431801
 longitude: 8.9751978
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.600046600000006
 longitude: 8.7989967
-postcode: 35418
+postcode: "35418"
 city: Buseck
 street: "Zeppelinstraße"
 housenumber: 2

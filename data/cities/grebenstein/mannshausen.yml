@@ -3,7 +3,7 @@ type: node
 shop: Landwirtschaftlich
 latitude: 51.445528200000005
 longitude: 9.4182172
-postcode: 34393
+postcode: "34393"
 city: Grebenstein
 street: "Udenhäuser Straße"
 housenumber: 19

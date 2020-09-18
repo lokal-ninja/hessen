@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.122496500000004
 longitude: 8.7068414
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Linnestraße"
 housenumber: 12

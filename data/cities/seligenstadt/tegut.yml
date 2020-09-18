@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0441511
 longitude: 8.9619367
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Frankfurter Straße"
 housenumber: 96

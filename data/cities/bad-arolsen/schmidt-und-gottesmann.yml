@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.3802298
 longitude: 9.017950200000001
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Schloßstraße"
 housenumber: 7

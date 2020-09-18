@@ -1,12 +1,12 @@
-id: 5150487802
+id: 6952633319
 type: node
 shop: Drogerie
-latitude: 50.086534500000006
-longitude: 8.645341700000001
-postcode: 60528
+latitude: 50.1136403
+longitude: 8.6956307
+postcode: "60314"
 city: Frankfurt am Main
-street: "Bruchfeldstraße"
-housenumber: 49
+street: "Hanauer Landstraße"
+housenumber: 1-5
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

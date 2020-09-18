@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.1047791
 longitude: 8.7619024
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Frankfurter Straße"
 housenumber: 26

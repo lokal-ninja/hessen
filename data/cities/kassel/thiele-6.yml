@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3116142
 longitude: 9.4643301
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Kirchweg"
 housenumber: 29a

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.132166000000005
 longitude: 9.5453427
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Sandstraße"
 housenumber: 5

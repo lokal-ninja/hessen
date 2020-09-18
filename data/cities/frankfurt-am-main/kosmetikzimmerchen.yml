@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.080868800000005
 longitude: 8.6488714
-postcode: 60528
+postcode: "60528"
 city: Frankfurt am Main
 street: "Königslacher Straße"
 housenumber: 36

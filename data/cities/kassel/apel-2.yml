@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.274979800000004
 longitude: 9.5221411
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Heinrich-Hertz-Straße"
 housenumber: 29

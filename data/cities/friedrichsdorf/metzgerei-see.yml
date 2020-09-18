@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.275829
 longitude: 8.6500135
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Mühlstraße"
 housenumber: 1

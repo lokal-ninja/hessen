@@ -3,7 +3,7 @@ type: node
 shop: Energie
 latitude: 50.217968500000005
 longitude: 8.2650938
-postcode: 65510
+postcode: "65510"
 city: Idstein
 street: "Wiesbadener Straße"
 housenumber: 39-41

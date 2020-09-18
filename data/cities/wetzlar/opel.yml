@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.569620500000006
 longitude: 8.4987583
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Hermannsteiner Straße"
 housenumber: 

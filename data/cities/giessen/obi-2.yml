@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.58397050000001
 longitude: 8.6507184
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Gottlieb-Daimler-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.753254000000005
 longitude: 9.2696824
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Ludwigsplatz"
 housenumber: 2a

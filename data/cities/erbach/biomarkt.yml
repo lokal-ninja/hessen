@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6681946
 longitude: 8.9910612
-postcode: 64711
+postcode: "64711"
 city: Erbach
 street: "Carl-Benz-Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.121147300000004
 longitude: 8.6490816
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Leipziger Straße"
 housenumber: 18

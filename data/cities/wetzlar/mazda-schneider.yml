@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.559544
 longitude: 8.6032706
-postcode: 35582
+postcode: "35582"
 city: Wetzlar
 street: "Gießener Straße"
 housenumber: 28-30

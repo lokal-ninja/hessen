@@ -3,7 +3,7 @@ type: node
 shop: Badezimmer
 latitude: 50.053723600000005
 longitude: 8.695408200000001
-postcode: 63263
+postcode: "63263"
 city: Neu-Isenburg
 street: "Frankfurter Straße"
 housenumber: 74-76

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.5865513
 longitude: 8.4804546
-postcode: 35614
+postcode: "35614"
 city: Aßlar
 street: "Europastraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.9289416
 longitude: 8.5795487
-postcode: 64331
+postcode: "64331"
 city: Schneppenhausen
 street: "Brückenstraße"
 housenumber: 3

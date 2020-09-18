@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.314802400000005
 longitude: 9.4928294
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Wolfsschlucht"
 housenumber: 15

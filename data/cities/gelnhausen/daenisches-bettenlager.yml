@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.2011072
 longitude: 9.1767331
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Freigerichter Straße"
 housenumber: 4a

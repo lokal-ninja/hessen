@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1136021
 longitude: 8.621442400000001
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Käthchen-Paulus-Straße"
 housenumber: 2

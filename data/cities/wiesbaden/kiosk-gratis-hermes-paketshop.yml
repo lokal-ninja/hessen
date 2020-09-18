@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.0793863
 longitude: 8.2255474
-postcode: 65195
+postcode: "65195"
 city: Wiesbaden
 street: "Goebenstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.385845800000006
 longitude: 8.4554836
-postcode: 61279
+postcode: "61279"
 city: Grävenwiesbach
 street: "Frankfurter Straße"
 housenumber: 43

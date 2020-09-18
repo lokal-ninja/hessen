@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.873951700000006
 longitude: 8.632695400000001
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
 street: "Goebelstraße"
 housenumber: 21

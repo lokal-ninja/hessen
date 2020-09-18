@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.5039407
 longitude: 9.126910200000001
-postcode: 63679
+postcode: "63679"
 city: Schotten
 street: "Vogelsbergstraße"
 housenumber: 160

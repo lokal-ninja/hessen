@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 50.113545800000004
 longitude: 8.6988274
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
 street: "Hölderlinstraße"
 housenumber: 5

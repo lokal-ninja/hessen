@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 51.1998091
 longitude: 9.7118336
-postcode: 37235
+postcode: "37235"
 city: Hessisch Lichtenau
 street: "Königsberger Straße"
 housenumber: 14

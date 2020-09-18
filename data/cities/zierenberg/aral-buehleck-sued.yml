@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.381905800000006
 longitude: 9.236510800000001
-postcode: 34289
+postcode: "34289"
 city: Zierenberg
 street: "Bühleck Süd"
 housenumber: 

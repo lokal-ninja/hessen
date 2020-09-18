@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.921832200000004
 longitude: 9.5512333
-postcode: 36286
+postcode: "36286"
 city: Neuenstein
 street: "Domäne"
 housenumber: 2

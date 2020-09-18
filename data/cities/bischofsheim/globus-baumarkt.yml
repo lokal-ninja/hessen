@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.9699351
 longitude: 8.3886128
-postcode: 65428
+postcode: "65428"
 city: Bischofsheim
 street: "Am Steinmarkt"
 housenumber: 1

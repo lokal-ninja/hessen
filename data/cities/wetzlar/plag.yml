@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.5536413
 longitude: 8.5007867
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "Silhöfer Straße"
 housenumber: 20

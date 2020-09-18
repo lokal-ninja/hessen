@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.819440900000004
 longitude: 8.644799
-postcode: 64297
+postcode: "64297"
 city: Darmstadt
 street: "Schwanenstraße"
 housenumber: 43

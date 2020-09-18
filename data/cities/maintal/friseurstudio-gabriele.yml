@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1535689
 longitude: 8.838578100000001
-postcode: 63477
+postcode: "63477"
 city: Maintal
 street: "Hanauer Straße"
 housenumber: 7

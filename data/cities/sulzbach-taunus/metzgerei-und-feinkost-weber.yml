@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.1339398
 longitude: 8.5271142
-postcode: 65843
+postcode: "65843"
 city: Sulzbach (Taunus)
 street: "Hauptstraße"
 housenumber: 30

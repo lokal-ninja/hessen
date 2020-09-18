@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.0059958
 longitude: 9.5368954
-postcode: 34593
+postcode: "34593"
 city: Knüllwald
 street: "Ersröder Straße"
 housenumber: 6

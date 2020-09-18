@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.5527202
 longitude: 9.679902
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Bahnhofstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.1043159
 longitude: 8.7568608
-postcode: 63067
+postcode: "63067"
 city: Offenbach am Main
 street: "Luisenstraße"
 housenumber: 68

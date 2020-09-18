@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1312293
 longitude: 9.544556700000001
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Brückenstraße"
 housenumber: 2

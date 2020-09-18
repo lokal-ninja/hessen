@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.057297600000005
 longitude: 8.6965266
-postcode: 63263
+postcode: "63263"
 city: Neu-Isenburg
 street: "Karlstraße"
 housenumber: 11-13

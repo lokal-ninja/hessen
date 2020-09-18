@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.975160100000004
 longitude: 8.8005856
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Ober-Rodener Straße"
 housenumber: 12

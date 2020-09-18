@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.1238752
 longitude: 8.642774300000001
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Marburger Straße"
 housenumber: 4

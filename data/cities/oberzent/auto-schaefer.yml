@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5759665
 longitude: 8.9830916
-postcode: 64760
+postcode: "64760"
 city: Oberzent
 street: "Mümlingtalstraße"
 housenumber: 93

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.044434200000005
 longitude: 8.974408500000001
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Frankfurter Straße"
 housenumber: 6

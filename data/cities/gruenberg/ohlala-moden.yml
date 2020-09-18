@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.590445300000006
 longitude: 8.9595496
-postcode: 35305
+postcode: "35305"
 city: Grünberg
 street: "Rabegasse"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6442283
 longitude: 8.6161128
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Tiergartenstraße"
 housenumber: 12

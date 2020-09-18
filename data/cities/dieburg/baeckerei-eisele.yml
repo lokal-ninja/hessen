@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8942988
 longitude: 8.838961600000001
-postcode: 64807
+postcode: "64807"
 city: Dieburg
 street: "Goethestraße"
 housenumber: 19

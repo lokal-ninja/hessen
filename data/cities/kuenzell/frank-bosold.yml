@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.544331
 longitude: 9.720550600000001
-postcode: 36093
+postcode: "36093"
 city: Künzell
 street: "Keuloser Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.8285233
 longitude: 8.9076281
-postcode: 64853
+postcode: "64853"
 city: Otzberg
 street: "Lengfelder Weg"
 housenumber: 17

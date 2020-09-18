@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.679726200000005
 longitude: 8.304559300000001
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Konrad-Adenauer-Straße"
 housenumber: 1

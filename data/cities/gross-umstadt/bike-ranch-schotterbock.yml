@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.888172700000005
 longitude: 8.9246356
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Gartenweg"
 housenumber: 1

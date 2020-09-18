@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9743007
 longitude: 9.3255178
-postcode: 34621
+postcode: "34621"
 city: Frielendorf
 street: "Hinter den Höfen"
 housenumber: 

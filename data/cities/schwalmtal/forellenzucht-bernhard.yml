@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 50.651776000000005
 longitude: 9.2596827
-postcode: 36318
+postcode: "36318"
 city: Schwalmtal
 street: "Meicheser Straße"
 housenumber: 53

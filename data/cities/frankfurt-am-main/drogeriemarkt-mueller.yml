@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.1031008
 longitude: 8.6800131
-postcode: 60594
+postcode: "60594"
 city: Frankfurt am Main
 street: "Schweizer Straße"
 housenumber: 33-35

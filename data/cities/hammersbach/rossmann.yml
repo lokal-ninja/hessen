@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.242976000000006
 longitude: 8.994568300000001
-postcode: 63546
+postcode: "63546"
 city: Hammersbach
 street: "Am Lachbach"
 housenumber: 12

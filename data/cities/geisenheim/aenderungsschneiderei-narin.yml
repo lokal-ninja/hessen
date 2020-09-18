@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.9831645
 longitude: 7.967418
-postcode: 65366
+postcode: "65366"
 city: Geisenheim
 street: "Bischof-Blum-Platz"
 housenumber: 12

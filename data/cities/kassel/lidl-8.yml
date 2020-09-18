@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.308824900000005
 longitude: 9.4587541
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Kohlenstraße"
 housenumber: 75

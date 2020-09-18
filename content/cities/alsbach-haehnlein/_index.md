@@ -1,6 +1,6 @@
 ---
 title: Alsbach-Hähnlein
 url: /alsbach-haehnlein/
-latitude: 49.738600000000005
-longitude: 8.595830000000001
+latitude: 49.738350600000004
+longitude: 8.595004900000001
 ---

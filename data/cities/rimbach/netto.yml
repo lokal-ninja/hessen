@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6279071
 longitude: 8.7582831
-postcode: 64668
+postcode: "64668"
 city: Rimbach
 street: "Staatsstraße"
 housenumber: 48-50

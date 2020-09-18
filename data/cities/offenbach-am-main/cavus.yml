@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.10646920000001
 longitude: 8.7660012
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Sandgasse"
 housenumber: 28-32

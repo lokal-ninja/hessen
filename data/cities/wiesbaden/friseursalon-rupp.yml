@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0620946
 longitude: 8.2617241
-postcode: 65189
+postcode: "65189"
 city: Wiesbaden
 street: "Andreas-Schlüter-Straße"
 housenumber: 1

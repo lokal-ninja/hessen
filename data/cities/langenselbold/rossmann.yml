@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.1817312
 longitude: 9.035214700000001
-postcode: 63505
+postcode: "63505"
 city: Langenselbold
 street: "Ringstraße"
 housenumber: 28

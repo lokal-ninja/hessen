@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 49.8895947
 longitude: 8.6430384
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
 street: "Otto-Röhm-Straße"
 housenumber: 68

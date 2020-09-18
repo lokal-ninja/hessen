@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.539408400000006
 longitude: 9.7134213
-postcode: 36093
+postcode: "36093"
 city: Künzell
 street: "Eisenacher Straße"
 housenumber: 

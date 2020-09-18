@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1033824
 longitude: 8.679317300000001
-postcode: 60594
+postcode: "60594"
 city: Frankfurt am Main
 street: "Schweizer Straße"
 housenumber: 30

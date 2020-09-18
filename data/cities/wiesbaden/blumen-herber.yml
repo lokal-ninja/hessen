@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.0458142
 longitude: 8.1975329
-postcode: 65201
+postcode: "65201"
 city: Wiesbaden
 street: "Alfred-Schumann-Straße"
 housenumber: 24

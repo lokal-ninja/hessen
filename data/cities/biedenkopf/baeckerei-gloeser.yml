@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9052962
 longitude: 8.533495700000001
-postcode: 35216
+postcode: "35216"
 city: Biedenkopf
 street: "Am Seewasem"
 housenumber: 7a

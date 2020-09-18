@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.105055400000005
 longitude: 8.774883500000001
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Arthur-Zitscher-Straße"
 housenumber: 1

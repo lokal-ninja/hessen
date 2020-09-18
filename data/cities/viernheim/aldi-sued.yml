@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5367267
 longitude: 8.590599600000001
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Heidelberger Straße"
 housenumber: 61

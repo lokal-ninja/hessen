@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0948338
 longitude: 8.459718800000001
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Niederhofheimer Straße"
 housenumber: 

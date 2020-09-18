@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 50.338548900000006
 longitude: 8.7532751
-postcode: 61169
+postcode: "61169"
 city: Friedberg (Hessen)
 street: "Neuhausgasse"
 housenumber: 6

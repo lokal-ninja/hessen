@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.8704874
 longitude: 8.655933600000001
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Schulstraße"
 housenumber: 11

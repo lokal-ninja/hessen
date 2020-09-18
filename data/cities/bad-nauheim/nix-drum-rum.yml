@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.363736700000004
 longitude: 8.7350894
-postcode: 61231
+postcode: "61231"
 city: Bad Nauheim
 street: "Marktplatz"
 housenumber: 9

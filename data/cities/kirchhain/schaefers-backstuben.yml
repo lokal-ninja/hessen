@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.823486300000006
 longitude: 8.9213757
-postcode: 35274
+postcode: "35274"
 city: Kirchhain
 street: "Am Bahnhof"
 housenumber: 9

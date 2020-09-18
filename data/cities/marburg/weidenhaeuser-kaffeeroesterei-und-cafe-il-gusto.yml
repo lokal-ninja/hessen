@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 50.807540900000006
 longitude: 8.7752692
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Erlenring"
 housenumber: 4

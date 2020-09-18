@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.1432179
 longitude: 8.5022382
-postcode: 65812
+postcode: "65812"
 city: Bad Soden am Taunus
 street: "Königsteiner Straße"
 housenumber: 55

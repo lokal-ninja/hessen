@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.3279897
 longitude: 9.442745200000001
-postcode: 34130
+postcode: "34130"
 city: Kassel
 street: "Harleshäuser Straße"
 housenumber: 71

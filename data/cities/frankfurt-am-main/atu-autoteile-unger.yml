@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0876188
 longitude: 8.6306381
-postcode: 60528
+postcode: "60528"
 city: Frankfurt am Main
 street: "Hahnstraße"
 housenumber: 4

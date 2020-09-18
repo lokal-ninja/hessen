@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.7126826
 longitude: 8.8396445
-postcode: 64385
+postcode: "64385"
 city: Reichelsheim (Odenwald)
 street: "Bismarckstraße"
 housenumber: 4

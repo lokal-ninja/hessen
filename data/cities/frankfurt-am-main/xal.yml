@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.108443
 longitude: 8.6488855
-postcode: 60327
+postcode: "60327"
 city: Frankfurt am Main
 street: "Europa-Allee"
 housenumber: 33-35

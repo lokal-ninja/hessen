@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.179627
 longitude: 8.7369274
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Frankfurter Straße"
 housenumber: 108

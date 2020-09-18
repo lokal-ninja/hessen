@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.121221600000005
 longitude: 8.8198789
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "August-Bebel-Straße"
 housenumber: 1

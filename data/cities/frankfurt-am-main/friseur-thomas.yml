@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1262661
 longitude: 8.7156716
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Wittelsbacherallee"
 housenumber: 183

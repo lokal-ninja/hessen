@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.1171136
 longitude: 8.633865
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Voltastraße"
 housenumber: 74

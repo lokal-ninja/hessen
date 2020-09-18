@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.5499115
 longitude: 9.6771843
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Karlstraße"
 housenumber: 9

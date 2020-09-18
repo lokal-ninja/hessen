@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 50.540157
 longitude: 9.702588800000001
-postcode: 36093
+postcode: "36093"
 city: Künzell
 street: "Turmstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.7687946
 longitude: 8.581236800000001
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Marktplatz"
 housenumber: 1

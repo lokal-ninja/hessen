@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.453684700000004
 longitude: 9.927638
-postcode: 36129
+postcode: "36129"
 city: Gersfeld
 street: "Ursinusstraße"
 housenumber: 31

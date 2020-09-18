@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.207677000000004
 longitude: 8.7442545
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Dortelweiler Platz"
 housenumber: 2

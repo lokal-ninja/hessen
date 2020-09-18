@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.381039
 longitude: 9.009567
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Bahnhofstraße"
 housenumber: 46

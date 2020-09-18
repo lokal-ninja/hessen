@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.385699300000006
 longitude: 8.4560898
-postcode: 61279
+postcode: "61279"
 city: Grävenwiesbach
 street: "Frankfurter Straße"
 housenumber: 43

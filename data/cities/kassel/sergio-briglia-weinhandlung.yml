@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 51.3083455
 longitude: 9.4659516
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Friedenstraße"
 housenumber: 35

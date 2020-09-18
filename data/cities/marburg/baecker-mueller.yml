@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8097574
 longitude: 8.771019500000001
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Wettergasse"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.549886900000004
 longitude: 9.676355800000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Karlstraße"
 housenumber: 12

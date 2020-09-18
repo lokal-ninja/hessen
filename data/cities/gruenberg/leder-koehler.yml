@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.592095900000004
 longitude: 8.9600021
-postcode: 35305
+postcode: "35305"
 city: Grünberg
 street: "Marktgasse"
 housenumber: 17

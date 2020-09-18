@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 50.154231
 longitude: 8.184471400000001
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
 street: "Mainzer Allee"
 housenumber: 10

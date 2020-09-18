@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.801488500000005
 longitude: 9.0042872
-postcode: 64739
+postcode: "64739"
 city: Höchst im Odenwald
 street: "Otto-Hahn-Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.1070094
 longitude: 8.6670809
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Münchener Straße"
 housenumber: 47

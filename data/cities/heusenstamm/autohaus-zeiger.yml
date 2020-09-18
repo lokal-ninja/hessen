@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.061102000000005
 longitude: 8.8148512
-postcode: 63150
+postcode: "63150"
 city: Heusenstamm
 street: "Am Goldberg"
 housenumber: 2

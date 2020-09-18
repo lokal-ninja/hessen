@@ -1,0 +1,4 @@
+---
+title: "Bäckerei Karagöz"
+url: /kassel/baeckerei-karagoez/
+---

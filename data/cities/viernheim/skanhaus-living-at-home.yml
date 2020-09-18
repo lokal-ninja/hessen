@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.528343500000005
 longitude: 8.574653600000001
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Heidelberger Straße"
 housenumber: 15-17

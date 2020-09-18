@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.6821531
 longitude: 8.304309
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Hauptstraße"
 housenumber: 85

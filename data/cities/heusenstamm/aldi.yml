@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.048986400000004
 longitude: 8.8017263
-postcode: 63150
+postcode: "63150"
 city: Heusenstamm
 street: "Werner-von-Siemens-Straße"
 housenumber: 15-19

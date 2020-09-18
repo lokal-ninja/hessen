@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.5950937
 longitude: 9.539379400000001
-postcode: 36137
+postcode: "36137"
 city: Großenlüder
 street: "Schlitzer Straße"
 housenumber: 32

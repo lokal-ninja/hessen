@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.0488505
 longitude: 8.2271771
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Hagenauer Straße"
 housenumber: 23

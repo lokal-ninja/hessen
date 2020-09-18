@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.9894539
 longitude: 8.6723415
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Bahnstraße"
 housenumber: 20

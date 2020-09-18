@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.0886902
 longitude: 8.8066121
-postcode: 63073
+postcode: "63073"
 city: Offenbach am Main
 street: "Langener Straße"
 housenumber: 1

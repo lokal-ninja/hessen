@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.1948516
 longitude: 8.5854576
-postcode: 61440
+postcode: "61440"
 city: Oberursel (Taunus)
 street: "Gablonzer Straße"
 housenumber: 15

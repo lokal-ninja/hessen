@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.868551100000005
 longitude: 9.7589279
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Kathuser Straße"
 housenumber: 1

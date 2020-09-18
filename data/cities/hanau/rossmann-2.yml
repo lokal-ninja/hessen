@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.131495300000005
 longitude: 8.910648100000001
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Am Steinheimer Tor"
 housenumber: 1

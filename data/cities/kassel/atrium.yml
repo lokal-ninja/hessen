@@ -3,10 +3,10 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.3139185
 longitude: 9.4448535
-postcode: 34131
+postcode: "34131"
 city: Kassel
 street: "Wilhelmshöher Allee"
 housenumber: 262
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-23:30; Su 10:00-23:30"
 website: "https://www.atrium-kassel.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.207462
 longitude: 8.746155700000001
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Industriestraße"
 housenumber: 2

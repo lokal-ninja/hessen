@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.653294100000004
 longitude: 8.6365966
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Darmstädter Straße"
 housenumber: 97

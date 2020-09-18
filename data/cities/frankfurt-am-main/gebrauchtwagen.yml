@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.134976300000005
 longitude: 8.6967444
-postcode: 60389
+postcode: "60389"
 city: Frankfurt am Main
 street: "Friedberger Landstraße"
 housenumber: 324

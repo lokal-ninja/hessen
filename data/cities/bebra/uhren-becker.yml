@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 50.9708714
 longitude: 9.792007700000001
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Nürnberger Straße"
 housenumber: 18

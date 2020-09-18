@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1630082
 longitude: 9.0788069
-postcode: 63594
+postcode: "63594"
 city: Hasselroth
 street: "Albert-Einstein-Straße"
 housenumber: 1

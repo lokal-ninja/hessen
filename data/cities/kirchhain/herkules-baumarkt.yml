@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.8201684
 longitude: 8.938019800000001
-postcode: 35274
+postcode: "35274"
 city: Kirchhain
 street: "Fuldaer Straße"
 housenumber: 12

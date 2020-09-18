@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.1589863
 longitude: 8.6894192
-postcode: 60435
+postcode: "60435"
 city: Frankfurt am Main
 street: "Homburger Landstraße"
 housenumber: 240

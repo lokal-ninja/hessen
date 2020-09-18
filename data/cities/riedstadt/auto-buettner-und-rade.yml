@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.8286105
 longitude: 8.4897072
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Im Entenbad"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.5856574
 longitude: 8.6967534
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Grünberger Straße"
 housenumber: 114

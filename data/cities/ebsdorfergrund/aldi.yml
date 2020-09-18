@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7242587
 longitude: 8.7958428
-postcode: 35085
+postcode: "35085"
 city: Ebsdorfergrund
 street: "Hachborner Straße"
 housenumber: 2b

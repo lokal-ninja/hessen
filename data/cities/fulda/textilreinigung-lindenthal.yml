@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.5484353
 longitude: 9.6747002
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Löherstraße"
 housenumber: 20

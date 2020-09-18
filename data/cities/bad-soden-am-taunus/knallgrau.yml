@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.143359700000005
 longitude: 8.5021062
-postcode: 65812
+postcode: "65812"
 city: Bad Soden am Taunus
 street: "Königsteiner Straße"
 housenumber: 57

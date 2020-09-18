@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.0947485
 longitude: 8.6821117
-postcode: 60598
+postcode: "60598"
 city: Frankfurt am Main
 street: "Ziegelhüttenweg"
 housenumber: 1-3

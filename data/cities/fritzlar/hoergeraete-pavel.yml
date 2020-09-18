@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.1345192
 longitude: 9.2772453
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Am Hospital"
 housenumber: 11

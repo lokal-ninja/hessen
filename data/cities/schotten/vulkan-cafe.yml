@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.503500200000005
 longitude: 9.1249746
-postcode: 63679
+postcode: "63679"
 city: Schotten
 street: "Ludwigstraße"
 housenumber: 16

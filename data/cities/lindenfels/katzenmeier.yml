@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.7053978
 longitude: 8.7848392
-postcode: 64678
+postcode: "64678"
 city: Lindenfels
 street: "Hauptstraße"
 housenumber: 90

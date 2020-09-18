@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.875843100000004
 longitude: 8.6611799
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Dieburger Straße"
 housenumber: 1

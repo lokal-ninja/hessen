@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.0727823
 longitude: 8.960736500000001
-postcode: 63512
+postcode: "63512"
 city: Hainburg
 street: "Fasanerie-Arkaden"
 housenumber: 8

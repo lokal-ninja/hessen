@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.5573678
 longitude: 8.4951719
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Neustadt"
 housenumber: 25

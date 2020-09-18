@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5409457
 longitude: 8.5238862
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "Stoppelberger Hohl"
 housenumber: 130

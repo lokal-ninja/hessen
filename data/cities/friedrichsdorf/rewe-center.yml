@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.251485200000005
 longitude: 8.6357324
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Kolberger Straße"
 housenumber: 2

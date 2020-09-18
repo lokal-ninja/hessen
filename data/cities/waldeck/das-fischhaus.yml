@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 51.210424
 longitude: 9.002049000000001
-postcode: 34513
+postcode: "34513"
 city: Waldeck
 street: "Unter dem Hagen"
 housenumber: 1

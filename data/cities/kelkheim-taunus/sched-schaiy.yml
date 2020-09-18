@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.138058300000004
 longitude: 8.453899400000001
-postcode: 65779
+postcode: "65779"
 city: Kelkheim (Taunus)
 street: "Mühlstraße"
 housenumber: 16

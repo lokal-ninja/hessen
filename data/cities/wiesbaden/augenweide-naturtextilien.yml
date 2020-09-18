@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.084376500000005
 longitude: 8.240238
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Langgasse"
 housenumber: 27

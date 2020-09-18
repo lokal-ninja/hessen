@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.985002
 longitude: 7.9666756
-postcode: 65366
+postcode: "65366"
 city: Geisenheim
 street: "Behlstraße"
 housenumber: 15

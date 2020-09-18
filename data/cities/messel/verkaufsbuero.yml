@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 49.913712700000005
 longitude: 8.753456100000001
-postcode: 64409
+postcode: "64409"
 city: Messel
 street: "Roßdörfer Straße"
 housenumber: 90

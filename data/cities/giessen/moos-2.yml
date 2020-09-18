@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.588801700000005
 longitude: 8.664820800000001
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Rodheimer Straße"
 housenumber: 

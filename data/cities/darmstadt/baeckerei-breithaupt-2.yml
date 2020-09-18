@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8587191
 longitude: 8.6517493
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Bessunger Straße"
 housenumber: 41

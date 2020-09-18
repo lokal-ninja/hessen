@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.0760893
 longitude: 8.2371724
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Adelheidstraße"
 housenumber: 51

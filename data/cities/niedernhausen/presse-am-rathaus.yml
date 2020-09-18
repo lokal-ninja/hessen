@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 50.1625932
 longitude: 8.3170126
-postcode: 65527
+postcode: "65527"
 city: Niedernhausen
 street: "Freiherr-vom-Stein-Straße"
 housenumber: 2

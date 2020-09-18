@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.549913000000004
 longitude: 9.676670300000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Karlstraße"
 housenumber: 10

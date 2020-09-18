@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 50.0444292
 longitude: 8.975138600000001
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.895262100000004
 longitude: 8.6084758
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Friedrich-Schaefer-Straße"
 housenumber: 2

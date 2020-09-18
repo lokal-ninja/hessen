@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.168122700000005
 longitude: 8.6807046
-postcode: 60433
+postcode: "60433"
 city: Frankfurt am Main
 street: "Berkersheimer Weg"
 housenumber: 6

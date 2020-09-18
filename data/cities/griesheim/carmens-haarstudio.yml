@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.859211
 longitude: 8.5841239
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Groenhoffstraße"
 housenumber: 7

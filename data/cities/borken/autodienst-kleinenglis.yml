@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.07001940000001
 longitude: 9.259085200000001
-postcode: 34582
+postcode: "34582"
 city: Borken
 street: "Sellenweg"
 housenumber: 12

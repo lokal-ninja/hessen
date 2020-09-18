@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.085022900000006
 longitude: 8.7729966
-postcode: 63071
+postcode: "63071"
 city: Offenbach am Main
 street: "Waldstraße"
 housenumber: 260

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.7522831
 longitude: 8.492663700000001
-postcode: 35080
+postcode: "35080"
 city: Bad Endbach
 street: "Am Kurpark"
 housenumber: 15

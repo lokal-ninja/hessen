@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.6875207
 longitude: 8.455254700000001
-postcode: 68647
+postcode: "68647"
 city: Biblis
 street: "Darmstädter Straße"
 housenumber: 63

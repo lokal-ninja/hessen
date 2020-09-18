@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.140147400000004
 longitude: 8.356175
-postcode: 65817
+postcode: "65817"
 city: Eppstein
 street: "Wiesbadener Straße"
 housenumber: 47

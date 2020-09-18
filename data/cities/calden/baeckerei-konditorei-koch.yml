@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4093347
 longitude: 9.403078200000001
-postcode: 34379
+postcode: "34379"
 city: Calden
 street: "Holländische Straße"
 housenumber: 33

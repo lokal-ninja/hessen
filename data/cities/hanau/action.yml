@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.131393300000006
 longitude: 8.922787900000001
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Nürnberger Straße"
 housenumber: 2-4

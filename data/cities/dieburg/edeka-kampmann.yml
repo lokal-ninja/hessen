@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8977373
 longitude: 8.849121700000001
-postcode: 64807
+postcode: "64807"
 city: Dieburg
 street: "Groß-Umstädter Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3260346
 longitude: 9.5039611
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Gottschalkstraße"
 housenumber: 32

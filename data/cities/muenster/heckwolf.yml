@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.9203039
 longitude: 8.8579731
-postcode: 64839
+postcode: "64839"
 city: Münster
 street: "Sandstraße"
 housenumber: 13

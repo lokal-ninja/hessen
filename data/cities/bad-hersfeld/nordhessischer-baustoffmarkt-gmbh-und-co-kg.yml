@@ -3,10 +3,10 @@ type: way
 shop: Baumarkt
 latitude: 50.8311499
 longitude: 9.6675745
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Industriestraße"
 housenumber: 10
-phone: ""
+phone: "+49 6621 1760"
 opening_hours: ""
-website: ""
+website: "https://www.baustoffmarkt-gruppe.de/standorte/nordhessischer-baustoffmarkt-gmbh-co-kg-start/"

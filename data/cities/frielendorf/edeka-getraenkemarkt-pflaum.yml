@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.9743191
 longitude: 9.3254403
-postcode: 34621
+postcode: "34621"
 city: Frielendorf
 street: "Hinter den Höfen"
 housenumber: 

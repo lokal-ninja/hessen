@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 51.3492061
 longitude: 9.4685003
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Warburger Straße"
 housenumber: 45

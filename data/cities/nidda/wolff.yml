@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 50.413659300000006
 longitude: 9.0062555
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Bahnhofstraße"
 housenumber: 11

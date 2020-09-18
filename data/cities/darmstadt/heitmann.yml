@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 49.872071500000004
 longitude: 8.650773000000001
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Wilhelminenstraße"
 housenumber: 5a

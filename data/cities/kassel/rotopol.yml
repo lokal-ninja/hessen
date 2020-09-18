@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 51.3157895
 longitude: 9.4728548
-postcode: 34119
+postcode: "34119"
 city: Kassel
 street: "Friedrich-Ebert-Straße"
 housenumber: 95
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 12:00-18:00, Sa 10:00-14:00"
 website: "http://rotopolpress.de/"

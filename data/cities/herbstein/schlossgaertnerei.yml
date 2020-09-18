@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.5631032
 longitude: 9.4444697
-postcode: 36358
+postcode: "36358"
 city: Herbstein
 street: "Müser Straße"
 housenumber: 1

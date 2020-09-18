@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.4469865
 longitude: 9.417728
-postcode: 34393
+postcode: "34393"
 city: Grebenstein
 street: "Bahnhofstraße"
 housenumber: 8

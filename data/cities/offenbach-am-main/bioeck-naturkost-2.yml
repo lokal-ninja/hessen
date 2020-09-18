@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1168496
 longitude: 8.7833083
-postcode: 63075
+postcode: "63075"
 city: Offenbach am Main
 street: "Falltorstraße"
 housenumber: 11

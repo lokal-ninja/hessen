@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.547228700000005
 longitude: 9.7064799
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Pacelliallee"
 housenumber: 4

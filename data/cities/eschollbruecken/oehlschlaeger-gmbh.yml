@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.807503700000005
 longitude: 8.5637702
-postcode: 64319
+postcode: "64319"
 city: Eschollbrücken
 street: ""
 housenumber: 

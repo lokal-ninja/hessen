@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.313665
 longitude: 9.447224
-postcode: 34119
+postcode: "34119"
 city: Kassel
 street: "Wilhelmshöher Allee"
 housenumber: 254

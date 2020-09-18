@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.6232965
 longitude: 8.586245400000001
-postcode: 35444
+postcode: "35444"
 city: Biebertal
 street: "Hauptstraße"
 housenumber: 2c

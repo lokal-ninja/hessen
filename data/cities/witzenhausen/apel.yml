@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.339818900000004
 longitude: 9.862039900000001
-postcode: 37213
+postcode: "37213"
 city: Witzenhausen
 street: "Bornemannweg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5717117
 longitude: 8.689249100000001
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Ferniestraße"
 housenumber: 4

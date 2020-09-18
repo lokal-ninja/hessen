@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 50.5505908
 longitude: 9.6801881
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Peterstor"
 housenumber: 18

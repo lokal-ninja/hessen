@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.9564729
 longitude: 8.955922300000001
-postcode: 64832
+postcode: "64832"
 city: Babenhausen
 street: "Darmstädter Straße"
 housenumber: 6

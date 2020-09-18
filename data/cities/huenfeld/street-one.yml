@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6728949
 longitude: 9.7673956
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Töpferstraße"
 housenumber: 26

@@ -3,10 +3,10 @@ type: node
 shop: Kramladen
 latitude: 50.554776200000006
 longitude: 9.714293900000001
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Alte Ziegelei"
 housenumber: 7
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00"
 website: ""

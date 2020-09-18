@@ -3,9 +3,9 @@ type: way
 shop: Supermarkt
 latitude: 49.896558500000005
 longitude: 8.828730100000001
-postcode: 64807
+postcode: "64807"
 city: Dieburg
-street: "Am Lindenhof"
+street: "Waldstraße"
 housenumber: 2-4
 phone: ""
 opening_hours: ""

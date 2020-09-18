@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.006930600000004
 longitude: 9.470848
-postcode: 34593
+postcode: "34593"
 city: Knüllwald
 street: "Im Blumenfeld"
 housenumber: 2

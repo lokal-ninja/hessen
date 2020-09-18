@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.31432100000001
 longitude: 9.474866800000001
-postcode: 34119
+postcode: "34119"
 city: Kassel
 street: "Murhardstraße"
 housenumber: 10a

@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 51.177814600000005
 longitude: 10.1832445
-postcode: 37281
+postcode: "37281"
 city: Wanfried
 street: "Zum Leistersberg"
 housenumber: 30

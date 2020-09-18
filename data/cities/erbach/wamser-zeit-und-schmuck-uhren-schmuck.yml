@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.6597274
 longitude: 8.9911057
-postcode: 64711
+postcode: "64711"
 city: Erbach
 street: "Werner-von-Siemens-Straße"
 housenumber: 17

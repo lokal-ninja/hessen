@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.2272
 longitude: 8.6202
-postcode: 61348
+postcode: "61348"
 city: Bad Homburg vor der Höhe
 street: "Kaiser-Friedrich-Promenade"
 housenumber: 55

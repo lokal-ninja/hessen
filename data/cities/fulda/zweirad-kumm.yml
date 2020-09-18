@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.5595274
 longitude: 9.6810097
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Amand-Ney-Straße"
 housenumber: 1

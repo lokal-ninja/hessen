@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.563128000000006
 longitude: 8.608531900000001
-postcode: 35582
+postcode: "35582"
 city: Wetzlar
 street: "Am Rübenmorgen"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 50.094457600000005
 longitude: 8.8554809
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Schumacherstraße"
 housenumber: 3

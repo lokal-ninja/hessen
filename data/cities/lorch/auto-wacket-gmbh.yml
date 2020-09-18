@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.0532752
 longitude: 7.8098016
-postcode: 65391
+postcode: "65391"
 city: Lorch
 street: "Schwalbacher Straße"
 housenumber: 79

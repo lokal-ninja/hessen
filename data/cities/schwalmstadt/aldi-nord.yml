@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9106467
 longitude: 9.244070200000001
-postcode: 34613
+postcode: "34613"
 city: Schwalmstadt
 street: "Ernst-Ihle-Straße"
 housenumber: 10

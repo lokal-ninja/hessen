@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.1209404
 longitude: 8.6474411
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Landgrafenstraße"
 housenumber: 13

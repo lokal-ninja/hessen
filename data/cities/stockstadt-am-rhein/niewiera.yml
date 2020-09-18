@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 49.80543
 longitude: 8.4602549
-postcode: 64589
+postcode: "64589"
 city: Stockstadt am Rhein
 street: "Südstraße"
 housenumber: 23

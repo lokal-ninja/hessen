@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 51.277117100000005
 longitude: 8.8722098
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Bahnhofstraße"
 housenumber: 9
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 5631 506585"
+opening_hours: "Mo-Fr 09:30-18:00;Sa 09:30-16:00"
+website: "https://www.schuhhaus-faupel.de/filiale.asp?shoid=8415"

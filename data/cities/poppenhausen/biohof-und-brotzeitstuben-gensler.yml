@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.499100000000006
 longitude: 9.876100000000001
-postcode: 36163
+postcode: "36163"
 city: Poppenhausen
 street: "Hohensteg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5534997
 longitude: 9.682465500000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Heinrichstraße"
 housenumber: 21

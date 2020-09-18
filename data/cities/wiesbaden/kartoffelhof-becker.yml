@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.024627800000005
 longitude: 8.2908313
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Boelckestraße"
 housenumber: 134

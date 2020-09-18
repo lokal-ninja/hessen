@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.7798681
 longitude: 8.880995200000001
-postcode: 64395
+postcode: "64395"
 city: Brensbach
 street: "Außerhalb"
 housenumber: 12

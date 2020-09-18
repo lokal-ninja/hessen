@@ -3,10 +3,10 @@ type: way
 shop: Fahrrad
 latitude: 49.887008
 longitude: 8.6317844
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
 street: "Pfnorstraße"
 housenumber: 9
 phone: "+49 6151 9579952"
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; PH off"
 website: "http://maddins-bikeservice.de"

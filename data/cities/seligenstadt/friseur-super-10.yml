@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0444771
 longitude: 8.9752819
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Marktplatz"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.769098
 longitude: 8.585362100000001
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Adolf-Theis-Straße"
 housenumber: 6

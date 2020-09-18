@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.0421143
 longitude: 8.0809089
-postcode: 65399
+postcode: "65399"
 city: Kiedrich
 street: "Oberstraße"
 housenumber: 36

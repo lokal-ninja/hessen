@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1399844
 longitude: 8.510925400000001
-postcode: 65812
+postcode: "65812"
 city: Bad Soden am Taunus
 street: "Prof.-Much-Straße"
 housenumber: 2

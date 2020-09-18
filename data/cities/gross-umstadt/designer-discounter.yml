@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.8669439
 longitude: 8.927522100000001
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Obergasse"
 housenumber: 6

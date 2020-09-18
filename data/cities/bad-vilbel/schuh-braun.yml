@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.209424500000004
 longitude: 8.7471668
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Industriestraße"
 housenumber: 1

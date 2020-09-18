@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.7230658
 longitude: 8.612466600000001
-postcode: 64673
+postcode: "64673"
 city: Zwingenberg
 street: "Wiesenpromenade"
 housenumber: 2

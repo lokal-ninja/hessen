@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.258074300000004
 longitude: 8.643247
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Hugenottenstraße"
 housenumber: 114

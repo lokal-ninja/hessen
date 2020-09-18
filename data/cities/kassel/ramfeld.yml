@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.3155232
 longitude: 9.4546901
-postcode: 34119
+postcode: "34119"
 city: Kassel
 street: "Friedrich-Ebert-Straße"
 housenumber: 241

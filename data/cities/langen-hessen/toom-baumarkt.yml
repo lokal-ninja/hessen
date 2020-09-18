@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.9958709
 longitude: 8.6504055
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Ampèrestraße"
 housenumber: 15

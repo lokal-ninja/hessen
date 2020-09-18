@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.8880934
 longitude: 8.6086747
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Feldstraße"
 housenumber: 8

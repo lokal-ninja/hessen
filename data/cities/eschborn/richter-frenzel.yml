@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.133068
 longitude: 8.560505000000001
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Elly-Beinhorn-Straße"
 housenumber: 4

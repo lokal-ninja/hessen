@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.882394700000006
 longitude: 8.638939800000001
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
 street: "Pallaswiesenstraße"
 housenumber: 122

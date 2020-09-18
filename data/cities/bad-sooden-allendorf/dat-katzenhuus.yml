@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.2714477
 longitude: 9.976974400000001
-postcode: 37242
+postcode: "37242"
 city: Bad Sooden-Allendorf
 street: "Schusterstraße"
 housenumber: 53

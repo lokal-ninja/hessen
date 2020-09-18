@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.3332507
 longitude: 9.7074914
-postcode: 36391
+postcode: "36391"
 city: Sinntal
 street: "Sinntalstraße"
 housenumber: 10

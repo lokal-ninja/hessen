@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.1062621
 longitude: 8.9420707
-postcode: 63457
+postcode: "63457"
 city: Hanau
 street: "Hauptstraße"
 housenumber: 33

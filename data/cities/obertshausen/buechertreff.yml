@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.0702967
 longitude: 8.843713900000001
-postcode: 63179
+postcode: "63179"
 city: Obertshausen
 street: "Schulstraße"
 housenumber: 13

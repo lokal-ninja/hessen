@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.356389400000005
 longitude: 9.526837
-postcode: 34233
+postcode: "34233"
 city: Fuldatal
 street: "Veckerhagener Straße"
 housenumber: 130a

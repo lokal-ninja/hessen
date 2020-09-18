@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1469821
 longitude: 9.108084
-postcode: 63579
+postcode: "63579"
 city: Freigericht
 street: "Raiffeisenstraße"
 housenumber: 11

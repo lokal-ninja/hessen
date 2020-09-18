@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.959040900000005
 longitude: 8.960999600000001
-postcode: 64832
+postcode: "64832"
 city: Babenhausen
 street: "Aschaffenburger Straße"
 housenumber: 2

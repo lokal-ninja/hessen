@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.8354499
 longitude: 8.4972922
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Starkenburger Straße"
 housenumber: 18

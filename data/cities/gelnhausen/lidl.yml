@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.204682500000004
 longitude: 9.1730924
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Frankfurter Straße"
 housenumber: 57

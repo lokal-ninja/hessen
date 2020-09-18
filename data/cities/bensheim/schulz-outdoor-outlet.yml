@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 49.70019550000001
 longitude: 8.6221758
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Darmstädter Straße"
 housenumber: 165

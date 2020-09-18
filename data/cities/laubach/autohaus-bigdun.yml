@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.539984000000004
 longitude: 8.9877672
-postcode: 35321
+postcode: "35321"
 city: Laubach
 street: "Kaiserstraße"
 housenumber: 9

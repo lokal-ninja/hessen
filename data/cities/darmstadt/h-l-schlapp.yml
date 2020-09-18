@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.820145800000006
 longitude: 8.6443171
-postcode: 64297
+postcode: "64297"
 city: Darmstadt
 street: "Heidelberger Landstraße"
 housenumber: 190

@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 50.031741100000005
 longitude: 8.8851998
-postcode: 63110
+postcode: "63110"
 city: Rodgau
 street: "Ludwigstraße"
 housenumber: 97

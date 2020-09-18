@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.8246698
 longitude: 9.0147793
-postcode: 35260
+postcode: "35260"
 city: Stadtallendorf
 street: "Niederkleiner Straße"
 housenumber: 1 f

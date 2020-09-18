@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 49.8703653
 longitude: 8.6513547
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Elisabethenstraße"
 housenumber: 17

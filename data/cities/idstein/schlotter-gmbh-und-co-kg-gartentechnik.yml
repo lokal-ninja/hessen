@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.2407942
 longitude: 8.257870500000001
-postcode: 65510
+postcode: "65510"
 city: Idstein
 street: "Hauptstraße"
 housenumber: 66

@@ -3,10 +3,10 @@ type: node
 shop: Sport
 latitude: 51.447071
 longitude: 9.4136409
-postcode: 34393
+postcode: "34393"
 city: Grebenstein
 street: "Marktstraße"
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 26
+phone: "+49 5674 4123"
+opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00"
+website: "https://www.joergs-sportladen.de/"

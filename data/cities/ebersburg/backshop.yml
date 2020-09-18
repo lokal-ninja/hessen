@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4394198
 longitude: 9.7741027
-postcode: 36157
+postcode: "36157"
 city: Ebersburg
 street: "Bonifatiusstraße"
 housenumber: 1s

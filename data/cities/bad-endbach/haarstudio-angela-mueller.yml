@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7529319
 longitude: 8.495706
-postcode: 35080
+postcode: "35080"
 city: Bad Endbach
 street: "Landstraße"
 housenumber: 45

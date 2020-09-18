@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.756158600000006
 longitude: 9.5008278
-postcode: 36287
+postcode: "36287"
 city: Breitenbach am Herzberg
 street: "Grebenauer Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.748278500000005
 longitude: 9.2733101
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Wallgasse"
 housenumber: 15

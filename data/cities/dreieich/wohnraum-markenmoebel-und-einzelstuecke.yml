@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.0325884
 longitude: 8.7030846
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Robert-Bosch-Straße"
 housenumber: 

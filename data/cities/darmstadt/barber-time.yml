@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.858662900000006
 longitude: 8.6441835
-postcode: 64295
+postcode: "64295"
 city: Darmstadt
 street: "Donnersbergring"
 housenumber: 43

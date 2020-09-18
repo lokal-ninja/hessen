@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.3522941
 longitude: 9.048419800000001
-postcode: 63683
+postcode: "63683"
 city: Ortenberg
 street: "Karl-Hofmann-Straße"
 housenumber: 4

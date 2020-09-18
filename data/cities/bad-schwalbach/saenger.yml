@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1451122
 longitude: 8.076350900000001
-postcode: 65307
+postcode: "65307"
 city: Bad Schwalbach
 street: "Adolfstraße"
 housenumber: 135

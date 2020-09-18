@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.8727431
 longitude: 8.6612451
-postcode: 
+postcode: ""
 city: Darmstadt
 street: "Landgraf-Georg-Straße"
 housenumber: 

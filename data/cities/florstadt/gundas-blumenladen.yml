@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.3202167
 longitude: 8.857045000000001
-postcode: 61197
+postcode: "61197"
 city: Florstadt
 street: "Weitgasse"
 housenumber: 21

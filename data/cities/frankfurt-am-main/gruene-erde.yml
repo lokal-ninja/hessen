@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.111411000000004
 longitude: 8.6766047
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Kaiserstraße"
 housenumber: 5

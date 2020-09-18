@@ -3,10 +3,10 @@ type: way
 shop: Schuhe
 latitude: 50.842060200000006
 longitude: 8.768291000000001
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Tom-Mutters-Straße"
 housenumber: 4a
-phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: ""
+phone: "+49 6421 98097"
+opening_hours: "Mo-Sa 09:00-19:00; PH off"
+website: "https://stores.deichmann.com/hessen/marburg/tom-mutters-strasse-4a.html"

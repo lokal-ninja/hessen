@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.453741
 longitude: 8.2503404
-postcode: 35796
+postcode: "35796"
 city: Weinbach
 street: "In der Aue"
 housenumber: 1

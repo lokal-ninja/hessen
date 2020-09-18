@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9525869
 longitude: 9.065559
-postcode: 34630
+postcode: "34630"
 city: Gilserberg
 street: "Kasseler Straße"
 housenumber: 21

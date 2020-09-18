@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.201234400000004
 longitude: 9.429643800000001
-postcode: 34295
+postcode: "34295"
 city: Edermünde
 street: "Schmiedeweg"
 housenumber: 4

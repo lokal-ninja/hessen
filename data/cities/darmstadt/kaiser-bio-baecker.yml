@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.870345400000005
 longitude: 8.6524397
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Elisabethenstraße"
 housenumber: 

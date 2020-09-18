@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.8137744
 longitude: 8.470173
-postcode: 64589
+postcode: "64589"
 city: Stockstadt am Rhein
 street: "Vorderstraße"
 housenumber: 44

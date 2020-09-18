@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 49.9739335
 longitude: 8.8299622
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Dieburger Straße"
 housenumber: 66

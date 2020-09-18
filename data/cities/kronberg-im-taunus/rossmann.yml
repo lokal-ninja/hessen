@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.1793053
 longitude: 8.512904500000001
-postcode: 61476
+postcode: "61476"
 city: Kronberg im Taunus
 street: "Frankfurter Straße"
 housenumber: 13a

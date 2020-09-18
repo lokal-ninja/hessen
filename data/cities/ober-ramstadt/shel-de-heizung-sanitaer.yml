@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.828950000000006
 longitude: 8.735724900000001
-postcode: 64372
+postcode: "64372"
 city: Ober-Ramstadt
 street: "Nieder-Ramstädter Straße"
 housenumber: 68

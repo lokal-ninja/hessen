@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.788226900000005
 longitude: 8.3209175
-postcode: 35713
+postcode: "35713"
 city: Eschenburg
 street: "Im Seifen"
 housenumber: 

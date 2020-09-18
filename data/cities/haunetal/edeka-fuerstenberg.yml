@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7695366
 longitude: 9.6953732
-postcode: 36166
+postcode: "36166"
 city: Haunetal
 street: "Stoppeler Straße"
 housenumber: 5

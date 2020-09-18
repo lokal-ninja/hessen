@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.0043665
 longitude: 7.954661100000001
-postcode: 65366
+postcode: "65366"
 city: Geisenheim
 street: "Am Rosengärtchen"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.89819
 longitude: 8.681864800000001
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Grundstraße"
 housenumber: 4

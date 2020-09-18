@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.8273646
 longitude: 8.731176600000001
-postcode: 64372
+postcode: "64372"
 city: Ober-Ramstadt
 street: "Margarete-Steiff-Weg"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.680512400000005
 longitude: 8.623188800000001
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Erbacher Straße"
 housenumber: 13

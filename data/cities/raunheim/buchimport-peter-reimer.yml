@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.016331300000004
 longitude: 8.4526389
-postcode: 65479
+postcode: "65479"
 city: Raunheim
 street: "Mainstraße"
 housenumber: 17

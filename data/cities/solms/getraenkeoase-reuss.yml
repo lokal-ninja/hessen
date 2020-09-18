@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.544204300000004
 longitude: 8.4089542
-postcode: 35606
+postcode: "35606"
 city: Solms
 street: "Solmser Gewerbepark"
 housenumber: 7

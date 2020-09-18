@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.6254615
 longitude: 9.452352000000001
-postcode: 36367
+postcode: "36367"
 city: Wartenberg
 street: "Stangenweg"
 housenumber: 21

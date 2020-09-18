@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.087430000000005
 longitude: 8.242343100000001
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Taunusstraße"
 housenumber: 13

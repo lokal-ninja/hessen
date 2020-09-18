@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7579578
 longitude: 8.6133649
-postcode: 64404
+postcode: "64404"
 city: Bickenbach
 street: "Waldstraße"
 housenumber: 13

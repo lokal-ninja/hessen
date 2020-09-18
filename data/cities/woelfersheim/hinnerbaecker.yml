@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4232674
 longitude: 8.8558202
-postcode: 61200
+postcode: "61200"
 city: Wölfersheim
 street: "Industriestraße"
 housenumber: 13

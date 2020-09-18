@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.11686580000001
 longitude: 8.8463797
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Dieselstraße"
 housenumber: 45

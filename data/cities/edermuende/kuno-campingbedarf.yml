@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 51.2159908
 longitude: 9.414014100000001
-postcode: 34295
+postcode: "34295"
 city: Edermünde
 street: "Frankfurter Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.068391500000004
 longitude: 9.613628100000001
-postcode: 34326
+postcode: "34326"
 city: Morschen
 street: "Elzestraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.69775550000001
 longitude: 8.6215335
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Darmstädter Straße"
 housenumber: 146

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.388023700000005
 longitude: 9.519939500000001
-postcode: 34233
+postcode: "34233"
 city: Fuldatal
 street: "Friedrich-Engels-Straße"
 housenumber: 10

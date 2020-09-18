@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.3150351
 longitude: 9.4950876
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Treppenstraße"
 housenumber: 2

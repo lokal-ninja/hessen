@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.5030541
 longitude: 9.123659400000001
-postcode: 63679
+postcode: "63679"
 city: Schotten
 street: "Marktstraße"
 housenumber: 6

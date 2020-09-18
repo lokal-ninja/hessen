@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.2729438
 longitude: 9.974132
-postcode: 37242
+postcode: "37242"
 city: Bad Sooden-Allendorf
 street: "Kirchstraße"
 housenumber: 77

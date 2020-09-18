@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.27631
 longitude: 8.871713600000001
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Bahnhofstraße"
 housenumber: 1

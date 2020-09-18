@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.1225517
 longitude: 8.8352322
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Mozartstraße"
 housenumber: 2-4

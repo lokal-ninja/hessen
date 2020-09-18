@@ -1,12 +1,12 @@
-id: 644581683
-type: way
+id: 7416525696
+type: node
 shop: Supermarkt
-latitude: 50.0570025
-longitude: 8.2559571
-postcode: 65187
+latitude: 50.038094400000006
+longitude: 8.2453318
+postcode: "65203"
 city: Wiesbaden
-street: "Mainzer Straße"
-housenumber: 158
+street: "Glarusstraße"
+housenumber: 14
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Glarusstra%C3%9Fe%2014%2065203%20Wiesbaden-Biebrich&Mode=None"

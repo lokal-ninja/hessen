@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.135910300000006
 longitude: 8.7021114
-postcode: 60389
+postcode: "60389"
 city: Frankfurt am Main
 street: "Dortelweiler Straße"
 housenumber: 87

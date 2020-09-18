@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.0138971
 longitude: 8.7915352
-postcode: 63128
+postcode: "63128"
 city: Dietzenbach
 street: "Albert-Einstein-Straße"
 housenumber: 3

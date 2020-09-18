@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.182214200000004
 longitude: 9.1373688
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Wingertstraße"
 housenumber: 6

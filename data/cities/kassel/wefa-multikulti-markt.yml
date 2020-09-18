@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3231345
 longitude: 9.5124034
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Weserstraße"
 housenumber: 39

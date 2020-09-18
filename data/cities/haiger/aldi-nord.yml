@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7434529
 longitude: 8.209491
-postcode: 35708
+postcode: "35708"
 city: Haiger
 street: "Lohwiese"
 housenumber: 5

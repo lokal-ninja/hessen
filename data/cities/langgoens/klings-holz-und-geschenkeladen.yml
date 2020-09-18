@@ -3,7 +3,7 @@ type: way
 shop: Andenken
 latitude: 50.494641300000005
 longitude: 8.6576552
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Obergasse"
 housenumber: 50

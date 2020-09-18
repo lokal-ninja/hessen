@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.585338
 longitude: 8.6711448
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Johannette-Lein-Gasse"
 housenumber: 8

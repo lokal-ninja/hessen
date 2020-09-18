@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6718965
 longitude: 8.6014158
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "An der Riedwiese"
 housenumber: 5

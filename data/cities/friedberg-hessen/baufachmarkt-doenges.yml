@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.3330016
 longitude: 8.730858900000001
-postcode: 61169
+postcode: "61169"
 city: Friedberg (Hessen)
 street: "Friedberger Straße"
 housenumber: 100

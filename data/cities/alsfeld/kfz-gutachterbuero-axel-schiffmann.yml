@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.746316
 longitude: 9.254494300000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Ludwig-Erhard-Straße"
 housenumber: 6

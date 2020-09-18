@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.9696608
 longitude: 9.7930132
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Nürnberger Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.04569660000001
 longitude: 8.1573734
-postcode: 65396
+postcode: "65396"
 city: Walluf
 street: "In der Rehbach"
 housenumber: 5a

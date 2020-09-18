@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.8090844
 longitude: 8.5258573
-postcode: 35232
+postcode: "35232"
 city: Dautphetal
 street: "Eckerstraße"
 housenumber: 

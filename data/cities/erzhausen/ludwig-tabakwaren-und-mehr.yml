@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.9517691
 longitude: 8.6397501
-postcode: 64390
+postcode: "64390"
 city: Erzhausen
 street: "Bahnstraße"
 housenumber: 75

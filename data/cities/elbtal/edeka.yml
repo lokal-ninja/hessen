@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5082924
 longitude: 8.062650600000001
-postcode: 65627
+postcode: "65627"
 city: Elbtal
 street: "Mainzer Landstraße"
 housenumber: 1c

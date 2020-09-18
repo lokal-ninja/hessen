@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.150588000000006
 longitude: 8.9256966
-postcode: 63452
+postcode: "63452"
 city: Hanau
 street: "Moselstraße"
 housenumber: 64

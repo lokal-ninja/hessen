@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2792533
 longitude: 9.4418962
-postcode: 34132
+postcode: "34132"
 city: Kassel
 street: "Heinrich-Plett-Straße"
 housenumber: 69a

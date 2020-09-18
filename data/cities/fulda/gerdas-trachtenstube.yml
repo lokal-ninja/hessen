@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.551559000000005
 longitude: 9.6748393
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Luckenberg"
 housenumber: 7

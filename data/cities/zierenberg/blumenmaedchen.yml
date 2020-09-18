@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.368702500000005
 longitude: 9.300656
-postcode: 34289
+postcode: "34289"
 city: Zierenberg
 street: "Poststraße"
 housenumber: 24

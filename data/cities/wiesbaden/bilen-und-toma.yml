@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.085110500000006
 longitude: 8.2269398
-postcode: 65195
+postcode: "65195"
 city: Wiesbaden
 street: "Emser Straße"
 housenumber: 56

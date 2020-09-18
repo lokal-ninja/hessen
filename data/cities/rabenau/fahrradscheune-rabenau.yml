@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.661023400000005
 longitude: 8.8906436
-postcode: 35466
+postcode: "35466"
 city: Rabenau
 street: "Hauptstraße"
 housenumber: 7

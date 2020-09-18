@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.972630200000005
 longitude: 8.831251400000001
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Dörnerstraße"
 housenumber: 5

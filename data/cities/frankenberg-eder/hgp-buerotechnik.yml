@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.059938700000004
 longitude: 8.797458
-postcode: 35066
+postcode: "35066"
 city: Frankenberg (Eder)
 street: "Bremer Straße"
 housenumber: 8

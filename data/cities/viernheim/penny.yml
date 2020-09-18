@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.5449604
 longitude: 8.5900762
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Wiesenstraße"
 housenumber: 71a

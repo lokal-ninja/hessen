@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.85821850000001
 longitude: 8.6480025
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Bessunger Straße"
 housenumber: 88

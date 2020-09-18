@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0838477
 longitude: 8.774223600000001
-postcode: 63071
+postcode: "63071"
 city: Offenbach am Main
 street: "Waldstraße"
 housenumber: 272

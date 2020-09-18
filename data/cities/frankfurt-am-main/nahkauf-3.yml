@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.201899000000004
 longitude: 8.6746865
-postcode: 60437
+postcode: "60437"
 city: Frankfurt am Main
 street: "Alt-Niedereschbach"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.561944000000004
 longitude: 8.611634200000001
-postcode: 35582
+postcode: "35582"
 city: Wetzlar
 street: "Industriestraße"
 housenumber: 14

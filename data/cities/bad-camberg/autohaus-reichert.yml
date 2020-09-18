@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.295918400000005
 longitude: 8.2490779
-postcode: 65520
+postcode: "65520"
 city: Bad Camberg
 street: "Otto-Hahn-Straße"
 housenumber: 34

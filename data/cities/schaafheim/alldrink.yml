@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.8922529
 longitude: 9.034779
-postcode: 64850
+postcode: "64850"
 city: Schaafheim
 street: "Wenigumstädter Straße"
 housenumber: 34

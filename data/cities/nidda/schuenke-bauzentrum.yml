@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.413817300000005
 longitude: 9.0160211
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "An der Krötenburg"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.398559000000006
 longitude: 8.0812916
-postcode: 65549
+postcode: "65549"
 city: Limburg a. d. Lahn
 street: "Am Eckert"
 housenumber: 4

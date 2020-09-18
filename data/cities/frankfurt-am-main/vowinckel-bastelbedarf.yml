@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 50.1118303
 longitude: 8.6780998
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Kleiner Hirschgraben"
 housenumber: 14

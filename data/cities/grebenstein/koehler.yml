@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 51.447045200000005
 longitude: 9.4127048
-postcode: 34393
+postcode: "34393"
 city: Grebenstein
 street: "Marktstraße"
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 18
+phone: "+49 5674 346"
+opening_hours: "Mo-Th 07:00-13:00; Fr 07:00-13:00, 15:00-18:00; Sa 07:00-12:00"
+website: "https://www.feinkost-koehler.de/"

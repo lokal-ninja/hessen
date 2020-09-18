@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.9219024
 longitude: 8.4819777
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Frankfurter Straße"
 housenumber: 15

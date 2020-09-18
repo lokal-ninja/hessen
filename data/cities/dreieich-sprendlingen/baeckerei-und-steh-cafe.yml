@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.032408700000005
 longitude: 8.6906274
-postcode: 63303
+postcode: "63303"
 city: Dreieich-Sprendlingen
 street: "Damaschkestraße"
 housenumber: 4

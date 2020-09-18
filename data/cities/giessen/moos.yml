@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5874292
 longitude: 8.6705567
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Neustadt"
 housenumber: 28

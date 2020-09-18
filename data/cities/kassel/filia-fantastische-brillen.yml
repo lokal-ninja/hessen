@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.31327
 longitude: 9.491492800000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Neue Fahrt"
 housenumber: 7

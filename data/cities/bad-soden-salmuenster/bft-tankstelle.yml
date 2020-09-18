@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.2833744
 longitude: 9.3701188
-postcode: 63628
+postcode: "63628"
 city: Bad Soden-Salmünster
 street: "Bad Sodener Straße"
 housenumber: 49

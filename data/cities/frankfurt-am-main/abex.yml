@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 50.133095000000004
 longitude: 8.694931500000001
-postcode: 60389
+postcode: "60389"
 city: Frankfurt am Main
 street: "Friedberger Landstraße"
 housenumber: 235

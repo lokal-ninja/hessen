@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.0595888
 longitude: 8.8080993
-postcode: 63150
+postcode: "63150"
 city: Heusenstamm
 street: "Frankfurter Straße"
 housenumber: 15

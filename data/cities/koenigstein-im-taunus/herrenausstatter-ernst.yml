@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.1826492
 longitude: 8.4655657
-postcode: 61462
+postcode: "61462"
 city: Königstein im Taunus
 street: "Hauptstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.1418157
 longitude: 8.0722707
-postcode: 65307
+postcode: "65307"
 city: Bad Schwalbach
 street: "Adolfstraße"
 housenumber: 40

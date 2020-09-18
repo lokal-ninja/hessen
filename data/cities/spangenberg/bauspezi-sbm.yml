@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1160799
 longitude: 9.659263900000001
-postcode: 34286
+postcode: "34286"
 city: Spangenberg
 street: "Neustadt"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0537198
 longitude: 8.7069317
-postcode: 63263
+postcode: "63263"
 city: Neu-Isenburg
 street: "Offenbacher Straße"
 housenumber: 138

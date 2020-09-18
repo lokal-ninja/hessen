@@ -3,10 +3,10 @@ type: node
 shop: Hifi
 latitude: 51.446909600000005
 longitude: 9.416514300000001
-postcode: 34393
+postcode: "34393"
 city: Grebenstein
 street: "Untere Schnurstraße"
-housenumber: 
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 12
+phone: "+49 5674 6149"
+opening_hours: "Mo-Fr 15:00-18:00; Sa 10:00-12:00"
+website: "http://fernseh-wohlgemuth.de/"

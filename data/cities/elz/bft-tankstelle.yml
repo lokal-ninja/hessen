@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.417464200000005
 longitude: 8.0377034
-postcode: 65604
+postcode: "65604"
 city: Elz
 street: "Hadamarer Straße"
 housenumber: 32

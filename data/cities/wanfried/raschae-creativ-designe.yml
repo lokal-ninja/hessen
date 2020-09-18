@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 51.182629500000004
 longitude: 10.1697479
-postcode: 37281
+postcode: "37281"
 city: Wanfried
 street: "Marktstraße"
 housenumber: 10

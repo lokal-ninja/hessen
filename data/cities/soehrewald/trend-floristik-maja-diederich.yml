@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.238108100000005
 longitude: 9.5717233
-postcode: 34320
+postcode: "34320"
 city: Söhrewald
 street: "Wattenbacher Straße"
 housenumber: 14a

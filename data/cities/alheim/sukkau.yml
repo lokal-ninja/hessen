@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.044642100000004
 longitude: 9.6696618
-postcode: 36211
+postcode: "36211"
 city: Alheim
 street: "Nürnberger Straße"
 housenumber: 45

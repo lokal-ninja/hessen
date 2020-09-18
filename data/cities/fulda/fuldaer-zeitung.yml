@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 50.547152000000004
 longitude: 9.7060936
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Pacelliallee"
 housenumber: 4

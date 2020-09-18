@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5849461
 longitude: 8.5521852
-postcode: 35633
+postcode: "35633"
 city: Lahnau
 street: "Dorlarer Straße"
 housenumber: 2

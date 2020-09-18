@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.014793600000004
 longitude: 8.9948605
-postcode: 63533
+postcode: "63533"
 city: Mainhausen
 street: "Babenhäuser Straße"
 housenumber: 24

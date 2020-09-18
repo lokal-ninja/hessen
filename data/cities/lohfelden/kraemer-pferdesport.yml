@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.269490000000005
 longitude: 9.525248600000001
-postcode: 34253
+postcode: "34253"
 city: Lohfelden
 street: "Matthäus-Merian-Straße"
 housenumber: 1c

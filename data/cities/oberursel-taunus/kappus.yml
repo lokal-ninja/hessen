@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 50.201388200000004
 longitude: 8.58164
-postcode: 61440
+postcode: "61440"
 city: Oberursel (Taunus)
 street: "Vorstadt"
 housenumber: 13

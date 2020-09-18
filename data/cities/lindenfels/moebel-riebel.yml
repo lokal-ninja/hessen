@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.684451300000006
 longitude: 8.779985400000001
-postcode: 64678
+postcode: "64678"
 city: Lindenfels
 street: "Burgstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.1807694
 longitude: 8.741038300000001
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Frankfurter Straße"
 housenumber: 59

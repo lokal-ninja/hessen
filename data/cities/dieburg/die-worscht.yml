@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.899570000000004
 longitude: 8.847018
-postcode: 64807
+postcode: "64807"
 city: Dieburg
 street: "Aschaffenburger Straße"
 housenumber: 2

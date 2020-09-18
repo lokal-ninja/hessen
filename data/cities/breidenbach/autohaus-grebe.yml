@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.874523
 longitude: 8.444116900000001
-postcode: 35236
+postcode: "35236"
 city: Breidenbach
 street: "Sellbachsweg"
 housenumber: 2

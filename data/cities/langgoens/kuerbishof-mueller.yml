@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.497539700000004
 longitude: 8.6551155
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Schillerstraße"
 housenumber: 55

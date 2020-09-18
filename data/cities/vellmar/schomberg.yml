@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.3552626
 longitude: 9.478589600000001
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Obervellmarsche Straße"
 housenumber: 15

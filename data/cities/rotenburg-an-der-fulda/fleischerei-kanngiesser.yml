@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.995029
 longitude: 9.727713300000001
-postcode: 36199
+postcode: "36199"
 city: Rotenburg an der Fulda
 street: "Breitenstraße"
 housenumber: 35

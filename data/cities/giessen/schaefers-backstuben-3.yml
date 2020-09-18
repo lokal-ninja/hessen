@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.587135100000005
 longitude: 8.7043326
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Grünberger Straße"
 housenumber: 136

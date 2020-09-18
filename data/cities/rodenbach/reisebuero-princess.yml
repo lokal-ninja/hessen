@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.1448916
 longitude: 9.0202785
-postcode: 63517
+postcode: "63517"
 city: Rodenbach
 street: "Hanauer Landstraße"
 housenumber: 3a

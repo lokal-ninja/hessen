@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.0844231
 longitude: 8.5816236
-postcode: 60529
+postcode: "60529"
 city: Frankfurt am Main
 street: "Am Kirchholz"
 housenumber: 18

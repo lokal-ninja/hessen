@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 50.7383486
 longitude: 9.254637
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Alte Liederbacher Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8787582
 longitude: 8.927385600000001
-postcode: 35282
+postcode: "35282"
 city: Rauschenberg
 street: "Bahnhofstraße"
 housenumber: 34

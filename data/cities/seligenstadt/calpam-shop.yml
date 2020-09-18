@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.0403845
 longitude: 8.9946199
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Hauptstraße"
 housenumber: 153

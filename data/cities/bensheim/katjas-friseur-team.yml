@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.686387700000004
 longitude: 8.6138689
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Karl-Fuchs-Straße"
 housenumber: 10

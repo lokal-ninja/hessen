@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.6877525
 longitude: 8.455703900000001
-postcode: 68647
+postcode: "68647"
 city: Biblis
 street: "Darmstädter Straße"
 housenumber: 67

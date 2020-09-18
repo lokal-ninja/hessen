@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.312266400000006
 longitude: 9.4591045
-postcode: 36396
+postcode: "36396"
 city: Steinau
 street: "Brüder-Grimm-Straße"
 housenumber: 90

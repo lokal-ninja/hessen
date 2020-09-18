@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 49.898419200000006
 longitude: 8.681687100000001
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Grundstraße"
 housenumber: 2-8

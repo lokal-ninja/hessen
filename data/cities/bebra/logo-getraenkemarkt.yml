@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.961668100000004
 longitude: 9.7924637
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Wiesenweg"
 housenumber: 29

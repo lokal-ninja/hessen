@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8347941
 longitude: 9.575056700000001
-postcode: 36275
+postcode: "36275"
 city: Kirchheim
 street: "Hauptstraße"
 housenumber: 

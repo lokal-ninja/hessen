@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.688911000000004
 longitude: 8.595953600000001
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Neuwiesenfeld"
 housenumber: 5

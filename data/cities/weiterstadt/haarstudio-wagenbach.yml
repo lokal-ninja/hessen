@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.90057770000001
 longitude: 8.60406
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Brunnenweg"
 housenumber: 3

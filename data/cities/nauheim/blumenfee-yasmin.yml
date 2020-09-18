@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.9447696
 longitude: 8.452795100000001
-postcode: 64569
+postcode: "64569"
 city: Nauheim
 street: "Mühlstraße"
 housenumber: 10

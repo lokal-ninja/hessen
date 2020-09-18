@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.6461035
 longitude: 8.6168954
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Bürgermeister-Kunz-Straße"
 housenumber: 111

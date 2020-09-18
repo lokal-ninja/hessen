@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.24494180000001
 longitude: 8.6493967
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Alt Seulberg"
 housenumber: 74

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.921461
 longitude: 8.52889
-postcode: 64572
+postcode: "64572"
 city: Büttelborn
 street: "Kurt-Schumacher-Ring"
 housenumber: 44

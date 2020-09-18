@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.825513
 longitude: 8.915803700000001
-postcode: 35274
+postcode: "35274"
 city: Kirchhain
 street: "Frankfurter Straße"
 housenumber: 1b

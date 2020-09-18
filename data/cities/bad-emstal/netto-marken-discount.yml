@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.247123800000004
 longitude: 9.2629265
-postcode: 34308
+postcode: "34308"
 city: Bad Emstal
 street: "Kasseler Straße"
 housenumber: 85

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.679736000000005
 longitude: 8.6221723
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Hauptstraße"
 housenumber: 66

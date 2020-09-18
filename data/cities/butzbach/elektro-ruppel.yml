@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.4354668
 longitude: 8.670561600000001
-postcode: 35510
+postcode: "35510"
 city: Butzbach
 street: "Wetzlarer Straße"
 housenumber: 25

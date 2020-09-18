@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.048518300000005
 longitude: 8.2190369
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Hagenauer Straße"
 housenumber: 38

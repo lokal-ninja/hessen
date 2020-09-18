@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 50.0482212
 longitude: 8.8575078
-postcode: 63150
+postcode: "63150"
 city: Heusenstamm
 street: "Waldstraße"
 housenumber: 1a

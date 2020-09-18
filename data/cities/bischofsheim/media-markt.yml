@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.975819300000005
 longitude: 8.3799917
-postcode: 65474
+postcode: "65474"
 city: Bischofsheim
 street: "Neben dem Mühlweg"
 housenumber: 4b

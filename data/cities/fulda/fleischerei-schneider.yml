@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.551865500000005
 longitude: 9.6721482
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Abtstor"
 housenumber: 3

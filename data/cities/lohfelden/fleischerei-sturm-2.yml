@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2766473
 longitude: 9.5426616
-postcode: 34253
+postcode: "34253"
 city: Lohfelden
 street: "Hauptstraße"
 housenumber: 41

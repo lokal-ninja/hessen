@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.486812
 longitude: 9.350140300000001
-postcode: 36355
+postcode: "36355"
 city: Grebenhain
 street: "Pfingstweg"
 housenumber: 2

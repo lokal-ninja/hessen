@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.191129100000005
 longitude: 8.6377504
-postcode: 60437
+postcode: "60437"
 city: Frankfurt am Main
 street: "Lange Meile"
 housenumber: 33

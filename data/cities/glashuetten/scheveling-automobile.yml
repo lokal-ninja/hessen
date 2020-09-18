@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.1940371
 longitude: 8.3810534
-postcode: 61479
+postcode: "61479"
 city: Glashütten
 street: "An der Kreuzheck"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5610225
 longitude: 8.9671897
-postcode: 64760
+postcode: "64760"
 city: Oberzent
 street: "Hirschhorner Straße"
 housenumber: 97

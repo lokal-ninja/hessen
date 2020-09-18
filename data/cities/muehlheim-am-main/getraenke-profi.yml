@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.115681200000004
 longitude: 8.8398433
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: ""
 housenumber: 1

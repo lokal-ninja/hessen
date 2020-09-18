@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0824907
 longitude: 8.2395105
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Marktstraße"
 housenumber: 32

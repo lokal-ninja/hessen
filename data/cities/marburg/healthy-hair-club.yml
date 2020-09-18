@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.814062400000005
 longitude: 8.7679908
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Zwischenhausen"
 housenumber: 6

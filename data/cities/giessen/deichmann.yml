@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.5849613
 longitude: 8.6739191
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Seltersweg"
 housenumber: 2

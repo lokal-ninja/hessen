@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.321869400000004
 longitude: 9.5044628
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Diagonale"
 housenumber: 7

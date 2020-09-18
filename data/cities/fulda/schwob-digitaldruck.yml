@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.5450567
 longitude: 9.6966281
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Michael-Henkel-Straße"
 housenumber: 4

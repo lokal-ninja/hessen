@@ -1,12 +1,12 @@
-id: 221907035
-type: way
+id: 7599711048
+type: node
 shop: Supermarkt
-latitude: 49.6819106
-longitude: 8.6051178
-postcode: 64625
+latitude: 49.682141900000005
+longitude: 8.6048618
+postcode: "64625"
 city: Bensheim
 street: "Berliner Ring"
 housenumber: 81
 phone: "+49 6251 581992"
-opening_hours: "Mo-Sa 07:00-24:00"
+opening_hours: "Mo-Sa 07:00-24:00; Su,PH off"
 website: "https://www.rewe.de/marktseite/rewe-markt-bensheim-berliner-ring-81"

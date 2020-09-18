@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7087413
 longitude: 8.8486676
-postcode: 64385
+postcode: "64385"
 city: Reichelsheim (Odenwald)
 street: "Bahnhofstraße"
 housenumber: 28

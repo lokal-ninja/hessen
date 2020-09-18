@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.118973000000004
 longitude: 9.3677993
-postcode: 34590
+postcode: "34590"
 city: Wabern
 street: "Wilhelmshöher Straße"
 housenumber: 17

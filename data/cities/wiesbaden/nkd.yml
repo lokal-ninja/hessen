@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.048964000000005
 longitude: 8.2265529
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Hagenauer Straße"
 housenumber: 23b

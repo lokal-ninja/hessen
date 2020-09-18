@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.751806900000005
 longitude: 8.876625800000001
-postcode: 64395
+postcode: "64395"
 city: Brensbach
 street: "In den Schlangenäckern"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.242928400000004
 longitude: 8.7163821
-postcode: 61184
+postcode: "61184"
 city: Karben
 street: "Am Dicken Turm"
 housenumber: 

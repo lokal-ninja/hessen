@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.429099400000005
 longitude: 9.467913600000001
-postcode: 34376
+postcode: "34376"
 city: Immenhausen
 street: "Auf dem Mühlenanger"
 housenumber: 

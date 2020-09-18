@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 50.53811
 longitude: 8.6487044
-postcode: 35440
+postcode: "35440"
 city: Linden
 street: "Ferniestraße"
 housenumber: 2

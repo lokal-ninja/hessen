@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 50.249627600000004
 longitude: 9.618082300000001
-postcode: 36391
+postcode: "36391"
 city: Sinntal-Altengronau
 street: "Rothwiesenweg"
 housenumber: 1c

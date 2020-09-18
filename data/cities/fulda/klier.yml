@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.548563
 longitude: 9.687671700000001
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Am Emaillierwerk"
 housenumber: 1

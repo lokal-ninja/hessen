@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.309422000000005
 longitude: 9.545738
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Mündener Straße"
 housenumber: 14

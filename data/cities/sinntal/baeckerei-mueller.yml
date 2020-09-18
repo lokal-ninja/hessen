@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.301129100000004
 longitude: 9.6600629
-postcode: 36391
+postcode: "36391"
 city: Sinntal
 street: "Gartenstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.5523995
 longitude: 9.673445500000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Kanalstraße"
 housenumber: 7

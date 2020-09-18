@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1262525
 longitude: 9.5461437
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Bahnhofstraße"
 housenumber: 1

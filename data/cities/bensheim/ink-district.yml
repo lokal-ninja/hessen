@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 49.6842368
 longitude: 8.6215328
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Darmstädter Straße"
 housenumber: 12

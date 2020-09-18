@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.552257000000004
 longitude: 9.6745455
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Severiberg"
 housenumber: 4

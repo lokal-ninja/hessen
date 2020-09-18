@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.258872100000005
 longitude: 9.695954
-postcode: 34298
+postcode: "34298"
 city: Helsa
 street: "Berliner Straße"
 housenumber: 80

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1827139
 longitude: 8.464918
-postcode: 61462
+postcode: "61462"
 city: Königstein im Taunus
 street: "Hauptstraße"
 housenumber: 33

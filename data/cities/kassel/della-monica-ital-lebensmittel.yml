@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 51.3209497
 longitude: 9.4909209
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Reuterstraße"
 housenumber: 6

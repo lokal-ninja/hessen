@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.9983188
 longitude: 8.8810898
-postcode: 63110
+postcode: "63110"
 city: Rodgau
 street: "Hainburgstraße"
 housenumber: 47

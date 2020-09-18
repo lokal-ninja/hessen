@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.845630400000005
 longitude: 8.810407300000001
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Hirschbachstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.1180741
 longitude: 8.8524648
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Dieselstraße"
 housenumber: 58

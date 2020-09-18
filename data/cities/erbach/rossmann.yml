@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.664347600000006
 longitude: 9.0078519
-postcode: 64711
+postcode: "64711"
 city: Erbach
 street: "Stockheimer Ring"
 housenumber: 12

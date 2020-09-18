@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.8578732
 longitude: 8.7562263
-postcode: 64380
+postcode: "64380"
 city: Roßdorf
 street: "Alte Bahnhofstraße"
 housenumber: 1

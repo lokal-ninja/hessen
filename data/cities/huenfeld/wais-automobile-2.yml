@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.6921204
 longitude: 9.754680500000001
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: ""
 housenumber: 

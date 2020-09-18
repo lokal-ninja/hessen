@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.1001137
 longitude: 8.691797600000001
-postcode: 60598
+postcode: "60598"
 city: Frankfurt am Main
 street: "Darmstädter Landstraße"
 housenumber: 75

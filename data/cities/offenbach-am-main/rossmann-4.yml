@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.1050143
 longitude: 8.7594469
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Frankfurter Straße"
 housenumber: 47

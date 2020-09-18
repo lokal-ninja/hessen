@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 49.768233
 longitude: 8.645097
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Heidelberger Straße"
 housenumber: 56

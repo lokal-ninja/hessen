@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.346268
 longitude: 9.854014600000001
-postcode: 37213
+postcode: "37213"
 city: Witzenhausen
 street: "Laubenweg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.5821892
 longitude: 8.646496
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Robert-Bosch-Straße"
 housenumber: 10

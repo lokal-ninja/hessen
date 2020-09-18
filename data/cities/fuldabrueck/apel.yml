@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.264872000000004
 longitude: 9.497493
-postcode: 34277
+postcode: "34277"
 city: Fuldabrück
 street: "Am Bürgerhaus"
 housenumber: 2

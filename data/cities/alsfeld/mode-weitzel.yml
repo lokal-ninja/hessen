@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7520347
 longitude: 9.2704904
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Obergasse"
 housenumber: 21

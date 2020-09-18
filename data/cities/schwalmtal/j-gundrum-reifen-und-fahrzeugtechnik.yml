@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.653217000000005
 longitude: 9.2622709
-postcode: 36318
+postcode: "36318"
 city: Schwalmtal
 street: "Meicheser Straße"
 housenumber: 36

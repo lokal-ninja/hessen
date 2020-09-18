@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.907560600000004
 longitude: 8.582312
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Kreuzstraße"
 housenumber: 21

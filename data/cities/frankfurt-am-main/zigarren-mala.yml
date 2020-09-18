@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 50.1226478
 longitude: 8.646018
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Leipziger Straße"
 housenumber: 56

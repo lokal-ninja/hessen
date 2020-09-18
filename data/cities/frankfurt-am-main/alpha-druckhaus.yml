@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.126157600000006
 longitude: 8.6838266
-postcode: 60318
+postcode: "60318"
 city: Frankfurt am Main
 street: "Glauburgstraße"
 housenumber: 81

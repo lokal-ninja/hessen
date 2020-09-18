@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.44773360000001
 longitude: 8.347479
-postcode: 35789
+postcode: "35789"
 city: Weilmünster
 street: "Aulenhäuser Weg"
 housenumber: 1

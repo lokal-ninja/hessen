@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.574023100000005
 longitude: 9.1905727
-postcode: 35327
+postcode: "35327"
 city: Ulrichstein
 street: "Südhang Schloßberg"
 housenumber: 5

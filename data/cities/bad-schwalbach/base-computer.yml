@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.144475
 longitude: 8.0751641
-postcode: 65307
+postcode: "65307"
 city: Bad Schwalbach
 street: "Adolfstraße"
 housenumber: 121

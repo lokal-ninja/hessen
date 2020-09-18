@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 49.8704194
 longitude: 8.5519423
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Feldstraße"
 housenumber: 16

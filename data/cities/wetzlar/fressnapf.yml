@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.549307600000006
 longitude: 8.4770321
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "An der Kommandantur"
 housenumber: 7

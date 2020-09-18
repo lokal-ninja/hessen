@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 51.314385300000005
 longitude: 9.4913272
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Wolfsschlucht"
 housenumber: 

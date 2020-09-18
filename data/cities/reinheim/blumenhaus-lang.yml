@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.824159300000005
 longitude: 8.8335299
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Seegasse"
 housenumber: 19

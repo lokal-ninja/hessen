@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.111470100000005
 longitude: 8.6818402
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Neue Kräme"
 housenumber: 14

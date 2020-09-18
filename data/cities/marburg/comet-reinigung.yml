@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.8166511
 longitude: 8.7695548
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Bahnhofstraße"
 housenumber: 8

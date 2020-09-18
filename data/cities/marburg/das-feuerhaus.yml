@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 50.8145095
 longitude: 8.768337800000001
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Ketzerbach"
 housenumber: 8

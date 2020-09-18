@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.610521500000004
 longitude: 8.6493625
-postcode: 35435
+postcode: "35435"
 city: Wettenberg
 street: "Im Westpark"
 housenumber: 2

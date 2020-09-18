@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.1345856
 longitude: 9.2768636
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Am Hospital"
 housenumber: 11

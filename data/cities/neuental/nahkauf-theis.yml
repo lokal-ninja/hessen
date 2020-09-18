@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.0061448
 longitude: 9.2295756
-postcode: 34599
+postcode: "34599"
 city: Neuental
 street: "Parkstraße"
 housenumber: 

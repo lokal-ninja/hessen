@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3164207
 longitude: 9.46959
-postcode: 34119
+postcode: "34119"
 city: Kassel
 street: "Friedrich-Ebert-Straße"
 housenumber: 110

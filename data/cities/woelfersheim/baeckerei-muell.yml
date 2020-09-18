@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4291184
 longitude: 8.8261306
-postcode: 61200
+postcode: "61200"
 city: Wölfersheim
 street: "Münzenberger Straße"
 housenumber: 20

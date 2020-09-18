@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.2767812
 longitude: 9.3677794
-postcode: 63628
+postcode: "63628"
 city: Bad Soden-Salmünster
 street: "Frankfurter Straße"
 housenumber: 24

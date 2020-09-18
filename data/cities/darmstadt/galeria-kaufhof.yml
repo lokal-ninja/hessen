@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.872679600000005
 longitude: 8.653091100000001
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Rheinstraße"
 housenumber: 

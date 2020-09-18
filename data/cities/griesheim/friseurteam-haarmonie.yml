@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.8580856
 longitude: 8.5779451
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Bessunger Straße"
 housenumber: 175 A

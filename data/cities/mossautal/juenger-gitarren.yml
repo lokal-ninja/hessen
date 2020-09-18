@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.6353838
 longitude: 8.9126936
-postcode: 64756
+postcode: "64756"
 city: Mossautal
 street: "Wiesenstraße"
 housenumber: 24

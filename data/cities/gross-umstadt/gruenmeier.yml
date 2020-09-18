@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8671507
 longitude: 8.9189231
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Werner-Heisenberg-Straße"
 housenumber: 19

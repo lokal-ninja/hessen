@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.9711682
 longitude: 8.8246397
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Senefelderstraße"
 housenumber: 5a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.864013
 longitude: 9.7082115
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Heinrich-von-Stephan-Straße"
 housenumber: 2c

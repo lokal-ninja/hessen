@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.836599400000004
 longitude: 8.8285864
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Engelbert-Wörz-Straße"
 housenumber: 1

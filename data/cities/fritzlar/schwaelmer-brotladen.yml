@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.131635800000005
 longitude: 9.2750102
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Neustädter Straße"
 housenumber: 2

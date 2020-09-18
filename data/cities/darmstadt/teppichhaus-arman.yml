@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.8649069
 longitude: 8.655000300000001
-postcode: 
+postcode: ""
 city: Darmstadt
 street: "Karlstraße"
 housenumber: 71

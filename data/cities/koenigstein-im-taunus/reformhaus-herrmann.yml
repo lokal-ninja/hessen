@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.1818876
 longitude: 8.4688566
-postcode: 61462
+postcode: "61462"
 city: Königstein im Taunus
 street: "Frankfurter Straße"
 housenumber: 6

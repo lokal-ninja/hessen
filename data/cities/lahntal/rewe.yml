@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8595752
 longitude: 8.6958523
-postcode: 35094
+postcode: "35094"
 city: Lahntal
 street: "Wittgensteiner Straße"
 housenumber: 1c

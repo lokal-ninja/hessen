@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.1126172
 longitude: 8.6830231
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Hasengasse"
 housenumber: 7

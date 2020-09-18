@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.976021700000004
 longitude: 8.568472400000001
-postcode: 64546
+postcode: "64546"
 city: Mörfelden-Walldorf
 street: "Langener Straße"
 housenumber: 8

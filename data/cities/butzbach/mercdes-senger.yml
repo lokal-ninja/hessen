@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.4342897
 longitude: 8.6860709
-postcode: 35510
+postcode: "35510"
 city: Butzbach
 street: "Philipp-Reis-Straße"
 housenumber: 9

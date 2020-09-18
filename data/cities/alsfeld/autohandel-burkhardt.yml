@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7694008
 longitude: 9.292992100000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Hattendörfer Straße"
 housenumber: 2

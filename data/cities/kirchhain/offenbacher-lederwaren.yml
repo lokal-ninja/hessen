@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 50.821174600000006
 longitude: 8.9199383
-postcode: 35274
+postcode: "35274"
 city: Kirchhain
 street: "Brießelstraße"
 housenumber: 7

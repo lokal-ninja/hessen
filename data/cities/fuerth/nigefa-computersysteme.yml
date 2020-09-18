@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.651899900000004
 longitude: 8.7829227
-postcode: 64658
+postcode: "64658"
 city: Fürth
 street: "Bachgasse"
 housenumber: 7

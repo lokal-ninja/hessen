@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.3065525
 longitude: 9.4868676
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 57

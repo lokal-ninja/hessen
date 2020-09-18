@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.6196763
 longitude: 9.0295577
-postcode: 35325
+postcode: "35325"
 city: Mücke
 street: "Bahnhofstraße"
 housenumber: 44

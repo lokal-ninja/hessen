@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.8813498
 longitude: 8.814948900000001
-postcode: 64846
+postcode: "64846"
 city: Groß-Zimmern
 street: "Röntgenstraße"
 housenumber: 2a

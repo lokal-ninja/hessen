@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.1725944
 longitude: 9.5141518
-postcode: 34327
+postcode: "34327"
 city: Körle
 street: "Nürnberger Straße"
 housenumber: 15

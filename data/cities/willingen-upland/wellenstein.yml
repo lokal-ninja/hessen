@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.293237100000006
 longitude: 8.6147322
-postcode: 34508
+postcode: "34508"
 city: Willingen (Upland)
 street: "Waldecker Straße"
 housenumber: 24

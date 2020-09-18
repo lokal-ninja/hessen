@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0794889
 longitude: 8.2023507
-postcode: 65199
+postcode: "65199"
 city: Wiesbaden
 street: "Am Hang"
 housenumber: 

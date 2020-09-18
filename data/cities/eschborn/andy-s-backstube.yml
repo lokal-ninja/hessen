@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1558374
 longitude: 8.549651200000001
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Hochheimer Straße"
 housenumber: 1

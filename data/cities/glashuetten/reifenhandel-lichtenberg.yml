@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.1949051
 longitude: 8.3789241
-postcode: 61479
+postcode: "61479"
 city: Glashütten
 street: "Im Buhles"
 housenumber: 8

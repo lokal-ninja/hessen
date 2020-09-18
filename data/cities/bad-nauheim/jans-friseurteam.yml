@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 50.362562600000004
 longitude: 8.734580600000001
-postcode: 61231
+postcode: "61231"
 city: Bad Nauheim
 street: "Ernst-Ludwig-Ring"
 housenumber: 53
-phone: ""
-opening_hours: ""
+phone: "+49 6032 6750"
+opening_hours: "Tu-Fr 09:00-18:00, Sa 08:00-13:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.9742886
 longitude: 8.829635600000001
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Dieburger Straße"
 housenumber: 63

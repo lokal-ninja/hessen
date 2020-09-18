@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 50.1539097
 longitude: 8.659700800000001
-postcode: 60431
+postcode: "60431"
 city: Frankfurt am Main
 street: "Eschersheimer Landstraße"
 housenumber: 555
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.radsport-frankfurt.de"

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.2246492
 longitude: 9.3489422
-postcode: 63619
+postcode: "63619"
 city: Bad Orb
 street: "Hauptstraße"
 housenumber: 67

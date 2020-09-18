@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0562033
 longitude: 9.2690733
-postcode: 34582
+postcode: "34582"
 city: Borken
 street: "Albert-Einstein-Straße"
 housenumber: 2

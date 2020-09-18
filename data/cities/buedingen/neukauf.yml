@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.29288450000001
 longitude: 9.1152383
-postcode: 63654
+postcode: "63654"
 city: Büdingen
 street: "Neustadt"
 housenumber: 4

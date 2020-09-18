@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 50.0113612
 longitude: 8.4560292
-postcode: 65479
+postcode: "65479"
 city: Raunheim
 street: "Karlstraße"
 housenumber: 12

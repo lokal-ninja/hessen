@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.655442400000005
 longitude: 9.2621003
-postcode: 36318
+postcode: "36318"
 city: Schwalmtal
 street: "Meicheser Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.040424900000005
 longitude: 8.466090900000001
-postcode: 65795
+postcode: "65795"
 city: Hattersheim
 street: "Bahnhofstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6756691
 longitude: 8.9970032
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Reinstraße"
 housenumber: 3

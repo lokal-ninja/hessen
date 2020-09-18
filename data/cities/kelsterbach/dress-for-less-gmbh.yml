@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0348691
 longitude: 8.481884500000001
-postcode: 65451
+postcode: "65451"
 city: Kelsterbach
 street: "Mönchhofallee"
 housenumber: 1

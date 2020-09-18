@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.403120900000005
 longitude: 9.1103766
-postcode: 34471
+postcode: "34471"
 city: Volkmarsen
 street: "Wetterweg"
 housenumber: 2

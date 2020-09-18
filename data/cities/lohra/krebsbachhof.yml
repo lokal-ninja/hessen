@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.71776070000001
 longitude: 8.5781991
-postcode: 35102
+postcode: "35102"
 city: Lohra
 street: "Rodenhäuser Straße"
 housenumber: 6

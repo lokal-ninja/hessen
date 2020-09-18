@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.216626000000005
 longitude: 8.8332786
-postcode: 61137
+postcode: "61137"
 city: Schöneck
 street: "Südliche Hauptstraße"
 housenumber: 12

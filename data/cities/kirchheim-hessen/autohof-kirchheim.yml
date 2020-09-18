@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.834108300000004
 longitude: 9.5736112
-postcode: 36275
+postcode: "36275"
 city: Kirchheim / Hessen
 street: "Hauptstraße"
 housenumber: 1

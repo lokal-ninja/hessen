@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.806005500000005
 longitude: 8.768311800000001
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Wilhelmstraße"
 housenumber: 3

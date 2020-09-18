@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.541772300000005
 longitude: 8.8883989
-postcode: 35423
+postcode: "35423"
 city: Lich
 street: "Ettingshäuser Straße"
 housenumber: 15

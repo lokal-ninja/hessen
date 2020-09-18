@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.0470376
 longitude: 8.216829200000001
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Äppelallee"
 housenumber: 69

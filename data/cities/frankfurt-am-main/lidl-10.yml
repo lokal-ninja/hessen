@@ -1,12 +1,12 @@
-id: 44105129
+id: 33885289
 type: way
 shop: Supermarkt
-latitude: 50.133303700000006
-longitude: 8.6962122
-postcode: 60389
+latitude: 50.102601500000006
+longitude: 8.697198700000001
+postcode: "60599"
 city: Frankfurt am Main
-street: "Friedberger Landstraße"
-housenumber: 298
+street: "Offenbacher Landstraße"
+housenumber: 53
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

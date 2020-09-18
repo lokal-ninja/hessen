@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.131566500000005
 longitude: 9.275523
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Gießener Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.1204776
 longitude: 8.567404
-postcode: 65936
+postcode: "65936"
 city: Frankfurt am Main
 street: "Alt-Sossenheim"
 housenumber: 36

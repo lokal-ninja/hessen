@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.355197100000005
 longitude: 9.478271600000001
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Kasseler Straße"
 housenumber: 1-3

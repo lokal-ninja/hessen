@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.5504267
 longitude: 9.6752724
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Kanalstraße"
 housenumber: 37

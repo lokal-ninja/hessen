@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8650972
 longitude: 8.655514100000001
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Karlstraße"
 housenumber: 66

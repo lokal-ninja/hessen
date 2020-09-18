@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.144280800000004
 longitude: 9.1135269
-postcode: 63579
+postcode: "63579"
 city: Freigericht
 street: "Hanauer Straße"
 housenumber: 24

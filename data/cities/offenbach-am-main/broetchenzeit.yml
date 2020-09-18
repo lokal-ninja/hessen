@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.090703500000004
 longitude: 8.756342100000001
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Weikertsblochstraße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.1794762
 longitude: 9.234533800000001
-postcode: 63589
+postcode: "63589"
 city: Linsengericht
 street: "Dorfstraße"
 housenumber: 39

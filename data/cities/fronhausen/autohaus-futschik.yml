@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7083967
 longitude: 8.701699300000001
-postcode: 35112
+postcode: "35112"
 city: Fronhausen
 street: "Am Sandgraben"
 housenumber: 3

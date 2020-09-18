@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 49.833508300000005
 longitude: 8.833232
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Westring"
 housenumber: 92

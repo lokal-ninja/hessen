@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.5695374
 longitude: 8.6918617
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Pistorstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.921942800000004
 longitude: 8.8581394
-postcode: 64839
+postcode: "64839"
 city: Münster
 street: "Darmstädter Straße"
 housenumber: 28

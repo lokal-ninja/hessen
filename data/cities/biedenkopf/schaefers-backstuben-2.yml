@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9102133
 longitude: 8.5295792
-postcode: 35216
+postcode: "35216"
 city: Biedenkopf
 street: "Bachgrundstraße"
 housenumber: 19

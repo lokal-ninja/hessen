@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.181827600000005
 longitude: 8.7423009
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Frankfurter Straße"
 housenumber: 55

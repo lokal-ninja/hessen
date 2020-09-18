@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.914425
 longitude: 8.5777345
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Kreisstraße"
 housenumber: 1

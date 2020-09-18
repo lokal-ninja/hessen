@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.8463428
 longitude: 9.7017687
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Douglasienweg"
 housenumber: 1

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.0440345
 longitude: 8.1602291
-postcode: 65396
+postcode: "65396"
 city: Walluf
 street: "Am Klingenweg"
 housenumber: 2a
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

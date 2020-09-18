@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.6964817
 longitude: 8.570006900000001
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Rohrheimer Straße"
 housenumber: 25

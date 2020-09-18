@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.993402
 longitude: 8.652470600000001
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Mörfelder Landstraße"
 housenumber: 27

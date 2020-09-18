@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.2115201
 longitude: 8.2534887
-postcode: 65510
+postcode: "65510"
 city: Idstein
 street: "Black-und-Decker-Straße"
 housenumber: 17

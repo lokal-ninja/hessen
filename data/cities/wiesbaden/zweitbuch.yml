@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.082725700000005
 longitude: 8.2382645
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Michelsberg"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.31496550000001
 longitude: 9.4963504
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Obere Königsstraße"
 housenumber: 47a

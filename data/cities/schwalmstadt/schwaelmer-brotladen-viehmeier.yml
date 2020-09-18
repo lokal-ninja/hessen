@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.912074600000004
 longitude: 9.183399300000001
-postcode: 34613
+postcode: "34613"
 city: Schwalmstadt
 street: "Bahnhofstraße"
 housenumber: 38

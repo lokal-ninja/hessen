@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7754501
 longitude: 9.515087000000001
-postcode: 36287
+postcode: "36287"
 city: Breitenbach am Herzberg
 street: "Hauptstraße"
 housenumber: 26

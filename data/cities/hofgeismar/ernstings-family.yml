@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 51.49414650000001
 longitude: 9.3811833
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: "Töpfermarkt"
 housenumber: 2
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-14:00"
+website: "https://www.ernstings-family.de/filialen/889/mühlenstr.-2-34369-hofgeismar"

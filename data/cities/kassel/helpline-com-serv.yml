@@ -1,12 +1,12 @@
 id: 6586354079
 type: node
 shop: Computer
-latitude: 51.321080900000005
-longitude: 9.4511678
-postcode: 34130
+latitude: 51.3255865
+longitude: 9.476941100000001
+postcode: "34127"
 city: Kassel
-street: "Teichstraße"
-housenumber: 14
-phone: ""
+street: "Wolfhager Straße"
+housenumber: 167
+phone: "+49 561 807590"
 opening_hours: "Mo-Fr 10:00-18:00; PH off"
 website: "https://www.helpline-kassel.de/"

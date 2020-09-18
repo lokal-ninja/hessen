@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.9834648
 longitude: 8.7972119
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Adam-Opel-Straße"
 housenumber: 14

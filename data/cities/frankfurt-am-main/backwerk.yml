@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1018519
 longitude: 8.5482174
-postcode: 65929
+postcode: "65929"
 city: Frankfurt am Main
 street: "Königsteiner Straße"
 housenumber: 17

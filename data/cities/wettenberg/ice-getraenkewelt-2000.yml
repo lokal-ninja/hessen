@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.619494800000005
 longitude: 8.6393802
-postcode: 35435
+postcode: "35435"
 city: Wettenberg
 street: "Wetzlarer Straße"
 housenumber: 41

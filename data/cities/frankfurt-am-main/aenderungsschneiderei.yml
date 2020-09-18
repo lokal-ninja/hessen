@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.128946400000004
 longitude: 8.7122807
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Berger Straße"
 housenumber: 263

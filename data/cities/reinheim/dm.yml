@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.8295338
 longitude: 8.834245600000001
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Darmstädter Straße"
 housenumber: 37b

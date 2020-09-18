@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.870311300000004
 longitude: 8.551991600000001
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Feldstraße"
 housenumber: 16

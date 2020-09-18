@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.0486178
 longitude: 8.2308015
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Hagenauer Straße"
 housenumber: 11

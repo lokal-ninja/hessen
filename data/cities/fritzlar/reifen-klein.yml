@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.1774834
 longitude: 9.2658921
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Am Zollstock"
 housenumber: 1

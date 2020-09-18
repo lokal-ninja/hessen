@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9752925
 longitude: 9.324548
-postcode: 34621
+postcode: "34621"
 city: Frielendorf
 street: "Hauptstraße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.9707875
 longitude: 8.9568639
-postcode: 64832
+postcode: "64832"
 city: Babenhausen
 street: "Elsässer Straße"
 housenumber: 2

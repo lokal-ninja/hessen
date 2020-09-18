@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 49.6498907
 longitude: 8.7787637
-postcode: 64658
+postcode: "64658"
 city: Fürth
 street: "Hauptstraße"
 housenumber: 26

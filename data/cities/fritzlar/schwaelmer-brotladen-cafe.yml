@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.13731000000001
 longitude: 9.2737099
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Wolfhager Straße"
 housenumber: 1

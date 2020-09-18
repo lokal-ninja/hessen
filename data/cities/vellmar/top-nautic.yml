@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 51.35196740000001
 longitude: 9.475735100000001
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Triftstraße"
 housenumber: 39

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.050486400000004
 longitude: 8.700510000000001
-postcode: 63263
+postcode: "63263"
 city: Neu-Isenburg
 street: "Herzogstraße"
 housenumber: 59

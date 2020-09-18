@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 49.871536400000004
 longitude: 8.6526343
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Schuchardstraße"
 housenumber: 11

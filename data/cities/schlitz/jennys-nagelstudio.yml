@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.675072
 longitude: 9.5591018
-postcode: 36110
+postcode: "36110"
 city: Schlitz
 street: "Im Grund"
 housenumber: 6

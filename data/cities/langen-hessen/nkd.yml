@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.989777100000005
 longitude: 8.670138600000001
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Bahnstraße"
 housenumber: 36

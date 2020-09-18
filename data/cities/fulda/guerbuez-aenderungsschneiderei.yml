@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.549954400000004
 longitude: 9.676857700000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Karlstraße"
 housenumber: 8

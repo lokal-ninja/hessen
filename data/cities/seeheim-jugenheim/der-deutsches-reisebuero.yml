@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.7715772
 longitude: 8.6463836
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Friedrich-Ebert-Straße"
 housenumber: 12

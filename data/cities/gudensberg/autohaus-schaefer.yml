@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.1806222
 longitude: 9.4125235
-postcode: 34281
+postcode: "34281"
 city: Gudensberg
 street: "Homberger Straße"
 housenumber: 1

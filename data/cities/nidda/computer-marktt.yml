@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.4135829
 longitude: 9.0082986
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Mühlstraße"
 housenumber: 24

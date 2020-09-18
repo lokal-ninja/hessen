@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6650312
 longitude: 9.0089489
-postcode: 64711
+postcode: "64711"
 city: Erbach
 street: "Stockheimer Ring"
 housenumber: 24

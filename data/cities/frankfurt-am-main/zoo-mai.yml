@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.1157224
 longitude: 8.6826101
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "Stiftstraße"
 housenumber: 16

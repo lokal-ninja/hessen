@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.827215900000006
 longitude: 8.7005157
-postcode: 64367
+postcode: "64367"
 city: Mühltal
 street: "Bahnhofstraße"
 housenumber: 20

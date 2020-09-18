@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.1071627
 longitude: 8.667965
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Moselstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0583706
 longitude: 9.181885900000001
-postcode: 34596
+postcode: "34596"
 city: Bad Zwesten
 street: "Kasseler Straße"
 housenumber: 26

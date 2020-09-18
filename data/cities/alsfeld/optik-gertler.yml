@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 50.7519812
 longitude: 9.270423800000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Obergasse"
 housenumber: 26

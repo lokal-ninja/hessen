@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.25513350000001
 longitude: 9.413854800000001
-postcode: 34225
+postcode: "34225"
 city: Baunatal
 street: "Marktplatz"
 housenumber: 12

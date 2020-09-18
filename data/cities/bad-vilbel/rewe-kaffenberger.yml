@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1887344
 longitude: 8.733114800000001
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Rodheimer Straße"
 housenumber: 15-17

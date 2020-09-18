@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.662592100000005
 longitude: 9.7543627
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Fuldaer Straße"
 housenumber: 52

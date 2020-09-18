@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.868810800000006
 longitude: 8.6557397
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Karlstraße"
 housenumber: 

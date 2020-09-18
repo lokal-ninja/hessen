@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.107388500000006
 longitude: 8.7616069
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Herrnstraße"
 housenumber: 57C

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.803122200000004
 longitude: 9.614261200000001
-postcode: 36272
+postcode: "36272"
 city: Niederaula
 street: "Hersfelder Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 49.8953106
 longitude: 8.6019521
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Im Rödling"
 housenumber: 8

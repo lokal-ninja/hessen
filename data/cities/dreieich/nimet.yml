@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.027939800000006
 longitude: 8.6968558
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Schlagfeldstraße"
 housenumber: 48

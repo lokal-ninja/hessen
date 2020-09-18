@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 49.963214300000004
 longitude: 8.6722037
-postcode: 63329
+postcode: "63329"
 city: Egelsbach
 street: "Woogstraße"
 housenumber: 52
 phone: ""
-opening_hours: "Montag - Freitag:  10:00 - 19:00 Uhr Samstag:  10:00 - 16:00 Uhr"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
 website: "https://www.bike-technik.de/"

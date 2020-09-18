@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.142903600000004
 longitude: 8.5756302
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Rödelheimer Straße"
 housenumber: 59

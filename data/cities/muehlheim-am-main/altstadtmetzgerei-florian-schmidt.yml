@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.126393900000004
 longitude: 8.8285613
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Marktstraße"
 housenumber: 35-37

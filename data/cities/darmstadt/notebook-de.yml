@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 49.87070000000001
 longitude: 8.6479481
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Adelungstraße"
 housenumber: 24

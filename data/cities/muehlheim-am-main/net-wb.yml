@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.115518300000005
 longitude: 8.8507985
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Benzstraße"
 housenumber: 9

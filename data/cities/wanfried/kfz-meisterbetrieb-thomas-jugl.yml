@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1861681
 longitude: 10.1699788
-postcode: 37281
+postcode: "37281"
 city: Wanfried
 street: "Eschweger Straße"
 housenumber: 4

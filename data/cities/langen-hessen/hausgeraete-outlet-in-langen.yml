@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.987918
 longitude: 8.6791716
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Obergasse"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Jalousien
 latitude: 50.656700900000004
 longitude: 9.593839200000001
-postcode: 36110
+postcode: "36110"
 city: Schlitz
 street: "Raiffeisenstraße"
 housenumber: 13

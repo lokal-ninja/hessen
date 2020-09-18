@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.085405800000004
 longitude: 9.4875547
-postcode: 34323
+postcode: "34323"
 city: Malsfeld
 street: "Dr.-Reimer-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.581276200000005
 longitude: 8.484156800000001
-postcode: 35586
+postcode: "35586"
 city: Wetzlar
 street: "Neuer Weg"
 housenumber: 1

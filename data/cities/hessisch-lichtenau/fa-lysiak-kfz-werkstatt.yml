@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1939642
 longitude: 9.725732
-postcode: 37235
+postcode: "37235"
 city: Hessisch Lichtenau
 street: "Hopfelder Straße"
 housenumber: 36

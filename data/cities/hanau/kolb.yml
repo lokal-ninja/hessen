@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1341595
 longitude: 8.9178099
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Fahrstraße"
 housenumber: 11

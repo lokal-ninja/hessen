@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.9240672
 longitude: 8.9991888
-postcode: 64850
+postcode: "64850"
 city: Schaafheim
 street: "Langstädter Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.0150968
 longitude: 8.365988900000001
-postcode: 65239
+postcode: "65239"
 city: Hochheim am Main
 street: "Holger-Crafoord-Straße"
 housenumber: 4

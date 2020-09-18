@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.2216351
 longitude: 9.3842716
-postcode: 34295
+postcode: "34295"
 city: Edermünde
 street: "Gänseweide"
 housenumber: 8

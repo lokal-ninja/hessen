@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.10521060000001
 longitude: 9.3492305
-postcode: 34590
+postcode: "34590"
 city: Wabern
 street: "Alte Kasseler Straße"
 housenumber: 15

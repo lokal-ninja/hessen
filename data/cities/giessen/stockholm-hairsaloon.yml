@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.5789849
 longitude: 8.663937
-postcode: 35392
+postcode: "35392"
 city: Gießen
 street: "Alter Wetzlarer Weg"
 housenumber: 4

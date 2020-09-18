@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.871767600000005
 longitude: 8.6564294
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Kirchstraße"
 housenumber: 4

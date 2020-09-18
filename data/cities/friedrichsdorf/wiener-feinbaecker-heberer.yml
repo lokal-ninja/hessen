@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.254934500000005
 longitude: 8.6461153
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Am Houiller Platz"
 housenumber: 4

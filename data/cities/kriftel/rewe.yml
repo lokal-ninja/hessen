@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.08218230000001
 longitude: 8.4589359
-postcode: 65830
+postcode: "65830"
 city: Kriftel
 street: "Oberweidstraße"
 housenumber: 11

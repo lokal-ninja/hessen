@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0777477
 longitude: 8.2028091
-postcode: 65199
+postcode: "65199"
 city: Wiesbaden
 street: "Schönbergstraße"
 housenumber: 13

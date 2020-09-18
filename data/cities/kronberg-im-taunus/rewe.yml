@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1729008
 longitude: 8.5285588
-postcode: 61476
+postcode: "61476"
 city: Kronberg im Taunus
 street: "Westerbachstraße"
 housenumber: 23

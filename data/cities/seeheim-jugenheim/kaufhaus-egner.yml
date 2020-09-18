@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.7623553
 longitude: 8.6875864
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Erbacher Straße"
 housenumber: 26

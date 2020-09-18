@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 50.7481005
 longitude: 9.274146
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Wallgasse"
 housenumber: 18

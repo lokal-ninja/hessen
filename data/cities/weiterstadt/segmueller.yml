@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 49.897345300000005
 longitude: 8.5996456
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Im Rödling"
 housenumber: 2

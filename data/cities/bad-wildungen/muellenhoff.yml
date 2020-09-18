@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.1199607
 longitude: 9.133677500000001
-postcode: 34537
+postcode: "34537"
 city: Bad Wildungen
 street: "Bahnhofstraße"
 housenumber: 32

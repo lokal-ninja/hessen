@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.1442576
 longitude: 8.6050994
-postcode: 60488
+postcode: "60488"
 city: Frankfurt am Main
 street: "Heerstraße"
 housenumber: 204a

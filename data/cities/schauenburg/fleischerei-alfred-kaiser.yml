@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.287976
 longitude: 9.2840406
-postcode: 34270
+postcode: "34270"
 city: Schauenburg
 street: "Wattenbergstraße"
 housenumber: 15

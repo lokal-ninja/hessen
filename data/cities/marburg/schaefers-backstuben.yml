@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.806990400000004
 longitude: 8.7770237
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Erlenring"
 housenumber: 9

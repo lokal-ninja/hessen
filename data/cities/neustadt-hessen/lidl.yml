@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.846038
 longitude: 9.0944983
-postcode: 35279
+postcode: "35279"
 city: Neustadt (Hessen)
 street: "Am Ringelhain"
 housenumber: 1

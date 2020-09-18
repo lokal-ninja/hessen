@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 50.0875502
 longitude: 8.443293
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Krebsgasse"
 housenumber: 15

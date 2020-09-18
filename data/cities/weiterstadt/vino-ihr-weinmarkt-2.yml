@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.889308500000006
 longitude: 8.6086393
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Am Dornbusch"
 housenumber: 

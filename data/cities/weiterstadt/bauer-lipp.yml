@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.898880000000005
 longitude: 8.5885338
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Orfelder Rod"
 housenumber: 1

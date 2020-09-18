@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.8324556
 longitude: 8.833322500000001
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Konrad-Adenauer-Straße"
 housenumber: 1

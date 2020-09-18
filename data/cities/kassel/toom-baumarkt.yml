@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.308996900000004
 longitude: 9.450334900000001
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Kohlenstraße"
 housenumber: 138

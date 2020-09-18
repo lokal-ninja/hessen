@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.8074694
 longitude: 8.7737459
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Weidenhäuser Straße"
 housenumber: 4

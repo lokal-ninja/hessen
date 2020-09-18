@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.097593100000005
 longitude: 8.7615055
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Schäferstraße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.052441400000006
 longitude: 7.8115623
-postcode: 65391
+postcode: "65391"
 city: Lorch
 street: "Schwalbacher Straße"
 housenumber: 54

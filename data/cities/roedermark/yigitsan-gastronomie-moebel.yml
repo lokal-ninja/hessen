@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.9751138
 longitude: 8.8294865
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Dieburger Straße"
 housenumber: 46

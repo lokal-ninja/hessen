@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.767136300000004
 longitude: 8.646708700000001
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Darmstädter Straße"
 housenumber: 36

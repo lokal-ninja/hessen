@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.149372500000005
 longitude: 9.3843257
-postcode: 34587
+postcode: "34587"
 city: Felsberg
 street: "Zur Schneid"
 housenumber: 1

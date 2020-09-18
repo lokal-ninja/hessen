@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.5280117
 longitude: 9.6834669
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Ferdinand-Schneider-Straße"
 housenumber: 2

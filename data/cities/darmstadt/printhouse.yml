@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.8732868
 longitude: 8.6457932
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Gagernstraße"
 housenumber: 12

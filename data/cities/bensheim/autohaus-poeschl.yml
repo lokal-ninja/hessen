@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.6706762
 longitude: 8.6073962
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Berliner Ring"
 housenumber: 19

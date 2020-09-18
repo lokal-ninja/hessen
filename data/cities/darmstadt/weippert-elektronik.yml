@@ -3,7 +3,7 @@ type: node
 shop: Radiotechnik
 latitude: 49.8522971
 longitude: 8.6387435
-postcode: 64295
+postcode: "64295"
 city: Darmstadt
 street: "Haardtring"
 housenumber: 369

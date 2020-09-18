@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.5975248
 longitude: 8.7368172
-postcode: 69509
+postcode: "69509"
 city: Mörlenbach
 street: "Weinheimer Straße"
 housenumber: 4

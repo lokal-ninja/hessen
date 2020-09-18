@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7935923
 longitude: 8.481555
-postcode: 35080
+postcode: "35080"
 city: Bottenhorn
 street: "Perfstraße"
 housenumber: 3

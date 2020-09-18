@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.5659274
 longitude: 9.3476807
-postcode: 36358
+postcode: "36358"
 city: Herbstein
 street: "Ostring"
 housenumber: 2

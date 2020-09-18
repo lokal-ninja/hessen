@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3400442
 longitude: 9.5162475
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Ihringshäuser Straße"
 housenumber: 151

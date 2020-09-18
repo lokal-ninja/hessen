@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1549891
 longitude: 8.1836415
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
 street: "Aarstraße"
 housenumber: 

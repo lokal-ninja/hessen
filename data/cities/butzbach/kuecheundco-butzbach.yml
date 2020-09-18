@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.4305181
 longitude: 8.6855478
-postcode: 35510
+postcode: "35510"
 city: Butzbach
 street: "Otto-Hahn-Straße"
 housenumber: 23

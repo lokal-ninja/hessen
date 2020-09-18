@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.5991172
 longitude: 8.8306375
-postcode: 35447
+postcode: "35447"
 city: Reiskirchen
 street: "Grünberger Straße"
 housenumber: 26

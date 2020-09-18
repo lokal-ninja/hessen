@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.3226261
 longitude: 9.5529959
-postcode: 34266
+postcode: "34266"
 city: Niestetal
 street: "Ysenburgstraße"
 housenumber: 2

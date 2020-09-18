@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.4987117
 longitude: 8.4290334
-postcode: 35619
+postcode: "35619"
 city: Braunfels
 street: "Neukirchener Straße"
 housenumber: 7A

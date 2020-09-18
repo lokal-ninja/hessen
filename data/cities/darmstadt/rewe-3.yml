@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8629254
 longitude: 8.642659700000001
-postcode: 64295
+postcode: "64295"
 city: Darmstadt
 street: "Eschollbrücker Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 50.160178900000005
 longitude: 8.3143235
-postcode: 65527
+postcode: "65527"
 city: Niedernhausen
 street: "Bahnhofstraße"
 housenumber: 23

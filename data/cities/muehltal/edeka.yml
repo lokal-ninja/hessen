@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.840748000000005
 longitude: 8.70134
-postcode: 64367
+postcode: "64367"
 city: Mühltal
 street: "Darmstädter Straße"
 housenumber: 35

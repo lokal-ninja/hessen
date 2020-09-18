@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8902799
 longitude: 8.6331623
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
 street: "Otto-Röhm-Straße"
 housenumber: 79 a

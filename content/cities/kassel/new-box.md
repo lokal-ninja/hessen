@@ -1,0 +1,4 @@
+---
+title: "New Box"
+url: /kassel/new-box/
+---

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.042436800000004
 longitude: 8.9760293
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: ""
 housenumber: 

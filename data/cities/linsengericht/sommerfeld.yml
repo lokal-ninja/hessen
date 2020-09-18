@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1891224
 longitude: 9.194749700000001
-postcode: 63589
+postcode: "63589"
 city: Linsengericht
 street: "Sudetenring"
 housenumber: 4

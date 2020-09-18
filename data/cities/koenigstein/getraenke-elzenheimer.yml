@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.1705004
 longitude: 8.495298
-postcode: 61462
+postcode: "61462"
 city: Königstein
 street: "Schwalbacher Straße"
 housenumber: 5

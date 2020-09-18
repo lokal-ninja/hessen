@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.08438700000001
 longitude: 8.239991
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Langgasse"
 housenumber: 32

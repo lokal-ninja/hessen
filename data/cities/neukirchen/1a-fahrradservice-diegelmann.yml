@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.8718164
 longitude: 9.337545800000001
-postcode: 34626
+postcode: "34626"
 city: Neukirchen
 street: "Niederrheinische Straße"
 housenumber: 27

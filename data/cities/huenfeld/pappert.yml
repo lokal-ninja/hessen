@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.671831000000005
 longitude: 9.7642992
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Gartenstraße"
 housenumber: 14

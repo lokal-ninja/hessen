@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9044515
 longitude: 8.723978500000001
-postcode: 35083
+postcode: "35083"
 city: Wetter (Hessen)
 street: "Am Untertor"
 housenumber: 6

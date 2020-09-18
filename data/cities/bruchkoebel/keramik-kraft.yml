@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.194179600000005
 longitude: 8.9166869
-postcode: 63486
+postcode: "63486"
 city: Bruchköbel
 street: "Schießstraße"
 housenumber: 65

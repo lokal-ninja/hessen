@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.623693800000005
 longitude: 9.505400700000001
-postcode: 36364
+postcode: "36364"
 city: Bad Salzschlirf
 street: "Lindenstraße"
 housenumber: 19

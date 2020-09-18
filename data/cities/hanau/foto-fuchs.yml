@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.1343581
 longitude: 8.917040400000001
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Am Freiheitsplatz"
 housenumber: 9

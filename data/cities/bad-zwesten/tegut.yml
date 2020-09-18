@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.05513070000001
 longitude: 9.1762187
-postcode: 34596
+postcode: "34596"
 city: Bad Zwesten
 street: "Zum Kurpark"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.1301001
 longitude: 8.6962116
-postcode: 60389
+postcode: "60389"
 city: Frankfurt am Main
 street: "Hallgartenstraße"
 housenumber: 56

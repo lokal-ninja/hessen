@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.0592296
 longitude: 8.796543100000001
-postcode: 35066
+postcode: "35066"
 city: Frankenberg (Eder)
 street: "Neustädter Straße"
 housenumber: 29-31

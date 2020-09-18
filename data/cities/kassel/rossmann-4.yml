@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3125742
 longitude: 9.492327300000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Obere Königsstraße"
 housenumber: 15

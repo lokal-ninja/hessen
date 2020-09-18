@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.36793
 longitude: 9.2901
-postcode: 34289
+postcode: "34289"
 city: Zierenberg
 street: "Vor Brakens Höhe"
 housenumber: 4

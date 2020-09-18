@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.872623000000004
 longitude: 9.7054763
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Wehneberger Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.3775318
 longitude: 9.010660600000001
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Georg-Viktor-Straße"
 housenumber: 2

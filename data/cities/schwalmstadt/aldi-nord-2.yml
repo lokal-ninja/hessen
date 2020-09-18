@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.911056800000004
 longitude: 9.1810965
-postcode: 34613
+postcode: "34613"
 city: Schwalmstadt
 street: "Wierastraße"
 housenumber: 3

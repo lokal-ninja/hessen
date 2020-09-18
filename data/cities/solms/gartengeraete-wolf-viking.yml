@@ -3,7 +3,7 @@ type: node
 shop: Staubsauger
 latitude: 50.5426158
 longitude: 8.4061933
-postcode: 35606
+postcode: "35606"
 city: Solms
 street: "Bahnhofsallee"
 housenumber: 1

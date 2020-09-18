@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0236352
 longitude: 8.6950683
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Frankfurter Straße"
 housenumber: 70-72

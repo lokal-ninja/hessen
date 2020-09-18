@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.6780586
 longitude: 8.606798600000001
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Adolf-Kolping-Straße"
 housenumber: 26

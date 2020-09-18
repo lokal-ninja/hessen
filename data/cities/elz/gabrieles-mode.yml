@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.410872700000006
 longitude: 8.0357632
-postcode: 65604
+postcode: "65604"
 city: Elz
 street: "Rathausstraße"
 housenumber: 10a

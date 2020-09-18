@@ -3,7 +3,7 @@ type: node
 shop: Wohnwagen
 latitude: 50.1302588
 longitude: 8.8625278
-postcode: 63477
+postcode: "63477"
 city: Maintal
 street: "Wilhelm-Röntgen-Straße"
 housenumber: 12

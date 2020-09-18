@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.274987800000005
 longitude: 8.650861500000001
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Köpperner Straße"
 housenumber: 80

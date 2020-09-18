@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.742856
 longitude: 8.2164894
-postcode: 35708
+postcode: "35708"
 city: Haiger
 street: "Bahnhofstraße"
 housenumber: 10

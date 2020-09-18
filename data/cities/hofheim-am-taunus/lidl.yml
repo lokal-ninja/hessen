@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0857089
 longitude: 8.4481999
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Chinonplatz"
 housenumber: 6-12

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.071971000000005
 longitude: 8.4774109
-postcode: 65795
+postcode: "65795"
 city: Hattersheim
 street: "Heddingheimer Straße"
 housenumber: 32

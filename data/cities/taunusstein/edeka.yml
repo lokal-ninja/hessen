@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.155673300000004
 longitude: 8.1858997
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
 street: "Weiherstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.9886819
 longitude: 8.3246313
-postcode: 65462
+postcode: "65462"
 city: Ginsheim-Gustavsburg
 street: "Adam-Opel-Straße"
 housenumber: 10

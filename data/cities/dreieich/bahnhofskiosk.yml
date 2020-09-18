@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.0155655
 longitude: 8.6888131
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Theodor-Heuss-Straße"
 housenumber: 19

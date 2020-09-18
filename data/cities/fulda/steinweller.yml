@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.5488918
 longitude: 9.6853757
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Heinrichstraße"
 housenumber: 64

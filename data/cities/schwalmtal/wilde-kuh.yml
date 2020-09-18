@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.702788600000005
 longitude: 9.310853100000001
-postcode: 36318
+postcode: "36318"
 city: Schwalmtal
 street: "Hauptstraße"
 housenumber: 

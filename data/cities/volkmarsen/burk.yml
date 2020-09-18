@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.41163
 longitude: 9.116262
-postcode: 34471
+postcode: "34471"
 city: Volkmarsen
 street: "Steinweg"
 housenumber: 20

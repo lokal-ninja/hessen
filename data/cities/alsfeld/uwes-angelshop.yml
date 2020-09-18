@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 50.7503553
 longitude: 9.2744435
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Burgmauerweg"
 housenumber: 5

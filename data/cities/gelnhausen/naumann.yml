@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1983855
 longitude: 9.190760000000001
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Im Ziegelhaus"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.175379400000004
 longitude: 8.922067100000001
-postcode: 63486
+postcode: "63486"
 city: Bruchköbel
 street: "Haagstraße"
 housenumber: 17

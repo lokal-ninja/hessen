@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.356619800000004
 longitude: 9.0543364
-postcode: 63683
+postcode: "63683"
 city: Ortenberg
 street: "Philipp-Glenz-Straße"
 housenumber: 2

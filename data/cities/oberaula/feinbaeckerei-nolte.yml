@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.855517000000006
 longitude: 9.462214000000001
-postcode: 36280
+postcode: "36280"
 city: Oberaula
 street: "Schwimmbadstraße"
 housenumber: 1

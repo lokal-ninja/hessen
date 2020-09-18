@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 50.5526873
 longitude: 9.670221300000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Abtstor"
 housenumber: 41

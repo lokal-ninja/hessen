@@ -1,12 +1,12 @@
 id: 2245225370
 type: node
 shop: Bücher
-latitude: 50.126996000000005
-longitude: 8.687742
-postcode: 60318
+latitude: 50.1271542
+longitude: 8.6890482
+postcode: "60318"
 city: Frankfurt am Main
 street: "Glauburgstraße"
-housenumber: 32
+housenumber: 20
 phone: "+49 69 553787"
 opening_hours: ""
 website: "http://www.buchhandlung-tatzelwurm.de"

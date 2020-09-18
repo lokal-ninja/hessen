@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 51.052372000000005
 longitude: 9.1763096
-postcode: 34596
+postcode: "34596"
 city: Bad Zwesten
 street: "Schulstraße"
 housenumber: 2
-phone: "+495626 1428"
+phone: "+49 5626 1428"
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 49.962674
 longitude: 8.954709000000001
-postcode: 64832
+postcode: "64832"
 city: Babenhausen
 street: "Martin-Luther-Straße"
 housenumber: 4

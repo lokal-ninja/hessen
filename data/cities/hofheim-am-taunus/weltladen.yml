@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.0883948
 longitude: 8.446744200000001
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Hauptstraße"
 housenumber: 22

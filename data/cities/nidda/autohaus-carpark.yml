@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.415201700000004
 longitude: 9.0167525
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "An der Krötenburg"
 housenumber: 3

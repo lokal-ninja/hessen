@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 51.3164905
 longitude: 9.493716000000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Kölnische Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.283135
 longitude: 9.6334877
-postcode: 34260
+postcode: "34260"
 city: Kaufungen
 street: "Leipziger Straße"
 housenumber: 457

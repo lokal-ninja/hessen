@@ -1,12 +1,12 @@
-id: 30122245
-type: way
+id: 7704884287
+type: node
 shop: Bestattungen
-latitude: 50.1335446
-longitude: 8.683748300000001
-postcode: 60320
+latitude: 50.1407534
+longitude: 8.669829400000001
+postcode: "60320"
 city: Frankfurt am Main
-street: "Eckenheimer Landstraße"
-housenumber: 187
+street: "Eschersheimer Landstraße"
+housenumber: 278
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.pietaet-am-dornbusch.de"

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6485442
 longitude: 8.6272649
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Dieselstraße"
 housenumber: 1

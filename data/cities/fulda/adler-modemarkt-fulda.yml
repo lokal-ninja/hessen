@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.53126820000001
 longitude: 9.691265600000001
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Keltenstraße"
 housenumber: 20

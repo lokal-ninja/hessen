@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.680695500000006
 longitude: 8.613749700000001
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Schwanheimer Straße"
 housenumber: 44

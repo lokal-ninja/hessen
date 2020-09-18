@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.152081200000005
 longitude: 8.1971095
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
 street: "Platter Straße"
 housenumber: 80

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.605122300000005
 longitude: 8.7802301
-postcode: 35418
+postcode: "35418"
 city: Buseck
 street: "Wiesenstraße"
 housenumber: 39

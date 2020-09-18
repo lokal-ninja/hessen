@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.2835071
 longitude: 9.501271200000001
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Falderbaumstraße"
 housenumber: 16

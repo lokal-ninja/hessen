@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0227773
 longitude: 9.256495000000001
-postcode: 34582
+postcode: "34582"
 city: Borken
 street: "Burgstraße"
 housenumber: 2

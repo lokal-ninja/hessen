@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.1658806
 longitude: 8.1485658
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
 street: "In den Faltern"
 housenumber: 2

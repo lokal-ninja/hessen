@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.512275800000005
 longitude: 9.3771711
-postcode: 36355
+postcode: "36355"
 city: Grebenhain
 street: "In der Vorderecke"
 housenumber: 8

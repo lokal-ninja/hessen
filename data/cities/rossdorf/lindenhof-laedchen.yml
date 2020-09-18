@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.857643700000004
 longitude: 8.7739183
-postcode: 64380
+postcode: "64380"
 city: Roßdorf
 street: "Erbacher Straße"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.413202600000005
 longitude: 9.0077093
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Neue Straße"
 housenumber: 3

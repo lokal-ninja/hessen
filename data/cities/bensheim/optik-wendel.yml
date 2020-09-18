@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.7007643
 longitude: 8.6210941
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Darmstädter Straße"
 housenumber: 174

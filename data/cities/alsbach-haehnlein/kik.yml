@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.744021800000006
 longitude: 8.605961
-postcode: 64665
+postcode: "64665"
 city: Alsbach-Hähnlein
 street: "In der Pfarrtanne"
 housenumber: 12A

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.3273639
 longitude: 9.1769586
-postcode: 34466
+postcode: "34466"
 city: Wolfhagen
 street: "Lynkerstraße"
 housenumber: 18

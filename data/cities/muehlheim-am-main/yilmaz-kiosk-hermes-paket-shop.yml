@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.097328000000005
 longitude: 8.8552234
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Bischof-Ketteler-Straße"
 housenumber: 13

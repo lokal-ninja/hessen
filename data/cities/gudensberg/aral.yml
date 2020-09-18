@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.175995900000004
 longitude: 9.356280700000001
-postcode: 34281
+postcode: "34281"
 city: Gudensberg
 street: "Fritzlarer Straße"
 housenumber: 39

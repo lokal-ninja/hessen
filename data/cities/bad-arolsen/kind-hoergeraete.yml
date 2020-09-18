@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.381023500000005
 longitude: 9.0098237
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Bahnhofstraße"
 housenumber: 44

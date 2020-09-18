@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 51.3813813
 longitude: 9.0105225
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Varnhagenstraße"
 housenumber: 1

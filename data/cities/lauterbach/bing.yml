@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.660352800000005
 longitude: 9.391589300000001
-postcode: 36341
+postcode: "36341"
 city: Lauterbach
 street: "Dornweg"
 housenumber: 24

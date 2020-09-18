@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.5516426
 longitude: 9.684360100000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Heinrichstraße"
 housenumber: 28

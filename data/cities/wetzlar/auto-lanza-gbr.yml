@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.5474003
 longitude: 8.447145200000001
-postcode: 35579
+postcode: "35579"
 city: Wetzlar
 street: "In der Murch"
 housenumber: 20a

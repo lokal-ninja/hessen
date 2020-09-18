@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.0817197
 longitude: 8.2436814
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Marktplatz"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.8728611
 longitude: 8.6828357
-postcode: 64287
+postcode: "64287"
 city: Darmstadt
 street: "Erbacher Straße"
 housenumber: 125

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.8388323
 longitude: 8.7691686
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Im Schwarzenborn"
 housenumber: 3

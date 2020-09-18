@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.2728169
 longitude: 9.9742285
-postcode: 37242
+postcode: "37242"
 city: Bad Sooden-Allendorf
 street: "Kirchstraße"
 housenumber: 73

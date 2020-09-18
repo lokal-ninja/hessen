@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.2888864
 longitude: 9.3652843
-postcode: 63628
+postcode: "63628"
 city: Bad Soden-Salmünster
 street: "Sebastian-Herbst-Straße"
 housenumber: 9

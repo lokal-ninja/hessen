@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.636946300000005
 longitude: 9.029955900000001
-postcode: 35325
+postcode: "35325"
 city: Mücke
 street: "Merlauer Straße"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.139037300000005
 longitude: 8.1470635
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
 street: "Konrad-Adenauer-Straße"
 housenumber: 17

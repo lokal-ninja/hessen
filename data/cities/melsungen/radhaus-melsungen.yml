@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.1242948
 longitude: 9.5435576
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Nürnberger Straße"
 housenumber: 13

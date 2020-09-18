@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.002545000000005
 longitude: 8.8854746
-postcode: 63110
+postcode: "63110"
 city: Rodgau
 street: "Feldstraße"
 housenumber: 46

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.9971527
 longitude: 9.146395700000001
-postcode: 34632
+postcode: "34632"
 city: Jesberg
 street: "Kasseler Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.313213000000005
 longitude: 8.9100943
-postcode: 34477
+postcode: "34477"
 city: Twistetal
 street: "Hinter den Höfen"
 housenumber: 10

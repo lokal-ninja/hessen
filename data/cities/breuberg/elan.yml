@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.8150003
 longitude: 9.011006100000001
-postcode: 64747
+postcode: "64747"
 city: Breuberg
 street: "Höchster Straße"
 housenumber: 33

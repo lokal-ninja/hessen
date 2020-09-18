@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.8197204
 longitude: 8.9194631
-postcode: 35274
+postcode: "35274"
 city: Kirchhain
 street: "Unterm Groth"
 housenumber: 7-9

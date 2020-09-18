@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.115808
 longitude: 8.686078100000001
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "Große Friedberger Straße"
 housenumber: 23-27

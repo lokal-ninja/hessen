@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.1422967
 longitude: 8.5667977
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Hauptstraße"
 housenumber: 34

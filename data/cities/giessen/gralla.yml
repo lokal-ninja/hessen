@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5587844
 longitude: 8.647851000000001
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Zum Maiplatz"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9087407
 longitude: 8.4997842
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Helvetiastraße"
 housenumber: 

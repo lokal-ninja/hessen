@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.750822500000005
 longitude: 9.2760101
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Färbergasse"
 housenumber: 5

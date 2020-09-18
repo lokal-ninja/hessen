@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.2184139
 longitude: 8.6173033
-postcode: 61352
+postcode: "61352"
 city: Bad Homburg v.d. Höhe
 street: "Siemensstraße"
 housenumber: 4

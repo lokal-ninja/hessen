@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.1100355
 longitude: 8.675364700000001
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Friedensstraße"
 housenumber: 12

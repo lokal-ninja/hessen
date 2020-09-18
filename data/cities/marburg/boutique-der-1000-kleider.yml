@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8073296
 longitude: 8.771259
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Am Grün"
 housenumber: 2

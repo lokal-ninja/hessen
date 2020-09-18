@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0414971
 longitude: 8.967758700000001
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Eisenbahnstraße"
 housenumber: 5d

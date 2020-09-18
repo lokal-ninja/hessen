@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.2538272
 longitude: 9.4132747
-postcode: 34225
+postcode: "34225"
 city: Baunatal
 street: "Marktplatz"
 housenumber: 16

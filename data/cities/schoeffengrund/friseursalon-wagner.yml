@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.49444200000001
 longitude: 8.470365000000001
-postcode: 35641
+postcode: "35641"
 city: Schöffengrund
 street: "Hauptstraße"
 housenumber: 35

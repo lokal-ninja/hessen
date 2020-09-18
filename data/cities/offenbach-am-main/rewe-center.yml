@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 50.087112700000006
 longitude: 8.7607984
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Odenwaldring"
 housenumber: 70
-phone: ""
+phone: "+49 69 8383040"
 opening_hours: ""
 website: ""

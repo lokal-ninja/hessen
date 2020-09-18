@@ -3,7 +3,7 @@ type: way
 shop: E-Zigaretten
 latitude: 50.4247505
 longitude: 9.198474000000001
-postcode: 63688
+postcode: "63688"
 city: Gedern
 street: "Lauterbacher Straße"
 housenumber: 12a

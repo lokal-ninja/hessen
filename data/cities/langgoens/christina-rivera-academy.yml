@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.497750800000006
 longitude: 8.6605703
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Breitgasse"
 housenumber: 5

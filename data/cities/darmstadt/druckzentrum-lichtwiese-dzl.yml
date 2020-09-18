@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.8609896
 longitude: 8.675875300000001
-postcode: 64287
+postcode: "64287"
 city: Darmstadt
 street: "El-Lissitzky-Straße"
 housenumber: 1

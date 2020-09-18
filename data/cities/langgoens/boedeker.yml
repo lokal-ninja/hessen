@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.500396300000006
 longitude: 8.657305000000001
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Schmittgraben"
 housenumber: 32

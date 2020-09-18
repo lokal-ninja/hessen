@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.549252
 longitude: 9.678713700000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Dalbergstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.5785489
 longitude: 9.1444162
-postcode: 35327
+postcode: "35327"
 city: Ulrichstein
 street: "Am Mühlrain"
 housenumber: 9

@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 51.344916000000005
 longitude: 9.477567
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Holländische Straße"
 housenumber: 320
-phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
-website: ""
+phone: "+49 561 20865960"
+opening_hours: "Mar-Sep: Mo-Fr 10:00-19:00; Mar-Sep: Sa 10:00-18:00; Sep-Feb: Mo-Sa 10:00-18:00; PH off"
+website: "https://www.lucky-bike.de/fahrrad-kassel/"

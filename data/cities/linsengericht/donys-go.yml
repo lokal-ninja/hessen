@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.1961376
 longitude: 9.195040500000001
-postcode: 63589
+postcode: "63589"
 city: Linsengericht
 street: "Stadtweg"
 housenumber: 7

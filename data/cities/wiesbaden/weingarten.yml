@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0801895
 longitude: 8.239198700000001
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Friedrichstraße"
 housenumber: 34-36

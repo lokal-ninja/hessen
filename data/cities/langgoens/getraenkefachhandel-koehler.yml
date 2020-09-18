@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.4590254
 longitude: 8.5869175
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Bahnstraße"
 housenumber: 12

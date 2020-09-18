@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1473938
 longitude: 8.907551
-postcode: 63452
+postcode: "63452"
 city: Hanau
 street: "Heldenbergener Straße"
 housenumber: 1

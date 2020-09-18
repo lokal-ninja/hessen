@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.7519549
 longitude: 8.4878629
-postcode: 64579
+postcode: "64579"
 city: Gernsheim
 street: "Am Friedhof"
 housenumber: 3

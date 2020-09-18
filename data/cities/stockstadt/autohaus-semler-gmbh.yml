@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.800395800000004
 longitude: 8.4686876
-postcode: 64589
+postcode: "64589"
 city: Stockstadt
 street: "Otto-Hahn-Straße"
 housenumber: 1

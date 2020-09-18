@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.0177953
 longitude: 8.3670329
-postcode: 65239
+postcode: "65239"
 city: Hochheim am Main
 street: "Rüdesheimer Straße"
 housenumber: 36

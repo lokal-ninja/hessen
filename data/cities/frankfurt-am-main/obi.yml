@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.0950062
 longitude: 8.6830034
-postcode: 60598
+postcode: "60598"
 city: Frankfurt am Main
 street: "Mörfelder Landstraße"
 housenumber: 129

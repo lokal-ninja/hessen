@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.255331500000004
 longitude: 8.6762601
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Haingasse"
 housenumber: 20

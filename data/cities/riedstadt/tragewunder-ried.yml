@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.8111161
 longitude: 8.5176203
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Maternusstraße"
 housenumber: 4

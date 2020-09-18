@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8592425
 longitude: 9.723324
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Carl-Benz-Straße"
 housenumber: 5

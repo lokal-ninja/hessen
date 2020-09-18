@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.5280853
 longitude: 8.4114018
-postcode: 35606
+postcode: "35606"
 city: Solms
 street: "Braunfelser Straße"
 housenumber: 31

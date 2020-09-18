@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.252234200000004
 longitude: 8.644416600000001
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Bahnstraße"
 housenumber: 

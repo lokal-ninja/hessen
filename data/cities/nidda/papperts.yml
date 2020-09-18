@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.454666100000004
 longitude: 9.047358800000001
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Zur Köhlermühle"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.111596500000005
 longitude: 8.6647248
-postcode: 60325
+postcode: "60325"
 city: Frankfurt am Main
 street: "Mainzer Landstraße"
 housenumber: 46

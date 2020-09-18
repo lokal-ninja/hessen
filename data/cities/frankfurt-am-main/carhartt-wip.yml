@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.111888400000005
 longitude: 8.6816808
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Neue Kräme"
 housenumber: 26

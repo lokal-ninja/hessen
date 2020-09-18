@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.7508495
 longitude: 8.4872716
-postcode: 64579
+postcode: "64579"
 city: Gernsheim
 street: "Karlstraße"
 housenumber: 26

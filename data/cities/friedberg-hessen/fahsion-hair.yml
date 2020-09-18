@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.3437734
 longitude: 8.747088900000001
-postcode: 61169
+postcode: "61169"
 city: Friedberg (Hessen)
 street: "Städter Weg"
 housenumber: 10

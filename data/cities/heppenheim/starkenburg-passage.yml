@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 49.642914600000005
 longitude: 8.6418313
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Lehrstraße"
 housenumber: 2-8

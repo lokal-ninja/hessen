@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.07838
 longitude: 8.4692007
-postcode: 65830
+postcode: "65830"
 city: Kriftel
 street: "Hattersheimer Straße"
 housenumber: 1

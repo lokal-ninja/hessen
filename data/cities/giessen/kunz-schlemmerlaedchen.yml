@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.5863634
 longitude: 8.674179500000001
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Marktplatz"
 housenumber: 1

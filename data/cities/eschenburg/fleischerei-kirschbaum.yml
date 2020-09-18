@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.8127286
 longitude: 8.341939100000001
-postcode: 35713
+postcode: "35713"
 city: Eschenburg
 street: "Stengershof"
 housenumber: 8

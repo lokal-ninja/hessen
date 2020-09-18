@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.5479965
 longitude: 9.687656200000001
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Heinrichstraße"
 housenumber: 85

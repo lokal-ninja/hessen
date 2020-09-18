@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.8312273
 longitude: 8.7040561
-postcode: 64367
+postcode: "64367"
 city: Mühltal
 street: "Odenwaldstraße"
 housenumber: 23

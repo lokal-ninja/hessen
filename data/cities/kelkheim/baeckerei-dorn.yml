@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1375589
 longitude: 8.4466259
-postcode: 65779
+postcode: "65779"
 city: Kelkheim
 street: "Altkönigstraße"
 housenumber: 26

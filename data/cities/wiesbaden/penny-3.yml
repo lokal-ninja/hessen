@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.079832200000006
 longitude: 8.2293724
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Bismarckring"
 housenumber: 16

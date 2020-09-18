@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 50.1032043
 longitude: 8.7033837
-postcode: 60599
+postcode: "60599"
 city: Frankfurt am Main
 street: "Strahlenberger Weg"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1265773
 longitude: 8.716167800000001
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Wittelsbacherallee"
 housenumber: 187

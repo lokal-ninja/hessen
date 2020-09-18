@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.651487100000004
 longitude: 8.5671046
-postcode: 64653
+postcode: "64653"
 city: Lorsch
 street: "Kaiser-Wilhelm-Platz"
 housenumber: 5a

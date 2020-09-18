@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.899638700000004
 longitude: 8.6555028
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Frankfurter Landstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.996410600000004
 longitude: 8.3234197
-postcode: 65462
+postcode: "65462"
 city: Gustavsburg
 street: "Darmstädter Landstraße"
 housenumber: 76

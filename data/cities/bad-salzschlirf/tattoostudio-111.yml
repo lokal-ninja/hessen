@@ -3,7 +3,7 @@ type: way
 shop: Tattoo
 latitude: 50.6272127
 longitude: 9.5066384
-postcode: 36364
+postcode: "36364"
 city: Bad Salzschlirf
 street: "Schlitzer Straße"
 housenumber: 19

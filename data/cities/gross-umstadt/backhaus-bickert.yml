@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8675152
 longitude: 8.9268234
-postcode: 64823
+postcode: "64823"
 city: Groß Umstadt
 street: "Georg-August-Zinn-Straße"
 housenumber: 38

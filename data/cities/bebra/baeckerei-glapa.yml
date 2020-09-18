@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0050758
 longitude: 9.880689400000001
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Bebraer Straße"
 housenumber: 22

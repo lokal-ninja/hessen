@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.1069802
 longitude: 8.6678229
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Moselstraße"
 housenumber: 17

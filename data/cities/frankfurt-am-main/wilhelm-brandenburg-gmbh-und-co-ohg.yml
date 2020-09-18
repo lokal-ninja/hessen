@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.131697800000005
 longitude: 8.741865500000001
-postcode: 60386
+postcode: "60386"
 city: Frankfurt am Main
 street: "Wächtersbacher Straße"
 housenumber: 101

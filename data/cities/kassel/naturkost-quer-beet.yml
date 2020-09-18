@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2815692
 longitude: 9.4331748
-postcode: 34132
+postcode: "34132"
 city: Kassel
 street: "Korbacher Straße"
 housenumber: 211

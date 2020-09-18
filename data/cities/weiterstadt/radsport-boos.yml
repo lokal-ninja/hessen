@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.907521
 longitude: 8.5887908
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Otto-Wels-Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.054056
 longitude: 8.5263188
-postcode: 65451
+postcode: "65451"
 city: Kelsterbach
 street: "Am Südpark"
 housenumber: 1

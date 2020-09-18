@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.265581600000004
 longitude: 9.9723769
-postcode: 37242
+postcode: "37242"
 city: Bad Sooden-Allendorf
 street: "Werrastraße"
 housenumber: 1-3

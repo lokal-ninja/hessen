@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8776693
 longitude: 8.647268200000001
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
 street: "Liebigstraße"
 housenumber: 3

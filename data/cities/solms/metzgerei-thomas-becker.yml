@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.5571509
 longitude: 8.397871700000001
-postcode: 35606
+postcode: "35606"
 city: Solms
 street: "Ringstraße"
 housenumber: 13

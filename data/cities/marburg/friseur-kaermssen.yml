@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.8365469
 longitude: 8.7595773
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "An der Martinskirche"
 housenumber: 1

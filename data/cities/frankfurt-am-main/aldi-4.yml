@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1358588
 longitude: 8.7147553
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Seckbacher Landstraße"
 housenumber: 76

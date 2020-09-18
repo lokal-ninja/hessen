@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.018857000000004
 longitude: 8.6735959
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Eisenbahnstraße"
 housenumber: 204

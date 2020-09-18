@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.193636500000004
 longitude: 9.1917528
-postcode: 63589
+postcode: "63589"
 city: Linsengericht
 street: "Im Niederfeld"
 housenumber: 2

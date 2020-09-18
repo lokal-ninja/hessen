@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.1241203
 longitude: 9.543165100000001
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Nürnberger Straße"
 housenumber: 17-19

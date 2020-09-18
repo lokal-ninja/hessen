@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.3082781
 longitude: 9.5445084
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Heiligenröder Straße"
 housenumber: 51

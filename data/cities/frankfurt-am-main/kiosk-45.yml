@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.127118100000004
 longitude: 8.7035535
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Wiesenstraße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 49.644987300000004
 longitude: 8.6244054
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Opelstraße"
 housenumber: 1

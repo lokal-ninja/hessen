@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.867890700000004
 longitude: 8.9285458
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Obere Marktstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.082449100000005
 longitude: 8.239730100000001
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Neugasse"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.303809900000005
 longitude: 9.484362200000001
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 79-81

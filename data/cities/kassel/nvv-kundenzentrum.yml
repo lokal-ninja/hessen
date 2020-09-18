@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.316689100000005
 longitude: 9.4969794
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Mauerstraße"
 housenumber: 11

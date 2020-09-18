@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7538202
 longitude: 8.6388078
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Hauptstraße"
 housenumber: 25

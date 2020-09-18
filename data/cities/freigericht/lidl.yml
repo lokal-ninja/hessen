@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1498689
 longitude: 9.1098932
-postcode: 63579
+postcode: "63579"
 city: Freigericht
 street: "Gondsrother Straße"
 housenumber: 3

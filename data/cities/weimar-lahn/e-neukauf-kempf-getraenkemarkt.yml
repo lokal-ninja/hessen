@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.759636
 longitude: 8.7284167
-postcode: 35096
+postcode: "35096"
 city: Weimar (Lahn)
 street: "Haddamshäuser Weg"
 housenumber: 3

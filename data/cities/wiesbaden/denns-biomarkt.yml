@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0432502
 longitude: 8.216975
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Otto-Wallach-Straße"
 housenumber: 5

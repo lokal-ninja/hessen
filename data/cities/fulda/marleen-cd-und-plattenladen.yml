@@ -3,10 +3,10 @@ type: node
 shop: Instrumente
 latitude: 50.548297500000004
 longitude: 9.674934700000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Löherstraße"
 housenumber: 13
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
 website: "https://marleenrecords.wordpress.com/"

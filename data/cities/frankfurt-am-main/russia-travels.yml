@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.10997690000001
 longitude: 8.6781517
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Bethmannstraße"
 housenumber: 17

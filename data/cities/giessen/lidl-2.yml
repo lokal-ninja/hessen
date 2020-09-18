@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5877599
 longitude: 8.654181000000001
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Rodheimer Straße"
 housenumber: 100

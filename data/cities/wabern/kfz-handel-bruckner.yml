@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.0838473
 longitude: 9.3739624
-postcode: 34590
+postcode: "34590"
 city: Wabern
 street: "Hauptstraße"
 housenumber: 1c

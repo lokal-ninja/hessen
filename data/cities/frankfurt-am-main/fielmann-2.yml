@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.112588300000006
 longitude: 8.6783388
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Roßmarkt"
 housenumber: 9

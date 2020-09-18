@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 49.6777832
 longitude: 8.998792700000001
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Hammerweg"
 housenumber: 30

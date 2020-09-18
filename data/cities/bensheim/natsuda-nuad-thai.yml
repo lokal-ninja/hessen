@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 49.682255600000005
 longitude: 8.6214916
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Dalbergergasse"
 housenumber: 5

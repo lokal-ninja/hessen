@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.4843102
 longitude: 9.400030000000001
-postcode: 36355
+postcode: "36355"
 city: Grebenhain
 street: "Banneröder Straße"
 housenumber: 2

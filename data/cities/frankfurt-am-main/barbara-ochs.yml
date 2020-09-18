@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.120431
 longitude: 8.6488604
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Leipziger Straße"
 housenumber: 5

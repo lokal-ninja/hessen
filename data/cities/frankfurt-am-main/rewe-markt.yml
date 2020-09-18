@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.124535900000005
 longitude: 8.606436200000001
-postcode: 60489
+postcode: "60489"
 city: Frankfurt am Main
 street: "Breitlacherstraße"
 housenumber: 78

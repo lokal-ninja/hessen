@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.0812259
 longitude: 8.2232997
-postcode: 65195
+postcode: "65195"
 city: Wiesbaden
 street: "Nettelbeckstraße"
 housenumber: 12

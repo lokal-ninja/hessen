@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.1408283
 longitude: 9.2759031
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Brautäcker"
 housenumber: 8

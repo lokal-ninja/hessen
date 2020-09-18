@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 49.6364737
 longitude: 8.616897400000001
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Langnesestraße"
 housenumber: 1

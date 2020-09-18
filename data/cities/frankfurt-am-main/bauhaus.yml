@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.131844
 longitude: 8.7627296
-postcode: 60386
+postcode: "60386"
 city: Frankfurt am Main
 street: "Hanauer Landstraße"
 housenumber: 517-543

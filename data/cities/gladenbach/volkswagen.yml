@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7663431
 longitude: 8.5834886
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Bahnhofstraße"
 housenumber: 16-20

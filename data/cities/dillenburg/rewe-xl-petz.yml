@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.742144700000004
 longitude: 8.2821478
-postcode: 35683
+postcode: "35683"
 city: Dillenburg
 street: "Nixböthestraße"
 housenumber: 7

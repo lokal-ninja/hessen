@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.8032191
 longitude: 9.614436900000001
-postcode: 36272
+postcode: "36272"
 city: Niederaula
 street: "Hersfelder Straße"
 housenumber: 20

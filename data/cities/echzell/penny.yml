@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.38943870000001
 longitude: 8.890204200000001
-postcode: 61209
+postcode: "61209"
 city: Echzell
 street: "Am Sauerborn"
 housenumber: 17

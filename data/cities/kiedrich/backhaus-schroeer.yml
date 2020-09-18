@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0396258
 longitude: 8.0812542
-postcode: 65399
+postcode: "65399"
 city: Kiedrich
 street: "Sonnenlandstraße"
 housenumber: 48

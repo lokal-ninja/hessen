@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.856055600000005
 longitude: 8.7548644
-postcode: 64380
+postcode: "64380"
 city: Roßdorf
 street: "Beunegasse"
 housenumber: 2

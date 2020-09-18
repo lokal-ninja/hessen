@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 50.044810700000006
 longitude: 8.219908400000001
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Friedrich-Bergius-Straße"
 housenumber: 2

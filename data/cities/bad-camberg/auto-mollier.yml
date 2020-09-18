@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 50.294547300000005
 longitude: 8.2495829
-postcode: 65520
+postcode: "65520"
 city: Bad Camberg
 street: "Robert-Bosch-Straße"
 housenumber: 2
-phone: ""
+phone: "06434-905470"
 opening_hours: ""
-website: ""
+website: "https://toyota-mollier.de"

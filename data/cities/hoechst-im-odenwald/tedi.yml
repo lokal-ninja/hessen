@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.800110100000005
 longitude: 9.0031196
-postcode: 64739
+postcode: "64739"
 city: Höchst im Odenwald
 street: "Dusenbacher Straße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7517359
 longitude: 9.2700954
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Schnepfenhain"
 housenumber: 2

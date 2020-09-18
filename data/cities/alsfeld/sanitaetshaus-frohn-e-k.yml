@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.7498033
 longitude: 9.2743295
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Fulder Tor"
 housenumber: 4

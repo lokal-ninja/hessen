@@ -1,12 +1,12 @@
-id: 31341267
-type: way
+id: 5609349483
+type: node
 shop: Supermarkt
-latitude: 50.1442155
-longitude: 8.7472151
-postcode: 60388
+latitude: 50.0819211
+longitude: 8.6337904
+postcode: "60528"
 city: Frankfurt am Main
-street: "Victor-Slotosch-Straße"
-housenumber: 16
+street: "Hahnstraße"
+housenumber: 37-41
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00"
+website: "https://www.aldi-sued.de/"

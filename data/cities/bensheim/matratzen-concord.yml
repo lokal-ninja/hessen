@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 49.6752077
 longitude: 8.6171486
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Fabrikstraße"
 housenumber: 12

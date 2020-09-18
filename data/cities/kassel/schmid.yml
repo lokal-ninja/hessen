@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.285353400000005
 longitude: 9.4648292
-postcode: 34134
+postcode: "34134"
 city: Kassel
 street: "Korbacher Straße"
 housenumber: 23

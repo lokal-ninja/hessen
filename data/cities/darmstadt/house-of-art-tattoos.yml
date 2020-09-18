@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.866637700000005
 longitude: 8.6560795
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Heinrichstraße"
 housenumber: 44

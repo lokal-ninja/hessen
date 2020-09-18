@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.0420231
 longitude: 8.8835184
-postcode: 63110
+postcode: "63110"
 city: Rodgau
 street: "Alfred-Delp-Straße"
 housenumber: 56

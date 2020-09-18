@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.184395
 longitude: 9.1435069
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Hanauer Landstraße"
 housenumber: 27

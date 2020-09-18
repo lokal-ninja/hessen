@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.1672415
 longitude: 8.830314000000001
-postcode: 35104
+postcode: "35104"
 city: Lichtenfels
 street: "Mittelstraße"
 housenumber: 1

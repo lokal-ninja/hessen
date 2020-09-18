@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.852168500000005
 longitude: 8.5553916
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Oberndorfer Straße"
 housenumber: 109

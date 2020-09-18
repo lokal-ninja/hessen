@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3221781
 longitude: 9.4498525
-postcode: 34130
+postcode: "34130"
 city: Kassel
 street: "Zentgrafenstraße"
 housenumber: 95

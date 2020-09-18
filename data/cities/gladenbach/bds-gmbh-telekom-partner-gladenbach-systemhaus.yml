@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7691372
 longitude: 8.5832911
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Bahnhofstraße"
 housenumber: 1

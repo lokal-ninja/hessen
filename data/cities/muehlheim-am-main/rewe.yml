@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.11979770000001
 longitude: 8.8297758
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Friedensstraße"
 housenumber: 52-56

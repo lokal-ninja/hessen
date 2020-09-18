@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 50.6844661
 longitude: 8.3029276
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Hauptstraße"
 housenumber: 1-3

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.872158000000006
 longitude: 8.647492
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Rheinstraße"
 housenumber: 20

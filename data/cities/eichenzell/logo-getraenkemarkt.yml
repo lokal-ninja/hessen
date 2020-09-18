@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.495168500000005
 longitude: 9.6952025
-postcode: 36124
+postcode: "36124"
 city: Eichenzell
 street: "Fuldaer Straße"
 housenumber: 8a

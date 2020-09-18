@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.9669924
 longitude: 8.8261903
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Carl-Zeiss-Straße"
 housenumber: 2

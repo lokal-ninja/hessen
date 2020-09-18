@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5743154
 longitude: 8.706610300000001
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "An der Automeile"
 housenumber: 6

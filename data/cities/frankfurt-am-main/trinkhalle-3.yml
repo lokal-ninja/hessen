@@ -3,10 +3,10 @@ type: way
 shop: Kiosk
 latitude: 50.124763300000005
 longitude: 8.7084551
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Roßdorfer Straße"
 housenumber: 47
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 10:00-23:00; Fr,Su,PH 11:00-23:00"
 website: ""

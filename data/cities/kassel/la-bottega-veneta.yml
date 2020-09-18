@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.314145
 longitude: 9.4372144
-postcode: 34131
+postcode: "34131"
 city: Kassel
 street: "Wilhelmshöher Allee"
 housenumber: 312

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.6014557
 longitude: 8.3824415
-postcode: 35630
+postcode: "35630"
 city: Ehringshausen
 street: "Wetzlarer Straße"
 housenumber: 7

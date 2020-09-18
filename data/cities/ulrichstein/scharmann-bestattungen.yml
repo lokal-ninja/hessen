@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.5775498
 longitude: 9.2014913
-postcode: 35327
+postcode: "35327"
 city: Ulrichstein
 street: "Erlenweg"
 housenumber: 2

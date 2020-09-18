@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.304785700000004
 longitude: 9.5268017
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Leipziger Straße"
 housenumber: 124

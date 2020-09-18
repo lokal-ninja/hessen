@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.0452158
 longitude: 9.2797021
-postcode: 34582
+postcode: "34582"
 city: Borken (Hessen)
 street: "Pferdetränke"
 housenumber: 16

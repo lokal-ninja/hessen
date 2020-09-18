@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.3436323
 longitude: 9.857242600000001
-postcode: 37213
+postcode: "37213"
 city: Witzenhausen
 street: "Brückenstraße"
 housenumber: 23

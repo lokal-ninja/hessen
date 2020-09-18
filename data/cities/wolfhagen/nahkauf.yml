@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.321766600000004
 longitude: 9.162441900000001
-postcode: 34466
+postcode: "34466"
 city: Wolfhagen
 street: "Hans-Staden-Straße"
 housenumber: 52

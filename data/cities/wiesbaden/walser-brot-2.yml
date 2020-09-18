@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0811767
 longitude: 8.241381
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Mauergasse"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.5690961
 longitude: 8.6508593
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Margaretenhütte"
 housenumber: 65

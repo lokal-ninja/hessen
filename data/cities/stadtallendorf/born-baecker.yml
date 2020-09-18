@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.826129
 longitude: 9.0170212
-postcode: 35260
+postcode: "35260"
 city: Stadtallendorf
 street: "Am Bahnhof"
 housenumber: 10

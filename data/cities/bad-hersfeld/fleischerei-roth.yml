@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.8690408
 longitude: 9.7091004
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Benno-Schilde-Straße"
 housenumber: 2

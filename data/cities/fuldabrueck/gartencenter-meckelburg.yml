@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.2746882
 longitude: 9.4991047
-postcode: 34277
+postcode: "34277"
 city: Fuldabrück
 street: "Albert-Einstein-Straße"
 housenumber: 3

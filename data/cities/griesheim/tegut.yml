@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8703118
 longitude: 8.5540796
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Feldstraße"
 housenumber: 13

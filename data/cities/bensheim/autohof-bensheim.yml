@@ -3,9 +3,9 @@ type: node
 shop: Allgemein
 latitude: 49.672933400000005
 longitude: 8.596681
-postcode: 64625
+postcode: "64625"
 city: Bensheim
-street: "Ampèrestraße"
+street: "AMPèrestraße"
 housenumber: 1
 phone: ""
 opening_hours: ""

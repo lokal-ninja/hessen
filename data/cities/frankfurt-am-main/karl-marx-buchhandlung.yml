@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.118467200000005
 longitude: 8.6486076
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Jordanstraße"
 housenumber: 11

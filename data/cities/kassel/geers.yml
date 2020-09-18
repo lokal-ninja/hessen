@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.288987500000005
 longitude: 9.471853900000001
-postcode: 34134
+postcode: "34134"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 239

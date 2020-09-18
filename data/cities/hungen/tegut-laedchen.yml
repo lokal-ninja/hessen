@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.505092600000005
 longitude: 8.935000800000001
-postcode: 35410
+postcode: "35410"
 city: Hungen
 street: "Höhenstraße"
 housenumber: 2

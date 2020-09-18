@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.3511104
 longitude: 8.7909855
-postcode: 61169
+postcode: "61169"
 city: Friedberg (Hessen)
 street: "Wetteraustraße"
 housenumber: 50

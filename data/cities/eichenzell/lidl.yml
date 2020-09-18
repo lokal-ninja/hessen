@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.487657600000006
 longitude: 9.7095746
-postcode: 36124
+postcode: "36124"
 city: Eichenzell
 street: "Rhönhof"
 housenumber: 14

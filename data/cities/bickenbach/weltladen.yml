@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 49.7567293
 longitude: 8.6115572
-postcode: 64404
+postcode: "64404"
 city: Bickenbach
 street: "Pfungstädter Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3546964
 longitude: 9.4623012
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Lange Wender"
 housenumber: 7

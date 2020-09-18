@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.96685900000001
 longitude: 9.797743800000001
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Bebritstraße"
 housenumber: 1-3

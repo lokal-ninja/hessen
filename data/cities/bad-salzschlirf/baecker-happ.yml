@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.62773180000001
 longitude: 9.5070754
-postcode: 36364
+postcode: "36364"
 city: Bad Salzschlirf
 street: "Schlitzer Straße"
 housenumber: 30

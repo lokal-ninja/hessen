@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 49.7138593
 longitude: 8.4814004
-postcode: 68649
+postcode: "68649"
 city: Groß-Rohrheim
 street: "Brahmsweg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.8607334
 longitude: 8.6548642
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Wittmannstraße"
 housenumber: 15

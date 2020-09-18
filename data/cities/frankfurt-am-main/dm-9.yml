@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.1227188
 longitude: 8.6999796
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
 street: "Berger Straße"
 housenumber: 93-95

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5767236
 longitude: 8.754435200000001
-postcode: 35463
+postcode: "35463"
 city: Fernwald
 street: "Tiefenweg"
 housenumber: 2

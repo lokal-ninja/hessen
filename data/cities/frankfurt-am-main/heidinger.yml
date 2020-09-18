@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1070955
 longitude: 8.6674422
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Münchener Straße"
 housenumber: 43

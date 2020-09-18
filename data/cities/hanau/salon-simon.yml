@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1307978
 longitude: 8.885708300000001
-postcode: 63454
+postcode: "63454"
 city: Hanau
 street: "Kurt-Schumacher-Platz"
 housenumber: 10

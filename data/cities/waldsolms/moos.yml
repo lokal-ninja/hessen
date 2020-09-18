@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4316571
 longitude: 8.4955776
-postcode: 35647
+postcode: "35647"
 city: Waldsolms
 street: "Hasselborner Straße"
 housenumber: 13

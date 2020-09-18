@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1041086
 longitude: 8.7593416
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Kaiserstraße"
 housenumber: 55

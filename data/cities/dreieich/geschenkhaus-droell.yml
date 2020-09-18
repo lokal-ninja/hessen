@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.0002384
 longitude: 8.7146605
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Fahrgasse"
 housenumber: 36-38

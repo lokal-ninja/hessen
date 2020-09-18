@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.9714189
 longitude: 8.5694354
-postcode: 64546
+postcode: "64546"
 city: Mörfelden-Walldorf
 street: "Gerauer Straße"
 housenumber: 6-8

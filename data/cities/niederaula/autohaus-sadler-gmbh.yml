@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7991662
 longitude: 9.6017192
-postcode: 36272
+postcode: "36272"
 city: Niederaula
 street: "Hattenbacher Straße"
 housenumber: 1

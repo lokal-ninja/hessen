@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.565116800000006
 longitude: 8.5254659
-postcode: 35583
+postcode: "35583"
 city: Wetzlar
 street: "Kreisstraße"
 housenumber: 73

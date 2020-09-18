@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 50.5830301
 longitude: 8.671421200000001
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Seltersweg"
 housenumber: 54

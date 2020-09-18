@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.3165102
 longitude: 9.4983657
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Königsplatz"
 housenumber: 61

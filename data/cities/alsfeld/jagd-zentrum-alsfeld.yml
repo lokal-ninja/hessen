@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7459914
 longitude: 9.2639092
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Grünberger Straße"
 housenumber: 50

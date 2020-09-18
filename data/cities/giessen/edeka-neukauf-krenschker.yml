@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5776313
 longitude: 8.6635124
-postcode: 35392
+postcode: "35392"
 city: Gießen
 street: "Frankfurter Straße"
 housenumber: 54

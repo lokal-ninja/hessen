@@ -1,12 +1,12 @@
-id: 4968866960
+id: 3767502200
 type: node
 shop: Supermarkt
-latitude: 50.1123873
-longitude: 8.893871500000001
-postcode: 63456
+latitude: 50.1348064
+longitude: 8.9151673
+postcode: "63450"
 city: Hanau
-street: "Otto-Hahn-Straße"
-housenumber: 18
+street: "Sternstraße"
+housenumber: 5a
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: ""
 website: ""

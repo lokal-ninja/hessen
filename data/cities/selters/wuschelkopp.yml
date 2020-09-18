@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.331466600000006
 longitude: 8.2327922
-postcode: 65618
+postcode: "65618"
 city: Selters
 street: "Am Winterholz"
 housenumber: 17

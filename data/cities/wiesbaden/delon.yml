@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0790385
 longitude: 8.2370908
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Luisenstraße"
 housenumber: 47

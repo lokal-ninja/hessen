@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.1340653
 longitude: 8.9163484
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Hammerstraße"
 housenumber: 6

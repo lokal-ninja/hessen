@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.4971261
 longitude: 8.6660945
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Bahnhofstraße"
 housenumber: 7

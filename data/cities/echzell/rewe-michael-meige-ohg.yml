@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.397593400000005
 longitude: 8.8894426
-postcode: 61209
+postcode: "61209"
 city: Echzell
 street: "Am Mühlbach"
 housenumber: 7

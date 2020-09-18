@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.0831132
 longitude: 8.581310700000001
-postcode: 60529
+postcode: "60529"
 city: Frankfurt am Main
 street: "Alt-Schwanheim"
 housenumber: 39a

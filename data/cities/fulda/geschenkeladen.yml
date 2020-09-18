@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.549649800000005
 longitude: 9.6791367
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Florengasse"
 housenumber: 8

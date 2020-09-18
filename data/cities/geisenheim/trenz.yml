@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.0038703
 longitude: 7.9791141
-postcode: 65366
+postcode: "65366"
 city: Geisenheim
 street: "Schulstraße"
 housenumber: 1-3

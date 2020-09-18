@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.816533500000006
 longitude: 8.7509031
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Emil-von-Behring-Straße"
 housenumber: 47

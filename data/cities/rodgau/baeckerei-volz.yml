@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.029528400000004
 longitude: 8.882824000000001
-postcode: 63110
+postcode: "63110"
 city: Rodgau
 street: "Weiskircher Straße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.717001800000006
 longitude: 8.6128306
-postcode: 64673
+postcode: "64673"
 city: Zwingenberg
 street: "Heidelberger Straße"
 housenumber: 41

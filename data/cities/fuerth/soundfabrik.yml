@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 49.650573
 longitude: 8.779495
-postcode: 64658
+postcode: "64658"
 city: Fürth
 street: "Hauptstraße"
 housenumber: 23

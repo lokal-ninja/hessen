@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 51.13369
 longitude: 9.2729911
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Allee"
 housenumber: 4

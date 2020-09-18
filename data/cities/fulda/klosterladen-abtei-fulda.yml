@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.5531214
 longitude: 9.6764819
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Nonnengasse"
 housenumber: 16

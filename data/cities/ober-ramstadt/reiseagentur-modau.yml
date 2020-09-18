@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.7981403
 longitude: 8.738655600000001
-postcode: 64372
+postcode: "64372"
 city: Ober-Ramstadt
 street: "Kirchstraße"
 housenumber: 52

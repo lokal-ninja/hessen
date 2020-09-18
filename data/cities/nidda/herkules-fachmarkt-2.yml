@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.4167994
 longitude: 9.011784800000001
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Krötenburgstraße"
 housenumber: 12

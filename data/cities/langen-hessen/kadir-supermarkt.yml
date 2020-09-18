@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.995005400000004
 longitude: 8.664240300000001
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Annastraße"
 housenumber: 45

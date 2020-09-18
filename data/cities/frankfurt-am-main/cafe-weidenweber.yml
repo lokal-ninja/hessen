@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1150585
 longitude: 8.686514800000001
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "Große Friedberger Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1232757
 longitude: 8.730526000000001
-postcode: 60386
+postcode: "60386"
 city: Frankfurt am Main
 street: "Am Riederbruch"
 housenumber: 10

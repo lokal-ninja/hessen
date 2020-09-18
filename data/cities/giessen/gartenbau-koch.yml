@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.586020500000004
 longitude: 8.6740407
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Marktstraße"
 housenumber: 1

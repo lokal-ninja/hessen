@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.5546748
 longitude: 9.7133543
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Alte Ziegelei"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

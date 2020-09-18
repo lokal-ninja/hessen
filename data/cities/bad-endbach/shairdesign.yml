@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.7549745
 longitude: 8.489365600000001
-postcode: 35080
+postcode: "35080"
 city: Bad Endbach
 street: "Liebigstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.498957000000004
 longitude: 9.681130000000001
-postcode: 36124
+postcode: "36124"
 city: Eichenzell
 street: "Bronnzeller Straße"
 housenumber: 1

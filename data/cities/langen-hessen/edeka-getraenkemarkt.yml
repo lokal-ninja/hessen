@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.9960139
 longitude: 8.6527201
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Ampèrestraße"
 housenumber: 19

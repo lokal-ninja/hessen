@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.204729
 longitude: 8.5792038
-postcode: 61440
+postcode: "61440"
 city: Oberursel (Taunus)
 street: "Hohemarkstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.553317400000005
 longitude: 9.722040400000001
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Justus-Liebig-Straße"
 housenumber: 1

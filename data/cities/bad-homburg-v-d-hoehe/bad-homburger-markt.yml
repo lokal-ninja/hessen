@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.233639200000006
 longitude: 8.609375700000001
-postcode: 61350
+postcode: "61350"
 city: Bad Homburg v.d. Höhe
 street: "Gluckensteinweg"
 housenumber: 10

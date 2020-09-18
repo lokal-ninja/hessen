@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.8982934
 longitude: 8.838705000000001
-postcode: 64807
+postcode: "64807"
 city: Dieburg
 street: "Markt"
 housenumber: 8

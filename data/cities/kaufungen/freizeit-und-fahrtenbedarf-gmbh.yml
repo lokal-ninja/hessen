@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 51.286563900000004
 longitude: 9.5727598
-postcode: 34260
+postcode: "34260"
 city: Kaufungen
 street: "Industriestraße"
 housenumber: 8

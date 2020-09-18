@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.247982400000005
 longitude: 9.3823418
-postcode: 34225
+postcode: "34225"
 city: Baunatal
 street: "Prinzenstraße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.3354276
 longitude: 9.4420786
-postcode: 34128
+postcode: "34128"
 city: Kassel
 street: "Wolfhager Straße"
 housenumber: 367

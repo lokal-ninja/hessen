@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.9103712
 longitude: 9.1992287
-postcode: 34613
+postcode: "34613"
 city: Schwalmstadt
 street: "Osttangente"
 housenumber: 5

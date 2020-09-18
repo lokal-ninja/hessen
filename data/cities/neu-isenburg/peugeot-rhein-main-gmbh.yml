@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.047677400000005
 longitude: 8.6784943
-postcode: 63263
+postcode: "63263"
 city: Neu-Isenburg
 street: "Schleussnerstraße"
 housenumber: 96-98

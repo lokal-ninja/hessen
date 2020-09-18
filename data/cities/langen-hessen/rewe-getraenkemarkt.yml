@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.995769300000006
 longitude: 8.675915
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Elisabeth-Selbert-Allee"
 housenumber: 30

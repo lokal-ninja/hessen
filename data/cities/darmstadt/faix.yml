@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 49.8706836
 longitude: 8.653279300000001
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Elisabethenstraße"
 housenumber: 1-3

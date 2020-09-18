@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 50.496877100000006
 longitude: 8.6636896
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Am Mühlberg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3400471
 longitude: 8.536551600000001
-postcode: 61250
+postcode: "61250"
 city: Usingen
 street: "Weilburger Straße"
 housenumber: 16

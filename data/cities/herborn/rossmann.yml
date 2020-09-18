@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.680726400000005
 longitude: 8.3056667
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Hauptstraße"
 housenumber: 115

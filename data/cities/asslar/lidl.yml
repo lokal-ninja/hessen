@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5847934
 longitude: 8.4767083
-postcode: 35614
+postcode: "35614"
 city: Aßlar
 street: "Walbergraben"
 housenumber: 2

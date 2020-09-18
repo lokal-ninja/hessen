@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.6157332
 longitude: 8.7147755
-postcode: 69509
+postcode: "69509"
 city: Mörlenbach
 street: "Edertalstraße"
 housenumber: 46

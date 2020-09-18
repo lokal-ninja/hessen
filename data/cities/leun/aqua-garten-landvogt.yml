@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.547541700000004
 longitude: 8.365801900000001
-postcode: 35638
+postcode: "35638"
 city: Leun
 street: "Hermann-Löns-Weg"
 housenumber: 5b

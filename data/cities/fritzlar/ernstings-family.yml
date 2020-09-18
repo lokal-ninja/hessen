@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.133867200000005
 longitude: 9.2784498
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Am Hospital"
 housenumber: 21

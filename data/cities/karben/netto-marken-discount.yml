@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.2324184
 longitude: 8.762233
-postcode: 61184
+postcode: "61184"
 city: Karben
 street: "Industriestraße"
 housenumber: 2a

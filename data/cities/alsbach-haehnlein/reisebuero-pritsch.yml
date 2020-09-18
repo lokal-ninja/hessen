@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.7416739
 longitude: 8.624745500000001
-postcode: 64665
+postcode: "64665"
 city: Alsbach-Hähnlein
 street: "Hauptstraße"
 housenumber: 20

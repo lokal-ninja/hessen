@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1403028
 longitude: 8.5065126
-postcode: 65812
+postcode: "65812"
 city: Bad Soden am Taunus
 street: "Königsteiner Straße"
 housenumber: 44

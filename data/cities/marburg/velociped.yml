@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.8058914
 longitude: 8.775499700000001
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Weidenhäuser Straße"
 housenumber: 64

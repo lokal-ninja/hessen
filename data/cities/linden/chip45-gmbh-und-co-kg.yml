@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.5267082
 longitude: 8.663857700000001
-postcode: 35440
+postcode: "35440"
 city: Linden
 street: "Am Pfad"
 housenumber: 8

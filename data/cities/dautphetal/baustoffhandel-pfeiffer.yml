@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.808959200000004
 longitude: 8.528204800000001
-postcode: 35232
+postcode: "35232"
 city: Dautphetal
 street: "Buchholzstraße"
 housenumber: 

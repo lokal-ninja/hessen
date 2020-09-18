@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.049858
 longitude: 9.661275700000001
-postcode: 36211
+postcode: "36211"
 city: Alheim
 street: "Am Minnstück"
 housenumber: 1

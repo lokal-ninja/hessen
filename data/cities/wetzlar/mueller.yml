@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.560814300000004
 longitude: 8.502700200000001
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Buderusplatz"
 housenumber: 2

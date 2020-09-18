@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.116156800000006
 longitude: 8.762081400000001
-postcode: 60386
+postcode: "60386"
 city: Frankfurt am Main
 street: "Carl-Benz-Straße"
 housenumber: 47

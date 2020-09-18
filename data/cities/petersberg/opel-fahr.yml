@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5527656
 longitude: 9.7172864
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Dr.-Raabe-Straße"
 housenumber: 2

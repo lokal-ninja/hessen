@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.0455783
 longitude: 8.8522417
-postcode: 63150
+postcode: "63150"
 city: Heusenstamm
 street: "Hauptstraße"
 housenumber: 11

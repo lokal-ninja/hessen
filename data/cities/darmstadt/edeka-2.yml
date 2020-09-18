@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.910590500000005
 longitude: 8.658318300000001
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Untere Mühlstraße"
 housenumber: 5

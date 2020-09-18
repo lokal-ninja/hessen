@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.646639
 longitude: 8.629414
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Weiherhausstraße"
 housenumber: 19

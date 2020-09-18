@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.5889839
 longitude: 8.664147100000001
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Rodheimer Straße"
 housenumber: 32

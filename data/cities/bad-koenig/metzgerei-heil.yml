@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.7423458
 longitude: 9.007935900000001
-postcode: 64732
+postcode: "64732"
 city: Bad König
 street: "Alexanderstraße"
 housenumber: 9

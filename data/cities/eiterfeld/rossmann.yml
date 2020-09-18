@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.7585655
 longitude: 9.808988600000001
-postcode: 36132
+postcode: "36132"
 city: Eiterfeld
 street: "Eisenacher Weg"
 housenumber: 3

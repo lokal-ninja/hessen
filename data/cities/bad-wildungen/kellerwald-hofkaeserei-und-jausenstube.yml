@@ -3,7 +3,7 @@ type: way
 shop: Käse
 latitude: 51.0917079
 longitude: 8.9983742
-postcode: 34537
+postcode: "34537"
 city: Bad Wildungen
 street: "Dülfershof"
 housenumber: 26

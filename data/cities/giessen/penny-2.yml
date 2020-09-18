@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.580790400000005
 longitude: 8.699908
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Heinrich-Fourier-Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.55024280000001
 longitude: 8.4714504
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "Westendstraße"
 housenumber: 2 - 4

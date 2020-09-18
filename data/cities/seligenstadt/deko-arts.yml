@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.044560800000006
 longitude: 8.9749966
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: ""
 housenumber: 

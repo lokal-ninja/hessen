@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.84726980000001
 longitude: 8.7778793
-postcode: 35091
+postcode: "35091"
 city: Cölbe
 street: "Kasseler Straße"
 housenumber: 37

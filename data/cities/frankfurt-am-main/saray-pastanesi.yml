@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1075935
 longitude: 8.656513200000001
-postcode: 60327
+postcode: "60327"
 city: Frankfurt am Main
 street: "Mainzer Landstraße"
 housenumber: 131

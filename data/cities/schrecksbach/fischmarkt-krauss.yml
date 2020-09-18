@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 50.843356400000005
 longitude: 9.2904294
-postcode: 34637
+postcode: "34637"
 city: Schrecksbach
 street: "Gewerbestraße"
 housenumber: 8

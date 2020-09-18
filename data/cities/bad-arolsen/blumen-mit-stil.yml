@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.379019500000005
 longitude: 9.0063703
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Große Allee"
 housenumber: 60

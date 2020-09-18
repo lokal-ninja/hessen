@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.1134927
 longitude: 8.6978664
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
 street: "Theobald-Christ-Straße"
 housenumber: 2-4

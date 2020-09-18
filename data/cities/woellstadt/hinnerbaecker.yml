@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.2770389
 longitude: 8.7659409
-postcode: 61206
+postcode: "61206"
 city: Wöllstadt
 street: "Frankfurter Straße"
 housenumber: 59a

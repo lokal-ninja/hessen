@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0949679
 longitude: 8.753490000000001
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Sprendlinger Landstraße"
 housenumber: 

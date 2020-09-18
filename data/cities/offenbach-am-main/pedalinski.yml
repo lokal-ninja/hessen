@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.108317400000004
 longitude: 8.757225700000001
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Kaiserstraße"
 housenumber: 90

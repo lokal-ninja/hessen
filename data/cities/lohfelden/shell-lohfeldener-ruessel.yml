@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.27216060000001
 longitude: 9.527314
-postcode: 34253
+postcode: "34253"
 city: Lohfelden
 street: "Alexander-von-Humboldt-Straße"
 housenumber: 1

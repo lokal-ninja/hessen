@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.671291100000005
 longitude: 8.3063968
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Konrad-Adenauer-Straße"
 housenumber: 70

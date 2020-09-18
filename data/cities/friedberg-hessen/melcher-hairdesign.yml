@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.336427900000004
 longitude: 8.7543962
-postcode: 61169
+postcode: "61169"
 city: Friedberg (Hessen)
 street: "Schnurgasse"
 housenumber: 2

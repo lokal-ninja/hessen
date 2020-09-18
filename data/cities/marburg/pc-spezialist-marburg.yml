@@ -1,12 +1,12 @@
 id: 6316574155
 type: node
 shop: Computer
-latitude: 50.815891400000005
-longitude: 8.7524371
-postcode: 35041
+latitude: 50.815879900000006
+longitude: 8.7524253
+postcode: "35041"
 city: Marburg
 street: "Emil-von-Behring-Straße"
 housenumber: 37
 phone: "+49 6421 9998600"
 opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.pcspezialist.de/marburg.html"
+website: "https://pc-helden.de/"

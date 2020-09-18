@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.819678100000004
 longitude: 8.9357957
-postcode: 35274
+postcode: "35274"
 city: Kirchhain
 street: "Alsfelder Straße"
 housenumber: 58

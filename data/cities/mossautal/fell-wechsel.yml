@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 49.6397046
 longitude: 8.9316648
-postcode: 64756
+postcode: "64756"
 city: Mossautal
 street: "Ortsstraße"
 housenumber: 154

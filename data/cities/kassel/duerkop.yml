@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.2757358
 longitude: 9.523376800000001
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Heinrich-Hertz-Straße"
 housenumber: 27

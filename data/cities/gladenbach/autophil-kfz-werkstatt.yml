@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7531678
 longitude: 8.594386700000001
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Mittelstraße"
 housenumber: 6

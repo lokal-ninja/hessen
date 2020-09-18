@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.4958382
 longitude: 8.6700935
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Am Fauerbacher Rain"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9110991
 longitude: 8.4972381
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Helvetiastraße"
 housenumber: 3

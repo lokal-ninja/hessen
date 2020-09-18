@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.750405400000005
 longitude: 9.270758500000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Mainzer Gasse"
 housenumber: 6

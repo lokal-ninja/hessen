@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.342427300000004
 longitude: 8.7574894
-postcode: 61169
+postcode: "61169"
 city: Friedberg (Hessen)
 street: "An den 24 Hallen"
 housenumber: 14

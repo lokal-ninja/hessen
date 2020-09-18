@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.550494400000005
 longitude: 8.483194000000001
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "Braunfelser Straße"
 housenumber: 6

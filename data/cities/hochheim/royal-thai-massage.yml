@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.0109457
 longitude: 8.348501200000001
-postcode: 65239
+postcode: "65239"
 city: Hochheim
 street: "Mainzer Straße"
 housenumber: 23a

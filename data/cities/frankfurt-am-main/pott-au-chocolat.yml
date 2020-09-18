@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 50.1122274
 longitude: 8.6834716
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Berliner Straße"
 housenumber: 22

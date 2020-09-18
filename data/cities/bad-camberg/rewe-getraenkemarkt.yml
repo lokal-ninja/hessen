@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.301720700000004
 longitude: 8.2606693
-postcode: 65520
+postcode: "65520"
 city: Bad Camberg
 street: "Limburger Straße"
 housenumber: 

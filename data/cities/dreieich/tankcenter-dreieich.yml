@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.0190046
 longitude: 8.6727097
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Eisenbahnstraße"
 housenumber: 210

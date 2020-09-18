@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.077057
 longitude: 8.939947
-postcode: 63512
+postcode: "63512"
 city: Hainburg
 street: "Eisenbahnstraße"
 housenumber: 34

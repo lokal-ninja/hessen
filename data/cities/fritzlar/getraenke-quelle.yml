@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.1215271
 longitude: 9.278211
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Auf der Lache"
 housenumber: 1

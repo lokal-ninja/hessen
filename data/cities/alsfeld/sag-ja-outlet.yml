@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.7499939
 longitude: 9.269291800000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Mainzer Tor"
 housenumber: 5

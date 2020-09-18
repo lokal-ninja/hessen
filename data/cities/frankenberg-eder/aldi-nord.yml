@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0577757
 longitude: 8.7833752
-postcode: 35066
+postcode: "35066"
 city: Frankenberg (Eder)
 street: "Röddenauer Straße"
 housenumber: 20

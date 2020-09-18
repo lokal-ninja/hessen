@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 50.226879200000006
 longitude: 9.3477621
-postcode: 63619
+postcode: "63619"
 city: Bad Orb
 street: "Marktplatz"
 housenumber: 1

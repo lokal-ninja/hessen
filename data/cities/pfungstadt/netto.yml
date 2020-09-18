@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.79649920000001
 longitude: 8.561173700000001
-postcode: 64319
+postcode: "64319"
 city: Pfungstadt
 street: "An der Gehrengasse"
 housenumber: 85

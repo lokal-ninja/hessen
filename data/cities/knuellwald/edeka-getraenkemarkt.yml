@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 51.0035947
 longitude: 9.4695985
-postcode: 34593
+postcode: "34593"
 city: Knüllwald
-street: ""
+street: "Hauptstraße"
 housenumber: 
 phone: "+49 5662 5874"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-20:00"
 website: "http://www.edeka.de/"

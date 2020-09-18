@@ -1,12 +1,12 @@
-id: 6360591825
-type: node
+id: 158019334
+type: way
 shop: Supermarkt
-latitude: 50.9656985
-longitude: 9.7962649
-postcode: 36179
+latitude: 50.9658633
+longitude: 9.7959929
+postcode: "36179"
 city: Bebra
 street: "Hersfelder Straße"
 housenumber: 11
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

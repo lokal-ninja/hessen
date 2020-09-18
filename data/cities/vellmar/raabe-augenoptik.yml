@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.3617293
 longitude: 9.4576357
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Holländische Straße"
 housenumber: 109

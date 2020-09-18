@@ -1,12 +1,12 @@
-id: 6952633319
-type: node
+id: 525862305
+type: way
 shop: Drogerie
-latitude: 50.1136403
-longitude: 8.6956307
-postcode: 60314
+latitude: 50.052975100000005
+longitude: 8.571047
+postcode: "60549"
 city: Frankfurt am Main
-street: "Hanauer Landstraße"
-housenumber: 1-5
-phone: "+49 69 43058909"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: "The Squaire"
+housenumber: 12
+phone: ""
+opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00; Su 07:00-21:00; PH 07:00-21:00"
 website: ""

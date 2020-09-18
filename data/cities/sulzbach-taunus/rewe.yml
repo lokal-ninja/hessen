@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.134683700000004
 longitude: 8.528662200000001
-postcode: 65843
+postcode: "65843"
 city: Sulzbach (Taunus)
 street: "Schwalbacher Straße"
 housenumber: 5

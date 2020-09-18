@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.353112100000004
 longitude: 9.309546000000001
-postcode: 63633
+postcode: "63633"
 city: Birstein
 street: "Hauptstraße"
 housenumber: 17

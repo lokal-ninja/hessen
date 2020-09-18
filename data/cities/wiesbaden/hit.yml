@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.060119400000005
 longitude: 8.258159000000001
-postcode: 65189
+postcode: "65189"
 city: Wiesbaden
 street: "Hasengartenstraße"
 housenumber: 25

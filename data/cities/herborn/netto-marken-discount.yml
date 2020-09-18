@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6947435
 longitude: 8.304802800000001
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Burger Hauptstraße"
 housenumber: 14a

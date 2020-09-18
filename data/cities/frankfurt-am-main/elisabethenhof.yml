@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.1101869
 longitude: 8.5166588
-postcode: 65929
+postcode: "65929"
 city: Frankfurt am Main
 street: "Schmalkaldener Straße"
 housenumber: 15

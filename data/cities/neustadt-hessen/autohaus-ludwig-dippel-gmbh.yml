@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.851119000000004
 longitude: 9.1056986
-postcode: 35279
+postcode: "35279"
 city: Neustadt (Hessen)
 street: "Marburger Straße"
 housenumber: 50

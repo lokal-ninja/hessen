@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.751354400000004
 longitude: 9.2826807
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Hersfelder Straße"
 housenumber: 79

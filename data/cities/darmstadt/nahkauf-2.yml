@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.902402800000004
 longitude: 8.660470700000001
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Thomas-Mann-Platz"
 housenumber: 6

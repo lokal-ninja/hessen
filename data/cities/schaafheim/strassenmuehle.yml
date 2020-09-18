@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.920379700000005
 longitude: 8.9669887
-postcode: 64850
+postcode: "64850"
 city: Schaafheim
 street: ""
 housenumber: 

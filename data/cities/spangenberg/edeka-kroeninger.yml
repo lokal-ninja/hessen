@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1158465
 longitude: 9.6622096
-postcode: 34286
+postcode: "34286"
 city: Spangenberg
 street: "Lochmühle"
 housenumber: 3

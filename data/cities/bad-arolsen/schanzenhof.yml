@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.3952509
 longitude: 9.0018312
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Schanzenhof"
 housenumber: 1

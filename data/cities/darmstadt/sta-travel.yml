@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.870183000000004
 longitude: 8.6514051
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Wilhelminenstraße"
 housenumber: 25

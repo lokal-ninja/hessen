@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 50.413264000000005
 longitude: 9.0084706
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Mühlstraße"
 housenumber: 2

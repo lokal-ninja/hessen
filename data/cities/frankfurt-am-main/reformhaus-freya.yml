@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1506003
 longitude: 8.663741
-postcode: 60433
+postcode: "60433"
 city: Frankfurt am Main
 street: "Eschersheimer Landstraße"
 housenumber: 436

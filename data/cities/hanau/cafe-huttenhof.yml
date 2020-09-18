@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 50.106534100000005
 longitude: 8.9157133
-postcode: 63456
+postcode: "63456"
 city: Hanau
 street: "Hans-Sachs-Straße"
 housenumber: 3

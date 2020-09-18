@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.3008905
 longitude: 8.506623000000001
-postcode: 61267
+postcode: "61267"
 city: Neu-Anspach
 street: "Hans-Böckler-Straße"
 housenumber: 9

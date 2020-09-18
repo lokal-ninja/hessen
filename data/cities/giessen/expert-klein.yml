@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.5817599
 longitude: 8.6472642
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Gottlieb-Daimler-Straße"
 housenumber: 14

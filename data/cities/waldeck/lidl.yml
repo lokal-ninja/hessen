@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2414933
 longitude: 9.0125028
-postcode: 34513
+postcode: "34513"
 city: Waldeck
 street: "Wildunger Straße"
 housenumber: 30-32

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7243762
 longitude: 8.288557
-postcode: 35683
+postcode: "35683"
 city: Dillenburg
 street: "Rolfesstraße"
 housenumber: 3

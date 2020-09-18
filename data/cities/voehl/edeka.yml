@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.206659
 longitude: 8.939157100000001
-postcode: 34516
+postcode: "34516"
 city: Vöhl
 street: "Zum Steinberg"
 housenumber: 18

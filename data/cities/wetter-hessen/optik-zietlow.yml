@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.903181100000005
 longitude: 8.7239804
-postcode: 35083
+postcode: "35083"
 city: Wetter (Hessen)
 street: "Schulstraße"
 housenumber: 1

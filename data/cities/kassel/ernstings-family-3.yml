@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.320765800000004
 longitude: 9.5175368
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Franzgraben"
 housenumber: 40-42

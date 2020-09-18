@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.134686200000004
 longitude: 9.2755579
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Am Hospital"
 housenumber: 

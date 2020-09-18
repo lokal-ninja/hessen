@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0178382
 longitude: 8.6434061
-postcode: 35088
+postcode: "35088"
 city: Battenberg
 street: "Hauptstraße"
 housenumber: 42

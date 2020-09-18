@@ -1,12 +1,12 @@
-id: 206320695
+id: 38186141
 type: way
 shop: Supermarkt
-latitude: 51.273706000000004
-longitude: 9.442041000000001
-postcode: 34132
+latitude: 51.3056569
+longitude: 9.543569
+postcode: "34123"
 city: Kassel
-street: "Kronenackerstraße"
-housenumber: 2
-phone: "+49 561 4750750"
-opening_hours: "Mo-Fr 06:00-24:00, Sa 06:00-23:30"
+street: "Heiligenröder Straße"
+housenumber: 84-86
+phone: ""
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

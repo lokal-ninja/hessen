@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.0441936
 longitude: 8.4335723
-postcode: 65439
+postcode: "65439"
 city: Flörsheim am Main
 street: "Frankfurter Straße"
 housenumber: 11

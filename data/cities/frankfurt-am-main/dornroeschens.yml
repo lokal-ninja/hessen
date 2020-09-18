@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.1074582
 longitude: 8.61761
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Am Römerhof"
 housenumber: 2b

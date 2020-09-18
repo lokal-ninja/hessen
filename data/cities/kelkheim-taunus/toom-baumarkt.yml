@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.1197236
 longitude: 8.469012900000001
-postcode: 65779
+postcode: "65779"
 city: Kelkheim (Taunus)
 street: "Lise-Meitner-Straße"
 housenumber: 2

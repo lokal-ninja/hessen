@@ -3,9 +3,9 @@ type: way
 shop: Gasflaschen
 latitude: 49.674039400000005
 longitude: 8.5986743
-postcode: 64625
+postcode: "64625"
 city: Bensheim
-street: "Ampèrestraße"
+street: "AMPèrestraße"
 housenumber: 1b
 phone: "+49 6251 77066 0"
 opening_hours: "Mo-Fr 07:00-17:00;Sa 09:00-12:30"

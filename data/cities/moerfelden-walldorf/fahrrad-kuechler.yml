@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.9738112
 longitude: 8.564790200000001
-postcode: 64546
+postcode: "64546"
 city: Mörfelden-Walldorf
 street: "Westendstraße"
 housenumber: 36-38

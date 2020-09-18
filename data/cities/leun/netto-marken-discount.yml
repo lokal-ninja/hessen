@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.530686
 longitude: 8.3068297
-postcode: 35638
+postcode: "35638"
 city: Leun
 street: "Weilburger Straße"
 housenumber: 26
-phone: ""
+phone: "+49 800 2000015"
 opening_hours: ""
-website: ""
+website: "netto-online.de"

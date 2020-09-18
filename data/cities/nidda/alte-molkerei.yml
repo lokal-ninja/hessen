@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.463912500000006
 longitude: 9.0134907
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Mittelstraße"
 housenumber: 53

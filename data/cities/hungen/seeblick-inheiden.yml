@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.4551201
 longitude: 8.9072701
-postcode: 35410
+postcode: "35410"
 city: Hungen
 street: "Seegebiet"
 housenumber: P2

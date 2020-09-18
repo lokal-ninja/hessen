@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.3551732
 longitude: 9.461974000000001
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Lange Wender"
 housenumber: 7

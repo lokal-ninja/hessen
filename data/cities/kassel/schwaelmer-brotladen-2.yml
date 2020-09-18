@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.316894000000005
 longitude: 9.4979119
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Königsplatz"
 housenumber: 61

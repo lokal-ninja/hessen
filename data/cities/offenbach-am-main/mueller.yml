@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 50.103382
 longitude: 8.7606075
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Aliceplatz"
 housenumber: 11
-phone: ""
+phone: "+49 69 985593790"
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1935172
 longitude: 8.657653100000001
-postcode: 60437
+postcode: "60437"
 city: Frankfurt am Main
 street: "Berner Straße"
 housenumber: 40

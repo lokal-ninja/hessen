@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.6742463
 longitude: 9.555477900000001
-postcode: 36110
+postcode: "36110"
 city: Schlitz
 street: "Seebergstraße"
 housenumber: 1

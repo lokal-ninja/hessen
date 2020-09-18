@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5861669
 longitude: 8.478283000000001
-postcode: 35614
+postcode: "35614"
 city: Aßlar
 street: "Schulstraße"
 housenumber: 63

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 50.5625985
 longitude: 8.607608
-postcode: 35582
+postcode: "35582"
 city: Wetzlar
 street: "Industriestraße"
 housenumber: 3

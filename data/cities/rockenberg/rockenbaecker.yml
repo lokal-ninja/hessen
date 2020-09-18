@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.4289927
 longitude: 8.736133200000001
-postcode: 35519
+postcode: "35519"
 city: Rockenberg
 street: "Obergasse"
 housenumber: 7

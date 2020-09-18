@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.1954007
 longitude: 10.0337145
-postcode: 37269
+postcode: "37269"
 city: Eschwege
 street: "Thüringer Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.871534200000006
 longitude: 8.914413
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Georg-August-Zinn-Straße"
 housenumber: 100

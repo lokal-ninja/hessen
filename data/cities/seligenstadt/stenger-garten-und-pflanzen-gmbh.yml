@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.0311128
 longitude: 8.9503462
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Goldbergweg"
 housenumber: 1

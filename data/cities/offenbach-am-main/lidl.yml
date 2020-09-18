@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.0969363
 longitude: 8.7902421
-postcode: 63071
+postcode: "63071"
 city: Offenbach am Main
 street: "Bieberer Straße"
 housenumber: 225
 phone: "+49 800 4353361"
 opening_hours: ""
-website: "https://www.lidl.de/filialen/offenbach-main/offenbach-am-main-bieberer-str-225.html?utm_source=organic&utm_medium=standortdaten&utm_campaign=yext&utm_content=standortdaten_ron_yext"
+website: "https://www.lidl.de/filialen/offenbach-main/offenbach-am-main-bieberer-str-225.html"

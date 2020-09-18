@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.8978807
 longitude: 8.6153186
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "In der Krümme"
 housenumber: 3

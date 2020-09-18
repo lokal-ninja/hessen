@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.9770878
 longitude: 8.8276207
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Rathausstraße"
 housenumber: 4

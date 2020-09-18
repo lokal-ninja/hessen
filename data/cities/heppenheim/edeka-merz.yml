@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.645527400000006
 longitude: 8.632839200000001
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Kalterer Straße"
 housenumber: 21a

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.112471400000004
 longitude: 8.684022800000001
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Hasengasse"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.6451026
 longitude: 9.0344055
-postcode: 35325
+postcode: "35325"
 city: Mücke
 street: "Kirschgartener Straße"
 housenumber: 3

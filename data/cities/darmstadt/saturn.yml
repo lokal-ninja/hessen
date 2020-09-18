@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.870239500000004
 longitude: 8.6539522
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Ludwigsplatz"
 housenumber: 6

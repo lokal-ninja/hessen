@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.7311848
 longitude: 9.0007903
-postcode: 35315
+postcode: "35315"
 city: Homberg (Ohm)
 street: "Berliner Straße"
 housenumber: 2

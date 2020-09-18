@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.9699395
 longitude: 8.7958684
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Darmstädter Straße"
 housenumber: 34

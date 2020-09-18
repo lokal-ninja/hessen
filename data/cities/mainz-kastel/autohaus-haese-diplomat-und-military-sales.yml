@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.015681900000004
 longitude: 8.284724800000001
-postcode: 55252
+postcode: "55252"
 city: Mainz-Kastel
 street: "Boelckestraße"
 housenumber: 38

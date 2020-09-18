@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0842444
 longitude: 8.7989821
-postcode: 35066
+postcode: "35066"
 city: Frankenberg (Eder)
 street: "Sachsenberger Straße"
 housenumber: 24

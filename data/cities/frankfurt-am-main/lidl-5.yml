@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.095953400000006
 longitude: 8.5978972
-postcode: 65933
+postcode: "65933"
 city: Frankfurt am Main
 street: "Elektronstraße"
 housenumber: 62

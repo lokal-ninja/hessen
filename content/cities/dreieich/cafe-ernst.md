@@ -1,4 +1,4 @@
 ---
-title: "Cafe Ernst"
+title: "Café Ernst"
 url: /dreieich/cafe-ernst/
 ---

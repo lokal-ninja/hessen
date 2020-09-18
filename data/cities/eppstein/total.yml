@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.135362400000005
 longitude: 8.4002712
-postcode: 65817
+postcode: "65817"
 city: Eppstein
 street: "Lorsbacher Straße"
 housenumber: 14

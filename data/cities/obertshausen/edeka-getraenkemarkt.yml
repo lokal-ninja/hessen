@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.0656424
 longitude: 8.8410898
-postcode: 63179
+postcode: "63179"
 city: Obertshausen
 street: "Malteserstraße"
 housenumber: 1

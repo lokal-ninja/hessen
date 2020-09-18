@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 50.135421
 longitude: 8.511463000000001
-postcode: 65812
+postcode: "65812"
 city: Bad Soden am Taunus
 street: "Königsteiner Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.610961100000004
 longitude: 8.7024787
-postcode: 35396
+postcode: "35396"
 city: Gießen
 street: "Kiesweg"
 housenumber: 

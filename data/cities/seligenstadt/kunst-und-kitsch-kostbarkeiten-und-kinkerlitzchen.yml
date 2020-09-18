@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.0414436
 longitude: 8.979002000000001
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: ""
 housenumber: 

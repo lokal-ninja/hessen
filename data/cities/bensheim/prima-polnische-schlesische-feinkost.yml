@@ -1,12 +1,12 @@
-id: 6306124476
-type: node
+id: 129877352
+type: way
 shop: Lebensmittel
-latitude: 49.6803442
-longitude: 8.6206869
-postcode: 64625
+latitude: 49.683056
+longitude: 8.6201507
+postcode: "64625"
 city: Bensheim
-street: "Beauner Platz"
-housenumber: 1
+street: "Rodensteinstraße"
+housenumber: 7
 phone: "+49 6251 8693425"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00 Sa 09:00-16:00"
 website: "http://primalebensmittel.de/"

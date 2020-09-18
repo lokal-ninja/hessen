@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.758954
 longitude: 8.485014600000001
-postcode: 64579
+postcode: "64579"
 city: Gernsheim
 street: "Pfungstädter Straße"
 housenumber: 3

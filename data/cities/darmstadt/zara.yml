@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.8713324
 longitude: 8.652308600000001
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Schuchardstraße"
 housenumber: 16-18

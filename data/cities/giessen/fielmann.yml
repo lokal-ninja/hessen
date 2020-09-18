@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.583292300000004
 longitude: 8.6722398
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Seltersweg"
 housenumber: 61

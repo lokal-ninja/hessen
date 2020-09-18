@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.170504900000005
 longitude: 8.5812819
-postcode: 61449
+postcode: "61449"
 city: Steinbach (Taunus)
 street: "Industriestraße"
 housenumber: 1

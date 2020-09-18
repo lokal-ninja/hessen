@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.7440531
 longitude: 8.608931
-postcode: 64665
+postcode: "64665"
 city: Alsbach-Hähnlein
 street: "Neue Bergstraße"
 housenumber: 9A

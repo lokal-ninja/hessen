@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 49.8256748
 longitude: 8.833133
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Kirchstraße"
 housenumber: 10

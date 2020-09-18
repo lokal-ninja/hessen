@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.8670775
 longitude: 8.6651906
-postcode: 64287
+postcode: "64287"
 city: Darmstadt
 street: "Am Alten Friedhof"
 housenumber: 2

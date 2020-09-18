@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.8708917
 longitude: 8.659773600000001
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Soderstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 49.6996903
 longitude: 8.6109997
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Berliner Ring"
 housenumber: 139

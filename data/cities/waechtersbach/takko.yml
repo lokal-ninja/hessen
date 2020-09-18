@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.251005400000004
 longitude: 9.2908446
-postcode: 63607
+postcode: "63607"
 city: Wächtersbach
 street: "Main-Kinzig-Straße"
 housenumber: 32b

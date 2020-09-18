@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.8677201
 longitude: 9.7099718
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Breitenstraße"
 housenumber: 21-25

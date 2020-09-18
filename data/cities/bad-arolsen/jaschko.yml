@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 51.381365100000004
 longitude: 9.0139277
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Robert-Wetekam-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.36793410000001
 longitude: 9.3913203
-postcode: 34292
+postcode: "34292"
 city: Ahnatal
 street: "Oberstraße"
 housenumber: 8

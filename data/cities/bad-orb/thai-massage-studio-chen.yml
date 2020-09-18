@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.2293594
 longitude: 9.342764500000001
-postcode: 63619
+postcode: "63619"
 city: Bad Orb
 street: "Frankfurter Straße"
 housenumber: 19

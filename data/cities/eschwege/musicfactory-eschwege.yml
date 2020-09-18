@@ -3,7 +3,7 @@ type: way
 shop: Instrumente
 latitude: 51.194399600000004
 longitude: 10.0321707
-postcode: 37269
+postcode: "37269"
 city: Eschwege
 street: "Niederhoner Straße"
 housenumber: 58

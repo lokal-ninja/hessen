@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.524948200000004
 longitude: 8.412517900000001
-postcode: 35606
+postcode: "35606"
 city: Solms
 street: "Auf der Schanz"
 housenumber: 8

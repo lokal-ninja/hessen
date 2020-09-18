@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.314928
 longitude: 9.4364857
-postcode: 34131
+postcode: "34131"
 city: Kassel
 street: "Lange Straße"
 housenumber: 95

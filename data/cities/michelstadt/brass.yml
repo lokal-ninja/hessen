@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.684007
 longitude: 9.001327400000001
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Hulster Straße"
 housenumber: 3

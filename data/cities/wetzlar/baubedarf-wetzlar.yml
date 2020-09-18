@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.570261
 longitude: 8.5046996
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Gabelsbergerstraße"
 housenumber: 33

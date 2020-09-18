@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5991243
 longitude: 9.0752769
-postcode: 35325
+postcode: "35325"
 city: Mücke
 street: "Hessenstraße"
 housenumber: 15

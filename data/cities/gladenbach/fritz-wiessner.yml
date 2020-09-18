@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.767594
 longitude: 8.5826063
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Bornrainstraße"
 housenumber: 4

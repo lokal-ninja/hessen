@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7865637
 longitude: 8.4698563
-postcode: 64584
+postcode: "64584"
 city: Biebesheim
 street: "Stockstädter Straße"
 housenumber: 29

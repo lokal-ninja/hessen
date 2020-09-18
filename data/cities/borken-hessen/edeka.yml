@@ -1,12 +1,12 @@
-id: 326270315
-type: way
+id: 1066850245
+type: node
 shop: Supermarkt
-latitude: 51.0591987
-longitude: 9.321503100000001
-postcode: 34582
+latitude: 51.046931
+longitude: 9.2797284
+postcode: "34582"
 city: Borken (Hessen)
-street: "Main-Weser-Straße"
-housenumber: 18
-phone: ""
-opening_hours: ""
-website: ""
+street: "Bahnhofstraße"
+housenumber: 36
+phone: "+49 5682 2293"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://www.edeka.de/eh/hessenring/wirth-gmbh-bahnhofstr.-36/"

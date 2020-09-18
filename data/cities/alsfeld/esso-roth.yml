@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.741765400000006
 longitude: 9.253693100000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Grünberger Straße"
 housenumber: 109

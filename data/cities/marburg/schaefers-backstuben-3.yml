@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8405317
 longitude: 8.7693645
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Am Kaufmarkt"
 housenumber: 1

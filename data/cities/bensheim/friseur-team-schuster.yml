@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.680086700000004
 longitude: 8.610590100000001
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Guntherstraße"
 housenumber: 12

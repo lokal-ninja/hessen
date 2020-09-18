@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0823909
 longitude: 8.22481
-postcode: 65195
+postcode: "65195"
 city: Wiesbaden
 street: "Gneisenaustraße"
 housenumber: 24

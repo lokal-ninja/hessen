@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.4300707
 longitude: 9.6415279
-postcode: 36148
+postcode: "36148"
 city: Kalbach
 street: "Gewerbestraße"
 housenumber: 1

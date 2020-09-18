@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.550312000000005
 longitude: 9.6757334
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Robert-Kircher-Straße"
 housenumber: 5

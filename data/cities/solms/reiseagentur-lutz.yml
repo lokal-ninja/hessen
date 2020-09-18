@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 50.528128300000006
 longitude: 8.4104153
-postcode: 35606
+postcode: "35606"
 city: Solms
 street: "Braunfelser Straße"
 housenumber: 20b

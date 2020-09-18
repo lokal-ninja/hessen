@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.805643700000005
 longitude: 8.609386500000001
-postcode: 64319
+postcode: "64319"
 city: Pfungstadt
 street: "Eberstädter Straße"
 housenumber: 111

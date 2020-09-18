@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.4098088
 longitude: 9.1173676
-postcode: 34471
+postcode: "34471"
 city: Volkmarsen
 street: "Steinweg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.1130319
 longitude: 8.683359900000001
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Töngesgasse"
 housenumber: 23

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.1690917
 longitude: 8.304336300000001
-postcode: 65527
+postcode: "65527"
 city: Niedernhausen
 street: "An der Queckenmühle"
 housenumber: 2

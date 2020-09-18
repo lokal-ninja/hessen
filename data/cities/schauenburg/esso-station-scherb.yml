@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.2728545
 longitude: 9.3821311
-postcode: 34270
+postcode: "34270"
 city: Schauenburg
 street: "Korbacher Straße"
 housenumber: 7

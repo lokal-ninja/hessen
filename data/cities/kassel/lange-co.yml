@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.2920577
 longitude: 9.4754778
-postcode: 34134
+postcode: "34134"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 201a

@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 51.3294207
 longitude: 9.1769765
-postcode: 34466
+postcode: "34466"
 city: Wolfhagen
 street: "Ofenbergstraße"
 housenumber: 3

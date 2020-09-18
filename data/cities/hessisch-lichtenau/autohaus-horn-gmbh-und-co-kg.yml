@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.2003313
 longitude: 9.718158800000001
-postcode: 37235
+postcode: "37235"
 city: Hessisch Lichtenau
 street: "Mühlweg"
 housenumber: 25

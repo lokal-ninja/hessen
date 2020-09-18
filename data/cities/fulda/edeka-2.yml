@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5407626
 longitude: 9.6401229
-postcode: 36041
+postcode: "36041"
 city: Fulda
 street: "Paul-Klee-Straße"
 housenumber: 71

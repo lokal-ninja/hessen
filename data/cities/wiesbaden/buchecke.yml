@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.0446551
 longitude: 8.199162300000001
-postcode: 65201
+postcode: "65201"
 city: Wiesbaden
 street: "Reichsapfelstraße"
 housenumber: 1

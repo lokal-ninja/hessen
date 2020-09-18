@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.5917557
 longitude: 8.9601514
-postcode: 35305
+postcode: "35305"
 city: Grünberg
 street: "Marktgasse"
 housenumber: 4

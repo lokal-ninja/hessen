@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9243858
 longitude: 9.7605818
-postcode: 36251
+postcode: "36251"
 city: Ludwigsau
 street: "Amselweg"
 housenumber: 1

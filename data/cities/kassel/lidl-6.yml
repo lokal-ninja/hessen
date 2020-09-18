@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.323959
 longitude: 9.516363
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Ostring"
 housenumber: 62a

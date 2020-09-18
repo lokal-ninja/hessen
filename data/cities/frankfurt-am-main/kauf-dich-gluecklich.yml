@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.116001100000005
 longitude: 8.679458700000001
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "Große Eschenheimer Straße"
 housenumber: 39

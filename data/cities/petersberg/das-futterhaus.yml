@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.5524532
 longitude: 9.7220177
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Justus-Liebig-Straße"
 housenumber: 1

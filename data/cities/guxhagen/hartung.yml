@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.179691000000005
 longitude: 9.478802
-postcode: 34302
+postcode: "34302"
 city: Guxhagen
 street: "Zum Bruch"
 housenumber: 1

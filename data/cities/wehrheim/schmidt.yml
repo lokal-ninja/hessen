@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.329171300000006
 longitude: 8.606049500000001
-postcode: 61273
+postcode: "61273"
 city: Wehrheim
 street: "Nauheimer Straße"
 housenumber: 2

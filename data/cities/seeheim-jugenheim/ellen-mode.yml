@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.7673654
 longitude: 8.6467335
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Schulstraße"
 housenumber: 1

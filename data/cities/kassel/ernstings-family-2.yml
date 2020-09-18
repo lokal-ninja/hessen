@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.317511200000006
 longitude: 9.500172300000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Untere Königsstraße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.315212100000004
 longitude: 9.494987400000001
-postcode: 
+postcode: ""
 city: Kassel
 street: "Treppenstraße"
 housenumber: 2

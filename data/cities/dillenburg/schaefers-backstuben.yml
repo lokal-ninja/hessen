@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7665883
 longitude: 8.2880552
-postcode: 35683
+postcode: "35683"
 city: Dillenburg
 street: "Hirschwiese"
 housenumber: 3

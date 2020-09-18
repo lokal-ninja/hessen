@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.086623
 longitude: 8.646782400000001
-postcode: 60528
+postcode: "60528"
 city: Frankfurt am Main
 street: "Schwarzwaldstraße"
 housenumber: 23

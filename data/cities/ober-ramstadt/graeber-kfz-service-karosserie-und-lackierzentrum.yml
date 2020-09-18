@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.840376000000006
 longitude: 8.744836900000001
-postcode: 64372
+postcode: "64372"
 city: Ober-Ramstadt
 street: "Im Seesengrund"
 housenumber: 19

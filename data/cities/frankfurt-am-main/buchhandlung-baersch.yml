@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 50.101575800000006
 longitude: 8.5457699
-postcode: 65929
+postcode: "65929"
 city: Frankfurt am Main
 street: "Albanusstraße"
 housenumber: 29

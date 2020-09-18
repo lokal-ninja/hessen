@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 51.060100000000006
 longitude: 8.798418
-postcode: 35066
+postcode: "35066"
 city: Frankenberg (Eder)
 street: "Neustädter Straße"
 housenumber: 

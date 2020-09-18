@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.2772962
 longitude: 8.871921500000001
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Bahnhofstraße"
 housenumber: 9

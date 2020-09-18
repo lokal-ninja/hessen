@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.3192832
 longitude: 8.8607569
-postcode: 61197
+postcode: "61197"
 city: Florstadt
 street: "Messeplatz"
 housenumber: 8

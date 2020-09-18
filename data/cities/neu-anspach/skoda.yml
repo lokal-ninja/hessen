@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.3069829
 longitude: 8.5157966
-postcode: 61267
+postcode: "61267"
 city: Neu-Anspach
 street: "Robert-Bosch-Straße"
 housenumber: 24

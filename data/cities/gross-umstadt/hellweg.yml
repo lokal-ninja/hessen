@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.8701481
 longitude: 8.9168839
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Georg-August-Zinn-Straße"
 housenumber: 92

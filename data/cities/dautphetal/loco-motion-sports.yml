@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.8710152
 longitude: 8.5472556
-postcode: 35232
+postcode: "35232"
 city: Dautphetal
 street: "In Wolfgruben"
 housenumber: 29a

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.9100668
 longitude: 8.4962585
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Helvetiastraße"
 housenumber: 5

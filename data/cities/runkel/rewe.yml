@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.4060392
 longitude: 8.1528335
-postcode: 65594
+postcode: "65594"
 city: Runkel
 street: "Im Langgarten"
 housenumber: 10

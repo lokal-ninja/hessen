@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.146239
 longitude: 8.6820734
-postcode: 60435
+postcode: "60435"
 city: Frankfurt am Main
 street: "Eckenheimer Landstraße"
 housenumber: 425

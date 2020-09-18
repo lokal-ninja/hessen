@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.290096000000005
 longitude: 9.5152107
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Nürnberger Straße"
 housenumber: 161

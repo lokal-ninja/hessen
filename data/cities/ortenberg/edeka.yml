@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3543512
 longitude: 9.0511365
-postcode: 63683
+postcode: "63683"
 city: Ortenberg
 street: "In den St. Wendelsgärten"
 housenumber: 7

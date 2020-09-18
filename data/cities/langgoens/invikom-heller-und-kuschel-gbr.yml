@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.496686100000005
 longitude: 8.657671200000001
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Friedhofsweg"
 housenumber: 2

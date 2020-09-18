@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.098594500000004
 longitude: 8.5674285
-postcode: 65934
+postcode: "65934"
 city: Frankfurt am Main
 street: "Mainzer Landstraße"
 housenumber: 786-798

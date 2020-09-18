@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6924201
 longitude: 9.0023845
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Walther-Rathenau-Allee"
 housenumber: 24

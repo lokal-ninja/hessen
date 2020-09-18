@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.1037989
 longitude: 8.919224700000001
-postcode: 63456
+postcode: "63456"
 city: Hanau
 street: "Geleitstraße"
 housenumber: 66a

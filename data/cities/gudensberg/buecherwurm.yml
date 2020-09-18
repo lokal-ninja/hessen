@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.1782715
 longitude: 9.3660043
-postcode: 34281
+postcode: "34281"
 city: Gudensberg
 street: "Marktplatz"
 housenumber: 3

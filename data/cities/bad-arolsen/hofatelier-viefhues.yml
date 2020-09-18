@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.3798302
 longitude: 9.0199578
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Schloßstraße"
 housenumber: 22

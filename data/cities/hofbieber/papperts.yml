@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5859394
 longitude: 9.8365364
-postcode: 36145
+postcode: "36145"
 city: Hofbieber
 street: "Schulweg"
 housenumber: 2

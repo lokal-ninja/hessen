@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.0844128
 longitude: 8.281590900000001
-postcode: 65191
+postcode: "65191"
 city: Wiesbaden-Bierstadt
 street: "Limesstraße"
 housenumber: 14

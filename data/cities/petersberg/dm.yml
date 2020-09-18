@@ -3,10 +3,10 @@ type: way
 shop: Drogerie
 latitude: 50.5549891
 longitude: 9.7133366
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Alte Ziegelei"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

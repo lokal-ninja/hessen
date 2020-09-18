@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.5527494
 longitude: 9.6804264
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Bahnhofstraße"
 housenumber: 4

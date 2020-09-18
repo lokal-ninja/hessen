@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.0799414
 longitude: 9.546791200000001
-postcode: 34323
+postcode: "34323"
 city: Malsfeld
 street: "Mühlenstraße"
 housenumber: 2

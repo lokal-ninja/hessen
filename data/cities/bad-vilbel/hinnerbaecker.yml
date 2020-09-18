@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.183267
 longitude: 8.7441533
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Marktplatz"
 housenumber: 4-6

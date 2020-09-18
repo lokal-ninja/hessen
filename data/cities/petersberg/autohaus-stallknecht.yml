@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5575643
 longitude: 9.7268354
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Kreuzgrundweg"
 housenumber: 14

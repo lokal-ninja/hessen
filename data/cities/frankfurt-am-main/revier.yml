@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.118511000000005
 longitude: 8.685752
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "Petersstraße"
 housenumber: 2

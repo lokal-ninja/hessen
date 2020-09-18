@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.144853700000006
 longitude: 8.7488498
-postcode: 60388
+postcode: "60388"
 city: Frankfurt am Main
 street: "Victor-Slotosch-Straße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.19345980000001
 longitude: 8.0863111
-postcode: 65329
+postcode: "65329"
 city: Hohenstein
 street: "An der Altwiese"
 housenumber: 6

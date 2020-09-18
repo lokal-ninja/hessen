@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.2057014
 longitude: 9.0619294
-postcode: 34513
+postcode: "34513"
 city: Waldeck
 street: "Marktplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.87178
 longitude: 8.5459619
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Zusestraße"
 housenumber: 2

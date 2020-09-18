@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.112331000000005
 longitude: 8.6779747
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Roßmarkt"
 housenumber: 13

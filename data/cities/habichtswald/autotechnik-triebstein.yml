@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.3411242
 longitude: 9.3410063
-postcode: 34317
+postcode: "34317"
 city: Habichtswald
 street: "Wolfhager Straße"
 housenumber: 53-55

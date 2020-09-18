@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7504933
 longitude: 9.270732800000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Mainzer Gasse"
 housenumber: 4

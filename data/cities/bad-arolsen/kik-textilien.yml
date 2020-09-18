@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.3795408
 longitude: 9.017042400000001
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Rathausstraße"
 housenumber: 1

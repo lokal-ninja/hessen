@@ -1,12 +1,12 @@
 id: 6328969289
 type: node
 shop: Wein
-latitude: 50.3649622
-longitude: 8.752338100000001
-postcode: 61231
+latitude: 50.3649793
+longitude: 8.7523301
+postcode: "61231"
 city: Bad Nauheim
 street: "Dieselstraße"
-housenumber: 18
+housenumber: 18a
 phone: ""
 opening_hours: "We-Sa 11:00-19:00"
 website: ""

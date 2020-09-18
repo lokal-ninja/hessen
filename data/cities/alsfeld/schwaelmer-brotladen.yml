@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7517009
 longitude: 9.278844900000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Schellengasse"
 housenumber: 41

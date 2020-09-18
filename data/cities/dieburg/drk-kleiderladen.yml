@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.898436700000005
 longitude: 8.8394604
-postcode: 64807
+postcode: "64807"
 city: Dieburg
 street: "Steinstraße"
 housenumber: 4

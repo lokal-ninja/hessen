@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1234994
 longitude: 8.6443443
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Juliusstraße"
 housenumber: 5

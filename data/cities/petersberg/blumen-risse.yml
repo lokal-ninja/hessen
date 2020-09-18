@@ -3,10 +3,10 @@ type: way
 shop: Garten-Center
 latitude: 50.5544024
 longitude: 9.7151625
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Alte Ziegelei"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
 website: ""

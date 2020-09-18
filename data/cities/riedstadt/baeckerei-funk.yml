@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8369355
 longitude: 8.464773300000001
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Wilhelm-Leuschner-Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.851989
 longitude: 8.489978200000001
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Marie-Curie-Straße"
 housenumber: 4

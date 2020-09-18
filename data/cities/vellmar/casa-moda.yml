@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3548485
 longitude: 9.4627564
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Lange Wender"
 housenumber: 7

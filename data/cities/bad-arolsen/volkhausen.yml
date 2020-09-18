@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.380591200000005
 longitude: 9.0069467
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Teichstraße"
 housenumber: 1

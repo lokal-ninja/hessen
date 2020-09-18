@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 49.86525150000001
 longitude: 8.5621347
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Friedhofsweg"
 housenumber: 9

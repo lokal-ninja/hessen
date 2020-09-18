@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.84705640000001
 longitude: 9.0982471
-postcode: 35279
+postcode: "35279"
 city: Neustadt (Hessen)
 street: "Am Kaufpark"
 housenumber: 1-4

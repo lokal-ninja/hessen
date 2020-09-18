@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.5693009
 longitude: 8.6709677
-postcode: 35392
+postcode: "35392"
 city: Gießen
 street: "Wartweg"
 housenumber: 61

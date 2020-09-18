@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0745227
 longitude: 8.2129324
-postcode: 65197
+postcode: "65197"
 city: Wiesbaden
 street: "Im Rad"
 housenumber: 38

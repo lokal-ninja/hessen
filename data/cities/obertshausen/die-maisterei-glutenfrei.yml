@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0789175
 longitude: 8.872810000000001
-postcode: 63179
+postcode: "63179"
 city: Obertshausen
 street: "Bürgermeister-Mahr-Straße"
 housenumber: 4-6

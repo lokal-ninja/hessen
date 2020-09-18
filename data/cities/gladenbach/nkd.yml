@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.76944030000001
 longitude: 8.5851691
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Adolf-Theis-Straße"
 housenumber: 4-6

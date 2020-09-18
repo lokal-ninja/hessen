@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.166975
 longitude: 9.0863172
-postcode: 34549
+postcode: "34549"
 city: Edertal
 street: "Brückenstraße"
 housenumber: 1

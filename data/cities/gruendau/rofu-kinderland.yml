@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.203793600000004
 longitude: 9.132261600000001
-postcode: 63584
+postcode: "63584"
 city: Gründau
 street: "Zum Eckhardsgraben"
 housenumber: 10

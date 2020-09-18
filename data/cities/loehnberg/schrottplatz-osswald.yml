@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.516404800000004
 longitude: 8.2667838
-postcode: 35792
+postcode: "35792"
 city: Löhnberg
 street: "Grüner Weg"
 housenumber: 

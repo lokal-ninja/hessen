@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.6847201
 longitude: 8.7802595
-postcode: 64678
+postcode: "64678"
 city: Lindenfels
 street: "Nibelungenstraße"
 housenumber: 71

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1281575
 longitude: 8.6271422
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Königsberger Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.993029400000005
 longitude: 8.6522349
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Mörfelder Landstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.4705912
 longitude: 8.9515346
-postcode: 35410
+postcode: "35410"
 city: Hungen
 street: "Hiesbach"
 housenumber: 2

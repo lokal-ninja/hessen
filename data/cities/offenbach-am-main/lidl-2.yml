@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.087461000000005
 longitude: 8.7466504
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Merianstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.16268650000001
 longitude: 8.6627165
-postcode: 60433
+postcode: "60433"
 city: Frankfurt am Main
 street: "Im Geeren"
 housenumber: 90

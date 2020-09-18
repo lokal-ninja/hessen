@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.681839800000006
 longitude: 8.6072854
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Schwanheimer Straße"
 housenumber: 91

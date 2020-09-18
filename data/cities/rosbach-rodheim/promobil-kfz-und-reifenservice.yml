@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.269637700000004
 longitude: 8.6926903
-postcode: 61191
+postcode: "61191"
 city: Rosbach-Rodheim
 street: "Mainzer Straße"
 housenumber: 19

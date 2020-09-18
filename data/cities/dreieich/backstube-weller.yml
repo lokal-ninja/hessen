@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0309668
 longitude: 8.6985303
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Dieselstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 49.8133355
 longitude: 8.6174886
-postcode: 64319
+postcode: "64319"
 city: Pfungstadt
 street: "Ostendstraße"
 housenumber: 1

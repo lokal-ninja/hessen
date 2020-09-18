@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.0923485
 longitude: 8.460331
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Nordring"
 housenumber: 14

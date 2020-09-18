@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1355665
 longitude: 8.9160812
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Bangertstraße"
 housenumber: 

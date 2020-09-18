@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.119179100000004
 longitude: 8.5260317
-postcode: 65843
+postcode: "65843"
 city: Sulzbach (Taunus)
 street: "Am Main-Taunus-Zentrum"
 housenumber: 

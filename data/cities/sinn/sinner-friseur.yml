@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.657367300000004
 longitude: 8.325897000000001
-postcode: 35764
+postcode: "35764"
 city: Sinn
 street: "Herborner Straße"
 housenumber: 7-9

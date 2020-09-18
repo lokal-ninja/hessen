@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 51.322068200000004
 longitude: 9.5122511
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Ysenburgstraße"
 housenumber: 35

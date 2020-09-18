@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6447711
 longitude: 8.5663338
-postcode: 64653
+postcode: "64653"
 city: Lorsch
 street: "Hirschstraße"
 housenumber: 85

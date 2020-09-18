@@ -3,10 +3,10 @@ type: node
 shop: Computer
 latitude: 51.1778029
 longitude: 9.369080100000001
-postcode: 34281
+postcode: "34281"
 city: Gudensberg
 street: "Untergasse"
 housenumber: 25
-phone: ""
+phone: "+49 5603 917730"
 opening_hours: ""
-website: ""
+website: "https://www.comfm.de/"

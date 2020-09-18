@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.289688000000005
 longitude: 8.5090733
-postcode: 61267
+postcode: "61267"
 city: Neu-Anspach
 street: "Saalburgstraße"
 housenumber: 6

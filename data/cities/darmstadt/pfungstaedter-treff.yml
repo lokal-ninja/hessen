@@ -1,12 +1,12 @@
-id: 266181485
-type: node
+id: 251434560
+type: way
 shop: Kiosk
-latitude: 49.8616024
-longitude: 8.667321600000001
-postcode: 64285
+latitude: 49.8616339
+longitude: 8.6673563
+postcode: "64285"
 city: Darmstadt
 street: "Nieder-Ramstädter Straße"
-housenumber: 
+housenumber: 173
 phone: ""
-opening_hours: "Mo-Fr 8:00-12:00"
+opening_hours: ""
 website: ""

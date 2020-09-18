@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.671894300000005
 longitude: 8.546516800000001
-postcode: 64683
+postcode: "64683"
 city: Einhausen
 street: "Mathildenstraße"
 housenumber: 11

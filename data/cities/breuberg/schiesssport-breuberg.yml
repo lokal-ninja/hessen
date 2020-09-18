@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 49.822082300000005
 longitude: 9.047550900000001
-postcode: 64747
+postcode: "64747"
 city: Breuberg
 street: "Rosenbach"
 housenumber: 11

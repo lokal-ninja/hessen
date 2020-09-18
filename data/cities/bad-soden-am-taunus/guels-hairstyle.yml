@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.143534700000004
 longitude: 8.5019808
-postcode: 65812
+postcode: "65812"
 city: Bad Soden am Taunus
 street: "Königsteiner Straße"
 housenumber: 61

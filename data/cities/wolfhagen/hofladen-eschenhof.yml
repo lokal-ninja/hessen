@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.3431216
 longitude: 9.223395100000001
-postcode: 34466
+postcode: "34466"
 city: Wolfhagen
 street: "Bärenbergstraße"
 housenumber: 1

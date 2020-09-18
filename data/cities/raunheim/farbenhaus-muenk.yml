@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 50.0108613
 longitude: 8.4560344
-postcode: 65479
+postcode: "65479"
 city: Raunheim
 street: "Karlstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7167163
 longitude: 9.9000015
-postcode: 36169
+postcode: "36169"
 city: Rasdorf
 street: "Landstraße"
 housenumber: 13

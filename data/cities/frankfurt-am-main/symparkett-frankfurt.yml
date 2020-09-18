@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 50.1416897
 longitude: 8.7494674
-postcode: 60388
+postcode: "60388"
 city: Frankfurt am Main
 street: "Borsigallee"
 housenumber: 45

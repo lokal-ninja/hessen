@@ -3,7 +3,7 @@ type: way
 shop: Elektrisch
 latitude: 49.9860799
 longitude: 8.4161104
-postcode: 65428
+postcode: "65428"
 city: Rüsselsheim am Main
 street: "Hans-Sachs-Straße"
 housenumber: 19

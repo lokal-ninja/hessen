@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0334367
 longitude: 9.397769
-postcode: 34576
+postcode: "34576"
 city: Homberg (Efze)
 street: "Stellbergsweg"
 housenumber: 5

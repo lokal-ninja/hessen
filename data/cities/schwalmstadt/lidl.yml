@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.912496700000005
 longitude: 9.2468077
-postcode: 34613
+postcode: "34613"
 city: Schwalmstadt
 street: "Wiederholdstraße"
 housenumber: 42

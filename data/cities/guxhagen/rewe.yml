@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.211930100000004
 longitude: 9.486522800000001
-postcode: 34302
+postcode: "34302"
 city: Guxhagen
 street: "Dörnhagener Straße"
 housenumber: 55

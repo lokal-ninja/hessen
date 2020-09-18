@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.997111700000005
 longitude: 8.322039400000001
-postcode: 65462
+postcode: "65462"
 city: Ginsheim-Gustavsburg
 street: "Darmstädter Landstraße"
 housenumber: 66 - 70

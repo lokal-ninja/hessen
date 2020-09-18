@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.5179672
 longitude: 8.390999200000001
-postcode: 35619
+postcode: "35619"
 city: Braunfels
 street: "Wintersburgstraße"
 housenumber: 1

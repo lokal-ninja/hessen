@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 50.0440216
 longitude: 8.4332732
-postcode: 65439
+postcode: "65439"
 city: Flörsheim am Main
 street: "Frankfurter Straße"
 housenumber: 9

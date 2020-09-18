@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.623390900000004
 longitude: 9.5054382
-postcode: 36364
+postcode: "36364"
 city: Bad Salzschlirf
 street: "Lindenstraße"
 housenumber: 21

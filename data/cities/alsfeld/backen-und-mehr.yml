@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.751688400000006
 longitude: 9.2675623
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Alicestraße"
 housenumber: 16

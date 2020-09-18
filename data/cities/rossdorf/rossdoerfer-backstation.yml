@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 49.8581713
 longitude: 8.752150700000001
-postcode: 64380
+postcode: "64380"
 city: Roßdorf
 street: "Wingertstraße"
 housenumber: 4
 phone: "+49 6154 81598"
-opening_hours: "Mo-Fr 06:00-10:30; Sa 06:30-11:00; Su 08:00-11:00"
+opening_hours: "Sa 06:30-11:00; Su 08:00-11:00; PH anfragen"
 website: "https://www.backstation-korndoerfer.de/"

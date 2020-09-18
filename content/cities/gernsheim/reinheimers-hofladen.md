@@ -1,4 +1,4 @@
 ---
-title: "Reinheimers Hofladen"
+title: "Reinheimer's Hofladen"
 url: /gernsheim/reinheimers-hofladen/
 ---

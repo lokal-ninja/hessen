@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.0588393
 longitude: 8.8041851
-postcode: 63150
+postcode: "63150"
 city: Heusenstamm
 street: "Frankfurter Straße"
 housenumber: 50

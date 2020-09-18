@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 49.9934163
 longitude: 8.414290000000001
-postcode: 65428
+postcode: "65428"
 city: Rüsselsheim am Main
 street: "Bahnhofstraße"
 housenumber: 24

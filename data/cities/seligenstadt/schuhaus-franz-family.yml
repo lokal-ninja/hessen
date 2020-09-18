@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.043666400000006
 longitude: 8.975520300000001
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: ""
 housenumber: 

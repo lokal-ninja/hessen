@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.32829460000001
 longitude: 8.5255107
-postcode: 61250
+postcode: "61250"
 city: Usingen
 street: "Achtzehnmorgenweg"
 housenumber: 5

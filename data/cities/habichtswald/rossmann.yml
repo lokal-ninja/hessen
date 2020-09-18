@@ -3,10 +3,10 @@ type: node
 shop: Drogerie
 latitude: 51.3287892
 longitude: 9.316880600000001
-postcode: 34317
+postcode: "34317"
 city: Habichtswald
 street: "Kasseler Straße"
 housenumber: 34
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
 website: ""

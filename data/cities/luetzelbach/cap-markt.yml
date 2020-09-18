@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.787793300000004
 longitude: 9.077286
-postcode: 64750
+postcode: "64750"
 city: Lützelbach
 street: "Mainstraße"
 housenumber: 6

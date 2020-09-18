@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.521023500000005
 longitude: 8.7008978
-postcode: 35415
+postcode: "35415"
 city: Pohlheim
 street: ""
 housenumber: 

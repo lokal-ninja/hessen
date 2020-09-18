@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3144332
 longitude: 9.5403638
-postcode: 34266
+postcode: "34266"
 city: Niestetal
 street: "Hannoversche Straße"
 housenumber: 8

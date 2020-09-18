@@ -3,10 +3,10 @@ type: node
 shop: Getränke
 latitude: 51.445716000000004
 longitude: 9.4189156
-postcode: 34393
+postcode: "34393"
 city: Grebenstein
 street: "Udenhäuser Straße"
 housenumber: 26
 phone: "+49 5674 1089"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"
-website: ""
+opening_hours: "Mo off; Tu-Th 15:00-18:00; Fr 09:00-12:00, 15:00-18:00; Sa 09:00-12:00; Su off"
+website: "http://bierverlag-kramm.de/"

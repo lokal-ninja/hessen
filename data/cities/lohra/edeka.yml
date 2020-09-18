@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.743100000000005
 longitude: 8.6201045
-postcode: 35102
+postcode: "35102"
 city: Lohra
 street: "Konrad-Gaul-Straße"
 housenumber: 2

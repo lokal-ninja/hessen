@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.6744196
 longitude: 8.9985655
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Industriestraße"
 housenumber: 17

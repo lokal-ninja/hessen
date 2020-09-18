@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.0482748
 longitude: 9.6639873
-postcode: 36211
+postcode: "36211"
 city: Alheim
 street: "Nürnberger Straße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.40051630000001
 longitude: 9.4709482
-postcode: 34314
+postcode: "34314"
 city: Espenau
 street: "Neues Dörfchen"
 housenumber: 

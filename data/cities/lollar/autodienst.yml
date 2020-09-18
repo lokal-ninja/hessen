@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.6409596
 longitude: 8.704231700000001
-postcode: 35457
+postcode: "35457"
 city: Lollar
 street: "Gießener Straße"
 housenumber: 93

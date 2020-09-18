@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6533505
 longitude: 8.7857229
-postcode: 64658
+postcode: "64658"
 city: Fürth
 street: "Erbacher Straße"
 housenumber: 46

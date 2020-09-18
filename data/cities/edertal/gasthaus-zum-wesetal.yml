@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.142300000000006
 longitude: 9.063600000000001
-postcode: 34549
+postcode: "34549"
 city: Edertal
 street: "Wesetalstraße"
 housenumber: 8

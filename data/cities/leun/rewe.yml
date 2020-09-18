@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.542624700000005
 longitude: 8.3670497
-postcode: 35638
+postcode: "35638"
 city: Leun
 street: "Röntgenweg"
 housenumber: 1-3

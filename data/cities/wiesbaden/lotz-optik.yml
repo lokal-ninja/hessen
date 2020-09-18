@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.0451112
 longitude: 8.240883100000001
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: "Straße der Republik"
 housenumber: 12

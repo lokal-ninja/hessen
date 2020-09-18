@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.837689600000004
 longitude: 8.9019715
-postcode: 64853
+postcode: "64853"
 city: Otzberg
 street: "Habitzheimer Straße"
 housenumber: 7

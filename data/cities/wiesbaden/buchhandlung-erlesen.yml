@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.0730609
 longitude: 8.231990900000001
-postcode: 65187
+postcode: "65187"
 city: Wiesbaden
 street: "Niederwaldstraße"
 housenumber: 3

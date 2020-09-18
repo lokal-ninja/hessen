@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.0392188
 longitude: 8.947197000000001
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Im Griesgrund"
 housenumber: 1

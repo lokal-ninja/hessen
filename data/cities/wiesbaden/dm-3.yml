@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.087963900000005
 longitude: 8.2893902
-postcode: 65191
+postcode: "65191"
 city: Wiesbaden
 street: "Rostocker Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Massage
 latitude: 50.255999700000004
 longitude: 8.361170300000001
-postcode: 65529
+postcode: "65529"
 city: Waldems
 street: "Am Wäldchen"
 housenumber: 5

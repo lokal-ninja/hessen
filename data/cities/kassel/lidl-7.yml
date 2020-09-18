@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.339307000000005
 longitude: 9.4915835
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Bunsenstraße"
 housenumber: 105

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.852151500000005
 longitude: 8.5552208
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Oberndorfer Straße"
 housenumber: 109

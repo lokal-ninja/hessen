@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.026813100000005
 longitude: 9.0227617
-postcode: 63533
+postcode: "63533"
 city: Mainhausen
 street: "Zellhäuser Straße"
 housenumber: 23

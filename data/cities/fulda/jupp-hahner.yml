@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.5506656
 longitude: 9.6754177
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Gemüsemarkt"
 housenumber: 9

@@ -1,12 +1,12 @@
-id: 2638942696
-type: node
+id: 205406858
+type: way
 shop: Supermarkt
-latitude: 49.952566000000004
-longitude: 8.951476600000001
-postcode: 64832
+latitude: 49.9527383
+longitude: 8.951065
+postcode: "64832"
 city: Babenhausen
 street: "Hinter der Altdörfer Kirche"
 housenumber: 36
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

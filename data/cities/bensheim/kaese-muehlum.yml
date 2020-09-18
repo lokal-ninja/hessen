@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 49.679573500000004
 longitude: 8.6209266
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Gerbergasse"
 housenumber: 7

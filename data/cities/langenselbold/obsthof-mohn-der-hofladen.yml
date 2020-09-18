@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 50.192650400000005
 longitude: 9.0537439
-postcode: 63505
+postcode: "63505"
 city: Langenselbold
 street: "Am Mühlenberg"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.411678900000005
 longitude: 9.4066927
-postcode: 34379
+postcode: "34379"
 city: Calden
 street: "Oberweg"
 housenumber: 27

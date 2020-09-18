@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.201099400000004
 longitude: 8.6747254
-postcode: 60437
+postcode: "60437"
 city: Frankfurt am Main
 street: "Alt-Niedereschbach"
 housenumber: 5

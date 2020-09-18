@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.4091468
 longitude: 9.4063473
-postcode: 34379
+postcode: "34379"
 city: Calden
 street: "Holländische Straße"
 housenumber: 34

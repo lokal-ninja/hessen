@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.8892432
 longitude: 8.6403098
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
 street: "Otto-Röhm-Straße"
 housenumber: 76

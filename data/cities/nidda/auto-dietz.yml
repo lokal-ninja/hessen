@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.464657100000004
 longitude: 9.009810400000001
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Hinterstraße"
 housenumber: 29

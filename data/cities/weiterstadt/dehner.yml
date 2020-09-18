@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 49.8995496
 longitude: 8.5943837
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Max-Planck-Straße"
 housenumber: 4

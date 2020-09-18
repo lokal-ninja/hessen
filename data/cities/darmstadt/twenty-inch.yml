@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.870687700000005
 longitude: 8.656060700000001
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Schulstraße"
 housenumber: 14

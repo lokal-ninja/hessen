@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.8671808
 longitude: 8.9270429
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Hintergasse"
 housenumber: 2

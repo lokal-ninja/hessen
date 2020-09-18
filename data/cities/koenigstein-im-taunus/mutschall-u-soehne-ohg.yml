@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.1820219
 longitude: 8.467902200000001
-postcode: 61462
+postcode: "61462"
 city: Königstein im Taunus
 street: "Wiesbadener Straße"
 housenumber: 2

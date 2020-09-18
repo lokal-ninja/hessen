@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 51.3135953
 longitude: 9.440406000000001
-postcode: 34131
+postcode: "34131"
 city: Kassel
 street: "Wilhelmshöher Allee"
 housenumber: 281

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.810113300000005
 longitude: 8.5873981
-postcode: 64319
+postcode: "64319"
 city: Pfungstadt
 street: "Mainstraße"
 housenumber: 130

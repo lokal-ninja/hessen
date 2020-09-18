@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.947806
 longitude: 9.860923000000001
-postcode: 36217
+postcode: "36217"
 city: Ronshausen
 street: "Eisenacher Straße"
 housenumber: 12A

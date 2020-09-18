@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 51.412775
 longitude: 9.1148302
-postcode: 34471
+postcode: "34471"
 city: Volkmarsen
 street: "Steinweg"
 housenumber: 31

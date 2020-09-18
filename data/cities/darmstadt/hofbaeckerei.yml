@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.872838300000005
 longitude: 8.6830306
-postcode: 64287
+postcode: "64287"
 city: Darmstadt
 street: "Erbacher Straße"
 housenumber: 125

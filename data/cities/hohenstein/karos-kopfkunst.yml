@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1892055
 longitude: 8.122230100000001
-postcode: 65329
+postcode: "65329"
 city: Hohenstein
 street: "Heimannstraße"
 housenumber: 11

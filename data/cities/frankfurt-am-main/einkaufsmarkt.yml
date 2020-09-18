@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.1441664
 longitude: 8.6073999
-postcode: 60488
+postcode: "60488"
 city: Frankfurt am Main
 street: "Ludwig-Landmann-Straße"
 housenumber: 18

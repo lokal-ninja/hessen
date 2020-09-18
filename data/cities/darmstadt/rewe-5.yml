@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.85236990000001
 longitude: 8.644446400000001
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Rüdesheimer Straße"
 housenumber: 123c

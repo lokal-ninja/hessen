@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.7500574
 longitude: 9.2710311
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Roßmarkt"
 housenumber: 3

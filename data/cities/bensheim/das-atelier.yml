@@ -3,7 +3,7 @@ type: way
 shop: Rahmen
 latitude: 49.680003400000004
 longitude: 8.6226433
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Hauptstraße"
 housenumber: 58

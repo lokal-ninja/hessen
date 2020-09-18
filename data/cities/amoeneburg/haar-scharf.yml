@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.7630561
 longitude: 8.8966144
-postcode: 35287
+postcode: "35287"
 city: Amöneburg
 street: "Rosenweg"
 housenumber: 3

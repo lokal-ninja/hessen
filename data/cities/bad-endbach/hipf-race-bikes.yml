@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 50.753251000000006
 longitude: 8.4978175
-postcode: 35080
+postcode: "35080"
 city: Bad Endbach
 street: "Landstraße"
 housenumber: 46

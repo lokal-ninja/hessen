@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.137326200000004
 longitude: 8.6711729
-postcode: 60320
+postcode: "60320"
 city: Frankfurt am Main
 street: "Eschersheimer Landstraße"
 housenumber: 230

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.1267264
 longitude: 8.7087246
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Berger Straße"
 housenumber: 222

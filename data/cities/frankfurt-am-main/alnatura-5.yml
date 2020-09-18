@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1112065
 longitude: 8.7094407
-postcode: 60314
+postcode: "60314"
 city: Frankfurt am Main
 street: "Hanauer Landstraße"
 housenumber: 110

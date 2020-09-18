@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.667569
 longitude: 9.7626039
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Fuldaer Straße"
 housenumber: 25

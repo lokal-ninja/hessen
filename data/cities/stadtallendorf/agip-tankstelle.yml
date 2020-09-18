@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.828805800000005
 longitude: 9.0162773
-postcode: 35260
+postcode: "35260"
 city: Stadtallendorf
 street: "Am Lohpfad"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.144176300000005
 longitude: 8.5669667
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Oberortstraße"
 housenumber: 16

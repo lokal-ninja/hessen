@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 49.685253200000005
 longitude: 8.991241200000001
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Darmstädter Straße"
 housenumber: 68

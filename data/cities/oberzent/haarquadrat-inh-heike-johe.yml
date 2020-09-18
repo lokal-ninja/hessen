@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.5621176
 longitude: 8.9718778
-postcode: 64760
+postcode: "64760"
 city: Oberzent
 street: "Lindenallee"
 housenumber: 19

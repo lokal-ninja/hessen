@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.38211080000001
 longitude: 9.0120099
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Varnhagenstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9632305
 longitude: 8.6707087
-postcode: 63329
+postcode: "63329"
 city: Egelsbach
 street: "Im Geisbaum"
 housenumber: 19

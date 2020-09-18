@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 49.860866900000005
 longitude: 8.6468165
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Heidelberger Straße"
 housenumber: 63-65

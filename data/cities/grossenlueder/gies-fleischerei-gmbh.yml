@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.590485300000005
 longitude: 9.5401784
-postcode: 36137
+postcode: "36137"
 city: Großenlüder
 street: "Lauterbacher Straße"
 housenumber: 33

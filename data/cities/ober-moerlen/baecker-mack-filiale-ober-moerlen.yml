@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.3660555
 longitude: 8.6898316
-postcode: 61239
+postcode: "61239"
 city: Ober-Mörlen
 street: "Hasselhecker Straße"
 housenumber: 25
 phone: "+49 6002 992741"
-opening_hours: "Mo - Fr 07:00 - 20:00 Uhr Sa 07:00 - 18:00"
+opening_hours: "Mo-Fr 07:00-20:00,Sa 07:00-18:00;PH off"
 website: "http://www.mack24.de"

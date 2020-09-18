@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.860634000000005
 longitude: 8.563917
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Wilhelm-Leuschner-Straße"
 housenumber: 67

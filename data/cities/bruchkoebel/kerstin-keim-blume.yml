@@ -1,12 +1,12 @@
-id: 1696245931
-type: node
+id: 303613815
+type: way
 shop: Blumen
-latitude: 50.1794414
-longitude: 8.9254425
-postcode: 63486
+latitude: 50.1794451
+longitude: 8.9252883
+postcode: "63486"
 city: Bruchköbel
 street: "Hauptstraße"
 housenumber: 101
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-13:00; Tu-Fr 14:30-18:00"
 website: ""

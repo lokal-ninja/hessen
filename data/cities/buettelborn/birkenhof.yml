@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.896301300000005
 longitude: 8.5075087
-postcode: 64572
+postcode: "64572"
 city: Büttelborn
 street: "Dornheimer Weg"
 housenumber: 

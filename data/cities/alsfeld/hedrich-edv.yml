@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 50.753631000000006
 longitude: 9.2601552
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Marburger Straße"
 housenumber: 57

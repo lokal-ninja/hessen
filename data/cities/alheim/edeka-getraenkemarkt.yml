@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.0476869
 longitude: 9.6631215
-postcode: 36211
+postcode: "36211"
 city: Alheim
 street: "Nürnberger Straße"
 housenumber: 18

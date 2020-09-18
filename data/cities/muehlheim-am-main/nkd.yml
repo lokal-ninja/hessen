@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.125128000000004
 longitude: 8.8321935
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Bleichstraße"
 housenumber: 4-6

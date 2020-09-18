@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 50.1141719
 longitude: 8.679066
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "An der Hauptwache"
 housenumber: 11

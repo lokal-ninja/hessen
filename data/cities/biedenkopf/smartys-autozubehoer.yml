@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 50.898360600000004
 longitude: 8.543935600000001
-postcode: 35216
+postcode: "35216"
 city: Biedenkopf
 street: "Zur Wolfskaute"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.675026100000004
 longitude: 8.2803906
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Auf den Lüppen"
 housenumber: 1

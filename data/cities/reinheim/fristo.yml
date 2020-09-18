@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.836469900000004
 longitude: 8.833910000000001
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Darmstädter Straße"
 housenumber: 65 D

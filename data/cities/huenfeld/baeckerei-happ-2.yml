@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.671727800000006
 longitude: 9.768398000000001
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Josefstraße"
 housenumber: 16

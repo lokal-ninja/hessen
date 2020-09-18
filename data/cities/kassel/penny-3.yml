@@ -1,12 +1,12 @@
-id: 263974095
+id: 205769916
 type: way
 shop: Supermarkt
-latitude: 51.2898864
-longitude: 9.4716819
-postcode: 34134
+latitude: 51.333741700000004
+longitude: 9.4922679
+postcode: "34127"
 city: Kassel
-street: "Töpfenhofweg"
-housenumber: 4
+street: "Struthbachweg"
+housenumber: 22
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00"
+opening_hours: ""
 website: ""

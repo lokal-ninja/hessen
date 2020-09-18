@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8536415
 longitude: 8.4885514
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Bertha-von-Suttner-Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.592510600000004
 longitude: 8.731883400000001
-postcode: 69509
+postcode: "69509"
 city: Mörlenbach
 street: "Jahnstraße"
 housenumber: 10

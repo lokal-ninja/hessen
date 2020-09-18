@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.602998400000004
 longitude: 8.6895767
-postcode: 35396
+postcode: "35396"
 city: Gießen
 street: "Marburger Straße"
 housenumber: 183

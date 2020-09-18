@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.17894140000001
 longitude: 9.359429800000001
-postcode: 34281
+postcode: "34281"
 city: Gudensberg
 street: "Metzer Str."
 housenumber: 15

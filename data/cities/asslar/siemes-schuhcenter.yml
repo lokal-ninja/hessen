@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.584757100000004
 longitude: 8.4805229
-postcode: 35614
+postcode: "35614"
 city: Aßlar
 street: "Walbergraben"
 housenumber: 18

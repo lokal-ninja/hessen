@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6590147
 longitude: 9.7883528
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Hünfelder Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5508072
 longitude: 8.5009712
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "Solmserstraße"
 housenumber: 1

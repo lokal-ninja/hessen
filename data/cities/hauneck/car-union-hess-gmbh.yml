@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.849990600000005
 longitude: 9.7273575
-postcode: 36282
+postcode: "36282"
 city: Hauneck
 street: "Blaue Liede"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.353076
 longitude: 9.5316694
-postcode: 36381
+postcode: "36381"
 city: Schlüchtern
 street: "Gartenstraße"
 housenumber: 23a

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 50.2264275
 longitude: 8.7736839
-postcode: 61184
+postcode: "61184"
 city: Karben
 street: "Rathausstraße"
 housenumber: 30-36

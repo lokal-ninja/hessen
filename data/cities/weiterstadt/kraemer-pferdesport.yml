@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.890018500000004
 longitude: 8.607309200000001
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Am Dornbusch"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.683063600000004
 longitude: 8.9534956
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Am Wiesental"
 housenumber: 20

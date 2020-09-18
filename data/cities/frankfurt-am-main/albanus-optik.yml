@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 50.1019761
 longitude: 8.5490796
-postcode: 65929
+postcode: "65929"
 city: Frankfurt am Main
 street: "Emmerich-Josef-Straße"
 housenumber: 20

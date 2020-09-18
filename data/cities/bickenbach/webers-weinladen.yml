@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 49.753919700000004
 longitude: 8.6158398
-postcode: 64404
+postcode: "64404"
 city: Bickenbach
 street: "Darmstädter Straße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9908465
 longitude: 7.9773092000000005
-postcode: 65366
+postcode: "65366"
 city: Geisenheim
 street: "Industriestraße"
 housenumber: 8

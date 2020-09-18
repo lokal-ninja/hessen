@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 49.8493379
 longitude: 9.0735604
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Am Schlaggraben"
 housenumber: 28

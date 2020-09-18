@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 49.7473046
 longitude: 8.8764219
-postcode: 64395
+postcode: "64395"
 city: Brensbach
 street: "Mannheimer Landstraße"
 housenumber: 49

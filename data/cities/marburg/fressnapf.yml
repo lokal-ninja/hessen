@@ -3,10 +3,10 @@ type: way
 shop: Tiere
 latitude: 50.842161700000005
 longitude: 8.7682935
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Tom-Mutters-Straße"
 housenumber: 4
-phone: ""
+phone: "+49 6421 982003"
 opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: ""
+website: "https://www.fressnapf.de/stores/fressnapf-marburg/"

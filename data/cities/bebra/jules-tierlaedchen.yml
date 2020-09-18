@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.9702397
 longitude: 9.792841600000001
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Nürnberger Straße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.094084800000005
 longitude: 8.603536700000001
-postcode: 65933
+postcode: "65933"
 city: Frankfurt am Main
 street: "Autogenstraße"
 housenumber: 20

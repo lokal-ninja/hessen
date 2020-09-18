@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.9119479
 longitude: 8.5306399
-postcode: 35216
+postcode: "35216"
 city: Biedenkopf
 street: "Am Marktplatz"
 housenumber: 7

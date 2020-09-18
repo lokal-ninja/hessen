@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.972854500000004
 longitude: 8.8303442
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Dieburger Straße"
 housenumber: 85

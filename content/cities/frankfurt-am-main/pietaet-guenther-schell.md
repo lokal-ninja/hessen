@@ -1,4 +1,4 @@
 ---
-title: "Pietaet Guenther Schell"
+title: "Pietät Günther Schell"
 url: /frankfurt-am-main/pietaet-guenther-schell/
 ---

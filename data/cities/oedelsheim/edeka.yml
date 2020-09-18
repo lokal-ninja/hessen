@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.589741000000004
 longitude: 9.595527200000001
-postcode: 34399
+postcode: "34399"
 city: Oedelsheim
 street: "Mündener Straße"
 housenumber: 1

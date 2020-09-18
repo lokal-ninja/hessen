@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.6749408
 longitude: 9.7645722
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Hauptstraße"
 housenumber: 30,32,34

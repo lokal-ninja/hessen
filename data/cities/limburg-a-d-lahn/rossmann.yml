@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.3989113
 longitude: 8.080405200000001
-postcode: 65549
+postcode: "65549"
 city: Limburg a. d. Lahn
 street: "Limburger Straße"
 housenumber: 25

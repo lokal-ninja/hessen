@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.5424803
 longitude: 9.6799234
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Rangstraße"
 housenumber: 39

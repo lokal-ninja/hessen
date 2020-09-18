@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.598111
 longitude: 8.7356652
-postcode: 69509
+postcode: "69509"
 city: Mörlenbach
 street: "Bonsweiherer Straße"
 housenumber: 9

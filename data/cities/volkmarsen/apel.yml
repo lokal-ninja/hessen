@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.412019300000004
 longitude: 9.119956100000001
-postcode: 34471
+postcode: "34471"
 city: Volkmarsen
 street: "Gerichtsstraße"
 housenumber: 11

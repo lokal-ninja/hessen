@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.3896675
 longitude: 8.8914148
-postcode: 61209
+postcode: "61209"
 city: Echzell
 street: "Am Sauerborn"
 housenumber: 15

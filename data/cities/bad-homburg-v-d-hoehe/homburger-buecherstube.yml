@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.2297656
 longitude: 8.6133126
-postcode: 61348
+postcode: "61348"
 city: Bad Homburg v.d. Höhe
 street: "Haingasse"
 housenumber: 16

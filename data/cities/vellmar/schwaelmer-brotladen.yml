@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3545518
 longitude: 9.4775262
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Kasseler Straße"
 housenumber: 10b

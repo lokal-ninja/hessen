@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 51.3835338
 longitude: 9.0135796
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Rauchstraße"
 housenumber: 25a

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 49.782737700000006
 longitude: 8.936908
-postcode: 64739
+postcode: "64739"
 city: Höchst im Odenwald
 street: "Stockwiesenstraße"
 housenumber: 31

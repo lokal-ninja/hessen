@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.409324500000004
 longitude: 9.0073617
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Unter der Stadt"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.108927200000004
 longitude: 8.0975296
-postcode: 65388
+postcode: "65388"
 city: Schlangenbad
 street: "Schwalbacher Straße"
 housenumber: 22

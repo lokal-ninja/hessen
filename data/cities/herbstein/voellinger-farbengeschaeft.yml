@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 50.556940100000006
 longitude: 9.3493066
-postcode: 36358
+postcode: "36358"
 city: Herbstein
 street: "Hessenstraße"
 housenumber: 73

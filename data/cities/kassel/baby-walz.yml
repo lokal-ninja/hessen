@@ -3,7 +3,7 @@ type: way
 shop: Babysachen
 latitude: 51.320986700000006
 longitude: 9.520259000000001
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Ostring"
 housenumber: 19

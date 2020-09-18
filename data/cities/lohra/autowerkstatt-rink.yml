@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.7380554
 longitude: 8.633393
-postcode: 35102
+postcode: "35102"
 city: Lohra
 street: "Kirbach"
 housenumber: 

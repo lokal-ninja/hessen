@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.469097600000005
 longitude: 9.6731622
-postcode: 36119
+postcode: "36119"
 city: Neuhof
 street: "Kerzeller Straße"
 housenumber: 31

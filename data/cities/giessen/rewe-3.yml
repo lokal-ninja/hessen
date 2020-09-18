@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.553694
 longitude: 8.6374064
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Heerweg"
 housenumber: 14 - 16

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.5524593
 longitude: 9.6735846
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Rittergasse"
 housenumber: 16

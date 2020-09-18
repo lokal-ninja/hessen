@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6712344
 longitude: 8.3061915
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Konrad-Adenauer-Straße"
 housenumber: 70

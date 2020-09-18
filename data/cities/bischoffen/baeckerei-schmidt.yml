@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.705807400000005
 longitude: 8.4451818
-postcode: 35649
+postcode: "35649"
 city: Bischoffen
 street: "Bahnhofstraße"
 housenumber: 12

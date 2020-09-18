@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 49.6555893
 longitude: 8.9932541
-postcode: 64711
+postcode: "64711"
 city: Erbach
 street: "Neue Lustgartenstraße"
 housenumber: 1-3

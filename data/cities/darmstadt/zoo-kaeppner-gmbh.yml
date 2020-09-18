@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.872314100000004
 longitude: 8.6525037
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Im Carree"
 housenumber: 1

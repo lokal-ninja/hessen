@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.615734800000006
 longitude: 8.7557407
-postcode: 64668
+postcode: "64668"
 city: Rimbach
 street: "Schloßstraße"
 housenumber: 68

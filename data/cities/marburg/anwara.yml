@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 50.8142317
 longitude: 8.7681652
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Ketzerbach"
 housenumber: 13

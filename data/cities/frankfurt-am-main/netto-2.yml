@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.13930250000001
 longitude: 8.7438511
-postcode: 60388
+postcode: "60388"
 city: Frankfurt am Main
 street: "Kruppstraße"
 housenumber: 103

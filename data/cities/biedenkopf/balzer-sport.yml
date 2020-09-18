@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.928341700000004
 longitude: 8.4740489
-postcode: 35216
+postcode: "35216"
 city: Biedenkopf
 street: "Fritz-Henkel-Straße"
 housenumber: 17

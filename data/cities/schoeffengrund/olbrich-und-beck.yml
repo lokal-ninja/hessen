@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.5205348
 longitude: 8.4708906
-postcode: 35641
+postcode: "35641"
 city: Schöffengrund
 street: "Eichenhain"
 housenumber: 2a

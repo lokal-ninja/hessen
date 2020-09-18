@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1130397
 longitude: 8.664779300000001
-postcode: 60325
+postcode: "60325"
 city: Frankfurt am Main
 street: "Rüsterstraße"
 housenumber: 2

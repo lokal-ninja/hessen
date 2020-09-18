@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 50.217985600000006
 longitude: 8.2628555
-postcode: 65510
+postcode: "65510"
 city: Idstein
 street: "Wiesbadener Straße"
 housenumber: 51

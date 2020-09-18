@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.3677001
 longitude: 9.2995278
-postcode: 34289
+postcode: "34289"
 city: Zierenberg
 street: "Poststraße"
 housenumber: 27

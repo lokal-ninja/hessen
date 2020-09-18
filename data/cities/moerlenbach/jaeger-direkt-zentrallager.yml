@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.602648200000004
 longitude: 8.7436091
-postcode: 69509
+postcode: "69509"
 city: Mörlenbach
 street: "Industriestraße"
 housenumber: 22

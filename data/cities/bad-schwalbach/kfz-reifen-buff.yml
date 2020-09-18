@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.1454036
 longitude: 8.0415878
-postcode: 65307
+postcode: "65307"
 city: Bad Schwalbach
 street: "Nikolaus-August-Otto-Straße"
 housenumber: 1

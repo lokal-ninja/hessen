@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.9303602
 longitude: 8.599114700000001
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt-Gräfenhausen
 street: "Darmstädter Landstraße"
 housenumber: 1

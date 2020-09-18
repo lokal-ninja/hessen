@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.189204100000005
 longitude: 8.7415959
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Friedberger Straße"
 housenumber: 77a

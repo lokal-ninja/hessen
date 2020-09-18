@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.2906508
 longitude: 9.519081
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Görlitzer Straße"
 housenumber: 39

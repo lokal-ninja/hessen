@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.35575660000001
 longitude: 9.464013300000001
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Lange Wender"
 housenumber: 7

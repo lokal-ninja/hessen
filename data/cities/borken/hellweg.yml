@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.052309
 longitude: 9.270836800000001
-postcode: 34582
+postcode: "34582"
 city: Borken
 street: "Alfred-Nobel-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.120124800000006
 longitude: 8.8478694
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Schillerstraße"
 housenumber: 77-79

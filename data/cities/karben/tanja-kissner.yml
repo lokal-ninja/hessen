@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.229068500000004
 longitude: 8.7707957
-postcode: 61184
+postcode: "61184"
 city: Karben
 street: "Raiffeisenstraße"
 housenumber: 1

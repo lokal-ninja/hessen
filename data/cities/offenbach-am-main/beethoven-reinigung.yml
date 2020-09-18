@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.105795400000005
 longitude: 8.770189700000001
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Hermann-Steinhäuser-Straße"
 housenumber: 2b

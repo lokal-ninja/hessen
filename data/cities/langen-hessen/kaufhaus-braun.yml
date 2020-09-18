@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 49.991405400000005
 longitude: 8.661989400000001
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Bahnstraße"
 housenumber: 101-107

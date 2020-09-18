@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.7211804
 longitude: 8.307466100000001
-postcode: 35687
+postcode: "35687"
 city: Dillenburg
 street: "Kreuzstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.123415800000004
 longitude: 8.6419688
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Mühlgasse"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.9922477
 longitude: 8.648851
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Berliner Allee"
 housenumber: 5

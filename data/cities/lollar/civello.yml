@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.652411900000004
 longitude: 8.707637100000001
-postcode: 35457
+postcode: "35457"
 city: Lollar
 street: "Marburger Straße"
 housenumber: 54

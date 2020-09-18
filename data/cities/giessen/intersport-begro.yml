@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.5718278
 longitude: 8.694159800000001
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Karl-Glöckner-Straße"
 housenumber: 5

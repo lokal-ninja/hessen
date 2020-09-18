@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.125483800000005
 longitude: 8.6921941
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
 street: "Friedberger Landstraße"
 housenumber: 94

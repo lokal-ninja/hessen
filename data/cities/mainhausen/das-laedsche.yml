@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 50.0251116
 longitude: 9.016378000000001
-postcode: 63533
+postcode: "63533"
 city: Mainhausen
 street: "Ginkgoring"
 housenumber: 60

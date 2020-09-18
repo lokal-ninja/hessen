@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.803394700000005
 longitude: 9.6132024
-postcode: 36272
+postcode: "36272"
 city: Niederaula
 street: "Hersfelder Straße"
 housenumber: 14

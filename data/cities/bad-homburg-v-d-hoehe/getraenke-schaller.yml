@@ -1,12 +1,12 @@
-id: 44374927
-type: way
+id: 7519332229
+type: node
 shop: Getränke
-latitude: 50.241331
-longitude: 8.6082435
-postcode: 61350
+latitude: 50.241275800000004
+longitude: 8.6082517
+postcode: "61350"
 city: Bad Homburg v.d. Höhe
 street: "Friedensstraße"
 housenumber: 3
-phone: "+49 6172 82247"
-opening_hours: ""
+phone: ""
+opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00; Sa 08:00-14:00; Su,PH off"
 website: ""

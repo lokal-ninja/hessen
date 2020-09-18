@@ -3,7 +3,7 @@ type: node
 shop: Brauerei
 latitude: 50.293568
 longitude: 8.5117107
-postcode: 61267
+postcode: "61267"
 city: Neu-Anspach
 street: "Bahnhofstraße"
 housenumber: 43

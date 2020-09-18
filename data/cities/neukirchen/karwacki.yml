@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.869547600000004
 longitude: 9.3426831
-postcode: 34626
+postcode: "34626"
 city: Neukirchen
 street: "Kurhessenstraße"
 housenumber: 49

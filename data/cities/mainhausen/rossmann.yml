@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.024633800000004
 longitude: 9.0164867
-postcode: 63533
+postcode: "63533"
 city: Mainhausen
 street: "Ginkgoring"
 housenumber: 70

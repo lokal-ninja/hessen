@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.23785650000001
 longitude: 8.771667500000001
-postcode: 61184
+postcode: "61184"
 city: Karben
 street: "Burg-Gräfenröder-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6945259
 longitude: 8.6214913
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Darmstädter Straße"
 housenumber: 110

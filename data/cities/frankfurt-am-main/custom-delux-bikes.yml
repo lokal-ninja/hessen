@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.123371500000005
 longitude: 8.693180400000001
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
 street: "Günthersburgallee"
 housenumber: 6

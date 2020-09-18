@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.54176330000001
 longitude: 8.5957562
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Janusz-Korczak-Allee"
 housenumber: 1

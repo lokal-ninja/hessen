@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.968310800000005
 longitude: 8.826947800000001
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Senefelderstraße"
 housenumber: 30

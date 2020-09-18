@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.351848000000004
 longitude: 9.3111216
-postcode: 63633
+postcode: "63633"
 city: Birstein
 street: "Bahnhofstraße"
 housenumber: 3

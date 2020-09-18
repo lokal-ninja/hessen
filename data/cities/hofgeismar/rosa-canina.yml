@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.4945937
 longitude: 9.3800855
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: "Marktstraße"
 housenumber: 6

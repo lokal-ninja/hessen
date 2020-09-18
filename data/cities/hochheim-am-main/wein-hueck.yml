@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.0122177
 longitude: 8.3565587
-postcode: 65239
+postcode: "65239"
 city: Hochheim am Main
 street: "Frankfurter Straße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.564730000000004
 longitude: 8.5024104
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Am Forum"
 housenumber: 1

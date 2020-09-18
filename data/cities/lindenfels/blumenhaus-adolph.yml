@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.6843468
 longitude: 8.7810494
-postcode: 64678
+postcode: "64678"
 city: Lindenfels
 street: "Nibelungenstraße"
 housenumber: 77

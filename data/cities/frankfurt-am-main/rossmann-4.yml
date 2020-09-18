@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.1400926
 longitude: 8.699635500000001
-postcode: 60389
+postcode: "60389"
 city: Frankfurt am Main
 street: "Valentin-Senger-Straße"
 housenumber: 140

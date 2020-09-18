@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 49.983056000000005
 longitude: 8.418145500000001
-postcode: 65428
+postcode: "65428"
 city: Rüsselsheim am Main
 street: "Friedrich-Ebert-Straße"
 housenumber: 29

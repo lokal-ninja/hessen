@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.9809715
 longitude: 7.9399028000000005
-postcode: 65385
+postcode: "65385"
 city: Rüdesheim am Rhein
 street: "Europastraße"
 housenumber: 7a

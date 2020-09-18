@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.6371953
 longitude: 9.3950856
-postcode: 36341
+postcode: "36341"
 city: Lauterbach
 street: "Obergasse"
 housenumber: 35

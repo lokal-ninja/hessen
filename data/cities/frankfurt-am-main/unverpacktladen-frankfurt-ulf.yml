@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.109920900000006
 longitude: 8.6848972
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Saalgasse"
 housenumber: 1

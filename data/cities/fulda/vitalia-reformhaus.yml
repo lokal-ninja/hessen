@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.5528064
 longitude: 9.678723100000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Rabanusstraße"
 housenumber: 14-16

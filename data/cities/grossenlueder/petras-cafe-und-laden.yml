@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.5481035
 longitude: 9.5155189
-postcode: 36137
+postcode: "36137"
 city: Großenlüder
 street: "Mühlenstraße"
 housenumber: 1

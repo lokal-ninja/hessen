@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.5387598
 longitude: 9.710869800000001
-postcode: 36093
+postcode: "36093"
 city: Künzell
 street: "Im Hahlfeld"
 housenumber: 23

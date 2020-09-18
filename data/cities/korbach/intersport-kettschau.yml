@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 51.2808574
 longitude: 8.8764416
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Arolser Landstraße"
 housenumber: 36 A

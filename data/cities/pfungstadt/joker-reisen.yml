@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.804131600000005
 longitude: 8.6008721
-postcode: 64319
+postcode: "64319"
 city: Pfungstadt
 street: "Eberstädter Straße"
 housenumber: 55

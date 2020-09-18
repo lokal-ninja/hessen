@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.58287120000001
 longitude: 8.6715973
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Seltersweg"
 housenumber: 73

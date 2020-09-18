@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1653346
 longitude: 8.6249274
-postcode: 60439
+postcode: "60439"
 city: Frankfurt am Main
 street: "Niederurseler Landstraße"
 housenumber: 145

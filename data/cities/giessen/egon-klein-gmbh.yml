@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 50.5800046
 longitude: 8.7288672
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Europastraße"
 housenumber: 17

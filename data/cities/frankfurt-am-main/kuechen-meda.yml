@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.136081000000004
 longitude: 8.743319600000001
-postcode: 60388
+postcode: "60388"
 city: Frankfurt am Main
 street: "Borsigallee"
 housenumber: 24

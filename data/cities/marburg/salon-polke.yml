@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.795118300000006
 longitude: 8.769056500000001
-postcode: 35039
+postcode: "35039"
 city: Marburg
 street: "Cappeler Straße"
 housenumber: 54

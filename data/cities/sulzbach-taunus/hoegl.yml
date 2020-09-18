@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 50.119403500000004
 longitude: 8.527293700000001
-postcode: 65843
+postcode: "65843"
 city: Sulzbach (Taunus)
 street: "Am Main-Taunus-Zentrum"
 housenumber: 

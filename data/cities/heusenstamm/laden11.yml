@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0574333
 longitude: 8.7916057
-postcode: 63150
+postcode: "63150"
 city: Heusenstamm
 street: "Leibnizstraße"
 housenumber: 11

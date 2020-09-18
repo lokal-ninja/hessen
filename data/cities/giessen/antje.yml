@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.5816357
 longitude: 8.6965102
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Friedensstraße"
 housenumber: 2

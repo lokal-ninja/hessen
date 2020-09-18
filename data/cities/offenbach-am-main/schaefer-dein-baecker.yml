@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.104139
 longitude: 8.7739252
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Mathildenstraße"
 housenumber: 15

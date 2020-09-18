@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.206655000000005
 longitude: 9.1422559
-postcode: 63584
+postcode: "63584"
 city: Gründau
 street: "Meerholzer Landweg"
 housenumber: 6

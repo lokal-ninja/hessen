@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.0010422
 longitude: 9.7180085
-postcode: 36199
+postcode: "36199"
 city: Rotenburg an der Fulda
 street: "Braacher Straße"
 housenumber: 20

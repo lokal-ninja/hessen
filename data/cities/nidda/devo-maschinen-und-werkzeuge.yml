@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.4166632
 longitude: 9.010597200000001
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Krötenburgstraße"
 housenumber: 10

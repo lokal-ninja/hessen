@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.1945867
 longitude: 9.7087155
-postcode: 37235
+postcode: "37235"
 city: Hessisch Lichtenau
 street: "Günsteröder Straße"
 housenumber: 36

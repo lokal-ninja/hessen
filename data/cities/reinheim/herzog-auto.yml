@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.8211926
 longitude: 8.8314012
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Tilsiter Straße"
 housenumber: 4

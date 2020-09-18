@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.7515584
 longitude: 8.484466300000001
-postcode: 64579
+postcode: "64579"
 city: Gernsheim
 street: "Magdalenenstraße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 50.5209673
 longitude: 8.8179569
-postcode: 35423
+postcode: "35423"
 city: Lich
 street: "Am Wall"
 housenumber: 43

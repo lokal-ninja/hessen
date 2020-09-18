@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.281124600000005
 longitude: 9.5474973
-postcode: 34253
+postcode: "34253"
 city: Lohfelden
 street: "Am Hofe"
 housenumber: 3a

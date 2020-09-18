@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0364354
 longitude: 9.0238461
-postcode: 63533
+postcode: "63533"
 city: Mainhausen
 street: "Erwin-Grimm-Ring"
 housenumber: 1

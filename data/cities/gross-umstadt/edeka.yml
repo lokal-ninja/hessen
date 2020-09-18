@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8666677
 longitude: 8.9224581
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Habitzheimer Straße"
 housenumber: 5a

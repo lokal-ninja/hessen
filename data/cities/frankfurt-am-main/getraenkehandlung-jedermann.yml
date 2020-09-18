@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.11844850000001
 longitude: 8.648808800000001
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Jordanstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.813999800000005
 longitude: 8.766651300000001
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Zwischenhausen"
 housenumber: 25

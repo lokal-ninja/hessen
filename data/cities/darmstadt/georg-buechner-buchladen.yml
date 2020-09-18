@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.877721900000004
 longitude: 8.6587136
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Lauteschlägerstraße"
 housenumber: 18

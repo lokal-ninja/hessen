@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.120100900000004
 longitude: 8.6484774
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Adalbertstraße"
 housenumber: 8

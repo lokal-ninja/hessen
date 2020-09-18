@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.3625952
 longitude: 9.4682419
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Rathausplatz"
 housenumber: 2

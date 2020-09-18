@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.124449600000005
 longitude: 9.543371500000001
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Nürnberger Straße"
 housenumber: 13

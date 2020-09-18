@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.9673736
 longitude: 8.6632511
-postcode: 63329
+postcode: "63329"
 city: Egelsbach
 street: "Am Berliner Platz"
 housenumber: 3

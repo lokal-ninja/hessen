@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7990781
 longitude: 8.7638
-postcode: 64372
+postcode: "64372"
 city: Ober-Ramstadt
 street: "Daniel-Bonin-Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.1244287
 longitude: 8.7010597
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Heidestraße"
 housenumber: 53-55

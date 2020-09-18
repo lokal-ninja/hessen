@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.102068200000005
 longitude: 8.5686678
-postcode: 65934
+postcode: "65934"
 city: Frankfurt am Main
 street: "Lotzstraße"
 housenumber: 13

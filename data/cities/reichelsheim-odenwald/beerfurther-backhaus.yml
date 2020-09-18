@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.7195565
 longitude: 8.8637131
-postcode: 64385
+postcode: "64385"
 city: Reichelsheim (Odenwald)
 street: "Pfalzstraße"
 housenumber: 

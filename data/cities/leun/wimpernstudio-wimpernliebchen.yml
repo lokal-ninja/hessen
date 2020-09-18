@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.5519763
 longitude: 8.359788400000001
-postcode: 35638
+postcode: "35638"
 city: Leun
 street: "Ahornstraße"
 housenumber: 6

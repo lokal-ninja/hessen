@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.0999568
 longitude: 8.5450906
-postcode: 65929
+postcode: "65929"
 city: Frankfurt am Main
 street: "Antoniterstraße"
 housenumber: 14

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.5848184
 longitude: 8.4829982
-postcode: 35586
+postcode: "35586"
 city: Wetzlar
 street: "Ludwigstraße"
 housenumber: 13

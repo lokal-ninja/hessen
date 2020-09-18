@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 50.619924000000005
 longitude: 8.6649434
-postcode: 35435
+postcode: "35435"
 city: Launsbach
 street: "Herrngarten"
 housenumber: 12

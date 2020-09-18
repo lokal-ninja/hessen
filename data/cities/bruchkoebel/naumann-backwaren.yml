@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1769194
 longitude: 8.929028
-postcode: 63486
+postcode: "63486"
 city: Bruchköbel
 street: "Waldseestraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.139010400000004
 longitude: 8.44626
-postcode: 65779
+postcode: "65779"
 city: Kelkheim
 street: "Fischbacher Straße"
 housenumber: 6

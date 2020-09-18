@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.494174400000006
 longitude: 9.3832546
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: ""
 housenumber: 

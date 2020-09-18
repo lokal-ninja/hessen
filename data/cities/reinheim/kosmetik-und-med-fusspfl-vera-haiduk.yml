@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.832625900000004
 longitude: 8.8318252
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Konrad-Adenauer-Straße"
 housenumber: 16

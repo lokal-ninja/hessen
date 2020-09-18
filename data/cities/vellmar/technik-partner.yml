@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.3550375
 longitude: 9.462714100000001
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Lange Wender"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.1606596
 longitude: 8.619433800000001
-postcode: 60439
+postcode: "60439"
 city: Frankfurt am Main
 street: "Gerhart-Hauptmann-Ring"
 housenumber: 139a

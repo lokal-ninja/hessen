@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.856507500000006
 longitude: 8.758411
-postcode: 64380
+postcode: "64380"
 city: Roßdorf
 street: "Kirchgasse"
 housenumber: 9

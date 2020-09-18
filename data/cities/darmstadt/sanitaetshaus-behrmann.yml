@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 49.870049900000005
 longitude: 8.6546216
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Schützenstraße"
 housenumber: 10

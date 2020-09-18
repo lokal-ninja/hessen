@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.069445800000004
 longitude: 8.6456952
-postcode: 60528
+postcode: "60528"
 city: Frankfurt am Main
 street: "Mörfelder Landstraße"
 housenumber: 362

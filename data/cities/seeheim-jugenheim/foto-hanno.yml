@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.768967700000005
 longitude: 8.643062
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Am Grundweg"
 housenumber: 12

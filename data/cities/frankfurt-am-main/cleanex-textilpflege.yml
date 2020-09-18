@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.094602200000004
 longitude: 8.6831323
-postcode: 60598
+postcode: "60598"
 city: Frankfurt am Main
 street: "Mörfelder Landstraße"
 housenumber: 129-133

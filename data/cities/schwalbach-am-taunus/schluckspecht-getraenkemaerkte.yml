@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.1445372
 longitude: 8.53445
-postcode: 65824
+postcode: "65824"
 city: Schwalbach am Taunus
 street: "Am Flachsacker"
 housenumber: 32

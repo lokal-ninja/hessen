@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.9053083
 longitude: 8.5359557
-postcode: 35216
+postcode: "35216"
 city: Biedenkopf
 street: "Hospitalstraße"
 housenumber: 76

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.092862600000004
 longitude: 8.6693548
-postcode: 60596
+postcode: "60596"
 city: Frankfurt am Main
 street: "Heimatring"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 49.9676138
 longitude: 8.8299787
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Odenwaldstraße"
 housenumber: 80

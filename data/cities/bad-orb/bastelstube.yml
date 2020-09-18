@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.226312400000005
 longitude: 9.3489574
-postcode: 63619
+postcode: "63619"
 city: Bad Orb
 street: "Gretenbachstraße"
 housenumber: 11

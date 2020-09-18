@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.9695028
 longitude: 9.7946325
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Nürnberger Straße"
 housenumber: 43-47

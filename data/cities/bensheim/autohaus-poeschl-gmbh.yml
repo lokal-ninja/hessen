@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.6764093
 longitude: 8.6148092
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Fabrikstraße"
 housenumber: 3

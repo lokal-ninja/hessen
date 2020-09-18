@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.5614232
 longitude: 8.6487856
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Frankfurter Straße"
 housenumber: 256

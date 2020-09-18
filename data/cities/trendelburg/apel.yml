@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.575884200000004
 longitude: 9.4157825
-postcode: 34388
+postcode: "34388"
 city: Trendelburg
 street: "Karlshafener Straße"
 housenumber: 15

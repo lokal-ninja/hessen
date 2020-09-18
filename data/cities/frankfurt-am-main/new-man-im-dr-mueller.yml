@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 50.1084941
 longitude: 8.6681664
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Kaiserstraße"
 housenumber: 66

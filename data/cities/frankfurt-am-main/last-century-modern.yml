@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.111513200000005
 longitude: 8.6846884
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Domstraße"
 housenumber: 6

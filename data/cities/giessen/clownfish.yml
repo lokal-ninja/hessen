@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 50.5864192
 longitude: 8.6758827
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Schulstraße"
 housenumber: 9

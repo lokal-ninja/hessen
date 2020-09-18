@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.309013900000004
 longitude: 9.5454615
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Göttinger Straße"
 housenumber: 31

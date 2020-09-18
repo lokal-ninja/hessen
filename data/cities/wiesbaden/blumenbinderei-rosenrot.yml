@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.072412
 longitude: 8.2353696
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Kaiser-Friedrich-Ring"
 housenumber: 60

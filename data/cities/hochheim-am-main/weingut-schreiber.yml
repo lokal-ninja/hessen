@@ -3,7 +3,7 @@ type: way
 shop: Wein
 latitude: 50.0265665
 longitude: 8.362671500000001
-postcode: 65239
+postcode: "65239"
 city: Hochheim am Main
 street: "Johanneshof"
 housenumber: 

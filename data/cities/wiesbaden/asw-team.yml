@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.078011700000005
 longitude: 8.2124439
-postcode: 65197
+postcode: "65197"
 city: Wiesbaden
 street: "Hollerbornstraße"
 housenumber: 

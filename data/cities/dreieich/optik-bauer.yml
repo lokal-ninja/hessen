@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.9979499
 longitude: 8.733217
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Bleiswijker Straße"
 housenumber: 1

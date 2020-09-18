@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9760451
 longitude: 8.3462121
-postcode: 65474
+postcode: "65474"
 city: Bischofsheim
 street: "Ginsheimer Landstraße"
 housenumber: 18

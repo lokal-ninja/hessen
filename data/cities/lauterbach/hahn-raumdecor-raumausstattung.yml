@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 50.6376785
 longitude: 9.397289800000001
-postcode: 36341
+postcode: "36341"
 city: Lauterbach
 street: "Bahnhofstraße"
 housenumber: 8

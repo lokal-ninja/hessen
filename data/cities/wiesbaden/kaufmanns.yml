@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.087638000000005
 longitude: 8.2405618
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Jawlenskystraße"
 housenumber: 1

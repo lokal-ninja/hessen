@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.26809840000001
 longitude: 9.3646887
-postcode: 63628
+postcode: "63628"
 city: Bad Soden-Salmünster
 street: "Breslauer Straße"
 housenumber: 21

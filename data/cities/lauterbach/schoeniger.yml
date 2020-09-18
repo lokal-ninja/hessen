@@ -3,7 +3,7 @@ type: way
 shop: Radiotechnik
 latitude: 50.636279800000004
 longitude: 9.3995882
-postcode: 36341
+postcode: "36341"
 city: Lauterbach
 street: "Lindenstraße"
 housenumber: 47,49

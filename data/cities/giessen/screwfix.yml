@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.571289
 longitude: 8.691714600000001
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Schiffenberger Weg"
 housenumber: 115

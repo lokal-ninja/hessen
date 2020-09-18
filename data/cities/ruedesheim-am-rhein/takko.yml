@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.98091
 longitude: 7.9380594
-postcode: 65385
+postcode: "65385"
 city: Rüdesheim am Rhein
 street: "Europastraße"
 housenumber: 3

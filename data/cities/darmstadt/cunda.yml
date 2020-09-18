@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.870327100000004
 longitude: 8.6541913
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Ludwigsplatz"
 housenumber: 7

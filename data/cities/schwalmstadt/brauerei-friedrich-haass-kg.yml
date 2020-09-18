@@ -3,7 +3,7 @@ type: way
 shop: Spirituosen
 latitude: 50.9120634
 longitude: 9.193797400000001
-postcode: 34613
+postcode: "34613"
 city: Schwalmstadt
 street: "Ascheröder Straße"
 housenumber: 

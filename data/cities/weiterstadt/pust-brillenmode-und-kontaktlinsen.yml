@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.9060488
 longitude: 8.5862415
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Darmstädter Straße"
 housenumber: 56

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5320924
 longitude: 8.3140956
-postcode: 35638
+postcode: "35638"
 city: Leun
 street: "Schulstraße"
 housenumber: 4

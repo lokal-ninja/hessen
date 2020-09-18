@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.010035300000006
 longitude: 9.819186400000001
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Am Schwimmbad"
 housenumber: 2

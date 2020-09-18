@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.910702
 longitude: 8.657289800000001
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Frankfurter Landstraße"
 housenumber: 150

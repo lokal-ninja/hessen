@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 50.554113
 longitude: 10.011881
-postcode: 36115
+postcode: "36115"
 city: Hilders
 street: "Ensbachstraße"
 housenumber: 1

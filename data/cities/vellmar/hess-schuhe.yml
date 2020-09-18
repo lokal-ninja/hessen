@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.3551268
 longitude: 9.462868
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Lange Wender"
 housenumber: 7

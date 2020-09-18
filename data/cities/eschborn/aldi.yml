@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1415403
 longitude: 8.580053000000001
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Ginnheimer Straße"
 housenumber: 7-9

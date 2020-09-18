@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.9899301
 longitude: 8.4150557
-postcode: 65428
+postcode: "65428"
 city: Rüsselsheim am Main
 street: "Nahestraße"
 housenumber: 1

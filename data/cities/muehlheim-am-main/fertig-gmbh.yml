@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.1136975
 longitude: 8.8517665
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Südring"
 housenumber: 32

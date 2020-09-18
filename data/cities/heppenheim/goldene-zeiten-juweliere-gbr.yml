@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.642493
 longitude: 8.6419785
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Friedrichstraße"
 housenumber: 6

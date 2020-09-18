@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.117217700000005
 longitude: 8.5288468
-postcode: 65843
+postcode: "65843"
 city: Sulzbach (Taunus)
 street: "Am Main-Taunus-Zentrum"
 housenumber: 

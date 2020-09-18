@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.924299600000005
 longitude: 8.8594009
-postcode: 64839
+postcode: "64839"
 city: Münster (Hessen)
 street: "Platz des Friedens"
 housenumber: 7

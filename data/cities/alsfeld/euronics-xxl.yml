@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.7504465
 longitude: 9.2759664
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Löbergasse"
 housenumber: 5

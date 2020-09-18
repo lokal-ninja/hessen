@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.115190600000005
 longitude: 8.6977952
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
 street: "Alfred-Brehm-Platz"
 housenumber: 10

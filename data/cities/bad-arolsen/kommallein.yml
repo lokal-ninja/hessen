@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.381460000000004
 longitude: 9.0023794
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Bahnhofstraße"
 housenumber: 83

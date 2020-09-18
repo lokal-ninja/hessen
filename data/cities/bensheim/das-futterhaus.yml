@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 49.6744659
 longitude: 8.6173898
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Fabrikstraße"
 housenumber: 18

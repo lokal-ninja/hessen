@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3234805
 longitude: 9.513631
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Fuldatalstraße"
 housenumber: 2

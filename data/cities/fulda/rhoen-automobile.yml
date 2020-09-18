@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.550697500000005
 longitude: 9.6822631
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Vor dem Peterstor"
 housenumber: 3

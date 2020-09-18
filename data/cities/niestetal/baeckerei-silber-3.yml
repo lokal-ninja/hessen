@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.3063051
 longitude: 9.57975
-postcode: 34266
+postcode: "34266"
 city: Niestetal
 street: "Opferhof"
 housenumber: 4

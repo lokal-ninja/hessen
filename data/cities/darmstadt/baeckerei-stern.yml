@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.905051
 longitude: 8.677922200000001
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Jägertorstraße"
 housenumber: 154

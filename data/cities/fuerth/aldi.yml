@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.659114200000005
 longitude: 8.787925000000001
-postcode: 64658
+postcode: "64658"
 city: Fürth
 street: "Industriestraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1333082
 longitude: 8.453484600000001
-postcode: 65779
+postcode: "65779"
 city: Kelkheim
 street: "Höchster Straße"
 housenumber: 8

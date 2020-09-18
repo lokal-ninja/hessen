@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.0146262
 longitude: 8.7938694
-postcode: 63128
+postcode: "63128"
 city: Dietzenbach
 street: "Albert-Einstein-Straße"
 housenumber: 1

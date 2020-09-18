@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7537102
 longitude: 9.277463500000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "An der Au"
 housenumber: 14

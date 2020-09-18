@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 50.0613353
 longitude: 8.2242298
-postcode: 65187
+postcode: "65187"
 city: Wiesbaden
 street: "Grundweg"
 housenumber: 4a

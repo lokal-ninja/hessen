@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 50.6446059
 longitude: 9.4131643
-postcode: 36341
+postcode: "36341"
 city: Lauterbach
 street: "Vaitsbergstraße"
 housenumber: 18

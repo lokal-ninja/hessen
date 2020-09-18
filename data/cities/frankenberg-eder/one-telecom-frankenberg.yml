@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 51.06076770000001
 longitude: 8.780629900000001
-postcode: 35066
+postcode: "35066"
 city: Frankenberg (Eder)
 street: "Ruhrstraße"
 housenumber: 15b

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.499233600000004
 longitude: 9.3855632
-postcode: 36355
+postcode: "36355"
 city: Grebenhain
 street: "Kirchweg"
 housenumber: 17

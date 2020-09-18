@@ -3,10 +3,10 @@ type: node
 shop: Möbel
 latitude: 50.5482093
 longitude: 9.6745531
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Löherstraße"
 housenumber: 26
 phone: ""
-opening_hours: ""
+opening_hours: "Tu,Th,Fr 10:00-18:00; Sa 10:00-14:00"
 website: ""

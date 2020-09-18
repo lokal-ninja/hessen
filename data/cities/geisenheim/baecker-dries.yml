@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.983977900000006
 longitude: 7.966366600000001
-postcode: 65366
+postcode: "65366"
 city: Geisenheim
 street: "Winkeler Straße"
 housenumber: 52

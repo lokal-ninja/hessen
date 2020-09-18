@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.679734200000006
 longitude: 8.6123358
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Frenaystraße"
 housenumber: 52

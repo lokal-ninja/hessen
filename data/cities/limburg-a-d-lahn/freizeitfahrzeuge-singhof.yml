@@ -3,7 +3,7 @@ type: way
 shop: Wohnwagen
 latitude: 50.4031516
 longitude: 8.071560700000001
-postcode: 65555
+postcode: "65555"
 city: Limburg a. d. Lahn
 street: "Hoenbergstraße"
 housenumber: 2

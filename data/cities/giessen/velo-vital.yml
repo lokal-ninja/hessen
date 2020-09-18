@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.5648427
 longitude: 8.6758374
-postcode: 35392
+postcode: "35392"
 city: Gießen
 street: "Am Bergwerkswald"
 housenumber: 21

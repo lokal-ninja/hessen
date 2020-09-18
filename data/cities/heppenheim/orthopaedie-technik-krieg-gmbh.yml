@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 49.6420583
 longitude: 8.6406936
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Wilhelmstraße"
 housenumber: 1

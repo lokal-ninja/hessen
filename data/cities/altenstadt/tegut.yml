@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.289174200000005
 longitude: 8.9760075
-postcode: 63674
+postcode: "63674"
 city: Altenstadt
 street: "Die Weidenbach"
 housenumber: 5

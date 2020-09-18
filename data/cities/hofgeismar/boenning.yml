@@ -3,10 +3,10 @@ type: node
 shop: Schuhe
 latitude: 51.49429670000001
 longitude: 9.3822044
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: "Mühlenstraße"
-housenumber: 
+housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:00;Sa 09:30-13:00"
 website: ""

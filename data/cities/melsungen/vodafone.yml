@@ -3,7 +3,7 @@ type: way
 shop: Handy
 latitude: 51.1324398
 longitude: 9.5451922
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Sandstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.275124000000005
 longitude: 9.4392692
-postcode: 34132
+postcode: "34132"
 city: Kassel
 street: "Mattenbergstraße"
 housenumber: 62

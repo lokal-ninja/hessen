@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.4111003
 longitude: 9.126344900000001
-postcode: 34471
+postcode: "34471"
 city: Volkmarsen
 street: "Kasseler Straße"
 housenumber: 29

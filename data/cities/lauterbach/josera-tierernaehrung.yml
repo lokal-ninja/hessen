@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.645986900000004
 longitude: 9.3794669
-postcode: 36341
+postcode: "36341"
 city: Lauterbach
 street: "Steinwiesenweg"
 housenumber: 3

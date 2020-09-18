@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8694837
 longitude: 8.9182786
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Albert-Einstein-Straße"
 housenumber: 13a

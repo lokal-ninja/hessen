@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 51.343659800000005
 longitude: 9.8569615
-postcode: 37213
+postcode: "37213"
 city: Witzenhausen
 street: "Kniegasse"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.080896700000004
 longitude: 8.6489366
-postcode: 60528
+postcode: "60528"
 city: Frankfurt am Main
 street: "Königslacher Straße"
 housenumber: 36

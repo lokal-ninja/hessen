@@ -3,7 +3,7 @@ type: way
 shop: Teppiche
 latitude: 51.3393286
 longitude: 9.4876809
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Holländische Straße"
 housenumber: 214-226

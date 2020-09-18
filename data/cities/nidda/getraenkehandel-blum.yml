@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.4097827
 longitude: 9.005710800000001
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Unter der Stadt"
 housenumber: 16

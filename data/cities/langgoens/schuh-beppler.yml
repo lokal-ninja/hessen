@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.497626700000005
 longitude: 8.6659775
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Bahnhofstraße"
 housenumber: 6

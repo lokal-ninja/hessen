@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3149912
 longitude: 9.516907600000001
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Scharnhorststraße"
 housenumber: 14

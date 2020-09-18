@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.8807326
 longitude: 8.654867600000001
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Schuknechtstraße"
 housenumber: 1

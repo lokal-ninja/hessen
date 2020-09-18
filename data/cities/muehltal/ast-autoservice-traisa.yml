@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.838517700000004
 longitude: 8.7024337
-postcode: 64367
+postcode: "64367"
 city: Mühltal
 street: "Ludwigstraße"
 housenumber: 83

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.86041710000001
 longitude: 8.559826000000001
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Wilhelm-Leuschner-Straße"
 housenumber: 32

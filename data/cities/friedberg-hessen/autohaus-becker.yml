@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.346501100000005
 longitude: 8.7541031
-postcode: 61169
+postcode: "61169"
 city: Friedberg (Hessen)
 street: "Ottostraße"
 housenumber: 6

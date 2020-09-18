@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 49.861038400000005
 longitude: 8.6535919
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Wittmannstraße"
 housenumber: 2

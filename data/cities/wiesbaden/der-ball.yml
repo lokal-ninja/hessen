@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.0800764
 longitude: 8.2293502
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Bismarckring"
 housenumber: 18

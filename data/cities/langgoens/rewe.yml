@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.495930200000004
 longitude: 8.6677844
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Rottweg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 49.773467600000004
 longitude: 8.641673200000001
-postcode: 64342
+postcode: "64342"
 city: Seeheim-Jugenheim
 street: "Friedrich-Ebert-Straße"
 housenumber: 33-35

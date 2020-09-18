@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.969815000000004
 longitude: 9.792506300000001
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Rathausmarkt"
 housenumber: 4

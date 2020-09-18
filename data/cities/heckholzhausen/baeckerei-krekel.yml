@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.484463000000005
 longitude: 8.157182
-postcode: 65614
+postcode: "65614"
 city: Heckholzhausen
 street: "Limburger Straße"
 housenumber: 3

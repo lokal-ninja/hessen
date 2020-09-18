@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.495475000000006
 longitude: 9.3793928
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: "Marktstraße"
 housenumber: 19

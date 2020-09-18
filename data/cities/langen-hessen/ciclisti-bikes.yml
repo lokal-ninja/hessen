@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.992280900000004
 longitude: 8.648855000000001
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Berliner Allee"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.296863200000004
 longitude: 8.3867813
-postcode: 61276
+postcode: "61276"
 city: Weilrod
 street: "Talaue"
 housenumber: 1

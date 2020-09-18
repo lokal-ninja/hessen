@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.4121066
 longitude: 9.1155463
-postcode: 34471
+postcode: "34471"
 city: Volkmarsen
 street: "Steinweg"
 housenumber: 30

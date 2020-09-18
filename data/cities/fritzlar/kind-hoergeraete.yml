@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 51.1316532
 longitude: 9.2732537
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Zwischen den Krämen"
 housenumber: 2

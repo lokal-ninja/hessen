@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.2753195
 longitude: 9.4498482
-postcode: 34132
+postcode: "34132"
 city: Kassel
 street: "Altenbaunaer Straße"
 housenumber: 86

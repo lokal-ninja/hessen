@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.088906
 longitude: 8.289065800000001
-postcode: 65191
+postcode: "65191"
 city: Wiesbaden
 street: "Rostocker Straße"
 housenumber: 6-8

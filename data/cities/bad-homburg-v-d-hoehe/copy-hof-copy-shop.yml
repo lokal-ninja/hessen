@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.228428900000004
 longitude: 8.6122352
-postcode: 61348
+postcode: "61348"
 city: Bad Homburg v.d. Höhe
 street: "Louisenstraße"
 housenumber: 9

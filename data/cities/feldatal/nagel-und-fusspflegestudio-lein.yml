@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.6391465
 longitude: 9.1555821
-postcode: 36325
+postcode: "36325"
 city: Feldatal
 street: "Erlenstraße"
 housenumber: 15a

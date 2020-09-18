@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.670368700000004
 longitude: 9.556698800000001
-postcode: 36110
+postcode: "36110"
 city: Schlitz
 street: "Herrngartenstraße"
 housenumber: 26

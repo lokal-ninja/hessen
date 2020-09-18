@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.228678800000004
 longitude: 9.3486843
-postcode: 63619
+postcode: "63619"
 city: Bad Orb
 street: "Bahnhofstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.1892811
 longitude: 8.6380558
-postcode: 60437
+postcode: "60437"
 city: Frankfurt am Main
 street: "Kalbacher Hauptstraße"
 housenumber: 26

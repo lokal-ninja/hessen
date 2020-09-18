@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9679774
 longitude: 8.826879400000001
-postcode: 63322
+postcode: "63322"
 city: Rödermark
 street: "Senefelderstraße"
 housenumber: 32

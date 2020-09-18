@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.5227616
 longitude: 8.816784700000001
-postcode: 35423
+postcode: "35423"
 city: Lich
 street: "Gießener Straße"
 housenumber: 28

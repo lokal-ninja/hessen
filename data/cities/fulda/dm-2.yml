@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.5533702
 longitude: 9.681799900000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Bahnhofstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.3382103
 longitude: 9.323704300000001
-postcode: 63633
+postcode: "63633"
 city: Birstein
 street: "Häselweg"
 housenumber: 3

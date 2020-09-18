@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2836678
 longitude: 9.4424974
-postcode: 34132
+postcode: "34132"
 city: Kassel
 street: "Brückenhofstraße"
 housenumber: 94

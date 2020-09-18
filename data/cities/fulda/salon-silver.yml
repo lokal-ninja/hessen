@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5502054
 longitude: 9.674578400000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Robert-Kircher-Straße"
 housenumber: 10

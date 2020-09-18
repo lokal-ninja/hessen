@@ -3,10 +3,10 @@ type: node
 shop: Landwirtschaftlich
 latitude: 51.337203800000005
 longitude: 9.861458200000001
-postcode: 37213
+postcode: "37213"
 city: Witzenhausen
 street: "Am Eschenbornrasen"
 housenumber: 25
-phone: "+49055428848"
+phone: "+49 55428848"
 opening_hours: ""
 website: "http://geno.raiffeisen.com/rwz-agrar-witzenhausen/"

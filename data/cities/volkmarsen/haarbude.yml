@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.407217200000005
 longitude: 9.1186202
-postcode: 34471
+postcode: "34471"
 city: Volkmarsen
 street: "Albert-Schweitzer-Weg"
 housenumber: 1

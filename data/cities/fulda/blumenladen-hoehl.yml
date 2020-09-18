@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 50.547198900000005
 longitude: 9.674626100000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Löherstraße"
 housenumber: 35
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
 website: ""

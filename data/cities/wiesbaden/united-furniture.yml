@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 50.018176700000005
 longitude: 8.2870483
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Boelckestraße"
 housenumber: 60a

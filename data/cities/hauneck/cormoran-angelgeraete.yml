@@ -3,7 +3,7 @@ type: way
 shop: Outdoor
 latitude: 50.8353455
 longitude: 9.722946700000001
-postcode: 36282
+postcode: "36282"
 city: Hauneck
 street: "Hersfelder Straße"
 housenumber: 11

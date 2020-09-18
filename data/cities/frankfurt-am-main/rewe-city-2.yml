@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.0847666
 longitude: 8.6300974
-postcode: 60528
+postcode: "60528"
 city: Frankfurt am Main
 street: "Goldsteinstraße"
 housenumber: 134

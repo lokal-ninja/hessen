@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.223414000000005
 longitude: 8.6064658
-postcode: 61348
+postcode: "61348"
 city: Bad Homburg v. d. Höhe
 street: "Urseler Straße"
 housenumber: 24

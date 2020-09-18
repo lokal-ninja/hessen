@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.551320200000006
 longitude: 9.676801900000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Marktstraße"
 housenumber: 4

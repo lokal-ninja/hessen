@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.312663
 longitude: 9.4942451
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Obere Karlsstraße"
 housenumber: 15

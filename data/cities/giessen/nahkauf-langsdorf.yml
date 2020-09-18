@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.538395
 longitude: 8.6212216
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Lindenstraße"
 housenumber: 17a

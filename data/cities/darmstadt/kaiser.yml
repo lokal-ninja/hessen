@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.87049450000001
 longitude: 8.6551788
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Schulstraße"
 housenumber: 3

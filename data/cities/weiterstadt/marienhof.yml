@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 49.913673800000005
 longitude: 8.5813839
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Schleifweg"
 housenumber: 47

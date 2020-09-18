@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.1207706
 longitude: 8.7061302
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Wittelsbacherallee"
 housenumber: 67

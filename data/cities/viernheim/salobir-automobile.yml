@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.5340987
 longitude: 8.5860307
-postcode: 68519
+postcode: "68519"
 city: Viernheim
 street: "Heidelberger Straße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7689357
 longitude: 8.580198000000001
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Marktplatz"
 housenumber: 3

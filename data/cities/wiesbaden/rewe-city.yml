@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0932241
 longitude: 8.2569169
-postcode: 65193
+postcode: "65193"
 city: Wiesbaden
 street: "Sonnenberger Straße"
 housenumber: 96

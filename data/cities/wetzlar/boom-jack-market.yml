@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.5603935
 longitude: 8.502156600000001
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Brückenstraße"
 housenumber: 3

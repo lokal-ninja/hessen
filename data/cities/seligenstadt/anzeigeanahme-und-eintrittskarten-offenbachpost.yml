@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 50.0434361
 longitude: 8.975686000000001
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: ""
 housenumber: 

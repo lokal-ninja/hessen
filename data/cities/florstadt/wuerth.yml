@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.3300264
 longitude: 8.9312467
-postcode: 61197
+postcode: "61197"
 city: Florstadt
 street: "In der Grobach"
 housenumber: 13

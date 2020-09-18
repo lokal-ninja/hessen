@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 51.2825417
 longitude: 9.634628600000001
-postcode: 34260
+postcode: "34260"
 city: Kaufungen
 street: "Leipziger Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.1431406
 longitude: 8.5641353
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Hauptstraße"
 housenumber: 70

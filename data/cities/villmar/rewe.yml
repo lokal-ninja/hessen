@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.39389430000001
 longitude: 8.1999522
-postcode: 65606
+postcode: "65606"
 city: Villmar
 street: "Brotweg"
 housenumber: 1

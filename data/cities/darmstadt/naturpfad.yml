@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 49.859493300000004
 longitude: 8.6559916
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Jahnstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.1241062
 longitude: 8.769359900000001
-postcode: 60386
+postcode: "60386"
 city: Frankfurt am Main
 street: "Alt-Fechenheim"
 housenumber: 

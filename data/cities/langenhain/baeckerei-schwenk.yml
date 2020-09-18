@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.1049008
 longitude: 8.397740200000001
-postcode: 65719
+postcode: "65719"
 city: Langenhain
 street: "Am Jagdhaus"
 housenumber: 8

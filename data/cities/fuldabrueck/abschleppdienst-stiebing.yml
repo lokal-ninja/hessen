@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.2292593
 longitude: 9.4996452
-postcode: 34277
+postcode: "34277"
 city: Fuldabrück
 street: "Melsunger Straße"
 housenumber: 5

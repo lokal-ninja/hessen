@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.115795000000006
 longitude: 8.723786500000001
-postcode: 60314
+postcode: "60314"
 city: Frankfurt am Main
 street: "Hanauer Landstraße"
 housenumber: 263

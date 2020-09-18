@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.8778985
 longitude: 8.662331
-postcode: 
+postcode: ""
 city: Darmstadt
 street: "Gutenbergstraße"
 housenumber: 5b

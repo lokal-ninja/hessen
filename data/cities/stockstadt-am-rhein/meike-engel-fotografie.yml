@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.808224
 longitude: 8.4658411
-postcode: 64589
+postcode: "64589"
 city: Stockstadt am Rhein
 street: "Oberstraße"
 housenumber: 13

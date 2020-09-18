@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.970375100000005
 longitude: 9.7926977
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Nürnberger Straße"
 housenumber: 25

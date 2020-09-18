@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.559038
 longitude: 8.6003364
-postcode: 35582
+postcode: "35582"
 city: Wetzlar
 street: "Lindengasse"
 housenumber: 2

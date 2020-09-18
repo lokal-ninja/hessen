@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.8196821
 longitude: 8.762339800000001
-postcode: 64372
+postcode: "64372"
 city: Ober-Ramstadt
 street: "Dieselstraße"
 housenumber: 9

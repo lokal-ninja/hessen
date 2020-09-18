@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.882095500000005
 longitude: 8.659201300000001
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Liebfrauenstraße"
 housenumber: 56

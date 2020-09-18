@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.0498835
 longitude: 9.6593809
-postcode: 36211
+postcode: "36211"
 city: Alheim
 street: "In der Spitze"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0479275
 longitude: 8.884656900000001
-postcode: 63110
+postcode: "63110"
 city: Rodgau
 street: "Falltorstraße"
 housenumber: 42

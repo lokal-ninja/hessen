@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5862478
 longitude: 9.836268800000001
-postcode: 36145
+postcode: "36145"
 city: Hofbieber
 street: "Langenbieberer Straße"
 housenumber: 6

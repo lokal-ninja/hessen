@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.273338700000004
 longitude: 8.887916500000001
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Kasseler Straße"
 housenumber: 10 - 12

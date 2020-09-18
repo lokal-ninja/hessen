@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.596914600000005
 longitude: 8.737993900000001
-postcode: 69509
+postcode: "69509"
 city: Mörlenbach
 street: "Annastraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.828749900000005
 longitude: 8.4882126
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Am Dammacker"
 housenumber: 6

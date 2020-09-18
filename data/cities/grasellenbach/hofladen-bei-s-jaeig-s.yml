@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.6273357
 longitude: 8.8570391
-postcode: 64689
+postcode: "64689"
 city: Grasellenbach
 street: "Siegfriedstraße"
 housenumber: 17

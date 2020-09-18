@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 50.077355600000004
 longitude: 8.2372346
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Rheinstraße"
 housenumber: 54

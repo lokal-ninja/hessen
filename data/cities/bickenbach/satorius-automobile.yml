@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.758985800000005
 longitude: 8.6130831
-postcode: 64404
+postcode: "64404"
 city: Bickenbach
 street: "Pfungstädter Straße"
 housenumber: 39

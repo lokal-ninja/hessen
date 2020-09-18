@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.487329100000004
 longitude: 9.708680000000001
-postcode: 36124
+postcode: "36124"
 city: Eichenzell
 street: "Rhönhof"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.9280358
 longitude: 8.4158056
-postcode: 65468
+postcode: "65468"
 city: Trebur
 street: "Oderstraße"
 housenumber: 22

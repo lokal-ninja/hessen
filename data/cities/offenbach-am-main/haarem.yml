@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1050185
 longitude: 8.7592516
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Kaiserstraße"
 housenumber: 63

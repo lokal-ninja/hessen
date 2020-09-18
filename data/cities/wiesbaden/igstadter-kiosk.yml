@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.080621400000005
 longitude: 8.3295487
-postcode: 65207
+postcode: "65207"
 city: Wiesbaden
 street: "Hauptstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 50.5279673
 longitude: 9.6839369
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Christian-Wirth-Straße"
 housenumber: 4

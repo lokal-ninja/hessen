@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.834418500000005
 longitude: 9.2913639
-postcode: 34637
+postcode: "34637"
 city: Schrecksbach
 street: "Behringstraße"
 housenumber: 20

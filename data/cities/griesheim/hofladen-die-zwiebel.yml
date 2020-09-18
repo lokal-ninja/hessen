@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 49.851933200000005
 longitude: 8.565151100000001
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Spargelhof"
 housenumber: 1

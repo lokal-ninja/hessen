@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.3589944
 longitude: 8.871135800000001
-postcode: 61203
+postcode: "61203"
 city: Reichelsheim
 street: "Eichenstraße"
 housenumber: 1

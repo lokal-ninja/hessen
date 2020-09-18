@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.819614200000004
 longitude: 8.7608277
-postcode: 64372
+postcode: "64372"
 city: Ober-Ramstadt
 street: "Dieselstraße"
 housenumber: 5

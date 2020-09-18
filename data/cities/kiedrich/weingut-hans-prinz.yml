@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.0420115
 longitude: 8.082896400000001
-postcode: 65399
+postcode: "65399"
 city: Kiedrich
 street: "Suttonstraße"
 housenumber: 13

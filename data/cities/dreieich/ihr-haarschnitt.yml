@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.0217235
 longitude: 8.6953107
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Frankfurter Straße"
 housenumber: 44

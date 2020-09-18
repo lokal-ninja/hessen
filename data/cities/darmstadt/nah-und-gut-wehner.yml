@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.8213632
 longitude: 8.6393602
-postcode: 64297
+postcode: "64297"
 city: Darmstadt
 street: "Thüringerstraße"
 housenumber: 13

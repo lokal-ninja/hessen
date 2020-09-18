@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.0984909
 longitude: 8.5919235
-postcode: 65933
+postcode: "65933"
 city: Frankfurt am Main
 street: "Ernst-Wiss-Straße"
 housenumber: 26

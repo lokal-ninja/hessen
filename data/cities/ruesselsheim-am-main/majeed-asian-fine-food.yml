@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 49.9906203
 longitude: 8.444506
-postcode: 65428
+postcode: "65428"
 city: Rüsselsheim am Main
-street: "Feuerbachstraße"
-housenumber: 
+street: "Adolf-von-Menzel-Straße"
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-13:00, 14:30-19:00; Sa 09:00-19:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.255148600000005
 longitude: 9.4142804
-postcode: 34225
+postcode: "34225"
 city: Baunatal
 street: "Marktplatz"
 housenumber: 12

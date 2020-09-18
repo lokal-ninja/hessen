@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.132587400000006
 longitude: 8.9159632
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Römerstraße"
 housenumber: 2

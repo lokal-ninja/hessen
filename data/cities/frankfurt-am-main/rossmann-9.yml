@@ -1,12 +1,12 @@
-id: 2395294161
+id: 3016574605
 type: node
 shop: Drogerie
-latitude: 50.102012300000005
-longitude: 8.636121600000001
-postcode: 60326
+latitude: 50.112839300000005
+longitude: 8.6775813
+postcode: "60311"
 city: Frankfurt am Main
-street: "Mainzer Landstraße"
-housenumber: 341
+street: "Roßmarkt"
+housenumber: 10
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off"
+opening_hours: "Mo-We 08:30-20:00; Th-Fr 08:30-21:00; Sa 08:30-21:00; PH off"
 website: ""

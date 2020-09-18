@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.233320000000006
 longitude: 9.3456233
-postcode: 63619
+postcode: "63619"
 city: Bad Orb
 street: "Faulhaberstraße"
 housenumber: 34

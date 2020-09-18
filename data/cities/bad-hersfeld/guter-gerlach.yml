@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8636215
 longitude: 9.706773100000001
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Heinrich-von-Stephan-Straße"
 housenumber: 4

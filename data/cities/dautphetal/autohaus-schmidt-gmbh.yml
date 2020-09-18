@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.8167666
 longitude: 8.5300665
-postcode: 35232
+postcode: "35232"
 city: Dautphetal
 street: "Gasserstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.116215100000005
 longitude: 8.710188800000001
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Habsburgerallee"
 housenumber: 95

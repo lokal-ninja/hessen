@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.134861400000005
 longitude: 8.400834
-postcode: 65817
+postcode: "65817"
 city: Eppstein
 street: "Lorsbacher Straße"
 housenumber: 18-20

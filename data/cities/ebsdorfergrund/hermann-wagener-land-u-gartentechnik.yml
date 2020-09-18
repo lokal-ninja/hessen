@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.747626700000005
 longitude: 8.8290115
-postcode: 35085
+postcode: "35085"
 city: Ebsdorfergrund
 street: "Am alten Bahnhof"
 housenumber: 10

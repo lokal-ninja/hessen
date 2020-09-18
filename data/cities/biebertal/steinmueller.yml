@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.623338000000004
 longitude: 8.5861461
-postcode: 35444
+postcode: "35444"
 city: Biebertal
 street: "Hauptstraße"
 housenumber: 

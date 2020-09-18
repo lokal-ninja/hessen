@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.599180600000004
 longitude: 8.740377500000001
-postcode: 69509
+postcode: "69509"
 city: Mörlenbach
 street: "Parkstraße"
 housenumber: 1

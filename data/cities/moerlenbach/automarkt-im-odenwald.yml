@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.6002452
 longitude: 8.7387567
-postcode: 69509
+postcode: "69509"
 city: Mörlenbach
 street: "Industriestraße"
 housenumber: 3

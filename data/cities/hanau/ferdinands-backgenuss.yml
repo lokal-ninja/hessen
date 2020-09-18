@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.112047100000005
 longitude: 8.9140735
-postcode: 63456
+postcode: "63456"
 city: Hanau
 street: "Ludwigstraße"
 housenumber: 50

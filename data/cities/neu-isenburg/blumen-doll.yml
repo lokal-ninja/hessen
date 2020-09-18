@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.0482388
 longitude: 8.7031518
-postcode: 63263
+postcode: "63263"
 city: Neu-Isenburg
 street: "Friedhofstraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.1837627
 longitude: 8.5486821
-postcode: 61476
+postcode: "61476"
 city: Kronberg im Taunus
 street: "Oberurseler Straße"
 housenumber: 69

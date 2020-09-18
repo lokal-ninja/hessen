@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.5367328
 longitude: 9.676852700000001
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Frankfurter Straße"
 housenumber: 71

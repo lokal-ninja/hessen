@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.5709224
 longitude: 8.4819414
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Dillfeld"
 housenumber: 31

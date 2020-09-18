@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.1324753
 longitude: 9.2748142
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Kasseler Straße"
 housenumber: 10

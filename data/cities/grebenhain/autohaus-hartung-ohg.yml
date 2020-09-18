@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.4943261
 longitude: 9.3479705
-postcode: 36355
+postcode: "36355"
 city: Grebenhain
 street: "Bahnhofstraße"
 housenumber: 76

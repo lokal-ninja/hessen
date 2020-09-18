@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.0877211
 longitude: 8.4450115
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Hauptstraße"
 housenumber: 38

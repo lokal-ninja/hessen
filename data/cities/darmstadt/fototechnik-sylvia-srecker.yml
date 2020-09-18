@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 49.8984296
 longitude: 8.682385
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Grundstraße"
 housenumber: 2-8

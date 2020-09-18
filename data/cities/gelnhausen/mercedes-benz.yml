@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.1875488
 longitude: 9.1725937
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Zum Sonnenberg"
 housenumber: 1-3

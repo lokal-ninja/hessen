@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 50.1155155
 longitude: 8.6849748
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "Schäfergasse"
 housenumber: 12

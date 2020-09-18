@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.824674
 longitude: 8.8309899
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Waldstraße"
 housenumber: 11

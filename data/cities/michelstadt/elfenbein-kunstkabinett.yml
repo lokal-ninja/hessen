@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.6784656
 longitude: 9.0049828
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Am Kirchenplatz"
 housenumber: 7

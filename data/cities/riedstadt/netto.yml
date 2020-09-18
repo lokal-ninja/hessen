@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8595393
 longitude: 8.449071400000001
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Dornheimer Straße"
 housenumber: 2

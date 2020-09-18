@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.06132100000001
 longitude: 8.4174216
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Wildsachsener Straße"
 housenumber: 

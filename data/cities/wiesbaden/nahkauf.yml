@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.082103200000006
 longitude: 8.2828996
-postcode: 65191
+postcode: "65191"
 city: Wiesbaden
 street: "Patrickstraße"
 housenumber: 2

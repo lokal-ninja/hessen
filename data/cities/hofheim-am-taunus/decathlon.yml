@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.057186200000004
 longitude: 8.374084400000001
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Am Wandersmann"
 housenumber: 6

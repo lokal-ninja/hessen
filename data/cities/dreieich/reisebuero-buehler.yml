@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.0198559
 longitude: 8.695759200000001
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Frankfurter Straße"
 housenumber: 3

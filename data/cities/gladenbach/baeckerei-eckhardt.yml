@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.7689091
 longitude: 8.580749
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Marktplatz"
 housenumber: 1

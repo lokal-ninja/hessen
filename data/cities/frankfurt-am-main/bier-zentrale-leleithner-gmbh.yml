@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.119282500000004
 longitude: 8.7612606
-postcode: 60386
+postcode: "60386"
 city: Frankfurt am Main
 street: "Ferdinand-Porsche-Straße"
 housenumber: 33

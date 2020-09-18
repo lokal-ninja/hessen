@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.28511030000001
 longitude: 9.5469594
-postcode: 34253
+postcode: "34253"
 city: Lohfelden
 street: "Faustmühlenweg"
 housenumber: 30

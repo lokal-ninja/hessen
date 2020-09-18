@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 49.8706911
 longitude: 8.6549841
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Schulstraße"
 housenumber: 4

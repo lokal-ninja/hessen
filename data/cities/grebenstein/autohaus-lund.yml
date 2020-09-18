@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.4480425
 longitude: 9.4149364
-postcode: 34393
+postcode: "34393"
 city: Grebenstein
 street: "Untere Hofstraße"
 housenumber: 3

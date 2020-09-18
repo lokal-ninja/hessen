@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5721045
 longitude: 8.6886226
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Ferniestraße"
 housenumber: 4

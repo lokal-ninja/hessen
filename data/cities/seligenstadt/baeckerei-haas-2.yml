@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.053152100000005
 longitude: 8.9705511
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Berliner Straße"
 housenumber: 13

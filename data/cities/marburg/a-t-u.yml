@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.8156485
 longitude: 8.7773579
-postcode: 35039
+postcode: "35039"
 city: Marburg
 street: "Krummbogen"
 housenumber: 18

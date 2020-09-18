@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.8143879
 longitude: 8.767445200000001
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Ketzerbach"
 housenumber: 18

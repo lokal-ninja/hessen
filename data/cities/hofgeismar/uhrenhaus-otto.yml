@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 51.4941375
 longitude: 9.3823463
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: "Mühlenstraße"
 housenumber: 6
 phone: "+49 5671 5773"
-opening_hours: ""
+opening_hours: "Mo-Sa 09:30-20:00"
 website: "https://www.uhrenhaus-otto.de/"

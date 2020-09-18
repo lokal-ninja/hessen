@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.039001400000004
 longitude: 9.397758000000001
-postcode: 34576
+postcode: "34576"
 city: Homberg (Efze)
 street: "Kasseler Straße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.541423
 longitude: 8.996943
-postcode: 35321
+postcode: "35321"
 city: Laubach
 street: "Schottener Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.1976377
 longitude: 8.822389900000001
-postcode: 61137
+postcode: "61137"
 city: Schöneck
 street: "Alte Dorfstraße"
 housenumber: 28

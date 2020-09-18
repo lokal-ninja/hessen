@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.93085790000001
 longitude: 8.4078608
-postcode: 65468
+postcode: "65468"
 city: Trebur
 street: "Vordere Oderstraße"
 housenumber: 1

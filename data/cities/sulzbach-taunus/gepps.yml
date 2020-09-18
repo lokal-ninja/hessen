@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 50.1173298
 longitude: 8.5287266
-postcode: 65843
+postcode: "65843"
 city: Sulzbach (Taunus)
 street: "Am Main-Taunus-Zentrum"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.0759083
 longitude: 8.2326423
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Adelheidstraße"
 housenumber: 91

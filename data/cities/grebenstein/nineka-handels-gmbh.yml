@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.448880800000005
 longitude: 9.4198663
-postcode: 34393
+postcode: "34393"
 city: Grebenstein
 street: "Über der Bahn"
 housenumber: 3

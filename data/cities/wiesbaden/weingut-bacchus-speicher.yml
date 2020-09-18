@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 50.010997800000005
 longitude: 8.3193263
-postcode: 55246
+postcode: "55246"
 city: Wiesbaden
 street: "Gänssaalweg"
 housenumber: 25

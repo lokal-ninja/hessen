@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.104444900000004
 longitude: 8.6633903
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Pforzheimer Straße"
 housenumber: 5

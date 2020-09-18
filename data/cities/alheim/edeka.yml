@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.024455800000005
 longitude: 9.6682477
-postcode: 36211
+postcode: "36211"
 city: Alheim
 street: "Braacher Straße"
 housenumber: 2

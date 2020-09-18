@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.855605800000006
 longitude: 8.6514661
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Ludwigshöhstraße"
 housenumber: 44

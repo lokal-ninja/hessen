@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6343078
 longitude: 8.6128069
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "An der Autobahn"
 housenumber: 1

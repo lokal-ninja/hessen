@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1934398
 longitude: 10.037559400000001
-postcode: 37269
+postcode: "37269"
 city: Eschwege
 street: "Niederhoner Straße"
 housenumber: 40

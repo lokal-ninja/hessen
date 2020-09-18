@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.7750087
 longitude: 8.6373551
-postcode: 64342
+postcode: "64342"
 city: Seeheim
 street: "Breslauer Straße"
 housenumber: 18 a

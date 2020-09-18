@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 49.859506100000004
 longitude: 8.656477200000001
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Jahnstraße"
 housenumber: 

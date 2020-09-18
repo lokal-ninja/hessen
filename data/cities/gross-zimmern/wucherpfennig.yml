@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.872080700000005
 longitude: 8.831398400000001
-postcode: 64846
+postcode: "64846"
 city: Groß-Zimmern
 street: "Beinestraße"
 housenumber: 12

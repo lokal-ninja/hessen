@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.871877700000006
 longitude: 8.9269729
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Bruchweg"
 housenumber: 11

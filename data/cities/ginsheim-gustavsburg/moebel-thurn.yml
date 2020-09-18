@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 49.988222
 longitude: 8.3268609
-postcode: 65462
+postcode: "65462"
 city: Ginsheim-Gustavsburg
 street: "Ginsheimer Straße"
 housenumber: 48

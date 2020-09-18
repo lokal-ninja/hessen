@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.5484154
 longitude: 8.4611105
-postcode: 35579
+postcode: "35579"
 city: Wetzlar
 street: "Unterdorfstraße"
 housenumber: 8

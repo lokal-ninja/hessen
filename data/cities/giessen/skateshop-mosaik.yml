@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.5834844
 longitude: 8.668054900000001
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Bahnhofstraße"
 housenumber: 56

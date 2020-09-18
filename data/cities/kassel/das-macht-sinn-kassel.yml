@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.314462400000004
 longitude: 9.4963133
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Friedrichsplatz"
 housenumber: 19-20

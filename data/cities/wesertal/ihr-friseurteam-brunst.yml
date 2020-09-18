@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5993743
 longitude: 9.5495985
-postcode: 34399
+postcode: "34399"
 city: Wesertal
 street: "Steinweg"
 housenumber: 1

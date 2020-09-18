@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.6501023
 longitude: 8.777067200000001
-postcode: 64658
+postcode: "64658"
 city: Fürth
 street: "Mühlstraße"
 housenumber: 4

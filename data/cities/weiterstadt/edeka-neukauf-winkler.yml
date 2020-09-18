@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9066114
 longitude: 8.5756317
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Büttelborner Weg"
 housenumber: 1

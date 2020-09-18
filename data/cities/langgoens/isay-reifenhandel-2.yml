@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.493588200000005
 longitude: 8.650233400000001
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "An der Pfarrwiese"
 housenumber: 9

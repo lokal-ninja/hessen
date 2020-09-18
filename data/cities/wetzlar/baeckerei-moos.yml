@@ -3,9 +3,9 @@ type: node
 shop: Bäckerei
 latitude: 50.5695052
 longitude: 8.498907500000001
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
-street: ""
+street: "Hermannsteiner Straße"
 housenumber: 
 phone: ""
 opening_hours: ""

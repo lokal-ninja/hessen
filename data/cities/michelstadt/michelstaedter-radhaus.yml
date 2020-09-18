@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.683370100000005
 longitude: 9.002293
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Frankfurter Straße"
 housenumber: 37

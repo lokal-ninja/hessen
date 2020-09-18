@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.061730600000004
 longitude: 8.532453
-postcode: 65451
+postcode: "65451"
 city: Kelsterbach
 street: "Mörfelder Straße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 50.55165
 longitude: 9.678577800000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Universitätsplatz"
 housenumber: 2

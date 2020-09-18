@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.5874424
 longitude: 8.8961667
-postcode: 64760
+postcode: "64760"
 city: Oberzent
 street: "Finkenbacher Straße"
 housenumber: 40

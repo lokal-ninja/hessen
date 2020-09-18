@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.185142400000004
 longitude: 10.171233500000001
-postcode: 37281
+postcode: "37281"
 city: Wanfried
 street: "Plesseweg"
 housenumber: 6-10

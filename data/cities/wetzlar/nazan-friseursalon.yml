@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.544001
 longitude: 8.5347208
-postcode: 35578
+postcode: "35578"
 city: Wetzlar
 street: "Unter dem Nußbaum"
 housenumber: 12

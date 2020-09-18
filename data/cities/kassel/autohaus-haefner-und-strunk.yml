@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.3225204
 longitude: 9.490191300000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Reuterstraße"
 housenumber: 11

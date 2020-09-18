@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.4235874
 longitude: 9.575209800000001
-postcode: 36103
+postcode: "36103"
 city: Flieden
 street: "An der Fliede"
 housenumber: 5

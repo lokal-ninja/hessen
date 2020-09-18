@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3720536
 longitude: 8.994411900000001
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Ostpreußenstraße"
 housenumber: 66

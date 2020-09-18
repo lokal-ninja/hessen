@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.139515
 longitude: 8.1528727
-postcode: 65232
+postcode: "65232"
 city: Taunusstein
 street: "Kleiststraße"
 housenumber: 2

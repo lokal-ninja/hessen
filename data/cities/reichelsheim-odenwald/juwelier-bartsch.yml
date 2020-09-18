@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 49.7116917
 longitude: 8.8354967
-postcode: 64385
+postcode: "64385"
 city: Reichelsheim (Odenwald)
 street: "Heidelberger Straße"
 housenumber: 

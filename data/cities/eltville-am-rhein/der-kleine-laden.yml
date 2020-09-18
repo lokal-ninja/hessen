@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.059490800000006
 longitude: 8.1106967
-postcode: 65345
+postcode: "65345"
 city: Eltville am Rhein
 street: "Antoniusgasse"
 housenumber: 1

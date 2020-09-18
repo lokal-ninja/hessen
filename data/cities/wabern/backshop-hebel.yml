@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.0678545
 longitude: 9.379346
-postcode: 34590
+postcode: "34590"
 city: Wabern
 street: "Alsfelder Straße"
 housenumber: 10

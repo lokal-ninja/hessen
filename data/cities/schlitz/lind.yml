@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.670556000000005
 longitude: 9.5568183
-postcode: 36110
+postcode: "36110"
 city: Schlitz
 street: "An der Berleburg"
 housenumber: 4

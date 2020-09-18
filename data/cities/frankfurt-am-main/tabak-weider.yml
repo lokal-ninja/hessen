@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.1079531
 longitude: 8.6698353
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Münchener Straße"
 housenumber: 18

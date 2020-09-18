@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.644788000000005
 longitude: 9.032484
-postcode: 35325
+postcode: "35325"
 city: Mücke
 street: "Merlauer Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.7745011
 longitude: 9.5702491
-postcode: 36272
+postcode: "36272"
 city: Niederaula
 street: "Jossastraße"
 housenumber: 16

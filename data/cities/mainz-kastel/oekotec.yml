@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 50.025253500000005
 longitude: 8.267279
-postcode: 55252
+postcode: "55252"
 city: Mainz-Kastel
 street: "Wiesbadener Straße"
 housenumber: 118

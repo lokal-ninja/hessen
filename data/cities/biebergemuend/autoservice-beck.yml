@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.215597700000004
 longitude: 9.2719661
-postcode: 63599
+postcode: "63599"
 city: Biebergemünd
 street: "Wirtheimer Straße"
 housenumber: 11

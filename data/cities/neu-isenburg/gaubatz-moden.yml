@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.057407700000006
 longitude: 8.6953286
-postcode: 63263
+postcode: "63263"
 city: Neu-Isenburg
 street: "Frankfurter Straße"
 housenumber: 14-16

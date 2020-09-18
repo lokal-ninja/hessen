@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 50.5907411
 longitude: 8.9597748
-postcode: 35305
+postcode: "35305"
 city: Grünberg
 street: "Rabegasse"
 housenumber: 7

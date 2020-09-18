@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.042652700000005
 longitude: 8.975836300000001
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Aschaffenburger Straße"
 housenumber: 33

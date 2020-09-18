@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5521436
 longitude: 9.676781
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Nonnengasse"
 housenumber: 3

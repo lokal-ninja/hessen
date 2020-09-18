@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.603780900000004
 longitude: 8.6913035
-postcode: 35396
+postcode: "35396"
 city: Gießen
 street: "Marburger Straße"
 housenumber: 191,193

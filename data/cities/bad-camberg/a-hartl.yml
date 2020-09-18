@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 50.298142500000004
 longitude: 8.2692759
-postcode: 65520
+postcode: "65520"
 city: Bad Camberg
 street: "Marktplatz"
 housenumber: 3

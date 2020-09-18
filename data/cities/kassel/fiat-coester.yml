@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3299425
 longitude: 9.499151300000001
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Holländische Straße"
 housenumber: 100

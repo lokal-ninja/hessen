@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8009507
 longitude: 8.749231700000001
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Stiftstraße"
 housenumber: 12

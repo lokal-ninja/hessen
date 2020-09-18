@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.32931730000001
 longitude: 9.1731026
-postcode: 34466
+postcode: "34466"
 city: Wolfhagen
 street: "Schützeberger Straße"
 housenumber: 91b

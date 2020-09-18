@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.6793861
 longitude: 8.847113700000001
-postcode: 35466
+postcode: "35466"
 city: Rabenau
 street: "An der Mühle"
 housenumber: 13

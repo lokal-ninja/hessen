@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.287983100000005
 longitude: 9.4737921
-postcode: 34134
+postcode: "34134"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 225

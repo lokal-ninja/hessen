@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.9122873
 longitude: 9.172088500000001
-postcode: 34613
+postcode: "34613"
 city: Schwalmstadt
 street: "Heinrich-Bachmann-Straße"
 housenumber: 

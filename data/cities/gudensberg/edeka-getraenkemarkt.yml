@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.178663
 longitude: 9.366736300000001
-postcode: 34281
+postcode: "34281"
 city: Gudensberg
 street: "Kasseler Straße"
 housenumber: 5

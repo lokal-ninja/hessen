@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 50.55184130000001
 longitude: 9.675752600000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Unterm Heilig Kreuz"
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:30-18:00; Sa 10:30-16:00"
 website: ""

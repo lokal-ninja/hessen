@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.3008746
 longitude: 8.6919391
-postcode: 61191
+postcode: "61191"
 city: Rosbach v. d. Höhe
 street: "Nieder-Rosbacher-Straße"
 housenumber: 17-19

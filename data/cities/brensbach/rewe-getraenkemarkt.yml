@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.775217000000005
 longitude: 8.8730142
-postcode: 64395
+postcode: "64395"
 city: Brensbach
 street: "An der Hornsmühle"
 housenumber: 7

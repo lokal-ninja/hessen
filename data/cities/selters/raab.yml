@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.3345913
 longitude: 8.2251612
-postcode: 65618
+postcode: "65618"
 city: Selters
 street: "Brunnenstraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.276192900000005
 longitude: 8.871942800000001
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Am Berndorfer Tor"
 housenumber: 3

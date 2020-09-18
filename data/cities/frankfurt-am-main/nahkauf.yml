@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1522525
 longitude: 8.6276037
-postcode: 60439
+postcode: "60439"
 city: Frankfurt am Main
 street: "Im Weimel"
 housenumber: 

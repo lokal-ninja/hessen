@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.548761400000004
 longitude: 9.674886500000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Löherstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 50.1228842
 longitude: 8.7381075
-postcode: 60314
+postcode: "60314"
 city: Frankfurt am Main
 street: "Hanauer Landstraße"
 housenumber: 427

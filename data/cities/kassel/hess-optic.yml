@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.315584900000005
 longitude: 9.4943414
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Treppenstraße"
 housenumber: 6

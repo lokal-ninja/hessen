@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.0665636
 longitude: 8.647924
-postcode: 60528
+postcode: "60528"
 city: Frankfurt am Main
 street: "Otto-Fleck-Schneise"
 housenumber: 7

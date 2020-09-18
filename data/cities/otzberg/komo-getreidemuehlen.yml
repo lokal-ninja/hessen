@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.8379872
 longitude: 8.9008321
-postcode: 64853
+postcode: "64853"
 city: Otzberg
 street: "Habitzheimer Straße"
 housenumber: 14

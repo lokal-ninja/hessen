@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9688347
 longitude: 8.6556324
-postcode: 63329
+postcode: "63329"
 city: Egelsbach
 street: "Taunusstraße"
 housenumber: 12

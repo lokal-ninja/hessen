@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1680944
 longitude: 8.7271405
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Alte Frankfurter Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.7516152
 longitude: 8.7207481
-postcode: 64397
+postcode: "64397"
 city: Modautal
 street: "Alt Hoxhohl"
 housenumber: 32

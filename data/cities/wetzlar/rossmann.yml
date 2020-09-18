@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.562781
 longitude: 8.5011449
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Bahnhofstraße"
 housenumber: 19

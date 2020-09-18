@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.4969565
 longitude: 8.6636255
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Am Mühlberg"
 housenumber: 4

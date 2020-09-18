@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.0046486
 longitude: 7.983567300000001
-postcode: 65366
+postcode: "65366"
 city: Geisenheim
 street: "Am Erntebringer"
 housenumber: 11a

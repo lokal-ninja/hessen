@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.834759000000005
 longitude: 8.4881987
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Stahlbaustraße"
 housenumber: 3

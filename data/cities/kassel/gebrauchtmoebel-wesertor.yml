@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.320693500000004
 longitude: 9.510279
-postcode: 34125
+postcode: "34125"
 city: Kassel
 street: "Weserstraße"
 housenumber: 23

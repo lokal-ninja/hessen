@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.4293478
 longitude: 8.6829175
-postcode: 35510
+postcode: "35510"
 city: Butzbach
 street: "In der Alböhn"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1557955
 longitude: 8.5269461
-postcode: 65824
+postcode: "65824"
 city: Schwalbach am Taunus
 street: "Marktplatz"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.2808287
 longitude: 9.5583471
-postcode: 34253
+postcode: "34253"
 city: Lohfelden
 street: "Elisabeth-Selbert-Straße"
 housenumber: 42

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.76307550000001
 longitude: 8.9220997
-postcode: 35287
+postcode: "35287"
 city: Amöneburg
 street: "Homberger Straße"
 housenumber: 15

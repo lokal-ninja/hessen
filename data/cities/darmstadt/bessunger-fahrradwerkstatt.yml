@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.8558497
 longitude: 8.6518707
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Herrngartenstraße"
 housenumber: 

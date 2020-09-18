@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.7760406
 longitude: 8.584218700000001
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Zu den Kauten"
 housenumber: 1

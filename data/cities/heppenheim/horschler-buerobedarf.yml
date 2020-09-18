@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.6404566
 longitude: 8.629625200000001
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Uhlandstraße"
 housenumber: 12

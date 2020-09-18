@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.992209700000004
 longitude: 8.5464894
-postcode: 35116
+postcode: "35116"
 city: Hatzfeld (Eder)
 street: "Edertalstraße"
 housenumber: 2

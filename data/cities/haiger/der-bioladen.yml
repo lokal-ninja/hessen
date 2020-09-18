@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.7415594
 longitude: 8.205004800000001
-postcode: 35708
+postcode: "35708"
 city: Haiger
 street: "Mühlenstraße"
 housenumber: 4

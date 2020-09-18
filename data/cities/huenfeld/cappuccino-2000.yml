@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 50.663018300000005
 longitude: 9.763393
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Zum Nüsttal"
 housenumber: 14

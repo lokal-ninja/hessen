@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1035849
 longitude: 8.5790463
-postcode: 65934
+postcode: "65934"
 city: Frankfurt am Main
 street: "Werner-Bockelmann-Straße"
 housenumber: 7

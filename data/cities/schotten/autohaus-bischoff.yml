@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.497604
 longitude: 9.120519
-postcode: 63679
+postcode: "63679"
 city: Schotten
 street: "Taubenweg"
 housenumber: 17

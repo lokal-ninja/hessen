@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 49.7465874
 longitude: 9.0027153
-postcode: 64732
+postcode: "64732"
 city: Bad König
 street: "Frankfurter Straße"
 housenumber: 70

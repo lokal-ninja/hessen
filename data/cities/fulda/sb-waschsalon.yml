@@ -3,10 +3,10 @@ type: node
 shop: Wäscherei
 latitude: 50.5622021
 longitude: 9.6850901
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Leipziger Straße"
 housenumber: 
 phone: ""
-opening_hours: "Mo-Su,PH 07:00-22:00"
+opening_hours: "PH,Mo-Su 07:00-22:00"
 website: ""

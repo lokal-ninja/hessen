@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.858590500000005
 longitude: 8.5812367
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Zeppelinstraße"
 housenumber: 9

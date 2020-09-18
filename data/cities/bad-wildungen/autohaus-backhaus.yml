@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1205141
 longitude: 9.134641
-postcode: 34537
+postcode: "34537"
 city: Bad Wildungen
 street: "Bahnhofstraße"
 housenumber: 27

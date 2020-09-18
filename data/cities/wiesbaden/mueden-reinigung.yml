@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 50.0574668
 longitude: 8.3425893
-postcode: 65205
+postcode: "65205"
 city: Wiesbaden
 street: "Ostring"
 housenumber: 2

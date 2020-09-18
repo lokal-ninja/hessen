@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.1273567
 longitude: 8.7095426
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Berger Straße"
 housenumber: 234-238

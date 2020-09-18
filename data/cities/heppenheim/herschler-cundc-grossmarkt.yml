@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.6389986
 longitude: 8.6157363
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Odenwaldstraße"
 housenumber: 10

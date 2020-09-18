@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.364615300000004
 longitude: 8.7391624
-postcode: 61231
+postcode: "61231"
 city: Bad Nauheim
 street: "Karlstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 49.868543
 longitude: 8.9157322
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Albert-Einstein-Straße"
 housenumber: 16

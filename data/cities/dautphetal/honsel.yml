@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.872240500000004
 longitude: 8.5974438
-postcode: 35232
+postcode: "35232"
 city: Dautphetal
 street: "Neue Landstraße"
 housenumber: 41

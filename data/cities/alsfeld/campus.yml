@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.752684
 longitude: 9.2716337
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Schellengasse"
 housenumber: 13

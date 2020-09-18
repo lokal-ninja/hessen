@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3547766
 longitude: 9.4626327
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Lange Wender"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Maschinen
 latitude: 49.863362200000005
 longitude: 8.9165288
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Warthweg"
 housenumber: 8,10

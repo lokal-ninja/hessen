@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7362259
 longitude: 8.627636
-postcode: 35102
+postcode: "35102"
 city: Lohra
 street: "Gladenbacher Straße"
 housenumber: 15a

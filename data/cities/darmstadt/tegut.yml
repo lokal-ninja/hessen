@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.8718492
 longitude: 8.6555338
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Ludwigstraße"
 housenumber: 2

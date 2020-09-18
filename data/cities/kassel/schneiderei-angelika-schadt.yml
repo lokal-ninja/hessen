@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.2939548
 longitude: 9.4133507
-postcode: 34132
+postcode: "34132"
 city: Kassel
 street: "Nordshäuser Straße"
 housenumber: 1c

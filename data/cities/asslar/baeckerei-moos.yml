@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.5903014
 longitude: 8.463178300000001
-postcode: 35614
+postcode: "35614"
 city: Aßlar
 street: "Hauptstraße"
 housenumber: 25

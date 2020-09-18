@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.2777122
 longitude: 8.8727421
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Bahnhofstraße"
 housenumber: 15a

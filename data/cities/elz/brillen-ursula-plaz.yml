@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.4112171
 longitude: 8.0356089
-postcode: 65604
+postcode: "65604"
 city: Elz
 street: "Limburger Straße"
 housenumber: 20

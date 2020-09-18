@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.04540050000001
 longitude: 9.2792954
-postcode: 34582
+postcode: "34582"
 city: Borken
 street: "Gellenweg"
 housenumber: 12-14

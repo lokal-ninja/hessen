@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9923913
 longitude: 9.7739778
-postcode: 36199
+postcode: "36199"
 city: Rotenburg an der Fulda
 street: "Zum Grumbach"
 housenumber: 1

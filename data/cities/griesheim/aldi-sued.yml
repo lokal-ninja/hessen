@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.868167400000004
 longitude: 8.5545238
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Nordring"
 housenumber: 21

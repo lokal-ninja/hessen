@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.9029393
 longitude: 8.7227732
-postcode: 35083
+postcode: "35083"
 city: Wetter (Hessen)
 street: "Fuhrstraße"
 housenumber: 31

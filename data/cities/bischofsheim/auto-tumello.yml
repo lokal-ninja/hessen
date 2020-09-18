@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.989561200000004
 longitude: 8.335539800000001
-postcode: 65474
+postcode: "65474"
 city: Bischofsheim
 street: "In der Tagweide"
 housenumber: 14

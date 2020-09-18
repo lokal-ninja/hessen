@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.8814277
 longitude: 8.6489736
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
 street: "Pallaswiesenstraße"
 housenumber: 33

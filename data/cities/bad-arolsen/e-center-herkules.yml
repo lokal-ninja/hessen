@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3776257
 longitude: 9.0101577
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Georg-Viktor-Straße"
 housenumber: 2

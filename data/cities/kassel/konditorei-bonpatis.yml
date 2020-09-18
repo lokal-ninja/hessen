@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 51.3132187
 longitude: 9.444627500000001
-postcode: 34131
+postcode: "34131"
 city: Kassel
 street: "Landgraf-Karl-Straße"
 housenumber: 3

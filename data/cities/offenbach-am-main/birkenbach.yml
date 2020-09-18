@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.087411800000005
 longitude: 8.7511311
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Schumannstraße"
 housenumber: 46

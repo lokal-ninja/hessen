@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.5494768
 longitude: 9.6766327
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Brauhausstraße"
 housenumber: 2

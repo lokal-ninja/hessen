@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.496891700000006
 longitude: 8.6690501
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Holzheimer Straße"
 housenumber: 14

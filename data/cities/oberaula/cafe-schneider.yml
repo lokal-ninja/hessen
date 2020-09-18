@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8583476
 longitude: 9.4709088
-postcode: 36280
+postcode: "36280"
 city: Oberaula
 street: "Friedigeröder Straße"
 housenumber: 2

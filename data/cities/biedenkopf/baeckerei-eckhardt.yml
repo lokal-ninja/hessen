@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.91196660000001
 longitude: 8.5306605
-postcode: 35216
+postcode: "35216"
 city: Biedenkopf
 street: "Am Marktplatz"
 housenumber: 7

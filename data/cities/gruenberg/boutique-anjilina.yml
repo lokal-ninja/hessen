@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 50.5908225
 longitude: 8.9598756
-postcode: 35305
+postcode: "35305"
 city: Grünberg
 street: "Rabegasse"
 housenumber: 3

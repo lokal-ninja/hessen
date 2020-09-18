@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.4088313
 longitude: 9.4035858
-postcode: 34379
+postcode: "34379"
 city: Calden
 street: "Mittelstraße"
 housenumber: 6

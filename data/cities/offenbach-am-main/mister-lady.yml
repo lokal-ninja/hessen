@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.0877199
 longitude: 8.761554400000001
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Odenwaldring"
 housenumber: 70

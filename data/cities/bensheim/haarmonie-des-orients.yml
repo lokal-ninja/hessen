@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.6780806
 longitude: 8.6155206
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Wormser Straße"
 housenumber: 11

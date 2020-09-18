@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.114955
 longitude: 9.6507494
-postcode: 34286
+postcode: "34286"
 city: Spangenberg
 street: "Melsunger Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.1322489
 longitude: 8.9191003
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Nürnberger Straße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.9090031
 longitude: 8.4963911
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Helvetiastraße"
 housenumber: 5

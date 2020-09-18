@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.219541400000004
 longitude: 8.2546485
-postcode: 65510
+postcode: "65510"
 city: Idstein
 street: "Deningerstraße"
 housenumber: 8

@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 49.6822688
 longitude: 8.6046391
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Berliner Ring"
 housenumber: 81
 phone: "+49 6251 1385240"
-opening_hours: "Mo-Fr 06:30-21:00; Sa 06:30-21:00; Su 07:30-12:00"
-website: "https://www.baeckergoertz.de"
+opening_hours: "Mo-Sa 06:30-21:00; Su 07:30-12:00"
+website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"

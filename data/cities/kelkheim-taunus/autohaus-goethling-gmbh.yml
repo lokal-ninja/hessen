@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.1195031
 longitude: 8.462438
-postcode: 65779
+postcode: "65779"
 city: Kelkheim (Taunus)
 street: "Benzstraße"
 housenumber: 4

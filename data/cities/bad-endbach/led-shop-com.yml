@@ -3,7 +3,7 @@ type: way
 shop: Lampen
 latitude: 50.7540783
 longitude: 8.490764500000001
-postcode: 35080
+postcode: "35080"
 city: Bad Endbach
 street: "Landstraße"
 housenumber: 24a

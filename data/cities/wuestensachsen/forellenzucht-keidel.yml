@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 50.4942118
 longitude: 9.9872105
-postcode: 36115
+postcode: "36115"
 city: Wüstensachsen
 street: "Forellenhof"
 housenumber: 1

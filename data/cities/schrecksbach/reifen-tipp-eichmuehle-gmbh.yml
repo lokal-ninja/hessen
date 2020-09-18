@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 50.817931900000005
 longitude: 9.2647128
-postcode: 34637
+postcode: "34637"
 city: Schrecksbach
 street: "Eichmühle"
 housenumber: 1

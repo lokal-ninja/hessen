@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 50.790538700000006
 longitude: 8.7656556
-postcode: 35039
+postcode: "35039"
 city: Marburg
 street: "Frauenbergstraße"
 housenumber: 22

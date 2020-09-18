@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 50.553053500000004
 longitude: 9.6805211
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Bahnhofstraße"
 housenumber: 11
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-19:00"
 website: ""

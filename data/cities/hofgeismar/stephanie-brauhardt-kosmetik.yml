@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.490904300000004
 longitude: 9.3843952
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: "Garnisonsgalerie"
 housenumber: 5

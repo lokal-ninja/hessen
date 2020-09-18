@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.0688588
 longitude: 8.9058618
-postcode: 35110
+postcode: "35110"
 city: Frankenau
 street: "Kassenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.2678461
 longitude: 9.3755126
-postcode: 34270
+postcode: "34270"
 city: Schauenburg
 street: "Hilschen"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.1684215
 longitude: 8.5706491
-postcode: 61449
+postcode: "61449"
 city: Steinbach (Taunus)
 street: "Kirchgasse"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.6781553
 longitude: 8.6223247
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Heidelberger Straße"
 housenumber: 2

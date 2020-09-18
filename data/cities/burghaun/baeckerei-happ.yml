@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.6970401
 longitude: 9.727447300000001
-postcode: 36151
+postcode: "36151"
 city: Burghaun
 street: "Marktplatz"
 housenumber: 4

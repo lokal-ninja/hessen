@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2758698
 longitude: 8.8848062
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Strother Straße"
 housenumber: 37

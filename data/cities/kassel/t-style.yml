@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.3063073
 longitude: 9.4796265
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Heinrich-Heine-Straße"
 housenumber: 47

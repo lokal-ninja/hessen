@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.025149500000005
 longitude: 8.0351637
-postcode: 65375
+postcode: "65375"
 city: Oestrich-Winkel
 street: "Am Geiersberg"
 housenumber: 3

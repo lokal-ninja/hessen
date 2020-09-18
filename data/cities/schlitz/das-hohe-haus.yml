@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.674401800000005
 longitude: 9.5607244
-postcode: 36110
+postcode: "36110"
 city: Schlitz
 street: "Hindenburgstraße"
 housenumber: 12

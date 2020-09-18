@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.997902
 longitude: 8.4292855
-postcode: 65428
+postcode: "65428"
 city: Rüsselsheim am Main
 street: "Berliner Straße"
 housenumber: 33

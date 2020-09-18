@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.1085853
 longitude: 8.660994
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Niddastraße"
 housenumber: 74

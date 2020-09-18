@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.7522426
 longitude: 9.268062200000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Georg-Dietrich-Bücking-Straße"
 housenumber: 2

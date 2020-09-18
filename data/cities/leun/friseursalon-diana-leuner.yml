@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.549583500000004
 longitude: 8.357448100000001
-postcode: 35638
+postcode: "35638"
 city: Leun
 street: "Obere Bachstraße"
 housenumber: 2

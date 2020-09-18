@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.871445300000005
 longitude: 8.6559717
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "An der Stadtkirche"
 housenumber: 21

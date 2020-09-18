@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.8011167
 longitude: 8.778029700000001
-postcode: 35039
+postcode: "35039"
 city: Marburg
 street: "Weintrautstraße"
 housenumber: 41

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.2067454
 longitude: 9.1594522
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Leipziger Straße"
 housenumber: 29

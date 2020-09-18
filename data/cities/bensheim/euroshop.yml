@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 49.6808872
 longitude: 8.622768200000001
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Marktplatz"
 housenumber: 20/21

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 50.108423
 longitude: 8.6650626
-postcode: 60329
+postcode: "60329"
 city: Frankfurt am Main
 street: "Taunusstraße"
 housenumber: 45-47

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8500074
 longitude: 8.6207157
-postcode: 64295
+postcode: "64295"
 city: Darmstadt
 street: ""
 housenumber: 

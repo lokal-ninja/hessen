@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0122653
 longitude: 8.5827515
-postcode: 64546
+postcode: "64546"
 city: Mörfelden-Walldorf
 street: ""
 housenumber: 

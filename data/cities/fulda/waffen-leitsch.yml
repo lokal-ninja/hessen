@@ -3,7 +3,7 @@ type: node
 shop: Waffen
 latitude: 50.5522823
 longitude: 9.671324700000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Abtstor"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.115243500000005
 longitude: 8.6825139
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "Stiftstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.1779032
 longitude: 9.3646662
-postcode: 34281
+postcode: "34281"
 city: Gudensberg
 street: "Untergasse"
 housenumber: 6

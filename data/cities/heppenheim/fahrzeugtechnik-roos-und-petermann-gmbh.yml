@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6490464
 longitude: 8.6386953
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Darmstädter Straße"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.907404
 longitude: 8.5812256
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Kreuzstraße"
 housenumber: 17

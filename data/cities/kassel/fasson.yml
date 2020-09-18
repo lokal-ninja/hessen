@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.2873825
 longitude: 9.4746463
-postcode: 34134
+postcode: "34134"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 225

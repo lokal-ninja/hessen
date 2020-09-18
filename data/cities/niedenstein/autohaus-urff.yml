@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.228841700000004
 longitude: 9.3033905
-postcode: 34305
+postcode: "34305"
 city: Niedenstein
 street: "Niedensteiner Straße"
 housenumber: 8

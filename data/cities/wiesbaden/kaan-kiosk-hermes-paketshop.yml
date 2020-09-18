@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.072458700000006
 longitude: 8.2391486
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Moritzstraße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.430188300000005
 longitude: 8.974419300000001
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "In den Neun Morgen"
 housenumber: 1a

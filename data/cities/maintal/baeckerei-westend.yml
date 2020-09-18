@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.135814700000005
 longitude: 8.831665600000001
-postcode: 63477
+postcode: "63477"
 city: Maintal
 street: "Bonhoefferstraße"
 housenumber: 38

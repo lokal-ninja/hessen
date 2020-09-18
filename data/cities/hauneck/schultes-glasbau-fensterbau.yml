@@ -3,7 +3,7 @@ type: way
 shop: Glaserei
 latitude: 50.8372034
 longitude: 9.720243700000001
-postcode: 36282
+postcode: "36282"
 city: Hauneck
 street: "Döllwiesen"
 housenumber: 5

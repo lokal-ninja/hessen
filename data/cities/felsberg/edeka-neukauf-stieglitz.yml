@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.129097200000004
 longitude: 9.437842
-postcode: 34587
+postcode: "34587"
 city: Felsberg
 street: "Beuernsche Straße"
 housenumber: 1

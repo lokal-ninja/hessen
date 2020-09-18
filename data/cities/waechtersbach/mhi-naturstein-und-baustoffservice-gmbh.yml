@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 50.2525811
 longitude: 9.293082400000001
-postcode: 63607
+postcode: "63607"
 city: Wächtersbach
 street: "Main-Kinzig-Straße"
 housenumber: 30

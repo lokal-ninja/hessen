@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.326656500000006
 longitude: 9.501411800000001
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Mombachstraße"
 housenumber: 18

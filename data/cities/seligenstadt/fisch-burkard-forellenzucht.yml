@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.041070600000005
 longitude: 8.9759999
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Mauergasse"
 housenumber: 2

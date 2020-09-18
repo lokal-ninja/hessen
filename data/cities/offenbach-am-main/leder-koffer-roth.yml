@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 50.104261300000005
 longitude: 8.7647963
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: ""
 housenumber: 

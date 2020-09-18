@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.5119629
 longitude: 8.2687273
-postcode: 35792
+postcode: "35792"
 city: Löhnberg
 street: "Forsthausstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.496186800000004
 longitude: 9.696745
-postcode: 36124
+postcode: "36124"
 city: Eichenzell
 street: "Landgraf-Philipp-Straße"
 housenumber: 14

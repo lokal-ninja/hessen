@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.8603863
 longitude: 8.559605600000001
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Wilhelm-Leuschner-Straße"
 housenumber: 30-34

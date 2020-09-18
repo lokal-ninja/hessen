@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.14656960000001
 longitude: 8.6676803
-postcode: 60433
+postcode: "60433"
 city: Frankfurt am Main
 street: "Eschersheimer Landstraße"
 housenumber: 366

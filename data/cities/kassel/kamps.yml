@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.3011585
 longitude: 9.481836300000001
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 114-120

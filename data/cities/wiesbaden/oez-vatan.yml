@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.026226300000005
 longitude: 8.2765649
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Lorenz-Schott-Straße"
 housenumber: 1

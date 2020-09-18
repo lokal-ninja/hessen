@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.1124006
 longitude: 8.7064267
-postcode: 60314
+postcode: "60314"
 city: Frankfurt am Main
 street: "Danziger Platz"
 housenumber: 2-4

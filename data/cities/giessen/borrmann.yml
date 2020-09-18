@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.5859328
 longitude: 8.6721185
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Neustadt"
 housenumber: 5

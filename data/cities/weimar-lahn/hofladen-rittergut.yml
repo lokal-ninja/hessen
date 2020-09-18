@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.7576242
 longitude: 8.7045943
-postcode: 35096
+postcode: "35096"
 city: Weimar (Lahn)
 street: "Koblenzer Straße"
 housenumber: 1

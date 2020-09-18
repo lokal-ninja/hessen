@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.436452700000004
 longitude: 8.6767281
-postcode: 35510
+postcode: "35510"
 city: Butzbach
 street: "Griedeler Straße 62"
 housenumber: 62

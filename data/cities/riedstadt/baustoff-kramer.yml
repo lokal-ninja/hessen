@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.8108926
 longitude: 8.512301800000001
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Friedrich-Ebert-Straße"
 housenumber: 24

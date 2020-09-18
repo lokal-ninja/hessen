@@ -3,7 +3,7 @@ type: way
 shop: Hifi
 latitude: 51.1299201
 longitude: 9.5417252
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Fritzlarer Straße"
 housenumber: 37

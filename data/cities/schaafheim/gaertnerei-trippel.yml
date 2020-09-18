@@ -3,10 +3,10 @@ type: way
 shop: Blumen
 latitude: 49.919678600000005
 longitude: 9.0033363
-postcode: 64850
+postcode: "64850"
 city: Schaafheim
 street: "Schlierbacher Weg"
-housenumber: 
+housenumber: 8
 phone: ""
 opening_hours: ""
 website: ""

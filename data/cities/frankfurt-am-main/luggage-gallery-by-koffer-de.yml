@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0551874
 longitude: 8.595030900000001
-postcode: 60549
+postcode: "60549"
 city: Frankfurt am Main
 street: "Amelia-Mary-Earhart-Straße"
 housenumber: 8

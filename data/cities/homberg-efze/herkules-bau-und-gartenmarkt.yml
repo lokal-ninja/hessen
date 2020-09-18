@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.030310300000004
 longitude: 9.4224481
-postcode: 34576
+postcode: "34576"
 city: Homberg (Efze)
 street: "Ferdinand-Sauerbruch-Straße"
 housenumber: 

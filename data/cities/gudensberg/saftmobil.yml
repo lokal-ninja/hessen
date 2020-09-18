@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.1770384
 longitude: 9.3629491
-postcode: 34281
+postcode: "34281"
 city: Gudensberg
 street: "Schwimmbadweg"
 housenumber: 4

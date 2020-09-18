@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 51.3152575
 longitude: 9.4968274
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Obere Königsstraße"
 housenumber: 51

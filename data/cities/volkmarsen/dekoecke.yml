@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 51.4131681
 longitude: 9.1145942
-postcode: 34471
+postcode: "34471"
 city: Volkmarsen
 street: "Steinweg"
 housenumber: 35

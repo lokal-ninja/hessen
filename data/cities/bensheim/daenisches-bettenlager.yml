@@ -1,12 +1,12 @@
 id: 118311271
 type: way
 shop: Möbel
-latitude: 49.672093000000004
-longitude: 8.594946400000001
-postcode: 64625
+latitude: 49.6720953
+longitude: 8.594953
+postcode: "64625"
 city: Bensheim
-street: "Ampèrestraße"
+street: "AMPèrestraße"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"
-website: ""
+opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"
+website: "https://www.daenischesbettenlager.de/filiale/f/f362/hessen/bensheim/amperestrasse-5"

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.171038700000004
 longitude: 8.451419300000001
-postcode: 61462
+postcode: "61462"
 city: Königstein im Taunus
 street: "Milcheshohl"
 housenumber: 27

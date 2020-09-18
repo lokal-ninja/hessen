@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8878089
 longitude: 8.636863100000001
-postcode: 64293
+postcode: "64293"
 city: Darmstadt
 street: "Leydheckerstraße"
 housenumber: 16

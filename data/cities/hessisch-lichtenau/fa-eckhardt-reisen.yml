@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.2113261
 longitude: 9.6914114
-postcode: 37235
+postcode: "37235"
 city: Hessisch Lichtenau
 street: "Kirchgasse"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.9877836
 longitude: 8.7393246
-postcode: 35099
+postcode: "35099"
 city: Burgwald
 street: "Rosenweg"
 housenumber: 

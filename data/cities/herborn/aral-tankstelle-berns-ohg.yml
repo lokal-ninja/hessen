@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.7002839
 longitude: 8.337639300000001
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Marburger Straße"
 housenumber: 10a

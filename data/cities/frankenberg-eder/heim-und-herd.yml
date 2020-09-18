@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 51.060233000000004
 longitude: 8.799055000000001
-postcode: 35066
+postcode: "35066"
 city: Frankenberg (Eder)
 street: "Ritterstraße"
 housenumber: 2

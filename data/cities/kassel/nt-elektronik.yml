@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.319529800000005
 longitude: 9.4960094
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Hoffmann-von-Fallersleben-Straße"
 housenumber: 3

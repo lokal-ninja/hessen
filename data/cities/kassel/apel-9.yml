@@ -1,12 +1,12 @@
-id: 3219618708
-type: node
+id: 525637625
+type: way
 shop: Bäckerei
-latitude: 51.337238000000006
-longitude: 9.437068
-postcode: 34128
+latitude: 51.318007
+longitude: 9.4896726
+postcode: "34117"
 city: Kassel
-street: "Wolfhager Straße"
-housenumber: 395
+street: "Rainer-Dierichs-Platz"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH off"
+opening_hours: "Mo-Fr 05:30-20:00; Sa 06:30-19:00; Su 06:30-19:00"
 website: "http://www.baeckerei-apel.de/"

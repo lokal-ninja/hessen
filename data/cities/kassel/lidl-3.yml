@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.2910928
 longitude: 9.474226100000001
-postcode: 34134
+postcode: "34134"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 215

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.301035500000005
 longitude: 8.6945112
-postcode: 61191
+postcode: "61191"
 city: Rosbach v. d. Höhe
 street: "Bei den Junkergärten"
 housenumber: 1

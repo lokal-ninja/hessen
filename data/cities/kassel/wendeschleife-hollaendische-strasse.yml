@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.340146000000004
 longitude: 9.4809873
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Holländische Straße"
 housenumber: 199

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.8153233
 longitude: 9.849704500000001
-postcode: 36277
+postcode: "36277"
 city: Schenklengsfeld
 street: "In der Aue"
 housenumber: 9

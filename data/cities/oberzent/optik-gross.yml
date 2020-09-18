@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.56820990000001
 longitude: 8.9749342
-postcode: 64760
+postcode: "64760"
 city: Oberzent
 street: "Brunnengasse"
 housenumber: 14

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.3239497
 longitude: 9.4694211
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Wolfhager Straße"
 housenumber: 199

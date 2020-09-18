@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.5628759
 longitude: 9.3485615
-postcode: 36358
+postcode: "36358"
 city: Herbstein
 street: "Hessenstraße"
 housenumber: 46

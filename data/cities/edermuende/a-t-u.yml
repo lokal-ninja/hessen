@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.225501
 longitude: 9.4302042
-postcode: 34295
+postcode: "34295"
 city: Edermünde
 street: "Lange Heideteile"
 housenumber: 5

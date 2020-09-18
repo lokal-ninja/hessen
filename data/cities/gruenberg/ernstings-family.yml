@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.5923723
 longitude: 8.959345500000001
-postcode: 35305
+postcode: "35305"
 city: Grünberg
 street: "Marktgasse"
 housenumber: 20

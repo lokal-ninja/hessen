@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.9996
 longitude: 9.731648700000001
-postcode: 36199
+postcode: "36199"
 city: Rotenburg an der Fulda
 street: "Waldweg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 51.3618619
 longitude: 9.458488500000001
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Holländische Straße"
 housenumber: 76

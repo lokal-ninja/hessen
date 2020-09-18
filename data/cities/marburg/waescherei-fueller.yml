@@ -3,7 +3,7 @@ type: way
 shop: Wäscherei
 latitude: 50.8334173
 longitude: 8.761613
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Wehrdaer Straße"
 housenumber: 82

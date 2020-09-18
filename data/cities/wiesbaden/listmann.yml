@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 50.079137100000004
 longitude: 8.239057200000001
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Luisenstraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.736461500000004
 longitude: 8.6288286
-postcode: 35102
+postcode: "35102"
 city: Lohra
 street: "Schnurrgasse"
 housenumber: 1

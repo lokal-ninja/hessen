@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.339617800000006
 longitude: 8.7534907
-postcode: 61169
+postcode: "61169"
 city: Friedberg (Hessen)
 street: "Kaiserstraße"
 housenumber: 11

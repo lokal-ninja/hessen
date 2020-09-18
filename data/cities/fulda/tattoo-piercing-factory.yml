@@ -3,10 +3,10 @@ type: way
 shop: Tattoo
 latitude: 50.5583352
 longitude: 9.6771502
-postcode: 36039
+postcode: "36039"
 city: Fulda
 street: "Adalbertstraße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
 website: ""

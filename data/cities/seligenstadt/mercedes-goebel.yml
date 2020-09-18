@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.0388591
 longitude: 8.9854483
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Aschaffenburger Straße"
 housenumber: 80

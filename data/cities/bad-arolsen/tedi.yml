@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.380709
 longitude: 9.0125262
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Bahnhofstraße"
 housenumber: 11

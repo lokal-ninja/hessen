@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.208134900000005
 longitude: 8.7438149
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Dortelweiler Platz"
 housenumber: 

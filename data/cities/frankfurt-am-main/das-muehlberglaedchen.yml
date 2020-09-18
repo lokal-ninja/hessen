@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.0974945
 longitude: 8.6991677
-postcode: 60599
+postcode: "60599"
 city: Frankfurt am Main
 street: "Wendelsweg"
 housenumber: 85

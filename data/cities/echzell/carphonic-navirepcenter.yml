@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.391217000000005
 longitude: 8.8931465
-postcode: 61209
+postcode: "61209"
 city: Echzell
 street: "Bisseser Straße"
 housenumber: 69

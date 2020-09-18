@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.386334000000005
 longitude: 9.437863400000001
-postcode: 34314
+postcode: "34314"
 city: Espenau
 street: "Wilhelmsthaler Straße"
 housenumber: 11

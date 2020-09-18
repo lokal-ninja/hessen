@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.584262800000005
 longitude: 8.6733244
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Seltersweg"
 housenumber: 18

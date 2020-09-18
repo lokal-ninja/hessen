@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 50.4277631
 longitude: 8.733581800000001
-postcode: 35519
+postcode: "35519"
 city: Rockenberg
 street: "Mühlgasse"
 housenumber: 10

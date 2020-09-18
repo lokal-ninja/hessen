@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 49.6803022
 longitude: 9.0040292
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Bahnhofstraße"
 housenumber: 7

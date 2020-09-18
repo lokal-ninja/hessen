@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.843674
 longitude: 8.7997663
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Zeilharder Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.133106600000005
 longitude: 9.5419709
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Sparkassenplatz"
 housenumber: 2

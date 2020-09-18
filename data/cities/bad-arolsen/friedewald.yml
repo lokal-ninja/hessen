@@ -3,7 +3,7 @@ type: node
 shop: Wolle
 latitude: 51.3792849
 longitude: 9.0186531
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Kaulbachstraße"
 housenumber: 8

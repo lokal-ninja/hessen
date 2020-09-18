@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.485288100000005
 longitude: 9.348101900000001
-postcode: 36355
+postcode: "36355"
 city: Grebenhain
 street: "An der Cent"
 housenumber: 2

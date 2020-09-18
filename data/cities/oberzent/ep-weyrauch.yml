@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 49.562996000000005
 longitude: 8.9772514
-postcode: 64760
+postcode: "64760"
 city: Oberzent
 street: "Liebigstraße"
 housenumber: 4

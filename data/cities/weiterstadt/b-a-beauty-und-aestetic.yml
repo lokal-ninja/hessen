@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.9314545
 longitude: 8.6050213
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Mühlstraße"
 housenumber: 1

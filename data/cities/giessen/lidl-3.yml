@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.574615200000004
 longitude: 8.6842339
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Raiffeisenstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 49.987559600000004
 longitude: 7.975079300000001
-postcode: 65366
+postcode: "65366"
 city: Geisenheim
 street: "Winkeler Straße"
 housenumber: 111

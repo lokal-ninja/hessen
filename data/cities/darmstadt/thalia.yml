@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 49.871426
 longitude: 8.6530716
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Schuchardstraße"
 housenumber: 8

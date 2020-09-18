@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.5901152
 longitude: 8.9590853
-postcode: 35305
+postcode: "35305"
 city: Grünberg
 street: "Rabegasse"
 housenumber: 28

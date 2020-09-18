@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 50.5146133
 longitude: 8.263910000000001
-postcode: 35792
+postcode: "35792"
 city: Löhnberg
 street: "Güldenstadt"
 housenumber: 3

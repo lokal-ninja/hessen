@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 50.56022230000001
 longitude: 8.5012588
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Karl-Kellner-Ring"
 housenumber: 50

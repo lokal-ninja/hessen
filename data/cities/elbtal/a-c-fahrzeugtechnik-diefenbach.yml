@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.507333100000004
 longitude: 8.0645425
-postcode: 65627
+postcode: "65627"
 city: Elbtal
 street: "Siegener Straße"
 housenumber: 11 a

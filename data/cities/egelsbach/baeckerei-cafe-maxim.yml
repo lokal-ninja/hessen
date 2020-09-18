@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9572451
 longitude: 8.670189200000001
-postcode: 63329
+postcode: "63329"
 city: Egelsbach
 street: "Kurt-Schumacher-Ring"
 housenumber: 17a

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.3339452
 longitude: 8.5319205
-postcode: 61250
+postcode: "61250"
 city: Usingen
 street: "Bahnhofstraße"
 housenumber: 6

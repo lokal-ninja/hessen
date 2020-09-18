@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.031738700000005
 longitude: 9.4004364
-postcode: 34576
+postcode: "34576"
 city: Homberg (Efze)
 street: "Ziegenhainer Straße"
 housenumber: 11a

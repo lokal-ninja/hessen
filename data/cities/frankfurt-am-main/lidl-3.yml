@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.176306700000005
 longitude: 8.6420709
-postcode: 60438
+postcode: "60438"
 city: Frankfurt am Main
 street: "Zur Kalbacher Höhe"
 housenumber: 6

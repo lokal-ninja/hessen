@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.0772084
 longitude: 8.237016500000001
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Oranienstraße"
 housenumber: 2

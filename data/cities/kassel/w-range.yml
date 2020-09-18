@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.3152327
 longitude: 9.496786400000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Obere Königsstraße"
 housenumber: 49

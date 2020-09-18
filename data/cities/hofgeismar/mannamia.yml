@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4942015
 longitude: 9.381376900000001
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: "Mühlenstraße"
 housenumber: 1

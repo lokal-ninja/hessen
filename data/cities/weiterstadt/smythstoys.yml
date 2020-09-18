@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 49.896068500000005
 longitude: 8.6085545
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Friedrich-Schaefer-Straße"
 housenumber: 6-8

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.6468762
 longitude: 8.9907205
-postcode: 35325
+postcode: "35325"
 city: Mücke
 street: "Gottesrain"
 housenumber: 1

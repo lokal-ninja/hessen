@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8136317
 longitude: 9.0402467
-postcode: 64747
+postcode: "64747"
 city: Breuberg
 street: "Bahnhofstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.123336900000005
 longitude: 10.110361600000001
-postcode: 37299
+postcode: "37299"
 city: Weißenborn
 street: "Untergrube"
 housenumber: 8

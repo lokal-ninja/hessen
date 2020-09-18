@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.291436000000004
 longitude: 8.507047
-postcode: 61267
+postcode: "61267"
 city: Neu-Anspach
 street: "Langgasse"
 housenumber: 1

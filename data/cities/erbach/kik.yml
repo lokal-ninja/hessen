@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.665001000000004
 longitude: 9.0085136
-postcode: 64711
+postcode: "64711"
 city: Erbach
 street: "Stockheimer Ring"
 housenumber: 20

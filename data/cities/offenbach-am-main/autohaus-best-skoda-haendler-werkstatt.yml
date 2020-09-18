@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.104931300000004
 longitude: 8.7838854
-postcode: 63075
+postcode: "63075"
 city: Offenbach am Main
 street: "Untere Grenzstraße"
 housenumber: 4

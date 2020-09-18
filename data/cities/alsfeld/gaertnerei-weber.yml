@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.756111600000004
 longitude: 9.2669084
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Reibertenröder Weg"
 housenumber: 13

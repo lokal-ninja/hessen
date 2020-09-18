@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 49.8304892
 longitude: 8.7054673
-postcode: 64367
+postcode: "64367"
 city: Mühltal
 street: "Odenwaldstraße"
 housenumber: 17A

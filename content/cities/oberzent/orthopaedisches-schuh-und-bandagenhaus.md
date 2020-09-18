@@ -1,4 +1,4 @@
 ---
-title: "Orthopädisches  Schuh- & Bandagenhaus"
+title: "Orthopädisches Schuh- & Bandagenhaus"
 url: /oberzent/orthopaedisches-schuh-und-bandagenhaus/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 49.8616776
 longitude: 8.654424
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Herdweg"
 housenumber: 10

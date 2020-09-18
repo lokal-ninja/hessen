@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.716275800000005
 longitude: 9.898858
-postcode: 36169
+postcode: "36169"
 city: Rasdorf
 street: "Landstraße"
 housenumber: 9

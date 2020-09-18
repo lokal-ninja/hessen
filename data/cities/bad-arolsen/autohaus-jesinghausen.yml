@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.3732301
 longitude: 9.0067219
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Mengeringhäuser Straße"
 housenumber: 2

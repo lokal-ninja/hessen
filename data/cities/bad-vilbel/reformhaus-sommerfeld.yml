@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.1819173
 longitude: 8.7424233
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Frankfurter Straße"
 housenumber: 28

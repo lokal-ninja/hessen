@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.553404400000005
 longitude: 8.637126
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Heerweg"
 housenumber: 14-16

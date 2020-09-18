@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.316315
 longitude: 9.496379000000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Kölnische Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.3599205
 longitude: 9.4476206
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Habichtswalder Straße"
 housenumber: 20

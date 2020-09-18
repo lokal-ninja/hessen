@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.5430718
 longitude: 9.4894294
-postcode: 36154
+postcode: "36154"
 city: Hosenfeld
 street: "Blankenauer Straße"
 housenumber: 1

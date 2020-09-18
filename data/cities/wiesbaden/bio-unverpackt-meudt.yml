@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0788346
 longitude: 8.233901600000001
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Dotzheimer Straße"
 housenumber: 19

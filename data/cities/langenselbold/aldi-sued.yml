@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.17309890000001
 longitude: 9.0447415
-postcode: 63505
+postcode: "63505"
 city: Langenselbold
 street: "Kinzigstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Reisebüro
 latitude: 51.411494000000005
 longitude: 9.407823200000001
-postcode: 34379
+postcode: "34379"
 city: Calden
 street: "Oberweg"
 housenumber: 26

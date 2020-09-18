@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.56334510000001
 longitude: 8.500596
-postcode: 35576
+postcode: "35576"
 city: Wetzlar
 street: "Bahnhofstraße"
 housenumber: 19

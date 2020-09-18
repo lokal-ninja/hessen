@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 49.821083300000005
 longitude: 8.7547072
-postcode: 64372
+postcode: "64372"
 city: Ober-Ramstadt
 street: "Röhrstraße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 51.12220730000001
 longitude: 9.2797581
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Gießener Straße"
 housenumber: 79

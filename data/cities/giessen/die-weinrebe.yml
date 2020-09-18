@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.576942800000005
 longitude: 8.682809500000001
-postcode: 35394
+postcode: "35394"
 city: Gießen
 street: "Schiffenberger Weg"
 housenumber: 23

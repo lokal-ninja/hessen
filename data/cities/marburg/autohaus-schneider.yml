@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.8307616
 longitude: 8.769064100000001
-postcode: 35039
+postcode: "35039"
 city: Marburg
 street: "Afföllerstraße"
 housenumber: 94

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.865175300000004
 longitude: 8.7438955
-postcode: 64380
+postcode: "64380"
 city: Roßdorf
 street: "In den Leppsteinswiesen"
 housenumber: 7

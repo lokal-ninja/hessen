@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 50.112565100000005
 longitude: 8.6773129
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Roßmarkt"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.349015200000004
 longitude: 9.855864200000001
-postcode: 37213
+postcode: "37213"
 city: Witzenhausen
 street: "Nordbahnhofstraße"
 housenumber: 

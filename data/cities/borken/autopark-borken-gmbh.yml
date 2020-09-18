@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0531932
 longitude: 9.2703527
-postcode: 34582
+postcode: "34582"
 city: Borken
 street: "Lise-Meitner-Straße"
 housenumber: 1

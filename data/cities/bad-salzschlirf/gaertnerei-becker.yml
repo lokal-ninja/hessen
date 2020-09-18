@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.628528300000006
 longitude: 9.5061534
-postcode: 36364
+postcode: "36364"
 city: Bad Salzschlirf
 street: "Brückenstraße"
 housenumber: 3

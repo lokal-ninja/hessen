@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.354991500000004
 longitude: 9.449256100000001
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: ""
 housenumber: 

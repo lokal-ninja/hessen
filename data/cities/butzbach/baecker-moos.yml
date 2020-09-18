@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.43364690000001
 longitude: 8.6714534
-postcode: 35510
+postcode: "35510"
 city: Butzbach
 street: "Weiseler Straße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.393970800000005
 longitude: 8.2001301
-postcode: 65606
+postcode: "65606"
 city: Villmar
 street: "Brotweg"
 housenumber: 1

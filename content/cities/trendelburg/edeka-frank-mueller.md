@@ -1,4 +1,4 @@
 ---
-title: "EDEKA Frank Müller"
+title: "Edeka Frank Müller"
 url: /trendelburg/edeka-frank-mueller/
 ---

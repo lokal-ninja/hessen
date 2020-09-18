@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.4246527
 longitude: 9.463446600000001
-postcode: 34376
+postcode: "34376"
 city: Immenhausen
 street: ""
 housenumber: 

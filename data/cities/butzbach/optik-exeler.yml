@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.431881600000004
 longitude: 8.6708256
-postcode: 35510
+postcode: "35510"
 city: Butzbach
 street: "Weiseler Straße"
 housenumber: 41

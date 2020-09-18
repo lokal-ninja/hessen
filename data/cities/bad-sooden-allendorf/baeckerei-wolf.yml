@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.2698461
 longitude: 9.981045100000001
-postcode: 37242
+postcode: "37242"
 city: Bad Sooden-Allendorf
 street: "Rothesteinstraße"
 housenumber: 4

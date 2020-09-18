@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.080484000000006
 longitude: 8.239703
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Friedrichstraße"
 housenumber: 39

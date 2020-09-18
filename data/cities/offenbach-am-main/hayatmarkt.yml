@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.0963658
 longitude: 8.7562998
-postcode: 63069
+postcode: "63069"
 city: Offenbach am Main
 street: "Starkenburgring"
 housenumber: 71

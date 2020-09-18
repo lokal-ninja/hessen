@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.113229000000004
 longitude: 8.630536600000001
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Funckstraße"
 housenumber: 54

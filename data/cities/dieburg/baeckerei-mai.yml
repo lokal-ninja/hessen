@@ -1,12 +1,12 @@
-id: 1628498952
+id: 1629000451
 type: node
 shop: Bäckerei
-latitude: 49.898463400000004
-longitude: 8.8431121
-postcode: 64807
+latitude: 49.9030203
+longitude: 8.8391175
+postcode: "64807"
 city: Dieburg
-street: ""
-housenumber: 
+street: "Fuchsberg"
+housenumber: 19
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:15-12:00, Sa 07:00-11:30"
 website: ""

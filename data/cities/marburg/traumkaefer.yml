@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 50.843949300000006
 longitude: 8.7141898
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Michelbacher Straße"
 housenumber: 34a

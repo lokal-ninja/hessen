@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 51.3230031
 longitude: 9.475904100000001
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Philippistraße"
 housenumber: 23

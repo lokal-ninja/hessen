@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 50.7220376
 longitude: 8.4291484
-postcode: 35768
+postcode: "35768"
 city: Siegbach
 street: "Auf dem Liechen"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6573178
 longitude: 8.5653425
-postcode: 64653
+postcode: "64653"
 city: Lorsch
 street: "Rheinstraße"
 housenumber: 32

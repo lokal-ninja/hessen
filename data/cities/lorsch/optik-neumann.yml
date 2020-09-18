@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 49.653277200000005
 longitude: 8.567985400000001
-postcode: 64653
+postcode: "64653"
 city: Lorsch
 street: "Römerstraße"
 housenumber: 4a

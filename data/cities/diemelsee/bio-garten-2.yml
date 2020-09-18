@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.3159836
 longitude: 8.8118291
-postcode: 34519
+postcode: "34519"
 city: Diemelsee
 street: "Vor dem Prinzenberg"
 housenumber: 

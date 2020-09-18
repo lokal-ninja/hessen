@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.5499097
 longitude: 9.6752415
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Kanalstraße"
 housenumber: 70

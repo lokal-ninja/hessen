@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.8683698
 longitude: 8.9159705
-postcode: 64823
+postcode: "64823"
 city: Groß-Umstadt
 street: "Albert-Einstein-Straße"
 housenumber: 14

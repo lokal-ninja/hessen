@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.3158254
 longitude: 9.4724384
-postcode: 34119
+postcode: "34119"
 city: Kassel
 street: "Friedrich-Ebert-Straße"
 housenumber: 99

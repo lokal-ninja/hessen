@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.969765100000004
 longitude: 9.7936116
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Bismarckstraße"
 housenumber: 1

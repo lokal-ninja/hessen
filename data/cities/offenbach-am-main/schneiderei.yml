@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.1157799
 longitude: 8.784306
-postcode: 63075
+postcode: "63075"
 city: Offenbach am Main
 street: "Kurfürstenstraße"
 housenumber: 25

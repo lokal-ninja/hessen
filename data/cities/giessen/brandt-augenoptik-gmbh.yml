@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.5781561
 longitude: 8.6659833
-postcode: 35392
+postcode: "35392"
 city: Gießen
 street: "Frankfurter Straße"
 housenumber: 37

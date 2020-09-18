@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 49.997659500000005
 longitude: 8.420191
-postcode: 65428
+postcode: "65428"
 city: Rüsselsheim am Main
 street: "Weinbergstraße"
 housenumber: 4

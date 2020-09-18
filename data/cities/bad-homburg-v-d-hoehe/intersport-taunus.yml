@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.228106100000005
 longitude: 8.6134112
-postcode: 61348
+postcode: "61348"
 city: Bad Homburg v. d. Höhe
 street: "Louisenstraße"
 housenumber: 21-23

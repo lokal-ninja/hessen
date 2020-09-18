@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.3377527
 longitude: 9.4368037
-postcode: 34128
+postcode: "34128"
 city: Kassel
 street: "Wolfhager Straße"
 housenumber: 392a

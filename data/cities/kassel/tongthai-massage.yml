@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 51.331334500000004
 longitude: 9.4536428
-postcode: 34128
+postcode: "34128"
 city: Kassel
 street: "Wolfhager Straße"
 housenumber: 315

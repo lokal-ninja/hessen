@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.8044157
 longitude: 8.7672568
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Liebigstraße"
 housenumber: 18

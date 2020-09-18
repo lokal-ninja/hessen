@@ -3,7 +3,7 @@ type: node
 shop: Holz
 latitude: 51.1163693
 longitude: 9.649362
-postcode: 34286
+postcode: "34286"
 city: Spangenberg
 street: "Malsbergstraße"
 housenumber: 6

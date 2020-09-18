@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.885426100000004
 longitude: 8.6715766
-postcode: 
+postcode: ""
 city: Darmstadt
 street: "Schwarzer Weg"
 housenumber: 9

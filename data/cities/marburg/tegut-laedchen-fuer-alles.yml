@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 50.8446536
 longitude: 8.7144594
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Stümpelstal"
 housenumber: 1a

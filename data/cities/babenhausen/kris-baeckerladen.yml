@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9594973
 longitude: 8.9556851
-postcode: 64832
+postcode: "64832"
 city: Babenhausen
 street: "Platanenallee"
 housenumber: 13

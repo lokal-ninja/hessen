@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.272605000000006
 longitude: 9.974243900000001
-postcode: 37242
+postcode: "37242"
 city: Bad Sooden-Allendorf
 street: "Kirchstraße"
 housenumber: 69

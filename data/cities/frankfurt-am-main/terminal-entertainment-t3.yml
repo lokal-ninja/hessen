@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.116324000000006
 longitude: 8.6795075
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "Große Eschenheimer Straße"
 housenumber: 41a

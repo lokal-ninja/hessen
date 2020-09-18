@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.2109553
 longitude: 9.937661
-postcode: 37290
+postcode: "37290"
 city: Meißner
 street: "Steinweg"
 housenumber: 28

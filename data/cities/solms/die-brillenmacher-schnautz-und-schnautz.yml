@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 50.5381233
 longitude: 8.4060779
-postcode: 35606
+postcode: "35606"
 city: Solms
 street: "Krautgärtenstraße"
 housenumber: 10-12

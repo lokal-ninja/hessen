@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.6496294
 longitude: 8.777526
-postcode: 64658
+postcode: "64658"
 city: Fürth
 street: "Hauptstraße"
 housenumber: 41

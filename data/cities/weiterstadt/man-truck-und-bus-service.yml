@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.8990226
 longitude: 8.615562500000001
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Lagerstraße"
 housenumber: 2

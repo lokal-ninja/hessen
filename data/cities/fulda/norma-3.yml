@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 50.5416533
 longitude: 9.6768555
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Frankfurter Straße"
 housenumber: 39
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

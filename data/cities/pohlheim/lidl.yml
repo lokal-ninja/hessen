@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5388917
 longitude: 8.7337203
-postcode: 35415
+postcode: "35415"
 city: Pohlheim
 street: "Neue Mitte"
 housenumber: 27

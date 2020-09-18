@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.315641400000004
 longitude: 9.4773207
-postcode: 34119
+postcode: "34119"
 city: Kassel
 street: "Friedrich-Ebert-Straße"
 housenumber: 72

@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 50.099965700000006
 longitude: 8.602918500000001
-postcode: 65933
+postcode: "65933"
 city: Frankfurt am Main
 street: "Mainzer Landstraße"
 housenumber: 553

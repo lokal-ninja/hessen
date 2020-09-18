@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 50.193547800000005
 longitude: 8.7276097
-postcode: 61118
+postcode: "61118"
 city: Bad Vilbel
 street: "Zeppelinstraße"
 housenumber: 21

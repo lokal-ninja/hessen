@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.1197978
 longitude: 8.5436324
-postcode: 65929
+postcode: "65929"
 city: Frankfurt am Main
 street: "An der A66 Nordseite"
 housenumber: 1

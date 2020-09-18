@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.8531053
 longitude: 8.782863500000001
-postcode: 35091
+postcode: "35091"
 city: Cölbe
 street: "Friedhofstraße"
 housenumber: 10

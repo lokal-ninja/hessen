@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 49.676374800000005
 longitude: 8.999464
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Industriestraße"
 housenumber: 5

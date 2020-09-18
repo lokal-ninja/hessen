@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 50.019142200000005
 longitude: 8.286390500000001
-postcode: 55252
+postcode: "55252"
 city: Wiesbaden
 street: "Boelckestraße"
 housenumber: 57

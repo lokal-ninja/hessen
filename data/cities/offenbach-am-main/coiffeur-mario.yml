@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.106960300000004
 longitude: 8.761768
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Herrnstraße"
 housenumber: 55A

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.072158900000005
 longitude: 8.4773764
-postcode: 65795
+postcode: "65795"
 city: Hattersheim
 street: "Heddingheimer Straße"
 housenumber: 2-4

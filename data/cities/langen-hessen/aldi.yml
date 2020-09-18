@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9951146
 longitude: 8.6775549
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "An der Winkelwiese"
 housenumber: 1

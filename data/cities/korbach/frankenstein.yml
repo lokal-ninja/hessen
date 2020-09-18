@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2782843
 longitude: 8.871400000000001
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Hanseplatz"
 housenumber: 3

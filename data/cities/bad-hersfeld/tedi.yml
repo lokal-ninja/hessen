@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.879408000000005
 longitude: 9.6882076
-postcode: 36251
+postcode: "36251"
 city: Bad Hersfeld
 street: "Homberger Straße"
 housenumber: 138-140

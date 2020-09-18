@@ -1,4 +1,4 @@
 ---
-title: "Penny"
+title: "PENNY"
 url: /gruendau/penny/
 ---

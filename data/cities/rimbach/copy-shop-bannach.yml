@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.6273794
 longitude: 8.758074500000001
-postcode: 64668
+postcode: "64668"
 city: Rimbach
 street: "Staatsstraße"
 housenumber: 46

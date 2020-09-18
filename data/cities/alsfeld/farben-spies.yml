@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 50.7483695
 longitude: 9.2684045
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Jahnstraße"
 housenumber: 3

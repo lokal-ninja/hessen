@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 51.3808981
 longitude: 9.008449200000001
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Bahnhofstraße"
 housenumber: 47

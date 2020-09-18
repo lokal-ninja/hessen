@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.9676952
 longitude: 8.6527767
-postcode: 63329
+postcode: "63329"
 city: Egelsbach
 street: "Wolfsgartenstraße"
 housenumber: 2

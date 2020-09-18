@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 49.951342100000005
 longitude: 8.6408606
-postcode: 64390
+postcode: "64390"
 city: Erzhausen
 street: "Bahnstraße"
 housenumber: 87

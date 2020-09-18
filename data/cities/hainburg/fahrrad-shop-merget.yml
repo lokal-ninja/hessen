@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.077835400000005
 longitude: 8.9694275
-postcode: 63512
+postcode: "63512"
 city: Hainburg
 street: "Maingasse"
 housenumber: 17

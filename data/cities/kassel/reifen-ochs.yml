@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 51.293103200000004
 longitude: 9.4770853
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 193

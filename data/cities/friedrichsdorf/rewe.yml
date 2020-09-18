@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.275550800000005
 longitude: 8.6488952
-postcode: 61381
+postcode: "61381"
 city: Friedrichsdorf
 street: "Bachstraße"
 housenumber: 6

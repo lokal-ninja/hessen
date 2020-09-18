@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.095164000000004
 longitude: 8.7684361
-postcode: 63071
+postcode: "63071"
 city: Offenbach am Main
 street: "Hessenring"
 housenumber: 2

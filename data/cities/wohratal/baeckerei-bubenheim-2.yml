@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.9154361
 longitude: 8.949430900000001
-postcode: 35288
+postcode: "35288"
 city: Wohratal
 street: "Hauptstraße"
 housenumber: 39

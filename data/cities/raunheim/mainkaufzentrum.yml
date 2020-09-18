@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 50.0090407
 longitude: 8.4369767
-postcode: 65479
+postcode: "65479"
 city: Raunheim
 street: "Flörsheimer Straße"
 housenumber: 1

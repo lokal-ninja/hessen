@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.220279500000004
 longitude: 8.6213888
-postcode: 61352
+postcode: "61352"
 city: Bad Homburg v.d. Höhe
 street: "Am Bahnhof"
 housenumber: 2

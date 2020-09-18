@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.095042600000006
 longitude: 8.459390500000001
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "In der Dreispitz"
 housenumber: 

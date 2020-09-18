@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.29058190000001
 longitude: 9.5193179
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Görlitzer Straße"
 housenumber: 39a

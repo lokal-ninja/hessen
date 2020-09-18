@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.08298610000001
 longitude: 8.2399801
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Wagemannstraße"
 housenumber: 13

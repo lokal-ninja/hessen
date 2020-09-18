@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0712539
 longitude: 8.492478100000001
-postcode: 65795
+postcode: "65795"
 city: Hattersheim am Main
 street: "Frankfurter Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.1904131
 longitude: 9.182268
-postcode: 63571
+postcode: "63571"
 city: Gelnhausen
 street: "Lützelhäuser Weg"
 housenumber: 1

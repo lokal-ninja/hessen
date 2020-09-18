@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.079136000000005
 longitude: 8.2383187
-postcode: 65185
+postcode: "65185"
 city: Wiesbaden
 street: "Kirchgasse"
 housenumber: 17

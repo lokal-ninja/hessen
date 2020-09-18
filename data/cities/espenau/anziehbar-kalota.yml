@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 51.399249600000005
 longitude: 9.470385400000001
-postcode: 34314
+postcode: "34314"
 city: Espenau
 street: "Mönchehofer Straße"
 housenumber: 9

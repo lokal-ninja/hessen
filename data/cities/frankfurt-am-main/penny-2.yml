@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1186602
 longitude: 8.6974291
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
 street: "Sandweg"
 housenumber: 42

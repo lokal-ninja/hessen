@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.131915500000005
 longitude: 9.2741155
-postcode: 34560
+postcode: "34560"
 city: Fritzlar
 street: "Marktplatz"
 housenumber: 16

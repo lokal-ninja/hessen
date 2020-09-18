@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.2610303
 longitude: 9.5632949
-postcode: 34253
+postcode: "34253"
 city: Lohfelden
 street: "Welleröder Straße"
 housenumber: 1

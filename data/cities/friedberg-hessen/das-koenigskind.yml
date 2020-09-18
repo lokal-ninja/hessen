@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 50.3358536
 longitude: 8.7583567
-postcode: 61169
+postcode: "61169"
 city: Friedberg (Hessen)
 street: "Hanauer Straße"
 housenumber: 10

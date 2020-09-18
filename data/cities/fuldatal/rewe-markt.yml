@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.341835800000005
 longitude: 9.5180688
-postcode: 34233
+postcode: "34233"
 city: Fuldatal
 street: "Ihringshäuser Straße"
 housenumber: 161

@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 49.5730154
 longitude: 8.9813352
-postcode: 64760
+postcode: "64760"
 city: Oberzent
 street: "Mümlingtalstraße"
 housenumber: 65

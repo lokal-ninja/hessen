@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.32556700000001
 longitude: 9.1709337
-postcode: 34466
+postcode: "34466"
 city: Wolfhagen
 street: "Mittelstraße"
 housenumber: 18

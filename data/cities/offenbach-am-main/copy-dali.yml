@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 50.107447400000005
 longitude: 8.7615925
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: ""
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.454218600000004
 longitude: 9.0470486
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Frankenstraße"
 housenumber: 56

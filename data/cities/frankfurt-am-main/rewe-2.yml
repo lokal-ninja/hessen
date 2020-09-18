@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.204131000000004
 longitude: 8.702363700000001
-postcode: 60437
+postcode: "60437"
 city: Frankfurt am Main
 street: "Kurmarkstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 51.287297
 longitude: 9.4703952
-postcode: 34134
+postcode: "34134"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 253

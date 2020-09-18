@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.7941742
 longitude: 8.2045747
-postcode: 35708
+postcode: "35708"
 city: Haiger
 street: "Haigerer Straße"
 housenumber: 8

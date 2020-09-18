@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.1517604
 longitude: 8.4224078
-postcode: 65779
+postcode: "65779"
 city: Kelkheim
 street: "Langstraße"
 housenumber: 1

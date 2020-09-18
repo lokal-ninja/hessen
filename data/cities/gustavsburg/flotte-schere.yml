@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.9964541
 longitude: 8.3231591
-postcode: 65462
+postcode: "65462"
 city: Gustavsburg
 street: "Darmstädter Landstraße"
 housenumber: 72

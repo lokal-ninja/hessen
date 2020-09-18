@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 49.6837
 longitude: 9.0036938
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Frankfurter Straße"
 housenumber: 15

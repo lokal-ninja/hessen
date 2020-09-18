@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 50.0417404
 longitude: 8.8796441
-postcode: 63110
+postcode: "63110"
 city: Rodgau
 street: "Heinrich-Sahm-Straße"
 housenumber: 1

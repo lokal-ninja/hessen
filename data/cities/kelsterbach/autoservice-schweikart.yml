@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.059270000000005
 longitude: 8.5246346
-postcode: 65451
+postcode: "65451"
 city: Kelsterbach
 street: "Am Glanzstoffwerk"
 housenumber: 11

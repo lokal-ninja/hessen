@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 49.6850156
 longitude: 8.78032
-postcode: 64678
+postcode: "64678"
 city: Lindenfels
 street: "Lindenplatz"
 housenumber: 1

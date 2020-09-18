@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 50.7530858
 longitude: 9.261110200000001
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Marburger Straße"
 housenumber: 60

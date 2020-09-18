@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 51.322772300000004
 longitude: 9.448371100000001
-postcode: 34130
+postcode: "34130"
 city: Kassel
 street: "Harleshäuser Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.809412
 longitude: 8.8250845
-postcode: 64401
+postcode: "64401"
 city: Groß-Bieberau
 street: "Am Schaubacher Berg"
 housenumber: 19

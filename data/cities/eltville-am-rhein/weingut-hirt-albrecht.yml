@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 50.0276629
 longitude: 8.1186019
-postcode: 65343
+postcode: "65343"
 city: Eltville am Rhein
 street: "Schwalbacher Straße"
 housenumber: 15

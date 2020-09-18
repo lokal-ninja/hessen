@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.539804800000006
 longitude: 9.787987300000001
-postcode: 36160
+postcode: "36160"
 city: Dipperz
 street: "Gewerbepark"
 housenumber: 5

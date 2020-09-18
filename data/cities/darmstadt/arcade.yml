@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 49.8604074
 longitude: 8.652816000000001
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Bessunger Straße"
 housenumber: 8

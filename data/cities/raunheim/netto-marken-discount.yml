@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.014563100000004
 longitude: 8.4612698
-postcode: 65479
+postcode: "65479"
 city: Raunheim
 street: "Karlstraße"
 housenumber: 44

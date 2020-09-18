@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 50.552853600000006
 longitude: 9.722021600000001
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Justus-Liebig-Straße"
 housenumber: 1

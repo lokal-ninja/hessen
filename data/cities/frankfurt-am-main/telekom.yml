@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 50.114448900000006
 longitude: 8.682022100000001
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "Zeil"
 housenumber: 106-110

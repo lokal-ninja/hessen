@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.7593327
 longitude: 9.2304466
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Berliner Straße"
 housenumber: 13

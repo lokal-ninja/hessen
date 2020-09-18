@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.26105810000001
 longitude: 9.563218200000001
-postcode: 34253
+postcode: "34253"
 city: Lohfelden
 street: "Welleröder Straße"
 housenumber: 1

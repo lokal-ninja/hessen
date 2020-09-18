@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 49.8928067
 longitude: 8.607204300000001
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Gutenbergstraße"
 housenumber: 8

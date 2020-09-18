@@ -3,7 +3,7 @@ type: way
 shop: Energie
 latitude: 50.3012256
 longitude: 8.2613255
-postcode: 65520
+postcode: "65520"
 city: Bad Camberg
 street: "Limburger Straße"
 housenumber: 49-51

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.410061500000005
 longitude: 9.0105742
-postcode: 63667
+postcode: "63667"
 city: Nidda
 street: "Am langen Steg"
 housenumber: 2-4

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 50.108850100000005
 longitude: 8.0976684
-postcode: 65388
+postcode: "65388"
 city: Schlangenbad
 street: "Schwalbacher Straße"
 housenumber: 20

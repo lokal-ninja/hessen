@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5988746
 longitude: 8.8230857
-postcode: 35447
+postcode: "35447"
 city: Reiskirchen
 street: "Carl-Benz-Straße"
 housenumber: 1

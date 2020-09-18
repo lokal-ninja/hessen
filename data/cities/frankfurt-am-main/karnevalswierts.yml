@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.1399069
 longitude: 8.7459591
-postcode: 60388
+postcode: "60388"
 city: Frankfurt am Main
 street: "Borsigallee"
 housenumber: 33a

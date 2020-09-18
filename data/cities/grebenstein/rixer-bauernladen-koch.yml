@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 51.4440718
 longitude: 9.364973800000001
-postcode: 34393
+postcode: "34393"
 city: Grebenstein
 street: "Friedrichsthal"
 housenumber: 5

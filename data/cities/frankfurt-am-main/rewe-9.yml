@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.103921500000006
 longitude: 8.6367905
-postcode: 60326
+postcode: "60326"
 city: Frankfurt am Main
 street: "Frankenallee"
 housenumber: 157

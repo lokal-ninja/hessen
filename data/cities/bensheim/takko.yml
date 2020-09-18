@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 49.67591
 longitude: 8.6168498
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Fabrikstraße"
 housenumber: 8

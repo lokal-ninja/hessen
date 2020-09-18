@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8552997
 longitude: 8.4853922
-postcode: 64560
+postcode: "64560"
 city: Riedstadt
 street: "Lise-Meitner-Straße"
 housenumber: 6

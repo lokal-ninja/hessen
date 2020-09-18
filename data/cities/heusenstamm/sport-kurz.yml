@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 50.057022700000005
 longitude: 8.815434900000001
-postcode: 63150
+postcode: "63150"
 city: Heusenstamm
 street: "Rudolf-Braas-Straße"
 housenumber: 22

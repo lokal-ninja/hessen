@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.3226936
 longitude: 9.4464456
-postcode: 34130
+postcode: "34130"
 city: Kassel
 street: "Zentgrafenstraße"
 housenumber: 133

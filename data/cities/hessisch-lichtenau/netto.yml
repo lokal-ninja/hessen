@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.206348500000004
 longitude: 9.705802700000001
-postcode: 37235
+postcode: "37235"
 city: Hessisch Lichtenau
 street: "Herderstraße"
 housenumber: 6

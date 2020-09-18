@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 50.536787600000004
 longitude: 9.678173300000001
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Mainstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 49.6552712
 longitude: 8.560197500000001
-postcode: 64653
+postcode: "64653"
 city: Lorsch
 street: "Heinrichstraße"
 housenumber: 32

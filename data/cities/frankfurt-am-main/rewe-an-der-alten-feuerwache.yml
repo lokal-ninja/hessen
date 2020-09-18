@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.112397900000005
 longitude: 8.7052332
-postcode: 60314
+postcode: "60314"
 city: Frankfurt am Main
 street: "Louis-Appia-Passage"
 housenumber: 7

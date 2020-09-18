@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.231340700000004
 longitude: 8.7696097
-postcode: 61184
+postcode: "61184"
 city: Karben
 street: "Homburger Straße"
 housenumber: 51

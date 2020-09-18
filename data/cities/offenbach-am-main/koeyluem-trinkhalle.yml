@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.099231800000005
 longitude: 8.765996600000001
-postcode: 63071
+postcode: "63071"
 city: Offenbach am Main
 street: ""
 housenumber: 

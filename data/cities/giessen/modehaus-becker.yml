@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.60337740000001
 longitude: 8.703314200000001
-postcode: 35396
+postcode: "35396"
 city: Gießen
 street: "Karl-Benner-Straße"
 housenumber: 10

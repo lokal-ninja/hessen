@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.2993065
 longitude: 9.4810262
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 128a

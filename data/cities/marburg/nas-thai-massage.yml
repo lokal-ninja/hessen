@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 50.8043751
 longitude: 8.7705468
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Frankfurter Straße"
 housenumber: 4

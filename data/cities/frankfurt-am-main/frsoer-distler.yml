@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.143833900000004
 longitude: 8.6543692
-postcode: 60431
+postcode: "60431"
 city: Frankfurt am Main
 street: "Raimundstraße"
 housenumber: 8

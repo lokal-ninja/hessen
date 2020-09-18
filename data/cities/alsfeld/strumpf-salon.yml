@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.7500416
 longitude: 9.2700697
-postcode: 36304
+postcode: "36304"
 city: Alsfeld
 street: "Mainzer Gasse"
 housenumber: 20

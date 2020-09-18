@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.793983700000005
 longitude: 8.7522313
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Stephan-Niderehe-Straße"
 housenumber: 11

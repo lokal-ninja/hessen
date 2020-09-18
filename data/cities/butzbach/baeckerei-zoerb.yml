@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.460507
 longitude: 8.651775
-postcode: 35510
+postcode: "35510"
 city: Butzbach
 street: "Gönser Straße"
 housenumber: 16

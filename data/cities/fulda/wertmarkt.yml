@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.560516
 longitude: 9.6818674
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Leipziger Straße"
 housenumber: 42

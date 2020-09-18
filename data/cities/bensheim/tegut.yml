@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.669258500000005
 longitude: 8.6275235
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Heidelberger Straße"
 housenumber: 100

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.7147804
 longitude: 9.2203964
-postcode: 36329
+postcode: "36329"
 city: Romrod
 street: "Alsfelder Straße"
 housenumber: 24

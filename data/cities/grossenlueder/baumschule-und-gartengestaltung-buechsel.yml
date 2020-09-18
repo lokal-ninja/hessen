@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.5708914
 longitude: 9.560843
-postcode: 36137
+postcode: "36137"
 city: Großenlüder
 street: "Gartenstraße"
 housenumber: 29

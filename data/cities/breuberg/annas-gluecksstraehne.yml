@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 49.8329195
 longitude: 9.041593200000001
-postcode: 64747
+postcode: "64747"
 city: Breuberg
 street: "Mainstraße"
 housenumber: 54

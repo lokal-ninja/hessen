@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 50.973406000000004
 longitude: 8.8658465
-postcode: 35119
+postcode: "35119"
 city: Rosenthal
 street: "Am Dammrasen"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 51.2894433
 longitude: 9.476026300000001
-postcode: 34134
+postcode: "34134"
 city: Kassel
 street: "Knorrstraße"
 housenumber: 28a

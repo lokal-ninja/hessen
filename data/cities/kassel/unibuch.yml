@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.323666200000005
 longitude: 9.503836600000001
-postcode: 
+postcode: ""
 city: Kassel
 street: "Gottschalkstraße"
 housenumber: 10

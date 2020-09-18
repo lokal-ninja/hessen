@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.5748643
 longitude: 9.6745142
-postcode: 36039
+postcode: "36039"
 city: Fulda
 street: "Niesiger Straße"
 housenumber: 163

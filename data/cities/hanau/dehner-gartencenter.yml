@@ -3,10 +3,10 @@ type: way
 shop: Garten-Center
 latitude: 50.1259834
 longitude: 8.9423455
-postcode: 63457
+postcode: "63457"
 city: Hanau
 street: "Brüningstraße"
 housenumber: 6
-phone: ""
+phone: "+49 6181 951510"
 opening_hours: "Mo-Sa 09:00-20:00"
 website: ""

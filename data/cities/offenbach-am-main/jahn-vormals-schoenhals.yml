@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 50.0854585
 longitude: 8.8301928
-postcode: 63073
+postcode: "63073"
 city: Offenbach am Main
 street: "Heinrich-Krumm-Straße"
 housenumber: 14

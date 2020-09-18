@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1834362
 longitude: 8.4684969
-postcode: 61462
+postcode: "61462"
 city: Königstein im Taunus
 street: "Klosterstraße"
 housenumber: 15

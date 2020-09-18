@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.3214703
 longitude: 9.449601000000001
-postcode: 34130
+postcode: "34130"
 city: Kassel
 street: "Brunnenstraße"
 housenumber: 1

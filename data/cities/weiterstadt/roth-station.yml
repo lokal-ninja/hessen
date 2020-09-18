@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 49.8894977
 longitude: 8.6111316
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Waldstraße"
 housenumber: 18

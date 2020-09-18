@@ -1,6 +1,6 @@
 ---
 title: Fischbachtal
 url: /fischbachtal/
-latitude: 49.7665097
-longitude: 8.808377100000001
+latitude: 49.767356500000005
+longitude: 8.809703200000001
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.991203500000005
 longitude: 8.8615847
-postcode: 63110
+postcode: "63110"
 city: Rodgau
 street: "Borsigstraße"
 housenumber: 54

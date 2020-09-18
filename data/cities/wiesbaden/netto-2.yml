@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 50.048945800000006
 longitude: 8.207553500000001
-postcode: 65201
+postcode: "65201"
 city: Wiesbaden
 street: "Alte Schmelze"
 housenumber: 18

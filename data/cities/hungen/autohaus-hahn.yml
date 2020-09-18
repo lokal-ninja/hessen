@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.506368
 longitude: 8.9333721
-postcode: 35410
+postcode: "35410"
 city: Hungen
 street: "Kreuzstraße"
 housenumber: 3-5

@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 51.160612900000004
 longitude: 9.1358149
-postcode: 34549
+postcode: "34549"
 city: Edertal
 street: "Bahnhofstraße"
 housenumber: 39a

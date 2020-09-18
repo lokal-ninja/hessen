@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 49.9147456
 longitude: 8.577245300000001
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "An der Kreisstraße"
 housenumber: 1a

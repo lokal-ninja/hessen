@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.1367607
 longitude: 8.6004317
-postcode: 60488
+postcode: "60488"
 city: Frankfurt am Main
 street: "Guerickestraße"
 housenumber: 10

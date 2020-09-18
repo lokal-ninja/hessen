@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.282015900000005
 longitude: 9.1440827
-postcode: 34466
+postcode: "34466"
 city: Wolfhagen
 street: "Am Mühlenbach"
 housenumber: 3

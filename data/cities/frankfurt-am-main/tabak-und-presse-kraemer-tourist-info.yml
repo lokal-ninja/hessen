@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 50.1007983
 longitude: 8.5441062
-postcode: 65929
+postcode: "65929"
 city: Frankfurt am Main
 street: "Antoniterstraße"
 housenumber: 22

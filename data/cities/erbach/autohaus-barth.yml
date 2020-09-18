@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 49.665618200000004
 longitude: 9.006500500000001
-postcode: 64711
+postcode: "64711"
 city: Erbach
 street: "Stockheimer Ring"
 housenumber: 25

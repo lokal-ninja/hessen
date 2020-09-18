@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 51.0819108
 longitude: 9.4837337
-postcode: 34323
+postcode: "34323"
 city: Malsfeld
 street: "Wiesenstraße"
 housenumber: 3
-phone: "+49 5661 7348-0"
+phone: "+49 5661 73480"
 opening_hours: ""
-website: "http://www.hoehle-landtechnik.de/"
+website: "https://www.hoehle-nutzfahrzeuge.de/"

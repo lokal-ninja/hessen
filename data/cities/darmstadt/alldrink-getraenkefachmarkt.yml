@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 49.930112900000005
 longitude: 8.6531462
-postcode: 64291
+postcode: "64291"
 city: Darmstadt
 street: "Brucknerstraße"
 housenumber: 39A

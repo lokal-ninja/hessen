@@ -1,12 +1,12 @@
 id: 3085460196
 type: node
-shop: Baumarkt
+shop: Autoteile
 latitude: 51.0585801
 longitude: 9.1828695
-postcode: 34596
+postcode: "34596"
 city: Bad Zwesten
 street: "Chaumont-Allee"
 housenumber: 3
-phone: ""
+phone: "+49 5626 4065"
 opening_hours: ""
-website: ""
+website: "https://www.carwashservice.de/"

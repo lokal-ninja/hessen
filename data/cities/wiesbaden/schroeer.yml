@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.0861211
 longitude: 8.2828338
-postcode: 65191
+postcode: "65191"
 city: Wiesbaden
 street: "Am Wolfsfeld"
 housenumber: 7

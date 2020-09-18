@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.751601900000004
 longitude: 8.484686700000001
-postcode: 64579
+postcode: "64579"
 city: Gernsheim
 street: "Magdalenenstraße"
 housenumber: 39

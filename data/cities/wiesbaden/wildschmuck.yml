@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 50.0834333
 longitude: 8.2271255
-postcode: 65195
+postcode: "65195"
 city: Wiesbaden
 street: "Bülowstraße"
 housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "nach Vereinbarung"
 website: "http://www.wildschmuck.de"

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 51.3149116
 longitude: 9.496863900000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Obere Königsstraße"
 housenumber: 30

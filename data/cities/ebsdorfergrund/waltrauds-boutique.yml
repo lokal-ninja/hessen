@@ -1,12 +1,12 @@
 id: 2222099461
 type: node
 shop: Kleidung
-latitude: 50.7345356
-longitude: 8.8114153
-postcode: 35085
+latitude: 50.734478300000006
+longitude: 8.8114386
+postcode: "35085"
 city: Ebsdorfergrund
 street: "Bortshäuser Straße"
 housenumber: 16A
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49  6424 5297"
+opening_hours: "Mo 09:00-12:00; Tu 09:00-12:00, 15:00-18:00; Sa 09:00-12:00"
+website: "https://waltrauds-boutique.de/"

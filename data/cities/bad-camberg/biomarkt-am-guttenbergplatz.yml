@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.2970607
 longitude: 8.269215500000001
-postcode: 65520
+postcode: "65520"
 city: Bad Camberg
 street: "Am Guttenbergplatz"
 housenumber: 3

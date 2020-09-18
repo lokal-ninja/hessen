@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 50.1321409
 longitude: 8.865244
-postcode: 63477
+postcode: "63477"
 city: Maintal
 street: "Honeywellstraße"
 housenumber: 7

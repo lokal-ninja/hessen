@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.2831138
 longitude: 9.4380059
-postcode: 34132
+postcode: "34132"
 city: Kassel
 street: "Korbacher Straße"
 housenumber: 181

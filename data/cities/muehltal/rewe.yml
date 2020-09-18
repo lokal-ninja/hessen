@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.8202889
 longitude: 8.6864933
-postcode: 64367
+postcode: "64367"
 city: Mühltal
 street: "Rheinstraße"
 housenumber: 47

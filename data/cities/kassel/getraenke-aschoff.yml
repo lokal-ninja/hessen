@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.2995937
 longitude: 9.4805569
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Frankfurter Straße"
 housenumber: 128

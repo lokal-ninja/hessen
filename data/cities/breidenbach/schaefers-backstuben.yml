@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.8868116
 longitude: 8.4543142
-postcode: 35236
+postcode: "35236"
 city: Breidenbach
 street: "Hauptstraße"
 housenumber: 40

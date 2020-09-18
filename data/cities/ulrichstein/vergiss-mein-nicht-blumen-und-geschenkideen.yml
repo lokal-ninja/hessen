@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 50.576243500000004
 longitude: 9.1927477
-postcode: 35327
+postcode: "35327"
 city: Ulrichstein
 street: "Marktstraße"
 housenumber: 8

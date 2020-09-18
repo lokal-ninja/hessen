@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 50.029043800000004
 longitude: 8.9586206
-postcode: 63500
+postcode: "63500"
 city: Seligenstadt
 street: "Schachenweg"
 housenumber: 3

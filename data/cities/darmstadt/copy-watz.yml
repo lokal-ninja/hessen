@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 49.8820933
 longitude: 8.659344
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Liebfrauenstraße"
 housenumber: 58

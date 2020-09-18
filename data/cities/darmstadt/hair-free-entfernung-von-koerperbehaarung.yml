@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.872654100000005
 longitude: 8.6485695
-postcode: 64289
+postcode: "64289"
 city: Darmstadt
 street: "Rheinstraße"
 housenumber: 19-21

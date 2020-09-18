@@ -1,12 +1,12 @@
 id: 313663344
 type: node
 shop: Getränke
-latitude: 50.999714000000004
-longitude: 9.147865000000001
-postcode: 34632
+latitude: 50.99957190000001
+longitude: 9.1478689
+postcode: "34632"
 city: Jesberg
 street: "Industriestraße"
 housenumber: 6
-phone: "+49(0)6695-911062"
+phone: "+49 6695 911062"
 opening_hours: ""
-website: ""
+website: "http://www.hahn-getraenke.de/"

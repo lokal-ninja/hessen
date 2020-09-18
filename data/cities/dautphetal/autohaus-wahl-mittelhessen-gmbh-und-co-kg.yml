@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 50.8144226
 longitude: 8.532149800000001
-postcode: 35232
+postcode: "35232"
 city: Dautphetal
 street: "Talstraße"
 housenumber: 19
 phone: "+49 6468 91400"
-opening_hours: ""
+opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00; Su, PH off"
 website: "http://www.wahl-group.de/Dautphetal.741.0.html"

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.5801309
 longitude: 8.6465295
-postcode: 35398
+postcode: "35398"
 city: Gießen
 street: "Gottlieb-Daimler-Straße"
 housenumber: 27

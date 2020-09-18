@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.303006200000006
 longitude: 8.5699141
-postcode: 61273
+postcode: "61273"
 city: Wehrheim
 street: "Hauptstraße"
 housenumber: 11

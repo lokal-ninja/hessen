@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 49.850847900000005
 longitude: 9.077393200000001
-postcode: 63853
+postcode: "63853"
 city: Mömlingen
 street: "Bahnhofstraße"
 housenumber: 24

@@ -3,10 +3,10 @@ type: way
 shop: Baumarkt
 latitude: 50.0508327
 longitude: 8.218896800000001
-postcode: 65203
+postcode: "65203"
 city: Wiesbaden
 street: ""
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

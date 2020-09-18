@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.5831706
 longitude: 8.6312301
-postcode: 35452
+postcode: "35452"
 city: Heuchelheim
 street: "Brauhausstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 49.8579729
 longitude: 8.6516237
-postcode: 64285
+postcode: "64285"
 city: Darmstadt
 street: "Bessunger Straße"
 housenumber: 54

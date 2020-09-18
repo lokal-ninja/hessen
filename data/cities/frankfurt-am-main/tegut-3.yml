@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.122064200000004
 longitude: 8.7698718
-postcode: 60386
+postcode: "60386"
 city: Frankfurt am Main
 street: "Pfortenstraße"
 housenumber: 3

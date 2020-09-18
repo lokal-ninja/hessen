@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 50.9598511
 longitude: 9.7881645
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Hersfelder Straße"
 housenumber: 

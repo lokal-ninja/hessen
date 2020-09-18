@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.161611400000005
 longitude: 9.130528400000001
-postcode: 34549
+postcode: "34549"
 city: Edertal
 street: "Am Kornhaus"
 housenumber: 2

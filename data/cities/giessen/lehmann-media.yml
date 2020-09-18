@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 50.578081700000006
 longitude: 8.6649729
-postcode: 35392
+postcode: "35392"
 city: Gießen
 street: "Frankfurter Straße"
 housenumber: 42

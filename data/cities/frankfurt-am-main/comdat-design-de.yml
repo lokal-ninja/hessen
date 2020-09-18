@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.1265312
 longitude: 8.716156900000001
-postcode: 60385
+postcode: "60385"
 city: Frankfurt am Main
 street: "Inheidener Straße"
 housenumber: 187

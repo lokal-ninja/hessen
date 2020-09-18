@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.8437075
 longitude: 8.7119163
-postcode: 35041
+postcode: "35041"
 city: Marburg
 street: "Am Wall"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5757484
 longitude: 8.662188200000001
-postcode: 35392
+postcode: "35392"
 city: Gießen
 street: "Hillebrandstraße"
 housenumber: 1

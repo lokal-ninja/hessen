@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 49.870493100000004
 longitude: 8.6561628
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Schulstraße"
 housenumber: 13

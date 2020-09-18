@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.314007600000004
 longitude: 9.4396699
-postcode: 34131
+postcode: "34131"
 city: Kassel
 street: "Wilhelmshöher Allee"
 housenumber: 294

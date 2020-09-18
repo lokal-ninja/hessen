@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.6455052
 longitude: 8.6246788
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "Opelstraße"
 housenumber: 3

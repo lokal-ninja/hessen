@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 50.584197
 longitude: 8.6739051
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Plockstraße"
 housenumber: 1-3

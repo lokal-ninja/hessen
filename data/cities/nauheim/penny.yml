@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 49.9511574
 longitude: 8.4563281
-postcode: 64569
+postcode: "64569"
 city: Nauheim
 street: "Am Schafsteg"
 housenumber: 1

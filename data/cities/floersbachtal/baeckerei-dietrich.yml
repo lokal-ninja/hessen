@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.111398
 longitude: 9.4396193
-postcode: 63639
+postcode: "63639"
 city: Flörsbachtal
 street: "Würzburger Straße"
 housenumber: 20

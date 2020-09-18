@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.4443015
 longitude: 8.041775000000001
-postcode: 65589
+postcode: "65589"
 city: Hadamar
 street: "Neue Chaussee"
 housenumber: 17

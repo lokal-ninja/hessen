@@ -1,12 +1,12 @@
-id: 5150487801
+id: 5150487802
 type: node
 shop: Drogerie
-latitude: 50.1020144
-longitude: 8.5480861
-postcode: 65929
+latitude: 50.086534500000006
+longitude: 8.645341700000001
+postcode: "60528"
 city: Frankfurt am Main
-street: "Königsteiner Straße"
-housenumber: 17A
+street: "Bruchfeldstraße"
+housenumber: 49
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 50.3645052
 longitude: 8.7390573
-postcode: 61231
+postcode: "61231"
 city: Bad Nauheim
 street: "Stresemannstraße"
 housenumber: 16

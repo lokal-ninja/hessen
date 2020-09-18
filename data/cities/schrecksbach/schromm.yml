@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.834709600000004
 longitude: 9.291848100000001
-postcode: 34637
+postcode: "34637"
 city: Schrecksbach
 street: "Berliner Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.4084427
 longitude: 9.4013083
-postcode: 34379
+postcode: "34379"
 city: Calden
 street: "Wilhelmsthaler Straße"
 housenumber: 11

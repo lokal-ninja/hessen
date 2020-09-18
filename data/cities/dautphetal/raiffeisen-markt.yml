@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.8545613
 longitude: 8.5520095
-postcode: 35232
+postcode: "35232"
 city: Dautphetal
 street: "Pützwiese"
 housenumber: 14

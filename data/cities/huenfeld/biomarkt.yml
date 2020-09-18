@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.673979100000004
 longitude: 9.765236100000001
-postcode: 36088
+postcode: "36088"
 city: Hünfeld
 street: "Hauptstraße"
 housenumber: 25

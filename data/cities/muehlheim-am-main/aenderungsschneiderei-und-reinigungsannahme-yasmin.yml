@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.0963657
 longitude: 8.8563829
-postcode: 63165
+postcode: "63165"
 city: Mühlheim am Main
 street: "Bischof-Ketteler-Straße"
 housenumber: 35

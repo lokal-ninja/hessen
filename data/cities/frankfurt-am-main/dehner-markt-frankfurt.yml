@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 50.132125800000004
 longitude: 8.5950868
-postcode: 60489
+postcode: "60489"
 city: Frankfurt am Main
 street: "Lorscher Straße"
 housenumber: 80

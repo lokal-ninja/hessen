@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 50.087153400000005
 longitude: 8.443305
-postcode: 65719
+postcode: "65719"
 city: Hofheim am Taunus
 street: "Am Alten Bach"
 housenumber: 2-4

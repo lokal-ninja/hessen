@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.1328419
 longitude: 8.9160266
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Am Markt"
 housenumber: 

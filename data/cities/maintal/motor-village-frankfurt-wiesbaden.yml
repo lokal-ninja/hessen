@@ -1,12 +1,12 @@
-id: 3874582429
-type: node
+id: 89102652
+type: way
 shop: Autohaus
-latitude: 50.134219300000005
-longitude: 8.8655322
-postcode: 63477
+latitude: 50.133817400000005
+longitude: 8.865569500000001
+postcode: "63477"
 city: Maintal
 street: "Honeywellstraße"
 housenumber: 1-3
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00"
+website: "https://www.motorvillage-frankfurt-wiesbaden.de"

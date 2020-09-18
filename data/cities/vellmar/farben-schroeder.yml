@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 51.3620169
 longitude: 9.4578448
-postcode: 34246
+postcode: "34246"
 city: Vellmar
 street: "Holländische Straße"
 housenumber: 78

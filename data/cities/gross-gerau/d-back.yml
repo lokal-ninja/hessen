@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.9198029
 longitude: 8.484966400000001
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Darmstädter Straße"
 housenumber: 29

@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 49.6813451
 longitude: 8.6220041
-postcode: 64625
+postcode: "64625"
 city: Bensheim
 street: "Bahnhofstraße"
 housenumber: 3

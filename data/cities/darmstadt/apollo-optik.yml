@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 49.871193600000005
 longitude: 8.6542575
-postcode: 64283
+postcode: "64283"
 city: Darmstadt
 street: "Ernst-Ludwig-Straße"
 housenumber: 24

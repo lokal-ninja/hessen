@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.494351200000004
 longitude: 9.6953376
-postcode: 36124
+postcode: "36124"
 city: Eichenzell
 street: "Fuldaer Straße"
 housenumber: 6

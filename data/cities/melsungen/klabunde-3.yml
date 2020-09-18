@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.125799900000004
 longitude: 9.543893
-postcode: 34212
+postcode: "34212"
 city: Melsungen
 street: "Nürnberger Straße"
 housenumber: 5

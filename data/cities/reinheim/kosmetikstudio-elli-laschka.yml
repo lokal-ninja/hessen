@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 49.83121310000001
 longitude: 8.8313916
-postcode: 64354
+postcode: "64354"
 city: Reinheim
 street: "Wingertstraße"
 housenumber: 19

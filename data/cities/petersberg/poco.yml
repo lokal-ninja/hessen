@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 50.5531735
 longitude: 9.719411500000001
-postcode: 36100
+postcode: "36100"
 city: Petersberg
 street: "Ignaz-Komp-Straße"
 housenumber: 3-7

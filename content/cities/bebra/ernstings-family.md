@@ -1,4 +1,4 @@
 ---
-title: "ernsting's family"
+title: "Ernsting's family"
 url: /bebra/ernstings-family/
 ---

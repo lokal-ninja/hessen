@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 50.5507046
 longitude: 9.6773518
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Marktstraße"
 housenumber: 18

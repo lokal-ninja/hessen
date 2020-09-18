@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.413639
 longitude: 8.0345321
-postcode: 65604
+postcode: "65604"
 city: Elz
 street: "Pfortenstraße"
 housenumber: 16

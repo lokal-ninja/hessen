@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 50.598891300000005
 longitude: 8.821629
-postcode: 35447
+postcode: "35447"
 city: Reiskirchen
 street: "Siemensstraße"
 housenumber: 8

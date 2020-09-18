@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.3154679
 longitude: 9.501223000000001
-postcode: 34117
+postcode: "34117"
 city: Kassel
 street: "Entenanger"
 housenumber: 9

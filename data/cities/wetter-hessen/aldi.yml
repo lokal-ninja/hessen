@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.904853200000005
 longitude: 8.7233093
-postcode: 35083
+postcode: "35083"
 city: Wetter (Hessen)
 street: "Am Untertor"
 housenumber: 8

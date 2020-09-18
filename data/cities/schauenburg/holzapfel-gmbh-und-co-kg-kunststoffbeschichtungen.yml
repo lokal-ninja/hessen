@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.27526640000001
 longitude: 9.3735371
-postcode: 34270
+postcode: "34270"
 city: Schauenburg
 street: "Lange Baunastraße"
 housenumber: 52

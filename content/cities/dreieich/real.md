@@ -1,4 +1,4 @@
 ---
-title: "REAL"
+title: "Real"
 url: /dreieich/real/
 ---

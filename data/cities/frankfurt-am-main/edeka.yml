@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.097309
 longitude: 8.6934511
-postcode: 60599
+postcode: "60599"
 city: Frankfurt am Main
 street: "Hainer Weg"
 housenumber: 56-80

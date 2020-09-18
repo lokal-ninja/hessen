@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 50.1147987
 longitude: 8.6838964
-postcode: 60313
+postcode: "60313"
 city: Frankfurt am Main
 street: "Zeil"
 housenumber: 90

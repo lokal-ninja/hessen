@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 50.0113933
 longitude: 8.792945000000001
-postcode: 63128
+postcode: "63128"
 city: Dietzenbach
 street: "Elisabeth-Selbert-Straße"
 housenumber: 12

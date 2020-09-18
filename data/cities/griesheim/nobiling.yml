@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 49.8674265
 longitude: 8.5856961
-postcode: 64347
+postcode: "64347"
 city: Griesheim
 street: "Ostend"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 49.6556062
 longitude: 8.7832384
-postcode: 64658
+postcode: "64658"
 city: Fürth
 street: "Albert-Schweitzer-Straße"
 housenumber: 14

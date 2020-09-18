@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.086817100000005
 longitude: 8.2352547
-postcode: 65183
+postcode: "65183"
 city: Wiesbaden
 street: "Kastellstraße"
 housenumber: 1

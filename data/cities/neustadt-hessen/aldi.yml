@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.8465928
 longitude: 9.0966859
-postcode: 35279
+postcode: "35279"
 city: Neustadt (Hessen)
 street: "Am Kaufpark"
 housenumber: 1

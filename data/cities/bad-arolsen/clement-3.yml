@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.365199600000004
 longitude: 8.9872949
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Kronenstraße"
 housenumber: 4

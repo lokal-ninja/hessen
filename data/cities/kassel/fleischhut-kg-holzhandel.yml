@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.329731800000005
 longitude: 9.502029700000001
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Fiedlerstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.7688567
 longitude: 8.5809595
-postcode: 35075
+postcode: "35075"
 city: Gladenbach
 street: "Marktplatz"
 housenumber: 1

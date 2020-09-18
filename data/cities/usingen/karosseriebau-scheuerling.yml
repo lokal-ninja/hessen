@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.330430500000006
 longitude: 8.524994600000001
-postcode: 61250
+postcode: "61250"
 city: Usingen
 street: "Am gebackenen Stein"
 housenumber: 5

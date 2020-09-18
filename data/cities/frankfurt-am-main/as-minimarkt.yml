@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 50.125398700000005
 longitude: 8.643298600000001
-postcode: 60487
+postcode: "60487"
 city: Frankfurt am Main
 street: "Basaltstraße"
 housenumber: 29

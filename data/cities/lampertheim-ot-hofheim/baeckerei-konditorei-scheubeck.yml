@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.657507800000005
 longitude: 8.4102399
-postcode: 68623
+postcode: "68623"
 city: Lampertheim OT Hofheim
 street: "Neugasse"
 housenumber: 1

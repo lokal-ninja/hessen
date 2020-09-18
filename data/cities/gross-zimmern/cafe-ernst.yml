@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 49.880127200000004
 longitude: 8.8202643
-postcode: 64846
+postcode: "64846"
 city: Groß-Zimmern
 street: ""
 housenumber: 

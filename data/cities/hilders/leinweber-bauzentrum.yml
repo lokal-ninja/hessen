@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 50.5580755
 longitude: 10.009012700000001
-postcode: 36115
+postcode: "36115"
 city: Hilders
 street: "Krautacker"
 housenumber: 6

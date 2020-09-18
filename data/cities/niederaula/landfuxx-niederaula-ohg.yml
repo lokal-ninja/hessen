@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 50.7985757
 longitude: 9.6022066
-postcode: 36272
+postcode: "36272"
 city: Niederaula
 street: "Schlitzer Straße"
 housenumber: 25

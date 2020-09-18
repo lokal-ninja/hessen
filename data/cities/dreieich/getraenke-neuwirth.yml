@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 50.0214732
 longitude: 8.657729900000001
-postcode: 63303
+postcode: "63303"
 city: Dreieich
 street: "Am Siebenstein"
 housenumber: 2

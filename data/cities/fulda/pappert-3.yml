@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 50.5535074
 longitude: 9.6556954
-postcode: 36041
+postcode: "36041"
 city: Fulda
 street: "Haimbacher Straße"
 housenumber: 36
 phone: "+49 661 72927"
-opening_hours: "Mo-Fr 05:00-19:00; Sa 05:00-14:00; Su,PH 07:00-12:00"
+opening_hours: "Mo-Fr 05:00-19:00; Sa 05:00-14:00; PH,Su 07:00-12:00"
 website: "http://www.papperts.de/"

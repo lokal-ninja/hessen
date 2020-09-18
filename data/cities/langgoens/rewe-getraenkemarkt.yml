@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.4926309
 longitude: 8.6548909
-postcode: 35428
+postcode: "35428"
 city: Langgöns
 street: "Am Lindenbaum"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 51.3215024
 longitude: 9.501706800000001
-postcode: 34127
+postcode: "34127"
 city: Kassel
 street: "Holländische Straße"
 housenumber: 17

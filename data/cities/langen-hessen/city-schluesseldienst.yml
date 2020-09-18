@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 49.9908719
 longitude: 8.6655295
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Wiesenstraße"
 housenumber: 12

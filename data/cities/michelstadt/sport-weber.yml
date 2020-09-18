@@ -3,7 +3,7 @@ type: way
 shop: Sport
 latitude: 49.6835358
 longitude: 9.00273
-postcode: 64720
+postcode: "64720"
 city: Michelstadt
 street: "Frankfurter Straße"
 housenumber: 9

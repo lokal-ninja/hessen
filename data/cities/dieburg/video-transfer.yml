@@ -3,7 +3,7 @@ type: way
 shop: Videothek
 latitude: 49.8976662
 longitude: 8.837990300000001
-postcode: 64807
+postcode: "64807"
 city: Dieburg
 street: "Rheingaustraße"
 housenumber: 5

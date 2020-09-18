@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.273314500000005
 longitude: 9.507305800000001
-postcode: 34123
+postcode: "34123"
 city: Fuldabrück
 street: "Marie-Curie-Straße"
 housenumber: 8

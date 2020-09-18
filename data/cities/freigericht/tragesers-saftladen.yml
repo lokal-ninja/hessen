@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.143688600000004
 longitude: 9.1371527
-postcode: 63579
+postcode: "63579"
 city: Freigericht
 street: "Somborner Straße"
 housenumber: 17

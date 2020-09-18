@@ -3,10 +3,10 @@ type: node
 shop: Spielzeug
 latitude: 50.183425500000006
 longitude: 8.4670541
-postcode: 61462
+postcode: "61462"
 city: Königstein im Taunus
 street: "Georg-Pingler-Straße"
 housenumber: 11a
 phone: "+49 6174 248665"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; PH,Su off"
 website: ""

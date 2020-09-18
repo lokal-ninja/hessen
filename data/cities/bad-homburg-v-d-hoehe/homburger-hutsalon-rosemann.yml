@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.230155100000005
 longitude: 8.6108277
-postcode: 61348
+postcode: "61348"
 city: Bad Homburg v.d. Höhe
 street: "Rathausstraße"
 housenumber: 8

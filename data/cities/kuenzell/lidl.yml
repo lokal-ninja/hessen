@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 50.5290717
 longitude: 9.7327045
-postcode: 36093
+postcode: "36093"
 city: Künzell
 street: "Landweg"
 housenumber: 2

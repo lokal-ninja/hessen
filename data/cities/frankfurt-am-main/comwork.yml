@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 50.1224767
 longitude: 8.694816900000001
-postcode: 60316
+postcode: "60316"
 city: Frankfurt am Main
 street: "Bornheimer Landstraße"
 housenumber: 49

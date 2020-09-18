@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.314015000000005
 longitude: 9.4395325
-postcode: 34131
+postcode: "34131"
 city: Kassel
 street: "Wilhelmshöher Allee"
 housenumber: 294

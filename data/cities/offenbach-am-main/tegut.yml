@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.1037225
 longitude: 8.7607149
-postcode: 63065
+postcode: "63065"
 city: Offenbach am Main
 street: "Große Marktstraße"
 housenumber: 36-42

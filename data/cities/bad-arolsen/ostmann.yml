@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.37039660000001
 longitude: 8.990525400000001
-postcode: 34454
+postcode: "34454"
 city: Bad Arolsen
 street: "Landstraße"
 housenumber: 11-15

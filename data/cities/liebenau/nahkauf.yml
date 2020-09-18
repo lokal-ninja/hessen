@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.496588700000004
 longitude: 9.2822087
-postcode: 34396
+postcode: "34396"
 city: Liebenau
 street: "Alter Steinweg"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 50.752124900000005
 longitude: 8.495127400000001
-postcode: 35080
+postcode: "35080"
 city: Bad Endbach
 street: "Herborner Straße"
 housenumber: 

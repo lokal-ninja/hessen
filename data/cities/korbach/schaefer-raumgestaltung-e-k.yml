@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 51.286802300000005
 longitude: 8.7872445
-postcode: 34497
+postcode: "34497"
 city: Korbach
 street: "Upländer Straße"
 housenumber: 41

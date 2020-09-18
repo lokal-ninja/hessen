@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.9690121
 longitude: 9.8008305
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Gilfershäuser Straße"
 housenumber: 16

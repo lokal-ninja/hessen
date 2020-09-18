@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 50.815224
 longitude: 8.7689081
-postcode: 35037
+postcode: "35037"
 city: Marburg
 street: "Elisabethstraße"
 housenumber: 8

@@ -1,12 +1,12 @@
-id: 206005824
-type: way
+id: 7416470874
+type: node
 shop: Supermarkt
-latitude: 50.043351
-longitude: 8.167191800000001
-postcode: 65396
+latitude: 50.0434208
+longitude: 8.1669429
+postcode: "65396"
 city: Walluf
-street: ""
-housenumber: 
+street: "Untere Martinsthaler Straße"
+housenumber: 1B
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.aldi-sued.de/filialen/de-de/Search?SingleSlotGeo=Untere%20Martinsthaler%20Stra%C3%9Fe%201b%2065396%20Walluf&Mode=None"

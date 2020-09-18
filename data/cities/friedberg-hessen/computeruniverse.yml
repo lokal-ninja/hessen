@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 50.3239309
 longitude: 8.739170300000001
-postcode: 61169
+postcode: "61169"
 city: Friedberg (Hessen)
 street: "Grüner Weg"
 housenumber: 14

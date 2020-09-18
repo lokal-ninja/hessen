@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 49.8087631
 longitude: 8.8911791
-postcode: 64853
+postcode: "64853"
 city: Otzberg
 street: "Wiesenstraße"
 housenumber: 6

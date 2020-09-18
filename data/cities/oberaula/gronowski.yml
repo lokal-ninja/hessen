@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.856895
 longitude: 9.4690493
-postcode: 36280
+postcode: "36280"
 city: Oberaula
 street: "Bahnhofstraße"
 housenumber: 12-14

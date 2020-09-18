@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.287264400000005
 longitude: 9.5273476
-postcode: 34123
+postcode: "34123"
 city: Kassel
 street: "Kasseler Straße"
 housenumber: 72

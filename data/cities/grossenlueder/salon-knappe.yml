@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 50.589390900000005
 longitude: 9.5430848
-postcode: 36137
+postcode: "36137"
 city: Großenlüder
 street: "Bahnhofstraße"
 housenumber: 13

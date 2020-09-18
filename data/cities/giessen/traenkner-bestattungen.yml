@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 50.584305400000005
 longitude: 8.6741049
-postcode: 35390
+postcode: "35390"
 city: Gießen
 street: "Maigasse"
 housenumber: 11

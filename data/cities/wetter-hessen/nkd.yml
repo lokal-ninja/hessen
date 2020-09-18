@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 50.9042283
 longitude: 8.7231176
-postcode: 35083
+postcode: "35083"
 city: Wetter (Hessen)
 street: "Am Untertor"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.4983548
 longitude: 9.3927143
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: "Industriestraße"
 housenumber: 21

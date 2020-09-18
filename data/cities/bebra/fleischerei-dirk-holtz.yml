@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.9717062
 longitude: 9.7929514
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Mühlenstraße"
 housenumber: 11

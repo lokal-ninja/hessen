@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.1124674
 longitude: 8.6844499
-postcode: 60311
+postcode: "60311"
 city: Frankfurt am Main
 street: "Hasengasse"
 housenumber: 2

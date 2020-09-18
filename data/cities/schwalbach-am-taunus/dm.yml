@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 50.134969600000005
 longitude: 8.557433000000001
-postcode: 65824
+postcode: "65824"
 city: Schwalbach am Taunus
 street: "Elly-Beinhorn-Straße"
 housenumber: 11

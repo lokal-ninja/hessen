@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.1303459
 longitude: 8.9223222
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Kurt-Blaum-Platz"
 housenumber: 8

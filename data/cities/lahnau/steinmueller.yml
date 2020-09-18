@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 50.5771917
 longitude: 8.5656915
-postcode: 35633
+postcode: "35633"
 city: Lahnau
 street: ""
 housenumber: 

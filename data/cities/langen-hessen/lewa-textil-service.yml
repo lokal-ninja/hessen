@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 49.9950045
 longitude: 8.6525727
-postcode: 63225
+postcode: "63225"
 city: Langen (Hessen)
 street: "Ampèrestraße"
 housenumber: 17

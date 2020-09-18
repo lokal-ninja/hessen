@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 50.083677800000004
 longitude: 8.2270181
-postcode: 65195
+postcode: "65195"
 city: Wiesbaden
 street: "Bülowstraße"
 housenumber: 1

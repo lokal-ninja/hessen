@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.500332400000005
 longitude: 9.3928872
-postcode: 34369
+postcode: "34369"
 city: Hofgeismar
 street: "Industriestraße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 50.5493073
 longitude: 9.6743702
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Simpliziusbrunnen"
 housenumber: 11

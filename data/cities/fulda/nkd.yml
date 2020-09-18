@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.550396400000004
 longitude: 9.676011500000001
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Mittelstraße"
 housenumber: 28-32

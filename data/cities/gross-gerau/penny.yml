@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 49.9198748
 longitude: 8.4846777
-postcode: 64521
+postcode: "64521"
 city: Groß-Gerau
 street: "Darmstädter Straße"
 housenumber: 27

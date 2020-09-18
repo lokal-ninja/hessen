@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 50.0396501
 longitude: 8.0811574
-postcode: 65399
+postcode: "65399"
 city: Kiedrich
 street: "Sonnenlandstraße"
 housenumber: 48

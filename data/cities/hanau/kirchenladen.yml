@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.1331922
 longitude: 8.9157154
-postcode: 63450
+postcode: "63450"
 city: Hanau
 street: "Krämerstraße"
 housenumber: 4

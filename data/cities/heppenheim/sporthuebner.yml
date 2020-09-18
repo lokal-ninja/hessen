@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 49.6386941
 longitude: 8.6199384
-postcode: 64646
+postcode: "64646"
 city: Heppenheim
 street: "In den Stadtwiesen"
 housenumber: 1

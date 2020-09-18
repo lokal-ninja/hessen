@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 50.6879416
 longitude: 8.3062696
-postcode: 35745
+postcode: "35745"
 city: Herborn
 street: "Dr.-Siegfried-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 50.3511773
 longitude: 8.7538409
-postcode: 61231
+postcode: "61231"
 city: Bad Nauheim
 street: "Feldbergstraße"
 housenumber: 11

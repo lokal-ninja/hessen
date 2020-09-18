@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 50.118664100000004
 longitude: 8.6481858
-postcode: 60486
+postcode: "60486"
 city: Frankfurt am Main
 street: "Jordanstraße"
 housenumber: 10

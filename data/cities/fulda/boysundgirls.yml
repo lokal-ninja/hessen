@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.54996980000001
 longitude: 9.6769257
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Karlstraße"
 housenumber: 8

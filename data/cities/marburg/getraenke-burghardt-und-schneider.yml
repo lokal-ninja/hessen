@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 50.78408700000001
 longitude: 8.7645105
-postcode: 35043
+postcode: "35043"
 city: Marburg
 street: "Lintzingsweg"
 housenumber: 2

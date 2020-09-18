@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 49.8961412
 longitude: 8.6140504
-postcode: 64331
+postcode: "64331"
 city: Weiterstadt
 street: "Robert-Koch-Straße"
 housenumber: 1A

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 50.1426078
 longitude: 8.563148100000001
-postcode: 65760
+postcode: "65760"
 city: Eschborn
 street: "Schwalbacher Straße"
 housenumber: 18

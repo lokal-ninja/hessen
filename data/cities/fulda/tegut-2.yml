@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 50.5301124
 longitude: 9.6894919
-postcode: 36043
+postcode: "36043"
 city: Fulda
 street: "Keltenstraße"
 housenumber: 20

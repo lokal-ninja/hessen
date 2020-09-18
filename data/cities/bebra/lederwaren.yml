@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 50.9700835
 longitude: 9.7930232
-postcode: 36179
+postcode: "36179"
 city: Bebra
 street: "Nürnberger Straße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 49.7540246
 longitude: 8.613676400000001
-postcode: 64404
+postcode: "64404"
 city: Bickenbach
 street: "Darmstädter Straße"
 housenumber: 16

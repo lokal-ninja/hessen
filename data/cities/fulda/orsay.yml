@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 50.55083440000001
 longitude: 9.6775201
-postcode: 36037
+postcode: "36037"
 city: Fulda
 street: "Marktstraße"
 housenumber: 21

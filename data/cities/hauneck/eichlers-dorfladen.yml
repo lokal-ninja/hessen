@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 50.834963900000005
 longitude: 9.7218722
-postcode: 36282
+postcode: "36282"
 city: Hauneck
 street: "Hauptstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.367989900000005
 longitude: 9.4000351
-postcode: 34292
+postcode: "34292"
 city: Ahnatal
 street: "Heckershäuser Straße"
 housenumber: 29

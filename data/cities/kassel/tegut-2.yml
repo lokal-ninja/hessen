@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.3120136
 longitude: 9.4720408
-postcode: 34121
+postcode: "34121"
 city: Kassel
 street: "Wilhelmshöher Allee"
 housenumber: 89

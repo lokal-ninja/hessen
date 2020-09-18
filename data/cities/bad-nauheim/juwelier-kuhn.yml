@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 50.365346800000005
 longitude: 8.739066900000001
-postcode: 61231
+postcode: "61231"
 city: Bad Nauheim
 street: "Parkstraße"
 housenumber: 14

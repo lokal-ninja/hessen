@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.1043127
 longitude: 9.348909
-postcode: 34590
+postcode: "34590"
 city: Wabern
 street: "Alte Kasseler Straße"
 housenumber: 13
