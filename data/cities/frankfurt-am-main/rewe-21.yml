@@ -1,12 +1,12 @@
-id: 98210474
+id: 83125241
 type: way
 shop: Supermarkt
-latitude: 50.1035849
-longitude: 8.5790463
-postcode: "65934"
+latitude: 50.1250288
+longitude: 8.5847818
+postcode: "65936"
 city: Frankfurt am Main
-street: "Werner-Bockelmann-Straße"
-housenumber: 7
+street: "Westerbachstraße"
+housenumber: 160
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: "Mo-Fr 07:00-24:00;Sa 07:00-23:30"
 website: ""

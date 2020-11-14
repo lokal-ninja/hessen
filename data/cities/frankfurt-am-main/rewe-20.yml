@@ -1,12 +1,12 @@
-id: 83125241
+id: 41186497
 type: way
 shop: Supermarkt
-latitude: 50.1250288
-longitude: 8.5847818
-postcode: "65936"
+latitude: 50.1016277
+longitude: 8.686904400000001
+postcode: "60594"
 city: Frankfurt am Main
-street: "Westerbachstraße"
-housenumber: 160
+street: "Textorstraße"
+housenumber: 31
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00;Sa 07:00-23:30"
-website: ""
+opening_hours: "Mo-Sa 08:00-24:00"
+website: "https://www.rewe.de/"

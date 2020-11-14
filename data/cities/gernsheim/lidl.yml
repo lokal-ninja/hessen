@@ -1,12 +1,12 @@
-id: 7599676129
-type: node
+id: 798494676
+type: way
 shop: Supermarkt
-latitude: 49.752724
-longitude: 8.4917691
+latitude: 49.7529345
+longitude: 8.4913504
 postcode: "64579"
 city: Gernsheim
 street: "Bensheimer Straße"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/filialen/gernsheim/bensheimer-strasse-5.html"
+opening_hours: ""
+website: ""

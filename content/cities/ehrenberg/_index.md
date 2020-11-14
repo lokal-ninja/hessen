@@ -1,6 +1,6 @@
 ---
 title: Ehrenberg
 url: /ehrenberg/
-latitude: 50.5060336
-longitude: 9.990760100000001
+latitude: 50.504963700000005
+longitude: 9.994193300000001
 ---

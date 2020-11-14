@@ -1,0 +1,4 @@
+---
+title: "LOMESTAR"
+url: /bad-soden-salmuenster/lomestar/
+---

@@ -1,4 +1,4 @@
 ---
-title: "REWE"
+title: "Rewe"
 url: /niddatal/rewe/
 ---

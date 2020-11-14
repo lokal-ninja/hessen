@@ -1,4 +1,4 @@
 ---
-title: "Sta Travel"
+title: "STA Travel"
 url: /giessen/sta-travel/
 ---
