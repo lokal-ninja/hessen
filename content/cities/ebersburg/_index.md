@@ -1,6 +1,6 @@
 ---
 title: Ebersburg
 url: /ebersburg/
-latitude: 50.4628347
-longitude: 9.7963649
+latitude: 50.462716500000006
+longitude: 9.7920865
 ---

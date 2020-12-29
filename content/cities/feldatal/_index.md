@@ -1,6 +1,6 @@
 ---
 title: Feldatal
 url: /feldatal/
-latitude: 50.648970500000004
-longitude: 9.1609029
+latitude: 50.639156400000005
+longitude: 9.1811688
 ---

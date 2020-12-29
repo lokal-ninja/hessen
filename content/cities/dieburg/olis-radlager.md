@@ -1,4 +1,4 @@
 ---
-title: "Olis Radlager"
+title: "Oli's Radlager"
 url: /dieburg/olis-radlager/
 ---
