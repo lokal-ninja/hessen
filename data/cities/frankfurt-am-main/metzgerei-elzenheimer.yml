@@ -1,6 +1,5 @@
 id: 2464270410
 type: node
-shop: Metzgerei
 latitude: 50.1087768
 longitude: 8.5325571
 postcode: "65929"
@@ -8,5 +7,5 @@ city: Frankfurt am Main
 street: "Heimchenweg"
 housenumber: 5
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00, Tu- Fr 15:00-18:00; Sa 07:30-13:00"
+opening_hours: "Mo 08:00-13:00; Th,Fr 08:00-18:00; Sa 07:30-13:00; Tu,We 08:00-13:00,15:00-18:00"
 website: "http://www.metzgerei-elzenheimer.de"

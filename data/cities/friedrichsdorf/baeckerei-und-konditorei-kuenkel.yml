@@ -1,6 +1,5 @@
 id: 1137671182
 type: node
-shop: Bäckerei
 latitude: 50.2753658
 longitude: 8.648884
 postcode: "61381"
@@ -8,5 +7,5 @@ city: Friedrichsdorf
 street: "Bachstraße"
 housenumber: 6
 phone: "+49 6175 7979650"
-opening_hours: "Mo-Sa 07:00-21:30; Su 08:00-12:00"
+opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-12:00"
 website: "https://www.baeckerei-kuenkel.de/standort/friedrichsdorf/fachgeschaeft/friedrichsdorf-koppern/"

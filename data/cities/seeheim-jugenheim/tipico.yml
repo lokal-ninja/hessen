@@ -1,6 +1,5 @@
 id: 6770028475
 type: node
-shop: Wettbüro
 latitude: 49.7672013
 longitude: 8.6447772
 postcode: "64342"
@@ -8,5 +7,5 @@ city: Seeheim-Jugenheim
 street: "Raiffeisenstraße"
 housenumber: 19-21
 phone: "+49 6257 5060462"
-opening_hours: "Mo-So 11:00-23:00"
+opening_hours: "Mo-Su 11:00-23:00"
 website: "http://wetten-hofmann.de"

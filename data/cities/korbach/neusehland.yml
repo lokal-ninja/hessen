@@ -1,6 +1,5 @@
 id: 6723472187
 type: node
-shop: Optiker
 latitude: 51.276192900000005
 longitude: 8.871942800000001
 postcode: "34497"
@@ -8,5 +7,5 @@ city: Korbach
 street: "Am Berndorfer Tor"
 housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr: 08:30-18:30; Sa: 09:00-14:00"
+opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00"
 website: ""

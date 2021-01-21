@@ -1,6 +1,5 @@
 id: 1011600266
 type: node
-shop: Tattoo
 latitude: 49.9739335
 longitude: 8.8299622
 postcode: "63322"
@@ -8,5 +7,5 @@ city: Rödermark
 street: "Dieburger Straße"
 housenumber: 66
 phone: "+49 6074 310345"
-opening_hours: "Tu-Fr 13:00-19:00 Sa 12:00-16:00"
+opening_hours: "Tu-Fr 13:00-19:00; Sa 12:00-16:00"
 website: "https://tattoo-bytony.de"

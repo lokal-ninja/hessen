@@ -1,12 +1,11 @@
-id: 138944643
-type: way
-shop: Bäckerei
-latitude: 49.976590200000004
-longitude: 8.4231435
+id: 7248387818
+type: node
+latitude: 49.980941800000004
+longitude: 8.4406999
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Stahlstraße"
-housenumber: 66
+street: "Virchowstraße"
+housenumber: 21
 phone: ""
-opening_hours: "Mo-Fr 07:00-15:00"
+opening_hours: ""
 website: ""

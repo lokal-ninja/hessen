@@ -1,6 +1,5 @@
 id: 3195356109
 type: node
-shop: Metzgerei
 latitude: 50.589679100000005
 longitude: 8.6119527
 postcode: "35452"
@@ -8,5 +7,5 @@ city: Heuchelheim
 street: "Hauptstraße"
 housenumber: 6
 phone: "+49 641 61456"
-opening_hours: ""
+opening_hours: "Mo 07:00-13:00; Tu-Fr 07:00-18:00; Sa 07:00-13:00"
 website: "http://www.metzgerei-mandler.de/"

@@ -1,6 +1,5 @@
 id: 161614780
 type: way
-shop: Supermarkt
 latitude: 50.153679800000006
 longitude: 8.4201429
 postcode: "65779"
@@ -9,4 +8,4 @@ street: "Im Unterdorf"
 housenumber: 8
 phone: "+49 6195 672389"
 opening_hours: "Mo-Sa 08:00-22:00"
-website: ""
+website: "https://www.rewe.de/marktseite/kelkheim-taunus/240182/rewe-markt-im-unterdorf-8/"

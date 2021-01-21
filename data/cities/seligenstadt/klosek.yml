@@ -1,6 +1,5 @@
 id: 6431747974
 type: node
-shop: Autowerkstatt
 latitude: 50.0403663
 longitude: 8.994466800000001
 postcode: "63500"
@@ -8,5 +7,5 @@ city: Seligenstadt
 street: "Hauptstraße"
 housenumber: 153
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-19:00; Sa 07:30-14:00"
 website: ""

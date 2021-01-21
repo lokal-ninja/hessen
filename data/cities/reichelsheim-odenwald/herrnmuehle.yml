@@ -1,12 +1,11 @@
-id: 177734345
-type: way
-shop: Allgemein
-latitude: 49.710648000000006
-longitude: 8.8466973
+id: 4784464610
+type: node
+latitude: 49.710564700000006
+longitude: 8.8462077
 postcode: "64385"
 city: Reichelsheim (Odenwald)
 street: "Darmstädter Straße"
-housenumber: 
+housenumber: 60
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
+website: "https://herrnmuehle.com/"

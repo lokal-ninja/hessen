@@ -1,6 +1,5 @@
 id: 7645760420
 type: node
-shop: Fahrrad
 latitude: 50.3423237
 longitude: 9.252303000000001
 postcode: "63699"
@@ -8,5 +7,5 @@ city: Kefenrod
 street: "Am Kirchberg"
 housenumber: 4
 phone: "+49 (0)6054 6780"
-opening_hours: "Mo 8:00 - 13:00 + 14:30 - 18:00"
+opening_hours: "Mo 08:00-13:00,14:30-18:00"
 website: "https://www.radsportnorbertschaefer.de/"

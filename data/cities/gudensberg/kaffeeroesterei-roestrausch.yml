@@ -1,6 +1,5 @@
 id: 3750409369
 type: node
-shop: Kaffee
 latitude: 51.1770252
 longitude: 9.3626283
 postcode: "34281"
@@ -8,5 +7,5 @@ city: Gudensberg
 street: "Schwimmbadweg"
 housenumber: 4
 phone: "+49 5603 2025"
-opening_hours: "Fr 13.00- 18:00, Sa 09:00- 13:00"
+opening_hours: "Fr 13:00-18:00, Sa 09:00-13:00"
 website: "https://www.roestrausch.de/"

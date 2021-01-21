@@ -1,6 +1,5 @@
 id: 6726180357
 type: node
-shop: Kleidung
 latitude: 51.27745770000001
 longitude: 8.872952900000001
 postcode: "34497"
@@ -8,5 +7,5 @@ city: Korbach
 street: "Bahnhofstraße"
 housenumber: 16
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00"
 website: ""

@@ -1,6 +1,5 @@
 id: 205757473
 type: way
-shop: Kleidung
 latitude: 50.7513943
 longitude: 9.270794200000001
 postcode: "36304"
@@ -8,5 +7,5 @@ city: Alsfeld
 street: "Obergasse"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00, Su, PH closed"
 website: ""

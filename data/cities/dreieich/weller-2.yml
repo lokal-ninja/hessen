@@ -1,6 +1,5 @@
 id: 4435049926
 type: node
-shop: Bäckerei
 latitude: 50.030189500000006
 longitude: 8.697185900000001
 postcode: "63303"
@@ -8,5 +7,5 @@ city: Dreieich
 street: "Frankfurter Straße"
 housenumber: 125
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH closed "
+opening_hours: "Mo-Sa 07:00-20:00; PH closed"
 website: ""

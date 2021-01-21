@@ -1,4 +1,5 @@
 ---
-title: "Rituals..."
+title: "Rituals"
 url: /kassel/rituals/
+shop: Kosmetik
 ---

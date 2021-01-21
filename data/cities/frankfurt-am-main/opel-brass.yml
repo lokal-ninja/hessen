@@ -1,6 +1,5 @@
 id: 1770650088
 type: node
-shop: Autohaus
 latitude: 50.115795000000006
 longitude: 8.723786500000001
 postcode: "60314"
@@ -8,5 +7,5 @@ city: Frankfurt am Main
 street: "Hanauer Landstraße"
 housenumber: 263
 phone: "+49 69 4050050"
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
 website: ""

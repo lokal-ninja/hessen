@@ -1,6 +1,5 @@
 id: 6946515015
 type: node
-shop: Autohaus
 latitude: 50.5817896
 longitude: 8.475455400000001
 postcode: "35614"
@@ -9,4 +8,4 @@ street: "Industriestraße"
 housenumber: 4
 phone: "+496441 982777"
 opening_hours: ""
-website: ""
+website: "http://www.seidaridis.de/"

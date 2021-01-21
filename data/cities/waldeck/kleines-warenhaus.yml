@@ -1,12 +1,11 @@
 id: 4138637976
 type: node
-shop: Supermarkt
-latitude: 51.2057014
-longitude: 9.0619294
+latitude: 51.205842800000006
+longitude: 9.0617037
 postcode: "34513"
 city: Waldeck
 street: "Marktplatz"
-housenumber: 1
+housenumber: 2
 phone: ""
 opening_hours: "Mo-Fr 08:00-18:30, Sa 07:30-14:00"
 website: ""

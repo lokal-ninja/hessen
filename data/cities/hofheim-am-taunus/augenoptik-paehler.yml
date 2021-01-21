@@ -1,6 +1,5 @@
 id: 731381873
 type: node
-shop: Optiker
 latitude: 50.0867091
 longitude: 8.443777500000001
 postcode: "65719"
@@ -8,5 +7,5 @@ city: Hofheim am Taunus
 street: "Hauptstraße"
 housenumber: 62
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-13:00"
 website: ""

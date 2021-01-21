@@ -1,4 +1,5 @@
 ---
 title: "Pietät Martha Herrig"
 url: /lauterbach/pietaet-martha-herrig/
+shop: Bestattungen
 ---

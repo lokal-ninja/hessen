@@ -1,6 +1,5 @@
 id: 3384068465
 type: node
-shop: Friseur
 latitude: 51.055353800000006
 longitude: 8.7895793
 postcode: "35066"
@@ -8,5 +7,5 @@ city: Frankenberg (Eder)
 street: "Röddenauer Straße"
 housenumber: 2-4
 phone: "+49 64517172830"
-opening_hours: "Mo-Fr: 09:30-19:00; Sa: 09:00-18:00"
+opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"
 website: ""

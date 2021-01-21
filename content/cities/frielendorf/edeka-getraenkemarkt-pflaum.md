@@ -1,4 +1,5 @@
 ---
-title: "EDEKA Getränkemarkt Pflaum"
+title: "Edeka Getränkemarkt Pflaum"
 url: /frielendorf/edeka-getraenkemarkt-pflaum/
+shop: Getränke
 ---

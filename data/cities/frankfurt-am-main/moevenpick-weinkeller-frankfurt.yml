@@ -1,6 +1,5 @@
 id: 4172507692
 type: node
-shop: Wein
 latitude: 50.1154099
 longitude: 8.724498200000001
 postcode: "60314"
@@ -8,5 +7,5 @@ city: Frankfurt am Main
 street: "Hanauer Landstraße"
 housenumber: 
 phone: "+49 69 48 98 16 86"
-opening_hours: "Tu-Fr 10:00-19:00; Sa10:00-16:00"
+opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-18:00"
 website: "https://www.moevenpick-wein.de/weinkeller/moevenpick-weinkeller-frankfurt.html"

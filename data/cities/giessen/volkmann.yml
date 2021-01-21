@@ -1,6 +1,5 @@
 id: 1888633000
 type: node
-shop: Bäckerei
 latitude: 50.582436400000006
 longitude: 8.670555
 postcode: "35390"
@@ -9,4 +8,4 @@ street: "Seltersweg"
 housenumber: 64
 phone: "+49 641 55929880"
 opening_hours: "Mo-Fr 08:00-18:30; Sa 8:00-17:30; PH off"
-website: ""
+website: "https://www.baeckerei-volkmann.de"
