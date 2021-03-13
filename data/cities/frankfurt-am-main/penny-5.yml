@@ -1,11 +1,11 @@
-id: 1484925913
-type: node
-latitude: 50.11955570000001
-longitude: 8.6935417
-postcode: "60316"
+id: 46039254
+type: way
+latitude: 50.1273567
+longitude: 8.7095426
+postcode: "60385"
 city: Frankfurt am Main
 street: "Berger Straße"
-housenumber: 
+housenumber: 234-238
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:30-22:00"
 website: ""

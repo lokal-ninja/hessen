@@ -1,5 +1,5 @@
 ---
 title: "Futtermittelhandel Herrmann"
 url: /schlitz/futtermittelhandel-herrmann/
-shop: Allgemein
+shop: Tiere
 ---

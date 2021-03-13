@@ -1,5 +1,5 @@
 ---
-title: "city market"
+title: "City Market"
 url: /bad-hersfeld/city-market/
-shop: Lebensmittel
+shop: Supermarkt
 ---
