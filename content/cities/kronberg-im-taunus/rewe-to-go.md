@@ -1,5 +1,5 @@
 ---
-title: "REWE To Go"
+title: "Rewe To Go"
 url: /kronberg-im-taunus/rewe-to-go/
-shop: Supermarkt
+shop: Lebensmittel
 ---

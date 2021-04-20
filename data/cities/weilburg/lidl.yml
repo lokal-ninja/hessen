@@ -1,11 +1,11 @@
-id: 1805020585
-type: node
-latitude: 50.4784633
-longitude: 8.287976200000001
+id: 200831067
+type: way
+latitude: 50.4785185
+longitude: 8.288160000000001
 postcode: "35781"
 city: Weilburg
 street: "Kubacher Weg"
 housenumber: 6
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-21:00"
+website: "https://www.lidl.de/"

@@ -1,6 +1,6 @@
 ---
 title: Dipperz
 url: /dipperz/
-latitude: 50.5425735
-longitude: 9.796794100000001
+latitude: 50.5316185
+longitude: 9.8175609
 ---

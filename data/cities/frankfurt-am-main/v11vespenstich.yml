@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: "Hufnagelstraße"
 housenumber: 19-21
 phone: "+49 69 91398218"
-opening_hours: "Mo-Mi 09:00-18:00, Do 09:00-19:00, Fr 09:00-18:00, Sa 09:00-13:00"
+opening_hours: "Mo-We 09:00-18:00, Th 09:00-19:00, Fr 09:00-18:00, Sa 09:00-13:00"
 website: "https://www.vespenstich-frankfurt.de/"
