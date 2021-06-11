@@ -1,6 +1,6 @@
 ---
 title: Selters
 url: /selters/
-latitude: 50.340955900000004
-longitude: 9.0377389
+latitude: 50.5166319
+longitude: 8.2881394
 ---

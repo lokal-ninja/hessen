@@ -1,5 +1,5 @@
 ---
-title: "Hit"
+title: "HIT"
 url: /idstein/hit/
 shop: Supermarkt
 ---

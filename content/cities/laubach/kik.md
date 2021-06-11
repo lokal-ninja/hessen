@@ -1,5 +1,5 @@
 ---
-title: "kik"
+title: "KiK"
 url: /laubach/kik/
 shop: Kleidung
 ---
