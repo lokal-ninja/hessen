@@ -1,0 +1,5 @@
+---
+title: "Autohaus Roßdorf GmbH"
+url: /rossdorf/autohaus-rossdorf-gmbh/
+shop: Autohaus
+---
