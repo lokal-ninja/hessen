@@ -1,5 +1,5 @@
 ---
-title: "Edeka Getränkemarkt"
+title: "EDEKA Getränkemarkt"
 url: /niestetal/edeka-getraenkemarkt/
 shop: Getränke
 ---

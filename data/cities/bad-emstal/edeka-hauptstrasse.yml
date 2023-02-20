@@ -7,5 +7,5 @@ city: Bad Emstal
 street: "Hauptstraße"
 housenumber: 1
 phone: "+49 5625 282"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: "Mo,Di,Do,Fr 08:00-18:00; Mi,Sa 08:00-13:00"
 website: "https://www.edeka.de/eh/hessenring/todenh%C3%B6fer-gmbh-hauptstr.-1/"

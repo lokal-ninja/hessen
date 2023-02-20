@@ -1,6 +1,6 @@
 ---
 title: Limburg an der Lahn
 url: /limburg-an-der-lahn/
-latitude: 50.386
-longitude: 8.062
+latitude: 50.388
+longitude: 8.064
 ---

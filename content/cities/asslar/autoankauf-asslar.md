@@ -1,5 +1,5 @@
 ---
-title: "AUTOANKAUF AßLAR"
+title: "Autoankauf Asslar"
 url: /asslar/autoankauf-asslar/
 shop: Autohaus
 ---
