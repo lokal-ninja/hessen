@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: "Inheidener Straße"
 housenumber: 51
 phone: ""
-opening_hours: "Tu,We,Fr 10:00-12:00,13:00-19:00; Th 11:00-12:00,13:00-20:00; Sa 10:00-12:00,13:00-16:00; Su,Mo off"
+opening_hours: "Tu,We,Fr 10:00-19:00; Th 11:00-20:00; Sa 10:00-16:00; Su,Mo off"
 website: ""

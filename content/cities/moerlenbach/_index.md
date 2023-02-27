@@ -1,6 +1,6 @@
 ---
 title: Mörlenbach
 url: /moerlenbach/
-latitude: 49.586
-longitude: 8.767
+latitude: 49.615
+longitude: 8.716
 ---

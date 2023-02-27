@@ -1,5 +1,5 @@
 ---
-title: "REWE Center"
+title: "Rewe Center"
 url: /karben/rewe-center/
-shop: Supermarkt
+shop: Wäscherei
 ---

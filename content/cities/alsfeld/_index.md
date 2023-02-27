@@ -1,6 +1,6 @@
 ---
 title: Alsfeld
 url: /alsfeld/
-latitude: 50.753
-longitude: 9.278
+latitude: 50.752
+longitude: 9.286
 ---
