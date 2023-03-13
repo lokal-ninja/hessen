@@ -1,6 +1,6 @@
 ---
 title: Idstein
 url: /idstein/
-latitude: 50.226
-longitude: 8.264
+latitude: 50.207
+longitude: 8.255
 ---

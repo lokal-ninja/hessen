@@ -1,6 +1,6 @@
 ---
 title: Rimbach
 url: /rimbach/
-latitude: 49.606
-longitude: 8.764
+latitude: 49.627
+longitude: 8.761
 ---
