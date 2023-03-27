@@ -1,6 +1,6 @@
 ---
 title: Frielendorf
 url: /frielendorf/
-latitude: 50.976
-longitude: 9.326
+latitude: 50.975
+longitude: 9.325
 ---
