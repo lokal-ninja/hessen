@@ -1,6 +1,6 @@
 ---
 title: Gladenbach
 url: /gladenbach/
-latitude: 50.769
-longitude: 8.581
+latitude: 50.756
+longitude: 8.542
 ---

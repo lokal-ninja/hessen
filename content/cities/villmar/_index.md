@@ -1,6 +1,6 @@
 ---
 title: Villmar
 url: /villmar/
-latitude: 50.395
-longitude: 8.202
+latitude: 50.392
+longitude: 8.192
 ---
