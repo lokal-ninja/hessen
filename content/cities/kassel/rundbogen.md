@@ -1,5 +1,5 @@
 ---
 title: "Rundbogen"
 url: /kassel/rundbogen/
-shop: Allgemein
+shop: Schmuck
 ---

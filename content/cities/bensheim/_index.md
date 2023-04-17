@@ -1,6 +1,6 @@
 ---
 title: Bensheim
 url: /bensheim/
-latitude: 49.679
-longitude: 8.622
+latitude: 49.703
+longitude: 8.619
 ---
