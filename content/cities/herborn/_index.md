@@ -1,6 +1,6 @@
 ---
 title: Herborn
 url: /herborn/
-latitude: 50.669
-longitude: 8.222
+latitude: 50.673
+longitude: 8.233
 ---
