@@ -1,6 +1,6 @@
 ---
 title: Michelstadt
 url: /michelstadt/
-latitude: 49.661
-longitude: 8.994
+latitude: 49.681
+longitude: 9.004
 ---
