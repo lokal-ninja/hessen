@@ -1,5 +1,5 @@
 ---
 title: "Auktionshaus Hess"
 url: /neuenstein/auktionshaus-hess/
-shop: Andenken
+shop: Antiquitäten
 ---

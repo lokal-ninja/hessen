@@ -1,6 +1,6 @@
 ---
 title: Frankenau
 url: /frankenau/
-latitude: 51.091
-longitude: 8.936
+latitude: 51.092
+longitude: 8.935
 ---

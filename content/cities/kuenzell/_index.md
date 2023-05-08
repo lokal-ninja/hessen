@@ -1,6 +1,6 @@
 ---
 title: Künzell
 url: /kuenzell/
-latitude: 50.539
-longitude: 9.704
+latitude: 50.528
+longitude: 9.732
 ---
