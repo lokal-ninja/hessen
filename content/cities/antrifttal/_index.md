@@ -1,6 +1,6 @@
 ---
 title: Antrifttal
 url: /antrifttal/
-latitude: 50.796
-longitude: 9.186
+latitude: 50.793
+longitude: 9.183
 ---

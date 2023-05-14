@@ -1,6 +1,6 @@
 ---
 title: Oberaula
 url: /oberaula/
-latitude: 50.858
+latitude: 50.857
 longitude: 9.469
 ---

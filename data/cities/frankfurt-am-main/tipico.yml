@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: "Ginnheimer Landstraße"
 housenumber: 172
 phone: ""
-opening_hours: "Mo-Fr 11:00-23:00; Sa-So 10:00-23:00"
+opening_hours: "Mo-Fr 11:00-23:00; Sa,Su 10:00-23:00"
 website: "https://www.tipico.de/wett-tipps/stores/stadt/frankfurt-am-main"
