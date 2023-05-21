@@ -7,5 +7,5 @@ city: Darmstadt
 street: "Elisabethenstraße"
 housenumber: 46
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-16:00"
+opening_hours: "Mo,Su,PH off; Tu-Fr 10:00-13:00,14:00-18:00; Sa 10:00-16:00"
 website: "https://www.schmiedl-kuechen.de/"

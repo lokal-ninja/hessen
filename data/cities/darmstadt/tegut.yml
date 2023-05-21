@@ -7,5 +7,5 @@ city: Darmstadt
 street: "Ludwigstraße"
 housenumber: 2
 phone: "+49 6151 1010606"
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
 website: "http://www.tegut.de/"
