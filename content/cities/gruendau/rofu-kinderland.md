@@ -1,5 +1,5 @@
 ---
 title: "ROFU Kinderland"
 url: /gruendau/rofu-kinderland/
-shop: Andenken
+shop: Spielzeug
 ---
