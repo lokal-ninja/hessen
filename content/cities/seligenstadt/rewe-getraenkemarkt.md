@@ -1,5 +1,5 @@
 ---
-title: "Rewe Getränkemarkt"
+title: "REWE Getränkemarkt"
 url: /seligenstadt/rewe-getraenkemarkt/
-shop: Supermarkt
+shop: Getränke
 ---

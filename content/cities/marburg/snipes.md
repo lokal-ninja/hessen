@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
 url: /marburg/snipes/
-shop: Kleidung
+shop: Schuhe
 ---

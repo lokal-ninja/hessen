@@ -1,5 +1,5 @@
 ---
-title: "nahkauf"
+title: "Nahkauf"
 url: /darmstadt/nahkauf/
 shop: Supermarkt
 ---
