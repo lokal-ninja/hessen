@@ -1,5 +1,5 @@
 ---
-title: "Crea Time"
+title: "crea time"
 url: /fulda/crea-time/
 shop: Kleidung
 ---

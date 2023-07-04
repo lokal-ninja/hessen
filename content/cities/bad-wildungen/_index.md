@@ -1,6 +1,6 @@
 ---
 title: Bad Wildungen
 url: /bad-wildungen/
-latitude: 51.118
-longitude: 9.119
+latitude: 51.133
+longitude: 9.173
 ---
