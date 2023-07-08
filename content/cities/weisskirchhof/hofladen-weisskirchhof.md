@@ -1,5 +1,5 @@
 ---
 title: "Hofladen Weißkirchhof"
-url: /gelnhausen/hofladen-weisskirchhof/
+url: /weisskirchhof/hofladen-weisskirchhof/
 shop: Hofladen
 ---
