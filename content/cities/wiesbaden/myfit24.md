@@ -1,5 +1,5 @@
 ---
-title: "MYFIT24"
+title: "Myfit24"
 url: /wiesbaden/myfit24/
 shop: Kosmetik
 ---
