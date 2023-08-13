@@ -1,5 +1,5 @@
 ---
-title: "REWE - Getränkemarkt"
+title: "REWE Getränkemarkt"
 url: /schmitten-im-taunus/rewe-getraenkemarkt/
-shop: Spirituosen
+shop: Getränke
 ---

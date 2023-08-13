@@ -1,6 +1,6 @@
 ---
 title: Wölfersheim
 url: /woelfersheim/
-latitude: 50.431
-longitude: 8.828
+latitude: 50.4
+longitude: 8.817
 ---
