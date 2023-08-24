@@ -1,11 +1,11 @@
-id: 10739041809
+id: 10739041810
 type: node
-latitude: 50.11147
-longitude: 8.67974
-postcode: "60311"
+latitude: 50.13208
+longitude: 8.75494
+postcode: "60386"
 city: Frankfurt am Main
-street: "Berliner Straße"
-housenumber: 60
+street: "Orber Straße"
+housenumber: 4A
 phone: "+496994143989"
-opening_hours: "Di-Sa 11:00-18:00"
-website: "opelit-bikes.de"
+opening_hours: "Tu-Sa 11:00-18:00"
+website: "https://www.opelit-bikes.de"

@@ -1,6 +1,6 @@
 ---
 title: Ranstadt
 url: /ranstadt/
-latitude: 50.348
-longitude: 8.964
+latitude: 50.353
+longitude: 8.983
 ---

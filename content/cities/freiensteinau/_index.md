@@ -1,6 +1,6 @@
 ---
 title: Freiensteinau
 url: /freiensteinau/
-latitude: 50.421
-longitude: 9.412
+latitude: 50.41
+longitude: 9.366
 ---
