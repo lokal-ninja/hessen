@@ -1,11 +1,11 @@
-id: 25685313
-type: way
-latitude: 49.8516
-longitude: 8.64518
-postcode: "64285"
+id: 315624891
+type: node
+latitude: 49.8704
+longitude: 8.64958
+postcode: "64283"
 city: Darmstadt
-street: "Heidelberger Straße"
-housenumber: 193
+street: "Grafenstraße"
+housenumber: 41
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.alnatura-shop.de/"
+opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+website: "https://www.alnatura.de/"
