@@ -1,6 +1,6 @@
 ---
 title: Korbach
 url: /korbach/
-latitude: 51.276
-longitude: 8.885
+latitude: 51.27
+longitude: 8.877
 ---
