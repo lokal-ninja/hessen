@@ -1,6 +1,6 @@
 ---
 title: Echzell
 url: /echzell/
-latitude: 50.396
-longitude: 8.889
+latitude: 50.387
+longitude: 8.884
 ---

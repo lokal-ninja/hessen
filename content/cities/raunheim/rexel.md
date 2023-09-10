@@ -1,5 +1,5 @@
 ---
 title: "Rexel"
 url: /raunheim/rexel/
-shop: Großhandel
+shop: Elektrisch
 ---
