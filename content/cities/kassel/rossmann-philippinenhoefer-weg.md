@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /kassel/rossmann/
+url: /kassel/rossmann-philippinenhoefer-weg/
 shop: Drogerie
 ---

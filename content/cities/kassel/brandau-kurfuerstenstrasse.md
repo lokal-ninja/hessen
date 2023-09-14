@@ -1,5 +1,5 @@
 ---
 title: "Brandau"
-url: /kassel/brandau/
+url: /kassel/brandau-kurfuerstenstrasse/
 shop: Sanitätshaus
 ---

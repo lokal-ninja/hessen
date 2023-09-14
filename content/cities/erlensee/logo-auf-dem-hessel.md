@@ -1,5 +1,5 @@
 ---
 title: "Logo"
-url: /erlensee/logo/
+url: /erlensee/logo-auf-dem-hessel/
 shop: Getränke
 ---

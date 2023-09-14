@@ -1,5 +1,5 @@
 ---
 title: "Spätkauf"
-url: /giessen/spaetkauf/
+url: /giessen/spaetkauf-krofdorfer-strasse/
 shop: Supermarkt
 ---

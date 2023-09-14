@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /wetzlar/rewe/
+url: /wetzlar/rewe-artur-herzog-strasse/
 shop: Supermarkt
 ---

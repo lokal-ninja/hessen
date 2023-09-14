@@ -1,5 +1,5 @@
 ---
 title: "TK Maxx"
-url: /kassel/tk-maxx/
+url: /kassel/tk-maxx-frankfurter-strasse/
 shop: Warenhaus
 ---

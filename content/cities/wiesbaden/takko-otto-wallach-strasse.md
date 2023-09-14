@@ -1,5 +1,5 @@
 ---
 title: "Takko"
-url: /wiesbaden/takko/
+url: /wiesbaden/takko-otto-wallach-strasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /fulda/cunda/
+url: /fulda/cunda-steinweg/
 shop: Kleidung
 ---

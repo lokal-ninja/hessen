@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /darmstadt/penny/
+url: /darmstadt/penny-mirjam-pressler-strasse/
 shop: Supermarkt
 ---

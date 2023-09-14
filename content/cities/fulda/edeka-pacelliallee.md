@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /fulda/edeka/
+url: /fulda/edeka-pacelliallee/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burkhard"
-url: /oberursel-taunus/burkhard/
+url: /oberursel-taunus/burkhard-rathausplatz/
 shop: Optiker
 ---

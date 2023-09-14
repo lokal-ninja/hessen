@@ -1,5 +1,5 @@
 ---
 title: "Familienzone"
-url: /kassel/familienzone/
+url: /kassel/familienzone-zentgrafenstrasse/
 shop: Babysachen
 ---

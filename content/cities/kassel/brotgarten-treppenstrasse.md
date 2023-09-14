@@ -1,5 +1,5 @@
 ---
 title: "Brotgarten"
-url: /kassel/brotgarten/
+url: /kassel/brotgarten-treppenstrasse/
 shop: Bäckerei
 ---

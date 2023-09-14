@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Roth"
-url: /oberaula/fleischerei-roth/
+url: /oberaula/fleischerei-roth-schwimmbadstrasse/
 shop: Metzgerei
 ---

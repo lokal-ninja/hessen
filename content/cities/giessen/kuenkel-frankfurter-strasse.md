@@ -1,5 +1,5 @@
 ---
 title: "Künkel"
-url: /giessen/kuenkel/
+url: /giessen/kuenkel-frankfurter-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hinnerbäcker"
-url: /friedrichsdorf/hinnerbaecker/
+url: /friedrichsdorf/hinnerbaecker-industriestrasse/
 shop: Bäckerei
 ---

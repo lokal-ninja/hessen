@@ -1,5 +1,5 @@
 ---
 title: "Ditsch"
-url: /wiesbaden/ditsch/
+url: /wiesbaden/ditsch-langgasse/
 shop: Bäckerei
 ---

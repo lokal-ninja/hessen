@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /hanau/penny/
+url: /hanau/penny-lamboystrasse/
 shop: Supermarkt
 ---

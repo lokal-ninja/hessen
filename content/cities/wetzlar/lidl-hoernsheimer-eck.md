@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /wetzlar/lidl/
+url: /wetzlar/lidl-hoernsheimer-eck/
 shop: Supermarkt
 ---

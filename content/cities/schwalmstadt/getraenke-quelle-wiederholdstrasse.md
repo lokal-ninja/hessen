@@ -1,5 +1,5 @@
 ---
 title: "Getränke-Quelle"
-url: /schwalmstadt/getraenke-quelle/
+url: /schwalmstadt/getraenke-quelle-wiederholdstrasse/
 shop: Getränke
 ---

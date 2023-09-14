@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /fulda/deichmann/
+url: /fulda/deichmann-am-emaillierwerk/
 shop: Schuhe
 ---

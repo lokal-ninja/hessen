@@ -1,5 +1,5 @@
 ---
 title: "Apel"
-url: /witzenhausen/apel/
+url: /witzenhausen/apel-bischhaeuser-aue/
 shop: Bäckerei
 ---

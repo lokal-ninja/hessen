@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /bad-hersfeld/lidl/
+url: /bad-hersfeld/lidl-homberger-strasse/
 shop: Supermarkt
 ---

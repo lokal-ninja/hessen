@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /haiger/edeka/
+url: /haiger/edeka-hohleichenrain/
 shop: Supermarkt
 ---

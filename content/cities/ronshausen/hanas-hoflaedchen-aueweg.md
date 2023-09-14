@@ -1,5 +1,5 @@
 ---
 title: "Hana's Hoflädchen"
-url: /ronshausen/hanas-hoflaedchen/
+url: /ronshausen/hanas-hoflaedchen-aueweg/
 shop: Lebensmittel
 ---

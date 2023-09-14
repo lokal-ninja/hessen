@@ -1,5 +1,5 @@
 ---
 title: "Fleischerei Sturm"
-url: /lohfelden/fleischerei-sturm/
+url: /lohfelden/fleischerei-sturm-hauptstrasse/
 shop: Metzgerei
 ---

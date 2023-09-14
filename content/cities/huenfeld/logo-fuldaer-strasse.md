@@ -1,5 +1,5 @@
 ---
 title: "Logo"
-url: /huenfeld/logo/
+url: /huenfeld/logo-fuldaer-strasse/
 shop: Getränke
 ---

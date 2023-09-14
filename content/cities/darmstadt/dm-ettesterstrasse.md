@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /darmstadt/dm/
+url: /darmstadt/dm-ettesterstrasse/
 shop: Drogerie
 ---

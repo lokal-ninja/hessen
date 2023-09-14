@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Bickert"
-url: /schaafheim/backhaus-bickert/
+url: /schaafheim/backhaus-bickert-buschstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /offenbach-am-main/rossmann/
+url: /offenbach-am-main/rossmann-berliner-strasse/
 shop: Drogerie
 ---

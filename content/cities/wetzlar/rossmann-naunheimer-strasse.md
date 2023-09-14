@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /wetzlar/rossmann/
+url: /wetzlar/rossmann-naunheimer-strasse/
 shop: Drogerie
 ---

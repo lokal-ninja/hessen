@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /lampertheim/norma/
+url: /lampertheim/norma-bahnhofstrasse/
 shop: Supermarkt
 ---

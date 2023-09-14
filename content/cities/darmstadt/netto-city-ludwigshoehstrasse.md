@@ -1,5 +1,5 @@
 ---
 title: "Netto City"
-url: /darmstadt/netto-city/
+url: /darmstadt/netto-city-ludwigshoehstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /hofheim-am-taunus/lidl/
+url: /hofheim-am-taunus/lidl-hessenstrasse/
 shop: Supermarkt
 ---

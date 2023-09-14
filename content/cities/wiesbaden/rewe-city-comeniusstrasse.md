@@ -1,5 +1,5 @@
 ---
 title: "REWE City"
-url: /wiesbaden/rewe-city/
+url: /wiesbaden/rewe-city-comeniusstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /biedenkopf/edeka/
+url: /biedenkopf/edeka-theodor-meissner-strasse/
 shop: Supermarkt
 ---

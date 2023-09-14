@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /moerfelden-walldorf/rewe/
+url: /moerfelden-walldorf/rewe-farmstrasse/
 shop: Supermarkt
 ---

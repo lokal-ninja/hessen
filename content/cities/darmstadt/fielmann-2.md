@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /darmstadt/fielmann/
+url: /darmstadt/fielmann-2/
 shop: Optiker
 ---

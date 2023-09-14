@@ -1,5 +1,5 @@
 ---
 title: "REWE Getränkemarkt"
-url: /kassel/rewe-getraenkemarkt/
+url: /kassel/rewe-getraenkemarkt-leuschnerstrasse/
 shop: Getränke
 ---

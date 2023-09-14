@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
-url: /marburg/mercedes-benz/
+url: /marburg/mercedes-benz-affoellerstrasse/
 shop: Autohaus
 ---

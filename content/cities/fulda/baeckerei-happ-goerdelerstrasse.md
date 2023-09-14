@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Happ"
-url: /fulda/baeckerei-happ/
+url: /fulda/baeckerei-happ-goerdelerstrasse/
 shop: Bäckerei
 ---

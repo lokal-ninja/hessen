@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /kassel/vodafone/
+url: /kassel/vodafone-obere-koenigsstrasse/
 shop: Handy
 ---

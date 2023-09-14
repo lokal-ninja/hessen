@@ -1,5 +1,5 @@
 ---
 title: "Schluckspecht"
-url: /sulzbach-taunus/schluckspecht/
+url: /sulzbach-taunus/schluckspecht-staufenstrasse/
 shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /baunatal/edeka/
+url: /baunatal/edeka-2/
 shop: Supermarkt
 ---

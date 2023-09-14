@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /ruesselsheim-am-main/aldi-sued/
+url: /ruesselsheim-am-main/aldi-sued-rugbyring/
 shop: Supermarkt
 ---

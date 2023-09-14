@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /wetzlar/penny/
+url: /wetzlar/penny-nauborner-strasse/
 shop: Supermarkt
 ---

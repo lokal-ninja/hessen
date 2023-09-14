@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /hanau/lidl/
+url: /hanau/lidl-brown-boveri-strasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /dillenburg/rossmann/
+url: /dillenburg/rossmann-rolfesstrasse/
 shop: Drogerie
 ---

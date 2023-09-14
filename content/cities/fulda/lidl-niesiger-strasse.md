@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /fulda/lidl/
+url: /fulda/lidl-niesiger-strasse/
 shop: Supermarkt
 ---

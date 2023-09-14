@@ -1,5 +1,5 @@
 ---
 title: "Streiter"
-url: /kassel/streiter/
+url: /kassel/streiter-wolfhager-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /fulda/norma/
+url: /fulda/norma-lehnerzer-strasse/
 shop: Supermarkt
 ---

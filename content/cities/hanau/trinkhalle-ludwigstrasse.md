@@ -1,5 +1,5 @@
 ---
 title: "Trinkhalle"
-url: /hanau/trinkhalle/
+url: /hanau/trinkhalle-ludwigstrasse/
 shop: Kiosk
 ---

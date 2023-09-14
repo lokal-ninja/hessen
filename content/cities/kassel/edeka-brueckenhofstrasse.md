@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /kassel/edeka/
+url: /kassel/edeka-brueckenhofstrasse/
 shop: Supermarkt
 ---

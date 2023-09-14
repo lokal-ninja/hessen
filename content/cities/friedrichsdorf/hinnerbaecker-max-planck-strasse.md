@@ -1,5 +1,5 @@
 ---
 title: "Hinnerbäcker"
-url: /friedrichsdorf/hinnerbaecker/
+url: /friedrichsdorf/hinnerbaecker-max-planck-strasse/
 shop: Bäckerei
 ---

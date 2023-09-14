@@ -1,5 +1,5 @@
 ---
 title: "Moos"
-url: /wetzlar/moos/
+url: /wetzlar/moos-karl-kellner-ring/
 shop: Bäckerei
 ---

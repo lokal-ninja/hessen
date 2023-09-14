@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /marburg/rossmann/
+url: /marburg/rossmann-universitaetsstrasse/
 shop: Drogerie
 ---

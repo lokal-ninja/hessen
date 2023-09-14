@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /offenbach-am-main/lidl/
+url: /offenbach-am-main/lidl-merianstrasse/
 shop: Supermarkt
 ---

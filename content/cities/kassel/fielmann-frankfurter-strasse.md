@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /kassel/fielmann/
+url: /kassel/fielmann-frankfurter-strasse/
 shop: Optiker
 ---

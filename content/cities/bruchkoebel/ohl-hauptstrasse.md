@@ -1,5 +1,5 @@
 ---
 title: "Ohl"
-url: /bruchkoebel/ohl/
+url: /bruchkoebel/ohl-hauptstrasse/
 shop: Bäckerei
 ---

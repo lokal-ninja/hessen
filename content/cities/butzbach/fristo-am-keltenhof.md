@@ -1,5 +1,5 @@
 ---
 title: "Fristo"
-url: /butzbach/fristo/
+url: /butzbach/fristo-am-keltenhof/
 shop: Getränke
 ---

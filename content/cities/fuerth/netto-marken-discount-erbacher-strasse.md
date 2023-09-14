@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /fuerth/netto-marken-discount/
+url: /fuerth/netto-marken-discount-erbacher-strasse/
 shop: Supermarkt
 ---

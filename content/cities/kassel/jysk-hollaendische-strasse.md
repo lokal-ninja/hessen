@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /kassel/jysk/
+url: /kassel/jysk-hollaendische-strasse/
 shop: Möbel
 ---

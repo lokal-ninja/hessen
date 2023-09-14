@@ -1,5 +1,5 @@
 ---
 title: "Bödeker"
-url: /langgoens/boedeker/
+url: /langgoens/boedeker-hinter-dem-brauhaus/
 shop: Autohaus
 ---

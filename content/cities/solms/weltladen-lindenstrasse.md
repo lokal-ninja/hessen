@@ -1,5 +1,5 @@
 ---
 title: "Weltladen"
-url: /solms/weltladen/
+url: /solms/weltladen-lindenstrasse/
 shop: Andenken
 ---

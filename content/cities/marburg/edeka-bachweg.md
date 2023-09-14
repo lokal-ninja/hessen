@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /marburg/edeka/
+url: /marburg/edeka-bachweg/
 shop: Getränke
 ---

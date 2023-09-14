@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
-url: /offenbach-am-main/kiosk/
+url: /offenbach-am-main/kiosk-schlossstrasse/
 shop: Kiosk
 ---

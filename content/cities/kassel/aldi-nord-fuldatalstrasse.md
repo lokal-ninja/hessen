@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /kassel/aldi-nord/
+url: /kassel/aldi-nord-fuldatalstrasse/
 shop: Supermarkt
 ---

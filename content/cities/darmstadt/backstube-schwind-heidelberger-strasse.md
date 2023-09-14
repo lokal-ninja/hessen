@@ -1,5 +1,5 @@
 ---
 title: "Backstube Schwind"
-url: /darmstadt/backstube-schwind/
+url: /darmstadt/backstube-schwind-heidelberger-strasse/
 shop: Bäckerei
 ---

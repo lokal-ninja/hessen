@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /kassel/kik/
+url: /kassel/kik-frankfurter-strasse/
 shop: Kleidung
 ---

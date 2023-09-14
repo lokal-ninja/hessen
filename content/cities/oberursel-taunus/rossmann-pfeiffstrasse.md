@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /oberursel-taunus/rossmann/
+url: /oberursel-taunus/rossmann-pfeiffstrasse/
 shop: Drogerie
 ---

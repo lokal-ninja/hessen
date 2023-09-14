@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /lorsch/kik/
+url: /lorsch/kik-marie-curie-strasse/
 shop: Kleidung
 ---

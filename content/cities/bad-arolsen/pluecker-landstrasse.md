@@ -1,5 +1,5 @@
 ---
 title: "Plücker"
-url: /bad-arolsen/pluecker/
+url: /bad-arolsen/pluecker-landstrasse/
 shop: Bäckerei
 ---

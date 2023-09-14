@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /fulda/mueller/
+url: /fulda/mueller-bahnhofstrasse/
 shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GANT"
-url: /frankfurt-am-main/gant/
+url: /frankfurt-am-main/gant-zeil/
 shop: Kleidung
 ---

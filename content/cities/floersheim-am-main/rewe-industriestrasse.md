@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /floersheim-am-main/rewe/
+url: /floersheim-am-main/rewe-industriestrasse/
 shop: Supermarkt
 ---

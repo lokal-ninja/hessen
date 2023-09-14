@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /wiesbaden/deichmann/
+url: /wiesbaden/deichmann-hagenauer-strasse/
 shop: Schuhe
 ---

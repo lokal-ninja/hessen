@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /edermuende/aral/
+url: /edermuende/aral-2/
 shop: Lebensmittel
 ---

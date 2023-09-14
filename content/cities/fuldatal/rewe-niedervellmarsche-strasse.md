@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /fuldatal/rewe/
+url: /fuldatal/rewe-niedervellmarsche-strasse/
 shop: Supermarkt
 ---

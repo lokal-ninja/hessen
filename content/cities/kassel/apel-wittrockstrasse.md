@@ -1,5 +1,5 @@
 ---
 title: "Apel"
-url: /kassel/apel/
+url: /kassel/apel-wittrockstrasse/
 shop: Bäckerei
 ---

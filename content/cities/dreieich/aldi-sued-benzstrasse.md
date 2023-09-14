@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /dreieich/aldi-sued/
+url: /dreieich/aldi-sued-benzstrasse/
 shop: Supermarkt
 ---

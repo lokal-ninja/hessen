@@ -1,5 +1,5 @@
 ---
 title: "Ostmann"
-url: /bad-arolsen/ostmann/
+url: /bad-arolsen/ostmann-landstrasse/
 shop: Autohaus
 ---

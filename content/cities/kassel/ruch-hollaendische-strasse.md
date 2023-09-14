@@ -1,5 +1,5 @@
 ---
 title: "Ruch"
-url: /kassel/ruch/
+url: /kassel/ruch-hollaendische-strasse/
 shop: Bäckerei
 ---

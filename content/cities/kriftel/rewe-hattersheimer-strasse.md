@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /kriftel/rewe/
+url: /kriftel/rewe-hattersheimer-strasse/
 shop: Supermarkt
 ---

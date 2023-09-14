@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /giessen/edeka/
+url: /giessen/edeka-altenburger-strasse/
 shop: Supermarkt
 ---

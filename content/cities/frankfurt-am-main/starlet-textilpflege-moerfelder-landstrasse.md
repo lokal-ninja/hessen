@@ -1,5 +1,5 @@
 ---
 title: "STARLET Textilpflege"
-url: /frankfurt-am-main/starlet-textilpflege/
+url: /frankfurt-am-main/starlet-textilpflege-moerfelder-landstrasse/
 shop: Wäscherei
 ---

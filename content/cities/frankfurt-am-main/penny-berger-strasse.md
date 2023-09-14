@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /frankfurt-am-main/penny/
+url: /frankfurt-am-main/penny-berger-strasse/
 shop: Supermarkt
 ---

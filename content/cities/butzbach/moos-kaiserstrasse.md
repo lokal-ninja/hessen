@@ -1,5 +1,5 @@
 ---
 title: "Moos"
-url: /butzbach/moos/
+url: /butzbach/moos-kaiserstrasse/
 shop: Bäckerei
 ---

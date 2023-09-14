@@ -1,5 +1,5 @@
 ---
 title: "HORNBACH"
-url: /wiesbaden/hornbach/
+url: /wiesbaden/hornbach-kurt-hebach-strasse/
 shop: Baumarkt
 ---

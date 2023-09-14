@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /giessen/obi/
+url: /giessen/obi-gottlieb-daimler-strasse/
 shop: Baumarkt
 ---

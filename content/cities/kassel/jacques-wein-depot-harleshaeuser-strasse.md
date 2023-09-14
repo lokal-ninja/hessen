@@ -1,5 +1,5 @@
 ---
 title: "Jacques’ Wein-Depot"
-url: /kassel/jacques-wein-depot/
+url: /kassel/jacques-wein-depot-harleshaeuser-strasse/
 shop: Wein
 ---

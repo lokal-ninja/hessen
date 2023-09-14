@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /wiesbaden/kamps/
+url: /wiesbaden/kamps-bahnhofsvorplatz/
 shop: Bäckerei
 ---

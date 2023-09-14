@@ -1,5 +1,5 @@
 ---
 title: "Heini Weber"
-url: /melsungen/heini-weber/
+url: /melsungen/heini-weber-sandstrasse/
 shop: Hörgeräte
 ---

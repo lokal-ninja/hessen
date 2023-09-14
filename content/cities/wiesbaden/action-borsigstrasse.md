@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /wiesbaden/action/
+url: /wiesbaden/action-borsigstrasse/
 shop: Kramladen
 ---

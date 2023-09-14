@@ -1,5 +1,5 @@
 ---
 title: "Pappert"
-url: /fulda/pappert/
+url: /fulda/pappert-am-emaillierwerk/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /frankfurt-am-main/woolworth/
+url: /frankfurt-am-main/woolworth-leipziger-strasse/
 shop: Warenhaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /wetzlar/kik/
+url: /wetzlar/kik-westendstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Frech"
-url: /ortenberg/baeckerei-frech/
+url: /ortenberg/baeckerei-frech-wilhelm-leuschner-strasse/
 shop: Bäckerei
 ---

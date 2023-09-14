@@ -1,5 +1,5 @@
 ---
 title: "Schäfers Backstuben"
-url: /gladenbach/schaefers-backstuben/
+url: /gladenbach/schaefers-backstuben-kirchbergstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /giessen/mueller/
+url: /giessen/mueller-neuen-baeue/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /gelnhausen/norma/
+url: /gelnhausen/norma-wingertstrasse/
 shop: Supermarkt
 ---

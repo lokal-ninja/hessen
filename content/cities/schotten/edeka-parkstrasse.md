@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /schotten/edeka/
+url: /schotten/edeka-parkstrasse/
 shop: Supermarkt
 ---

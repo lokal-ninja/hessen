@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schachner"
-url: /schaafheim/baeckerei-schachner/
+url: /schaafheim/baeckerei-schachner-taunusstrasse/
 shop: Bäckerei
 ---

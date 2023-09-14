@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /kassel/fressnapf/
+url: /kassel/fressnapf-hollaendische-strasse/
 shop: Tiere
 ---

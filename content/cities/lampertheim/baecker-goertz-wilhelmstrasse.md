@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Görtz"
-url: /lampertheim/baecker-goertz/
+url: /lampertheim/baecker-goertz-wilhelmstrasse/
 shop: Bäckerei
 ---

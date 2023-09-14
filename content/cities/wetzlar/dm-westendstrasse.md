@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /wetzlar/dm/
+url: /wetzlar/dm-westendstrasse/
 shop: Drogerie
 ---

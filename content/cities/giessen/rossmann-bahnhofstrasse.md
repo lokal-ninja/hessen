@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /giessen/rossmann/
+url: /giessen/rossmann-bahnhofstrasse/
 shop: Drogerie
 ---

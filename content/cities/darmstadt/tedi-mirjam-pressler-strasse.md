@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /darmstadt/tedi/
+url: /darmstadt/tedi-mirjam-pressler-strasse/
 shop: Kramladen
 ---

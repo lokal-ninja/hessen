@@ -1,5 +1,5 @@
 ---
 title: "Schatzkiste"
-url: /alsfeld/schatzkiste/
+url: /alsfeld/schatzkiste-rossmarkt/
 shop: Kleidung
 ---

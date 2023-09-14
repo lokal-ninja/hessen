@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /hanau/action/
+url: /hanau/action-otto-hahn-strasse/
 shop: Kramladen
 ---

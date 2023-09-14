@@ -1,5 +1,5 @@
 ---
 title: "Fundgrube"
-url: /riedstadt/fundgrube/
+url: /riedstadt/fundgrube-bertha-von-suttner-strasse/
 shop: Supermarkt
 ---

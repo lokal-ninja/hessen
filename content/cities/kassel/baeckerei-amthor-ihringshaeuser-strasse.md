@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Amthor"
-url: /kassel/baeckerei-amthor/
+url: /kassel/baeckerei-amthor-ihringshaeuser-strasse/
 shop: Bäckerei
 ---

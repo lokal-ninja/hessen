@@ -1,5 +1,5 @@
 ---
 title: "Hinnerbäcker"
-url: /friedberg-hessen/hinnerbaecker/
+url: /friedberg-hessen/hinnerbaecker-borngasse/
 shop: Bäckerei
 ---

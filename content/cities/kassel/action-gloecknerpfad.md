@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /kassel/action/
+url: /kassel/action-gloecknerpfad/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /lampertheim/penny/
+url: /lampertheim/penny-wilhelmstrasse/
 shop: Supermarkt
 ---

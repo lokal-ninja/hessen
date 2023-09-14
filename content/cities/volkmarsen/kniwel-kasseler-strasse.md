@@ -1,5 +1,5 @@
 ---
 title: "Kniwel"
-url: /volkmarsen/kniwel/
+url: /volkmarsen/kniwel-kasseler-strasse/
 shop: Autohaus
 ---

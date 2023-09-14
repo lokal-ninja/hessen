@@ -1,5 +1,5 @@
 ---
 title: "Clement"
-url: /bad-arolsen/clement/
+url: /bad-arolsen/clement-kronenstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /wiesbaden/hundm/
+url: /wiesbaden/hundm-bahnhofsplatz/
 shop: Kleidung
 ---

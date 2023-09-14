@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /hanau/rossmann/
+url: /hanau/rossmann-am-steinheimer-tor/
 shop: Drogerie
 ---

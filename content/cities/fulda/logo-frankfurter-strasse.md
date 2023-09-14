@@ -1,5 +1,5 @@
 ---
 title: "Logo"
-url: /fulda/logo/
+url: /fulda/logo-frankfurter-strasse/
 shop: Getränke
 ---

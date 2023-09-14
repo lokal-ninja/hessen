@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /wolfhagen/nahkauf/
+url: /wolfhagen/nahkauf-hans-staden-strasse/
 shop: Getränke
 ---

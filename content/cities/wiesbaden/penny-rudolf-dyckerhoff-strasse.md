@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /wiesbaden/penny/
+url: /wiesbaden/penny-rudolf-dyckerhoff-strasse/
 shop: Supermarkt
 ---

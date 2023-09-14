@@ -1,5 +1,5 @@
 ---
 title: "Eifler"
-url: /frankfurt-am-main/eifler/
+url: /frankfurt-am-main/eifler-berger-strasse/
 shop: Bäckerei
 ---

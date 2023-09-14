@@ -1,5 +1,5 @@
 ---
 title: "Alpha Buchhandlung"
-url: /giessen/alpha-buchhandlung/
+url: /giessen/alpha-buchhandlung-gottlieb-daimler-strasse/
 shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
-title: "REWE"
-url: /karben/rewe/
-shop: Supermarkt
+title: "Rewe"
+url: /karben/rewe-am-warthweg/
+shop: Allgemein
 ---

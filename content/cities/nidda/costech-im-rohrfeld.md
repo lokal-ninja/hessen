@@ -1,5 +1,5 @@
 ---
 title: "COStech"
-url: /nidda/costech/
+url: /nidda/costech-im-rohrfeld/
 shop: Computer
 ---

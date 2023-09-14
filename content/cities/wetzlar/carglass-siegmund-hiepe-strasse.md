@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
-url: /wetzlar/carglass/
+url: /wetzlar/carglass-siegmund-hiepe-strasse/
 shop: Autowerkstatt
 ---

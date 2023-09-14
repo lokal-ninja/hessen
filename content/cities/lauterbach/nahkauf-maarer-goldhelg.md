@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /lauterbach/nahkauf/
+url: /lauterbach/nahkauf-maarer-goldhelg/
 shop: Supermarkt
 ---

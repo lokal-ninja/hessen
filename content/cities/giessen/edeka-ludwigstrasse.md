@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /giessen/edeka/
+url: /giessen/edeka-ludwigstrasse/
 shop: Supermarkt
 ---

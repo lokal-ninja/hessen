@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /offenbach-am-main/rewe/
+url: /offenbach-am-main/rewe-loewenstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pappert"
-url: /erlensee/pappert/
+url: /erlensee/pappert-leipziger-strasse/
 shop: Bäckerei
 ---

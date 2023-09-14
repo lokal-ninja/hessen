@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /gross-umstadt/rewe/
+url: /gross-umstadt/rewe-kappesgaertenweg/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto City"
-url: /wiesbaden/netto-city/
+url: /wiesbaden/netto-city-stiftstrasse/
 shop: Supermarkt
 ---

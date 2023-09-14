@@ -1,5 +1,5 @@
 ---
 title: "tegut"
-url: /fulda/tegut/
+url: /fulda/tegut-keltenstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thai-Massage"
-url: /fulda/thai-massage/
+url: /fulda/thai-massage-petersgasse/
 shop: Massage
 ---

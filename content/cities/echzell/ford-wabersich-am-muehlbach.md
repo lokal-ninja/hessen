@@ -1,5 +1,5 @@
 ---
 title: "Ford Wabersich"
-url: /echzell/ford-wabersich/
+url: /echzell/ford-wabersich-am-muehlbach/
 shop: Autohaus
 ---

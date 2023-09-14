@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /kassel/mueller/
+url: /kassel/mueller-koenigsplatz/
 shop: Drogerie
 ---

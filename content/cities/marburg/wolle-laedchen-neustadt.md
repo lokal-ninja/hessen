@@ -1,5 +1,5 @@
 ---
 title: "Wolle-Lädchen"
-url: /marburg/wolle-laedchen/
+url: /marburg/wolle-laedchen-neustadt/
 shop: Textil
 ---

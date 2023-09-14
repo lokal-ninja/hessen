@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Müller"
-url: /marburg/baecker-mueller/
+url: /marburg/baecker-mueller-marburger-strasse/
 shop: Bäckerei
 ---

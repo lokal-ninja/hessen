@@ -1,5 +1,5 @@
 ---
 title: "HORNBACH"
-url: /darmstadt/hornbach/
+url: /darmstadt/hornbach-otto-roehm-strasse/
 shop: Baumarkt
 ---

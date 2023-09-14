@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /kassel/kamps/
+url: /kassel/kamps-frankfurter-strasse/
 shop: Bäckerei
 ---

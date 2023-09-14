@@ -1,5 +1,5 @@
 ---
 title: "Walser Brot"
-url: /wiesbaden/walser-brot/
+url: /wiesbaden/walser-brot-waldstrasse/
 shop: Bäckerei
 ---

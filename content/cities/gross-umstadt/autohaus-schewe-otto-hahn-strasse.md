@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Schewe"
-url: /gross-umstadt/autohaus-schewe/
+url: /gross-umstadt/autohaus-schewe-otto-hahn-strasse/
 shop: Autohaus
 ---

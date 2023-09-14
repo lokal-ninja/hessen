@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /darmstadt/aldi-sued/
+url: /darmstadt/aldi-sued-otto-roehm-strasse/
 shop: Supermarkt
 ---

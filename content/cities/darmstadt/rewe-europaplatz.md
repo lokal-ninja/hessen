@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /darmstadt/rewe/
+url: /darmstadt/rewe-europaplatz/
 shop: Supermarkt
 ---

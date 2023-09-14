@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /taunusstein/rewe/
+url: /taunusstein/rewe-kleiststrasse/
 shop: Supermarkt
 ---

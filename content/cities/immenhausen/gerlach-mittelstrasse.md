@@ -1,5 +1,5 @@
 ---
 title: "Gerlach"
-url: /immenhausen/gerlach/
+url: /immenhausen/gerlach-mittelstrasse/
 shop: Bäckerei
 ---

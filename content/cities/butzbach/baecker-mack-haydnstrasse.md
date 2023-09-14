@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Mack"
-url: /butzbach/baecker-mack/
+url: /butzbach/baecker-mack-haydnstrasse/
 shop: Bäckerei
 ---

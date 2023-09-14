@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /darmstadt/fressnapf/
+url: /darmstadt/fressnapf-pallaswiesenstrasse/
 shop: Tiere
 ---

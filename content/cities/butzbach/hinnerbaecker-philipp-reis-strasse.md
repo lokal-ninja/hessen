@@ -1,5 +1,5 @@
 ---
 title: "Hinnerbäcker"
-url: /butzbach/hinnerbaecker/
+url: /butzbach/hinnerbaecker-philipp-reis-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /giessen/kamps/
+url: /giessen/kamps-kreuzplatz/
 shop: Bäckerei
 ---

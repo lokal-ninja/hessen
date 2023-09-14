@@ -1,5 +1,5 @@
 ---
 title: "Autoschilder"
-url: /melsungen/autoschilder/
+url: /melsungen/autoschilder-sandstrasse/
 shop: Beschriftungen
 ---

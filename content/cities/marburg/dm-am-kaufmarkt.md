@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /marburg/dm/
+url: /marburg/dm-am-kaufmarkt/
 shop: Drogerie
 ---

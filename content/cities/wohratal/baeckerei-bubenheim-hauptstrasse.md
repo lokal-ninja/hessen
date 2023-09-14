@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Bubenheim"
-url: /wohratal/baeckerei-bubenheim/
+url: /wohratal/baeckerei-bubenheim-hauptstrasse/
 shop: Bäckerei
 ---

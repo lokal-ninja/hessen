@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /wetzlar/edeka/
+url: /wetzlar/edeka-stoppelberger-hohl/
 shop: Supermarkt
 ---

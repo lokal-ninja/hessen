@@ -1,5 +1,5 @@
 ---
 title: "FALKE"
-url: /frankfurt-am-main/falke/
+url: /frankfurt-am-main/falke-2/
 shop: Kleidung
 ---

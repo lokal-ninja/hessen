@@ -1,5 +1,5 @@
 ---
 title: "Plener"
-url: /bad-arolsen/plener/
+url: /bad-arolsen/plener-bahnhofstrasse/
 shop: Bäckerei
 ---

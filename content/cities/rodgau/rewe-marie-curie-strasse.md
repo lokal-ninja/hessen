@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /rodgau/rewe/
+url: /rodgau/rewe-marie-curie-strasse/
 shop: Supermarkt
 ---

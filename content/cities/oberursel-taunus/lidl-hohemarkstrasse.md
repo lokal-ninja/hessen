@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /oberursel-taunus/lidl/
+url: /oberursel-taunus/lidl-hohemarkstrasse/
 shop: Supermarkt
 ---

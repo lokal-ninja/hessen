@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /bad-zwesten/edeka/
+url: /bad-zwesten/edeka-hauptstrasse/
 shop: Supermarkt
 ---

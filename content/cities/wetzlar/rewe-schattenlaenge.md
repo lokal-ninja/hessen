@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /wetzlar/rewe/
+url: /wetzlar/rewe-schattenlaenge/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /frankfurt-am-main/tedi/
+url: /frankfurt-am-main/tedi-zeil/
 shop: Kramladen
 ---

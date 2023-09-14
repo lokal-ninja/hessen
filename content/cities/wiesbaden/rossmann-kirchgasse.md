@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /wiesbaden/rossmann/
+url: /wiesbaden/rossmann-kirchgasse/
 shop: Drogerie
 ---

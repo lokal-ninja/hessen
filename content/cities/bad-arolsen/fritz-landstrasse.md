@@ -1,5 +1,5 @@
 ---
 title: "Fritz"
-url: /bad-arolsen/fritz/
+url: /bad-arolsen/fritz-landstrasse/
 shop: Metzgerei
 ---

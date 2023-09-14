@@ -1,5 +1,5 @@
 ---
 title: "Pappert"
-url: /eichenzell/pappert/
+url: /eichenzell/pappert-am-langen-acker/
 shop: Bäckerei
 ---

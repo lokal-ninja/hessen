@@ -1,5 +1,5 @@
 ---
 title: "Hess Hören"
-url: /kassel/hess-hoeren/
+url: /kassel/hess-hoeren-wilhelmshoeher-allee/
 shop: Hörgeräte
 ---

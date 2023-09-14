@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /kelkheim/rewe/
+url: /kelkheim/rewe-im-unterdorf/
 shop: Supermarkt
 ---

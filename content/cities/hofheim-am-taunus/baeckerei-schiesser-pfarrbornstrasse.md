@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schiesser"
-url: /hofheim-am-taunus/baeckerei-schiesser/
+url: /hofheim-am-taunus/baeckerei-schiesser-pfarrbornstrasse/
 shop: Bäckerei
 ---

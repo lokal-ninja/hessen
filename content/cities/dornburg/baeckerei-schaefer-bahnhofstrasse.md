@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schäfer"
-url: /dornburg/baeckerei-schaefer/
+url: /dornburg/baeckerei-schaefer-bahnhofstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gangel"
-url: /oberursel-taunus/gangel/
+url: /oberursel-taunus/gangel-erlengasse/
 shop: Bäckerei
 ---

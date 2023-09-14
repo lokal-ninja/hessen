@@ -1,5 +1,5 @@
 ---
 title: "Weller"
-url: /dreieich/weller/
+url: /dreieich/weller-darmstaedter-strasse/
 shop: Bäckerei
 ---

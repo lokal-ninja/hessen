@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /kassel/aenderungsschneiderei/
+url: /kassel/aenderungsschneiderei-frankfurter-strasse-2/
 shop: Schneiderei
 ---

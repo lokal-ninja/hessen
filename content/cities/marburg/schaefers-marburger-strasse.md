@@ -1,5 +1,5 @@
 ---
 title: "Schäfer's"
-url: /marburg/schaefers/
+url: /marburg/schaefers-marburger-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bormuth"
-url: /darmstadt/bormuth/
+url: /darmstadt/bormuth-hochstrasse/
 shop: Bäckerei
 ---

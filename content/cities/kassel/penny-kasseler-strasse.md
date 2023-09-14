@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /kassel/penny/
+url: /kassel/penny-kasseler-strasse/
 shop: Supermarkt
 ---

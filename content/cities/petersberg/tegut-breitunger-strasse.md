@@ -1,5 +1,5 @@
 ---
 title: "tegut"
-url: /petersberg/tegut/
+url: /petersberg/tegut-breitunger-strasse/
 shop: Supermarkt
 ---

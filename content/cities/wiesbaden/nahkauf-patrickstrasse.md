@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /wiesbaden/nahkauf/
+url: /wiesbaden/nahkauf-patrickstrasse/
 shop: Supermarkt
 ---

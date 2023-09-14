@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /giessen/vodafone/
+url: /giessen/vodafone-seltersweg/
 shop: Handy
 ---

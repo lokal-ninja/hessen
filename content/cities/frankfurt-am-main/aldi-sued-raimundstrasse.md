@@ -1,5 +1,5 @@
 ---
 title: "Aldi Süd"
-url: /frankfurt-am-main/aldi-sued/
+url: /frankfurt-am-main/aldi-sued-raimundstrasse/
 shop: Supermarkt
 ---

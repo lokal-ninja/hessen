@@ -1,5 +1,5 @@
 ---
 title: "Carl Ramspeck"
-url: /alsfeld/carl-ramspeck/
+url: /alsfeld/carl-ramspeck-am-kreuz/
 shop: Andenken
 ---

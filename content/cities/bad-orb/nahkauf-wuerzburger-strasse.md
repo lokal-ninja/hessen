@@ -1,5 +1,5 @@
 ---
 title: "nahkauf"
-url: /bad-orb/nahkauf/
+url: /bad-orb/nahkauf-wuerzburger-strasse/
 shop: Supermarkt
 ---

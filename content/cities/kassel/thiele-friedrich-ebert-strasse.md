@@ -1,5 +1,5 @@
 ---
 title: "Thiele"
-url: /kassel/thiele/
+url: /kassel/thiele-friedrich-ebert-strasse/
 shop: Bäckerei
 ---

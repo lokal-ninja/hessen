@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /butzbach/mueller/
+url: /butzbach/mueller-weiseler-strasse/
 shop: Drogerie
 ---

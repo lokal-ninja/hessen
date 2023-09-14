@@ -1,5 +1,5 @@
 ---
 title: "Schäfer"
-url: /wiesbaden/schaefer/
+url: /wiesbaden/schaefer-otto-wallach-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /wiesbaden/tedi/
+url: /wiesbaden/tedi-rheingaustrasse/
 shop: Kramladen
 ---

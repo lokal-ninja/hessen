@@ -1,5 +1,5 @@
 ---
 title: "Gronowski"
-url: /oberaula/gronowski/
+url: /oberaula/gronowski-raiffeisenstrasse/
 shop: Bäckerei
 ---

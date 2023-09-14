@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /wiesbaden/tipico/
+url: /wiesbaden/tipico-wellritzstrasse/
 shop: Wettbüro
 ---

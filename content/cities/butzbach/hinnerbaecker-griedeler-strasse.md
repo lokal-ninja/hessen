@@ -1,5 +1,5 @@
 ---
 title: "Hinnerbäcker"
-url: /butzbach/hinnerbaecker/
+url: /butzbach/hinnerbaecker-griedeler-strasse/
 shop: Bäckerei
 ---

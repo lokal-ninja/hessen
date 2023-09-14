@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Künkel"
-url: /langgoens/baeckerei-kuenkel/
+url: /langgoens/baeckerei-kuenkel-rottweg/
 shop: Bäckerei
 ---

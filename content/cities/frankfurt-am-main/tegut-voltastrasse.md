@@ -1,5 +1,5 @@
 ---
 title: "tegut"
-url: /frankfurt-am-main/tegut/
+url: /frankfurt-am-main/tegut-voltastrasse/
 shop: Supermarkt
 ---

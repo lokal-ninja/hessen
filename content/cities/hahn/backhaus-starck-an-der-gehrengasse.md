@@ -1,5 +1,5 @@
 ---
 title: "Backhaus Starck"
-url: /hahn/backhaus-starck/
+url: /hahn/backhaus-starck-an-der-gehrengasse/
 shop: Bäckerei
 ---

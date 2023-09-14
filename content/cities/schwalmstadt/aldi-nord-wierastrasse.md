@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /schwalmstadt/aldi-nord/
+url: /schwalmstadt/aldi-nord-wierastrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wendel"
-url: /bensheim/wendel/
+url: /bensheim/wendel-2/
 shop: Hofladen
 ---

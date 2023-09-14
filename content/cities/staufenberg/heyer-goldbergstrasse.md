@@ -1,5 +1,5 @@
 ---
 title: "Heyer"
-url: /staufenberg/heyer/
+url: /staufenberg/heyer-goldbergstrasse/
 shop: Blumen
 ---

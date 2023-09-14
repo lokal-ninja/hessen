@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /kassel/thalia/
+url: /kassel/thalia-frankfurter-strasse/
 shop: Bücher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /kassel/penny/
+url: /kassel/penny-struthbachweg/
 shop: Supermarkt
 ---

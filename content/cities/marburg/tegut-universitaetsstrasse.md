@@ -1,5 +1,5 @@
 ---
 title: "tegut"
-url: /marburg/tegut/
+url: /marburg/tegut-universitaetsstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apel"
-url: /lohfelden/apel/
+url: /lohfelden/apel-elisabeth-selbert-strasse/
 shop: Bäckerei
 ---

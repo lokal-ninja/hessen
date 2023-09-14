@@ -1,5 +1,5 @@
 ---
 title: "Autohaus Kreis"
-url: /grossenlueder/autohaus-kreis/
+url: /grossenlueder/autohaus-kreis-im-saemig/
 shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /taunusstein/lidl/
+url: /taunusstein/lidl-auf-dem-kleinen-feld/
 shop: Supermarkt
 ---

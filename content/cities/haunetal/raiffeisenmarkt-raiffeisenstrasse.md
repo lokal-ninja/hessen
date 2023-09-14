@@ -1,5 +1,5 @@
 ---
 title: "Raiffeisenmarkt"
-url: /haunetal/raiffeisenmarkt/
+url: /haunetal/raiffeisenmarkt-raiffeisenstrasse/
 shop: Getränke
 ---

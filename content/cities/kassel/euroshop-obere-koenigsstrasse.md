@@ -1,5 +1,5 @@
 ---
 title: "EuroShop"
-url: /kassel/euroshop/
+url: /kassel/euroshop-obere-koenigsstrasse/
 shop: Kramladen
 ---

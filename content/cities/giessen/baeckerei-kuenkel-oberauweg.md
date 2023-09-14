@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Künkel"
-url: /giessen/baeckerei-kuenkel/
+url: /giessen/baeckerei-kuenkel-oberauweg/
 shop: Bäckerei
 ---

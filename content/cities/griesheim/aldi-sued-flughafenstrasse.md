@@ -1,5 +1,5 @@
 ---
 title: "ALDI Süd"
-url: /griesheim/aldi-sued/
+url: /griesheim/aldi-sued-flughafenstrasse/
 shop: Supermarkt
 ---

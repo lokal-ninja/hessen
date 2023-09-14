@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /kassel/nahkauf/
+url: /kassel/nahkauf-ahnatalstrasse/
 shop: Supermarkt
 ---

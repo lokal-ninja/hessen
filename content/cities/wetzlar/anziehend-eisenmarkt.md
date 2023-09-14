@@ -1,5 +1,5 @@
 ---
 title: "Anziehend"
-url: /wetzlar/anziehend/
+url: /wetzlar/anziehend-eisenmarkt/
 shop: Kleidung
 ---

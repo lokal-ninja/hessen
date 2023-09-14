@@ -1,5 +1,5 @@
 ---
 title: "Leschhorn"
-url: /woelfersheim/leschhorn/
+url: /woelfersheim/leschhorn-hauptstrasse/
 shop: Spielzeug
 ---

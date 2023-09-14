@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /korbach/rewe/
+url: /korbach/rewe-wildunger-landstrasse/
 shop: Getränke
 ---

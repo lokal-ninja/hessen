@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Faust"
-url: /geisenheim/baeckerei-faust/
+url: /geisenheim/baeckerei-faust-chauvignystrasse/
 shop: Bäckerei
 ---

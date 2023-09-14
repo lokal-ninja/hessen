@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /ruesselsheim-am-main/rewe/
+url: /ruesselsheim-am-main/rewe-adam-opel-strasse/
 shop: Supermarkt
 ---

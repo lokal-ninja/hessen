@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /friedrichsdorf/rewe/
+url: /friedrichsdorf/rewe-wilhelmstrasse/
 shop: Supermarkt
 ---

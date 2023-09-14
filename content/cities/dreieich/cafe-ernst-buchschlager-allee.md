@@ -1,5 +1,5 @@
 ---
 title: "Cafe Ernst"
-url: /dreieich/cafe-ernst/
+url: /dreieich/cafe-ernst-buchschlager-allee/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /darmstadt/rossmann/
+url: /darmstadt/rossmann-luisenplatz/
 shop: Drogerie
 ---

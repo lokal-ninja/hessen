@@ -1,5 +1,5 @@
 ---
 title: "tegut"
-url: /kassel/tegut/
+url: /kassel/tegut-koenigsplatz/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quanz"
-url: /huenfeld/quanz/
+url: /huenfeld/quanz-josefstrasse/
 shop: Metzgerei
 ---

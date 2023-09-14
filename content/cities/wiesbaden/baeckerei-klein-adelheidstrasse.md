@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Klein"
-url: /wiesbaden/baeckerei-klein/
+url: /wiesbaden/baeckerei-klein-adelheidstrasse/
 shop: Bäckerei
 ---

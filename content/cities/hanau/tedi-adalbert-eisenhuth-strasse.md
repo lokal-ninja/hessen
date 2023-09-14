@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /hanau/tedi/
+url: /hanau/tedi-adalbert-eisenhuth-strasse/
 shop: Kramladen
 ---

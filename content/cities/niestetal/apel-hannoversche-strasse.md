@@ -1,5 +1,5 @@
 ---
 title: "Apel"
-url: /niestetal/apel/
+url: /niestetal/apel-hannoversche-strasse/
 shop: Bäckerei
 ---

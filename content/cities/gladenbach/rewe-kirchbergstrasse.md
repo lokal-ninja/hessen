@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /gladenbach/rewe/
+url: /gladenbach/rewe-kirchbergstrasse/
 shop: Supermarkt
 ---

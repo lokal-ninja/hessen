@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /morschen/edeka/
+url: /morschen/edeka-nuernberger-landstrasse/
 shop: Supermarkt
 ---

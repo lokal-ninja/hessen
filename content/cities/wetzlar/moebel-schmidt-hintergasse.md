@@ -1,5 +1,5 @@
 ---
 title: "Möbel Schmidt"
-url: /wetzlar/moebel-schmidt/
+url: /wetzlar/moebel-schmidt-hintergasse/
 shop: Möbel
 ---

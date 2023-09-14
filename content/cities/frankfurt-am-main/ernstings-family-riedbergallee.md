@@ -1,5 +1,5 @@
 ---
 title: "Ernsting's family"
-url: /frankfurt-am-main/ernstings-family/
+url: /frankfurt-am-main/ernstings-family-riedbergallee/
 shop: Kleidung
 ---

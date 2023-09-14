@@ -1,5 +1,5 @@
 ---
 title: "Vergölst"
-url: /wetzlar/vergoelst/
+url: /wetzlar/vergoelst-braunfelser-strasse/
 shop: Reifen
 ---

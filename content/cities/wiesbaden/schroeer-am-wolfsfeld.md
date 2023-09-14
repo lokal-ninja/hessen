@@ -1,5 +1,5 @@
 ---
 title: "Schröer"
-url: /wiesbaden/schroeer/
+url: /wiesbaden/schroeer-am-wolfsfeld/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /giessen/penny/
+url: /giessen/penny-heinrich-fourier-strasse/
 shop: Supermarkt
 ---

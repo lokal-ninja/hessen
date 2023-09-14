@@ -1,5 +1,5 @@
 ---
 title: "Aldi Süd"
-url: /hanau/aldi-sued/
+url: /hanau/aldi-sued-grashuepferweg/
 shop: Supermarkt
 ---
