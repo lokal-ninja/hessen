@@ -1,6 +1,6 @@
 ---
 title: Cölbe
 url: /coelbe/
-latitude: 50.851
-longitude: 8.789
+latitude: 50.847
+longitude: 8.782
 ---
