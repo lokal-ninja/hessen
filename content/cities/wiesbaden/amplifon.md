@@ -1,5 +1,5 @@
 ---
-title: "Amplifon"
+title: "amplifon"
 url: /wiesbaden/amplifon/
-shop: Hörgeräte
+shop: Warenhaus
 ---
