@@ -1,6 +1,6 @@
 ---
 title: Langgöns
 url: /langgoens/
-latitude: 50.492
-longitude: 8.658
+latitude: 50.497
+longitude: 8.669
 ---

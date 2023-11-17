@@ -1,6 +1,6 @@
 ---
 title: Mainhausen
 url: /mainhausen/
-latitude: 50.015
-longitude: 8.995
+latitude: 50.024
+longitude: 9.017
 ---

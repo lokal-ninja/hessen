@@ -1,5 +1,5 @@
 ---
-title: "Reddy Küchen"
+title: "REDDY Küchen"
 url: /giessen/reddy-kuechen/
-shop: Möbel
+shop: Küchen
 ---

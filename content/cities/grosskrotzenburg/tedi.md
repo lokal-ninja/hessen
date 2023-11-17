@@ -1,5 +1,5 @@
 ---
-title: "TEDI"
+title: "TEDi"
 url: /grosskrotzenburg/tedi/
 shop: Kramladen
 ---

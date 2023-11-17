@@ -1,11 +1,11 @@
-id: 5180290679
-type: node
-latitude: 50.32914
-longitude: 8.52353
+id: 45669477
+type: way
+latitude: 50.32889
+longitude: 8.52255
 postcode: "61250"
 city: Usingen
 street: "Achtzehnmorgenweg"
 housenumber: 10
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 6081 576710"
+opening_hours: "Mo-Sa 07:00-20:00"
+website: "https://toom.de/m/usingen/"

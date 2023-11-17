@@ -1,6 +1,6 @@
 id: 9805619548
 type: node
-latitude: 50.55474
+latitude: 50.55475
 longitude: 8.50098
 postcode: "35578"
 city: Wetzlar
@@ -8,4 +8,4 @@ street: "Krämerstraße"
 housenumber: 13
 phone: "+49 6441 - 974 5353"
 opening_hours: "Mo-Fr 10:30-18:30; Sa 10:00-16:00"
-website: "www.lieblingsplatz-wetzlar.de"
+website: "https://www.lieblingsplatz-wetzlar.de/"

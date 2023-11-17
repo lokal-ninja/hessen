@@ -1,6 +1,6 @@
 ---
 title: Wehretal
 url: /wehretal/
-latitude: 51.15
-longitude: 9.997
+latitude: 51.152
+longitude: 9.998
 ---

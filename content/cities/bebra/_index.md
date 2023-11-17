@@ -1,6 +1,6 @@
 ---
 title: Bebra
 url: /bebra/
-latitude: 50.97
-longitude: 9.795
+latitude: 50.963
+longitude: 9.793
 ---
