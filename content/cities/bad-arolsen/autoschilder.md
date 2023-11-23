@@ -1,5 +1,5 @@
 ---
 title: "Autoschilder"
 url: /bad-arolsen/autoschilder/
-shop: Allgemein
+shop: Beschriftungen
 ---

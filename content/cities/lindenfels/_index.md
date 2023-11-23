@@ -1,6 +1,6 @@
 ---
 title: Lindenfels
 url: /lindenfels/
-latitude: 49.705
-longitude: 8.785
+latitude: 49.685
+longitude: 8.78
 ---

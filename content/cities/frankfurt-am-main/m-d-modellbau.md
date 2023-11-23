@@ -1,5 +1,5 @@
 ---
 title: "M.D. Modellbau"
 url: /frankfurt-am-main/m-d-modellbau/
-shop: Allgemein
+shop: Modellbau
 ---
