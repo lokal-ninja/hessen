@@ -1,6 +1,6 @@
 ---
 title: Freigericht
 url: /freigericht/
-latitude: 50.143
-longitude: 9.164
+latitude: 50.147
+longitude: 9.112
 ---
