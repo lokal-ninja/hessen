@@ -1,5 +1,5 @@
 ---
-title: "Bräuning Getränkefachmarkt"
+title: "Bräuning (Getränkefachmarkt)"
 url: /grossenlueder/braeuning-getraenkefachmarkt/
-shop: Getränke
+shop: Lotterie
 ---
