@@ -1,6 +1,6 @@
 ---
 title: Kefenrod
 url: /kefenrod/
-latitude: 50.344
-longitude: 9.21
+latitude: 50.342
+longitude: 9.254
 ---

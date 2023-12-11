@@ -1,5 +1,5 @@
 ---
 title: "Fundgrube"
 url: /riedstadt/fundgrube/
-shop: Supermarkt
+shop: Garten-Center
 ---
