@@ -1,5 +1,5 @@
 ---
-title: "Metro"
+title: "METRO"
 url: /kassel/metro/
 shop: Großhandel
 ---

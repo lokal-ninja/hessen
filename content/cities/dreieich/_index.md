@@ -1,6 +1,6 @@
 ---
 title: Dreieich
 url: /dreieich/
-latitude: 49.995
-longitude: 8.731
+latitude: 49.98
+longitude: 8.736
 ---

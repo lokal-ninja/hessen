@@ -1,5 +1,5 @@
 ---
-title: "lucky bike"
+title: "Lucky bike"
 url: /wiesbaden/lucky-bike/
 shop: Fahrrad
 ---
