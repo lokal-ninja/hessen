@@ -1,5 +1,5 @@
 ---
 title: "Fundgrube"
 url: /nidda/fundgrube/
-shop: Baumarkt
+shop: Kramladen
 ---
