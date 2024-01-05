@@ -1,6 +1,6 @@
 ---
 title: Ronshausen
 url: /ronshausen/
-latitude: 50.947
-longitude: 9.867
+latitude: 50.948
+longitude: 9.865
 ---
