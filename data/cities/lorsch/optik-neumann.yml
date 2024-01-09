@@ -1,11 +1,11 @@
-id: 122428989
-type: way
-latitude: 49.65328
-longitude: 8.56799
+id: 11497124174
+type: node
+latitude: 49.65347
+longitude: 8.56785
 postcode: "64653"
 city: Lorsch
 street: "Römerstraße"
-housenumber: 4a
-phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-13:00"
-website: ""
+housenumber: 2
+phone: "+49 6251 56799"
+opening_hours: "Mo-Sa 09:00-13:00; Mo,Tu,Th,Fr 14:30-18:30"
+website: "https://neumann-optik.de/"
