@@ -1,5 +1,5 @@
 ---
 title: "Cats&Dogs"
 url: /vellmar/catsunddogs/
-shop: Tierfutter
+shop: Tiere
 ---
