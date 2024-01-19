@@ -1,6 +1,6 @@
 ---
 title: Gelnhausen
 url: /gelnhausen/
-latitude: 50.2
-longitude: 9.177
+latitude: 50.197
+longitude: 9.188
 ---

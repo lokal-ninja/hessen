@@ -1,5 +1,5 @@
 ---
-title: "denn's Biomarkt"
+title: "Denns BioMarkt"
 url: /frankfurt-am-main/denns-biomarkt-victor-slotosch-strasse/
 shop: Supermarkt
 ---
