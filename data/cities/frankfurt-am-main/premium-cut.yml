@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: "Lettigkautweg"
 housenumber: 4
 phone: "+49 69 97097652"
-opening_hours: "Mo-Tu 13:00-19:00; We 10:00-19:00; Th 13:00-19:00; Fr 13:00-20:00, Sa 10:00-20:00"
+opening_hours: "Tu-Th 10:00-19:00; Fr-Sa 10:00-20:00"
 website: "https://premium-cut.style"
