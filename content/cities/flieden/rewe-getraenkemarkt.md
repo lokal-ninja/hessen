@@ -1,5 +1,5 @@
 ---
-title: "REWE Getränkemarkt"
+title: "Rewe Getränkemarkt"
 url: /flieden/rewe-getraenkemarkt/
-shop: Supermarkt
+shop: Getränke
 ---
