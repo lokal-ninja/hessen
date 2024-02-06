@@ -1,5 +1,5 @@
 ---
-title: "MUI-NAILS Nagelstudio"
+title: "Mui-Nails Nagelstudio"
 url: /bruchkoebel/mui-nails-nagelstudio/
 shop: Kosmetik
 ---
