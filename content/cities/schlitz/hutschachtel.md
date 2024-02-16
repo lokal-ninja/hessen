@@ -1,5 +1,5 @@
 ---
 title: "Hutschachtel"
 url: /schlitz/hutschachtel/
-shop: Hüte
+shop: Kleidung
 ---
