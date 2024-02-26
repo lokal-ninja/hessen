@@ -1,5 +1,5 @@
 ---
 title: "Spatzenlädchen"
 url: /asslar/spatzenlaedchen/
-shop: Gebrauchtwaren
+shop: Kleidung
 ---
