@@ -1,6 +1,6 @@
 ---
 title: Fränkisch-Crumbach
 url: /fraenkisch-crumbach/
-latitude: 49.747
-longitude: 8.857
+latitude: 49.748
+longitude: 8.867
 ---
