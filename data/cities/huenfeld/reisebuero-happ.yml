@@ -7,5 +7,5 @@ city: Hünfeld
 street: "Bahnhofstraße"
 housenumber: 15
 phone: "+496652911480"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
+opening_hours: "Mo,Tu,Th,Fr 09:00-17:00; We,Sa 09:00-13:00"
 website: "https://www.reisebuero-happ.de/"
