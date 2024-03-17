@@ -1,11 +1,11 @@
-id: 2907343113
-type: node
-latitude: 51.13129
-longitude: 9.54353
+id: 215435062
+type: way
+latitude: 51.132
+longitude: 9.54621
 postcode: "34212"
 city: Melsungen
-street: "Am Markt"
-housenumber: 8
-phone: "+49 5661 2132"
-opening_hours: "Mo-Fr 09:00-12:30, 13:30-18:00; Sa 09:00-12:30"
+street: "Sandstraße"
+housenumber: 2
+phone: "+49 5661 51923"
+opening_hours: "Mo-Fr 08:30-13:00, 14:00-17:00"
 website: "https://www.heiniweber.de/"

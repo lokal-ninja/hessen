@@ -1,5 +1,5 @@
 ---
 title: "Assorti"
 url: /alsfeld/assorti/
-shop: Hüte
+shop: Kleidung
 ---
