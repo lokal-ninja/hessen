@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: "Eschersheimer Landstraße"
 housenumber: 555
 phone: ""
-opening_hours: "Tu 09:00-18:00; We-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: "Tu,Th,Fr 09:00-18:00; We 09:00-20:00; Sa 09:00-13:00; Mo off"
 website: "https://www.radsport-frankfurt.de"
