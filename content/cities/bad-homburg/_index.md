@@ -1,6 +1,6 @@
 ---
 title: Bad Homburg
 url: /bad-homburg/
-latitude: 50.225
-longitude: 8.681
+latitude: 50.226
+longitude: 8.619
 ---
