@@ -1,6 +1,6 @@
 ---
 title: Brechen
 url: /brechen/
-latitude: 50.359
-longitude: 8.183
+latitude: 50.362
+longitude: 8.157
 ---
