@@ -1,6 +1,6 @@
 ---
 title: Elbtal
 url: /elbtal/
-latitude: 50.508
-longitude: 8.063
+latitude: 50.507
+longitude: 8.065
 ---

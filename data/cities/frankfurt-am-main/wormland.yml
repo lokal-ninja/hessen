@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: "Biebergasse"
 housenumber: 2
 phone: ""
-opening_hours: "PH,Su off; Mo-Fr 10:30-20:00; Sa 10:00-20:00"
+opening_hours: "Su,PH off; Mo-Fr 10:30-20:00; Sa 10:00-20:00"
 website: ""
