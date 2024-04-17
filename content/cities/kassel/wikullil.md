@@ -1,5 +1,5 @@
 ---
-title: "Wikullil"
+title: "WIKULLiL"
 url: /kassel/wikullil/
-shop: Basteln
+shop: Schreibwaren
 ---

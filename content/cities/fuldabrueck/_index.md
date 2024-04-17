@@ -1,6 +1,6 @@
 ---
 title: Fuldabrück
 url: /fuldabrueck/
-latitude: 51.251
-longitude: 9.482
+latitude: 51.272
+longitude: 9.5
 ---
