@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
 url: /fulda/aenderungsschneiderei/
-shop: Schneiderei
+shop: Kleidung
 ---

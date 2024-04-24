@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: "Hofheimer Straße"
 housenumber: 5
 phone: "+49 69 365238"
-opening_hours: "Mo-Fr 09:00-18:00; Sa (Mär.-Sep.) 09:00-16:00; Sa (Okt.-Feb.) 09:00-14:00"
+opening_hours: "Mo, Tu, Th, Fr 09:00-18:00; Sa 09:00-14:00"
 website: "https://www.radsporthaus-kriegelstein.de/"
