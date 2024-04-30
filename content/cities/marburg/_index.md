@@ -1,6 +1,6 @@
 ---
 title: Marburg
 url: /marburg/
-latitude: 50.779
-longitude: 8.762
+latitude: 50.78
+longitude: 8.761
 ---
