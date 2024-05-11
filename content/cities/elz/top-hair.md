@@ -1,5 +1,5 @@
 ---
-title: "TOP HAIR"
+title: "Top Hair"
 url: /elz/top-hair/
 shop: Friseur
 ---
