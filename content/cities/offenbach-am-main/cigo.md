@@ -1,5 +1,5 @@
 ---
-title: "cigo"
+title: "Cigo"
 url: /offenbach-am-main/cigo/
-shop: Kiosk
+shop: Zeitungen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gerstungen
 url: /gerstungen/
-latitude: 50.954
-longitude: 10.052
+latitude: 50.957
+longitude: 10.055
 ---
