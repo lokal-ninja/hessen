@@ -1,5 +1,5 @@
 ---
-title: "tegut..."
+title: "tegut"
 url: /neuhof/tegut/
 shop: Supermarkt
 ---
