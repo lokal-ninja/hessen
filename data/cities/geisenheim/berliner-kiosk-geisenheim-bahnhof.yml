@@ -7,5 +7,5 @@ city: Geisenheim
 street: "Berliner Straße"
 housenumber: 2
 phone: "+4967224969636"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 08:00-22:00; Su 09:00-22:00"
+opening_hours: "Mo-Th 06:00-22:00; Fr 06:00-24:00; Sa 08:00-24:00; Su 09:00-22:00"
 website: ""
