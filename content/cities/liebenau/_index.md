@@ -1,6 +1,6 @@
 ---
 title: Liebenau
 url: /liebenau/
-latitude: 51.497
-longitude: 9.282
+latitude: 51.492
+longitude: 9.252
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wolfhagen
 url: /wolfhagen/
-latitude: 51.358
-longitude: 9.133
+latitude: 51.403
+longitude: 9.184
 ---
