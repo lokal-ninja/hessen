@@ -1,5 +1,5 @@
 ---
-title: "Schäfer's Backstuben"
+title: "Schäfers Backstuben"
 url: /dautphetal/schaefers-backstuben/
 shop: Bäckerei
 ---
