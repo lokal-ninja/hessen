@@ -1,6 +1,6 @@
 ---
 title: Hofgeismar
 url: /hofgeismar/
-latitude: 51.5
-longitude: 9.39
+latitude: 51.544
+longitude: 9.409
 ---
