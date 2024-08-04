@@ -1,6 +1,6 @@
 ---
 title: Ringgau
 url: /ringgau/
-latitude: 51.12
-longitude: 10.021
+latitude: 51.118
+longitude: 10.032
 ---

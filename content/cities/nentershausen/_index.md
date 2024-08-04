@@ -1,6 +1,6 @@
 ---
 title: Nentershausen
 url: /nentershausen/
-latitude: 51.013
-longitude: 9.933
+latitude: 51.039
+longitude: 9.932
 ---
