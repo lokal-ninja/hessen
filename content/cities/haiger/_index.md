@@ -1,6 +1,6 @@
 ---
 title: Haiger
 url: /haiger/
-latitude: 50.741
-longitude: 8.207
+latitude: 50.743
+longitude: 8.206
 ---

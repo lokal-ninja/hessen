@@ -1,6 +1,6 @@
 ---
 title: Hanau
 url: /hanau/
-latitude: 50.132
-longitude: 8.92
+latitude: 50.107
+longitude: 8.916
 ---

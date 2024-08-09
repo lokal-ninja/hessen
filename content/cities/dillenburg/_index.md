@@ -1,6 +1,6 @@
 ---
 title: Dillenburg
 url: /dillenburg/
-latitude: 50.721
-longitude: 8.307
+latitude: 50.742
+longitude: 8.282
 ---
