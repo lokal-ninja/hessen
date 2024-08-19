@@ -1,6 +1,6 @@
 ---
 title: Grebenau
 url: /grebenau/
-latitude: 50.743
-longitude: 9.474
+latitude: 50.742
+longitude: 9.477
 ---

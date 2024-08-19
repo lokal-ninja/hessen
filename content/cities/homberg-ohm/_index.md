@@ -1,6 +1,6 @@
 ---
 title: Homberg (Ohm)
 url: /homberg-ohm/
-latitude: 50.73
-longitude: 9
+latitude: 50.754
+longitude: 8.971
 ---
