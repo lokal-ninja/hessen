@@ -1,5 +1,5 @@
 ---
-title: "Alldrink"
+title: "alldrink"
 url: /schaafheim/alldrink/
 shop: Getränke
 ---

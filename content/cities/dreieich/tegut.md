@@ -1,5 +1,5 @@
 ---
-title: "Tegut"
+title: "tegut"
 url: /dreieich/tegut/
 shop: Supermarkt
 ---

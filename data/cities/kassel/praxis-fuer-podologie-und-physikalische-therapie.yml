@@ -7,5 +7,5 @@ city: Kassel
 street: "Frankfurter Straße"
 housenumber: 253
 phone: "+49 561 41787"
-opening_hours: "Mo,Tu,Th 09:00-13:00,14:00-18:00; PH,Sa,Su off; We,Fr 10:00-13:00,14:00-18:00"
+opening_hours: "Mo-Th 09:00-13:00,14:00-17:00; Sa,Su,PH off; Fr 10:00-15:00"
 website: ""
