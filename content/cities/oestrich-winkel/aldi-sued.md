@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /oestrich-winkel/aldi-sued/
 shop: Supermarkt
 ---
