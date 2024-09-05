@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Mai"
-url: /dieburg/baeckerei-mai-fuchsberg/
+url: /dieburg/baeckerei-mai-altstadt/
 shop: Bäckerei
 ---
