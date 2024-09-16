@@ -1,11 +1,11 @@
 id: 182884690
-type: way
+type: node
 latitude: 51.14741
 longitude: 9.88087
 postcode: "37284"
 city: Waldkappel
-street: "Stockwiese"
-housenumber: 1
-phone: "+49 5656 92030"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.rewe.de/marktseite/waldkappel/1465654/rewe-markt-stockwiese-1/"
+street: Stockwiese
+housenumber: "1"
+phone: +49 5656 92030
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.rewe.de/marktseite/waldkappel/1465654/rewe-markt-stockwiese-1/

@@ -1,11 +1,11 @@
 id: 167991468
-type: way
+type: node
 latitude: 50.62293
 longitude: 10.0053
 postcode: ""
 city: Tann (Rhön)
-street: "Eisenacher Straße"
-housenumber: 25
+street: Eisenacher Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

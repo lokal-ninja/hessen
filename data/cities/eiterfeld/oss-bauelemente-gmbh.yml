@@ -1,11 +1,11 @@
 id: 184767647
-type: way
+type: node
 latitude: 50.76058
 longitude: 9.81257
 postcode: "36132"
 city: Eiterfeld
-street: "Sachsenweg"
-housenumber: 9
-phone: "+49 6672 91 91 60"
+street: Sachsenweg
+housenumber: "9"
+phone: +49 6672 91 91 60
 opening_hours: ""
-website: "https://oss-bauelemente.de/"
+website: https://oss-bauelemente.de/

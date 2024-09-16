@@ -1,11 +1,11 @@
 id: 225868493
-type: way
+type: node
 latitude: 50.98992
 longitude: 8.54876
 postcode: "35116"
 city: Hatzfeld (Eder)
-street: "Edertalstraße"
-housenumber: 17
+street: Edertalstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 318150391
-type: way
+type: node
 latitude: 50.27208
 longitude: 9.37258
 postcode: "63628"
 city: Bad Soden-Salmünster
-street: "Weinstraße"
-housenumber: 22
+street: Weinstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://www.silex.de/"
+website: https://www.silex.de/

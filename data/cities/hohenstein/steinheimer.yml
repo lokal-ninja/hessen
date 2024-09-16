@@ -1,11 +1,11 @@
 id: 25742819
-type: way
+type: node
 latitude: 50.19396
 longitude: 8.08585
 postcode: "65329"
 city: Hohenstein
-street: "An der Altwiese"
-housenumber: 4
+street: An der Altwiese
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

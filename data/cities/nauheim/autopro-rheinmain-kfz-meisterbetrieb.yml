@@ -4,8 +4,8 @@ latitude: 49.93974
 longitude: 8.448
 postcode: "64569"
 city: Nauheim
-street: "Bahnhofstraße"
-housenumber: 69
-phone: "+49 6152 9478607"
-opening_hours: "Mo,Tu,We,Fr 08:00-18:00; PH off"
+street: Bahnhofstraße
+housenumber: "69"
+phone: +49 6152 9478607
+opening_hours: Mo,Tu,We,Fr 08:00-18:00; PH off
 website: ""

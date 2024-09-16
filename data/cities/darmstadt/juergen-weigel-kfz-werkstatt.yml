@@ -1,11 +1,11 @@
 id: 301992335
-type: way
+type: node
 latitude: 49.9313
 longitude: 8.65867
 postcode: "64291"
 city: Darmstadt
-street: "Frankfurter Landstraße"
-housenumber: 400
-phone: "+49 6150 81193"
+street: Frankfurter Landstraße
+housenumber: "400"
+phone: +49 6150 81193
 opening_hours: ""
 website: ""

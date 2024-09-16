@@ -1,11 +1,11 @@
 id: 172509384
-type: way
+type: node
 latitude: 50.43648
 longitude: 8.6769
 postcode: "35510"
 city: Butzbach
-street: "Griedeler Straße"
-housenumber: 62
-phone: "06033 9735620"
+street: Griedeler Straße
+housenumber: "62"
+phone: 06033 9735620
 opening_hours: ""
-website: "https://www.bnb.de"
+website: https://www.bnb.de

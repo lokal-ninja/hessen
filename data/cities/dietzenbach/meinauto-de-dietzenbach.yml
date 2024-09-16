@@ -1,11 +1,11 @@
 id: 1308124512
-type: way
+type: node
 latitude: 50.00285
 longitude: 8.79023
 postcode: "63128"
 city: Dietzenbach
-street: "Voltastraße"
-housenumber: 8
+street: Voltastraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://www.meinauto-gebrauchtwagen.de/dietzenbach-bei-frankfurt/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://www.meinauto-gebrauchtwagen.de/dietzenbach-bei-frankfurt/

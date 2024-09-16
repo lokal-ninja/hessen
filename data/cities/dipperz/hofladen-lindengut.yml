@@ -1,11 +1,11 @@
 id: 192999935
-type: way
+type: node
 latitude: 50.51918
 longitude: 9.78851
 postcode: "36160"
 city: Dipperz
-street: "Kohlgrunder Weg"
-housenumber: 1
-phone: "+49 6657 981-0"
-opening_hours: "Tu 12:00-19:00; Fr 12:00-19:00; Sa 08:00-14:00"
-website: "https://linden-gut.eu/de/hofladen/"
+street: Kohlgrunder Weg
+housenumber: "1"
+phone: +49 6657 981-0
+opening_hours: Tu 12:00-19:00; Fr 12:00-19:00; Sa 08:00-14:00
+website: https://linden-gut.eu/de/hofladen/

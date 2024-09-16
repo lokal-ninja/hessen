@@ -4,8 +4,8 @@ latitude: 50.58686
 longitude: 8.67495
 postcode: "35390"
 city: Gießen
-street: "Marktplatz"
-housenumber: 8
-phone: "+49 641 39396"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://www.comic-dealer.de/"
+street: Marktplatz
+housenumber: "8"
+phone: +49 641 39396
+opening_hours: Mo-Sa 11:00-18:00
+website: https://www.comic-dealer.de/

@@ -4,8 +4,8 @@ latitude: 50.55346
 longitude: 8.50084
 postcode: "35578"
 city: Wetzlar
-street: "Silhöfer Straße"
-housenumber: 15
-phone: "+49 6441 4459 321"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://prooptik.de/wetzlar"
+street: Silhöfer Straße
+housenumber: "15"
+phone: +49 6441 4459 321
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://prooptik.de/wetzlar

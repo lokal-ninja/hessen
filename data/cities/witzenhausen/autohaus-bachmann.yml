@@ -1,11 +1,11 @@
 id: 942872816
-type: way
+type: node
 latitude: 51.32113
 longitude: 9.88322
 postcode: "37215"
 city: Witzenhausen
-street: "An der Werra"
-housenumber: 10
+street: An der Werra
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-werkstatt.de/witzenhausen/marco-bachmann-autohaus-bachmann-aUM0Bb"
+website: https://www.auto-werkstatt.de/witzenhausen/marco-bachmann-autohaus-bachmann-aUM0Bb

@@ -1,11 +1,11 @@
 id: 153885357
-type: way
+type: node
 latitude: 50.75224
 longitude: 9.26806
 postcode: "36304"
 city: Alsfeld
-street: "Georg-Dietrich-Bücking-Straße"
-housenumber: 2
+street: Georg-Dietrich-Bücking-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

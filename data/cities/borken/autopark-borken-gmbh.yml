@@ -1,11 +1,11 @@
 id: 60956566
-type: way
+type: node
 latitude: 51.05319
 longitude: 9.27035
 postcode: "34582"
 city: Borken
-street: "Lise-Meitner-Straße"
-housenumber: 1
+street: Lise-Meitner-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:45-18:00; Sa 08:00-13:00; Su off"
+opening_hours: Mo-Fr 07:45-18:00; Sa 08:00-13:00; Su off
 website: ""

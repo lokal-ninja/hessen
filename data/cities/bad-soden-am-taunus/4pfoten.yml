@@ -1,11 +1,11 @@
 id: 363295682
-type: way
+type: node
 latitude: 50.13859
 longitude: 8.50457
 postcode: "65812"
 city: Bad Soden am Taunus
-street: "Hasselstraße"
-housenumber: 39
+street: Hasselstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

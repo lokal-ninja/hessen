@@ -1,11 +1,11 @@
 id: 1233655303
-type: way
+type: node
 latitude: 49.89801
 longitude: 8.59827
 postcode: "64331"
 city: Weiterstadt
-street: "Im Rödling"
-housenumber: 3
+street: Im Rödling
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

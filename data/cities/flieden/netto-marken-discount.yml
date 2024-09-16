@@ -1,11 +1,11 @@
 id: 276878904
-type: way
+type: node
 latitude: 50.4252
 longitude: 9.57491
 postcode: "36103"
 city: Flieden
-street: "Königreichallee"
-housenumber: 2
-phone: "+49 800 2000015"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Königreichallee
+housenumber: "2"
+phone: +49 800 2000015
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

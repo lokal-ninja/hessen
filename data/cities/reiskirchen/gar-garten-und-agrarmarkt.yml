@@ -1,11 +1,11 @@
 id: 169530298
-type: way
+type: node
 latitude: 50.59787
 longitude: 8.82949
 postcode: "35447"
 city: Reiskirchen
-street: "Raiffeisenstraße"
-housenumber: 5
+street: Raiffeisenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

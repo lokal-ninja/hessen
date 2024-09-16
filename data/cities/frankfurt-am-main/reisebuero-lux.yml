@@ -4,8 +4,8 @@ latitude: 50.14763
 longitude: 8.65602
 postcode: "60431"
 city: Frankfurt am Main
-street: "Kurhessenstraße"
-housenumber: 117
-phone: "+4969 52 63 33"
+street: Kurhessenstraße
+housenumber: "117"
+phone: +4969 52 63 33
 opening_hours: ""
-website: "https://reisebuero-lux.de/"
+website: https://reisebuero-lux.de/

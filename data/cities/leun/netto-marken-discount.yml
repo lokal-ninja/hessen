@@ -1,11 +1,11 @@
 id: 328511039
-type: way
+type: node
 latitude: 50.53069
 longitude: 8.30683
 postcode: "35638"
 city: Leun
-street: "Weilburger Straße"
-housenumber: 26
-phone: "+49 800 2000015"
+street: Weilburger Straße
+housenumber: "26"
+phone: +49 800 2000015
 opening_hours: ""
-website: "https://www.netto-online.de/"
+website: https://www.netto-online.de/

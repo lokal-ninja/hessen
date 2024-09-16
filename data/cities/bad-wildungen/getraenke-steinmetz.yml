@@ -1,11 +1,11 @@
 id: 661477096
-type: way
+type: node
 latitude: 51.12525
 longitude: 9.15078
 postcode: "34537"
 city: Bad Wildungen
-street: "Am Bruch"
-housenumber: 6
+street: Am Bruch
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 316643730
-type: way
+type: node
 latitude: 50.00643
 longitude: 8.28393
 postcode: "55252"
 city: Wiesbaden
-street: "Philippsring"
-housenumber: 2
+street: Philippsring
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:30"
-website: "https://www.automobile-cs.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-15:30
+website: https://www.automobile-cs.de/

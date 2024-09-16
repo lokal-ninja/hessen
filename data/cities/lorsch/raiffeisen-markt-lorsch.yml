@@ -1,11 +1,11 @@
 id: 120909369
-type: way
+type: node
 latitude: 49.65861
 longitude: 8.5562
 postcode: "64653"
 city: Lorsch
-street: "In der Wolfshecke"
-housenumber: 4
+street: In der Wolfshecke
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

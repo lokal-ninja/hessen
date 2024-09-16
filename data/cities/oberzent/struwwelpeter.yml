@@ -1,11 +1,11 @@
 id: 397239371
-type: way
+type: node
 latitude: 49.56848
 longitude: 8.97128
 postcode: "64760"
 city: Oberzent
-street: "Turmstraße"
-housenumber: 14
+street: Turmstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

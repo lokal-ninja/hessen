@@ -4,8 +4,8 @@ latitude: 50.1358
 longitude: 8.30037
 postcode: "65207"
 city: Wiesbaden
-street: "Obergasse"
-housenumber: 17
-phone: "+49 6127 96 86 66"
-opening_hours: "Mo-Fr 15:00-18:00; We off, Sa 10:00-12:00"
-website: "https://www.mueller-fernseh.de/"
+street: Obergasse
+housenumber: "17"
+phone: +49 6127 96 86 66
+opening_hours: Mo-Fr 15:00-18:00; We off, Sa 10:00-12:00
+website: https://www.mueller-fernseh.de/

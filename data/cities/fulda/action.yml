@@ -4,8 +4,8 @@ latitude: 50.54859
 longitude: 9.68654
 postcode: "36043"
 city: Fulda
-street: "Heinrichstraße"
-housenumber: 85
+street: Heinrichstraße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/de-de/laden/fulda-heinrichstrasse-85/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/de-de/laden/fulda-heinrichstrasse-85/

@@ -1,11 +1,11 @@
 id: 311076246
-type: way
+type: node
 latitude: 49.99435
 longitude: 8.65213
 postcode: "63225"
 city: Langen (Hessen)
-street: "Triftstraße"
-housenumber: 25
+street: Triftstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 28698842
-type: way
-latitude: 49.8606
-longitude: 8.59059
+type: node
+latitude: 49.86059
+longitude: 8.59058
 postcode: "64347"
 city: Griesheim
-street: "Flughafenstraße"
-housenumber: 13
+street: Flughafenstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.aldi-sued.de/

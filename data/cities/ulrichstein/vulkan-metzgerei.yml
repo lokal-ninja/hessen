@@ -1,11 +1,11 @@
 id: 108859457
-type: way
+type: node
 latitude: 50.57517
 longitude: 9.19367
 postcode: "35327"
 city: Ulrichstein
-street: "Marktstraße"
-housenumber: 25
-phone: "+49 6645 9188788"
-opening_hours: "Tu,Th,Fr 08:00-12:00,14:00-18:00; We 08:00-12:00; Sa 08:00-13:00"
-website: "https://vulkanmetzgerei.de/standorte"
+street: Marktstraße
+housenumber: "25"
+phone: +49 6645 9188788
+opening_hours: Tu,Th,Fr 08:00-12:00,14:00-18:00; We 08:00-12:00; Sa 08:00-13:00
+website: https://vulkanmetzgerei.de/standorte

@@ -1,11 +1,11 @@
 id: 482736705
-type: way
+type: node
 latitude: 50.20827
 longitude: 8.59462
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Willy-Brandt-Straße"
-housenumber: 6
+street: Willy-Brandt-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

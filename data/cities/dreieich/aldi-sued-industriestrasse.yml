@@ -1,11 +1,11 @@
 id: 41749909
-type: way
+type: node
 latitude: 50.00521
 longitude: 8.70241
 postcode: "63303"
 city: Dreieich
-street: "Industriestraße"
-housenumber: 7
+street: Industriestraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

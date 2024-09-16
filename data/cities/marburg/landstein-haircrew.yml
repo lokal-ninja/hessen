@@ -4,8 +4,8 @@ latitude: 50.80214
 longitude: 8.75958
 postcode: "35037"
 city: Marburg
-street: "Schwanallee"
-housenumber: 30
-phone: "+49 6421 43475"
+street: Schwanallee
+housenumber: "30"
+phone: +49 6421 43475
 opening_hours: ""
-website: "https://www.landstein-haircrew.de/"
+website: https://www.landstein-haircrew.de/

@@ -4,8 +4,8 @@ latitude: 50.15563
 longitude: 8.75251
 postcode: "60388"
 city: Frankfurt am Main
-street: "Schelmenburgplatz"
-housenumber: 2
-phone: "+49 6109 5090199"
-opening_hours: "Mo-Fr 09:30-13:00; Mo,Tu,Th,Fr 14:00-18:30; Sa 09:30-14:00; Su,PH off"
+street: Schelmenburgplatz
+housenumber: "2"
+phone: +49 6109 5090199
+opening_hours: Mo-Fr 09:30-13:00; Mo,Tu,Th,Fr 14:00-18:30; Sa 09:30-14:00; Su,PH off
 website: ""

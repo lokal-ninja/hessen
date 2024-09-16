@@ -1,11 +1,11 @@
 id: 220112246
-type: way
+type: node
 latitude: 50.52683
 longitude: 8.20673
 postcode: "35799"
 city: Merenberg
-street: "Backhausweg"
-housenumber: 7
+street: Backhausweg
+housenumber: "7"
 phone: ""
-opening_hours: "hier backen die Landfrauen ein paarmal im Jahr"
+opening_hours: '"hier backen die Landfrauen ein paarmal im Jahr"'
 website: ""

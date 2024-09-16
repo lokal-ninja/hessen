@@ -1,11 +1,11 @@
 id: 29185852
-type: way
+type: node
 latitude: 50.53703
 longitude: 8.65432
 postcode: "35440"
 city: Linden
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
+street: Rudolf-Diesel-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

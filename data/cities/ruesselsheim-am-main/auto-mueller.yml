@@ -1,11 +1,11 @@
 id: 231110950
-type: way
+type: node
 latitude: 49.9763
 longitude: 8.42436
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Stahlstraße"
-housenumber: 49
-phone: "+49 6142 81377"
-opening_hours: "Mo-Fr 07:45-17:00"
-website: "https://www.autoteam-mueller.de/"
+street: Stahlstraße
+housenumber: "49"
+phone: +49 6142 81377
+opening_hours: Mo-Fr 07:45-17:00
+website: https://www.autoteam-mueller.de/

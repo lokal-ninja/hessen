@@ -1,11 +1,11 @@
 id: 72053808
-type: way
+type: node
 latitude: 49.86166
 longitude: 8.74411
 postcode: "64380"
 city: Roßdorf
-street: "Darmstädter Straße"
-housenumber: 80
-phone: "+49 6154 608842"
+street: Darmstädter Straße
+housenumber: "80"
+phone: +49 6154 608842
 opening_hours: ""
-website: "http://www.kfz-kiss.info"
+website: http://www.kfz-kiss.info

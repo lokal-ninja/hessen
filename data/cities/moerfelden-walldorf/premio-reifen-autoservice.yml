@@ -1,11 +1,11 @@
 id: 168892004
-type: way
+type: node
 latitude: 49.97969
 longitude: 8.58128
 postcode: "64546"
 city: Mörfelden-Walldorf
-street: "Industriestraße"
-housenumber: 3
-phone: "+49 6105 22229"
+street: Industriestraße
+housenumber: "3"
+phone: +49 6105 22229
 opening_hours: ""
-website: "https://moerfelden.premio.de/"
+website: https://moerfelden.premio.de/

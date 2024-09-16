@@ -1,11 +1,11 @@
 id: 316421516
-type: way
+type: node
 latitude: 50.76759
 longitude: 8.58261
 postcode: "35075"
 city: Gladenbach
-street: "Bornrainstraße"
-housenumber: 4
-phone: "+49 6462 93780"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.zweirad-wiessner.de/"
+street: Bornrainstraße
+housenumber: "4"
+phone: +49 6462 93780
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.zweirad-wiessner.de/

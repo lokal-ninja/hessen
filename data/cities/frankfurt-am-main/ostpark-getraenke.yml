@@ -4,8 +4,8 @@ latitude: 50.11523
 longitude: 8.71079
 postcode: "60314"
 city: Frankfurt am Main
-street: "Henschelstraße"
-housenumber: 26
+street: Henschelstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:00, Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-16:00, Sa 08:00-14:00
 website: ""

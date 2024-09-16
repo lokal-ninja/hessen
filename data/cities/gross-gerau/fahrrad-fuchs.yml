@@ -4,8 +4,8 @@ latitude: 49.91914
 longitude: 8.48683
 postcode: "64521"
 city: Groß-Gerau
-street: "Darmstädter Straße"
-housenumber: 36
+street: Darmstädter Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:00,14:00-18:00, Sa 10:00-13:00"
-website: "https://www.fahrrad-fuchs.de/"
+opening_hours: Mo,Tu,Th,Fr 10:00-12:00,14:00-18:00, Sa 10:00-13:00
+website: https://www.fahrrad-fuchs.de/

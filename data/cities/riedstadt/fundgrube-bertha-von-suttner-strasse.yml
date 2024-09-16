@@ -1,11 +1,11 @@
 id: 297754734
-type: way
+type: node
 latitude: 49.85371
 longitude: 8.48929
 postcode: "64560"
 city: Riedstadt
-street: "Bertha-von-Suttner-Straße"
-housenumber: 7
+street: Bertha-von-Suttner-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

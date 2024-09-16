@@ -1,11 +1,11 @@
 id: 231122001
-type: way
+type: node
 latitude: 51.28946
 longitude: 9.46711
 postcode: "34134"
 city: Kassel
-street: "Wilhelm-Busch-Straße"
+street: Wilhelm-Busch-Straße
 housenumber: 45A
-phone: "+49 561 9415550"
-opening_hours: "Mo,Tu 09:00-18:00; We,Th off; Fr,Sa 09:00-18:00; PH,Su off"
+phone: +49 561 9415550
+opening_hours: Mo,Tu 09:00-18:00; We,Th off; Fr,Sa 09:00-18:00; PH,Su off
 website: ""

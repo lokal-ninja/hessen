@@ -4,8 +4,8 @@ latitude: 50.92631
 longitude: 8.47161
 postcode: "35216"
 city: Biedenkopf
-street: "Bahnhofstraße"
-housenumber: 12
+street: Bahnhofstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 09:00-20:30; Sa 10:00-19:00; Su 10:00-17:00"
-website: "https://www.sonnenstudio-wallau.de"
+opening_hours: Tu-Fr 09:00-20:30; Sa 10:00-19:00; Su 10:00-17:00
+website: https://www.sonnenstudio-wallau.de

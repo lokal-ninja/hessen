@@ -1,11 +1,11 @@
 id: 757071098
-type: way
+type: node
 latitude: 50.50026
 longitude: 8.18669
 postcode: "35799"
 city: Merenberg
-street: "Auf dem alten Berg"
-housenumber: 1
+street: Auf dem alten Berg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 210305864
-type: way
+type: node
 latitude: 50.10618
 longitude: 8.94441
 postcode: "63457"
 city: Hanau
-street: "Luisenstraße"
-housenumber: 21
+street: Luisenstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 249904419
-type: way
+type: node
 latitude: 50.24389
 longitude: 8.6535
 postcode: "61381"
 city: Friedrichsdorf
-street: "Lohgrundweg"
-housenumber: 5
+street: Lohgrundweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

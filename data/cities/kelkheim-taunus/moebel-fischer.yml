@@ -1,11 +1,11 @@
 id: 206651283
-type: way
+type: node
 latitude: 50.13973
 longitude: 8.45038
 postcode: "65779"
 city: Kelkheim (Taunus)
-street: "Hornauer Straße"
-housenumber: 12
-phone: "+49 6195 99540"
+street: Hornauer Straße
+housenumber: "12"
+phone: +49 6195 99540
 opening_hours: ""
-website: "https://moebelfischer-kelkheim.de/"
+website: https://moebelfischer-kelkheim.de/

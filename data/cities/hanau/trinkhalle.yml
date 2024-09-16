@@ -1,11 +1,11 @@
 id: 196946021
-type: way
+type: node
 latitude: 50.10869
 longitude: 8.91442
 postcode: "63456"
 city: Hanau
-street: "Ludwigstraße"
-housenumber: 9
+street: Ludwigstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

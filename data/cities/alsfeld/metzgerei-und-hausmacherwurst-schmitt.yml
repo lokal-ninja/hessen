@@ -1,11 +1,11 @@
 id: 211355942
-type: way
+type: node
 latitude: 50.74354
 longitude: 9.25898
 postcode: "36304"
 city: Alsfeld
-street: "Grünberger Straße"
-housenumber: 68
-phone: "+49 6631 8028405"
-opening_hours: "Mo-Fr 06:30-18:00, Sa 08:00-13:00, Su closed"
-website: "https://hausmacherwurst-schmitt.de/"
+street: Grünberger Straße
+housenumber: "68"
+phone: +49 6631 8028405
+opening_hours: Mo-Fr 06:30-18:00, Sa 08:00-13:00, Su closed
+website: https://hausmacherwurst-schmitt.de/

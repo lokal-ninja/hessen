@@ -1,11 +1,11 @@
 id: 321083839
-type: way
+type: node
 latitude: 49.95306
 longitude: 8.952
 postcode: "64832"
 city: Babenhausen
-street: "Hinter der Altdörfer Kirche"
-housenumber: 44
-phone: "+49 6073 3381"
-opening_hours: "Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00; PH off"
-website: "https://bender.go1a.de/"
+street: Hinter der Altdörfer Kirche
+housenumber: "44"
+phone: +49 6073 3381
+opening_hours: Mo-Th 08:00-12:00,13:00-17:00; Fr 08:00-12:00; PH off
+website: https://bender.go1a.de/

@@ -4,8 +4,8 @@ latitude: 50.01691
 longitude: 8.69446
 postcode: "63303"
 city: Dreieich
-street: "Hauptstraße"
-housenumber: 34
-phone: "+49 6103 8398999"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.rossmann.de"
+street: Hauptstraße
+housenumber: "34"
+phone: +49 6103 8398999
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.rossmann.de

@@ -1,11 +1,11 @@
 id: 129487203
-type: way
+type: node
 latitude: 50.42118
 longitude: 9.20133
 postcode: "63688"
 city: Gedern
-street: "Otto-Müller-Straße"
-housenumber: 10
+street: Otto-Müller-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

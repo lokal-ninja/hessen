@@ -1,11 +1,11 @@
 id: 275758379
-type: way
+type: node
 latitude: 50.75491
 longitude: 8.48931
 postcode: "35080"
 city: Bad Endbach
-street: "Liebigstraße"
-housenumber: 5
-phone: "+49 2776 315"
-opening_hours: "We-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00; Su,Mo,Tu,PH off"
+street: Liebigstraße
+housenumber: "5"
+phone: +49 2776 315
+opening_hours: We-Fr 08:00-13:00,14:00-18:00; Sa 08:00-13:00; Su,Mo,Tu,PH off
 website: ""

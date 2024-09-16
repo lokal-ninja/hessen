@@ -1,11 +1,11 @@
 id: 192953466
-type: way
+type: node
 latitude: 49.82736
 longitude: 8.73118
 postcode: "64372"
 city: Ober-Ramstadt
-street: "Margarete-Steiff-Weg"
-housenumber: 3
+street: Margarete-Steiff-Weg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

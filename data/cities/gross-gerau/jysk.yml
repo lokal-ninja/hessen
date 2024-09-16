@@ -4,8 +4,8 @@ latitude: 49.90909
 longitude: 8.49884
 postcode: "64521"
 city: Groß-Gerau
-street: "Helvetiastraße"
-housenumber: 5
+street: Helvetiastraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://jysk.de/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://jysk.de/

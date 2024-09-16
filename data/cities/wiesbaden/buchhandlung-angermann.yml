@@ -4,8 +4,8 @@ latitude: 50.08121
 longitude: 8.24035
 postcode: "65183"
 city: Wiesbaden
-street: "Mauergasse"
-housenumber: 21
-phone: "+49 611 300385"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://www.landkartenhaus.de"
+street: Mauergasse
+housenumber: "21"
+phone: +49 611 300385
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: http://www.landkartenhaus.de

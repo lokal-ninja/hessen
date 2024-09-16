@@ -1,11 +1,11 @@
 id: 332598618
-type: way
+type: node
 latitude: 50.78368
 longitude: 8.76789
 postcode: "35043"
 city: Marburg
-street: "Marburger Straße"
-housenumber: 72
-phone: "06421 43457"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00"
-website: "https://www.baeckerei-eckhardt.de/"
+street: Marburger Straße
+housenumber: "72"
+phone: 06421 43457
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-11:00
+website: https://www.baeckerei-eckhardt.de/

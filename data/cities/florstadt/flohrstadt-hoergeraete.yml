@@ -4,8 +4,8 @@ latitude: 50.31859
 longitude: 8.86037
 postcode: "61197"
 city: Florstadt
-street: "Willy-Brandt-Straße"
-housenumber: 2
-phone: "+49 6035 7099833"
-opening_hours: "Mo-Fr 09:00-13:00, Mo-Tu 14:00-18:00, Th-Fr 14:00-18:00"
-website: "https://flohrstadt.de"
+street: Willy-Brandt-Straße
+housenumber: "2"
+phone: +49 6035 7099833
+opening_hours: Mo-Fr 09:00-13:00, Mo-Tu 14:00-18:00, Th-Fr 14:00-18:00
+website: https://flohrstadt.de

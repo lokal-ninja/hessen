@@ -1,11 +1,11 @@
 id: 30415545
-type: way
+type: node
 latitude: 50.14459
 longitude: 8.69419
 postcode: "60435"
 city: Frankfurt am Main
-street: "Homburger Landstraße"
-housenumber: 60
+street: Homburger Landstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Tu-Fr 09:00-13:00,15:00-20:00"
+opening_hours: Tu-Fr 09:00-13:00,15:00-20:00
 website: ""

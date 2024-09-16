@@ -1,11 +1,11 @@
 id: 366496967
-type: way
+type: node
 latitude: 49.87217
 longitude: 8.8302
 postcode: "64846"
 city: Groß-Zimmern
-street: "Wilhelm-Leuschner-Straße"
-housenumber: 40
+street: Wilhelm-Leuschner-Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

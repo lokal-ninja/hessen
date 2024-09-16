@@ -1,11 +1,11 @@
 id: 125501697
-type: way
+type: node
 latitude: 51.25564
 longitude: 9.39351
 postcode: "34225"
 city: Baunatal
-street: "Rostocker Straße"
-housenumber: 1
-phone: "+49 5601 965270"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "http://www.edeka.de/"
+street: Rostocker Straße
+housenumber: "1"
+phone: +49 5601 965270
+opening_hours: Mo-Sa 08:00-19:00
+website: http://www.edeka.de/

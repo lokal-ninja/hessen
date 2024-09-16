@@ -4,8 +4,8 @@ latitude: 50.55187
 longitude: 9.67215
 postcode: "36037"
 city: Fulda
-street: "Abtstor"
-housenumber: 3
+street: Abtstor
+housenumber: "3"
 phone: ""
-opening_hours: "Mo 06:30-14:00; Tu-Fr 06:30-18:00; Sa 06:30-13:00"
-website: "https://www.fleischerei-schneider.com/"
+opening_hours: Mo 06:30-14:00; Tu-Fr 06:30-18:00; Sa 06:30-13:00
+website: https://www.fleischerei-schneider.com/

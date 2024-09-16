@@ -1,11 +1,11 @@
 id: 41241611
-type: way
+type: node
 latitude: 49.8168
 longitude: 8.6359
 postcode: "64297"
 city: Darmstadt
-street: "Pfungstädter Straße"
-housenumber: 65
+street: Pfungstädter Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 51754350
-type: way
+type: node
 latitude: 49.86695
 longitude: 8.65694
 postcode: "64283"
 city: Darmstadt
-street: "Heinrichstraße"
-housenumber: 52
-phone: "+49-6151-40790"
-opening_hours: "Sa 08:00-23:30; Mo-Fr 08:00-24:00"
-website: "https://www.rewe.de/"
+street: Heinrichstraße
+housenumber: "52"
+phone: +49-6151-40790
+opening_hours: Sa 08:00-23:30; Mo-Fr 08:00-24:00
+website: https://www.rewe.de/

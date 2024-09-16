@@ -4,8 +4,8 @@ latitude: 50.55195
 longitude: 9.69273
 postcode: "36037"
 city: Fulda
-street: "Petersberger Straße"
-housenumber: 59
-phone: "+49 661 61901"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.fahrradkeller-fulda.de"
+street: Petersberger Straße
+housenumber: "59"
+phone: +49 661 61901
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.fahrradkeller-fulda.de

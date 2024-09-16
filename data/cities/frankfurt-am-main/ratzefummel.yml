@@ -4,8 +4,8 @@ latitude: 50.14426
 longitude: 8.7265
 postcode: "60389"
 city: Frankfurt am Main
-street: "Wilhelmshöher Straße"
-housenumber: 143
-phone: "+49 69 90752039"
-opening_hours: "Mo-Fr 07:30-12:00,15:00-18:00; Sa 07:30-12:00"
+street: Wilhelmshöher Straße
+housenumber: "143"
+phone: +49 69 90752039
+opening_hours: Mo-Fr 07:30-12:00,15:00-18:00; Sa 07:30-12:00
 website: ""

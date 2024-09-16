@@ -1,11 +1,11 @@
 id: 88611099
-type: way
+type: node
 latitude: 50.59449
 longitude: 8.95165
 postcode: "35305"
 city: Grünberg
-street: "Gießener Straße"
-housenumber: 44
+street: Gießener Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 191153631
-type: way
+type: node
 latitude: 50.91803
 longitude: 9.21026
 postcode: "34613"
 city: Schwalmstadt
-street: "In der Aue"
-housenumber: 1
+street: In der Aue
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

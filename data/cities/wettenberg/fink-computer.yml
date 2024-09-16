@@ -1,11 +1,11 @@
 id: 608428755
-type: way
+type: node
 latitude: 50.63047
 longitude: 8.63986
 postcode: "35435"
 city: Wettenberg
-street: "Heggrabenstraße"
-housenumber: 9
+street: Heggrabenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

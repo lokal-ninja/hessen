@@ -1,11 +1,11 @@
 id: 97477766
-type: way
+type: node
 latitude: 50.58
 longitude: 8.72887
 postcode: "35394"
 city: Gießen
-street: "Europastraße"
-housenumber: 17
-phone: "+49 641975550"
+street: Europastraße
+housenumber: "17"
+phone: +49 641975550
 opening_hours: ""
-website: "https://www.egon-klein.de/"
+website: https://www.egon-klein.de/

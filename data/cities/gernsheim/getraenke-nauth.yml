@@ -1,11 +1,11 @@
 id: 1247769540
-type: way
+type: node
 latitude: 49.76325
 longitude: 8.48954
 postcode: "64579"
 city: Gernsheim
-street: "Robert-Kirchhoff-Straße"
-housenumber: 4
+street: Robert-Kirchhoff-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

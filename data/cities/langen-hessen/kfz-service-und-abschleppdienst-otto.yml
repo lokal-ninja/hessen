@@ -1,11 +1,11 @@
 id: 363499795
-type: way
+type: node
 latitude: 49.99393
 longitude: 8.65397
 postcode: "63225"
 city: Langen (Hessen)
-street: "Am Weißen Stein"
-housenumber: 24
+street: Am Weißen Stein
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "http://kfz-service-otto.com/"
+website: http://kfz-service-otto.com/

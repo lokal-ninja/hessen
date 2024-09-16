@@ -1,11 +1,11 @@
 id: 55977133
-type: way
+type: node
 latitude: 50.10435
 longitude: 8.74968
 postcode: "63067"
 city: Offenbach am Main
-street: "Löwenstraße"
-housenumber: 25
+street: Löwenstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-23:30
 website: ""

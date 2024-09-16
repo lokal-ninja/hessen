@@ -1,11 +1,11 @@
 id: 230749294
-type: way
+type: node
 latitude: 50.61632
 longitude: 9.11382
 postcode: "35325"
 city: Mücke
-street: "Goethestraße"
-housenumber: 12
+street: Goethestraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

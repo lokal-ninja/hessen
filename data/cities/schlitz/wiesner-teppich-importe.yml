@@ -1,11 +1,11 @@
 id: 101976710
-type: way
+type: node
 latitude: 50.6747
 longitude: 9.55477
 postcode: "36110"
 city: Schlitz
-street: "Egerländer Straße"
-housenumber: 2
+street: Egerländer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

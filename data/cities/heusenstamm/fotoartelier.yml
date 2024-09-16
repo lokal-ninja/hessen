@@ -4,8 +4,8 @@ latitude: 50.05919
 longitude: 8.80449
 postcode: "63150"
 city: Heusenstamm
-street: "Frankfurter Straße"
-housenumber: 43
-phone: "+49 6104 6890909"
-opening_hours: "Mo-Fr 10:30-13:00; Mo-Tu 15:00-18:30; Th 15:00-20:00; Fr 15:00-18:30"
-website: "https://dasfotoartelier.de"
+street: Frankfurter Straße
+housenumber: "43"
+phone: +49 6104 6890909
+opening_hours: Mo-Fr 10:30-13:00; Mo-Tu 15:00-18:30; Th 15:00-20:00; Fr 15:00-18:30
+website: https://dasfotoartelier.de

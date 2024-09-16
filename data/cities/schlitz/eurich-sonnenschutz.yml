@@ -1,11 +1,11 @@
 id: 110045209
-type: way
+type: node
 latitude: 50.6567
 longitude: 9.59382
 postcode: "36110"
 city: Schlitz
-street: "Raiffeisenstraße"
-housenumber: 13
+street: Raiffeisenstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

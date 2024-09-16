@@ -1,11 +1,11 @@
 id: 394182329
-type: way
+type: node
 latitude: 51.13198
 longitude: 9.42959
 postcode: "34587"
 city: Felsberg
-street: "Steinweg"
-housenumber: 30
-phone: "+49 5662 3418"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su, PH off"
-website: "https://modepalette.com/"
+street: Steinweg
+housenumber: "30"
+phone: +49 5662 3418
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00; Su, PH off
+website: https://modepalette.com/

@@ -4,8 +4,8 @@ latitude: 51.32303
 longitude: 9.47623
 postcode: "34127"
 city: Kassel
-street: "Philippistraße"
-housenumber: 23
-phone: "+49 561 8700396"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://hinzu-kimm.de/"
+street: Philippistraße
+housenumber: "23"
+phone: +49 561 8700396
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://hinzu-kimm.de/

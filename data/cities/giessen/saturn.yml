@@ -4,8 +4,8 @@ latitude: 50.58031
 longitude: 8.64619
 postcode: "35398"
 city: Gießen
-street: "Gottlieb-Daimler-Straße"
-housenumber: 27
-phone: "+49 641 984150"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.saturn.de/de/store/giessen-625"
+street: Gottlieb-Daimler-Straße
+housenumber: "27"
+phone: +49 641 984150
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.saturn.de/de/store/giessen-625

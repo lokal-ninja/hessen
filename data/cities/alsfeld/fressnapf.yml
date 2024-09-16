@@ -4,8 +4,8 @@ latitude: 50.75344
 longitude: 9.27766
 postcode: "36304"
 city: Alsfeld
-street: "An der Au"
-housenumber: 10
-phone: "+49 6631 776386"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-18:00"
-website: "https://www.fressnapf.de/stores/fressnapf-alsfeld/"
+street: An der Au
+housenumber: "10"
+phone: +49 6631 776386
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-18:00
+website: https://www.fressnapf.de/stores/fressnapf-alsfeld/

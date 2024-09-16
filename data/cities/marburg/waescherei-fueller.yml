@@ -1,11 +1,11 @@
 id: 331557993
-type: way
+type: node
 latitude: 50.83342
 longitude: 8.76161
 postcode: "35041"
 city: Marburg
-street: "Wehrdaer Straße"
-housenumber: 84
+street: Wehrdaer Straße
+housenumber: "84"
 phone: ""
 opening_hours: ""
 website: ""

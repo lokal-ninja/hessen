@@ -1,11 +1,11 @@
 id: 610288708
-type: way
+type: node
 latitude: 50.54126
 longitude: 8.70357
 postcode: "35415"
 city: Pohlheim
-street: "Max-Eyth-Straße"
-housenumber: 10
+street: Max-Eyth-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

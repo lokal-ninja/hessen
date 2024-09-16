@@ -1,11 +1,11 @@
 id: 30625680
-type: way
+type: node
 latitude: 50.53813
 longitude: 8.65257
 postcode: "35440"
 city: Linden
-street: "Robert-Bosch-Straße"
-housenumber: 12
+street: Robert-Bosch-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

@@ -4,8 +4,8 @@ latitude: 50.58769
 longitude: 8.67601
 postcode: "35390"
 city: Gießen
-street: "Lindengasse"
-housenumber: 6
-phone: "+49 641 93 23 20"
-opening_hours: "Mo-Fr 09:30-13:00,14:00-17:00"
-website: "https://unicomp.de/"
+street: Lindengasse
+housenumber: "6"
+phone: +49 641 93 23 20
+opening_hours: Mo-Fr 09:30-13:00,14:00-17:00
+website: https://unicomp.de/

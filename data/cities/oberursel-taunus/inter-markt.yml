@@ -1,11 +1,11 @@
 id: 93061188
-type: way
+type: node
 latitude: 50.18351
 longitude: 8.60224
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Mauerfeldstraße"
-housenumber: 8
+street: Mauerfeldstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 08:30-16:00"
+opening_hours: Mo-Fr 09:00-19:00, Sa 08:30-16:00
 website: ""

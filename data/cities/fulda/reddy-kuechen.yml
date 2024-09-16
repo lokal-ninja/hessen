@@ -1,11 +1,11 @@
 id: 121287551
-type: way
+type: node
 latitude: 50.54555
 longitude: 9.69829
 postcode: "36043"
 city: Fulda
-street: "Michael-Henkel-Straße"
-housenumber: 10
+street: Michael-Henkel-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.reddy.de/fulda/"
+website: https://www.reddy.de/fulda/

@@ -4,8 +4,8 @@ latitude: 50.0405
 longitude: 8.22177
 postcode: "65203"
 city: Wiesbaden
-street: "Rheingaustraße"
-housenumber: 94
-phone: "+49-611-9686-0"
+street: Rheingaustraße
+housenumber: "94"
+phone: +49-611-9686-0
 opening_hours: ""
-website: "https://www.meg.de/"
+website: https://www.meg.de/

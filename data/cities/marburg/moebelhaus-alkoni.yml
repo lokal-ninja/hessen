@@ -1,11 +1,11 @@
 id: 1208604998
-type: way
+type: node
 latitude: 50.84076
 longitude: 8.76612
 postcode: "35041"
 city: Marburg
-street: "Tom-Mutters-Straße"
-housenumber: 3
+street: Tom-Mutters-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

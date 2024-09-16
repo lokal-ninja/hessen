@@ -5,7 +5,7 @@ longitude: 8.76363
 postcode: "63069"
 city: Offenbach am Main
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.tabacundco.net/"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.tabacundco.net/

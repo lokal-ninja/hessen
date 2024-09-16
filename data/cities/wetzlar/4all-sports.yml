@@ -1,11 +1,11 @@
 id: 137707169
-type: way
+type: node
 latitude: 50.56314
 longitude: 8.60856
 postcode: "35582"
 city: Wetzlar
-street: "Am Rübenmorgen"
-housenumber: 6
-phone: "+49 641 2501159"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-18:00"
-website: "https://4all-sports.de"
+street: Am Rübenmorgen
+housenumber: "6"
+phone: +49 641 2501159
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-18:00
+website: https://4all-sports.de

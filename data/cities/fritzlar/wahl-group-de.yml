@@ -1,11 +1,11 @@
 id: 213683309
-type: way
+type: node
 latitude: 51.12336
 longitude: 9.27879
 postcode: "34560"
 city: Fritzlar
-street: "Gießener Straße"
+street: Gießener Straße
 housenumber: 52,54
-phone: "+49 5622 99920"
+phone: +49 5622 99920
 opening_hours: ""
 website: ""

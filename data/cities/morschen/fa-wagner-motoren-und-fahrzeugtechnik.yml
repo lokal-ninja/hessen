@@ -1,11 +1,11 @@
 id: 100059827
-type: way
+type: node
 latitude: 51.06603
 longitude: 9.62061
 postcode: ""
 city: Morschen
-street: "Nürnberger Landstraße"
-housenumber: 48
+street: Nürnberger Landstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

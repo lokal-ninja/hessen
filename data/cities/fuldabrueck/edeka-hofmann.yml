@@ -1,11 +1,11 @@
 id: 145078918
-type: way
+type: node
 latitude: 51.22984
 longitude: 9.49796
 postcode: "34277"
 city: Fuldabrück
-street: "Glockenhofsweg"
-housenumber: 30
-phone: "+49 5665 2643"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.neukauf-hofmann.de/html/filialen1.html"
+street: Glockenhofsweg
+housenumber: "30"
+phone: +49 5665 2643
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.neukauf-hofmann.de/html/filialen1.html

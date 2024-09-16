@@ -4,8 +4,8 @@ latitude: 50.55272
 longitude: 9.6799
 postcode: "36037"
 city: Fulda
-street: "Bahnhofstraße"
-housenumber: 5
+street: Bahnhofstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off
 website: ""

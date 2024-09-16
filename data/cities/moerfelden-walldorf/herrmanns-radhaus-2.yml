@@ -4,8 +4,8 @@ latitude: 50.00859
 longitude: 8.579
 postcode: "64546"
 city: Mörfelden-Walldorf
-street: "Treburer Straße"
-housenumber: 24
-phone: "+49 61054088660"
-opening_hours: "Mo,Tu,Fr 10:00-13:00,14:30-18; Th 10:00-13:00,14:30-20:00; We,Sa 10:00-13:00"
-website: "https://walldorf.herrmannsradhaus.de/"
+street: Treburer Straße
+housenumber: "24"
+phone: +49 61054088660
+opening_hours: Mo,Tu,Fr 10:00-13:00,14:30-18; Th 10:00-13:00,14:30-20:00; We,Sa 10:00-13:00
+website: https://walldorf.herrmannsradhaus.de/

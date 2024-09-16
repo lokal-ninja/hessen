@@ -4,8 +4,8 @@ latitude: 49.90756
 longitude: 8.58231
 postcode: "64331"
 city: Weiterstadt
-street: "Kreuzstraße"
-housenumber: 21
+street: Kreuzstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Tu,Th,Fr 10:00-19:00; Sa 09:00-14:00"
-website: "http://www.weinhaushamm.de/"
+opening_hours: Tu,Th,Fr 10:00-19:00; Sa 09:00-14:00
+website: http://www.weinhaushamm.de/

@@ -1,11 +1,11 @@
 id: 157113248
-type: way
+type: node
 latitude: 49.68102
 longitude: 8.61976
 postcode: "64625"
 city: Bensheim
-street: "Bahnhofstraße"
-housenumber: 22
+street: Bahnhofstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:00"
-website: "http://www.schlapp.de"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-15:00
+website: http://www.schlapp.de

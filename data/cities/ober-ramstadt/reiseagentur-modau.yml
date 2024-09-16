@@ -1,11 +1,11 @@
 id: 102879619
-type: way
+type: node
 latitude: 49.79814
 longitude: 8.73866
 postcode: "64372"
 city: Ober-Ramstadt
-street: "Kirchstraße"
-housenumber: 52
+street: Kirchstraße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

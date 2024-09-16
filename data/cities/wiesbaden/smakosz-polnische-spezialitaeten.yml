@@ -4,8 +4,8 @@ latitude: 50.08075
 longitude: 8.22449
 postcode: "65195"
 city: Wiesbaden
-street: "Blücherstraße"
-housenumber: 40
-phone: "+49 611 5808600"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00"
+street: Blücherstraße
+housenumber: "40"
+phone: +49 611 5808600
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00
 website: ""

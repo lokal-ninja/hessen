@@ -1,11 +1,11 @@
 id: 26120686
-type: way
+type: node
 latitude: 50.22124
 longitude: 8.40696
 postcode: "61479"
 city: Glashütten
-street: "Dornsweg"
-housenumber: 2
+street: Dornsweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

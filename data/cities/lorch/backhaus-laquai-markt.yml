@@ -1,11 +1,11 @@
 id: 89278385
-type: way
+type: node
 latitude: 50.04419
 longitude: 7.80347
 postcode: "65391"
 city: Lorch
-street: "Markt"
-housenumber: 1
+street: Markt
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 14:10-17:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 14:10-17:00
 website: ""

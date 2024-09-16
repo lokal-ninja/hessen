@@ -4,8 +4,8 @@ latitude: 49.96426
 longitude: 8.35276
 postcode: "65462"
 city: Ginsheim-Gustavsburg
-street: "Neckarstraße"
-housenumber: 52
-phone: "06144 33 47 137"
-opening_hours: "Mo-Tu, Th-Fr 09:00-12:30, 14:30-18:00; Sa 09:00-13:00; We 09:00-12:30"
-website: "https://www.sonjasblumengarten.de/"
+street: Neckarstraße
+housenumber: "52"
+phone: 06144 33 47 137
+opening_hours: Mo-Tu, Th-Fr 09:00-12:30, 14:30-18:00; Sa 09:00-13:00; We 09:00-12:30
+website: https://www.sonjasblumengarten.de/

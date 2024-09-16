@@ -1,11 +1,11 @@
 id: 135323320
-type: way
+type: node
 latitude: 50.57831
 longitude: 8.63298
 postcode: "35452"
 city: Heuchelheim
-street: "Am Zimmerplatz"
+street: Am Zimmerplatz
 housenumber: 1A
 phone: "064171966"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

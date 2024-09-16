@@ -1,11 +1,11 @@
 id: 211170914
-type: way
+type: node
 latitude: 51.2498
 longitude: 9.26687
 postcode: ""
 city: Bad Emstal
-street: "Industriestraße"
-housenumber: 1
+street: Industriestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

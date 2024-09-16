@@ -1,11 +1,11 @@
 id: 224686798
-type: way
+type: node
 latitude: 51.34097
 longitude: 9.47952
 postcode: "34127"
 city: Kassel
-street: "Holländische Straße"
-housenumber: 201
-phone: "+49 561 89066893"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.fressnapf.de/stores/fressnapf-kassel-hollaendische-str/"
+street: Holländische Straße
+housenumber: "201"
+phone: +49 561 89066893
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.fressnapf.de/stores/fressnapf-kassel-hollaendische-str/

@@ -4,8 +4,8 @@ latitude: 49.8705
 longitude: 8.65497
 postcode: "64283"
 city: Darmstadt
-street: "Schulstraße"
-housenumber: 1
-phone: "+49 6151 25688"
-opening_hours: "Tu-Fr 11:00-13:00,14:00-18:00; Sa 11:00-15:30"
-website: "https://antikgalerie24.de/"
+street: Schulstraße
+housenumber: "1"
+phone: +49 6151 25688
+opening_hours: Tu-Fr 11:00-13:00,14:00-18:00; Sa 11:00-15:30
+website: https://antikgalerie24.de/

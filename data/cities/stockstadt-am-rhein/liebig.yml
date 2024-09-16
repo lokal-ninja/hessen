@@ -4,8 +4,8 @@ latitude: 49.8084
 longitude: 8.46596
 postcode: "64589"
 city: Stockstadt am Rhein
-street: "Oberstraße"
-housenumber: 11
-phone: "+49 6158 / 60 86 96 0"
-opening_hours: "Mo-Sa 06:30-12:30"
-website: "https://www.ihr-guter-liebig.de/fachgeschaefte/stockstadt.php"
+street: Oberstraße
+housenumber: "11"
+phone: +49 6158 / 60 86 96 0
+opening_hours: Mo-Sa 06:30-12:30
+website: https://www.ihr-guter-liebig.de/fachgeschaefte/stockstadt.php

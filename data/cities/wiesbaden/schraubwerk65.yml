@@ -4,8 +4,8 @@ latitude: 50.05296
 longitude: 8.30944
 postcode: "65205"
 city: Wiesbaden
-street: "Rennbahnstraße"
-housenumber: 2
+street: Rennbahnstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-12:30"
-website: "https://www.schraubwerk65.de/"
+opening_hours: Mo-Th 08:00-17:30; Fr 08:00-12:30
+website: https://www.schraubwerk65.de/

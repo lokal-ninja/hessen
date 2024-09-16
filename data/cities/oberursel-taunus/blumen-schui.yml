@@ -1,11 +1,11 @@
 id: 105011061
-type: way
+type: node
 latitude: 50.2085
 longitude: 8.57455
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Hohemarkstraße"
-housenumber: 29
+street: Hohemarkstraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

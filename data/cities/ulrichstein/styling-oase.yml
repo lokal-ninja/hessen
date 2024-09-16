@@ -1,11 +1,11 @@
 id: 108859522
-type: way
+type: node
 latitude: 50.57537
 longitude: 9.19332
 postcode: "35327"
 city: Ulrichstein
-street: "Marktstraße"
-housenumber: 19
+street: Marktstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

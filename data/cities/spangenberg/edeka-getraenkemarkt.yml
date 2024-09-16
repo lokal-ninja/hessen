@@ -1,11 +1,11 @@
 id: 93954844
-type: way
+type: node
 latitude: 51.11544
 longitude: 9.65312
 postcode: "34286"
 city: Spangenberg
-street: "Melsunger Straße"
-housenumber: 28
+street: Melsunger Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

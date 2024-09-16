@@ -4,8 +4,8 @@ latitude: 50.2556
 longitude: 8.63982
 postcode: "61381"
 city: Friedrichsdorf
-street: "Hugenottenstraße"
-housenumber: 61
-phone: "+49 6172 778165"
-opening_hours: "Tu,Th,Fr 06:15-18:00; We,Sa 06:15-13:00; Su 07:30-11:00; off Mo"
+street: Hugenottenstraße
+housenumber: "61"
+phone: +49 6172 778165
+opening_hours: Tu,Th,Fr 06:15-18:00; We,Sa 06:15-13:00; Su 07:30-11:00; off Mo
 website: ""

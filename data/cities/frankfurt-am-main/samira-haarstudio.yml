@@ -4,8 +4,8 @@ latitude: 50.1275
 longitude: 8.7088
 postcode: "60385"
 city: Frankfurt am Main
-street: "Heidestraße"
-housenumber: 154
+street: Heidestraße
+housenumber: "154"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

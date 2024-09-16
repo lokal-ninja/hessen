@@ -1,11 +1,11 @@
 id: 197078842
-type: way
+type: node
 latitude: 50.22175
 longitude: 8.19951
 postcode: "65510"
 city: Hünstetten
-street: "Neukirchner Straße"
-housenumber: 14
+street: Neukirchner Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.tegut.com/maerkte/markt/tegut-huenstetten-kesselbach-neukirchner-str-14.html"
+website: https://www.tegut.com/maerkte/markt/tegut-huenstetten-kesselbach-neukirchner-str-14.html

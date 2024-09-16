@@ -4,8 +4,8 @@ latitude: 50.82803
 longitude: 8.90931
 postcode: "35274"
 city: Kirchhain
-street: "Frankfurter Straße"
-housenumber: 43
+street: Frankfurter Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.de/

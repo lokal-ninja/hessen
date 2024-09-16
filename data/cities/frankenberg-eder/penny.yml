@@ -1,11 +1,11 @@
 id: 303314356
-type: way
+type: node
 latitude: 51.05135
 longitude: 8.79846
 postcode: "35066"
 city: Frankenberg (Eder)
-street: "Bottendorfer Straße"
-housenumber: 49
+street: Bottendorfer Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://www.penny.de/markt/frankenberg-eder-p-soldan-st/324212/penny-frankenberg-bottendorfer-str-49"
+website: https://www.penny.de/markt/frankenberg-eder-p-soldan-st/324212/penny-frankenberg-bottendorfer-str-49

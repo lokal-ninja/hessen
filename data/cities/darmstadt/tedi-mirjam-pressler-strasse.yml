@@ -4,8 +4,8 @@ latitude: 49.89843
 longitude: 8.68331
 postcode: "64289"
 city: Darmstadt
-street: "Mirjam-Pressler-Straße"
-housenumber: 10
-phone: "+49 231 55 57 70"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://stores.tedi.com/tedi-a108cfa07ea0"
+street: Mirjam-Pressler-Straße
+housenumber: "10"
+phone: +49 231 55 57 70
+opening_hours: Mo-Sa 09:00-19:00
+website: https://stores.tedi.com/tedi-a108cfa07ea0

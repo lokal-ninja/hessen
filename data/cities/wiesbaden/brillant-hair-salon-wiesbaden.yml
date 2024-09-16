@@ -4,8 +4,8 @@ latitude: 50.08699
 longitude: 8.23167
 postcode: "65195"
 city: Wiesbaden
-street: "Hochstraße"
-housenumber: 2
+street: Hochstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; Mo off"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; Mo off
 website: ""

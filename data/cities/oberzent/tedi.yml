@@ -1,11 +1,11 @@
 id: 178795266
-type: way
+type: node
 latitude: 49.57154
 longitude: 8.97568
 postcode: "64760"
 city: Oberzent
-street: "Häfengasse"
-housenumber: 40
+street: Häfengasse
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

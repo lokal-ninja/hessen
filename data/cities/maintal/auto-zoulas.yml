@@ -1,11 +1,11 @@
 id: 1150234204
-type: way
+type: node
 latitude: 50.1433
 longitude: 8.83572
 postcode: "63477"
 city: Maintal
-street: "Bahnhofstraße"
-housenumber: 137
-phone: "+49 (0)6181 4275471"
+street: Bahnhofstraße
+housenumber: "137"
+phone: +49 (0)6181 4275471
 opening_hours: ""
 website: ""

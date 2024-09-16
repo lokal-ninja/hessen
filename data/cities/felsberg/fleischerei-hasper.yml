@@ -1,11 +1,11 @@
 id: 395670608
-type: way
+type: node
 latitude: 51.13202
 longitude: 9.43913
 postcode: "34587"
 city: Felsberg
-street: "Giesenweg"
-housenumber: 3
+street: Giesenweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

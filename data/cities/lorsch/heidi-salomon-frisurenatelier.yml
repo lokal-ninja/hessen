@@ -1,11 +1,11 @@
 id: 121980190
-type: way
+type: node
 latitude: 49.65527
 longitude: 8.5602
 postcode: "64653"
 city: Lorsch
-street: "Heinrichstraße"
-housenumber: 32
+street: Heinrichstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

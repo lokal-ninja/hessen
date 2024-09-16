@@ -4,8 +4,8 @@ latitude: 51.29022
 longitude: 9.47511
 postcode: "34134"
 city: Kassel
-street: "Credéstraße"
-housenumber: 5
+street: Credéstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.tedi.com/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.tedi.com/

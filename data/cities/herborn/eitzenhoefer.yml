@@ -4,8 +4,8 @@ latitude: 50.68055
 longitude: 8.30566
 postcode: "35745"
 city: Herborn
-street: "Hauptstraße"
-housenumber: 115
-phone: "+49 2772 5817-0"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.eitzenhoefer.de/"
+street: Hauptstraße
+housenumber: "115"
+phone: +49 2772 5817-0
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
+website: https://www.eitzenhoefer.de/

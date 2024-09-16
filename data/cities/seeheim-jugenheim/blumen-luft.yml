@@ -4,8 +4,8 @@ latitude: 49.76844
 longitude: 8.64445
 postcode: "64342"
 city: Seeheim-Jugenheim
-street: "Heidelberger Straße"
-housenumber: 47
-phone: "+49 6257 937080"
-opening_hours: "Tu,Th,Fr 10:00-12:30,14:30-18:00; We 10:00-12:30; Sa 09:00-12:30"
+street: Heidelberger Straße
+housenumber: "47"
+phone: +49 6257 937080
+opening_hours: Tu,Th,Fr 10:00-12:30,14:30-18:00; We 10:00-12:30; Sa 09:00-12:30
 website: ""

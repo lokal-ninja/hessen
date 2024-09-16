@@ -4,8 +4,8 @@ latitude: 50.51449
 longitude: 8.39192
 postcode: "35619"
 city: Braunfels
-street: "Am Kurpark"
-housenumber: 8
-phone: "+49 6442 932 396"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.dietz-mode.de"
+street: Am Kurpark
+housenumber: "8"
+phone: +49 6442 932 396
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.dietz-mode.de

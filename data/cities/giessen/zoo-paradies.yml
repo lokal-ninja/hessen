@@ -1,11 +1,11 @@
 id: 97842636
-type: way
+type: node
 latitude: 50.60233
 longitude: 8.70404
 postcode: "35396"
 city: Gießen
-street: "Gießener Straße"
-housenumber: 90
+street: Gießener Straße
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

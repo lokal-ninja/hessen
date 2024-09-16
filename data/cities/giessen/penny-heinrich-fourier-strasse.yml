@@ -1,11 +1,11 @@
 id: 30726433
-type: way
+type: node
 latitude: 50.5808
 longitude: 8.69994
 postcode: "35394"
 city: Gießen
-street: "Heinrich-Fourier-Straße"
-housenumber: 2
+street: Heinrich-Fourier-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00"
+opening_hours: Mo-Sa 07:30-22:00
 website: ""

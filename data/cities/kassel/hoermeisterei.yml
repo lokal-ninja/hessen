@@ -4,8 +4,8 @@ latitude: 51.31598
 longitude: 9.46598
 postcode: "34119"
 city: Kassel
-street: "Friedrich-Ebert-Straße"
-housenumber: 145
-phone: "+49 561 50395979"
-opening_hours: "Tu 09:00-13:00; Th 15:00-18:00"
-website: "https://www.die-hoermeisterin.info/"
+street: Friedrich-Ebert-Straße
+housenumber: "145"
+phone: +49 561 50395979
+opening_hours: Tu 09:00-13:00; Th 15:00-18:00
+website: https://www.die-hoermeisterin.info/

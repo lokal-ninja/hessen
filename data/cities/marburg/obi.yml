@@ -1,11 +1,11 @@
 id: 107478711
-type: way
+type: node
 latitude: 50.83883
 longitude: 8.76917
 postcode: "35041"
 city: Marburg
-street: "Im Schwarzenborn"
-housenumber: 3
+street: Im Schwarzenborn
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.obi.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.obi.de/

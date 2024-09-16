@@ -4,8 +4,8 @@ latitude: 51.31247
 longitude: 9.49019
 postcode: "34117"
 city: Kassel
-street: "Fünffensterstraße"
-housenumber: 6
+street: Fünffensterstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 11:00-16:00"
-website: "https://www.nachfuellbar.bio"
+opening_hours: Mo-Fr 10:00-19:00; Sa 11:00-16:00
+website: https://www.nachfuellbar.bio

@@ -1,11 +1,11 @@
 id: 163136293
-type: way
+type: node
 latitude: 50.86629
 longitude: 9.34407
 postcode: ""
 city: Neukirchen
-street: "Birkenallee"
-housenumber: 2
+street: Birkenallee
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

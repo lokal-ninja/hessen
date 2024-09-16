@@ -1,11 +1,11 @@
 id: 243346811
-type: way
+type: node
 latitude: 50.79182
 longitude: 8.75194
 postcode: "35037"
 city: Marburg
-street: "Gisselberger Straße"
-housenumber: 75
+street: Gisselberger Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

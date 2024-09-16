@@ -4,8 +4,8 @@ latitude: 50.19442
 longitude: 8.09866
 postcode: "65329"
 city: Hohenstein
-street: "Langgasse"
-housenumber: 20
-phone: "+49 6120 903194"
-opening_hours: "Mo-Sa 06:00-13:00, Su 06:00-11:00"
-website: "https://baecker-huth.de"
+street: Langgasse
+housenumber: "20"
+phone: +49 6120 903194
+opening_hours: Mo-Sa 06:00-13:00, Su 06:00-11:00
+website: https://baecker-huth.de

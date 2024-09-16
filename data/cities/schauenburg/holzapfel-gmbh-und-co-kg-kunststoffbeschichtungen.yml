@@ -1,11 +1,11 @@
 id: 194789222
-type: way
+type: node
 latitude: 51.27527
 longitude: 9.37354
 postcode: "34270"
 city: Schauenburg
-street: "Lange Baunastraße"
-housenumber: 52
+street: Lange Baunastraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Th 08:00-12:00, 14:00-17:00; Fr 08:00-12:00"
-website: "https://holzapfel-bauchemie.de/"
+opening_hours: Mo-Th 08:00-12:00, 14:00-17:00; Fr 08:00-12:00
+website: https://holzapfel-bauchemie.de/

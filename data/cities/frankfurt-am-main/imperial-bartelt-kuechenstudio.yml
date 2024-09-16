@@ -4,8 +4,8 @@ latitude: 50.14244
 longitude: 8.64779
 postcode: "60431"
 city: Frankfurt am Main
-street: "Ginnheimer Landstraße"
-housenumber: 187
-phone: "+496952 01 99"
-opening_hours: "Montag bis Samstag,  nach Vereinbarung"
-website: "https://kuechentraeume-bartelt.de/"
+street: Ginnheimer Landstraße
+housenumber: "187"
+phone: +496952 01 99
+opening_hours: '"Montag bis Samstag,  nach Vereinbarung"'
+website: https://kuechentraeume-bartelt.de/

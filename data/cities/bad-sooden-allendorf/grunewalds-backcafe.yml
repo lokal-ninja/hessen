@@ -4,8 +4,9 @@ latitude: 51.27289
 longitude: 9.97478
 postcode: "37242"
 city: Bad Sooden-Allendorf
-street: "Marktplatz"
-housenumber: 1
-phone: "+49 5652 918057"
-opening_hours: "Nov-Mar: Mo-Fr 06:45-18:00; Nov-Mar: Sa 06:45-13:00; Apr-Oct: Mo-Fr 06:45-18:00; Apr-Oct: Sa 06:45-17:00"
+street: Marktplatz
+housenumber: "1"
+phone: +49 5652 918057
+opening_hours: 'Nov-Mar: Mo-Fr 06:45-18:00; Nov-Mar: Sa 06:45-13:00; Apr-Oct: Mo-Fr
+    06:45-18:00; Apr-Oct: Sa 06:45-17:00'
 website: ""

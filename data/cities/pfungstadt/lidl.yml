@@ -1,11 +1,11 @@
 id: 509022637
-type: way
+type: node
 latitude: 49.80766
 longitude: 8.61138
 postcode: "64319"
 city: Pfungstadt
-street: "Eberstädter Straße"
-housenumber: 134
+street: Eberstädter Straße
+housenumber: "134"
 phone: ""
 opening_hours: ""
 website: ""

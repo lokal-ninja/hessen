@@ -4,8 +4,8 @@ latitude: 50.07736
 longitude: 8.23723
 postcode: "65185"
 city: Wiesbaden
-street: "Rheinstraße"
-housenumber: 54
+street: Rheinstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://www.jaloucity.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://www.jaloucity.de/

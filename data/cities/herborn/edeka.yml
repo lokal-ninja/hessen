@@ -1,11 +1,11 @@
 id: 866673926
-type: way
+type: node
 latitude: 50.6977
 longitude: 8.2658
 postcode: "35745"
 city: Herborn
-street: "Burger Straße"
-housenumber: 7
+street: Burger Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

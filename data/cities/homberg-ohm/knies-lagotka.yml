@@ -4,8 +4,8 @@ latitude: 50.75448
 longitude: 8.97057
 postcode: "35315"
 city: Homberg (Ohm)
-street: "Unterstraße"
-housenumber: 5
-phone: "+49 64 21 96 25 0"
-opening_hours: "24/7"
-website: "https://knies-lagotka.de/tankstellen"
+street: Unterstraße
+housenumber: "5"
+phone: +49 64 21 96 25 0
+opening_hours: 24/7
+website: https://knies-lagotka.de/tankstellen

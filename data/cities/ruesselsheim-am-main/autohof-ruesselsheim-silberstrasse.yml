@@ -4,8 +4,8 @@ latitude: 49.97559
 longitude: 8.43339
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Silberstraße"
-housenumber: 7
-phone: "+49 6142 8754035"
-opening_hours: "Mo,Th 09:00-18:00; Fr 09:00-12:30,13:30-18:00; Sa 09:00-16:00"
-website: "https://autohof-ruesselsheim.de/"
+street: Silberstraße
+housenumber: "7"
+phone: +49 6142 8754035
+opening_hours: Mo,Th 09:00-18:00; Fr 09:00-12:30,13:30-18:00; Sa 09:00-16:00
+website: https://autohof-ruesselsheim.de/

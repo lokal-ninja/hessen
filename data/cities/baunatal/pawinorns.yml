@@ -4,8 +4,8 @@ latitude: 51.25555
 longitude: 9.41507
 postcode: "34225"
 city: Baunatal
-street: "Marktplatz"
-housenumber: 1
+street: Marktplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-16:00
 website: ""

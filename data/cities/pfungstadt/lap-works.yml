@@ -1,11 +1,11 @@
 id: 180517186
-type: way
+type: node
 latitude: 49.80344
 longitude: 8.59707
 postcode: "64319"
 city: Pfungstadt
-street: "Eberstädter Straße"
-housenumber: 12
+street: Eberstädter Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00"
-website: "https://lap-works.de"
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00
+website: https://lap-works.de

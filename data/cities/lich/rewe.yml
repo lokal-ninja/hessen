@@ -1,11 +1,11 @@
 id: 1116401330
-type: way
+type: node
 latitude: 50.52266
 longitude: 8.81841
 postcode: "35423"
 city: Lich
-street: "Dietrich-Bonhoeffer-Straße"
-housenumber: 9
+street: Dietrich-Bonhoeffer-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

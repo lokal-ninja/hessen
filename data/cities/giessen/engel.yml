@@ -1,11 +1,11 @@
 id: 97886132
-type: way
+type: node
 latitude: 50.60373
 longitude: 8.70349
 postcode: "35396"
 city: Gießen
-street: "Karl-Benner-Straße"
-housenumber: 3
+street: Karl-Benner-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

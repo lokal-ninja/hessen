@@ -1,11 +1,11 @@
 id: 122169928
-type: way
+type: node
 latitude: 49.79977
 longitude: 9.00343
 postcode: "64739"
 city: Höchst im Odenwald
-street: "Dusenbacher Straße"
-housenumber: 62
+street: Dusenbacher Straße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.kik.de/

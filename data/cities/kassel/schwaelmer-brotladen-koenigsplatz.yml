@@ -4,8 +4,8 @@ latitude: 51.31689
 longitude: 9.49791
 postcode: "34117"
 city: Kassel
-street: "Königsplatz"
-housenumber: 61
+street: Königsplatz
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.schwaelmer-brotladen.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.schwaelmer-brotladen.de

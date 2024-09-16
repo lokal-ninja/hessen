@@ -1,11 +1,11 @@
 id: 222142592
-type: way
+type: node
 latitude: 50.14944
 longitude: 8.90665
 postcode: "63452"
 city: Hanau
-street: "Dörnigheimer Straße"
-housenumber: 16
+street: Dörnigheimer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

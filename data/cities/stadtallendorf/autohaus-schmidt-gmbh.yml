@@ -1,11 +1,11 @@
 id: 270434169
-type: way
+type: node
 latitude: 50.77179
 longitude: 8.95602
 postcode: "35260"
 city: Stadtallendorf
-street: "Biegenstraße"
-housenumber: 38
+street: Biegenstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://www.opelschmidt.de/"
+website: https://www.opelschmidt.de/

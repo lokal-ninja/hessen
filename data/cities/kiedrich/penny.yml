@@ -1,11 +1,11 @@
 id: 200909461
-type: way
+type: node
 latitude: 50.0396
 longitude: 8.08105
 postcode: "65399"
 city: Kiedrich
-street: "Sonnenlandstraße"
-housenumber: 48
+street: Sonnenlandstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
+opening_hours: Mo-Sa 07:30-20:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 719714204
-type: way
+type: node
 latitude: 49.72303
 longitude: 8.60247
 postcode: "64673"
 city: Zwingenberg
-street: "Gießer Weg"
-housenumber: 16
-phone: "+49 6251 70990"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00; Su off"
-website: "https://www.vogel-autohaus.de"
+street: Gießer Weg
+housenumber: "16"
+phone: +49 6251 70990
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00; Su off
+website: https://www.vogel-autohaus.de

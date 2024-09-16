@@ -4,8 +4,8 @@ latitude: 50.07724
 longitude: 8.23498
 postcode: "65185"
 city: Wiesbaden
-street: "Rheinstraße"
-housenumber: 74
-phone: "+49 611 60979465"
-opening_hours: "Mo-Fr 09:00-13:00, 13:30-17:00; Sa 09:00-13:00"
-website: "https://www.mp-edelmetalle.de"
+street: Rheinstraße
+housenumber: "74"
+phone: +49 611 60979465
+opening_hours: Mo-Fr 09:00-13:00, 13:30-17:00; Sa 09:00-13:00
+website: https://www.mp-edelmetalle.de

@@ -4,8 +4,8 @@ latitude: 50.05868
 longitude: 8.34136
 postcode: "65205"
 city: Wiesbaden
-street: "Siemensstraße"
-housenumber: 2
-phone: "+49 6122 5306390"
-opening_hours: "Tu-Sa 11:00-18:00"
-website: "https://www.indien-haus.de"
+street: Siemensstraße
+housenumber: "2"
+phone: +49 6122 5306390
+opening_hours: Tu-Sa 11:00-18:00
+website: https://www.indien-haus.de

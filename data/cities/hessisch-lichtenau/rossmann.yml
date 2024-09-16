@@ -1,11 +1,11 @@
 id: 324845775
-type: way
+type: node
 latitude: 51.19783
 longitude: 9.72849
 postcode: "37235"
 city: Hessisch Lichtenau
-street: "Ottilienstraße"
-housenumber: 3
+street: Ottilienstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
 website: ""

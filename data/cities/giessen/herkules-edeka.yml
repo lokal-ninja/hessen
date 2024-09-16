@@ -1,11 +1,11 @@
 id: 34497845
-type: way
+type: node
 latitude: 50.60144
 longitude: 8.68688
 postcode: "35396"
 city: Gießen
-street: "Marburger Straße"
-housenumber: 145
+street: Marburger Straße
+housenumber: "145"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

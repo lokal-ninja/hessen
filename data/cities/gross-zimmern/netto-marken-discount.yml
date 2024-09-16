@@ -1,11 +1,11 @@
 id: 147227648
-type: way
+type: node
 latitude: 49.88162
 longitude: 8.83177
 postcode: "64846"
 city: Groß-Zimmern
-street: "Dieburger Straße"
-housenumber: 112
+street: Dieburger Straße
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

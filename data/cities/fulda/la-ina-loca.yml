@@ -4,8 +4,8 @@ latitude: 50.55001
 longitude: 9.67742
 postcode: "36037"
 city: Fulda
-street: "Karlstraße"
-housenumber: 5
+street: Karlstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://lainaloca.com/"
+website: http://lainaloca.com/

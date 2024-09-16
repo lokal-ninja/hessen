@@ -1,11 +1,11 @@
 id: 1277726594
-type: way
+type: node
 latitude: 50.91303
 longitude: 9.18292
 postcode: "34613"
 city: Schwalmstadt
-street: "Walkmühlenweg"
-housenumber: 2
+street: Walkmühlenweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

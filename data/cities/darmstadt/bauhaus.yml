@@ -1,11 +1,11 @@
 id: 320125149
-type: way
+type: node
 latitude: 49.8877
 longitude: 8.64236
 postcode: "64293"
 city: Darmstadt
-street: "Otto-Röhm-Straße"
-housenumber: 50
-phone: "+49 6151 809090"
-opening_hours: "Mo-Sa 06:45-20:00"
-website: "https://www.bauhaus.info/"
+street: Otto-Röhm-Straße
+housenumber: "50"
+phone: +49 6151 809090
+opening_hours: Mo-Sa 06:45-20:00
+website: https://www.bauhaus.info/

@@ -1,11 +1,11 @@
 id: 141871033
-type: way
+type: node
 latitude: 50.55215
 longitude: 9.71905
 postcode: "36043"
 city: Fulda
-street: "Pacelliallee"
-housenumber: 42
+street: Pacelliallee
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

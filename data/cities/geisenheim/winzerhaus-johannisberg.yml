@@ -1,11 +1,11 @@
 id: 321468325
-type: way
+type: node
 latitude: 50.00544
 longitude: 7.97921
 postcode: "65366"
 city: Geisenheim
-street: "Rosengasse"
-housenumber: 25
-phone: "+49 6722 6782"
+street: Rosengasse
+housenumber: "25"
+phone: +49 6722 6782
 opening_hours: ""
-website: "http://www.winzerhaus-johannisberg.de/"
+website: http://www.winzerhaus-johannisberg.de/

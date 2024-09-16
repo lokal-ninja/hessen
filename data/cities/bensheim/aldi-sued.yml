@@ -1,11 +1,11 @@
 id: 27133735
-type: way
+type: node
 latitude: 49.70264
 longitude: 8.6115
 postcode: "64625"
 city: Bensheim
-street: "Berliner Ring"
-housenumber: 159
+street: Berliner Ring
+housenumber: "159"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

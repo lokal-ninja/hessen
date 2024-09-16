@@ -1,11 +1,11 @@
 id: 177904812
-type: way
+type: node
 latitude: 50.71514
 longitude: 9.222
 postcode: "36329"
 city: Romrod
-street: "Alsfelder Straße"
-housenumber: 27
+street: Alsfelder Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

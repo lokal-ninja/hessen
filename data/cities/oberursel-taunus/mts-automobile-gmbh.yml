@@ -1,11 +1,11 @@
 id: 664830598
-type: way
+type: node
 latitude: 50.19041
 longitude: 8.59583
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Frankfurter Landstraße"
-housenumber: 88
-phone: "+49 6171 95177100"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://mts-mobile.de/"
+street: Frankfurter Landstraße
+housenumber: "88"
+phone: +49 6171 95177100
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://mts-mobile.de/

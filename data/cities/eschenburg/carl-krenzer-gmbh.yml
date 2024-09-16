@@ -1,11 +1,11 @@
 id: 212737017
-type: way
+type: node
 latitude: 50.81729
 longitude: 8.34082
 postcode: "35713"
 city: Eschenburg
-street: "Berliner Straße"
-housenumber: 2
+street: Berliner Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

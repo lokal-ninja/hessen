@@ -1,11 +1,11 @@
 id: 188784580
-type: way
+type: node
 latitude: 49.70068
 longitude: 8.62205
 postcode: "64625"
 city: Bensheim
-street: "Darmstädter Straße"
-housenumber: 167
-phone: "+49 6251 9394977"
+street: Darmstädter Straße
+housenumber: "167"
+phone: +49 6251 9394977
 opening_hours: ""
-website: "https://www.haargold.online/"
+website: https://www.haargold.online/

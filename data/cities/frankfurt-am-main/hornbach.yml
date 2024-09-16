@@ -4,8 +4,8 @@ latitude: 50.19504
 longitude: 8.65476
 postcode: "60437"
 city: Frankfurt am Main
-street: "Züricher Straße"
-housenumber: 11
-phone: "+49 69 133848 0"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.hornbach.de/mein-markt/baumarkt-hornbach-frankfurt-niedereschbach/"
+street: Züricher Straße
+housenumber: "11"
+phone: +49 69 133848 0
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.hornbach.de/mein-markt/baumarkt-hornbach-frankfurt-niedereschbach/

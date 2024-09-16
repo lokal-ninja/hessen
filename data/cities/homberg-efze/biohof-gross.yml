@@ -4,8 +4,8 @@ latitude: 51.04332
 longitude: 9.37454
 postcode: "34576"
 city: Homberg (Efze)
-street: "Dorfbrunnen"
-housenumber: 1
-phone: "+49 5681 9390296"
-opening_hours: "Mo,We 10:00-13:00,15:00-18:30, Tu 10:00-13:00,Fr 09:00-18:30, Sa 09:00-13:00"
-website: "https://www.biohofgross.de"
+street: Dorfbrunnen
+housenumber: "1"
+phone: +49 5681 9390296
+opening_hours: Mo,We 10:00-13:00,15:00-18:30, Tu 10:00-13:00,Fr 09:00-18:30, Sa 09:00-13:00
+website: https://www.biohofgross.de

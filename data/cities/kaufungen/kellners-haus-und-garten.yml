@@ -4,8 +4,8 @@ latitude: 51.28302
 longitude: 9.63319
 postcode: "34260"
 city: Kaufungen
-street: "Leipziger Straße"
-housenumber: 452
-phone: "+49 5605 947415"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00"
-website: "https://www.kellner-kaufungen.de/"
+street: Leipziger Straße
+housenumber: "452"
+phone: +49 5605 947415
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-14:00
+website: https://www.kellner-kaufungen.de/

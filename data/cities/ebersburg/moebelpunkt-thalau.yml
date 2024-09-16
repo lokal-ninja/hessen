@@ -1,11 +1,11 @@
 id: 372375504
-type: way
+type: node
 latitude: 50.43852
 longitude: 9.78107
 postcode: "36157"
 city: Ebersburg
-street: "Kreuzbergstraße"
-housenumber: 48
+street: Kreuzbergstraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

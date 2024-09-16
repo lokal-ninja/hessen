@@ -1,11 +1,11 @@
 id: 48013113
-type: way
+type: node
 latitude: 50.1191
 longitude: 8.73444
 postcode: "60314"
 city: Frankfurt am Main
-street: "Hanauer Landstraße"
-housenumber: 294
+street: Hanauer Landstraße
+housenumber: "294"
 phone: ""
 opening_hours: ""
 website: ""

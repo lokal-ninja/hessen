@@ -1,11 +1,11 @@
 id: 179141339
-type: way
+type: node
 latitude: 50.09483
 longitude: 8.45972
 postcode: "65719"
 city: Hofheim am Taunus
-street: "In den Nassen"
-housenumber: 1
-phone: "+49 6192 2050"
+street: In den Nassen
+housenumber: "1"
+phone: +49 6192 2050
 opening_hours: ""
 website: ""

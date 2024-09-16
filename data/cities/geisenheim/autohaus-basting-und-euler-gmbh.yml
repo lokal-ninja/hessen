@@ -1,11 +1,11 @@
 id: 202250809
-type: way
+type: node
 latitude: 49.98842
 longitude: 7.98084
 postcode: "65366"
 city: Geisenheim
-street: "Chauvignystraße"
-housenumber: 26
+street: Chauvignystraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.opel-basting-euler-geisenheim.de/"
+website: https://www.opel-basting-euler-geisenheim.de/

@@ -1,11 +1,11 @@
 id: 137381896
-type: way
+type: node
 latitude: 50.29591
 longitude: 8.24902
 postcode: "65520"
 city: Bad Camberg
-street: "Otto-Hahn-Straße"
-housenumber: 34
+street: Otto-Hahn-Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 57728906
-type: way
+type: node
 latitude: 50.03547
 longitude: 8.25987
 postcode: "65203"
 city: Wiesbaden
-street: "Wiesbadener Landstraße"
-housenumber: 104
+street: Wiesbadener Landstraße
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-15:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 100467501
-type: way
+type: node
 latitude: 51.34105
 longitude: 9.47627
 postcode: "34127"
 city: Kassel
-street: "Holländische Straße"
+street: Holländische Straße
 housenumber: 203a
-phone: "+49 561 937151 0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.bauhaus.info/fachcentren/fachcentrum-kassel/fc/658"
+phone: +49 561 937151 0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.bauhaus.info/fachcentren/fachcentrum-kassel/fc/658

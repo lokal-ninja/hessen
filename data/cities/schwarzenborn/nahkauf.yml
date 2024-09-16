@@ -1,11 +1,11 @@
 id: 380401940
-type: way
+type: node
 latitude: 50.91368
 longitude: 9.44917
 postcode: "34639"
 city: Schwarzenborn
-street: "Eselsweg"
-housenumber: 2
+street: Eselsweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:00-14:00"
-website: "https://www.nahkauf.de/maerkte/schwarzenborn-44618621-buergerkooperation-knuell-eselsweg-2"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:00-14:00
+website: https://www.nahkauf.de/maerkte/schwarzenborn-44618621-buergerkooperation-knuell-eselsweg-2

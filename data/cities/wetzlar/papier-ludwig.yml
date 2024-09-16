@@ -1,11 +1,11 @@
 id: 399188164
-type: way
+type: node
 latitude: 50.53879
 longitude: 8.49926
 postcode: "35580"
 city: Wetzlar
-street: "Industriestraße"
-housenumber: 9
-phone: "+49 6441 9112-0"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:30-12:30"
-website: "https://palu-wetzlar.de"
+street: Industriestraße
+housenumber: "9"
+phone: +49 6441 9112-0
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:30-12:30
+website: https://palu-wetzlar.de

@@ -4,8 +4,8 @@ latitude: 50.11514
 longitude: 8.68261
 postcode: "60313"
 city: Frankfurt am Main
-street: "Stiftstraße"
-housenumber: 9
-phone: "+49 69 21028874"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00"
-website: "https://www.titus.de/shops/frankfurt/"
+street: Stiftstraße
+housenumber: "9"
+phone: +49 69 21028874
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-18:00
+website: https://www.titus.de/shops/frankfurt/

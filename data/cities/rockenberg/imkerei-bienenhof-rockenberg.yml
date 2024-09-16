@@ -1,11 +1,11 @@
 id: 50155810
-type: way
+type: node
 latitude: 50.42778
 longitude: 8.73356
 postcode: "35519"
 city: Rockenberg
-street: "Mühlgasse"
-housenumber: 10
+street: Mühlgasse
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.bienenhof-rockenberg.de"
+website: https://www.bienenhof-rockenberg.de

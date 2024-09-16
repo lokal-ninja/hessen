@@ -4,8 +4,8 @@ latitude: 50.79634
 longitude: 8.72627
 postcode: "35037"
 city: Marburg
-street: "Herrmannstraße"
-housenumber: 200
+street: Herrmannstraße
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://www.fotograf-in-marburg.de/"
+website: https://www.fotograf-in-marburg.de/

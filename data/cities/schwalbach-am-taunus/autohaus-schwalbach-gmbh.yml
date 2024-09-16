@@ -1,11 +1,11 @@
 id: 259400424
-type: way
+type: node
 latitude: 50.15642
 longitude: 8.52742
 postcode: ""
 city: Schwalbach am Taunus
-street: "Ostring"
+street: Ostring
 housenumber: 2-4
-phone: "+49 6196 3001"
+phone: +49 6196 3001
 opening_hours: ""
-website: "www.autohaus-schwalbach.de"
+website: www.autohaus-schwalbach.de

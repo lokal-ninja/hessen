@@ -4,8 +4,8 @@ latitude: 51.32221
 longitude: 9.45013
 postcode: "34130"
 city: Kassel
-street: "Zentgrafenstraße"
-housenumber: 93
+street: Zentgrafenstraße
+housenumber: "93"
 phone: ""
-opening_hours: "Tu 15:00-18:00, Fr 10:00-14:00"
-website: "https://www.nahtbeinaht.de/"
+opening_hours: Tu 15:00-18:00, Fr 10:00-14:00
+website: https://www.nahtbeinaht.de/

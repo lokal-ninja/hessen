@@ -1,11 +1,11 @@
 id: 359086571
-type: way
+type: node
 latitude: 50.02155
 longitude: 8.09568
 postcode: "65346"
 city: Eltville am Rhein
-street: "Taunusstraße"
-housenumber: 2
-phone: "+49 6123 63169"
+street: Taunusstraße
+housenumber: "2"
+phone: +49 6123 63169
 opening_hours: ""
-website: "https://www.weingut-crass.de/"
+website: https://www.weingut-crass.de/

@@ -1,11 +1,11 @@
 id: 118198049
-type: way
+type: node
 latitude: 49.69088
 longitude: 9.0044
 postcode: "64720"
 city: Michelstadt
-street: "Walther-Rathenau-Allee"
-housenumber: 25
+street: Walther-Rathenau-Allee
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

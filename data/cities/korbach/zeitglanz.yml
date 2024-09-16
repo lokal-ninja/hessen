@@ -4,8 +4,8 @@ latitude: 51.27455
 longitude: 8.87156
 postcode: "34497"
 city: Korbach
-street: "Professor-Bier-Straße"
-housenumber: 8
-phone: "+49 5631 2655"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://zeitglanz.de/"
+street: Professor-Bier-Straße
+housenumber: "8"
+phone: +49 5631 2655
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: https://zeitglanz.de/

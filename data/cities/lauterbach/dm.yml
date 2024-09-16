@@ -1,11 +1,11 @@
 id: 539698413
-type: way
+type: node
 latitude: 50.64426
 longitude: 9.38806
 postcode: "36341"
 city: Lauterbach
-street: "An der Gall"
-housenumber: 3
+street: An der Gall
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

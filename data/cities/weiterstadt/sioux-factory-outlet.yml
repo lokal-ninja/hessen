@@ -4,8 +4,8 @@ latitude: 49.89662
 longitude: 8.60979
 postcode: "64331"
 city: Weiterstadt
-street: "Friedrich-Schaefer-Straße"
-housenumber: 14
+street: Friedrich-Schaefer-Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00, Sa 10:00-18:00"
-website: "https://www.sioux.de/de/shops_foc.aspx"
+opening_hours: Mo-Fr 10:00-20:00, Sa 10:00-18:00
+website: https://www.sioux.de/de/shops_foc.aspx

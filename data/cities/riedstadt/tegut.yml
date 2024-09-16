@@ -1,11 +1,11 @@
 id: 193950063
-type: way
+type: node
 latitude: 49.85525
 longitude: 8.48626
 postcode: "64560"
 city: Riedstadt
-street: "Lise-Meitner-Straße"
-housenumber: 2
+street: Lise-Meitner-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-riedstadt-wolfskehlen-lise-meitneroppenheimer-str.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.tegut.com/maerkte/markt/tegut-riedstadt-wolfskehlen-lise-meitneroppenheimer-str.html

@@ -1,11 +1,11 @@
 id: 27511459
-type: way
+type: node
 latitude: 50.0156
 longitude: 8.79347
 postcode: "63128"
 city: Dietzenbach
-street: "Otto-Hahn-Straße"
-housenumber: 4
+street: Otto-Hahn-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

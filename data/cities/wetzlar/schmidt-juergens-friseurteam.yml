@@ -1,11 +1,11 @@
 id: 393505722
-type: way
+type: node
 latitude: 50.54428
 longitude: 8.53106
 postcode: "35578"
 city: Wetzlar
-street: "Tulpenweg"
-housenumber: 8
+street: Tulpenweg
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-14:00"
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-14:00
 website: ""

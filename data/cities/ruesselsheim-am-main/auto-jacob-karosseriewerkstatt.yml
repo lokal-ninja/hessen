@@ -1,11 +1,11 @@
 id: 228301726
-type: way
+type: node
 latitude: 49.9856
 longitude: 8.41409
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Hans-Sachs-Straße"
-housenumber: 7
+street: Hans-Sachs-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

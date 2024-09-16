@@ -1,11 +1,11 @@
 id: 107832963
-type: way
+type: node
 latitude: 50.58676
 longitude: 9.28576
 postcode: "36369"
 city: Lautertal
-street: "Rathausstraße"
-housenumber: 5
+street: Rathausstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 498299547
-type: way
+type: node
 latitude: 50.36781
 longitude: 8.74657
 postcode: "61231"
 city: Bad Nauheim
-street: "Bahnhofsallee"
-housenumber: 4
-phone: "+49 17634468433"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:30; Sa 10:00-14:00"
+street: Bahnhofsallee
+housenumber: "4"
+phone: +49 17634468433
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:30; Sa 10:00-14:00
 website: ""

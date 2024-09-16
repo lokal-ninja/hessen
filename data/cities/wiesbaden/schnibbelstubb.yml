@@ -4,8 +4,8 @@ latitude: 50.00171
 longitude: 8.30458
 postcode: "55246"
 city: Wiesbaden
-street: "Taunusstraße"
-housenumber: 17
-phone: "+49-6134-298765"
-opening_hours: "Tu,Fr 09:00-18:00; We,Sa 09:00-14:00; Th 09:00-19:00"
+street: Taunusstraße
+housenumber: "17"
+phone: +49-6134-298765
+opening_hours: Tu,Fr 09:00-18:00; We,Sa 09:00-14:00; Th 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.77158
 longitude: 8.64638
 postcode: "64342"
 city: Seeheim-Jugenheim
-street: "Friedrich-Ebert-Straße"
-housenumber: 12
-phone: "+49 6257 86070"
-opening_hours: "Mo-Fr 09:00-13:00; Mo,Tu,Th,Fr 14:00-18:30; Sa 09:30-13:00; Su off"
-website: "https://www.der.com/reisebuero/Seeheim-Jugenheim-Friedrich-Ebert-Strasse-12"
+street: Friedrich-Ebert-Straße
+housenumber: "12"
+phone: +49 6257 86070
+opening_hours: Mo-Fr 09:00-13:00; Mo,Tu,Th,Fr 14:00-18:30; Sa 09:30-13:00; Su off
+website: https://www.der.com/reisebuero/Seeheim-Jugenheim-Friedrich-Ebert-Strasse-12

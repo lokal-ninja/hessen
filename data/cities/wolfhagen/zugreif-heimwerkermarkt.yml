@@ -1,11 +1,11 @@
 id: 110599076
-type: way
+type: node
 latitude: 51.32063
 longitude: 9.18618
 postcode: "34466"
 city: Wolfhagen
-street: "Magdeburger Straße"
-housenumber: 2
+street: Magdeburger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.werkerswelt.de/"
+website: https://www.werkerswelt.de/

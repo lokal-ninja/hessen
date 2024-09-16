@@ -4,8 +4,8 @@ latitude: 50.01507
 longitude: 8.88888
 postcode: "63110"
 city: Rodgau
-street: "Hegelstraße"
-housenumber: 1
-phone: "+49 6106 2835910"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/rodgau/"
+street: Hegelstraße
+housenumber: "1"
+phone: +49 6106 2835910
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/rodgau/

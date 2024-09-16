@@ -4,8 +4,8 @@ latitude: 51.30854
 longitude: 9.5699
 postcode: "34266"
 city: Niestetal
-street: "Kasseler Straße"
-housenumber: 36
-phone: "+49 561 522200"
-opening_hours: "Mo,Sa 07:00-13:00; Tu-Th 07:00-13:00,15:00-18:00; Fr 07:00-18:00"
-website: "http://www.fleischerei-ullrich.com/"
+street: Kasseler Straße
+housenumber: "36"
+phone: +49 561 522200
+opening_hours: Mo,Sa 07:00-13:00; Tu-Th 07:00-13:00,15:00-18:00; Fr 07:00-18:00
+website: http://www.fleischerei-ullrich.com/

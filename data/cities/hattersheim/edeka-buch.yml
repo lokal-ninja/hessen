@@ -1,11 +1,11 @@
 id: 200989206
-type: way
+type: node
 latitude: 50.06624
 longitude: 8.49086
 postcode: "65795"
 city: Hattersheim
-street: "An der Taunuseisenbahn"
-housenumber: 7
-phone: "+49 6190 934170"
-opening_hours: "Mo-Sa 08:00-22:00"
+street: An der Taunuseisenbahn
+housenumber: "7"
+phone: +49 6190 934170
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

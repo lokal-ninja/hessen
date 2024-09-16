@@ -4,8 +4,8 @@ latitude: 50.39656
 longitude: 8.03472
 postcode: "65556"
 city: Limburg an der Lahn
-street: "Koblenzer Straße"
-housenumber: 105
+street: Koblenzer Straße
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.edeka.de/eh/hessenring/alexander-lehmann-koblenzer-str.-103-105/index.jsp"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.edeka.de/eh/hessenring/alexander-lehmann-koblenzer-str.-103-105/index.jsp

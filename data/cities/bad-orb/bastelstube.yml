@@ -1,11 +1,11 @@
 id: 66533855
-type: way
+type: node
 latitude: 50.22631
 longitude: 9.34896
 postcode: "63619"
 city: Bad Orb
-street: "Gretenbachstraße"
-housenumber: 11
+street: Gretenbachstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

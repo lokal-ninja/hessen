@@ -1,11 +1,11 @@
 id: 89706588
-type: way
+type: node
 latitude: 50.59491
 longitude: 8.71192
 postcode: "35394"
 city: Gießen
-street: "Oberlachweg"
-housenumber: 6
+street: Oberlachweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

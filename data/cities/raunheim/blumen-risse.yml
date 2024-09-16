@@ -1,11 +1,11 @@
 id: 209313729
-type: way
+type: node
 latitude: 50.01138
 longitude: 8.44154
 postcode: "65479"
 city: Raunheim
-street: "Anton-Flettner-Straße"
-housenumber: 7
-phone: "+49 6142 42029"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.blumen-risse.de"
+street: Anton-Flettner-Straße
+housenumber: "7"
+phone: +49 6142 42029
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.blumen-risse.de

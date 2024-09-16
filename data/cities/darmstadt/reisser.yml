@@ -1,11 +1,11 @@
 id: 136840849
-type: way
+type: node
 latitude: 49.88872
 longitude: 8.62131
 postcode: "64293"
 city: Darmstadt
-street: "Bunsenstraße"
-housenumber: 4
+street: Bunsenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.reisser.de/badausstellung-darmstadt/"
+website: https://www.reisser.de/badausstellung-darmstadt/

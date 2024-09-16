@@ -1,11 +1,11 @@
 id: 37406720
-type: way
+type: node
 latitude: 50.12328
 longitude: 8.73052
 postcode: "60386"
 city: Frankfurt am Main
-street: "Am Riederbruch"
-housenumber: 10
-phone: "+49 69 942030"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
-website: "https://www.metro.de/standorte/frankfurt-riederwald"
+street: Am Riederbruch
+housenumber: "10"
+phone: +49 69 942030
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
+website: https://www.metro.de/standorte/frankfurt-riederwald

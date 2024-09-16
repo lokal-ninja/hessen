@@ -4,8 +4,8 @@ latitude: 49.97738
 longitude: 8.42654
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Eisenstraße"
-housenumber: 31
-phone: "+49 6142 2206728"
-opening_hours: "Mo-Fr 08:30-12:30,13:15-18:00; Sa 09:00-13:00"
-website: "https://www.teile-service-ruesselsheim.de/"
+street: Eisenstraße
+housenumber: "31"
+phone: +49 6142 2206728
+opening_hours: Mo-Fr 08:30-12:30,13:15-18:00; Sa 09:00-13:00
+website: https://www.teile-service-ruesselsheim.de/

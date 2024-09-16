@@ -1,11 +1,11 @@
 id: 142894796
-type: way
+type: node
 latitude: 50.46309
 longitude: 8.13048
 postcode: "65614"
 city: Beselich
-street: "Hauptstraße"
-housenumber: 71
-phone: "+49 6484 6006"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.edeka.de/eh/hessenring/alexander-lehmann-hauptstr.-71/"
+street: Hauptstraße
+housenumber: "71"
+phone: +49 6484 6006
+opening_hours: Mo-Sa 08:00-22:00
+website: https://www.edeka.de/eh/hessenring/alexander-lehmann-hauptstr.-71/

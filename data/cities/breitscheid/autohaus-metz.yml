@@ -1,11 +1,11 @@
 id: 258275200
-type: way
+type: node
 latitude: 50.66488
 longitude: 8.17309
 postcode: "35767"
 city: Breitscheid
-street: "Heisterberger Weg"
-housenumber: 3
+street: Heisterberger Weg
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-metz.de/"
+website: https://www.autohaus-metz.de/

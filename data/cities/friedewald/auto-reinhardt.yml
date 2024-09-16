@@ -1,11 +1,11 @@
 id: 257265041
-type: way
+type: node
 latitude: 50.8802
 longitude: 9.8531
 postcode: "36289"
 city: Friedewald
-street: "Hersfelder Straße"
-housenumber: 8
-phone: "+49 6674 254"
+street: Hersfelder Straße
+housenumber: "8"
+phone: +49 6674 254
 opening_hours: ""
-website: "https://www.auto-reinhardt.de/index.html"
+website: https://www.auto-reinhardt.de/index.html

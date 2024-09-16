@@ -1,11 +1,11 @@
 id: 111650625
-type: way
+type: node
 latitude: 50.29594
 longitude: 8.24821
 postcode: "65520"
 city: Bad Camberg
-street: "Carl-Zeiss-Straße"
-housenumber: 2
+street: Carl-Zeiss-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

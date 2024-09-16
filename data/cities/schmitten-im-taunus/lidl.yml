@@ -1,11 +1,11 @@
 id: 352892258
-type: way
+type: node
 latitude: 50.23837
 longitude: 8.43391
 postcode: "61389"
 city: Schmitten im Taunus
-street: "Brunhildestraße"
-housenumber: 75
+street: Brunhildestraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

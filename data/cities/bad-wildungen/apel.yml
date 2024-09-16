@@ -4,8 +4,8 @@ latitude: 51.11587
 longitude: 9.12181
 postcode: "34537"
 city: Bad Wildungen
-street: "Oderhäuser Straße"
-housenumber: 10
+street: Oderhäuser Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
-website: "https://www.baeckerei-apel.de/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00
+website: https://www.baeckerei-apel.de/

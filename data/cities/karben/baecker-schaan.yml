@@ -1,11 +1,11 @@
 id: 316632488
-type: way
+type: node
 latitude: 50.23786
 longitude: 8.77166
 postcode: "61184"
 city: Karben
-street: "Burg-Gräfenröder-Straße"
-housenumber: 5
-phone: "+49 6039 3426"
-opening_hours: "Mo-Fr 06:00-13:00; We 06:00-13:00; Sa 06:00-12:30; Su 08:00-11:30"
-website: "https://www.schaan.de/"
+street: Burg-Gräfenröder-Straße
+housenumber: "5"
+phone: +49 6039 3426
+opening_hours: Mo-Fr 06:00-13:00; We 06:00-13:00; Sa 06:00-12:30; Su 08:00-11:30
+website: https://www.schaan.de/

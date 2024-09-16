@@ -1,11 +1,11 @@
 id: 422251843
-type: way
+type: node
 latitude: 50.53697
 longitude: 8.7245
 postcode: "35415"
 city: Pohlheim
-street: "Kurt-Schumacher-Straße"
-housenumber: 8
-phone: "+49 6403 61021"
+street: Kurt-Schumacher-Straße
+housenumber: "8"
+phone: +49 6403 61021
 opening_hours: ""
-website: "https://www.stielwerk-pohlheim.de/"
+website: https://www.stielwerk-pohlheim.de/

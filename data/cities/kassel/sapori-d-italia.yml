@@ -4,8 +4,8 @@ latitude: 51.31643
 longitude: 9.46538
 postcode: "34119"
 city: Kassel
-street: "Dörnbergstraße"
-housenumber: 1
-phone: "+49 561 47 49 524"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-15:00"
-website: "https://saporikassel.de/"
+street: Dörnbergstraße
+housenumber: "1"
+phone: +49 561 47 49 524
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-15:00
+website: https://saporikassel.de/

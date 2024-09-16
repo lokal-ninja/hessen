@@ -1,11 +1,11 @@
 id: 207600628
-type: way
+type: node
 latitude: 50.90338
 longitude: 8.53416
 postcode: "35216"
 city: Biedenkopf
-street: "Industriestraße"
-housenumber: 8
+street: Industriestraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-18:00
 website: ""

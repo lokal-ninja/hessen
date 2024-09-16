@@ -1,11 +1,11 @@
 id: 1150774633
-type: way
+type: node
 latitude: 51.1815
 longitude: 10.05967
 postcode: ""
 city: Eschwege
-street: "Gartenstraße"
-housenumber: 20
-phone: "+49 5651 331780"
-opening_hours: "Mo-Sa 07:00-18:00; Su 08:00-10:30"
-website: "https://landbaeckerei.de/"
+street: Gartenstraße
+housenumber: "20"
+phone: +49 5651 331780
+opening_hours: Mo-Sa 07:00-18:00; Su 08:00-10:30
+website: https://landbaeckerei.de/

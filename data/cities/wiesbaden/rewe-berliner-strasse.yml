@@ -1,11 +1,11 @@
 id: 961326400
-type: way
+type: node
 latitude: 50.05341
 longitude: 8.29993
 postcode: "65205"
 city: Wiesbaden
-street: "Berliner Straße"
+street: Berliner Straße
 housenumber: 277-279
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/wiesbaden-landeshauptstadt/562485/rewe-markt-berliner-strasse-277-279/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/wiesbaden-landeshauptstadt/562485/rewe-markt-berliner-strasse-277-279/

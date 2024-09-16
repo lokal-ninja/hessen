@@ -1,11 +1,11 @@
 id: 302794320
-type: way
+type: node
 latitude: 50.72773
 longitude: 8.29027
 postcode: "35683"
 city: Dillenburg
-street: "Königsberger Straße"
-housenumber: 9
-phone: "+49 2771 6467"
+street: Königsberger Straße
+housenumber: "9"
+phone: +49 2771 6467
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 48098270
-type: way
+type: node
 latitude: 50.12647
 longitude: 8.7523
 postcode: "60386"
 city: Frankfurt am Main
-street: "Hugo-Junkers-Straße"
-housenumber: 1
-phone: "+49 69 447044"
-opening_hours: "Mo-Sa 9:00-19:00"
-website: "https://www.moebelum.de/cms/"
+street: Hugo-Junkers-Straße
+housenumber: "1"
+phone: +49 69 447044
+opening_hours: Mo-Sa 9:00-19:00
+website: https://www.moebelum.de/cms/

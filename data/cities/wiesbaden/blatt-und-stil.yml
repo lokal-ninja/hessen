@@ -4,8 +4,8 @@ latitude: 50.07613
 longitude: 8.23546
 postcode: "65185"
 city: Wiesbaden
-street: "Adelheidstraße"
-housenumber: 65
-phone: "+49 611 1576968"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "http://www.blattundstil.de/"
+street: Adelheidstraße
+housenumber: "65"
+phone: +49 611 1576968
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: http://www.blattundstil.de/

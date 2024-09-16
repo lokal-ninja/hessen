@@ -4,8 +4,8 @@ latitude: 50.55554
 longitude: 8.43217
 postcode: "35606"
 city: Solms
-street: "Pestalozzistraße"
-housenumber: 41
-phone: "+49 6442 22 09 15"
+street: Pestalozzistraße
+housenumber: "41"
+phone: +49 6442 22 09 15
 opening_hours: ""
-website: "https://revierwelt.de"
+website: https://revierwelt.de

@@ -4,8 +4,8 @@ latitude: 50.56484
 longitude: 8.67584
 postcode: "35392"
 city: Gießen
-street: "Am Bergwerkswald"
-housenumber: 21
-phone: "+49 641 23173"
-opening_hours: "Mo,Tu,Th,Fr 10:30-18:30; We 08:00-14:00; Sa 11:30-15:30; PH off"
-website: "https://www.velo-vital.de/"
+street: Am Bergwerkswald
+housenumber: "21"
+phone: +49 641 23173
+opening_hours: Mo,Tu,Th,Fr 10:30-18:30; We 08:00-14:00; Sa 11:30-15:30; PH off
+website: https://www.velo-vital.de/

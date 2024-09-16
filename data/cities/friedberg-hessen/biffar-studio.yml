@@ -1,11 +1,11 @@
 id: 107899902
-type: way
+type: node
 latitude: 50.32983
 longitude: 8.75043
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Kaiserstraße"
-housenumber: 199
+street: Kaiserstraße
+housenumber: "199"
 phone: ""
 opening_hours: ""
 website: ""

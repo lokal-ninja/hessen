@@ -1,11 +1,11 @@
 id: 195442421
-type: way
+type: node
 latitude: 50.19965
 longitude: 8.25721
 postcode: "65510"
 city: Idstein
-street: "Am Frauwald"
-housenumber: 3
+street: Am Frauwald
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

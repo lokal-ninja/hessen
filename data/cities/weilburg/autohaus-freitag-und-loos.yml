@@ -1,11 +1,11 @@
 id: 1167721989
-type: way
+type: node
 latitude: 50.49043
 longitude: 8.25537
 postcode: "35781"
 city: Weilburg
-street: "An der Backstania"
-housenumber: 1
+street: An der Backstania
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

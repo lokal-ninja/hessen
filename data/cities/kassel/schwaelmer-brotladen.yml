@@ -4,8 +4,8 @@ latitude: 51.31368
 longitude: 9.43863
 postcode: "34131"
 city: Kassel
-street: "Wilhelmshöher Allee"
-housenumber: 291
+street: Wilhelmshöher Allee
+housenumber: "291"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-16:30; Su 07:00-17:30"
-website: "https://www.schwaelmer-brotladen.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:30-16:30; Su 07:00-17:30
+website: https://www.schwaelmer-brotladen.de/

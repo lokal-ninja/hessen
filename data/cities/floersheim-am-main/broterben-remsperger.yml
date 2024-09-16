@@ -4,8 +4,8 @@ latitude: 50.04457
 longitude: 8.43442
 postcode: "65439"
 city: Flörsheim am Main
-street: "Frankfurter Straße"
-housenumber: 28
-phone: "+49 6145 33135"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 08:00-13:00"
-website: "https://www.broterben.de/"
+street: Frankfurter Straße
+housenumber: "28"
+phone: +49 6145 33135
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su 08:00-13:00
+website: https://www.broterben.de/

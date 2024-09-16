@@ -4,8 +4,8 @@ latitude: 50.12982
 longitude: 8.91353
 postcode: "63450"
 city: Hanau
-street: "Steinheimer Straße"
-housenumber: 1
-phone: "+49 6181 4299388"
-opening_hours: "Th[1] 17:00-19:30, Sa[3] 14:00-17:00"
-website: "https://repaircafe-hanau.de/"
+street: Steinheimer Straße
+housenumber: "1"
+phone: +49 6181 4299388
+opening_hours: Th[1] 17:00-19:30, Sa[3] 14:00-17:00
+website: https://repaircafe-hanau.de/

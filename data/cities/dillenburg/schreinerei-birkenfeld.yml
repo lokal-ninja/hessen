@@ -1,11 +1,11 @@
 id: 92915001
-type: way
+type: node
 latitude: 50.73834
 longitude: 8.34654
 postcode: "35688"
 city: Dillenburg
-street: "Schelde-Lahn-Straße"
-housenumber: 72
+street: Schelde-Lahn-Straße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

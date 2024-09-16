@@ -4,8 +4,8 @@ latitude: 49.96186
 longitude: 8.95321
 postcode: "64832"
 city: Babenhausen
-street: "Schloßgasse"
-housenumber: 11
-phone: "+49 06073 712086"
-opening_hours: "Mo-Sa 09:30-12:30, Mo,Tu,Th,Fr 15:00-18:00"
-website: "https://weltlaeden.de/babenhausen/"
+street: Schloßgasse
+housenumber: "11"
+phone: +49 06073 712086
+opening_hours: Mo-Sa 09:30-12:30, Mo,Tu,Th,Fr 15:00-18:00
+website: https://weltlaeden.de/babenhausen/

@@ -4,8 +4,8 @@ latitude: 50.80471
 longitude: 8.76765
 postcode: "35037"
 city: Marburg
-street: "Liebigstraße"
-housenumber: 14
+street: Liebigstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Sa 10:00-15:00"
-website: "https://www.gruenwein.de/genussgenossenschaft/"
+opening_hours: Sa 10:00-15:00
+website: https://www.gruenwein.de/genussgenossenschaft/

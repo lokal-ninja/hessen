@@ -1,11 +1,11 @@
 id: 130450642
-type: way
+type: node
 latitude: 49.63891
 longitude: 8.57108
 postcode: "64653"
 city: Lorsch
-street: "Industriestraße"
-housenumber: 27
+street: Industriestraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

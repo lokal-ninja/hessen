@@ -1,11 +1,11 @@
 id: 241977637
-type: way
+type: node
 latitude: 50.64711
 longitude: 9.03537
 postcode: "35325"
 city: Mücke
-street: "Elpenröder Straße"
-housenumber: 21
+street: Elpenröder Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

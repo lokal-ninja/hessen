@@ -1,11 +1,11 @@
 id: 27687509
-type: way
+type: node
 latitude: 50.11256
 longitude: 8.80187
 postcode: "63075"
 city: Offenbach am Main
-street: "Karl-Herdt-Weg"
-housenumber: 100
+street: Karl-Herdt-Weg
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

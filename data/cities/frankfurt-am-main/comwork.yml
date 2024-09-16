@@ -4,8 +4,8 @@ latitude: 50.12248
 longitude: 8.69482
 postcode: "60316"
 city: Frankfurt am Main
-street: "Bornheimer Landstraße"
-housenumber: 49
+street: Bornheimer Landstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,15:00-19:00; Sa off"
+opening_hours: Mo-Fr 10:00-13:00,15:00-19:00; Sa off
 website: ""

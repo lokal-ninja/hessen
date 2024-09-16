@@ -1,11 +1,11 @@
 id: 293398289
-type: way
+type: node
 latitude: 51.31184
 longitude: 9.54335
 postcode: "34123"
 city: Kassel
-street: "Mündener Straße"
-housenumber: 25
-phone: "+49 561 707840"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; PH off"
-website: "https://www.kersting-online.de/"
+street: Mündener Straße
+housenumber: "25"
+phone: +49 561 707840
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; PH off
+website: https://www.kersting-online.de/

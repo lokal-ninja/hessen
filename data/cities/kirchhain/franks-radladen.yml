@@ -4,8 +4,8 @@ latitude: 50.82806
 longitude: 8.87919
 postcode: "35274"
 city: Kirchhain
-street: "Obergasse"
-housenumber: 28
-phone: "+49 6422 850868"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; We 10:00-13:00; Sa 09:00-13:00"
-website: "https://www.franks-rad-laden.de/"
+street: Obergasse
+housenumber: "28"
+phone: +49 6422 850868
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; We 10:00-13:00; Sa 09:00-13:00
+website: https://www.franks-rad-laden.de/

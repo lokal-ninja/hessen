@@ -1,11 +1,11 @@
 id: 200215656
-type: way
+type: node
 latitude: 50.76287
 longitude: 8.92223
 postcode: "35287"
 city: Amöneburg
-street: "Homberger Straße"
-housenumber: 15
+street: Homberger Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.aldi-nord.de/

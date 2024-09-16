@@ -1,11 +1,11 @@
 id: 120865580
-type: way
+type: node
 latitude: 49.66157
 longitude: 8.56144
 postcode: "64653"
 city: Lorsch
-street: "Ludwig-Erhard-Straße"
-housenumber: 15
+street: Ludwig-Erhard-Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://www.apovac.de/"
+website: http://www.apovac.de/

@@ -1,11 +1,11 @@
 id: 525340745
-type: way
+type: node
 latitude: 50.46389
 longitude: 8.13201
 postcode: "65614"
 city: Beselich
-street: "Hauptstraße"
-housenumber: 75
+street: Hauptstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off"
-website: "https://www.rossmann.de/de/filialen/hessen/beselich/hauptstr--75.html"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; Su off; PH off
+website: https://www.rossmann.de/de/filialen/hessen/beselich/hauptstr--75.html

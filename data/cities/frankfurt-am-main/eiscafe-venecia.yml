@@ -4,8 +4,8 @@ latitude: 50.1575
 longitude: 8.64532
 postcode: "60439"
 city: Frankfurt am Main
-street: "Heddernheimer Kirchstraße"
-housenumber: 28
-phone: "+49 69 578874"
-opening_hours: "Mo-Su 09:00-21:00"
+street: Heddernheimer Kirchstraße
+housenumber: "28"
+phone: +49 69 578874
+opening_hours: Mo-Su 09:00-21:00
 website: ""

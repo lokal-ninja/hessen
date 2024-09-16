@@ -1,11 +1,11 @@
 id: 688427345
-type: way
+type: node
 latitude: 51.40195
 longitude: 9.47086
 postcode: "34314"
 city: Espenau
-street: "Teichstraße"
-housenumber: 7
+street: Teichstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://busmanufaktur.de/"
+website: https://busmanufaktur.de/

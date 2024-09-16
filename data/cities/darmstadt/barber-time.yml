@@ -4,8 +4,8 @@ latitude: 49.85866
 longitude: 8.64418
 postcode: "64295"
 city: Darmstadt
-street: "Donnersbergring"
-housenumber: 43
-phone: "+49 163 9541842"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://www.barbertime.de/"
+street: Donnersbergring
+housenumber: "43"
+phone: +49 163 9541842
+opening_hours: Mo-Sa 10:00-20:00
+website: http://www.barbertime.de/

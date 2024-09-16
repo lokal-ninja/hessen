@@ -1,11 +1,11 @@
 id: 202628548
-type: way
+type: node
 latitude: 51.31335
 longitude: 9.52312
 postcode: "34123"
 city: Kassel
-street: "Königinhofstraße"
-housenumber: 78
-phone: "+4956150794-0"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-13:00"
-website: "https://shop.raiwa.net/Baustoffe/Kassel"
+street: Königinhofstraße
+housenumber: "78"
+phone: +4956150794-0
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-13:00
+website: https://shop.raiwa.net/Baustoffe/Kassel

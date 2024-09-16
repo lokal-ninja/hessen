@@ -4,8 +4,8 @@ latitude: 51.31598
 longitude: 9.47021
 postcode: "34119"
 city: Kassel
-street: "Friedrich-Ebert-Straße"
-housenumber: 119
-phone: "+49 561 18041"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-18:00; Su 08:00-18:00"
-website: "https://www.baecker-becker-kassel.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "119"
+phone: +49 561 18041
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-18:00; Su 08:00-18:00
+website: https://www.baecker-becker-kassel.de/

@@ -1,11 +1,11 @@
 id: 526087625
-type: way
+type: node
 latitude: 50.50468
 longitude: 8.00047
 postcode: "65599"
 city: Dornburg
-street: "Hauptstraße"
-housenumber: 54
+street: Hauptstraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

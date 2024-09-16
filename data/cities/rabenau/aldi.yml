@@ -1,11 +1,11 @@
 id: 96388921
-type: way
+type: node
 latitude: 50.67944
 longitude: 8.84864
 postcode: "35466"
 city: Rabenau
-street: "An der Mühle"
-housenumber: 9
+street: An der Mühle
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.aldi-nord.de/

@@ -4,8 +4,8 @@ latitude: 49.99182
 longitude: 8.41333
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Bahnhofsplatz"
-housenumber: 2
+street: Bahnhofsplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-14:00"
-website: "https://www.stadtwerke-ruesselsheim.de/kundenzentren"
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-14:00
+website: https://www.stadtwerke-ruesselsheim.de/kundenzentren

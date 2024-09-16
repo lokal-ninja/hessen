@@ -1,11 +1,11 @@
 id: 108859509
-type: way
+type: node
 latitude: 50.5753
 longitude: 9.19294
 postcode: "35327"
 city: Ulrichstein
-street: "Rittergasse"
-housenumber: 2
+street: Rittergasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

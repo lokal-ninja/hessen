@@ -4,8 +4,8 @@ latitude: 50.54342
 longitude: 8.41378
 postcode: "35606"
 city: Solms
-street: "Solmser Gewerbepark"
-housenumber: 21
-phone: "+49 6442 250 0303"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
-website: "https://home.mobile.de/CKAUTOMOBILESOLMS#ses"
+street: Solmser Gewerbepark
+housenumber: "21"
+phone: +49 6442 250 0303
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
+website: https://home.mobile.de/CKAUTOMOBILESOLMS#ses

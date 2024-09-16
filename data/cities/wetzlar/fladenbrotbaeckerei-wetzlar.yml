@@ -4,8 +4,8 @@ latitude: 50.57082
 longitude: 8.49908
 postcode: "35576"
 city: Wetzlar
-street: "Gutleutstraße"
-housenumber: 24
-phone: "+49 6441 31082"
-opening_hours: "Mo-Sa 06:00-19:00"
+street: Gutleutstraße
+housenumber: "24"
+phone: +49 6441 31082
+opening_hours: Mo-Sa 06:00-19:00
 website: ""

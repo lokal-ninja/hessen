@@ -1,11 +1,11 @@
 id: 825479845
-type: way
+type: node
 latitude: 51.18143
 longitude: 9.37982
 postcode: "34281"
 city: Gudensberg
-street: "Kasseler Straße"
-housenumber: 74
+street: Kasseler Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
-website: "https://www.nudelwelt.com/"
+website: https://www.nudelwelt.com/

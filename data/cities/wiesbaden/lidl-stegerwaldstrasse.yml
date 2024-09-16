@@ -1,11 +1,11 @@
 id: 53181573
-type: way
+type: node
 latitude: 50.07056
 longitude: 8.19751
 postcode: "65199"
 city: Wiesbaden
-street: "Stegerwaldstraße"
-housenumber: 24
+street: Stegerwaldstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.lidl.de/

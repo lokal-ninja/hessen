@@ -1,11 +1,11 @@
 id: 585409849
-type: way
+type: node
 latitude: 51.25542
 longitude: 8.93859
 postcode: "34497"
 city: Korbach
-street: "Sachsenhäuser Straße"
-housenumber: 18
-phone: "+49 5631 95870"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-17:00; Mo off"
-website: "https://moebelkreis.de/"
+street: Sachsenhäuser Straße
+housenumber: "18"
+phone: +49 5631 95870
+opening_hours: Tu-Fr 09:00-18:00, Sa 09:00-17:00; Mo off
+website: https://moebelkreis.de/

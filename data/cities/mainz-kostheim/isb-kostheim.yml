@@ -1,11 +1,11 @@
 id: 369630928
-type: way
+type: node
 latitude: 50.00276
 longitude: 8.29664
 postcode: "55246"
 city: Mainz-Kostheim
-street: "Kostheimer Landstraße"
-housenumber: 44
-phone: "+49 6134 1316"
+street: Kostheimer Landstraße
+housenumber: "44"
+phone: +49 6134 1316
 opening_hours: ""
-website: "https://www.isb-kostheim.de"
+website: https://www.isb-kostheim.de

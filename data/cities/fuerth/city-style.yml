@@ -4,8 +4,8 @@ latitude: 49.64963
 longitude: 8.77753
 postcode: "64658"
 city: Fürth
-street: "Hauptstraße"
-housenumber: 41
-phone: "+49 6253 930784"
-opening_hours: "Mo-Fr 09:30-12:00,13:00-18:00; Sa 11:00-12:00"
+street: Hauptstraße
+housenumber: "41"
+phone: +49 6253 930784
+opening_hours: Mo-Fr 09:30-12:00,13:00-18:00; Sa 11:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 583140735
-type: way
+type: node
 latitude: 50.57768
 longitude: 9.68094
 postcode: "36039"
 city: Fulda
-street: "Forststraße"
-housenumber: 3
+street: Forststraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

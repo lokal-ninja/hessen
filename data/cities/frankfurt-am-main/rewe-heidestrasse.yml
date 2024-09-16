@@ -1,11 +1,11 @@
 id: 152071476
-type: way
+type: node
 latitude: 50.1278
 longitude: 8.70765
 postcode: "60385"
 city: Frankfurt am Main
-street: "Heidestraße"
-housenumber: 137
-phone: "+49 69 46003627"
-opening_hours: "Mo-Fr 07:00-00:00; Sa 07:00-23:30"
-website: "https://www.rewe.de/marktseite/frankfurt-bornheim/240197/rewe-markt-heidestr-137/"
+street: Heidestraße
+housenumber: "137"
+phone: +49 69 46003627
+opening_hours: Mo-Fr 07:00-00:00; Sa 07:00-23:30
+website: https://www.rewe.de/marktseite/frankfurt-bornheim/240197/rewe-markt-heidestr-137/

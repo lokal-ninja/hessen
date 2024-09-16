@@ -1,11 +1,11 @@
 id: 306391474
-type: way
+type: node
 latitude: 50.65178
 longitude: 9.25968
 postcode: "36318"
 city: Schwalmtal
-street: "Meicheser Straße"
-housenumber: 53
+street: Meicheser Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

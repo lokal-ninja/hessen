@@ -4,8 +4,8 @@ latitude: 50.55079
 longitude: 8.46747
 postcode: "35578"
 city: Wetzlar
-street: "Alte Straße"
-housenumber: 5
-phone: "+49 6441 378080"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.expert.de/wetzlar"
+street: Alte Straße
+housenumber: "5"
+phone: +49 6441 378080
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.expert.de/wetzlar

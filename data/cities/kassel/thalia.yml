@@ -4,8 +4,8 @@ latitude: 51.31492
 longitude: 9.49686
 postcode: "34117"
 city: Kassel
-street: "Obere Königsstraße"
-housenumber: 30
-phone: "+49 561 3109720"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.thalia.de/shop/home/filialen/showDetails/5018/"
+street: Obere Königsstraße
+housenumber: "30"
+phone: +49 561 3109720
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.thalia.de/shop/home/filialen/showDetails/5018/

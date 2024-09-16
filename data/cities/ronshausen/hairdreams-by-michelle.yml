@@ -1,11 +1,11 @@
 id: 1001793105
-type: way
+type: node
 latitude: 50.94752
 longitude: 9.85822
 postcode: "36217"
 city: Ronshausen
-street: "Neue Straße"
-housenumber: 2
-phone: "+49 6622 9160088"
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.hairdreamsbymichelle.de/"
+street: Neue Straße
+housenumber: "2"
+phone: +49 6622 9160088
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.hairdreamsbymichelle.de/

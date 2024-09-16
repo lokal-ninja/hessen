@@ -4,8 +4,8 @@ latitude: 50.17991
 longitude: 9.23115
 postcode: ""
 city: Linsengericht
-street: "Dorfstraße"
-housenumber: 17
+street: Dorfstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mar-Oct: Mo-Fr 10:00-12:00,13:00-18:00"
-website: "https://motorrad-tischler.de/"
+opening_hours: 'Mar-Oct: Mo-Fr 10:00-12:00,13:00-18:00'
+website: https://motorrad-tischler.de/

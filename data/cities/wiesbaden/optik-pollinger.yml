@@ -4,8 +4,8 @@ latitude: 50.08061
 longitude: 8.23327
 postcode: "65183"
 city: Wiesbaden
-street: "Bleichstraße"
-housenumber: 22
-phone: "+49 611 374448"
+street: Bleichstraße
+housenumber: "22"
+phone: +49 611 374448
 opening_hours: ""
-website: "https://franz-pollinger.de"
+website: https://franz-pollinger.de

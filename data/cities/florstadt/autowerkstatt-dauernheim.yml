@@ -1,11 +1,11 @@
 id: 502848558
-type: way
+type: node
 latitude: 50.31525
 longitude: 8.85404
 postcode: "61197"
 city: Florstadt
-street: "Basaltstraße"
-housenumber: 15
+street: Basaltstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

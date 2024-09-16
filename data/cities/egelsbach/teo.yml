@@ -1,11 +1,11 @@
 id: 1266802731
-type: way
+type: node
 latitude: 49.96744
 longitude: 8.66515
 postcode: "63329"
 city: Egelsbach
-street: "Am Berliner Platz"
-housenumber: 
+street: Am Berliner Platz
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 00:00-24:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-egelsbach-am-berliner-platz.html"
+opening_hours: Mo-Sa 00:00-24:00
+website: https://www.tegut.com/maerkte/markt/tegut-egelsbach-am-berliner-platz.html

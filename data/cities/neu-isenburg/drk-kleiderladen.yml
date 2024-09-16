@@ -4,8 +4,8 @@ latitude: 50.05311
 longitude: 8.69028
 postcode: "63263"
 city: Neu-Isenburg
-street: "Bahnhofstraße"
-housenumber: 23
-phone: "+49 6102 8827857"
-opening_hours: "Mo-Fr 10:00-12:00, 15:00-17:00; Sa 09:30-11:30"
+street: Bahnhofstraße
+housenumber: "23"
+phone: +49 6102 8827857
+opening_hours: Mo-Fr 10:00-12:00, 15:00-17:00; Sa 09:30-11:30
 website: ""

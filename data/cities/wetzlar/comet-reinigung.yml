@@ -4,8 +4,8 @@ latitude: 50.55947
 longitude: 8.49948
 postcode: "35576"
 city: Wetzlar
-street: "Karl-Kellner-Ring"
-housenumber: 43
-phone: "+49 6441 47987"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00"
+street: Karl-Kellner-Ring
+housenumber: "43"
+phone: +49 6441 47987
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00
 website: ""

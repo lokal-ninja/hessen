@@ -4,8 +4,8 @@ latitude: 50.22911
 longitude: 8.76201
 postcode: "61184"
 city: Karben
-street: "Industriestraße"
-housenumber: 18
-phone: "+49 6039 9920500"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://kfz-georgis.de/"
+street: Industriestraße
+housenumber: "18"
+phone: +49 6039 9920500
+opening_hours: Mo-Fr 08:00-18:00
+website: https://kfz-georgis.de/

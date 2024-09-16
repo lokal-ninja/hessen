@@ -1,11 +1,11 @@
 id: 594334022
-type: way
+type: node
 latitude: 51.34323
 longitude: 9.85741
 postcode: "37213"
 city: Witzenhausen
-street: "Brückenstraße"
-housenumber: 7
+street: Brückenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Mo,Sa off"
+opening_hours: Tu-Fr 08:00-18:00; Mo,Sa off
 website: ""

@@ -1,11 +1,11 @@
 id: 268414999
-type: way
+type: node
 latitude: 51.12125
 longitude: 9.1382
 postcode: "34537"
 city: Bad Wildungen
-street: "Berliner Straße"
-housenumber: 7
-phone: "+49 5621 9640091"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00; PH closed"
-website: "http://www.onyx-cycle.eu/"
+street: Berliner Straße
+housenumber: "7"
+phone: +49 5621 9640091
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 10:00-13:00; PH closed
+website: http://www.onyx-cycle.eu/

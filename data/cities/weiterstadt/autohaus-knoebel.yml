@@ -1,11 +1,11 @@
 id: 99192565
-type: way
+type: node
 latitude: 49.9266
 longitude: 8.60241
 postcode: "64331"
 city: Weiterstadt
-street: "Darmstädter Landstraße"
-housenumber: 61
+street: Darmstädter Landstraße
+housenumber: "61"
 phone: ""
 opening_hours: ""
-website: "https://www.autopro.de/autohaus-knoebel/"
+website: https://www.autopro.de/autohaus-knoebel/

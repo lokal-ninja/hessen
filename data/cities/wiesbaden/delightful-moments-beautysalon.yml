@@ -4,8 +4,8 @@ latitude: 50.07778
 longitude: 8.23567
 postcode: "65185"
 city: Wiesbaden
-street: "Rheinstraße"
-housenumber: 71
-phone: "+49 611 51016499"
-opening_hours: "Tu-Fr 10:00-19:00,Sa 10:00-18:00"
-website: "https://delightful-moment.de"
+street: Rheinstraße
+housenumber: "71"
+phone: +49 611 51016499
+opening_hours: Tu-Fr 10:00-19:00,Sa 10:00-18:00
+website: https://delightful-moment.de

@@ -4,8 +4,8 @@ latitude: 50.0745
 longitude: 8.23901
 postcode: "65185"
 city: Wiesbaden
-street: "Albrechtstraße"
-housenumber: 25
-phone: "+49 611 16894042"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Albrechtstraße
+housenumber: "25"
+phone: +49 611 16894042
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

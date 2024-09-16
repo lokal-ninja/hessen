@@ -1,11 +1,11 @@
 id: 913481559
-type: way
+type: node
 latitude: 50.58861
 longitude: 8.66792
 postcode: "35390"
 city: Gießen
-street: "Zu den Mühlen"
-housenumber: 13
+street: Zu den Mühlen
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

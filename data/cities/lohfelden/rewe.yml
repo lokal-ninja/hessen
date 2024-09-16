@@ -1,11 +1,11 @@
 id: 78611059
-type: way
+type: node
 latitude: 51.2723
 longitude: 9.55051
 postcode: "34253"
 city: Lohfelden
-street: "Lange Straße"
-housenumber: 10
-phone: "+49 561 99797600"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/lohfelden/840439/rewe-markt-lange-strasse-10/"
+street: Lange Straße
+housenumber: "10"
+phone: +49 561 99797600
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/lohfelden/840439/rewe-markt-lange-strasse-10/

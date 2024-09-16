@@ -4,8 +4,8 @@ latitude: 50.11216
 longitude: 8.67968
 postcode: "60311"
 city: Frankfurt am Main
-street: "Kornmarkt"
-housenumber: 10
+street: Kornmarkt
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 10:30-17:00; Sa 10:00-16:00"
-website: "https://www.tabakhaus-buettner.de/"
+opening_hours: Mo-Fr 10:30-17:00; Sa 10:00-16:00
+website: https://www.tabakhaus-buettner.de/

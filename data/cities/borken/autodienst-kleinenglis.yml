@@ -1,11 +1,11 @@
 id: 714460822
-type: way
+type: node
 latitude: 51.07002
 longitude: 9.25909
 postcode: "34582"
 city: Borken
-street: "Sellenweg"
-housenumber: 12
+street: Sellenweg
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.autodienstkleinenglis.de/"
+website: https://www.autodienstkleinenglis.de/

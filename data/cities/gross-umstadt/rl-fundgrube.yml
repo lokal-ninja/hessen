@@ -1,11 +1,11 @@
 id: 281885262
-type: way
+type: node
 latitude: 49.86196
 longitude: 8.92127
 postcode: "64823"
 city: Groß-Umstadt
-street: "Spremberger Straße"
-housenumber: 9
+street: Spremberger Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

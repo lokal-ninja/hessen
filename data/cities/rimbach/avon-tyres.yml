@@ -1,11 +1,11 @@
 id: 97243136
-type: way
+type: node
 latitude: 49.61856
 longitude: 8.7591
 postcode: "64668"
 city: Rimbach
-street: "Zotzenbacher Weg"
+street: Zotzenbacher Weg
 housenumber: 7-11
-phone: "+49 6253 64668"
+phone: +49 6253 64668
 opening_hours: ""
-website: "http://www.avon-renndienst.de/"
+website: http://www.avon-renndienst.de/

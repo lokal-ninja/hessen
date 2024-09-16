@@ -4,8 +4,8 @@ latitude: 49.65309
 longitude: 8.45381
 postcode: "68642"
 city: Bürstadt
-street: "Mainstraße"
-housenumber: 137
-phone: "+49 6206 9096090"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-krebs-mainstra%C3%9Fe-137/index.jsp"
+street: Mainstraße
+housenumber: "137"
+phone: +49 6206 9096090
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-krebs-mainstra%C3%9Fe-137/index.jsp

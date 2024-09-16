@@ -4,8 +4,8 @@ latitude: 50.00592
 longitude: 8.30148
 postcode: "55246"
 city: Wiesbaden
-street: "Hallgarter Straße"
-housenumber: 27
-phone: "+49 6134 3534"
-opening_hours: "Mo-Fr 05:30-13:30; Sa 05:30-12:00"
+street: Hallgarter Straße
+housenumber: "27"
+phone: +49 6134 3534
+opening_hours: Mo-Fr 05:30-13:30; Sa 05:30-12:00
 website: ""

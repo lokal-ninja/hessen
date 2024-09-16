@@ -4,8 +4,8 @@ latitude: 51.2725
 longitude: 9.97438
 postcode: "37242"
 city: Bad Sooden-Allendorf
-street: "Kirchstraße"
-housenumber: 65
-phone: "+49 5652 918049"
-opening_hours: "Mo-Fr 09:30-13:00, 14:00-18:00; Sa 09:30-13:00"
-website: "https://charisma-store.de/"
+street: Kirchstraße
+housenumber: "65"
+phone: +49 5652 918049
+opening_hours: Mo-Fr 09:30-13:00, 14:00-18:00; Sa 09:30-13:00
+website: https://charisma-store.de/

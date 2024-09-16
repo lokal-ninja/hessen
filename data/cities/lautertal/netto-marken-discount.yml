@@ -1,11 +1,11 @@
 id: 160841991
-type: way
+type: node
 latitude: 49.71667
 longitude: 8.71238
 postcode: "64686"
 city: Lautertal
-street: "Nibelungenstraße"
-housenumber: 439
+street: Nibelungenstraße
+housenumber: "439"
 phone: ""
-opening_hours: "closed"
+opening_hours: closed
 website: ""

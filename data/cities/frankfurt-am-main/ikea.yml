@@ -4,8 +4,8 @@ latitude: 50.19583
 longitude: 8.65687
 postcode: "60437"
 city: Frankfurt am Main
-street: "Züricher Straße"
-housenumber: 7
+street: Züricher Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
-website: "https://www.ikea.com/de/de/store/frankfurt"
+opening_hours: Mo-Sa 10:00-21:00
+website: https://www.ikea.com/de/de/store/frankfurt

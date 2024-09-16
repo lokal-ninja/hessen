@@ -1,11 +1,11 @@
 id: 58214047
-type: way
+type: node
 latitude: 49.8213
 longitude: 8.68883
 postcode: "64367"
 city: Mühltal
-street: "Rheinstraße"
-housenumber: 39
+street: Rheinstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

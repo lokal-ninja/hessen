@@ -4,8 +4,8 @@ latitude: 50.69125
 longitude: 9.74723
 postcode: "36151"
 city: Burghaun
-street: "Am Grubener Weg"
-housenumber: 5
-phone: "+49 6652 9921528"
-opening_hours: "ca. 9 bis 18 Uhr"
-website: "https://motor-sport-service.de"
+street: Am Grubener Weg
+housenumber: "5"
+phone: +49 6652 9921528
+opening_hours: '"ca. 9 bis 18 Uhr"'
+website: https://motor-sport-service.de

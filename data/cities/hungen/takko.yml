@@ -1,11 +1,11 @@
 id: 408330429
-type: way
+type: node
 latitude: 50.47752
 longitude: 8.90208
 postcode: "35410"
 city: Hungen
-street: "Untertorstraße"
-housenumber: 42
+street: Untertorstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

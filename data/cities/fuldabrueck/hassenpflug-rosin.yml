@@ -1,11 +1,11 @@
 id: 724521028
-type: way
+type: node
 latitude: 51.25088
 longitude: 9.48808
 postcode: "34277"
 city: Fuldabrück
-street: "Dorfstraße"
-housenumber: 2
-phone: "+49 561 44160"
-opening_hours: "Mo-Th 08:00-17:00, Fr 08:00-16:00"
-website: "https://kfz-rosin.de"
+street: Dorfstraße
+housenumber: "2"
+phone: +49 561 44160
+opening_hours: Mo-Th 08:00-17:00, Fr 08:00-16:00
+website: https://kfz-rosin.de

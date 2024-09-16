@@ -1,11 +1,11 @@
 id: 220060530
-type: way
+type: node
 latitude: 50.7735
 longitude: 8.30087
 postcode: "35684"
 city: Dillenburg
-street: "Hauptstraße"
-housenumber: 61
+street: Hauptstraße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

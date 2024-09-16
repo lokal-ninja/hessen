@@ -4,8 +4,8 @@ latitude: 50.55484
 longitude: 8.39634
 postcode: "35606"
 city: Solms
-street: "Am Rotdorn"
-housenumber: 2
+street: Am Rotdorn
+housenumber: "2"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

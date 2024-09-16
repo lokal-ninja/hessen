@@ -1,11 +1,11 @@
 id: 151708598
-type: way
+type: node
 latitude: 50.25597
 longitude: 8.36118
 postcode: "65529"
 city: Waldems
-street: "Am Wäldchen"
-housenumber: 5
+street: Am Wäldchen
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

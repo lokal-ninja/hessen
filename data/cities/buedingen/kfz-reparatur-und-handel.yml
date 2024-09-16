@@ -4,8 +4,8 @@ latitude: 50.32852
 longitude: 9.18624
 postcode: "63654"
 city: Büdingen
-street: "Am Kaspersberg"
-housenumber: 25
-phone: "+49 6049 1892"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 09:00-13:00"
-website: "https://www.kfz-wlutz.de/leistungen/"
+street: Am Kaspersberg
+housenumber: "25"
+phone: +49 6049 1892
+opening_hours: Mo-Fr 08:00-17:30; Sa 09:00-13:00
+website: https://www.kfz-wlutz.de/leistungen/

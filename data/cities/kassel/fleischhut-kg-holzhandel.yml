@@ -1,11 +1,11 @@
 id: 202628297
-type: way
+type: node
 latitude: 51.32973
 longitude: 9.50203
 postcode: "34127"
 city: Kassel
-street: "Fiedlerstraße"
-housenumber: 8
-phone: "+49 561 8795 0"
-opening_hours: "Mo-Fr 07:45-16:30"
-website: "https://www.holz-fleischhut.de/"
+street: Fiedlerstraße
+housenumber: "8"
+phone: +49 561 8795 0
+opening_hours: Mo-Fr 07:45-16:30
+website: https://www.holz-fleischhut.de/

@@ -1,11 +1,11 @@
 id: 209537413
-type: way
+type: node
 latitude: 49.98923
 longitude: 8.67649
 postcode: "63225"
 city: Langen (Hessen)
-street: "Rheinstraße"
-housenumber: 31
+street: Rheinstraße
+housenumber: "31"
 phone: "+496103922145"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.tegut.com/maerkte/markt/tegut-langen-rheinstr-31.html"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.tegut.com/maerkte/markt/tegut-langen-rheinstr-31.html

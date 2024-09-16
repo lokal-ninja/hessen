@@ -1,11 +1,11 @@
 id: 203498440
-type: way
+type: node
 latitude: 51.31274
 longitude: 9.5143
 postcode: ""
 city: Kassel
-street: "Dresdener Straße"
-housenumber: 5
+street: Dresdener Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

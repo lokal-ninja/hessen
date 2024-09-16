@@ -4,8 +4,8 @@ latitude: 51.21336
 longitude: 9.01301
 postcode: "34513"
 city: Waldeck
-street: "Uferstraße"
-housenumber: 3
-phone: "+49 56 34 994384"
-opening_hours: "Mo-Fr 08:00-16:30,Sa 10:00-12:00"
-website: "https://www.yachtservice-edersee.de"
+street: Uferstraße
+housenumber: "3"
+phone: +49 56 34 994384
+opening_hours: Mo-Fr 08:00-16:30,Sa 10:00-12:00
+website: https://www.yachtservice-edersee.de

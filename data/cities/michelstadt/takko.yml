@@ -1,11 +1,11 @@
 id: 89555951
-type: way
+type: node
 latitude: 49.67601
 longitude: 9.00087
 postcode: "64720"
 city: Michelstadt
-street: "Friedrich-Ebert-Straße"
+street: Friedrich-Ebert-Straße
 housenumber: 15-17
-phone: "+49 6061 703593"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.takko.de/"
+phone: +49 6061 703593
+opening_hours: Mo-Sa 09:00-21:00
+website: https://www.takko.de/

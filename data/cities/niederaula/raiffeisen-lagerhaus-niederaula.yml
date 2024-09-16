@@ -1,11 +1,11 @@
 id: 172176744
-type: way
+type: node
 latitude: 50.79673
 longitude: 9.59984
 postcode: "36272"
 city: Niederaula
-street: "Schlitzer Straße"
-housenumber: 45
+street: Schlitzer Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

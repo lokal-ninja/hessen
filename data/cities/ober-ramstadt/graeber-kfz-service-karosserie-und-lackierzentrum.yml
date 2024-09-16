@@ -1,11 +1,11 @@
 id: 37679072
-type: way
+type: node
 latitude: 49.84039
 longitude: 8.74479
 postcode: "64372"
 city: Ober-Ramstadt
-street: "Im Seesengrund"
-housenumber: 19
+street: Im Seesengrund
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-15:00"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-15:00
 website: ""

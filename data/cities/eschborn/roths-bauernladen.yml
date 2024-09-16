@@ -4,8 +4,8 @@ latitude: 50.14291
 longitude: 8.57051
 postcode: "65760"
 city: Eschborn
-street: "Unterortstraße"
-housenumber: 20
-phone: "+49 6196 44948"
-opening_hours: "Mo,Tu,Th,Fr 09:30-12:30,15:00-18:00; Sa 09:00-13:00"
-website: "https://www.bauernladen-roth.de"
+street: Unterortstraße
+housenumber: "20"
+phone: +49 6196 44948
+opening_hours: Mo,Tu,Th,Fr 09:30-12:30,15:00-18:00; Sa 09:00-13:00
+website: https://www.bauernladen-roth.de

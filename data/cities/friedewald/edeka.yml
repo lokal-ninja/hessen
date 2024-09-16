@@ -1,11 +1,11 @@
 id: 61496024
-type: way
+type: node
 latitude: 50.88401
 longitude: 9.86595
 postcode: "36289"
 city: Friedewald
-street: "Herfaer Straße"
-housenumber: 4
+street: Herfaer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

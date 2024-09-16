@@ -1,11 +1,11 @@
 id: 994003831
-type: way
+type: node
 latitude: 49.87217
 longitude: 8.65138
 postcode: "64283"
 city: Darmstadt
-street: "Luisenstraße"
-housenumber: 
+street: Luisenstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 215116878
-type: way
+type: node
 latitude: 50.67939
 longitude: 8.84711
 postcode: "35466"
 city: Rabenau
-street: "An der Mühle"
-housenumber: 13
+street: An der Mühle
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

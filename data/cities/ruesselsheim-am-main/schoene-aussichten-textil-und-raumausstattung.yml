@@ -1,11 +1,11 @@
 id: 355786016
-type: way
+type: node
 latitude: 49.99193
 longitude: 8.42086
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Königstädter Straße"
-housenumber: 83
+street: Königstädter Straße
+housenumber: "83"
 phone: ""
 opening_hours: ""
-website: "https://www.schoeneaussichten.info/index.html"
+website: https://www.schoeneaussichten.info/index.html

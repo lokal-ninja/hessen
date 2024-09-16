@@ -4,8 +4,8 @@ latitude: 51.23223
 longitude: 9.57893
 postcode: "34320"
 city: Söhrewald
-street: "Wattenbacher Straße"
-housenumber: 51
-phone: "+49 561 2026070"
-opening_hours: "Mo-Fr 07:00-19:30; Sa 07:00-18:00; Su 08:00-11:00"
-website: "http://www.baeckerei-apel.de/"
+street: Wattenbacher Straße
+housenumber: "51"
+phone: +49 561 2026070
+opening_hours: Mo-Fr 07:00-19:30; Sa 07:00-18:00; Su 08:00-11:00
+website: http://www.baeckerei-apel.de/

@@ -4,8 +4,8 @@ latitude: 49.8581
 longitude: 8.65143
 postcode: "64285"
 city: Darmstadt
-street: "Bessunger Straße"
-housenumber: 53
+street: Bessunger Straße
+housenumber: "53"
 phone: "+4961518053915"
-opening_hours: "Tu 16:00-18:00; Th 10:00-12:00,16:00-18:00"
-website: "https://aniko-kaffee.de"
+opening_hours: Tu 16:00-18:00; Th 10:00-12:00,16:00-18:00
+website: https://aniko-kaffee.de

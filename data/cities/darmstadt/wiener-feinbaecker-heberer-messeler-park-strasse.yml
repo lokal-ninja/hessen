@@ -1,11 +1,11 @@
 id: 1104887549
-type: way
+type: node
 latitude: 49.93127
 longitude: 8.65881
 postcode: "64291"
 city: Darmstadt
-street: "Messeler-Park-Straße"
-housenumber: 111
-phone: "+49 6150 5446133"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-18:00, Su 06:30-17:00"
+street: Messeler-Park-Straße
+housenumber: "111"
+phone: +49 6150 5446133
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-18:00, Su 06:30-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.42686
 longitude: 9.1984
 postcode: "63688"
 city: Gedern
-street: "Lauterbacher Straße"
-housenumber: 44
+street: Lauterbacher Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:15,13:45-18:00; We,Sa 08:00-13:00"
-website: "https://hwg-radsport.de/"
+opening_hours: Mo-Fr 08:00-12:15,13:45-18:00; We,Sa 08:00-13:00
+website: https://hwg-radsport.de/

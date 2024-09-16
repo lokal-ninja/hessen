@@ -4,8 +4,8 @@ latitude: 51.41005
 longitude: 9.40015
 postcode: "34379"
 city: Calden
-street: "Schachter Straße"
-housenumber: 1
-phone: "+49 5674 7991"
-opening_hours: "Tu,We 09:00-18:00; Th,Fr 09:00-20:00"
+street: Schachter Straße
+housenumber: "1"
+phone: +49 5674 7991
+opening_hours: Tu,We 09:00-18:00; Th,Fr 09:00-20:00
 website: ""

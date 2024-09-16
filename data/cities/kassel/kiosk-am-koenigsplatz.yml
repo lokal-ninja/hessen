@@ -1,11 +1,11 @@
 id: 698236866
-type: way
+type: node
 latitude: 51.31569
 longitude: 9.4976
 postcode: "34117"
 city: Kassel
-street: "Königsplatz"
-housenumber: 
+street: Königsplatz
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

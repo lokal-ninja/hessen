@@ -1,11 +1,11 @@
 id: 172063213
-type: way
+type: node
 latitude: 50.41254
 longitude: 9.00962
 postcode: "63667"
 city: Nidda
-street: "Auf dem Graben"
-housenumber: 16
+street: Auf dem Graben
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

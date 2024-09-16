@@ -1,11 +1,11 @@
 id: 100665284
-type: way
+type: node
 latitude: 50.62772
 longitude: 9.50707
 postcode: "36364"
 city: Bad Salzschlirf
-street: "Schlitzer Straße"
-housenumber: 30
+street: Schlitzer Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

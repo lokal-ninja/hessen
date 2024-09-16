@@ -1,11 +1,11 @@
 id: 120329650
-type: way
+type: node
 latitude: 50.13335
 longitude: 8.06753
 postcode: "65307"
 city: Bad Schwalbach
-street: "Rheinstraße"
-housenumber: 44
+street: Rheinstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

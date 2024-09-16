@@ -4,8 +4,8 @@ latitude: 49.87378
 longitude: 8.65208
 postcode: "64283"
 city: Darmstadt
-street: "Schleiermacherstraße"
-housenumber: 4
-phone: "+49 6151 20491"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off"
+street: Schleiermacherstraße
+housenumber: "4"
+phone: +49 6151 20491
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off
 website: ""

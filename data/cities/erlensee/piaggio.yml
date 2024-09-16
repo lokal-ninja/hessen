@@ -1,11 +1,11 @@
 id: 247612798
-type: way
+type: node
 latitude: 50.16668
 longitude: 8.97889
 postcode: "63526"
 city: Erlensee
-street: "Eugen-Kaiser-Straße"
-housenumber: 31
+street: Eugen-Kaiser-Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

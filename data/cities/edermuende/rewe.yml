@@ -1,11 +1,11 @@
 id: 192393167
-type: way
+type: node
 latitude: 51.21188
 longitude: 9.44811
 postcode: "34295"
 city: Edermünde
-street: "Zur Mühle"
-housenumber: 12
+street: Zur Mühle
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

@@ -4,8 +4,8 @@ latitude: 50.45059
 longitude: 9.62237
 postcode: "36119"
 city: Neuhof
-street: "Michaelstraße"
-housenumber: 10
-phone: "+49 6655 919839"
-opening_hours: "Termine nach Vereinbarung"
+street: Michaelstraße
+housenumber: "10"
+phone: +49 6655 919839
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

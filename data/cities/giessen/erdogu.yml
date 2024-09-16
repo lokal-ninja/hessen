@@ -4,8 +4,8 @@ latitude: 50.58361
 longitude: 8.67504
 postcode: "35390"
 city: Gießen
-street: "Plockstraße"
-housenumber: 13
-phone: "+49 641 9845361"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://erdogu.com/giessen/"
+street: Plockstraße
+housenumber: "13"
+phone: +49 641 9845361
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-14:00
+website: https://erdogu.com/giessen/

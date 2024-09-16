@@ -4,8 +4,8 @@ latitude: 51.28202
 longitude: 9.14408
 postcode: "34466"
 city: Wolfhagen
-street: "Am Mühlenbach"
-housenumber: 3
-phone: "+49 5692 6843"
-opening_hours: "Mo-Sa 07:30-12:00, Mo-Tu 15:00-18:00; Th-Fr 15:00-18:00"
-website: "http://www.ippinghausen.de/burgerladen.html"
+street: Am Mühlenbach
+housenumber: "3"
+phone: +49 5692 6843
+opening_hours: Mo-Sa 07:30-12:00, Mo-Tu 15:00-18:00; Th-Fr 15:00-18:00
+website: http://www.ippinghausen.de/burgerladen.html

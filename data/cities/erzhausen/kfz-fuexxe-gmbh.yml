@@ -1,11 +1,11 @@
 id: 238484190
-type: way
+type: node
 latitude: 49.9453
 longitude: 8.63511
 postcode: "64390"
 city: Erzhausen
-street: "Südliche Ringstraße"
-housenumber: 10
-phone: "+49 6150 5423838"
+street: Südliche Ringstraße
+housenumber: "10"
+phone: +49 6150 5423838
 opening_hours: ""
-website: "http://www.kfz-f%C3%BCxxe.de/html/index.php"
+website: http://www.kfz-f%C3%BCxxe.de/html/index.php

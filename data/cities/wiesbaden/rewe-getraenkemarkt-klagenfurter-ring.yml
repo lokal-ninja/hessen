@@ -1,11 +1,11 @@
 id: 361922367
-type: way
+type: node
 latitude: 50.05979
 longitude: 8.21963
 postcode: "65187"
 city: Wiesbaden
-street: "Klagenfurter Ring"
-housenumber: 89
+street: Klagenfurter Ring
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

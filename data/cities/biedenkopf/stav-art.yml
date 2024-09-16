@@ -1,11 +1,11 @@
 id: 486178490
-type: way
+type: node
 latitude: 50.9146
 longitude: 8.52218
 postcode: "35216"
 city: Biedenkopf
-street: "Hainstraße"
-housenumber: 85
+street: Hainstraße
+housenumber: "85"
 phone: "064619261230"
-opening_hours: "Di-Do 09:00-18:00, Fr 09:00-19:00, Sa 08:00-14:00"
+opening_hours: Di-Do 09:00-18:00, Fr 09:00-19:00, Sa 08:00-14:00
 website: ""

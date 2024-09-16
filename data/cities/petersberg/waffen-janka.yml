@@ -1,11 +1,11 @@
 id: 658676400
-type: way
+type: node
 latitude: 50.577
 longitude: 9.70601
 postcode: "36100"
 city: Petersberg
-street: "Am Rabenstein"
-housenumber: 4
+street: Am Rabenstein
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.waffen-janka.de/"
+website: https://www.waffen-janka.de/

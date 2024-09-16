@@ -1,11 +1,11 @@
 id: 193989294
-type: way
+type: node
 latitude: 50.04257
 longitude: 8.96829
 postcode: "63500"
 city: Seligenstadt
-street: "Kaiser-Karl-Straße"
-housenumber: 38
+street: Kaiser-Karl-Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
-website: "https://www.kristallgalaxie.de/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://www.kristallgalaxie.de/

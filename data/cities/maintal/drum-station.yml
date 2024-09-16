@@ -1,11 +1,11 @@
 id: 154878607
-type: way
+type: node
 latitude: 50.15169
 longitude: 8.80106
 postcode: "63477"
 city: Maintal
-street: "Jahnstraße"
-housenumber: 5
+street: Jahnstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "www.musicstore-maintal.de"
+website: www.musicstore-maintal.de

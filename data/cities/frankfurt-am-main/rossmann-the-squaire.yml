@@ -1,11 +1,11 @@
 id: 525862305
-type: way
+type: node
 latitude: 50.05298
 longitude: 8.57105
 postcode: "60549"
 city: Frankfurt am Main
-street: "The Squaire"
-housenumber: 12
+street: The Squaire
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
+opening_hours: Mo-Su 07:00-21:00
 website: ""

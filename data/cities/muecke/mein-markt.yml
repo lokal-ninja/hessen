@@ -1,11 +1,11 @@
 id: 236983836
-type: way
+type: node
 latitude: 50.64747
 longitude: 9.03173
 postcode: "35325"
 city: Mücke
-street: "Untergasse"
-housenumber: 3
+street: Untergasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

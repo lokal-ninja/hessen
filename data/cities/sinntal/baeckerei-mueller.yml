@@ -4,8 +4,9 @@ latitude: 50.30113
 longitude: 9.66006
 postcode: "36391"
 city: Sinntal
-street: "Gartenstraße"
-housenumber: 9
-phone: "+49 6664 333"
-opening_hours: "Mo-Tu 06:30-13:00,14:30-18:00; We 06:30-13:00; Th-Fr 06:30-13:00,14:30-18:00; Sa 05:00-12:30"
+street: Gartenstraße
+housenumber: "9"
+phone: +49 6664 333
+opening_hours: Mo-Tu 06:30-13:00,14:30-18:00; We 06:30-13:00; Th-Fr 06:30-13:00,14:30-18:00;
+    Sa 05:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 173468996
-type: way
+type: node
 latitude: 50.80409
 longitude: 8.75746
 postcode: "35037"
 city: Marburg
-street: "Ockershäuser Allee"
-housenumber: 10
-phone: "+49 6421 9523030"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su 10:00-12:00"
+street: Ockershäuser Allee
+housenumber: "10"
+phone: +49 6421 9523030
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su 10:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 207600612
-type: way
+type: node
 latitude: 50.90173
 longitude: 8.53373
 postcode: "35216"
 city: Biedenkopf
-street: "Georg-Kramer-Straße"
-housenumber: 12
+street: Georg-Kramer-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

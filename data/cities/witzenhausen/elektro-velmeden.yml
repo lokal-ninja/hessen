@@ -1,11 +1,11 @@
 id: 390572040
-type: way
+type: node
 latitude: 51.34322
 longitude: 9.85938
 postcode: "37213"
 city: Witzenhausen
-street: "Steinstraße"
-housenumber: 16
-phone: "+49 (0)5542 911212"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.elektro-velmeden.de/"
+street: Steinstraße
+housenumber: "16"
+phone: +49 (0)5542 911212
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.elektro-velmeden.de/

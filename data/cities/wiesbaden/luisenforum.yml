@@ -1,11 +1,11 @@
 id: 86355448
-type: way
+type: node
 latitude: 50.07871
 longitude: 8.23679
 postcode: "65185"
 city: Wiesbaden
-street: "Kirchgasse"
-housenumber: 6
-phone: "+49 611 3415470"
+street: Kirchgasse
+housenumber: "6"
+phone: +49 611 3415470
 opening_hours: ""
-website: "https://www.luisenforum.com/"
+website: https://www.luisenforum.com/

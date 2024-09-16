@@ -1,11 +1,11 @@
 id: 173088216
-type: way
+type: node
 latitude: 50.42573
 longitude: 9.40162
 postcode: "36399"
 city: Freiensteinau
-street: "Steinauer Straße"
-housenumber: 17
+street: Steinauer Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

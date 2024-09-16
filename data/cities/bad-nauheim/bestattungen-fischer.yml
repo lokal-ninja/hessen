@@ -1,11 +1,11 @@
 id: 568749591
-type: way
+type: node
 latitude: 50.36392
 longitude: 8.73357
 postcode: "61231"
 city: Bad Nauheim
-street: "Apfelstraße"
-housenumber: 20
+street: Apfelstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

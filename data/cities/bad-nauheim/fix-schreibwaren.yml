@@ -4,8 +4,8 @@ latitude: 50.36375
 longitude: 8.73982
 postcode: "61231"
 city: Bad Nauheim
-street: "Hauptstraße"
-housenumber: 7
-phone: "+49 6032 92 52 952"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://www.fix-schreibwaren.de"
+street: Hauptstraße
+housenumber: "7"
+phone: +49 6032 92 52 952
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://www.fix-schreibwaren.de

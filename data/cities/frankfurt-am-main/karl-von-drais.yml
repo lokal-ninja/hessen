@@ -4,8 +4,8 @@ latitude: 50.14786
 longitude: 8.68109
 postcode: "60435"
 city: Frankfurt am Main
-street: "Karl-von-Drais-Straße"
-housenumber: 6
-phone: "+49 69 5484043216"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 09:00-15:00"
-website: "https://karlvondrais.de"
+street: Karl-von-Drais-Straße
+housenumber: "6"
+phone: +49 69 5484043216
+opening_hours: Tu-Fr 08:00-18:00; Sa 09:00-15:00
+website: https://karlvondrais.de

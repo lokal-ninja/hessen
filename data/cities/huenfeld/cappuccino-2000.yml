@@ -1,11 +1,11 @@
 id: 254154556
-type: way
+type: node
 latitude: 50.66302
 longitude: 9.76339
 postcode: "36088"
 city: Hünfeld
-street: "Zum Nüsttal"
-housenumber: 14
-phone: "+49 6652 919350"
+street: Zum Nüsttal
+housenumber: "14"
+phone: +49 6652 919350
 opening_hours: ""
-website: "https://www.cappuccino2000.de/"
+website: https://www.cappuccino2000.de/

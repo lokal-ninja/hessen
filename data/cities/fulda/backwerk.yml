@@ -4,8 +4,8 @@ latitude: 50.55156
 longitude: 9.677
 postcode: "36037"
 city: Fulda
-street: "Unterm Heilig Kreuz"
-housenumber: 8
-phone: "+49 661 9019600"
-opening_hours: "Mo-Su 07:30-20:00"
-website: "http://www.back-werk.de/"
+street: Unterm Heilig Kreuz
+housenumber: "8"
+phone: +49 661 9019600
+opening_hours: Mo-Su 07:30-20:00
+website: http://www.back-werk.de/

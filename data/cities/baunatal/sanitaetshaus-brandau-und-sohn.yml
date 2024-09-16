@@ -4,8 +4,8 @@ latitude: 51.25338
 longitude: 9.40953
 postcode: "34225"
 city: Baunatal
-street: "Rudolf-Diesel-Straße"
-housenumber: 6
-phone: "+49 561 492770"
-opening_hours: "Mo- Fr 08:00- 13:00, 14:00- 18:00, Sa 09:00- 12:00"
-website: "https://www.brandau-kassel.de/"
+street: Rudolf-Diesel-Straße
+housenumber: "6"
+phone: +49 561 492770
+opening_hours: Mo- Fr 08:00- 13:00, 14:00- 18:00, Sa 09:00- 12:00
+website: https://www.brandau-kassel.de/

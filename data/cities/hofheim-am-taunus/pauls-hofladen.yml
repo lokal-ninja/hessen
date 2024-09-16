@@ -4,8 +4,8 @@ latitude: 50.06293
 longitude: 8.37141
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Rathausstraße"
-housenumber: 5
+street: Rathausstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Th-Fr 08:00-13:00,14:30-18:30; Sa 08:00-13:00; PH closed"
-website: "https://www.pauls-bauernhof.de/"
+opening_hours: Th-Fr 08:00-13:00,14:30-18:30; Sa 08:00-13:00; PH closed
+website: https://www.pauls-bauernhof.de/

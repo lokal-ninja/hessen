@@ -4,8 +4,8 @@ latitude: 50.33325
 longitude: 9.70749
 postcode: "36391"
 city: Sinntal
-street: "Sinntalstraße"
-housenumber: 10
-phone: "+49 6664 4139"
-opening_hours: "Mo 07:30-12:30; Tu-Th 07:30-12:30, 14:00-18:00; Sa 07:30-13:00"
+street: Sinntalstraße
+housenumber: "10"
+phone: +49 6664 4139
+opening_hours: Mo 07:30-12:30; Tu-Th 07:30-12:30, 14:00-18:00; Sa 07:30-13:00
 website: ""

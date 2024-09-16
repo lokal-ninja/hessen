@@ -1,11 +1,11 @@
 id: 144725075
-type: way
+type: node
 latitude: 51.10234
 longitude: 9.3877
 postcode: "34590"
 city: Wabern
-street: "Sälzerweg"
-housenumber: 5
+street: Sälzerweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 28417876
-type: way
+type: node
 latitude: 49.86178
 longitude: 8.58916
 postcode: ""
 city: Griesheim
-street: "Flughafenstraße"
-housenumber: 7
+street: Flughafenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

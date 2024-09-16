@@ -4,8 +4,8 @@ latitude: 50.0828
 longitude: 8.24442
 postcode: "65183"
 city: Wiesbaden
-street: "Wilhelmstraße"
-housenumber: 42
-phone: "+49 611 300311"
-opening_hours: "Mo-Sa 10:00-14:00"
-website: "https://www.gabrichoptik.de/"
+street: Wilhelmstraße
+housenumber: "42"
+phone: +49 611 300311
+opening_hours: Mo-Sa 10:00-14:00
+website: https://www.gabrichoptik.de/

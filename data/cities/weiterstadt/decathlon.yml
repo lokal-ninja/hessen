@@ -1,11 +1,11 @@
 id: 33363152
-type: way
+type: node
 latitude: 49.89425
 longitude: 8.60598
 postcode: "64331"
 city: Weiterstadt
-street: "Gutenbergstraße"
-housenumber: 1
+street: Gutenbergstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

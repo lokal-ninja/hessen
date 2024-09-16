@@ -4,8 +4,8 @@ latitude: 50.55019
 longitude: 8.47
 postcode: "35578"
 city: Wetzlar
-street: "Braunfelser Straße"
-housenumber: 149
-phone: "+49 6441 669 4805"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-16:00; Su 07:30-16:00"
-website: "https://www.ohne-moos-nixlos.com/"
+street: Braunfelser Straße
+housenumber: "149"
+phone: +49 6441 669 4805
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-16:00; Su 07:30-16:00
+website: https://www.ohne-moos-nixlos.com/

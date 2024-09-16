@@ -1,11 +1,11 @@
 id: 439464229
-type: way
+type: node
 latitude: 51.11715
 longitude: 9.12389
 postcode: "34537"
 city: Bad Wildungen
-street: "Odershäuser Straße"
+street: Odershäuser Straße
 housenumber: 2b
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.esso.de/de-de/find-station/badwildungen--essobadwildungen-100150872"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.esso.de/de-de/find-station/badwildungen--essobadwildungen-100150872

@@ -4,8 +4,8 @@ latitude: 50.58407
 longitude: 8.67106
 postcode: "35390"
 city: Gießen
-street: "Reichensand"
-housenumber: 7
-phone: "+49 172 6989515"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off"
-website: "http://medicare-giessen.de"
+street: Reichensand
+housenumber: "7"
+phone: +49 172 6989515
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off
+website: http://medicare-giessen.de

@@ -1,11 +1,11 @@
 id: 453633591
-type: way
+type: node
 latitude: 51.19525
 longitude: 9.49339
 postcode: "34302"
 city: Guxhagen
-street: "Fischerweg"
-housenumber: 4
-phone: "+49 5665 1839235"
-opening_hours: "Mo 15:00-18:00; We 15:00-18:00; Sa 10:00-14:00"
-website: "http://www.hamps-spielzeug-scheune.de/"
+street: Fischerweg
+housenumber: "4"
+phone: +49 5665 1839235
+opening_hours: Mo 15:00-18:00; We 15:00-18:00; Sa 10:00-14:00
+website: http://www.hamps-spielzeug-scheune.de/

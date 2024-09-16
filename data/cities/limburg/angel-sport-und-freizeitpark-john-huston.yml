@@ -4,8 +4,9 @@ latitude: 50.37217
 longitude: 8.08096
 postcode: "65550"
 city: Limburg
-street: "Am Weiher"
-housenumber: 4
-phone: "+49 6431 44626"
-opening_hours: "Sep-Mar: Th-Tu,PH 07:00-16:00; Apr-Aug: Th-Tu,PH 06:00-17:00; Apr-Sep: Fr-Sa 17:00-22:00"
-website: "https://www.angelanlage.de/"
+street: Am Weiher
+housenumber: "4"
+phone: +49 6431 44626
+opening_hours: 'Sep-Mar: Th-Tu,PH 07:00-16:00; Apr-Aug: Th-Tu,PH 06:00-17:00; Apr-Sep:
+    Fr-Sa 17:00-22:00'
+website: https://www.angelanlage.de/

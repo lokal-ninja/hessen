@@ -1,11 +1,11 @@
 id: 182080588
-type: way
+type: node
 latitude: 50.59953
 longitude: 8.42063
 postcode: "35614"
 city: Aßlar
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: "+4964433001"
 opening_hours: ""
-website: "http://www.neufeldt-automobile.de/"
+website: http://www.neufeldt-automobile.de/

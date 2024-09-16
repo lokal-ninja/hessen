@@ -4,8 +4,8 @@ latitude: 50.5146
 longitude: 8.38962
 postcode: "35619"
 city: Braunfels
-street: "Weilburger Straße"
-housenumber: 4
-phone: "+49 6442 301 104"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://schatzkiste-am-schloss.de"
+street: Weilburger Straße
+housenumber: "4"
+phone: +49 6442 301 104
+opening_hours: Mo-Sa 09:00-17:00
+website: https://schatzkiste-am-schloss.de

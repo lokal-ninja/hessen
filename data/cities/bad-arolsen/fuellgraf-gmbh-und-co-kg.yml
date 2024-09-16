@@ -1,11 +1,11 @@
 id: 196906921
-type: way
+type: node
 latitude: 51.37306
 longitude: 9.00596
 postcode: "34454"
 city: Bad Arolsen
-street: "Mengeringhäuser Straße"
-housenumber: 4
-phone: "+49 5691 628180"
+street: Mengeringhäuser Straße
+housenumber: "4"
+phone: +49 5691 628180
 opening_hours: ""
 website: ""

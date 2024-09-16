@@ -1,11 +1,11 @@
 id: 193427435
-type: way
+type: node
 latitude: 50.09417
 longitude: 8.95229
 postcode: "63457"
 city: Hanau
-street: "Philipp-Heck-Straße"
-housenumber: 2
+street: Philipp-Heck-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://filialen.aldi-sued.de/hessen/hanau/philipp-heck-strasse-2"
+website: https://filialen.aldi-sued.de/hessen/hanau/philipp-heck-strasse-2

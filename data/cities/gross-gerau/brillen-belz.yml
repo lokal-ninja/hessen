@@ -4,8 +4,8 @@ latitude: 49.91981
 longitude: 8.4855
 postcode: "64521"
 city: Groß-Gerau
-street: "Darmstädter Straße"
-housenumber: 24
-phone: "+49 6152 2433"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; We,Sa 08:30-13:00"
-website: "https://optik-lassmann.de"
+street: Darmstädter Straße
+housenumber: "24"
+phone: +49 6152 2433
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00; We,Sa 08:30-13:00
+website: https://optik-lassmann.de

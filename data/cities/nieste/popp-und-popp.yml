@@ -1,11 +1,11 @@
 id: 362482756
-type: way
+type: node
 latitude: 51.31057
 longitude: 9.66343
 postcode: "34329"
 city: Nieste
-street: "Herrenwiese"
-housenumber: 1
+street: Herrenwiese
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

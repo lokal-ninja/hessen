@@ -1,11 +1,11 @@
 id: 96687373
-type: way
+type: node
 latitude: 50.91
 longitude: 9.24227
 postcode: "34613"
 city: Schwalmstadt
-street: "Ernst-Ihle-Straße"
-housenumber: 8
+street: Ernst-Ihle-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-treysa-friedrich-ebert-str-90.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.tegut.com/maerkte/markt/tegut-treysa-friedrich-ebert-str-90.html

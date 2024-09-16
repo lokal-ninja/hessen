@@ -4,8 +4,8 @@ latitude: 50.56984
 longitude: 8.48154
 postcode: "35576"
 city: Wetzlar
-street: "Willy-Bechstein-Straße"
-housenumber: 6
+street: Willy-Bechstein-Straße
+housenumber: "6"
 phone: "+49644193610"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-13:00"
-website: "https://www.profi-parts.de/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-13:00
+website: https://www.profi-parts.de/

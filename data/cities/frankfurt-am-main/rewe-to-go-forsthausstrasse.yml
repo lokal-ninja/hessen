@@ -4,8 +4,8 @@ latitude: 50.07985
 longitude: 8.65503
 postcode: "60528"
 city: Frankfurt am Main
-street: "Forsthausstraße"
-housenumber: 50
+street: Forsthausstraße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Su 12:00-12:00"
+opening_hours: Mo-Su 12:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 498117048
-type: way
+type: node
 latitude: 50.35301
 longitude: 8.75525
 postcode: "61231"
 city: Bad Nauheim
-street: "Steinkopfstraße"
-housenumber: 3
+street: Steinkopfstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 307649879
-type: way
+type: node
 latitude: 50.76207
 longitude: 9.78313
 postcode: ""
 city: Eiterfeld
-street: "Pappelallee"
-housenumber: 2
+street: Pappelallee
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1167722912
-type: way
+type: node
 latitude: 50.48242
 longitude: 8.28397
 postcode: "35781"
 city: Weilburg
-street: "Johann-Ernst-Straße"
-housenumber: 1
+street: Johann-Ernst-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

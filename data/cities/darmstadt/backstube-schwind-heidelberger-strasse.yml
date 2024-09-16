@@ -4,8 +4,8 @@ latitude: 49.85806
 longitude: 8.64707
 postcode: "64285"
 city: Darmstadt
-street: "Heidelberger Straße"
-housenumber: 82
-phone: "+49 6151 665065"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-11:30"
-website: "https://backstube-schwind.de/"
+street: Heidelberger Straße
+housenumber: "82"
+phone: +49 6151 665065
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:30-11:30
+website: https://backstube-schwind.de/

@@ -4,8 +4,8 @@ latitude: 50.01368
 longitude: 8.69309
 postcode: "63303"
 city: Dreieich
-street: "Darmstädter Straße"
-housenumber: 52
-phone: "+49 6103 67397"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Sa 09:00-13:00"
-website: "https://www.apfelweinhelden.de/"
+street: Darmstädter Straße
+housenumber: "52"
+phone: +49 6103 67397
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Sa 09:00-13:00
+website: https://www.apfelweinhelden.de/

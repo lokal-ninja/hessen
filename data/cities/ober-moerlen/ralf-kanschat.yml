@@ -1,11 +1,11 @@
 id: 361156548
-type: way
+type: node
 latitude: 50.36972
 longitude: 8.68618
 postcode: "61239"
 city: Ober-Mörlen
-street: "Egerländer Straße"
-housenumber: 11
-phone: "+49 6002 992094"
+street: Egerländer Straße
+housenumber: "11"
+phone: +49 6002 992094
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 44209311
-type: way
+type: node
 latitude: 50.09584
 longitude: 8.95291
 postcode: "63457"
 city: Hanau
-street: "Brown-Boveri-Straße"
-housenumber: 25
+street: Brown-Boveri-Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

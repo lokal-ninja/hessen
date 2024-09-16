@@ -1,11 +1,11 @@
 id: 38879031
-type: way
+type: node
 latitude: 50.97055
 longitude: 9.7936
 postcode: "36179"
 city: Bebra
-street: "Lindenallee"
+street: Lindenallee
 housenumber: 1-3
-phone: "+49 6622 92350"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.tegut.com/maerkte/markt/tegut-bebra-lindenallee-1-3.html"
+phone: +49 6622 92350
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.tegut.com/maerkte/markt/tegut-bebra-lindenallee-1-3.html

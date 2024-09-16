@@ -4,8 +4,8 @@ latitude: 50.6022
 longitude: 9.30005
 postcode: "36369"
 city: Lautertal
-street: "Am Weißenacker"
-housenumber: 13
+street: Am Weißenacker
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-We,Fr 08:30-18:00; Th 12:00-20:00; Sa 08:00-13:00"
-website: "http://www.strubbelbiene.de"
+opening_hours: Tu-We,Fr 08:30-18:00; Th 12:00-20:00; Sa 08:00-13:00
+website: http://www.strubbelbiene.de

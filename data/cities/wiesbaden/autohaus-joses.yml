@@ -4,8 +4,8 @@ latitude: 50.0516
 longitude: 8.20498
 postcode: "65201"
 city: Wiesbaden
-street: "Saarstraße"
-housenumber: 70
-phone: "+49 611 24263"
+street: Saarstraße
+housenumber: "70"
+phone: +49 611 24263
 opening_hours: ""
-website: "https://www.autohaus-joses.de/"
+website: https://www.autohaus-joses.de/

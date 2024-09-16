@@ -1,11 +1,11 @@
 id: 260122115
-type: way
+type: node
 latitude: 51.32104
 longitude: 9.51491
 postcode: ""
 city: Kassel
-street: "Ysenburgstraße"
-housenumber: 20
+street: Ysenburgstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

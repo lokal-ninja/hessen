@@ -1,11 +1,11 @@
 id: 92007603
-type: way
+type: node
 latitude: 50.6431
 longitude: 9.41491
 postcode: "36341"
 city: Lauterbach
-street: "Vaitsbergstraße"
-housenumber: 24
+street: Vaitsbergstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

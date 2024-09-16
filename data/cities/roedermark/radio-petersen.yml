@@ -4,8 +4,8 @@ latitude: 49.97429
 longitude: 8.82964
 postcode: "63322"
 city: Rödermark
-street: "Dieburger Straße"
-housenumber: 63
-phone: "+49 6074 96999"
-opening_hours: "Mo-Sa 09:00-13:00 || nach Vereinbarung"
-website: "http://www.radio-petersen.de"
+street: Dieburger Straße
+housenumber: "63"
+phone: +49 6074 96999
+opening_hours: Mo-Sa 09:00-13:00 || "nach Vereinbarung"
+website: http://www.radio-petersen.de

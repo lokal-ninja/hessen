@@ -1,11 +1,11 @@
 id: 125510663
-type: way
+type: node
 latitude: 51.23055
 longitude: 9.42839
 postcode: "34225"
 city: Baunatal
-street: "Fuldastraße"
-housenumber: 13
+street: Fuldastraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.moebelkrug.de"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.moebelkrug.de

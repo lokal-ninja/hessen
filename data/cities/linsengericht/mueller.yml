@@ -1,11 +1,11 @@
 id: 1228044432
-type: way
+type: node
 latitude: 50.19278
 longitude: 9.20279
 postcode: "63589"
 city: Linsengericht
-street: "Am Sandacker"
-housenumber: 5
-phone: "+49 175 3220012"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.mueller.de"
+street: Am Sandacker
+housenumber: "5"
+phone: +49 175 3220012
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.mueller.de

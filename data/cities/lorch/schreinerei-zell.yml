@@ -1,11 +1,11 @@
 id: 107443806
-type: way
+type: node
 latitude: 50.0451
 longitude: 7.80265
 postcode: "65391"
 city: Lorch
-street: "Wisperstraße"
-housenumber: 18
+street: Wisperstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 19075433
-type: way
+type: node
 latitude: 49.84367
 longitude: 8.79977
 postcode: "64354"
 city: Reinheim
-street: "Am Scholzenberg"
-housenumber: 20
-phone: "+49 6162 912312"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"
+street: Am Scholzenberg
+housenumber: "20"
+phone: +49 6162 912312
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-18:00
 website: ""

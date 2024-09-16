@@ -4,8 +4,8 @@ latitude: 49.87155
 longitude: 8.6527
 postcode: "64283"
 city: Darmstadt
-street: "Schuchardstraße"
-housenumber: 9
+street: Schuchardstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-18:00; Su,PH off"
-website: "https://www.smykker.de/stores"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-18:00; Su,PH off
+website: https://www.smykker.de/stores

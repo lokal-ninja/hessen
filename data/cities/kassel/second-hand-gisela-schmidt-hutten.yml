@@ -4,8 +4,8 @@ latitude: 51.31392
 longitude: 9.44136
 postcode: "34131"
 city: Kassel
-street: "Wilhelmshöher Allee"
-housenumber: 282
-phone: "+49 561 313097"
-opening_hours: "Tu-Fr 12:00-18:00; Sa 11:00-14:00"
-website: "https://www.sh-kassel.de"
+street: Wilhelmshöher Allee
+housenumber: "282"
+phone: +49 561 313097
+opening_hours: Tu-Fr 12:00-18:00; Sa 11:00-14:00
+website: https://www.sh-kassel.de

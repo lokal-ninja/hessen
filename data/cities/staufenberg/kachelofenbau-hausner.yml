@@ -1,11 +1,11 @@
 id: 58646321
-type: way
+type: node
 latitude: 50.67064
 longitude: 8.77868
 postcode: "35460"
 city: Staufenberg
-street: "Pfingstkopfweg"
-housenumber: 14
+street: Pfingstkopfweg
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 140897519
-type: way
+type: node
 latitude: 50.43409
 longitude: 8.99055
 postcode: "63667"
 city: Nidda
-street: "Alois-Thums-Straße"
-housenumber: 2
-phone: "+49 6043 966310"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.herkulesmarkt.de/"
+street: Alois-Thums-Straße
+housenumber: "2"
+phone: +49 6043 966310
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.herkulesmarkt.de/

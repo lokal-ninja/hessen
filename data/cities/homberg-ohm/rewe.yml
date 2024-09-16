@@ -1,11 +1,11 @@
 id: 70488951
-type: way
+type: node
 latitude: 50.73049
 longitude: 9.00761
 postcode: "35315"
 city: Homberg (Ohm)
-street: "Auf den Sandäckern"
-housenumber: 4
+street: Auf den Sandäckern
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00, Su closed"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00, Su closed
+website: https://www.rewe.de/

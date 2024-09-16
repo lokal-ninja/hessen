@@ -1,11 +1,11 @@
 id: 839411485
-type: way
+type: node
 latitude: 50.17897
 longitude: 8.91215
 postcode: "63486"
 city: Bruchköbel
-street: "Römerstraße"
-housenumber: 5
+street: Römerstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

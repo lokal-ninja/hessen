@@ -1,11 +1,12 @@
 id: 827613396
-type: way
+type: node
 latitude: 50.35805
 longitude: 8.53733
 postcode: "61250"
 city: Usingen
-street: "Michelbacher Straße"
-housenumber: 12
+street: Michelbacher Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo 08:00-13:00; Tu-Th 08:00-13:00, 15:00-18:30; Fr 08:00-18:30; Sa 07:30-13:00"
-website: "https://www.metzgerei-rolandvogt.de/"
+opening_hours: Mo 08:00-13:00; Tu-Th 08:00-13:00, 15:00-18:30; Fr 08:00-18:30; Sa
+    07:30-13:00
+website: https://www.metzgerei-rolandvogt.de/

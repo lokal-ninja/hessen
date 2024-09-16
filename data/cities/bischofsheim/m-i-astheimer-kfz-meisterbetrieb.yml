@@ -1,11 +1,11 @@
 id: 1164665563
-type: way
+type: node
 latitude: 49.98953
 longitude: 8.3375
 postcode: "65474"
 city: Bischofsheim
-street: "In der Tagweide"
-housenumber: 10
-phone: "+49 6144 6167"
+street: In der Tagweide
+housenumber: "10"
+phone: +49 6144 6167
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 137382378
-type: way
+type: node
 latitude: 50.29666
 longitude: 8.25175
 postcode: "65520"
 city: Bad Camberg
-street: "Beuerbacher Landstraße"
-housenumber: 6
+street: Beuerbacher Landstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de/filialen/bad-camberg/beuerbacher-landstr-6/3932"
+website: https://www.netto-online.de/filialen/bad-camberg/beuerbacher-landstr-6/3932

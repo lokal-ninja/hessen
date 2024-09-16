@@ -4,8 +4,8 @@ latitude: 50.08118
 longitude: 8.23178
 postcode: "65183"
 city: Wiesbaden
-street: "Frankenstraße"
-housenumber: 10
-phone: "+49 157 77991067"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Frankenstraße
+housenumber: "10"
+phone: +49 157 77991067
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

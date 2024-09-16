@@ -4,8 +4,8 @@ latitude: 50.45191
 longitude: 9.92166
 postcode: "36129"
 city: Gersfeld
-street: "Ebersberger Platz"
-housenumber: 5
-phone: "+49 6654 918999"
-opening_hours: "Mo, We-Fr 09:00-18:00; Tu 09:00-14:30; Sa 09:00-12:00; Su 09:00-13:00"
-website: "https://www.alpina-sporthaus.de/"
+street: Ebersberger Platz
+housenumber: "5"
+phone: +49 6654 918999
+opening_hours: Mo, We-Fr 09:00-18:00; Tu 09:00-14:30; Sa 09:00-12:00; Su 09:00-13:00
+website: https://www.alpina-sporthaus.de/

@@ -4,8 +4,8 @@ latitude: 50.43937
 longitude: 9.77407
 postcode: "36157"
 city: Ebersburg
-street: "Kreuzbergstraße"
-housenumber: 2
-phone: "+49 6656 503136"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-12:00"
-website: "http://www.baecker-happ.de/"
+street: Kreuzbergstraße
+housenumber: "2"
+phone: +49 6656 503136
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-12:00
+website: http://www.baecker-happ.de/

@@ -4,8 +4,8 @@ latitude: 51.3077
 longitude: 9.54493
 postcode: "34123"
 city: Kassel
-street: "Heiligenröder Straße"
-housenumber: 51
-phone: "+49 561 60290364"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.takko.com/de-de/stores/#!/s?q=TAKKO%20FASHION%20Kassel%20-%20Heiligenröder%20Straße%2051%2C%2034123%20Kassel"
+street: Heiligenröder Straße
+housenumber: "51"
+phone: +49 561 60290364
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.takko.com/de-de/stores/#!/s?q=TAKKO%20FASHION%20Kassel%20-%20Heiligenröder%20Straße%2051%2C%2034123%20Kassel

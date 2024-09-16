@@ -1,11 +1,11 @@
 id: 50656147
-type: way
+type: node
 latitude: 50.37025
 longitude: 8.74453
 postcode: "61231"
 city: Bad Nauheim
-street: "Frankfurter Straße"
-housenumber: 56
+street: Frankfurter Straße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

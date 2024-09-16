@@ -1,11 +1,11 @@
 id: 235191031
-type: way
+type: node
 latitude: 49.56851
 longitude: 8.97601
 postcode: "64760"
 city: Oberzent
-street: "Mümlingtalstraße"
-housenumber: 3
+street: Mümlingtalstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.hupp-schuhe.de/"
+website: https://www.hupp-schuhe.de/

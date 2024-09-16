@@ -4,8 +4,8 @@ latitude: 50.01564
 longitude: 8.69592
 postcode: "63303"
 city: Dreieich
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 6103 66976"
-opening_hours: "Mo-Fr 09:00-13:00, 14:30-18:30; Sa 10:00-13:00"
-website: "http://www.copy-dreieich.de"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 6103 66976
+opening_hours: Mo-Fr 09:00-13:00, 14:30-18:30; Sa 10:00-13:00
+website: http://www.copy-dreieich.de

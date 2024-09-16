@@ -1,11 +1,11 @@
 id: 413187129
-type: way
+type: node
 latitude: 50.0486
 longitude: 8.19378
 postcode: "65201"
 city: Wiesbaden
-street: "Stielstraße"
-housenumber: 18
+street: Stielstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

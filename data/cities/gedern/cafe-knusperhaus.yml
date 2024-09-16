@@ -4,8 +4,8 @@ latitude: 50.42349
 longitude: 9.19813
 postcode: "63688"
 city: Gedern
-street: "Frankfurter Straße"
-housenumber: 2
-phone: "+49 6045 1233"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su,PH 07:00-18:00"
-website: "https://www.vulkanbaecker-haas.de/"
+street: Frankfurter Straße
+housenumber: "2"
+phone: +49 6045 1233
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-13:00; Su,PH 07:00-18:00
+website: https://www.vulkanbaecker-haas.de/

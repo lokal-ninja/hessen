@@ -4,8 +4,8 @@ latitude: 50.01548
 longitude: 8.88735
 postcode: "63110"
 city: Rodgau
-street: "Hegelstraße"
-housenumber: 3
-phone: "+49 6106 6670690"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-ermel-hegelstra%C3%9Fe-3/index.jsp"
+street: Hegelstraße
+housenumber: "3"
+phone: +49 6106 6670690
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-ermel-hegelstra%C3%9Fe-3/index.jsp

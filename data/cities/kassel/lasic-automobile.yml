@@ -1,11 +1,11 @@
 id: 144555029
-type: way
+type: node
 latitude: 51.3292
 longitude: 9.52657
 postcode: "34125"
 city: Kassel
-street: "Wolfsangerstraße"
-housenumber: 80
+street: Wolfsangerstraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

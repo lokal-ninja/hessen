@@ -4,8 +4,9 @@ latitude: 50.15147
 longitude: 8.7331
 postcode: "60389"
 city: Frankfurt am Main
-street: "Klingenweg"
-housenumber: 90
-phone: "+49 69 479994"
-opening_hours: "Apr-Oct Tu-Su 11:00-18:00; Nov-Mar Tu-We 11:00-13:00, Th 11:00-18:00, Sa-Su 11:00-16:00"
-website: "https://www.mainaeppelhauslohrberg.de/"
+street: Klingenweg
+housenumber: "90"
+phone: +49 69 479994
+opening_hours: Apr-Oct Tu-Su 11:00-18:00; Nov-Mar Tu-We 11:00-13:00, Th 11:00-18:00,
+    Sa-Su 11:00-16:00
+website: https://www.mainaeppelhauslohrberg.de/

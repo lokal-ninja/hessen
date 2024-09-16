@@ -1,11 +1,11 @@
 id: 179130053
-type: way
+type: node
 latitude: 50.45217
 longitude: 9.92335
 postcode: "36129"
 city: Gersfeld
-street: "Ursinusstraße"
-housenumber: 13
-phone: "+49 6654 918600"
-opening_hours: "Mo, Fr 10:00-12:00, 15:00-18:00; Tu, Th 15:00-18:00; Sa 10:00-13:00"
-website: "https://mamei.de/"
+street: Ursinusstraße
+housenumber: "13"
+phone: +49 6654 918600
+opening_hours: Mo, Fr 10:00-12:00, 15:00-18:00; Tu, Th 15:00-18:00; Sa 10:00-13:00
+website: https://mamei.de/

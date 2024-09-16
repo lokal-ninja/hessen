@@ -1,11 +1,11 @@
 id: 99491434
-type: way
+type: node
 latitude: 50.62747
 longitude: 9.44448
 postcode: "36367"
 city: Wartenberg
-street: "Rudloser Straße"
-housenumber: 3
+street: Rudloser Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

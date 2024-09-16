@@ -1,11 +1,11 @@
 id: 369818297
-type: way
+type: node
 latitude: 49.90457
 longitude: 8.85039
 postcode: "64807"
 city: Dieburg
-street: "Lagerstraße"
-housenumber: 9
+street: Lagerstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://jysk.de/"
+website: https://jysk.de/

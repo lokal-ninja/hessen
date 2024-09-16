@@ -4,8 +4,8 @@ latitude: 50.77961
 longitude: 8.76134
 postcode: "35043"
 city: Marburg
-street: "Zu den Sandbeeten"
-housenumber: 10
+street: Zu den Sandbeeten
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "http://www.bmw-boesser.de/filialen/bmw-marburg/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: http://www.bmw-boesser.de/filialen/bmw-marburg/

@@ -1,11 +1,11 @@
 id: 408437699
-type: way
+type: node
 latitude: 50.27706
 longitude: 8.76595
 postcode: "61206"
 city: Wöllstadt
-street: "Frankfurter Straße"
+street: Frankfurter Straße
 housenumber: 59a
-phone: "+49 6034 1345"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-12:00"
-website: "https://www.hinnerbaecker.com/"
+phone: +49 6034 1345
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-12:00
+website: https://www.hinnerbaecker.com/

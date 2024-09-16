@@ -4,8 +4,8 @@ latitude: 50.1883
 longitude: 8.71192
 postcode: "61118"
 city: Bad Vilbel
-street: "Harheimer Weg"
-housenumber: 100
-phone: "+49 6101 41029"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-18:00; Su,PH off"
-website: "https://laupushof.de/hofladen/"
+street: Harheimer Weg
+housenumber: "100"
+phone: +49 6101 41029
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-18:00; Su,PH off
+website: https://laupushof.de/hofladen/

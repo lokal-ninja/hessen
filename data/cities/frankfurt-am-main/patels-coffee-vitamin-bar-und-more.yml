@@ -4,8 +4,8 @@ latitude: 50.112
 longitude: 8.666
 postcode: "60325"
 city: Frankfurt am Main
-street: "Zimmerweg"
-housenumber: 3
+street: Zimmerweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 366192110
-type: way
+type: node
 latitude: 51.21133
 longitude: 9.69141
 postcode: "37235"
 city: Hessisch Lichtenau
-street: "Kirchgasse"
-housenumber: 4
+street: Kirchgasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

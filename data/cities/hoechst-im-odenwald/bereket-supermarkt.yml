@@ -1,11 +1,11 @@
 id: 233682015
-type: way
+type: node
 latitude: 49.79587
 longitude: 8.98982
 postcode: "64739"
 city: Höchst im Odenwald
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.53073
 longitude: 8.73549
 postcode: ""
 city: Gorxheimertal
-street: "Hauptstraße"
-housenumber: 250
-phone: "+49 6201 31393"
-opening_hours: "Tu-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-14:00"
-website: "http://www.chris-haarmoden.de/"
+street: Hauptstraße
+housenumber: "250"
+phone: +49 6201 31393
+opening_hours: Tu-We 09:00-19:00; Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-14:00
+website: http://www.chris-haarmoden.de/

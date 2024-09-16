@@ -1,11 +1,11 @@
 id: 91082952
-type: way
+type: node
 latitude: 50.64637
 longitude: 8.98964
 postcode: "35325"
 city: Mücke
-street: "Gottesrain"
-housenumber: 2
+street: Gottesrain
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

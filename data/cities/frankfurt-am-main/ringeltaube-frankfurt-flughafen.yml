@@ -1,11 +1,11 @@
 id: 189376471
-type: way
+type: node
 latitude: 50.05045
 longitude: 8.56269
 postcode: "60549"
 city: Frankfurt am Main
-street: "Gebäude"
-housenumber: 374
-phone: "+49 69 69525821"
+street: Gebäude
+housenumber: "374"
+phone: +49 69 69525821
 opening_hours: ""
-website: "https://www.ringeltaube.de/home/"
+website: https://www.ringeltaube.de/home/

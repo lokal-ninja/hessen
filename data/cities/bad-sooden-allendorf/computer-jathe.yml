@@ -4,8 +4,8 @@ latitude: 51.27331
 longitude: 9.97388
 postcode: "37242"
 city: Bad Sooden-Allendorf
-street: "Kirchstraße"
-housenumber: 85
-phone: "+49 5652 589878"
-opening_hours: "Tu,Th 16:45-18:00; Sa 09:00-13:00"
-website: "https://www.csc-jathe.de/"
+street: Kirchstraße
+housenumber: "85"
+phone: +49 5652 589878
+opening_hours: Tu,Th 16:45-18:00; Sa 09:00-13:00
+website: https://www.csc-jathe.de/

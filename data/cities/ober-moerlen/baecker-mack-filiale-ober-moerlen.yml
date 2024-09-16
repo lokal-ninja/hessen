@@ -4,8 +4,8 @@ latitude: 50.36606
 longitude: 8.68983
 postcode: "61239"
 city: Ober-Mörlen
-street: "Hasselhecker Straße"
-housenumber: 25
-phone: "+49 6002 992741"
-opening_hours: "Mo-Fr 07:00-20:00,Sa 07:00-18:00;PH off"
-website: "https://baeckermack.de/"
+street: Hasselhecker Straße
+housenumber: "25"
+phone: +49 6002 992741
+opening_hours: Mo-Fr 07:00-20:00,Sa 07:00-18:00;PH off
+website: https://baeckermack.de/

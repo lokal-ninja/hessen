@@ -1,11 +1,11 @@
 id: 1223243999
-type: way
+type: node
 latitude: 51.31191
 longitude: 9.5345
 postcode: "34123"
 city: Kassel
-street: "Sandershäuser Straße"
-housenumber: 110
-phone: "+49 561 50000"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00"
+street: Sandershäuser Straße
+housenumber: "110"
+phone: +49 561 50000
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-14:00
 website: ""

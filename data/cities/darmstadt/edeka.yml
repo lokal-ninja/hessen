@@ -4,8 +4,8 @@ latitude: 49.91059
 longitude: 8.65832
 postcode: "64291"
 city: Darmstadt
-street: "Untere Mühlstraße"
-housenumber: 5
-phone: "+49 6151 130640"
-opening_hours: "Mo-Sa 07:00-21:45; PH off"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/edeka-patschull-untere-m%C3%BChlstra%C3%9Fe-5/index.jsp"
+street: Untere Mühlstraße
+housenumber: "5"
+phone: +49 6151 130640
+opening_hours: Mo-Sa 07:00-21:45; PH off
+website: https://www.edeka.de/eh/s%C3%BCdwest/edeka-patschull-untere-m%C3%BChlstra%C3%9Fe-5/index.jsp

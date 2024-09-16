@@ -1,11 +1,11 @@
 id: 198577298
-type: way
+type: node
 latitude: 50.90983
 longitude: 9.17927
 postcode: "34613"
 city: Schwalmstadt
-street: "Wierastraße"
-housenumber: 21
+street: Wierastraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

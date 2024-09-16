@@ -1,11 +1,11 @@
 id: 592600400
-type: way
+type: node
 latitude: 50.5505
 longitude: 8.48323
 postcode: "35578"
 city: Wetzlar
-street: "Siegmund-Hiepe-Straße"
-housenumber: 5
-phone: "+49 800 4209050"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-13:00"
+street: Siegmund-Hiepe-Straße
+housenumber: "5"
+phone: +49 800 4209050
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 09:00-13:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 50.13752
 longitude: 8.14661
 postcode: "65232"
 city: Taunusstein
-street: "Konrad-Adenauer-Straße"
-housenumber: 11
-phone: "+49 6128 8594719"
-opening_hours: "Mo-Tu 09:00-13:00,14:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://www.leissl-struempfe.com/"
+street: Konrad-Adenauer-Straße
+housenumber: "11"
+phone: +49 6128 8594719
+opening_hours: Mo-Tu 09:00-13:00,14:00-18:00; We 09:00-13:00; Th-Fr 09:00-13:00,14:00-18:00;
+    Sa 09:00-13:00; PH off
+website: https://www.leissl-struempfe.com/

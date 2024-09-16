@@ -1,11 +1,11 @@
 id: 141655555
-type: way
+type: node
 latitude: 50.55119
 longitude: 9.71559
 postcode: "36043"
 city: Fulda
-street: "Dr.-Raabe-Straße"
-housenumber: 7
+street: Dr.-Raabe-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

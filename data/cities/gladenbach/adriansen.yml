@@ -4,8 +4,8 @@ latitude: 50.76906
 longitude: 8.58281
 postcode: "35075"
 city: Gladenbach
-street: "Bahnhofstraße"
-housenumber: 
+street: Bahnhofstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.adriansen-intersportgruppe.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.adriansen-intersportgruppe.de/

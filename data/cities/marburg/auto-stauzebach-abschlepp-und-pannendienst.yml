@@ -1,11 +1,11 @@
 id: 112617203
-type: way
+type: node
 latitude: 50.78596
 longitude: 8.76308
 postcode: "35043"
 city: Marburg
-street: "Im Rudert"
-housenumber: 10
-phone: "+49 6421 43027"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off"
-website: "https://www.auto-stauzebach.de/"
+street: Im Rudert
+housenumber: "10"
+phone: +49 6421 43027
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su,PH off
+website: https://www.auto-stauzebach.de/

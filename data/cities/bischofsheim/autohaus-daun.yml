@@ -1,11 +1,11 @@
 id: 259615365
-type: way
+type: node
 latitude: 49.97753
 longitude: 8.34648
 postcode: "65474"
 city: Bischofsheim
-street: "Dresdener Straße"
-housenumber: 15
+street: Dresdener Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

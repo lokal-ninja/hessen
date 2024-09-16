@@ -4,8 +4,8 @@ latitude: 51.27296
 longitude: 9.97414
 postcode: "37242"
 city: Bad Sooden-Allendorf
-street: "Kirchstraße"
-housenumber: 77
-phone: "+49 56522304"
-opening_hours: "Mo-Sa 08:30-13:00, Mo,Tu,Th,Fr 15:00-18:00"
-website: "https://buchhandlungfruehauf.buchkatalog.de/"
+street: Kirchstraße
+housenumber: "77"
+phone: +49 56522304
+opening_hours: Mo-Sa 08:30-13:00, Mo,Tu,Th,Fr 15:00-18:00
+website: https://buchhandlungfruehauf.buchkatalog.de/

@@ -1,11 +1,11 @@
 id: 362313390
-type: way
+type: node
 latitude: 49.99239
 longitude: 8.67295
 postcode: "63225"
 city: Langen (Hessen)
-street: "Langestraße"
-housenumber: 5
+street: Langestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

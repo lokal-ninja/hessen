@@ -1,11 +1,11 @@
 id: 28920777
-type: way
+type: node
 latitude: 50.14739
 longitude: 8.90755
 postcode: "63452"
 city: Hanau
-street: "Heldenbergener Straße"
-housenumber: 1
+street: Heldenbergener Straße
+housenumber: "1"
 phone: "08008002534"
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

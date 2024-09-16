@@ -1,11 +1,11 @@
 id: 28313161
-type: way
+type: node
 latitude: 50.39441
 longitude: 8.2023
 postcode: "65606"
 city: Villmar
-street: "Brotweg"
-housenumber: 2
+street: Brotweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/filialen/villmar/brotweg-2/3889"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de/filialen/villmar/brotweg-2/3889

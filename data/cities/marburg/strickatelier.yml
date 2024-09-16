@@ -4,8 +4,8 @@ latitude: 50.80778
 longitude: 8.76985
 postcode: "35037"
 city: Marburg
-street: "Untergasse"
-housenumber: 9
-phone: "+49 151 41296404"
-opening_hours: "We-Fr 10:00-18:00, Sa 11:00-16:00"
+street: Untergasse
+housenumber: "9"
+phone: +49 151 41296404
+opening_hours: We-Fr 10:00-18:00, Sa 11:00-16:00
 website: ""

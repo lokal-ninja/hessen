@@ -1,11 +1,11 @@
 id: 29132721
-type: way
+type: node
 latitude: 49.90198
 longitude: 8.60774
 postcode: "64331"
 city: Weiterstadt
-street: "Rudolf-Diesel-Straße"
-housenumber: 26
+street: Rudolf-Diesel-Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

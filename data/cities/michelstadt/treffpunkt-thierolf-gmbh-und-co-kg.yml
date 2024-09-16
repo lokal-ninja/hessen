@@ -1,11 +1,11 @@
 id: 89557408
-type: way
+type: node
 latitude: 49.68117
 longitude: 8.99961
 postcode: "64720"
 city: Michelstadt
-street: "Hammerweg"
-housenumber: 29
+street: Hammerweg
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

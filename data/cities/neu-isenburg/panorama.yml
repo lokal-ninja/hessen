@@ -4,8 +4,8 @@ latitude: 50.05462
 longitude: 8.69498
 postcode: "63263"
 city: Neu-Isenburg
-street: "Frankfurter Straße"
-housenumber: 59
+street: Frankfurter Straße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.panorama-store.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.panorama-store.de/

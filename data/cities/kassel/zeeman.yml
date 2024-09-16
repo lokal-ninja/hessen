@@ -1,11 +1,11 @@
 id: 165081107
-type: way
+type: node
 latitude: 51.31691
 longitude: 9.50001
 postcode: "34117"
 city: Kassel
-street: "Untere Königsstraße"
+street: Untere Königsstraße
 housenumber: 50a
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-19:00"
-website: "https://www.zeeman.com/"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-19:00
+website: https://www.zeeman.com/

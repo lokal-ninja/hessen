@@ -1,11 +1,11 @@
 id: 150690419
-type: way
+type: node
 latitude: 50.56012
 longitude: 9.66528
 postcode: "36039"
 city: Fulda
-street: "Horaser Weg"
-housenumber: 79
+street: Horaser Weg
+housenumber: "79"
 phone: ""
 opening_hours: ""
-website: "https://www.bikenau.de/"
+website: https://www.bikenau.de/

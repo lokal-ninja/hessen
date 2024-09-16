@@ -1,11 +1,11 @@
 id: 675989768
-type: way
+type: node
 latitude: 51.1306
 longitude: 9.5425
 postcode: "34212"
 city: Melsungen
-street: "Fritzlarer Straße"
-housenumber: 21
+street: Fritzlarer Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 9:00-12:00, 15:00-18:00;Sa 9:00-12:00"
+opening_hours: Mo, Tu, Th, Fr 9:00-12:00, 15:00-18:00;Sa 9:00-12:00
 website: ""

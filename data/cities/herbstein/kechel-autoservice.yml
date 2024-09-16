@@ -1,11 +1,11 @@
 id: 106965343
-type: way
+type: node
 latitude: 50.55495
 longitude: 9.35923
 postcode: ""
 city: Herbstein
-street: "Industriestraße"
-housenumber: 5
+street: Industriestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

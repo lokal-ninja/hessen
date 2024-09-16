@@ -1,11 +1,11 @@
 id: 139469727
-type: way
+type: node
 latitude: 50.05424
 longitude: 8.69476
 postcode: "63263"
 city: Neu-Isenburg
-street: "Ludwigstraße"
-housenumber: 76
-phone: "+49 6102 22739"
-opening_hours: "Di-Fr 14:00-18:00, Sa 09:00-14:00"
-website: "https://bier-mueller.de"
+street: Ludwigstraße
+housenumber: "76"
+phone: +49 6102 22739
+opening_hours: Di-Fr 14:00-18:00, Sa 09:00-14:00
+website: https://bier-mueller.de

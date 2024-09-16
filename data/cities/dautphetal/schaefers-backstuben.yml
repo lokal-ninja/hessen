@@ -4,8 +4,8 @@ latitude: 50.87232
 longitude: 8.59566
 postcode: "35232"
 city: Dautphetal
-street: "Neue Landstraße"
-housenumber: 53
-phone: "+49 6466 6336"
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-13:00; Su 07:30-10:30"
-website: "https://www.schaefers-backstuben.de/"
+street: Neue Landstraße
+housenumber: "53"
+phone: +49 6466 6336
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:00-13:00; Su 07:30-10:30
+website: https://www.schaefers-backstuben.de/

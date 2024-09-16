@@ -1,11 +1,11 @@
 id: 87212568
-type: way
+type: node
 latitude: 49.9187
 longitude: 8.51629
 postcode: "64572"
 city: Büttelborn
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

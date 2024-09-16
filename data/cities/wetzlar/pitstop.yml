@@ -1,11 +1,11 @@
 id: 152221861
-type: way
+type: node
 latitude: 50.55737
 longitude: 8.49515
 postcode: "35576"
 city: Wetzlar
-street: "Neustadt"
-housenumber: 25
-phone: "+49 6441 449 352"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://pitstop.de/werkstatt/wetzlar/"
+street: Neustadt
+housenumber: "25"
+phone: +49 6441 449 352
+opening_hours: Mo-Fr 08:00-18:00
+website: https://pitstop.de/werkstatt/wetzlar/

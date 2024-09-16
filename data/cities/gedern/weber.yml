@@ -1,11 +1,11 @@
 id: 123412927
-type: way
+type: node
 latitude: 50.3871
 longitude: 9.24674
 postcode: "63688"
 city: Gedern
-street: "Kefenröder Straße"
-housenumber: 8
+street: Kefenröder Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.01231
 longitude: 8.35685
 postcode: "65239"
 city: Hochheim am Main
-street: "Frankfurter Straße"
-housenumber: 31
-phone: "+49 6146 9101"
-opening_hours: "Fr-Mo 16:30+; PH,Su 15:30+"
-website: "http://www.weingut-mitter.de/"
+street: Frankfurter Straße
+housenumber: "31"
+phone: +49 6146 9101
+opening_hours: Fr-Mo 16:30+; PH,Su 15:30+
+website: http://www.weingut-mitter.de/

@@ -1,11 +1,11 @@
 id: 223038581
-type: way
+type: node
 latitude: 50.1448
 longitude: 8.93792
 postcode: "63452"
 city: Hanau
-street: "Möhnestraße"
-housenumber: 2
+street: Möhnestraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.malik-automobile.de/"
+website: https://www.malik-automobile.de/

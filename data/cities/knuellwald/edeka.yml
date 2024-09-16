@@ -1,11 +1,11 @@
 id: 137578998
-type: way
+type: node
 latitude: 51.00638
 longitude: 9.47043
 postcode: "34593"
 city: Knüllwald
-street: "Im Blumenfeld"
-housenumber: 1
-phone: "+49 5681 710971"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/hessenring/thorsten-hellwig-e.k.-im-blumenfeld-1/"
+street: Im Blumenfeld
+housenumber: "1"
+phone: +49 5681 710971
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/hessenring/thorsten-hellwig-e.k.-im-blumenfeld-1/

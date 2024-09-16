@@ -1,11 +1,11 @@
 id: 89980139
-type: way
+type: node
 latitude: 49.89902
 longitude: 8.61556
 postcode: "64331"
 city: Weiterstadt
-street: "Lagerstraße"
-housenumber: 2
+street: Lagerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

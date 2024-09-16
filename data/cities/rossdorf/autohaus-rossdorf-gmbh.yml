@@ -1,11 +1,11 @@
 id: 72148380
-type: way
+type: node
 latitude: 49.86517
 longitude: 8.74392
 postcode: "64380"
 city: Roßdorf
-street: "In den Leppsteinswiesen"
-housenumber: 7
-phone: "+49 6154 69800"
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-12:15,13:00-15:00"
-website: "http://www.autohaus-rossdorf.de/"
+street: In den Leppsteinswiesen
+housenumber: "7"
+phone: +49 6154 69800
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-12:15,13:00-15:00
+website: http://www.autohaus-rossdorf.de/

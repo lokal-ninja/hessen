@@ -4,8 +4,8 @@ latitude: 51.31201
 longitude: 9.47204
 postcode: "34121"
 city: Kassel
-street: "Wilhelmshöher Allee"
-housenumber: 91
-phone: "+49 561 5298780"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.tegut.com/"
+street: Wilhelmshöher Allee
+housenumber: "91"
+phone: +49 561 5298780
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.tegut.com/

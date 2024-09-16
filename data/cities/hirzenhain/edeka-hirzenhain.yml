@@ -1,11 +1,11 @@
 id: 106937775
-type: way
+type: node
 latitude: 50.39271
 longitude: 9.13533
 postcode: "63697"
 city: Hirzenhain
-street: "Nidderstraße"
-housenumber: 3
-phone: "+49 6045 952870"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/"
+street: Nidderstraße
+housenumber: "3"
+phone: +49 6045 952870
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/

@@ -1,11 +1,11 @@
 id: 1287779032
-type: way
+type: node
 latitude: 49.54545
 longitude: 8.58793
 postcode: "68519"
 city: Viernheim
-street: "Wiesenstraße"
-housenumber: 76
-phone: "+49 6204 9862650"
+street: Wiesenstraße
+housenumber: "76"
+phone: +49 6204 9862650
 opening_hours: ""
-website: "https://autozrn.de"
+website: https://autozrn.de

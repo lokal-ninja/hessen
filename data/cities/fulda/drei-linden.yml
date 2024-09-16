@@ -1,11 +1,11 @@
 id: 608273897
-type: way
+type: node
 latitude: 50.5485
 longitude: 9.66142
 postcode: "36041"
 city: Fulda
-street: "Neuenberger Straße"
-housenumber: 37
-phone: "+49 661 73131"
+street: Neuenberger Straße
+housenumber: "37"
+phone: +49 661 73131
 opening_hours: ""
-website: "https://www.dreilinden-fulda.de/"
+website: https://www.dreilinden-fulda.de/

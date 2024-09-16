@@ -4,8 +4,8 @@ latitude: 50.51438
 longitude: 8.57992
 postcode: "35625"
 city: Hüttenberg
-street: "Buchenweg"
-housenumber: 3
-phone: "+49 176 45918279"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://shisha-express.com"
+street: Buchenweg
+housenumber: "3"
+phone: +49 176 45918279
+opening_hours: Mo-Sa 08:00-19:00
+website: https://shisha-express.com

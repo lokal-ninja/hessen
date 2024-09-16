@@ -4,8 +4,8 @@ latitude: 49.86172
 longitude: 8.65346
 postcode: "64285"
 city: Darmstadt
-street: "Karlstraße"
-housenumber: 107
-phone: "+49 6151 6277600"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Karlstraße
+housenumber: "107"
+phone: +49 6151 6277600
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

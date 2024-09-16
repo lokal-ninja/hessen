@@ -1,11 +1,12 @@
 id: 118067021
-type: way
+type: node
 latitude: 50.0611
 longitude: 8.81485
 postcode: "63150"
 city: Heusenstamm
-street: "Am Goldberg"
-housenumber: 2
+street: Am Goldberg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30 open Verkauf - Service und Teiledienst abweichend, Sa 09:00-13:00 open Verkauf - Service und Teiledienst abweichend; Su,PH off"
+opening_hours: Mo-Fr 08:30-18:30 open "Verkauf - Service und Teiledienst abweichend",
+    Sa 09:00-13:00 open "Verkauf - Service und Teiledienst abweichend"; Su,PH off
 website: ""

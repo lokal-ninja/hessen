@@ -4,8 +4,9 @@ latitude: 51.09541
 longitude: 8.62383
 postcode: "35108"
 city: Allendorf (Eder)
-street: "Langelohstraße"
-housenumber: 2
+street: Langelohstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo, Th 08:00-12:30; Tu, We, Fr 08:00-12:30, 15:00-18:00; Sa 07:00-12:30; Su, PH off"
+opening_hours: Mo, Th 08:00-12:30; Tu, We, Fr 08:00-12:30, 15:00-18:00; Sa 07:00-12:30;
+    Su, PH off
 website: ""

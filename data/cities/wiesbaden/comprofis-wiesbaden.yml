@@ -4,8 +4,8 @@ latitude: 50.0773
 longitude: 8.23591
 postcode: "65185"
 city: Wiesbaden
-street: "Rheinstraße"
-housenumber: 66
-phone: "+49 611 3083712"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.comprofis.de"
+street: Rheinstraße
+housenumber: "66"
+phone: +49 611 3083712
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.comprofis.de

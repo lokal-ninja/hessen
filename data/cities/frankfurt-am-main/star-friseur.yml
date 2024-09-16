@@ -4,8 +4,8 @@ latitude: 50.10796
 longitude: 8.66986
 postcode: "60329"
 city: Frankfurt am Main
-street: "Münchener Straße"
-housenumber: 18
-phone: "+49 1522 3201410"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://starfriseur.business.site/"
+street: Münchener Straße
+housenumber: "18"
+phone: +49 1522 3201410
+opening_hours: Mo-Sa 08:00-20:00
+website: https://starfriseur.business.site/

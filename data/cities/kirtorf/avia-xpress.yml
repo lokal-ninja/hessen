@@ -1,11 +1,11 @@
 id: 674060912
-type: way
+type: node
 latitude: 50.76698
 longitude: 9.10841
 postcode: "36320"
 city: Kirtorf
-street: "Alsfelder Straße"
-housenumber: 13
-phone: "+49 661 83910"
-opening_hours: "24/7"
-website: "https://www.avia.de/privatkunden/avia-tankstellen/tankstellen-suche/tankstellen-details.html?facilityID=7386&dataType=Tankstelle"
+street: Alsfelder Straße
+housenumber: "13"
+phone: +49 661 83910
+opening_hours: 24/7
+website: https://www.avia.de/privatkunden/avia-tankstellen/tankstellen-suche/tankstellen-details.html?facilityID=7386&dataType=Tankstelle

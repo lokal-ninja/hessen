@@ -1,11 +1,11 @@
 id: 315902357
-type: way
+type: node
 latitude: 50.77531
 longitude: 8.74943
 postcode: "35043"
 city: Marburg
-street: "An den Weiden"
-housenumber: 2
+street: An den Weiden
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 199012653
-type: way
+type: node
 latitude: 50.02381
 longitude: 8.10352
 postcode: "65346"
 city: Eltville am Rhein
-street: "Erbacher Straße"
-housenumber: 33
+street: Erbacher Straße
+housenumber: "33"
 phone: "+4961239751210"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://toom.de/m/eltville/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://toom.de/m/eltville/

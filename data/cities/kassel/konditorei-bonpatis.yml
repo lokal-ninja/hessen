@@ -4,8 +4,8 @@ latitude: 51.31322
 longitude: 9.44463
 postcode: "34131"
 city: Kassel
-street: "Landgraf-Karl-Straße"
-housenumber: 3
+street: Landgraf-Karl-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00"
-website: "http://www.bonpatis.de"
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-14:00
+website: http://www.bonpatis.de

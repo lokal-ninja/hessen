@@ -1,11 +1,11 @@
 id: 1059374672
-type: way
+type: node
 latitude: 50.72623
 longitude: 8.64589
 postcode: "35102"
 city: Lohra
-street: "Fronhäuser Straße"
-housenumber: 12
+street: Fronhäuser Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu 10:00-18:30; Fr 10:00-18:30; Sa 09:00-15:00"
-website: "https://caspersch-hof.de/"
+opening_hours: Tu 10:00-18:30; Fr 10:00-18:30; Sa 09:00-15:00
+website: https://caspersch-hof.de/

@@ -4,8 +4,8 @@ latitude: 49.70549
 longitude: 8.60975
 postcode: "64625"
 city: Bensheim
-street: "Berliner Ring"
-housenumber: 175
-phone: "+49 800 4209050"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-13:30; Su off; PH off"
-website: "https://ww2.carglass.de/"
+street: Berliner Ring
+housenumber: "175"
+phone: +49 800 4209050
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-13:30; Su off; PH off
+website: https://ww2.carglass.de/

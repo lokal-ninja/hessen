@@ -1,11 +1,11 @@
 id: 158697317
-type: way
+type: node
 latitude: 49.99688
 longitude: 8.66192
 postcode: "63225"
 city: Langen (Hessen)
-street: "Weserstraße"
-housenumber: 22
-phone: "+49 6103 386 40 60"
-opening_hours: "Mo-Th 07:45-17:45; Fr 07:00-15:45"
-website: "http://manufaktur-kuehn.de"
+street: Weserstraße
+housenumber: "22"
+phone: +49 6103 386 40 60
+opening_hours: Mo-Th 07:45-17:45; Fr 07:00-15:45
+website: http://manufaktur-kuehn.de

@@ -4,8 +4,10 @@ latitude: 49.86124
 longitude: 8.65306
 postcode: "64285"
 city: Darmstadt
-street: "Hermannstraße"
-housenumber: 1
+street: Hermannstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Sep-Apr Mo-Fr 15:00-19:00; Sep-Apr Tu off; Sep-Apr Th off; Sep-Apr Sa 10:00-13:00; May-Aug Mo-Fr 15:00-19:00; May-Aug Tu off; May-Aug Th off; May-Aug Sa off"
-website: "http://www.vintagezauber.de"
+opening_hours: Sep-Apr Mo-Fr 15:00-19:00; Sep-Apr Tu off; Sep-Apr Th off; Sep-Apr
+    Sa 10:00-13:00; May-Aug Mo-Fr 15:00-19:00; May-Aug Tu off; May-Aug Th off; May-Aug
+    Sa off
+website: http://www.vintagezauber.de

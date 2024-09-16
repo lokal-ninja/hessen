@@ -4,8 +4,8 @@ latitude: 49.86014
 longitude: 8.55741
 postcode: "64347"
 city: Griesheim
-street: "Wilhelm-Leuschner-Straße"
-housenumber: 10
-phone: "+49 6155 605645"
-opening_hours: "Mo-Th 9:00-13:00,14:00-18:30; Fr 9:00-18:30; Sa 9:00-13:00"
-website: "https://hirt.de/"
+street: Wilhelm-Leuschner-Straße
+housenumber: "10"
+phone: +49 6155 605645
+opening_hours: Mo-Th 9:00-13:00,14:00-18:30; Fr 9:00-18:30; Sa 9:00-13:00
+website: https://hirt.de/

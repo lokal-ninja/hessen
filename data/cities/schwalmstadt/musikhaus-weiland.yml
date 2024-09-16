@@ -1,11 +1,11 @@
 id: 177883234
-type: way
+type: node
 latitude: 50.91784
 longitude: 9.19125
 postcode: "34613"
 city: Schwalmstadt
-street: "Friedrich-Ebert-Straße"
-housenumber: 35
+street: Friedrich-Ebert-Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "http://musikweiland.de/"
+website: http://musikweiland.de/

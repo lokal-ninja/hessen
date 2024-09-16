@@ -1,11 +1,11 @@
 id: 201556689
-type: way
+type: node
 latitude: 49.96384
 longitude: 8.64214
 postcode: "63329"
 city: Egelsbach
-street: "Hans-Fleissner-Straße"
-housenumber: 82
-phone: "+49 151 58 91 93 83"
+street: Hans-Fleissner-Straße
+housenumber: "82"
+phone: +49 151 58 91 93 83
 opening_hours: ""
-website: "https://www.ringeltaube.de/standorte/egelsbach/"
+website: https://www.ringeltaube.de/standorte/egelsbach/

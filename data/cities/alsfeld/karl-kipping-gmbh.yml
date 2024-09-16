@@ -1,11 +1,11 @@
 id: 102844898
-type: way
+type: node
 latitude: 50.74009
 longitude: 9.25826
 postcode: ""
 city: Alsfeld
-street: "Karl-Bröger-Straße"
-housenumber: 4
+street: Karl-Bröger-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 121266618
-type: way
+type: node
 latitude: 50.0873
 longitude: 8.63084
 postcode: "60528"
 city: Frankfurt am Main
-street: "Hahnstraße"
-housenumber: 8
+street: Hahnstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

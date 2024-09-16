@@ -4,8 +4,8 @@ latitude: 49.85963
 longitude: 8.64669
 postcode: "64285"
 city: Darmstadt
-street: "Heidelberger Straße"
-housenumber: 75
-phone: "+49 6151 312134"
-opening_hours: "Mo-Fr 08:30-13:00,14:30-18:00; Sa 08:30-13:00"
-website: "http://www.uhren-pannen.de/"
+street: Heidelberger Straße
+housenumber: "75"
+phone: +49 6151 312134
+opening_hours: Mo-Fr 08:30-13:00,14:30-18:00; Sa 08:30-13:00
+website: http://www.uhren-pannen.de/

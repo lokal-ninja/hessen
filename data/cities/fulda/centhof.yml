@@ -1,11 +1,11 @@
 id: 130127960
-type: way
+type: node
 latitude: 50.55385
 longitude: 9.68256
 postcode: "36037"
 city: Fulda
-street: "Bahnhofstraße"
-housenumber: 26
+street: Bahnhofstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00; PH off"
-website: "https://centhof.de/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00; PH off
+website: https://centhof.de/

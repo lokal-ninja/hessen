@@ -1,11 +1,12 @@
 id: 647776932
-type: way
+type: node
 latitude: 50.44796
 longitude: 8.25769
 postcode: "35796"
 city: Weinbach
-street: "Bahnhofstraße"
-housenumber: 5
-phone: "+49 6471 492747"
-opening_hours: "Tu 08:30-12:00, 13:30-18:00, We 08:30-12:00, 13:30-20:00, Fr 08:30-12:00, 13:30-18:00, Sa 08:30-13:00"
+street: Bahnhofstraße
+housenumber: "5"
+phone: +49 6471 492747
+opening_hours: Tu 08:30-12:00, 13:30-18:00, We 08:30-12:00, 13:30-20:00, Fr 08:30-12:00,
+    13:30-18:00, Sa 08:30-13:00
 website: ""

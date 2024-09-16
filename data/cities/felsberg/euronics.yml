@@ -1,11 +1,11 @@
 id: 839749043
-type: way
+type: node
 latitude: 51.13416
 longitude: 9.42802
 postcode: "34587"
 city: Felsberg
-street: "Steinweg"
-housenumber: 15
-phone: "+49 5662 94960"
-opening_hours: "Mo-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-12:30"
-website: "https://www.euronics.de/felsberg-winzenburg/"
+street: Steinweg
+housenumber: "15"
+phone: +49 5662 94960
+opening_hours: Mo-Fr 08:30-12:30, 14:00-18:00; Sa 08:30-12:30
+website: https://www.euronics.de/felsberg-winzenburg/

@@ -4,8 +4,8 @@ latitude: 50.07779
 longitude: 8.2356
 postcode: "65185"
 city: Wiesbaden
-street: "Rheinstraße"
-housenumber: 71
-phone: "+49 611 36056114"
-opening_hours: "Tu-Th 09:00-16:00, Fr 09:00-18:00, Sa 10:00-14:00"
-website: "https://www.charisma-haarteam.de"
+street: Rheinstraße
+housenumber: "71"
+phone: +49 611 36056114
+opening_hours: Tu-Th 09:00-16:00, Fr 09:00-18:00, Sa 10:00-14:00
+website: https://www.charisma-haarteam.de

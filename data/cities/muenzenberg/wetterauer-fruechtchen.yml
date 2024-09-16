@@ -4,8 +4,8 @@ latitude: 50.4726
 longitude: 8.71195
 postcode: "35516"
 city: Münzenberg
-street: "Altstädter Feld"
-housenumber: 1
-phone: "+49 6033 9289000"
-opening_hours: "Mo-Sa 09:00-18:00; Su 09:00-17:00"
-website: "https://www.wetterauer-fruechtchen.de/"
+street: Altstädter Feld
+housenumber: "1"
+phone: +49 6033 9289000
+opening_hours: Mo-Sa 09:00-18:00; Su 09:00-17:00
+website: https://www.wetterauer-fruechtchen.de/

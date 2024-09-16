@@ -1,11 +1,11 @@
 id: 150550626
-type: way
+type: node
 latitude: 51.27472
 longitude: 9.43781
 postcode: "34132"
 city: Kassel
-street: "Mattenbergstraße"
-housenumber: 70
-phone: "+49 561 97915046"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de"
+street: Mattenbergstraße
+housenumber: "70"
+phone: +49 561 97915046
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.thomas-philipps.de

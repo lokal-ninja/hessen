@@ -4,8 +4,8 @@ latitude: 49.99178
 longitude: 8.65904
 postcode: "63225"
 city: Langen (Hessen)
-street: "Bahnstraße"
-housenumber: 123
-phone: "+49 6103 9950040"
-opening_hours: "Tu-We 10:00-18:00; Th 10:00-20:00; Fr 10:00-18:00; Sa 08:00-13:00"
-website: "https://www.faree.de/"
+street: Bahnstraße
+housenumber: "123"
+phone: +49 6103 9950040
+opening_hours: Tu-We 10:00-18:00; Th 10:00-20:00; Fr 10:00-18:00; Sa 08:00-13:00
+website: https://www.faree.de/

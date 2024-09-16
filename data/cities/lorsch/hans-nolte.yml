@@ -1,11 +1,11 @@
 id: 122067436
-type: way
+type: node
 latitude: 49.65617
 longitude: 8.56313
 postcode: "64653"
 city: Lorsch
-street: "Moltkestraße"
-housenumber: 17
-phone: "+49 6251 52037"
+street: Moltkestraße
+housenumber: "17"
+phone: +49 6251 52037
 opening_hours: ""
 website: ""

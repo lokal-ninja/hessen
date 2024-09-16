@@ -4,8 +4,8 @@ latitude: 50.49219
 longitude: 8.47606
 postcode: "35641"
 city: Schöffengrund
-street: "Steuterweg"
-housenumber: 23
+street: Steuterweg
+housenumber: "23"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.mengin-linden.de/"
+opening_hours: 24/7
+website: https://www.mengin-linden.de/

@@ -1,11 +1,11 @@
 id: 529801029
-type: way
+type: node
 latitude: 51.12493
 longitude: 10.11495
 postcode: "37299"
 city: Weißenborn
-street: "Bachstraße"
-housenumber: 21
-phone: "+49 5659 357"
-opening_hours: "Mo-Sa 06:00-13:00; Tu-Fr 15:00-15:00; Su 08:00-10:00"
+street: Bachstraße
+housenumber: "21"
+phone: +49 5659 357
+opening_hours: Mo-Sa 06:00-13:00; Tu-Fr 15:00-15:00; Su 08:00-10:00
 website: ""

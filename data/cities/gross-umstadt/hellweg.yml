@@ -1,11 +1,11 @@
 id: 169955709
-type: way
+type: node
 latitude: 49.87015
 longitude: 8.91688
 postcode: "64823"
 city: Groß-Umstadt
-street: "Georg-August-Zinn-Straße"
-housenumber: 92
-phone: "+49 6078 93530"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Georg-August-Zinn-Straße
+housenumber: "92"
+phone: +49 6078 93530
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

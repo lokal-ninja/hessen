@@ -4,8 +4,8 @@ latitude: 50.74189
 longitude: 9.47741
 postcode: "36323"
 city: Grebenau
-street: "Bahnhofstraße"
-housenumber: 24
-phone: "+49 66 39 96 10 15"
-opening_hours: "24/7"
-website: "https://www.raiffeisen-warendienst.de/standorte/grebenau/"
+street: Bahnhofstraße
+housenumber: "24"
+phone: +49 66 39 96 10 15
+opening_hours: 24/7
+website: https://www.raiffeisen-warendienst.de/standorte/grebenau/

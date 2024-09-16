@@ -1,11 +1,11 @@
 id: 48994379
-type: way
+type: node
 latitude: 50.77382
 longitude: 9.35789
 postcode: "36304"
 city: Alsfeld
-street: "Schulstraße"
-housenumber: 4
+street: Schulstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

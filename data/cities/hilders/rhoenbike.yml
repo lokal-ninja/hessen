@@ -4,8 +4,8 @@ latitude: 50.5712
 longitude: 9.99989
 postcode: "36115"
 city: Hilders
-street: "Bahnhofstraße"
-housenumber: 10
-phone: "+49 6681 8372"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-13:00"
-website: "https://rhoen-bike.de/"
+street: Bahnhofstraße
+housenumber: "10"
+phone: +49 6681 8372
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-12:00, 14:00-18:00; Sa 09:00-13:00
+website: https://rhoen-bike.de/

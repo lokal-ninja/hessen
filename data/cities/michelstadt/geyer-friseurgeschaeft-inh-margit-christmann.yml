@@ -1,11 +1,11 @@
 id: 261158745
-type: way
+type: node
 latitude: 49.6856
 longitude: 8.99454
 postcode: "64720"
 city: Michelstadt
-street: "Brückenstraße"
-housenumber: 7
+street: Brückenstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 159832171
-type: way
+type: node
 latitude: 51.35321
 longitude: 9.46532
 postcode: "34246"
 city: Vellmar
-street: "Lange Wender"
-housenumber: 2
-phone: "+49 561 8209322"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-16:00; PH off"
-website: "https://www.atu.de/filialen/20-kassel-vellmar/"
+street: Lange Wender
+housenumber: "2"
+phone: +49 561 8209322
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-16:00; PH off
+website: https://www.atu.de/filialen/20-kassel-vellmar/

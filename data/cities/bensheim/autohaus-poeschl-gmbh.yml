@@ -4,8 +4,8 @@ latitude: 49.67641
 longitude: 8.61481
 postcode: "64625"
 city: Bensheim
-street: "Fabrikstraße"
-housenumber: 3
-phone: "+49 6251 61488"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off; PH off"
-website: "https://www.kia-poeschl-bensheim.de/"
+street: Fabrikstraße
+housenumber: "3"
+phone: +49 6251 61488
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su off; PH off
+website: https://www.kia-poeschl-bensheim.de/

@@ -1,11 +1,11 @@
 id: 129864950
-type: way
+type: node
 latitude: 50.85584
 longitude: 9.46227
 postcode: "36280"
 city: Oberaula
-street: "Schwimmbadstraße"
-housenumber: 1
-phone: "+49 6628 91530"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "http://www.rewe.de/"
+street: Schwimmbadstraße
+housenumber: "1"
+phone: +49 6628 91530
+opening_hours: Mo-Sa 07:00-21:00
+website: http://www.rewe.de/

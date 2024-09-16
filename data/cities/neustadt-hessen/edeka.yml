@@ -1,11 +1,11 @@
 id: 234460914
-type: way
+type: node
 latitude: 50.85075
 longitude: 9.11444
 postcode: "35279"
 city: Neustadt (Hessen)
-street: "Hindenburgstraße"
-housenumber: 10
-phone: "+49 6692 919800"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00"
-website: "https://www.edeka.de/eh/hessenring/markus-pfaff-hindenburgerstr.-10/index.jsp"
+street: Hindenburgstraße
+housenumber: "10"
+phone: +49 6692 919800
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00
+website: https://www.edeka.de/eh/hessenring/markus-pfaff-hindenburgerstr.-10/index.jsp

@@ -1,11 +1,11 @@
 id: 234901202
-type: way
+type: node
 latitude: 50.52865
 longitude: 9.73344
 postcode: "36093"
 city: Künzell
-street: "Am Frankengrund"
-housenumber: 10
-phone: "+49 661 75972"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-18:00; Su 07:00-18:00"
-website: "http://www.storch-familienbaeckerei.de/"
+street: Am Frankengrund
+housenumber: "10"
+phone: +49 661 75972
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-18:00; Su 07:00-18:00
+website: http://www.storch-familienbaeckerei.de/

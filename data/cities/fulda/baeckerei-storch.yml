@@ -4,8 +4,8 @@ latitude: 50.56353
 longitude: 9.63113
 postcode: "36041"
 city: Fulda
-street: "Am Ried"
-housenumber: 12
+street: Am Ried
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:00, Sa 06:00-12:30, Su 07:00-11:00"
-website: "http://www.storch-familienbaeckerei.de/"
+opening_hours: Mo-Fr 06:00-13:00, Sa 06:00-12:30, Su 07:00-11:00
+website: http://www.storch-familienbaeckerei.de/

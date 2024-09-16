@@ -1,11 +1,11 @@
 id: 412974761
-type: way
+type: node
 latitude: 51.11086
 longitude: 9.73635
 postcode: "34286"
 city: Spangenberg
-street: "Heckenrain"
-housenumber: 6
+street: Heckenrain
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

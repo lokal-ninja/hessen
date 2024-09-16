@@ -1,11 +1,11 @@
 id: 119854265
-type: way
+type: node
 latitude: 50.5159
 longitude: 9.31216
 postcode: ""
 city: Grebenhain
-street: "Wiesenweg"
-housenumber: 6
+street: Wiesenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

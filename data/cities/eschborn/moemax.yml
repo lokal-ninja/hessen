@@ -1,11 +1,11 @@
 id: 160840203
-type: way
+type: node
 latitude: 50.13566
 longitude: 8.55966
 postcode: "65760"
 city: Eschborn
-street: "Elly-Beinhorn-Straße"
+street: Elly-Beinhorn-Straße
 housenumber: 3a
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.moemax.de/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.moemax.de/

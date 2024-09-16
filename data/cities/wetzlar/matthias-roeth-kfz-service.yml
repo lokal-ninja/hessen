@@ -1,11 +1,11 @@
 id: 252371682
-type: way
+type: node
 latitude: 50.55119
 longitude: 8.4917
 postcode: "35578"
 city: Wetzlar
-street: "Ernst-Leitz-Straße"
-housenumber: 65
-phone: "+49 6441 446 3223"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 09:00-12:00"
-website: "https://roeth-kfz-wetzlar.de"
+street: Ernst-Leitz-Straße
+housenumber: "65"
+phone: +49 6441 446 3223
+opening_hours: Mo-Fr 08:30-17:00; Sa 09:00-12:00
+website: https://roeth-kfz-wetzlar.de

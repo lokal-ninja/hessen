@@ -1,11 +1,11 @@
 id: 151086621
-type: way
+type: node
 latitude: 50.58477
 longitude: 8.4805
 postcode: "35614"
 city: Aßlar
-street: "Walbergraben"
-housenumber: 18
-phone: "+49 6441 8970123"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "http://www.siemes.de"
+street: Walbergraben
+housenumber: "18"
+phone: +49 6441 8970123
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: http://www.siemes.de

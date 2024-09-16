@@ -4,8 +4,8 @@ latitude: 50.2895
 longitude: 8.50869
 postcode: "61267"
 city: Neu-Anspach
-street: "Saalburgstraße"
-housenumber: 2
-phone: "+49 6081 7904"
-opening_hours: "Mo-Fr 07:00-18:45; Sa 07:00-14:00"
-website: "http://www.henrici.de/"
+street: Saalburgstraße
+housenumber: "2"
+phone: +49 6081 7904
+opening_hours: Mo-Fr 07:00-18:45; Sa 07:00-14:00
+website: http://www.henrici.de/

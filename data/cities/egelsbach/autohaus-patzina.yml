@@ -1,11 +1,11 @@
 id: 382537463
-type: way
+type: node
 latitude: 49.96323
 longitude: 8.67071
 postcode: "63329"
 city: Egelsbach
-street: "Im Geisbaum"
-housenumber: 19
+street: Im Geisbaum
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-patzina.de/index.html"
+website: https://www.autohaus-patzina.de/index.html

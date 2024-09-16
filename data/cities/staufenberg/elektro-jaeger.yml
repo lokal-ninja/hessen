@@ -1,11 +1,11 @@
 id: 56269905
-type: way
+type: node
 latitude: 50.66118
 longitude: 8.74397
 postcode: "35460"
 city: Staufenberg
-street: "Treiser Straße"
-housenumber: 12
+street: Treiser Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.54637
 longitude: 8.50352
 postcode: "35578"
 city: Wetzlar
-street: "Nauborner Straße"
-housenumber: 80
-phone: "+49 6441 9219 60"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://carmen-zarra.de"
+street: Nauborner Straße
+housenumber: "80"
+phone: +49 6441 9219 60
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://carmen-zarra.de

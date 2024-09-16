@@ -4,8 +4,8 @@ latitude: 50.02751
 longitude: 8.10987
 postcode: "65343"
 city: Eltville am Rhein
-street: "Kiedricher Straße"
-housenumber: 39
-phone: "+49 6123 4502"
-opening_hours: "Mo-Fr 09:00-03:00,15:00-18:30; Sa 09:00-13:00; PH off"
-website: "https://www.thomasgrammel.de/"
+street: Kiedricher Straße
+housenumber: "39"
+phone: +49 6123 4502
+opening_hours: Mo-Fr 09:00-03:00,15:00-18:30; Sa 09:00-13:00; PH off
+website: https://www.thomasgrammel.de/

@@ -1,11 +1,12 @@
 id: 158890526
-type: way
+type: node
 latitude: 50.13949
 longitude: 9.14385
 postcode: "63579"
 city: Freigericht
-street: "Hauptstraße"
-housenumber: 110
-phone: "+49 6055 5520"
-opening_hours: "Tu 08:30-18:00; We 08:30-14:00; Th,Fr 08:30-19:00; Sa 08:00-14:00; Su,Mo,PH off"
+street: Hauptstraße
+housenumber: "110"
+phone: +49 6055 5520
+opening_hours: Tu 08:30-18:00; We 08:30-14:00; Th,Fr 08:30-19:00; Sa 08:00-14:00;
+    Su,Mo,PH off
 website: ""

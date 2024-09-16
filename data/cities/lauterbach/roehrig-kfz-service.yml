@@ -1,11 +1,11 @@
 id: 101785154
-type: way
+type: node
 latitude: 50.6435
 longitude: 9.40333
 postcode: ""
 city: Lauterbach
-street: "Am Brennerwasser"
-housenumber: 13
+street: Am Brennerwasser
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,12 @@
 id: 439468242
-type: way
+type: node
 latitude: 51.18263
 longitude: 10.16975
 postcode: "37281"
 city: Wanfried
-street: "Marktstraße"
-housenumber: 10
+street: Marktstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo 09:00-13:00; Tu 08:30-12:00; We 14:00-18:00; Th 14:00-18:00; Fr 08:30-12:00,14:00-18:00; Sa 09:30-14:00"
-website: "http://de.dawanda.com/shop/ramona-schaefer-1"
+opening_hours: Mo 09:00-13:00; Tu 08:30-12:00; We 14:00-18:00; Th 14:00-18:00; Fr
+    08:30-12:00,14:00-18:00; Sa 09:30-14:00
+website: http://de.dawanda.com/shop/ramona-schaefer-1

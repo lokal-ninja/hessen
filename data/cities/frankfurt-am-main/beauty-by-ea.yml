@@ -4,8 +4,8 @@ latitude: 50.15978
 longitude: 8.64806
 postcode: "60439"
 city: Frankfurt am Main
-street: "Heddernheimer Landstraße"
+street: Heddernheimer Landstraße
 housenumber: 27-31
 phone: "+491734123441"
-opening_hours: "Termine nach Absprache"
-website: "https://www.beauty-ea.de/"
+opening_hours: '"Termine nach Absprache"'
+website: https://www.beauty-ea.de/

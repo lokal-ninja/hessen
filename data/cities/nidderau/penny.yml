@@ -1,11 +1,11 @@
 id: 87733628
-type: way
+type: node
 latitude: 50.23362
 longitude: 8.86226
 postcode: "61130"
 city: Nidderau
-street: "Büdesheimer Straße"
-housenumber: 1
+street: Büdesheimer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:30; PH off"
+opening_hours: Mo-Sa 07:30-20:30; PH off
 website: ""

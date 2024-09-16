@@ -1,11 +1,11 @@
 id: 140063440
-type: way
+type: node
 latitude: 50.19986
 longitude: 9.19105
 postcode: "63571"
 city: Gelnhausen
-street: "Am Ziegelturm"
-housenumber: 5
+street: Am Ziegelturm
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

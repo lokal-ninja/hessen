@@ -1,11 +1,11 @@
 id: 129014370
-type: way
+type: node
 latitude: 50.60476
 longitude: 8.37395
 postcode: "35630"
 city: Ehringshausen
-street: "Herborner Straße"
-housenumber: 46
+street: Herborner Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

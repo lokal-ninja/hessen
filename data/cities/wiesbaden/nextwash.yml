@@ -4,8 +4,8 @@ latitude: 50.04381
 longitude: 8.24136
 postcode: "65203"
 city: Wiesbaden
-street: "Straße der Republik"
-housenumber: 19
-phone: "0611-94584932"
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://nextwash.de/waschsalons/index.html"
+street: Straße der Republik
+housenumber: "19"
+phone: 0611-94584932
+opening_hours: Mo-Sa 06:00-22:00
+website: https://nextwash.de/waschsalons/index.html

@@ -4,8 +4,8 @@ latitude: 51.18698
 longitude: 10.06045
 postcode: "37269"
 city: Eschwege
-street: "Brühl"
-housenumber: 3
-phone: "+49 5651 31485"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-13:00"
-website: "https://www.keilerjagd.de/"
+street: Brühl
+housenumber: "3"
+phone: +49 5651 31485
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-13:00
+website: https://www.keilerjagd.de/

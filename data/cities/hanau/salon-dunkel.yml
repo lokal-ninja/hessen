@@ -4,8 +4,8 @@ latitude: 50.10318
 longitude: 8.94652
 postcode: "63457"
 city: Hanau
-street: "Sandgasse"
-housenumber: 2
+street: Sandgasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://salondunkel.de/"
+website: http://salondunkel.de/

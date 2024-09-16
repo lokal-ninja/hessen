@@ -1,11 +1,11 @@
 id: 309631266
-type: way
+type: node
 latitude: 50.38702
 longitude: 8.74617
 postcode: "61231"
 city: Bad Nauheim
-street: "Freiacker"
-housenumber: 1
+street: Freiacker
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

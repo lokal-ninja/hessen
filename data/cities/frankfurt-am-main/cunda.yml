@@ -4,8 +4,8 @@ latitude: 50.15847
 longitude: 8.63418
 postcode: "60439"
 city: Frankfurt am Main
-street: "Tituscorso"
-housenumber: 1
-phone: "+49 69 5308730"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.c-and-a.com/stores/de-de/hessen/frankfurt-am-main/tituscorso-1.html"
+street: Tituscorso
+housenumber: "1"
+phone: +49 69 5308730
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.c-and-a.com/stores/de-de/hessen/frankfurt-am-main/tituscorso-1.html

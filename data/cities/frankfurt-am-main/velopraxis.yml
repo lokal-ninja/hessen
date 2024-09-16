@@ -4,8 +4,8 @@ latitude: 50.10373
 longitude: 8.69112
 postcode: "60594"
 city: Frankfurt am Main
-street: "Dreieichstraße"
-housenumber: 48
-phone: "+49 69 43000899"
-opening_hours: "Mo-Fr 10:00-13:30,15:00-19:30; Sa 10:00-15:00; We off"
-website: "https://www.velopraxis.de"
+street: Dreieichstraße
+housenumber: "48"
+phone: +49 69 43000899
+opening_hours: Mo-Fr 10:00-13:30,15:00-19:30; Sa 10:00-15:00; We off
+website: https://www.velopraxis.de

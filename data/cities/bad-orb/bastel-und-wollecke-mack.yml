@@ -1,11 +1,11 @@
 id: 66754668
-type: way
+type: node
 latitude: 50.2251
 longitude: 9.34806
 postcode: "63619"
 city: Bad Orb
-street: "Obertorstraße"
-housenumber: 2
+street: Obertorstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

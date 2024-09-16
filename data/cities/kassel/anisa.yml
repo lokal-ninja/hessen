@@ -4,8 +4,8 @@ latitude: 51.31221
 longitude: 9.4908
 postcode: "34117"
 city: Kassel
-street: "Fünffensterstraße"
-housenumber: 12
-phone: "+49 561 76640880"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Fünffensterstraße
+housenumber: "12"
+phone: +49 561 76640880
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

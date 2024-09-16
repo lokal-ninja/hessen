@@ -4,8 +4,8 @@ latitude: 50.55532
 longitude: 8.49997
 postcode: "35578"
 city: Wetzlar
-street: "Lahnstraße"
-housenumber: 30
+street: Lahnstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
 website: ""

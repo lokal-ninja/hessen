@@ -1,11 +1,11 @@
 id: 390573816
-type: way
+type: node
 latitude: 51.34279
 longitude: 9.85638
 postcode: "37213"
 city: Witzenhausen
-street: "Ermschwerder Straße"
-housenumber: 16
+street: Ermschwerder Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Tu,Th 09:30-18:00; We 09:30-16:00; Fr 09:30-13:00; Mo,Sa off"
+opening_hours: Tu,Th 09:30-18:00; We 09:30-16:00; Fr 09:30-13:00; Mo,Sa off
 website: ""

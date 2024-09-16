@@ -1,11 +1,11 @@
 id: 711607578
-type: way
+type: node
 latitude: 51.26255
 longitude: 9.56515
 postcode: "34253"
 city: Lohfelden
-street: "Sellestraße"
-housenumber: 1
-phone: "+49 5608 958755"
-opening_hours: "Mo-Fr 08:30-13:00, 15:00-18:00; Sa 8:30-13:30"
+street: Sellestraße
+housenumber: "1"
+phone: +49 5608 958755
+opening_hours: Mo-Fr 08:30-13:00, 15:00-18:00; Sa 8:30-13:30
 website: ""

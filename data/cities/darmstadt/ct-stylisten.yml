@@ -4,8 +4,8 @@ latitude: 49.86179
 longitude: 8.65376
 postcode: "64285"
 city: Darmstadt
-street: "Karlstraße"
-housenumber: 110
+street: Karlstraße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-We,Fr 09:00-19:00; Th 10:00-22:00; Sa 08:00-16:00"
-website: "http://www.ct-stylisten.de/"
+opening_hours: Mo-We,Fr 09:00-19:00; Th 10:00-22:00; Sa 08:00-16:00
+website: http://www.ct-stylisten.de/

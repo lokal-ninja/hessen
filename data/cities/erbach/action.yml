@@ -1,11 +1,11 @@
 id: 27190922
-type: way
+type: node
 latitude: 49.66502
 longitude: 9.00983
 postcode: "64711"
 city: Erbach
-street: "Stockheimer Ring"
-housenumber: 26
+street: Stockheimer Ring
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

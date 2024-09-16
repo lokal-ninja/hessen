@@ -1,11 +1,11 @@
 id: 169896188
-type: way
+type: node
 latitude: 50.45292
 longitude: 9.0583
 postcode: "63667"
 city: Nidda
-street: "Eichköppelstraße"
-housenumber: 3
-phone: "+49 6043 3922"
+street: Eichköppelstraße
+housenumber: "3"
+phone: +49 6043 3922
 opening_hours: ""
 website: ""

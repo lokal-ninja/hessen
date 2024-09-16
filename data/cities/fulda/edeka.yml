@@ -1,11 +1,11 @@
 id: 37041698
-type: way
+type: node
 latitude: 50.56037
 longitude: 9.67762
 postcode: "36039"
 city: Fulda
-street: "Boyneburgstraße"
-housenumber: 2
+street: Boyneburgstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 112381836
-type: way
+type: node
 latitude: 50.40984
 longitude: 9.00943
 postcode: "63667"
 city: Nidda
-street: "An der Heugasse"
-housenumber: 1
-phone: "+49 6043 96320"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.rewe.de/"
+street: An der Heugasse
+housenumber: "1"
+phone: +49 6043 96320
+opening_hours: Mo-Sa 08:00-22:00
+website: https://www.rewe.de/

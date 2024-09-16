@@ -4,8 +4,8 @@ latitude: 49.82208
 longitude: 9.04755
 postcode: "64747"
 city: Breuberg
-street: "Rosenbach"
-housenumber: 11
-phone: "+49 6165 912678"
-opening_hours: "Mo,Th 17:00-19:00; Sa 09:00-12:00; PH off"
-website: "http://www.schiess-sport-breuberg.de"
+street: Rosenbach
+housenumber: "11"
+phone: +49 6165 912678
+opening_hours: Mo,Th 17:00-19:00; Sa 09:00-12:00; PH off
+website: http://www.schiess-sport-breuberg.de

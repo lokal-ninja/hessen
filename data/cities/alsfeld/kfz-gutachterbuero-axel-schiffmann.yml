@@ -1,11 +1,11 @@
 id: 638688075
-type: way
+type: node
 latitude: 50.74632
 longitude: 9.25449
 postcode: "36304"
 city: Alsfeld
-street: "Ludwig-Erhard-Straße"
-housenumber: 6
-phone: "+496631 7766780"
+street: Ludwig-Erhard-Straße
+housenumber: "6"
+phone: +496631 7766780
 opening_hours: ""
-website: "https://gutachter-alsfeld.de"
+website: https://gutachter-alsfeld.de

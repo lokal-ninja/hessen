@@ -4,8 +4,8 @@ latitude: 50.03044
 longitude: 8.70262
 postcode: "63303"
 city: Dreieich
-street: "Robert-Bosch-Straße"
-housenumber: 15
-phone: "+49 6103 386280"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+street: Robert-Bosch-Straße
+housenumber: "15"
+phone: +49 6103 386280
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

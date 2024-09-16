@@ -1,11 +1,11 @@
 id: 42608729
-type: way
+type: node
 latitude: 50.00878
 longitude: 8.77851
 postcode: "63128"
 city: Dietzenbach
-street: "Bahnhofstraße"
-housenumber: 28
-phone: "+49 (0) 6074 / 82 99 69"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"
-website: "https://buecher-bei-frau-schmitt.de/"
+street: Bahnhofstraße
+housenumber: "28"
+phone: +49 (0) 6074 / 82 99 69
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00
+website: https://buecher-bei-frau-schmitt.de/

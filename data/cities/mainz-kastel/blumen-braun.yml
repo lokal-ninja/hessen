@@ -1,11 +1,11 @@
 id: 191946441
-type: way
+type: node
 latitude: 50.01428
 longitude: 8.28255
 postcode: "55252"
 city: Mainz-Kastel
-street: "Boelckestraße"
-housenumber: 15
+street: Boelckestraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

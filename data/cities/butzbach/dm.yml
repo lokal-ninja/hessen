@@ -4,8 +4,8 @@ latitude: 50.43595
 longitude: 8.68271
 postcode: "35510"
 city: Butzbach
-street: "Am Hetgesborn"
-housenumber: 2
+street: Am Hetgesborn
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-2096/butzbach/am-hetgesborn-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-2096/butzbach/am-hetgesborn-2

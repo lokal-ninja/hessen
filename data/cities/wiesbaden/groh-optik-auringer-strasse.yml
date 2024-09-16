@@ -1,11 +1,11 @@
 id: 683867895
-type: way
+type: node
 latitude: 50.13427
 longitude: 8.30281
 postcode: "65207"
 city: Wiesbaden
-street: "Auringer Straße"
-housenumber: 15
+street: Auringer Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00
 website: ""

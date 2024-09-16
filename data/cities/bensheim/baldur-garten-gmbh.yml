@@ -1,11 +1,11 @@
 id: 204487861
-type: way
+type: node
 latitude: 49.66991
 longitude: 8.5859
 postcode: "64625"
 city: Bensheim
-street: "Albert-Einstein-Allee"
+street: Albert-Einstein-Allee
 housenumber: 4,6
 phone: ""
-opening_hours: "closed kein Direktverkauf"
+opening_hours: closed "kein Direktverkauf"
 website: ""

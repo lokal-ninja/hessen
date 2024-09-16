@@ -1,11 +1,11 @@
 id: 277858207
-type: way
+type: node
 latitude: 50.75272
 longitude: 8.49096
 postcode: "35080"
 city: Bad Endbach
-street: "Am Kurpark"
-housenumber: 5
-phone: "+49 2776 396"
+street: Am Kurpark
+housenumber: "5"
+phone: +49 2776 396
 opening_hours: ""
-website: "https://www.klingelhoefers.de/"
+website: https://www.klingelhoefers.de/

@@ -1,11 +1,11 @@
 id: 137394943
-type: way
+type: node
 latitude: 50.52445
 longitude: 8.8172
 postcode: "35423"
 city: Lich
-street: "Gießener Straße"
-housenumber: 48
+street: Gießener Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

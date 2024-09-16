@@ -4,8 +4,9 @@ latitude: 50.38772
 longitude: 8.06419
 postcode: "65549"
 city: Limburg an der Lahn
-street: "Kornmarkt"
-housenumber: 1
-phone: "+49 6431 4780620"
-opening_hours: "Tu 10:30-13; We 10:30-13,15-17; Th 10:30-13; Fr 10:30-13,15-17; Sa 10:30-14"
-website: "https://sardolci.de"
+street: Kornmarkt
+housenumber: "1"
+phone: +49 6431 4780620
+opening_hours: Tu 10:30-13; We 10:30-13,15-17; Th 10:30-13; Fr 10:30-13,15-17; Sa
+    10:30-14
+website: https://sardolci.de

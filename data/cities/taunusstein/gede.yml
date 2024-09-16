@@ -1,11 +1,11 @@
 id: 57009627
-type: way
+type: node
 latitude: 50.13793
 longitude: 8.13383
 postcode: "65232"
 city: Taunusstein
-street: "Aarstraße"
-housenumber: 20
+street: Aarstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.honda-gede.de/"
+website: https://www.honda-gede.de/

@@ -4,8 +4,8 @@ latitude: 51.13152
 longitude: 9.54586
 postcode: "34212"
 city: Melsungen
-street: "Brückenstraße"
-housenumber: 22
-phone: "+49 5661 922203"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.optik-hallmann.de/location/melsungen-optik"
+street: Brückenstraße
+housenumber: "22"
+phone: +49 5661 922203
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.optik-hallmann.de/location/melsungen-optik

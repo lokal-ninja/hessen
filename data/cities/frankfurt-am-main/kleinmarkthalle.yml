@@ -1,11 +1,11 @@
 id: 449377753
-type: way
+type: node
 latitude: 50.11294
 longitude: 8.68357
 postcode: "60311"
 city: Frankfurt am Main
-street: "Hasengasse"
+street: Hasengasse
 housenumber: 5-7
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00; PH off"
-website: "https://kleinmarkthalle.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00; PH off
+website: https://kleinmarkthalle.de/

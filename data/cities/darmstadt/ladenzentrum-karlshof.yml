@@ -4,8 +4,8 @@ latitude: 49.88542
 longitude: 8.67187
 postcode: "64287"
 city: Darmstadt
-street: "Schwarzer Weg"
-housenumber: 9
+street: Schwarzer Weg
+housenumber: "9"
 phone: ""
-opening_hours: "Sa 07:00-15:00; Mo-Fr 07:00-19:00"
+opening_hours: Sa 07:00-15:00; Mo-Fr 07:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.08159
 longitude: 8.2381
 postcode: "65183"
 city: Wiesbaden
-street: "Kirchgasse"
-housenumber: 56
-phone: "+49 8007242007"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.misterspex.de/c/sto/1063"
+street: Kirchgasse
+housenumber: "56"
+phone: +49 8007242007
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.misterspex.de/c/sto/1063

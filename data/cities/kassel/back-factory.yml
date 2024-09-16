@@ -4,8 +4,8 @@ latitude: 51.31229
 longitude: 9.49189
 postcode: "34117"
 city: Kassel
-street: "Obere Königsstraße"
-housenumber: 9
-phone: "+49 561 2887337"
-opening_hours: "Mo-Fr 05:30-19:00; Sa 06:30-18:30; Su 07:30-18:30"
+street: Obere Königsstraße
+housenumber: "9"
+phone: +49 561 2887337
+opening_hours: Mo-Fr 05:30-19:00; Sa 06:30-18:30; Su 07:30-18:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.12342
 longitude: 8.69331
 postcode: "60316"
 city: Frankfurt am Main
-street: "Günthersburgallee"
-housenumber: 6
+street: Günthersburgallee
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:30; Sa 10:00-14:00"
+opening_hours: Mo-Fr 12:00-18:30; Sa 10:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 88941488
-type: way
+type: node
 latitude: 50.55419
 longitude: 8.43672
 postcode: "35606"
 city: Solms
-street: "Altenberger Straße"
-housenumber: 3
-phone: "+49 6441 50190"
+street: Altenberger Straße
+housenumber: "3"
+phone: +49 6441 50190
 opening_hours: ""
-website: "https://www.sporthaus-kaps.de/"
+website: https://www.sporthaus-kaps.de/

@@ -4,8 +4,8 @@ latitude: 50.10499
 longitude: 8.75746
 postcode: "63067"
 city: Offenbach am Main
-street: "Frankfurter Straße"
-housenumber: 61
-phone: "+49(0) 69 81 00 44"
-opening_hours: "We-Fr 15:00-20:00"
-website: "https://huehsam.de/"
+street: Frankfurter Straße
+housenumber: "61"
+phone: +49(0) 69 81 00 44
+opening_hours: We-Fr 15:00-20:00
+website: https://huehsam.de/

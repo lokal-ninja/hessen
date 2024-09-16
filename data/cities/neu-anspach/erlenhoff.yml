@@ -1,11 +1,11 @@
 id: 1050989362
-type: way
+type: node
 latitude: 50.30829
 longitude: 8.51658
 postcode: "61267"
 city: Neu-Anspach
 street: ""
-housenumber: 
-phone: "+49 6081 91550"
+housenumber: ""
+phone: +49 6081 91550
 opening_hours: ""
-website: "https://www.erlenhoff.de/"
+website: https://www.erlenhoff.de/

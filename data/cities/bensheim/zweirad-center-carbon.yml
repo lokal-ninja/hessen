@@ -1,11 +1,11 @@
 id: 242349139
-type: way
+type: node
 latitude: 49.67808
 longitude: 8.62179
 postcode: "64625"
 city: Bensheim
-street: "Rodensteinstraße"
-housenumber: 106
+street: Rodensteinstraße
+housenumber: "106"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:30,14:30-18:30; Sa 10:00-14:00"
-website: "https://www.zweirad-center-carbon.de/"
+opening_hours: Tu-Fr 09:30-12:30,14:30-18:30; Sa 10:00-14:00
+website: https://www.zweirad-center-carbon.de/

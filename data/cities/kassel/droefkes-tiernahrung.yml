@@ -4,8 +4,8 @@ latitude: 51.30944
 longitude: 9.4678
 postcode: "34121"
 city: Kassel
-street: "Kirchweg"
-housenumber: 1
+street: Kirchweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

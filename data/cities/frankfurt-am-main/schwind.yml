@@ -4,8 +4,8 @@ latitude: 50.14484
 longitude: 8.75469
 postcode: "60388"
 city: Frankfurt am Main
-street: "Triebstraße"
-housenumber: 52
-phone: "+49 69 2970480"
-opening_hours: "Mo-Fr 10:00-12:00"
-website: "https://www.schwind-frankfurt.de/"
+street: Triebstraße
+housenumber: "52"
+phone: +49 69 2970480
+opening_hours: Mo-Fr 10:00-12:00
+website: https://www.schwind-frankfurt.de/

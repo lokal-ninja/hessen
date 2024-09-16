@@ -4,8 +4,8 @@ latitude: 49.90605
 longitude: 8.5851
 postcode: "64331"
 city: Weiterstadt
-street: "Darmstädter Straße"
-housenumber: 46
-phone: "+49 6150 40455"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-18:30; Sa 10:00-13:00"
-website: "http://www.reisebuero-am-marktplatz.de/"
+street: Darmstädter Straße
+housenumber: "46"
+phone: +49 6150 40455
+opening_hours: Mo-Fr 10:00-12:30,14:00-18:30; Sa 10:00-13:00
+website: http://www.reisebuero-am-marktplatz.de/

@@ -1,11 +1,11 @@
 id: 1292921489
-type: way
+type: node
 latitude: 51.48201
 longitude: 9.61353
 postcode: "34359"
 city: Reinhardshagen
-street: "Mündener Straße"
-housenumber: 19
+street: Mündener Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

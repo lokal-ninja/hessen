@@ -4,8 +4,8 @@ latitude: 50.7522
 longitude: 9.27712
 postcode: "36304"
 city: Alsfeld
-street: "Schellengasse"
-housenumber: 53
-phone: "+49 6631 917400"
-opening_hours: "Mo-Sa 06:00-22:00, Su 07:00-21:00"
-website: "https://www.bft.de/"
+street: Schellengasse
+housenumber: "53"
+phone: +49 6631 917400
+opening_hours: Mo-Sa 06:00-22:00, Su 07:00-21:00
+website: https://www.bft.de/

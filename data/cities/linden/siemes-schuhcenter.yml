@@ -1,11 +1,11 @@
 id: 30667562
-type: way
+type: node
 latitude: 50.53946
 longitude: 8.65497
 postcode: "35440"
 city: Linden
-street: "Siemensstraße"
-housenumber: 26
+street: Siemensstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

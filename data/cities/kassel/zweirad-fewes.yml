@@ -4,8 +4,8 @@ latitude: 51.33523
 longitude: 9.49586
 postcode: "34127"
 city: Kassel
-street: "Bunsenstraße"
-housenumber: 77
-phone: "+49 (0)561 98 93 42 0"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.zweirad-fewes.de/"
+street: Bunsenstraße
+housenumber: "77"
+phone: +49 (0)561 98 93 42 0
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.zweirad-fewes.de/

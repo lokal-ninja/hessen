@@ -1,11 +1,11 @@
 id: 29401118
-type: way
+type: node
 latitude: 50.29458
 longitude: 8.2512
 postcode: "65520"
 city: Bad Camberg
-street: "Robert-Bosch-Straße"
-housenumber: 1
+street: Robert-Bosch-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

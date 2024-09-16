@@ -1,11 +1,11 @@
 id: 227815920
-type: way
+type: node
 latitude: 50.49759
 longitude: 8.66448
 postcode: "35428"
 city: Langgöns
-street: "Amthausstraße"
-housenumber: 10
+street: Amthausstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

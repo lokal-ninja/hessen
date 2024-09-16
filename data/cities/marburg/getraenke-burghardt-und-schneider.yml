@@ -1,11 +1,11 @@
 id: 112622973
-type: way
+type: node
 latitude: 50.78409
 longitude: 8.76451
 postcode: "35043"
 city: Marburg
-street: "Lintzingsweg"
-housenumber: 2
+street: Lintzingsweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.89676
 longitude: 8.61018
 postcode: "64331"
 city: Weiterstadt
-street: "Robert-Koch-Straße"
-housenumber: 6
-phone: "+49 6151 812990"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"
-website: "https://www.plana.de/kuechenstudios/darmstadt-weiterstadt"
+street: Robert-Koch-Straße
+housenumber: "6"
+phone: +49 6151 812990
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00
+website: https://www.plana.de/kuechenstudios/darmstadt-weiterstadt

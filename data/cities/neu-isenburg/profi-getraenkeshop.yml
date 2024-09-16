@@ -1,11 +1,11 @@
 id: 147710138
-type: way
+type: node
 latitude: 50.04781
 longitude: 8.68311
 postcode: "63263"
 city: Neu-Isenburg
-street: "Schleussnerstraße"
+street: Schleussnerstraße
 housenumber: 56a
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://alldrink.de/filiale/510-neu-isenburg"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
+website: https://alldrink.de/filiale/510-neu-isenburg

@@ -4,8 +4,8 @@ latitude: 51.32895
 longitude: 9.53016
 postcode: "34125"
 city: Kassel
-street: "Wolfsangerstraße"
-housenumber: 100
-phone: "+49 561 874010"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/hessenring/hartmut-koch-inh.-sonja-mantel-e.k.-wolfsangerstr.-100/index.jsp"
+street: Wolfsangerstraße
+housenumber: "100"
+phone: +49 561 874010
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/hessenring/hartmut-koch-inh.-sonja-mantel-e.k.-wolfsangerstr.-100/index.jsp

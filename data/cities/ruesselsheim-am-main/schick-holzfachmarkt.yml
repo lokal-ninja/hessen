@@ -1,11 +1,11 @@
 id: 243984685
-type: way
+type: node
 latitude: 49.96665
 longitude: 8.45266
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Bensheimer Straße"
-housenumber: 69
-phone: "+49 6142 93550"
-opening_hours: "Mo-Fr 09:30-12:30,14:30-18:00; We 09:30-12:30; Sa 09:15-13:00"
-website: "https://www.schick-ruesselsheim.de/"
+street: Bensheimer Straße
+housenumber: "69"
+phone: +49 6142 93550
+opening_hours: Mo-Fr 09:30-12:30,14:30-18:00; We 09:30-12:30; Sa 09:15-13:00
+website: https://www.schick-ruesselsheim.de/

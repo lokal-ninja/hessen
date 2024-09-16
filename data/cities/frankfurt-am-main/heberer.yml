@@ -4,8 +4,8 @@ latitude: 50.12438
 longitude: 8.60734
 postcode: "60489"
 city: Frankfurt am Main
-street: "Baruch-Baschwitz-Platz"
-housenumber: 1
+street: Baruch-Baschwitz-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 05:00-20:00; PH open"
+opening_hours: Mo-Su 05:00-20:00; PH open
 website: ""

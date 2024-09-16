@@ -1,11 +1,11 @@
 id: 88855293
-type: way
+type: node
 latitude: 50.13303
 longitude: 8.85005
 postcode: "63477"
 city: Maintal
-street: "Zeppelinstraße"
-housenumber: 54
+street: Zeppelinstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

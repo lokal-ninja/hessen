@@ -1,11 +1,11 @@
 id: 229865710
-type: way
+type: node
 latitude: 50.50092
 longitude: 8.66135
 postcode: "35428"
 city: Langgöns
-street: "Niederhofen"
-housenumber: 38
+street: Niederhofen
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

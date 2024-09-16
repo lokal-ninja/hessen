@@ -1,11 +1,11 @@
 id: 422809429
-type: way
+type: node
 latitude: 49.97515
 longitude: 8.786
 postcode: "63322"
 city: Rödermark
-street: "Konrad-Adenauer-Straße"
-housenumber: 87
-phone: "+49 6074 7892"
-opening_hours: "Mo-Th 07:00-12:15,13:00-17:00, Fr 07:00-12:15,13:00-15:00"
-website: "https://www.motoren-lang.de/"
+street: Konrad-Adenauer-Straße
+housenumber: "87"
+phone: +49 6074 7892
+opening_hours: Mo-Th 07:00-12:15,13:00-17:00, Fr 07:00-12:15,13:00-15:00
+website: https://www.motoren-lang.de/

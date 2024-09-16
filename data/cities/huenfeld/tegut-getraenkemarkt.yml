@@ -4,8 +4,8 @@ latitude: 50.67083
 longitude: 9.76728
 postcode: "36088"
 city: Hünfeld
-street: "Josefstraße"
-housenumber: 16
+street: Josefstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.tegut.com/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.tegut.com/

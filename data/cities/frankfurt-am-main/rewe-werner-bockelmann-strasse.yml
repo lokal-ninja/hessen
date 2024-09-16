@@ -1,11 +1,11 @@
 id: 98210474
-type: way
+type: node
 latitude: 50.10358
 longitude: 8.57905
 postcode: "65934"
 city: Frankfurt am Main
-street: "Werner-Bockelmann-Straße"
-housenumber: 7
+street: Werner-Bockelmann-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

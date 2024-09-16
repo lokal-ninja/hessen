@@ -4,8 +4,8 @@ latitude: 50.36383
 longitude: 8.73893
 postcode: "61231"
 city: Bad Nauheim
-street: "Hauptstraße"
-housenumber: 15
+street: Hauptstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00,14:30-17:00; Sa 10:00-14:00; PH closed"
-website: "https://zaza-secondhand.de/"
+opening_hours: Tu-Fr 10:00-13:00,14:30-17:00; Sa 10:00-14:00; PH closed
+website: https://zaza-secondhand.de/

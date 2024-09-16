@@ -4,8 +4,8 @@ latitude: 50.59187
 longitude: 8.46183
 postcode: "35614"
 city: Aßlar
-street: "Mittelstraße"
-housenumber: 21
+street: Mittelstraße
+housenumber: "21"
 phone: "+49644187628"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-18:00, Sa 10:00-12:30"
-website: "https://vs-bike.de"
+opening_hours: Mo-Fr 10:00-12:30,14:00-18:00, Sa 10:00-12:30
+website: https://vs-bike.de

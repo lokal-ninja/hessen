@@ -4,8 +4,8 @@ latitude: 50.12325
 longitude: 8.70171
 postcode: "60385"
 city: Frankfurt am Main
-street: "Berger Straße"
-housenumber: 107
+street: Berger Straße
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:30-19:30"
-website: "http://www.mcpaper.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:30-19:30
+website: http://www.mcpaper.de/

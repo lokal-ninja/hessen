@@ -1,11 +1,11 @@
 id: 88432937
-type: way
+type: node
 latitude: 51.32661
 longitude: 9.44422
 postcode: "34130"
 city: Kassel
-street: "Harleshäuser Straße"
-housenumber: 64
+street: Harleshäuser Straße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 670419988
-type: way
+type: node
 latitude: 51.40139
 longitude: 9.47297
 postcode: "34314"
 city: Espenau
-street: "Erlenweg"
-housenumber: 3
+street: Erlenweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

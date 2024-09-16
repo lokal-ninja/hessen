@@ -4,8 +4,8 @@ latitude: 51.31419
 longitude: 9.44534
 postcode: "34131"
 city: Kassel
-street: "Wilhelmshöher Allee"
-housenumber: 262
-phone: "+49 561 937930"
-opening_hours: "Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-kassel-atrium-wilhelmshoeher-allee-262.html"
+street: Wilhelmshöher Allee
+housenumber: "262"
+phone: +49 561 937930
+opening_hours: Mo-Th 07:00-21:00; Fr-Sa 07:00-22:00
+website: https://www.tegut.com/maerkte/markt/tegut-kassel-atrium-wilhelmshoeher-allee-262.html

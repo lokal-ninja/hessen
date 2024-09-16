@@ -1,11 +1,11 @@
 id: 246533960
-type: way
+type: node
 latitude: 49.86814
 longitude: 8.92857
 postcode: "64823"
 city: Groß-Umstadt
-street: "Obere Marktstraße"
-housenumber: 5
+street: Obere Marktstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

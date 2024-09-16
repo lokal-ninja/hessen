@@ -1,11 +1,11 @@
 id: 128434398
-type: way
+type: node
 latitude: 50.49807
 longitude: 9.94647
 postcode: "36129"
 city: Gersfeld
-street: "Wasserkuppe"
-housenumber: 5
+street: Wasserkuppe
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

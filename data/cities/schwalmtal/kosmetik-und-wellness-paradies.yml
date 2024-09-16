@@ -1,11 +1,11 @@
 id: 168361011
-type: way
+type: node
 latitude: 50.6584
 longitude: 9.26373
 postcode: "36318"
 city: Schwalmtal
-street: "Am Stein"
-housenumber: 9
+street: Am Stein
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

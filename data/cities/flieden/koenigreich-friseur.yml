@@ -1,11 +1,11 @@
 id: 344575735
-type: way
+type: node
 latitude: 50.42116
-longitude: 9.56587
+longitude: 9.56588
 postcode: "36103"
 city: Flieden
-street: "Schlüchterner Straße"
-housenumber: 16
+street: Schlüchterner Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

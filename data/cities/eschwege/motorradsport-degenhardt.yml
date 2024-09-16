@@ -1,11 +1,11 @@
 id: 264821099
-type: way
+type: node
 latitude: 51.22459
 longitude: 9.98824
 postcode: "37269"
 city: Eschwege
-street: "An der Berka"
-housenumber: 2
+street: An der Berka
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.25964
 longitude: 9.00097
 postcode: "63694"
 city: Limeshain
-street: "Taunusstraße"
-housenumber: 2
-phone: "+49 6048 9519958"
-opening_hours: "Mo-Fr 07:00-13:00; Sa 07:00-12:00"
-website: "https://www.diakonie-wetterau.de/"
+street: Taunusstraße
+housenumber: "2"
+phone: +49 6048 9519958
+opening_hours: Mo-Fr 07:00-13:00; Sa 07:00-12:00
+website: https://www.diakonie-wetterau.de/

@@ -1,11 +1,11 @@
 id: 180517187
-type: way
+type: node
 latitude: 49.80348
 longitude: 8.59716
 postcode: "64319"
 city: Pfungstadt
-street: "Eberstädter Straße"
-housenumber: 14
+street: Eberstädter Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 12:00-19:00"
-website: "https://beautinda.de/artist/SSTve4Z4U6P5EfTf7Bvtw8GoQqv2"
+opening_hours: Mo-Sa 12:00-19:00
+website: https://beautinda.de/artist/SSTve4Z4U6P5EfTf7Bvtw8GoQqv2

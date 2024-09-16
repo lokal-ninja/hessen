@@ -4,8 +4,8 @@ latitude: 50.11842
 longitude: 8.78493
 postcode: "63075"
 city: Offenbach am Main
-street: "Langstraße"
-housenumber: 17
+street: Langstraße
+housenumber: "17"
 phone: ""
-opening_hours: "We,Th 14:00-18:00; Fr 12:00-18:00"
-website: "https://www.meinlieblingsbrot.com"
+opening_hours: We,Th 14:00-18:00; Fr 12:00-18:00
+website: https://www.meinlieblingsbrot.com

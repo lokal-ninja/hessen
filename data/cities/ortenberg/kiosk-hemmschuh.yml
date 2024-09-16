@@ -1,11 +1,11 @@
 id: 171167053
-type: way
+type: node
 latitude: 50.35571
 longitude: 9.05427
 postcode: "63683"
 city: Ortenberg
-street: "Wilhelm-Leuschner-Straße"
-housenumber: 6
+street: Wilhelm-Leuschner-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

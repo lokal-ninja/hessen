@@ -1,11 +1,11 @@
 id: 206001809
-type: way
+type: node
 latitude: 50.04493
 longitude: 8.16093
 postcode: "65396"
 city: Walluf
-street: "Am Klingenweg"
-housenumber: 5
+street: Am Klingenweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: Mo-Sa 07:30-20:00
 website: ""

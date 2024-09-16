@@ -1,11 +1,12 @@
 id: 1148494131
-type: way
+type: node
 latitude: 50.04539
 longitude: 8.85572
 postcode: "63150"
 city: Heusenstamm
-street: "Hainhäuser Straße"
-housenumber: 5
+street: Hainhäuser Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 00:00-24:00 nur mit Kundenkarte, tegut...teo App, Giro-/Kreditkarte; Su,PH off"
-website: "https://www.tegut.com/maerkte/markt/tegut-heusenstamm-hainhaeuser-strasse-5.html"
+opening_hours: Mo-Sa 00:00-24:00 "nur mit Kundenkarte, tegut...teo App, Giro-/Kreditkarte";
+    Su,PH off
+website: https://www.tegut.com/maerkte/markt/tegut-heusenstamm-hainhaeuser-strasse-5.html

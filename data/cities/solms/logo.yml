@@ -4,8 +4,8 @@ latitude: 50.55283
 longitude: 8.41868
 postcode: "35606"
 city: Solms
-street: "Heinrich-Baumann-Straße"
-housenumber: 2
-phone: "+49 6441 5690150"
-opening_hours: "Mo-Fr 08:30-19:00, Sa 08:30-18:00"
-website: "https://logo-getraenke.de"
+street: Heinrich-Baumann-Straße
+housenumber: "2"
+phone: +49 6441 5690150
+opening_hours: Mo-Fr 08:30-19:00, Sa 08:30-18:00
+website: https://logo-getraenke.de

@@ -1,11 +1,11 @@
 id: 304007818
-type: way
+type: node
 latitude: 49.9316
 longitude: 8.64479
 postcode: "64291"
 city: Darmstadt
-street: "Falltorstraße"
-housenumber: 25
+street: Falltorstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

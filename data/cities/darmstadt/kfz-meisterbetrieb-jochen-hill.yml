@@ -4,8 +4,8 @@ latitude: 49.88557
 longitude: 8.61982
 postcode: "64293"
 city: Darmstadt
-street: "Haasstraße"
-housenumber: 6
-phone: "+49 6151 895038"
-opening_hours: "Mo-Th 07:00-12:00,13:00-18:00; Fr 07:00-12:00,13:00-16:00"
+street: Haasstraße
+housenumber: "6"
+phone: +49 6151 895038
+opening_hours: Mo-Th 07:00-12:00,13:00-18:00; Fr 07:00-12:00,13:00-16:00
 website: ""

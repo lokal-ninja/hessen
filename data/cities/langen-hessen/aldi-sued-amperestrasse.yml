@@ -1,11 +1,11 @@
 id: 310909425
-type: way
+type: node
 latitude: 49.99565
 longitude: 8.65297
 postcode: "63225"
 city: Langen (Hessen)
-street: "Ampèrestraße"
-housenumber: 19
+street: Ampèrestraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

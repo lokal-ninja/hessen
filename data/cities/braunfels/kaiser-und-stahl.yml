@@ -4,8 +4,8 @@ latitude: 50.48255
 longitude: 8.43327
 postcode: "35619"
 city: Braunfels
-street: "Mühlweg"
-housenumber: 2
-phone: "+49 6445 398"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Mühlweg
+housenumber: "2"
+phone: +49 6445 398
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

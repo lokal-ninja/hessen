@@ -1,11 +1,11 @@
 id: 266559171
-type: way
+type: node
 latitude: 49.72689
 longitude: 8.60752
 postcode: "64673"
 city: Zwingenberg
-street: "Platanenallee"
+street: Platanenallee
 housenumber: 1-3
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/zwingenberg/platanenallee-1-3/8083/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/zwingenberg/platanenallee-1-3/8083/

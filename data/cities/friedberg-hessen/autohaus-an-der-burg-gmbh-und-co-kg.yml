@@ -1,11 +1,11 @@
 id: 478158339
-type: way
+type: node
 latitude: 50.34524
 longitude: 8.75662
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Gießener Straße"
-housenumber: 46
+street: Gießener Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.autohausanderburg.de/"
+website: https://www.autohausanderburg.de/

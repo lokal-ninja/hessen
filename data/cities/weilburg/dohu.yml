@@ -1,11 +1,11 @@
 id: 881695842
-type: way
+type: node
 latitude: 50.48955
 longitude: 8.26826
 postcode: "35781"
 city: Weilburg
-street: "Löhnberger Weg"
-housenumber: 1
+street: Löhnberger Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

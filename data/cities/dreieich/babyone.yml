@@ -1,11 +1,11 @@
 id: 295776157
-type: way
+type: node
 latitude: 50.03355
 longitude: 8.69686
 postcode: "63303"
 city: Dreieich
-street: "Frankfurter Straße"
-housenumber: 151
-phone: "+49 6103 9837-0"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.babyone.de/"
+street: Frankfurter Straße
+housenumber: "151"
+phone: +49 6103 9837-0
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.babyone.de/

@@ -4,8 +4,8 @@ latitude: 51.31537
 longitude: 9.49707
 postcode: "34117"
 city: Kassel
-street: "Königsplatz"
-housenumber: 53
+street: Königsplatz
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 06:00-20:00"
-website: "https://kamps.de/"
+opening_hours: Mo-Sa 06:00-20:00
+website: https://kamps.de/

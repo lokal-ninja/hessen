@@ -1,11 +1,11 @@
 id: 997651286
-type: way
+type: node
 latitude: 50.23423
 longitude: 8.59451
 postcode: "61350"
 city: Bad Homburg v.d. Höhe
-street: "Gartenfeldstraße"
-housenumber: 53
+street: Gartenfeldstraße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

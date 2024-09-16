@@ -4,8 +4,8 @@ latitude: 50.12505
 longitude: 8.61047
 postcode: "60489"
 city: Frankfurt am Main
-street: "Radilostraße"
-housenumber: 
+street: Radilostraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; PH,Sa,Su 07:00-17:00"
+opening_hours: Mo-Fr 06:00-19:00; PH,Sa,Su 07:00-17:00
 website: ""

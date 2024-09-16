@@ -4,8 +4,8 @@ latitude: 50.1418
 longitude: 8.66924
 postcode: "60320"
 city: Frankfurt am Main
-street: "Eschersheimer Landstraße"
-housenumber: 312
+street: Eschersheimer Landstraße
+housenumber: "312"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00"
-website: "https://www.waschsalon.de/waschsalon-frankfurt/#eschersheimer-landstrasse-312"
+opening_hours: Mo-Sa 06:00-23:00
+website: https://www.waschsalon.de/waschsalon-frankfurt/#eschersheimer-landstrasse-312

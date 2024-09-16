@@ -1,11 +1,11 @@
 id: 138520060
-type: way
+type: node
 latitude: 50.48086
 longitude: 8.29439
 postcode: "35781"
 city: Weilburg
-street: "Viehweg"
-housenumber: 17
+street: Viehweg
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

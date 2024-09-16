@@ -4,8 +4,8 @@ latitude: 50.07762
 longitude: 8.2302
 postcode: "65185"
 city: Wiesbaden
-street: "Kaiser-Friedrich-Ring"
-housenumber: 8
-phone: "+49 611 23697995"
-opening_hours: "Mo-Sa 12:00-18:00"
-website: "https://www.mystory.tattoo/standorte/wiesbaden/"
+street: Kaiser-Friedrich-Ring
+housenumber: "8"
+phone: +49 611 23697995
+opening_hours: Mo-Sa 12:00-18:00
+website: https://www.mystory.tattoo/standorte/wiesbaden/

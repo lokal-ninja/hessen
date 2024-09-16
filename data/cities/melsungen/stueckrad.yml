@@ -1,11 +1,11 @@
 id: 679390498
-type: way
+type: node
 latitude: 51.14013
 longitude: 9.54146
 postcode: "34212"
 city: Melsungen
-street: "Kasseler Straße"
+street: Kasseler Straße
 housenumber: 75a
 phone: "+495661927660"
-opening_hours: "Mo-Fr 10:00-13:00, 14:00-17:00, Sa 10:00-13:00"
-website: "https://www.stueckrad.de/"
+opening_hours: Mo-Fr 10:00-13:00, 14:00-17:00, Sa 10:00-13:00
+website: https://www.stueckrad.de/

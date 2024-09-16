@@ -1,11 +1,11 @@
 id: 119549807
-type: way
+type: node
 latitude: 50.48882
 longitude: 9.70932
 postcode: "36124"
 city: Eichenzell
-street: "Rhönhof"
-housenumber: 28
-phone: "+49 6659 9869690"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+street: Rhönhof
+housenumber: "28"
+phone: +49 6659 9869690
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

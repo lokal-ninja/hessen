@@ -4,8 +4,8 @@ latitude: 50.55202
 longitude: 9.67785
 postcode: "36037"
 city: Fulda
-street: "Borgiasplatz"
-housenumber: 1
+street: Borgiasplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off
 website: ""

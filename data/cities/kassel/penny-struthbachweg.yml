@@ -1,11 +1,11 @@
 id: 205769916
-type: way
+type: node
 latitude: 51.33374
 longitude: 9.49227
 postcode: "34127"
 city: Kassel
-street: "Struthbachweg"
-housenumber: 22
+street: Struthbachweg
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-22:00
+website: https://www.penny.de/

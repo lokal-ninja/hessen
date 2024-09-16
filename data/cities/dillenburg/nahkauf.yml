@@ -1,11 +1,11 @@
 id: 928000805
-type: way
+type: node
 latitude: 50.77324
 longitude: 8.33433
 postcode: "35690"
 city: Dillenburg
-street: "Goldbachstraße"
-housenumber: 3
+street: Goldbachstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

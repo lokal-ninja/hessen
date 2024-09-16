@@ -1,11 +1,11 @@
 id: 122428985
-type: way
+type: node
 latitude: 49.65339
 longitude: 8.56746
 postcode: "64653"
 city: Lorsch
-street: "Römerstraße"
-housenumber: 3
+street: Römerstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Th 12:00-19:00; Tu,We,Fr 09:00-17:00; Sa 09:00-14:00"
+opening_hours: Mo,Th 12:00-19:00; Tu,We,Fr 09:00-17:00; Sa 09:00-14:00
 website: ""

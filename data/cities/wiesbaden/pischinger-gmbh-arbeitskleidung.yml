@@ -4,8 +4,8 @@ latitude: 50.0867
 longitude: 8.23208
 postcode: "65193"
 city: Wiesbaden
-street: "Platter Straße"
-housenumber: 38
-phone: "+49611/409662"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00"
-website: "https://www.pischinger.de/"
+street: Platter Straße
+housenumber: "38"
+phone: +49611/409662
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00
+website: https://www.pischinger.de/

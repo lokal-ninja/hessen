@@ -1,11 +1,11 @@
 id: 122271025
-type: way
+type: node
 latitude: 50.16807
 longitude: 8.72912
 postcode: "61118"
 city: Bad Vilbel
-street: "Alte Frankfurter Straße"
-housenumber: 15
+street: Alte Frankfurter Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.lidl.de/

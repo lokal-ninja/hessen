@@ -4,8 +4,8 @@ latitude: 50.10228
 longitude: 8.66487
 postcode: "60329"
 city: Frankfurt am Main
-street: "Baseler Platz"
-housenumber: 1
+street: Baseler Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 11:00-22:00; Sa,Su 13:00-22:00"
+opening_hours: Mo-Fr 11:00-22:00; Sa,Su 13:00-22:00
 website: ""

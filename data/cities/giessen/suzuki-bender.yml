@@ -1,11 +1,11 @@
 id: 112608276
-type: way
+type: node
 latitude: 50.60331
 longitude: 8.69019
 postcode: "35396"
 city: Gießen
-street: "Marburger Straße"
-housenumber: 187
+street: Marburger Straße
+housenumber: "187"
 phone: ""
 opening_hours: ""
 website: ""

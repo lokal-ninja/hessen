@@ -4,8 +4,8 @@ latitude: 49.98374
 longitude: 7.9664
 postcode: "65366"
 city: Geisenheim
-street: "Neustraße"
-housenumber: 2
+street: Neustraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.kempenich.info/"
+website: https://www.kempenich.info/

@@ -1,11 +1,11 @@
 id: 203700705
-type: way
+type: node
 latitude: 50.12158
 longitude: 8.47929
 postcode: "65835"
 city: Liederbach am Taunus
-street: "Hinter der Mühle"
-housenumber: 1
-phone: "+49 6196 5611733"
-opening_hours: "Mo-Sa 07:30-21:00"
+street: Hinter der Mühle
+housenumber: "1"
+phone: +49 6196 5611733
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.00021
 longitude: 8.30504
 postcode: "55246"
 city: Wiesbaden
-street: "Hauptstraße"
-housenumber: 144
+street: Hauptstraße
+housenumber: "144"
 phone: "+49613462325"
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-13:00"
-website: "https://schreyer-optik.de/"
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-13:00
+website: https://schreyer-optik.de/

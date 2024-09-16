@@ -4,8 +4,9 @@ latitude: 50.13912
 longitude: 8.92333
 postcode: "63450"
 city: Hanau
-street: "Nordstraße"
-housenumber: 86
-phone: "+49 6181 5029988"
-opening_hours: "Tu-We,Fr 11:00-14:00, 15:00-19:00; Th 11:00-14:00, 15:00-20:00; Sa 10:00-14:00"
-website: "https://www.velozeit.de/"
+street: Nordstraße
+housenumber: "86"
+phone: +49 6181 5029988
+opening_hours: Tu-We,Fr 11:00-14:00, 15:00-19:00; Th 11:00-14:00, 15:00-20:00; Sa
+    10:00-14:00
+website: https://www.velozeit.de/

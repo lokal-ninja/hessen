@@ -4,8 +4,8 @@ latitude: 50.37498
 longitude: 8.11371
 postcode: "65551"
 city: Limburg a. d. Lahn
-street: "Frankfurter Straße"
-housenumber: 74
+street: Frankfurter Straße
+housenumber: "74"
 phone: "+4964314794733"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/hessenring/j%C3%B6rg-g%C3%B6tzinger-e.k.-frankfurter-str.-74/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/hessenring/j%C3%B6rg-g%C3%B6tzinger-e.k.-frankfurter-str.-74/index.jsp

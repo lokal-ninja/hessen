@@ -4,8 +4,8 @@ latitude: 51.31602
 longitude: 9.49882
 postcode: "34117"
 city: Kassel
-street: "Königsplatz"
-housenumber: 40
-phone: "+49 561 7036964"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.o2online.de/shops/kassel/965/"
+street: Königsplatz
+housenumber: "40"
+phone: +49 561 7036964
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.o2online.de/shops/kassel/965/

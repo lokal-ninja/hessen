@@ -1,11 +1,11 @@
 id: 171260372
-type: way
+type: node
 latitude: 50.41384
 longitude: 9.01603
 postcode: "63667"
 city: Nidda
-street: "An der Krötenburg"
-housenumber: 9
+street: An der Krötenburg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 156847849
-type: way
+type: node
 latitude: 50.91208
 longitude: 9.18339
 postcode: "34613"
 city: Schwalmstadt
-street: "Bahnhofstraße"
-housenumber: 38
+street: Bahnhofstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-16:30; Su 07:00-18:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-16:30; Su 07:00-18:00
 website: ""

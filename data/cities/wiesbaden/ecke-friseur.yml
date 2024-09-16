@@ -4,8 +4,8 @@ latitude: 50.07637
 longitude: 8.2326
 postcode: "65185"
 city: Wiesbaden
-street: "Jahnstraße"
-housenumber: 30
-phone: "+49 611 98857208"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Jahnstraße
+housenumber: "30"
+phone: +49 611 98857208
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

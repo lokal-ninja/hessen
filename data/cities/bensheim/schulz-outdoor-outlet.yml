@@ -1,11 +1,11 @@
 id: 130524661
-type: way
+type: node
 latitude: 49.7002
 longitude: 8.62218
 postcode: "64625"
 city: Bensheim
-street: "Darmstädter Straße"
-housenumber: 165
-phone: "+496251 9825345"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.schulz-outdoor.de/"
+street: Darmstädter Straße
+housenumber: "165"
+phone: +496251 9825345
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.schulz-outdoor.de/

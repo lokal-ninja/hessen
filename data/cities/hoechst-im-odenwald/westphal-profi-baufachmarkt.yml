@@ -1,11 +1,11 @@
 id: 235923531
-type: way
+type: node
 latitude: 49.80572
 longitude: 9.00257
 postcode: "64739"
 city: Höchst im Odenwald
-street: "Industriestraße"
-housenumber: 6
-phone: "+49 (0) 61 63 - 937 54 69"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://www.baumarkt-hoechst.de"
+street: Industriestraße
+housenumber: "6"
+phone: +49 (0) 61 63 - 937 54 69
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.baumarkt-hoechst.de

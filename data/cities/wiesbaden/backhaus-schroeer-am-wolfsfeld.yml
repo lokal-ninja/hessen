@@ -4,8 +4,8 @@ latitude: 50.08612
 longitude: 8.28283
 postcode: "65191"
 city: Wiesbaden
-street: "Am Wolfsfeld"
-housenumber: 7
-phone: "+49 611 92798194"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-12:00"
-website: "https://www.backhaus-schroeer.de/"
+street: Am Wolfsfeld
+housenumber: "7"
+phone: +49 611 92798194
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00; Su 07:00-12:00
+website: https://www.backhaus-schroeer.de/

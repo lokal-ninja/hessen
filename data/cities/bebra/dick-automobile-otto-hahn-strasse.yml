@@ -1,11 +1,11 @@
 id: 194677720
-type: way
+type: node
 latitude: 50.98175
 longitude: 9.78856
 postcode: "36179"
 city: Bebra
-street: "Otto-Hahn-Straße"
-housenumber: 4
-phone: "+49 6622 912860"
+street: Otto-Hahn-Straße
+housenumber: "4"
+phone: +49 6622 912860
 opening_hours: ""
-website: "https://www.dick-automobile.de/"
+website: https://www.dick-automobile.de/

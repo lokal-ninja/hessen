@@ -1,11 +1,11 @@
 id: 62850225
-type: way
+type: node
 latitude: 50.22432
 longitude: 9.34716
 postcode: "63619"
 city: Bad Orb
-street: "Burgring"
-housenumber: 3
-phone: "+49 6052 1481"
+street: Burgring
+housenumber: "3"
+phone: +49 6052 1481
 opening_hours: ""
-website: "https://www.augenoptik-dehmer.de/"
+website: https://www.augenoptik-dehmer.de/

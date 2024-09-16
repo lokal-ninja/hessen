@@ -1,11 +1,11 @@
 id: 646247975
-type: way
+type: node
 latitude: 51.26707
 longitude: 8.87985
 postcode: "34497"
 city: Korbach
-street: "Frankenberger Landstraße"
-housenumber: 3
+street: Frankenberger Landstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/eh/hessenring/jens-selbmann-strother-str.-45/index.jsp"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/eh/hessenring/jens-selbmann-strother-str.-45/index.jsp

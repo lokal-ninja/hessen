@@ -1,11 +1,11 @@
 id: 39832175
-type: way
+type: node
 latitude: 50.96319
 longitude: 9.79099
 postcode: "36179"
 city: Bebra
-street: "Gottlieb-Daimler-Straße"
-housenumber: 4
-phone: "+49 6622 92160"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: Gottlieb-Daimler-Straße
+housenumber: "4"
+phone: +49 6622 92160
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

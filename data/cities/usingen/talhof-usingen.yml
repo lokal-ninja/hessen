@@ -5,7 +5,7 @@ longitude: 8.56161
 postcode: "61250"
 city: Usingen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Fr 17:00-19:00, Sa 09:00-12:00"
-website: "http://talhof-usingen.de/?page_id=15"
+opening_hours: Fr 17:00-19:00, Sa 09:00-12:00
+website: http://talhof-usingen.de/?page_id=15

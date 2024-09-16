@@ -1,11 +1,11 @@
 id: 503388604
-type: way
+type: node
 latitude: 50.04879
 longitude: 8.30519
 postcode: "65205"
 city: Wiesbaden
-street: "Mittelpfad"
-housenumber: 7
-phone: "+49 611 711171"
+street: Mittelpfad
+housenumber: "7"
+phone: +49 611 711171
 opening_hours: ""
-website: "https://www.karlschneider.de/"
+website: https://www.karlschneider.de/

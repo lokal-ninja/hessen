@@ -4,8 +4,8 @@ latitude: 50.10107
 longitude: 8.66152
 postcode: "60327"
 city: Frankfurt am Main
-street: "Speicherstraße"
-housenumber: 24
-phone: "+49 69 24007988"
-opening_hours: "Tu-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.franciscovilla.de/"
+street: Speicherstraße
+housenumber: "24"
+phone: +49 69 24007988
+opening_hours: Tu-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.franciscovilla.de/

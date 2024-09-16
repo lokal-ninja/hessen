@@ -1,11 +1,11 @@
 id: 165637229
-type: way
+type: node
 latitude: 50.57092
 longitude: 8.48194
 postcode: "35576"
 city: Wetzlar
-street: "Dillfeld"
-housenumber: 31
+street: Dillfeld
+housenumber: "31"
 phone: "+496441870880"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 08:00-13:00"
-website: "https://www.autohaus-erben.de/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 08:00-13:00
+website: https://www.autohaus-erben.de/

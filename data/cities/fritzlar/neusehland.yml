@@ -4,8 +4,8 @@ latitude: 51.13288
 longitude: 9.27447
 postcode: "34560"
 city: Fritzlar
-street: "Kasseler Straße"
-housenumber: 19
-phone: "+49 5622 9149797"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00"
-website: "https://www.neusehland.de"
+street: Kasseler Straße
+housenumber: "19"
+phone: +49 5622 9149797
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00
+website: https://www.neusehland.de

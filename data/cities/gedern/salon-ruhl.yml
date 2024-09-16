@@ -1,11 +1,11 @@
 id: 442511013
-type: way
+type: node
 latitude: 50.42564
 longitude: 9.19895
 postcode: "63688"
 city: Gedern
-street: "Lauterbacher Straße"
-housenumber: 34
+street: Lauterbacher Straße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

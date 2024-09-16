@@ -1,11 +1,11 @@
 id: 112389763
-type: way
+type: node
 latitude: 50.68429
 longitude: 9.04467
 postcode: "35329"
 city: Gemünden (Felda)
-street: "Sonnenstraße"
-housenumber: 4
+street: Sonnenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

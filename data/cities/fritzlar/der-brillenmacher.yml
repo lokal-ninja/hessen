@@ -4,8 +4,8 @@ latitude: 51.1318
 longitude: 9.27308
 postcode: "34560"
 city: Fritzlar
-street: "Marktplatz"
-housenumber: 32
-phone: "+49 5622 2200"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.brillenmacher.net/"
+street: Marktplatz
+housenumber: "32"
+phone: +49 5622 2200
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.brillenmacher.net/

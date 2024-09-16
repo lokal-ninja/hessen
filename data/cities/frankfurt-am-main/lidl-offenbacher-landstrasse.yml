@@ -1,11 +1,11 @@
 id: 33885289
-type: way
+type: node
 latitude: 50.10259
 longitude: 8.69719
 postcode: "60599"
 city: Frankfurt am Main
-street: "Offenbacher Landstraße"
-housenumber: 53
+street: Offenbacher Landstraße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

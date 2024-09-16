@@ -4,8 +4,8 @@ latitude: 50.01633
 longitude: 8.45264
 postcode: "65479"
 city: Raunheim
-street: "Mainstraße"
-housenumber: 17
+street: Mainstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,15:00-18:00; We off; Sa 09:00-12:00; PH off"
-website: "buchimport.com"
+opening_hours: Mo-Fr 10:00-12:30,15:00-18:00; We off; Sa 09:00-12:00; PH off
+website: buchimport.com

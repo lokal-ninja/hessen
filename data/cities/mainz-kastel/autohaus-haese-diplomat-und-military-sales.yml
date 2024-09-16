@@ -4,8 +4,8 @@ latitude: 50.01568
 longitude: 8.28472
 postcode: "55252"
 city: Mainz-Kastel
-street: "Boelckestraße"
-housenumber: 38
-phone: "+49 6134 284943"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.autohaus-haese.de/volvo_us_military_sales_germany/"
+street: Boelckestraße
+housenumber: "38"
+phone: +49 6134 284943
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.autohaus-haese.de/volvo_us_military_sales_germany/

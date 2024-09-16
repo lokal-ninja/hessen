@@ -1,11 +1,11 @@
 id: 254834628
-type: way
+type: node
 latitude: 49.91723
 longitude: 8.49315
 postcode: "64521"
 city: Groß-Gerau
-street: "Sudetenstraße"
-housenumber: 11
-phone: "+496152 17766 – 0"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.moebel-heidenreich.de"
+street: Sudetenstraße
+housenumber: "11"
+phone: +496152 17766 – 0
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.moebel-heidenreich.de

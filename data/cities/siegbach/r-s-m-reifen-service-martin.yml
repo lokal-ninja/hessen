@@ -1,11 +1,11 @@
 id: 308367253
-type: way
+type: node
 latitude: 50.72206
 longitude: 8.4292
 postcode: "35768"
 city: Siegbach
-street: "Auf dem Liechen"
-housenumber: 2
-phone: "+49 2778 6396"
-opening_hours: "Mo-Fr 16:00-18:30; We off; Sa 10:00-13:00"
+street: Auf dem Liechen
+housenumber: "2"
+phone: +49 2778 6396
+opening_hours: Mo-Fr 16:00-18:30; We off; Sa 10:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 92948523
-type: way
+type: node
 latitude: 50.1829
 longitude: 8.59576
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Oberurseler Straße"
-housenumber: 1
+street: Oberurseler Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

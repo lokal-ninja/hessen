@@ -1,11 +1,11 @@
 id: 96616310
-type: way
+type: node
 latitude: 50.75045
 longitude: 9.27597
 postcode: "36304"
 city: Alsfeld
-street: "Löbergasse"
-housenumber: 5
+street: Löbergasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-16:00, Su closed"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-16:00, Su closed
 website: ""

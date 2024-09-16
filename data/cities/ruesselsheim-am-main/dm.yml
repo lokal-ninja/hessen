@@ -1,11 +1,11 @@
 id: 97945888
-type: way
+type: node
 latitude: 49.98318
 longitude: 8.42992
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Adam-Opel-Straße"
-housenumber: 59
+street: Adam-Opel-Straße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Th 08:00-21:00; Fr,Sa 08:00-22:00"
+opening_hours: Mo-Th 08:00-21:00; Fr,Sa 08:00-22:00
 website: ""

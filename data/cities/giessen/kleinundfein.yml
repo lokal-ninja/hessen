@@ -4,8 +4,8 @@ latitude: 50.58766
 longitude: 8.67662
 postcode: "35390"
 city: Gießen
-street: "Brandplatz"
-housenumber: 11
-phone: "+49 641 97280254"
-opening_hours: "Tu-fr 8:00-18:00; Sa 8:00-16:00"
-website: "https://giessen-kleinundfein.de/"
+street: Brandplatz
+housenumber: "11"
+phone: +49 641 97280254
+opening_hours: Tu-fr 8:00-18:00; Sa 8:00-16:00
+website: https://giessen-kleinundfein.de/

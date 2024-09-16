@@ -1,11 +1,11 @@
 id: 215290827
-type: way
+type: node
 latitude: 50.57236
 longitude: 9.99777
 postcode: ""
 city: Hilders
-street: "Aue"
-housenumber: 16
+street: Aue
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

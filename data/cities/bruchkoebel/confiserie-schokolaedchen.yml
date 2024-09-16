@@ -4,8 +4,9 @@ latitude: 50.17849
 longitude: 8.9215
 postcode: "63486"
 city: Bruchköbel
-street: "Hauptstraße"
-housenumber: 67
+street: Hauptstraße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00, We 10:00-13:00, Sa 10:00-14:00, Mo,Tu,Th,Fr 14:30-18:30"
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00, We 10:00-13:00, Sa 10:00-14:00, Mo,Tu,Th,Fr
+    14:30-18:30
 website: ""

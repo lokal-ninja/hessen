@@ -4,8 +4,8 @@ latitude: 49.87314
 longitude: 8.65236
 postcode: "64283"
 city: Darmstadt
-street: "Rheinstraße"
-housenumber: 9
-phone: "+49 6151 392990"
+street: Rheinstraße
+housenumber: "9"
+phone: +49 6151 392990
 opening_hours: ""
-website: "https://www.fotogena-pro.de"
+website: https://www.fotogena-pro.de

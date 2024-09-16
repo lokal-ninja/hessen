@@ -1,11 +1,11 @@
 id: 287274952
-type: way
+type: node
 latitude: 50.30673
 longitude: 8.51648
 postcode: "61267"
 city: Neu-Anspach
-street: "Robert-Bosch-Straße"
-housenumber: 22
-phone: "+49 6081 58290-200"
-opening_hours: "Mo - Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://mts-mobile.de"
+street: Robert-Bosch-Straße
+housenumber: "22"
+phone: +49 6081 58290-200
+opening_hours: Mo - Fr 09:00-18:00; Sa 09:00-14:00
+website: https://mts-mobile.de

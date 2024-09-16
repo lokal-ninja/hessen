@@ -1,11 +1,11 @@
 id: 780224777
-type: way
+type: node
 latitude: 50.0563
 longitude: 8.29547
 postcode: "65205"
 city: Wiesbaden
-street: "Berliner Straße"
-housenumber: 249
+street: Berliner Straße
+housenumber: "249"
 phone: ""
 opening_hours: ""
 website: ""

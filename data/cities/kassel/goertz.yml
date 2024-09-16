@@ -4,8 +4,8 @@ latitude: 51.28742
 longitude: 9.47597
 postcode: "34134"
 city: Kassel
-street: "Frankfurter Straße"
-housenumber: 225
-phone: "+49 561 9413163"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.goertz.de/"
+street: Frankfurter Straße
+housenumber: "225"
+phone: +49 561 9413163
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.goertz.de/

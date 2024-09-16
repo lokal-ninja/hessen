@@ -1,11 +1,11 @@
 id: 72785555
-type: way
+type: node
 latitude: 50.7612
 longitude: 9.77736
 postcode: "36132"
 city: Eiterfeld
-street: "Steinweg"
-housenumber: 5
+street: Steinweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 162836418
-type: way
+type: node
 latitude: 51.41149
 longitude: 9.40782
 postcode: "34379"
 city: Calden
-street: "Oberweg"
-housenumber: 26
+street: Oberweg
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "http://www.niemeyer-reisen.de"
+website: http://www.niemeyer-reisen.de

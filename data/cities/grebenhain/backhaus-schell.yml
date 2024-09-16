@@ -1,11 +1,11 @@
 id: 360394779
-type: way
+type: node
 latitude: 50.49924
 longitude: 9.38557
 postcode: "36355"
 city: Grebenhain
-street: "Kirchweg"
-housenumber: 17
+street: Kirchweg
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

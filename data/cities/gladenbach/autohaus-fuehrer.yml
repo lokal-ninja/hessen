@@ -1,11 +1,11 @@
 id: 307248062
-type: way
+type: node
 latitude: 50.75367
 longitude: 8.59605
 postcode: "35075"
 city: Gladenbach
-street: "Hauptstraße"
-housenumber: 64
+street: Hauptstraße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

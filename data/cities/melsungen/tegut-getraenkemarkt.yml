@@ -1,11 +1,11 @@
 id: 1137874423
-type: way
+type: node
 latitude: 51.13427
 longitude: 9.54141
 postcode: "34212"
 city: Melsungen
-street: "Schlachthofstraße"
-housenumber: 7
+street: Schlachthofstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-melsungen-kasseler-strasse-52.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.tegut.com/maerkte/markt/tegut-melsungen-kasseler-strasse-52.html

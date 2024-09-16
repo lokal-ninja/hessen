@@ -4,8 +4,8 @@ latitude: 50.14612
 longitude: 8.55302
 postcode: "65760"
 city: Eschborn
-street: "Ludwig-Erhard-Straße"
-housenumber: 14
-phone: "+49 (0)69 15321-1000"
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "https://www.mycwt.com/de/de/"
+street: Ludwig-Erhard-Straße
+housenumber: "14"
+phone: +49 (0)69 15321-1000
+opening_hours: Mo-Fr 08:00-16:30
+website: https://www.mycwt.com/de/de/

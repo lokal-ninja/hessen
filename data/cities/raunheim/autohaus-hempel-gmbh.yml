@@ -1,11 +1,11 @@
 id: 45825540
-type: way
+type: node
 latitude: 50.0116
 longitude: 8.45649
 postcode: "65479"
 city: Raunheim
-street: "Karlstraße"
-housenumber: 16
+street: Karlstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

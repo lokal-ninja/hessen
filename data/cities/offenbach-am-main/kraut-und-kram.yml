@@ -1,11 +1,11 @@
 id: 58555281
-type: way
+type: node
 latitude: 50.09805
 longitude: 8.76315
 postcode: "63069"
 city: Offenbach am Main
-street: "Senefelderstraße"
-housenumber: 15
+street: Senefelderstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00"
+opening_hours: Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 15:00-18:00
 website: ""

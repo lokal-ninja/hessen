@@ -4,8 +4,8 @@ latitude: 50.18231
 longitude: 8.46379
 postcode: "61462"
 city: Königstein im Taunus
-street: "Burgweg"
-housenumber: 12
+street: Burgweg
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://poc-a-poc.de"
+website: https://poc-a-poc.de

@@ -1,11 +1,11 @@
 id: 1033412724
-type: way
+type: node
 latitude: 50.08404
 longitude: 8.77495
 postcode: "63071"
 city: Offenbach am Main
-street: "Waldstraße"
-housenumber: 272
+street: Waldstraße
+housenumber: "272"
 phone: ""
-opening_hours: "Mo-Sa 07:30-22:00"
+opening_hours: Mo-Sa 07:30-22:00
 website: ""

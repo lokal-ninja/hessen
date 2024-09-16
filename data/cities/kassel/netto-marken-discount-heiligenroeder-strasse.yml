@@ -1,11 +1,11 @@
 id: 197489216
-type: way
+type: node
 latitude: 51.30811
 longitude: 9.54411
 postcode: "34123"
 city: Kassel
-street: "Heiligenröder Straße"
-housenumber: 51
+street: Heiligenröder Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-18:00
+website: https://www.netto-online.de

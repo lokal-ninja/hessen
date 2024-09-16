@@ -1,11 +1,11 @@
 id: 209161036
-type: way
+type: node
 latitude: 50.60005
 longitude: 8.799
 postcode: "35418"
 city: Buseck
-street: "Zeppelinstraße"
-housenumber: 2
+street: Zeppelinstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "www.suzuki-otto.de"
+website: www.suzuki-otto.de

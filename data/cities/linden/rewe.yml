@@ -1,11 +1,11 @@
 id: 39331312
-type: way
+type: node
 latitude: 50.52591
 longitude: 8.66062
 postcode: "35440"
 city: Linden
-street: "Arnsburger Weg"
-housenumber: 1
+street: Arnsburger Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

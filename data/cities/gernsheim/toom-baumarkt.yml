@@ -1,11 +1,11 @@
 id: 93620618
-type: way
+type: node
 latitude: 49.75261
 longitude: 8.49233
 postcode: "64579"
 city: Gernsheim
-street: "Bensheimer Straße"
-housenumber: 9
-phone: "+49 6258 9048860"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/gernsheim/"
+street: Bensheimer Straße
+housenumber: "9"
+phone: +49 6258 9048860
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/gernsheim/

@@ -1,11 +1,11 @@
 id: 26703312
-type: way
+type: node
 latitude: 50.24887
 longitude: 8.64067
 postcode: "61381"
 city: Friedrichsdorf
-street: "Industriestraße"
-housenumber: 12
+street: Industriestraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

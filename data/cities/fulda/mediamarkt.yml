@@ -4,8 +4,8 @@ latitude: 50.54917
 longitude: 9.68853
 postcode: "36037"
 city: Fulda
-street: "Petersberger Straße"
-housenumber: 36
+street: Petersberger Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00"
-website: "https://www.mediamarkt.de/de/store/fulda-448"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-20:00
+website: https://www.mediamarkt.de/de/store/fulda-448

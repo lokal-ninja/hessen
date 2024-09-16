@@ -4,8 +4,8 @@ latitude: 50.10697
 longitude: 8.66781
 postcode: "60329"
 city: Frankfurt am Main
-street: "Moselstraße"
-housenumber: 17
+street: Moselstraße
+housenumber: "17"
 phone: ""
-opening_hours: "06:00-23:00"
+opening_hours: 06:00-23:00
 website: ""

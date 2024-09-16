@@ -1,11 +1,11 @@
 id: 141871230
-type: way
+type: node
 latitude: 50.55004
 longitude: 9.71828
 postcode: "36043"
 city: Fulda
-street: "Walter-Bauer-Straße"
-housenumber: 1
+street: Walter-Bauer-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.firstelephant.de/fulda/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.firstelephant.de/fulda/

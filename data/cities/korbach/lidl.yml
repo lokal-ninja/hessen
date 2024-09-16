@@ -1,11 +1,11 @@
 id: 39878039
-type: way
+type: node
 latitude: 51.27063
 longitude: 8.85555
 postcode: "34497"
 city: Korbach
-street: "Medebacher Landstraße"
-housenumber: 23
+street: Medebacher Landstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/korbach/medebacher-landstrasse-23.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/korbach/medebacher-landstrasse-23.html

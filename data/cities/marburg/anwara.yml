@@ -4,8 +4,8 @@ latitude: 50.81423
 longitude: 8.76817
 postcode: "35037"
 city: Marburg
-street: "Ketzerbach"
-housenumber: 13
-phone: "+49 6421 809170-2"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.anwara-moden.de/"
+street: Ketzerbach
+housenumber: "13"
+phone: +49 6421 809170-2
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.anwara-moden.de/

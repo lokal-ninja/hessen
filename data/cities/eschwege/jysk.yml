@@ -1,11 +1,11 @@
 id: 164043665
-type: way
+type: node
 latitude: 51.19413
 longitude: 10.03078
 postcode: "37269"
 city: Eschwege
-street: "Königsberger Straße"
-housenumber: 2
+street: Königsberger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

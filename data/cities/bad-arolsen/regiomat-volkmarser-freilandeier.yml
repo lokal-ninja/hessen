@@ -4,8 +4,8 @@ latitude: 51.38445
 longitude: 9.00058
 postcode: "34454"
 city: Bad Arolsen
-street: "Prof.-Bier-Straße"
-housenumber: 20
-phone: "+49 173 9034628"
-opening_hours: "24/7"
+street: Prof.-Bier-Straße
+housenumber: "20"
+phone: +49 173 9034628
+opening_hours: 24/7
 website: ""

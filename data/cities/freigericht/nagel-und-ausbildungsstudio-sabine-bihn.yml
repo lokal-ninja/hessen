@@ -1,11 +1,11 @@
 id: 159558929
-type: way
+type: node
 latitude: 50.15201
 longitude: 9.14349
 postcode: "63579"
 city: Freigericht
-street: "Ahornweg"
-housenumber: 5
-phone: "+49 6055 83217"
+street: Ahornweg
+housenumber: "5"
+phone: +49 6055 83217
 opening_hours: ""
-website: "http://www.freigericht-nagelstudio.de/"
+website: http://www.freigericht-nagelstudio.de/

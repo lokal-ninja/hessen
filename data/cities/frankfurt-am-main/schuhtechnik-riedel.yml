@@ -4,8 +4,8 @@ latitude: 50.13715
 longitude: 8.67175
 postcode: "60320"
 city: Frankfurt am Main
-street: "Eduard-Rüppell-Straße"
-housenumber: 24
-phone: "+49 69 563200"
-opening_hours: "Tu,Th,Fr 08:30-13:00,15:00-18:00; We 08:30-13:00; Sa 09:00-13:00"
-website: "https://www.schuhtechnik-riedel.de"
+street: Eduard-Rüppell-Straße
+housenumber: "24"
+phone: +49 69 563200
+opening_hours: Tu,Th,Fr 08:30-13:00,15:00-18:00; We 08:30-13:00; Sa 09:00-13:00
+website: https://www.schuhtechnik-riedel.de

@@ -1,11 +1,11 @@
 id: 197764127
-type: way
+type: node
 latitude: 49.6491
 longitude: 9.00662
 postcode: "64711"
 city: Erbach
-street: "Bullauer Straße"
-housenumber: 6
+street: Bullauer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

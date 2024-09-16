@@ -4,8 +4,8 @@ latitude: 50.41274
 longitude: 9.00549
 postcode: "63667"
 city: Nidda
-street: "Bahnhofstraße"
-housenumber: 26
-phone: "+49 6043 802617"
-opening_hours: "Tu,Th,Fr 15:00-18:00"
-website: "https://www.weltladen.de/hessen/"
+street: Bahnhofstraße
+housenumber: "26"
+phone: +49 6043 802617
+opening_hours: Tu,Th,Fr 15:00-18:00
+website: https://www.weltladen.de/hessen/

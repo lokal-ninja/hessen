@@ -1,11 +1,11 @@
 id: 521507123
-type: way
+type: node
 latitude: 49.65848
 longitude: 8.42381
 postcode: "68623"
 city: Lampertheim
-street: "Am Sackstein"
-housenumber: 4
-phone: "+49 6241 50623112"
+street: Am Sackstein
+housenumber: "4"
+phone: +49 6241 50623112
 opening_hours: ""
 website: ""

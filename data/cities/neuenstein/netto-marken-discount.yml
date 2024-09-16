@@ -1,11 +1,11 @@
 id: 795669575
-type: way
+type: node
 latitude: 50.90627
 longitude: 9.59516
 postcode: "36286"
 city: Neuenstein
-street: "Raiffeisenstraße"
-housenumber: 28
+street: Raiffeisenstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 605905842
-type: way
+type: node
 latitude: 50.62688
 longitude: 9.39367
 postcode: "36341"
 city: Lauterbach
-street: "Vogelsbergstraße"
-housenumber: 87
+street: Vogelsbergstraße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

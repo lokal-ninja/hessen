@@ -1,11 +1,11 @@
 id: 35720520
-type: way
+type: node
 latitude: 49.90175
 longitude: 8.60877
 postcode: "64331"
 city: Weiterstadt
-street: "Rudolf-Diesel-Straße"
+street: Rudolf-Diesel-Straße
 housenumber: 28B
-phone: "+49 6151 670283"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "http://www.dm-drogeriemarkt.de/"
+phone: +49 6151 670283
+opening_hours: Mo-Sa 08:30-20:00
+website: http://www.dm-drogeriemarkt.de/

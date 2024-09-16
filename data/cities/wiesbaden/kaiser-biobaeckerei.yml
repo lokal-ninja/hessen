@@ -4,8 +4,8 @@ latitude: 50.08196
 longitude: 8.23965
 postcode: "65183"
 city: Wiesbaden
-street: "Neugasse"
-housenumber: 20
+street: Neugasse
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-18:00"
-website: "https://www.ihre-bio-baeckerei.de/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-18:00
+website: https://www.ihre-bio-baeckerei.de/

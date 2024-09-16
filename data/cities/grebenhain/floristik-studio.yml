@@ -1,11 +1,11 @@
 id: 119854074
-type: way
+type: node
 latitude: 50.52254
 longitude: 9.31225
 postcode: "36355"
 city: Grebenhain
-street: "Heideweg"
-housenumber: 1
+street: Heideweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

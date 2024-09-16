@@ -4,8 +4,8 @@ latitude: 51.31547
 longitude: 9.49699
 postcode: "34117"
 city: Kassel
-street: "Königsplatz"
-housenumber: 53
-phone: "+49 561 70161874"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denns-biomarkt.de/"
+street: Königsplatz
+housenumber: "53"
+phone: +49 561 70161874
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denns-biomarkt.de/

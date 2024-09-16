@@ -4,8 +4,9 @@ latitude: 51.28367
 longitude: 9.63234
 postcode: "34260"
 city: Kaufungen
-street: "Leipziger Straße"
-housenumber: 443
-phone: "+49 5605 4008"
-opening_hours: "Mo,Tu,Th 08:00-12:00; Tu,Th 14:00-18:00; We 08:00-13:00 || und nach Vereinbarung"
-website: "https://www.optik-wetzel.de/"
+street: Leipziger Straße
+housenumber: "443"
+phone: +49 5605 4008
+opening_hours: Mo,Tu,Th 08:00-12:00; Tu,Th 14:00-18:00; We 08:00-13:00 || "und nach
+    Vereinbarung"
+website: https://www.optik-wetzel.de/

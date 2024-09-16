@@ -1,11 +1,11 @@
 id: 95555828
-type: way
+type: node
 latitude: 50.19948
 longitude: 8.60949
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Kalbacher Straße"
-housenumber: 32
+street: Kalbacher Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

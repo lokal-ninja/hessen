@@ -1,11 +1,11 @@
 id: 692405689
-type: way
+type: node
 latitude: 50.21085
 longitude: 8.65749
 postcode: "61352"
 city: Bad Homburg v.d. Höhe
-street: "Ober-Eschbacher Straße"
-housenumber: 142
+street: Ober-Eschbacher Straße
+housenumber: "142"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.51363
 longitude: 8.62006
 postcode: "35625"
 city: Hüttenberg
-street: "Hauptstraße"
-housenumber: 79
-phone: "+49 6403 2745"
-opening_hours: "Mo, Tu, Th, Fr 06:30-18:00; We, Sa 06:30-13:00"
-website: "https://www.manz-die-metzgerei.de/"
+street: Hauptstraße
+housenumber: "79"
+phone: +49 6403 2745
+opening_hours: Mo, Tu, Th, Fr 06:30-18:00; We, Sa 06:30-13:00
+website: https://www.manz-die-metzgerei.de/

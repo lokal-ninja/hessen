@@ -1,11 +1,11 @@
 id: 234484410
-type: way
+type: node
 latitude: 50.13242
 longitude: 8.88947
 postcode: "63454"
 city: Hanau
-street: "Burgallee"
+street: Burgallee
 housenumber: 37-39
 phone: ""
-opening_hours: "Mo-Su 08:00-23:00"
+opening_hours: Mo-Su 08:00-23:00
 website: ""

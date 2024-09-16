@@ -1,11 +1,11 @@
 id: 253348660
-type: way
+type: node
 latitude: 49.95939
 longitude: 8.67136
 postcode: "63329"
 city: Egelsbach
-street: "Kurt-Schumacher-Ring"
-housenumber: 8
+street: Kurt-Schumacher-Ring
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

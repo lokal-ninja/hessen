@@ -1,11 +1,11 @@
 id: 4597284
-type: way
+type: node
 latitude: 50.5829
 longitude: 8.67137
 postcode: "35390"
 city: Gießen
-street: "Seltersweg"
-housenumber: 64
-phone: "+49 641 70040"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"
-website: "https://www.galeria.de/on/demandware.store/Sites-Galeria-Site/de/Stores-Details?StoreID=001139&src=90L100001"
+street: Seltersweg
+housenumber: "64"
+phone: +49 641 70040
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-18:00
+website: https://www.galeria.de/on/demandware.store/Sites-Galeria-Site/de/Stores-Details?StoreID=001139&src=90L100001

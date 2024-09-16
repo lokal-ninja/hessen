@@ -1,11 +1,11 @@
 id: 749735453
-type: way
+type: node
 latitude: 51.01383
 longitude: 8.64701
 postcode: "35088"
 city: Battenberg (Eder)
-street: "Marburger Straße"
-housenumber: 42
+street: Marburger Straße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

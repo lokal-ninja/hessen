@@ -4,8 +4,8 @@ latitude: 50.58506
 longitude: 8.67598
 postcode: "35390"
 city: Gießen
-street: "Neuenweg"
-housenumber: 15
-phone: "+49 641 792047"
-opening_hours: "PH off; Mo-Fr 10:00-13:00,13:30-18:00"
-website: "https://airtramp.de"
+street: Neuenweg
+housenumber: "15"
+phone: +49 641 792047
+opening_hours: PH off; Mo-Fr 10:00-13:00,13:30-18:00
+website: https://airtramp.de

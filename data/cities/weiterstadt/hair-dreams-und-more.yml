@@ -1,11 +1,11 @@
 id: 100665096
-type: way
+type: node
 latitude: 49.93087
 longitude: 8.60055
 postcode: "64331"
 city: Weiterstadt
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
 website: ""

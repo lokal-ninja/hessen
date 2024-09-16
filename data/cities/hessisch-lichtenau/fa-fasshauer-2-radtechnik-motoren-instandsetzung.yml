@@ -1,11 +1,11 @@
 id: 412937613
-type: way
+type: node
 latitude: 51.21164
 longitude: 9.79303
 postcode: "37235"
 city: Hessisch Lichtenau
-street: "Simmenet"
-housenumber: 3
+street: Simmenet
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

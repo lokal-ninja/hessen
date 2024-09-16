@@ -1,11 +1,11 @@
 id: 457056072
-type: way
+type: node
 latitude: 50.36464
 longitude: 8.73914
 postcode: "61231"
 city: Bad Nauheim
-street: "Karlstraße"
-housenumber: 11
+street: Karlstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

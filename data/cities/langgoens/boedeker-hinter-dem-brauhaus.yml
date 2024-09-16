@@ -1,11 +1,11 @@
 id: 127492642
-type: way
+type: node
 latitude: 50.50058
 longitude: 8.65632
 postcode: "35428"
 city: Langgöns
-street: "Hinter dem Brauhaus"
-housenumber: 2
+street: Hinter dem Brauhaus
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.boedeker-langgoens.de/"
+website: https://www.boedeker-langgoens.de/

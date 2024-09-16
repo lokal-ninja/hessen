@@ -1,11 +1,11 @@
 id: 125624264
-type: way
+type: node
 latitude: 50.05073
 longitude: 8.97362
 postcode: "63500"
 city: Seligenstadt
-street: "Kolpingstraße"
-housenumber: 33
-phone: "+49 6182 826076"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00"
+street: Kolpingstraße
+housenumber: "33"
+phone: +49 6182 826076
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 221967261
-type: way
+type: node
 latitude: 50.4395
 longitude: 8.2851
 postcode: "35796"
 city: Weinbach
-street: "Auf dem alten Berg"
-housenumber: 9
-phone: "+49 6471 41077"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.nahkauf.de/maerkte/weinbach-44618127-kramer-silke-weinbach-auf-dem-alten-berg-9"
+street: Auf dem alten Berg
+housenumber: "9"
+phone: +49 6471 41077
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.nahkauf.de/maerkte/weinbach-44618127-kramer-silke-weinbach-auf-dem-alten-berg-9

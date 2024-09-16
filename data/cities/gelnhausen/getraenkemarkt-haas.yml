@@ -1,11 +1,11 @@
 id: 146061430
-type: way
+type: node
 latitude: 50.18804
 longitude: 9.1728
 postcode: "63571"
 city: Gelnhausen
-street: "Altenhaßlauer Weg"
-housenumber: 1
+street: Altenhaßlauer Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 51.30681
 longitude: 9.4872
 postcode: "34121"
 city: Kassel
-street: "Frankfurter Straße"
-housenumber: 53
-phone: "+49 561 22468"
-opening_hours: "Mo-We,Fr 10:00-13:00, 15:00-18:00; Th 15:00-18:00; Sa 10:00-13:00; PH off"
-website: "http://www.zoohaus-ks.de/"
+street: Frankfurter Straße
+housenumber: "53"
+phone: +49 561 22468
+opening_hours: Mo-We,Fr 10:00-13:00, 15:00-18:00; Th 15:00-18:00; Sa 10:00-13:00;
+    PH off
+website: http://www.zoohaus-ks.de/

@@ -1,11 +1,11 @@
 id: 101081938
-type: way
+type: node
 latitude: 50.74431
 longitude: 9.25798
 postcode: "36304"
 city: Alsfeld
-street: "Grünberger Straße"
-housenumber: 83
+street: Grünberger Straße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

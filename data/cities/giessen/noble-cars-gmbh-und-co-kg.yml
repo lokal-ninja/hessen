@@ -1,11 +1,11 @@
 id: 105055856
-type: way
+type: node
 latitude: 50.57393
 longitude: 8.71107
 postcode: "35394"
 city: Gießen
-street: "An der Automeile"
+street: An der Automeile
 housenumber: 15 A
-phone: "+49 641-94887-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su 11:00-19:00"
-website: "http://www.lexusforum-giessen.de/lexusforum-giessen/196/196/home.html"
+phone: +49 641-94887-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Su 11:00-19:00
+website: http://www.lexusforum-giessen.de/lexusforum-giessen/196/196/home.html

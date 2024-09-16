@@ -4,8 +4,8 @@ latitude: 50.11163
 longitude: 8.68193
 postcode: "60311"
 city: Frankfurt am Main
-street: "Berliner Straße"
-housenumber: 39
-phone: "+49 69 40324502"
-opening_hours: "Sa 11:00-16:00; Mo-Fr 11:00-17:00"
-website: "www.diewhiskykiste.de"
+street: Berliner Straße
+housenumber: "39"
+phone: +49 69 40324502
+opening_hours: Sa 11:00-16:00; Mo-Fr 11:00-17:00
+website: www.diewhiskykiste.de

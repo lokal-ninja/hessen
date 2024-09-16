@@ -1,11 +1,11 @@
 id: 106961855
-type: way
+type: node
 latitude: 50.56046
 longitude: 9.34666
 postcode: "36358"
 city: Herbstein
-street: "Am Altärchen"
-housenumber: 1
+street: Am Altärchen
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

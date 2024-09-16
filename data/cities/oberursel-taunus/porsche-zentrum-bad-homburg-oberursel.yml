@@ -1,11 +1,11 @@
 id: 482736706
-type: way
+type: node
 latitude: 50.20775
 longitude: 8.59597
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Porsche Platz"
-housenumber: 1
+street: Porsche Platz
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

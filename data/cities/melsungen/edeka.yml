@@ -1,11 +1,11 @@
 id: 213798089
-type: way
+type: node
 latitude: 51.12546
 longitude: 9.54419
 postcode: "34212"
 city: Melsungen
-street: "Nürnberger Straße"
-housenumber: 4
-phone: "+49 5661 3832"
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.edeka-reinbold.de/"
+street: Nürnberger Straße
+housenumber: "4"
+phone: +49 5661 3832
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.edeka-reinbold.de/

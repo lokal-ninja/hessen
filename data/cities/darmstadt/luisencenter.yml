@@ -1,11 +1,11 @@
 id: 53315512
-type: way
+type: node
 latitude: 49.87231
 longitude: 8.65156
 postcode: "64283"
 city: Darmstadt
-street: "Luisenplatz"
-housenumber: 5
-phone: "+49 6151 396760"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://luisencenter.de/"
+street: Luisenplatz
+housenumber: "5"
+phone: +49 6151 396760
+opening_hours: Mo-Sa 10:00-20:00
+website: https://luisencenter.de/

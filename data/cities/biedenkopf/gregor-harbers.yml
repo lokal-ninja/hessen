@@ -1,11 +1,11 @@
 id: 825803434
-type: way
+type: node
 latitude: 50.88319
 longitude: 8.54292
 postcode: "35216"
 city: Biedenkopf
-street: "Kirchstraße"
-housenumber: 9
+street: Kirchstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

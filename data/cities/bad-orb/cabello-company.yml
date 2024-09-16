@@ -4,8 +4,8 @@ latitude: 50.22394
 longitude: 9.35408
 postcode: "63619"
 city: Bad Orb
-street: "Martin-Luther-Straße"
-housenumber: 11
+street: Martin-Luther-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "nach Terminvereinbarung"
-website: "https://www.cabellocompany.com/"
+opening_hours: '"nach Terminvereinbarung"'
+website: https://www.cabellocompany.com/

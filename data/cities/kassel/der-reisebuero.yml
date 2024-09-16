@@ -4,8 +4,8 @@ latitude: 51.31266
 longitude: 9.49425
 postcode: "34117"
 city: Kassel
-street: "Obere Karlsstraße"
-housenumber: 15
-phone: "+49 561 72970"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-13:00"
-website: "https://www.der.com/reisebuero/Kassel-Obere-Karlsstrasse-15"
+street: Obere Karlsstraße
+housenumber: "15"
+phone: +49 561 72970
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-13:00
+website: https://www.der.com/reisebuero/Kassel-Obere-Karlsstrasse-15

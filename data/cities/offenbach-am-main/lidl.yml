@@ -1,11 +1,11 @@
 id: 26606798
-type: way
+type: node
 latitude: 50.09694
 longitude: 8.79024
 postcode: "63071"
 city: Offenbach am Main
-street: "Bieberer Straße"
-housenumber: 225
-phone: "+49 800 4353361"
+street: Bieberer Straße
+housenumber: "225"
+phone: +49 800 4353361
 opening_hours: ""
-website: "https://www.lidl.de/filialen/offenbach-main/offenbach-am-main-bieberer-str-225.html"
+website: https://www.lidl.de/filialen/offenbach-main/offenbach-am-main-bieberer-str-225.html

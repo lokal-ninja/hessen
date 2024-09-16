@@ -4,8 +4,8 @@ latitude: 50.36513
 longitude: 8.73591
 postcode: "61231"
 city: Bad Nauheim
-street: "Friedrichstraße"
-housenumber: 2
-phone: "+49 6032 33022"
-opening_hours: "Mo, Tu, Th, Fr 09:00-13:00, 14:00-18:00; We 09:00-13:00"
-website: "https://www.sanitaetshaus-winter.de/"
+street: Friedrichstraße
+housenumber: "2"
+phone: +49 6032 33022
+opening_hours: Mo, Tu, Th, Fr 09:00-13:00, 14:00-18:00; We 09:00-13:00
+website: https://www.sanitaetshaus-winter.de/

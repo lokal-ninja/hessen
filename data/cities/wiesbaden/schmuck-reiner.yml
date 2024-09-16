@@ -4,8 +4,8 @@ latitude: 50.07958
 longitude: 8.22997
 postcode: "65183"
 city: Wiesbaden
-street: "Bismarckring"
-housenumber: 15
-phone: "+49 611 307881"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.ingereiner.de/"
+street: Bismarckring
+housenumber: "15"
+phone: +49 611 307881
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.ingereiner.de/

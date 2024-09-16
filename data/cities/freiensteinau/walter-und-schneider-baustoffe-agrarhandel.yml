@@ -1,11 +1,11 @@
 id: 173086958
-type: way
+type: node
 latitude: 50.42576
 longitude: 9.4056
 postcode: "36399"
 city: Freiensteinau
-street: "Unterer Brückenweg"
-housenumber: 9
+street: Unterer Brückenweg
+housenumber: "9"
 phone: "06666919293"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.fehl-walter.de/"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.fehl-walter.de/

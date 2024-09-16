@@ -4,8 +4,8 @@ latitude: 49.86912
 longitude: 8.66263
 postcode: "64287"
 city: Darmstadt
-street: "Roßdörfer Straße"
-housenumber: 3
+street: Roßdörfer Straße
+housenumber: "3"
 phone: "+49615147909"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-15:00"
-website: "https://poetz-raumgestaltung.de/"
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-15:00
+website: https://poetz-raumgestaltung.de/

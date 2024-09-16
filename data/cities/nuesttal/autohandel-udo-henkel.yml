@@ -1,11 +1,11 @@
 id: 764644992
-type: way
+type: node
 latitude: 50.62778
 longitude: 9.85132
 postcode: "36167"
 city: Nüsttal
-street: "Mittelstraße"
-housenumber: 20
+street: Mittelstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

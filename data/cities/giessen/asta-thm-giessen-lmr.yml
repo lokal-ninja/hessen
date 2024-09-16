@@ -4,8 +4,8 @@ latitude: 50.58697
 longitude: 8.68367
 postcode: "35390"
 city: Gießen
-street: "Wiesenstraße"
-housenumber: 14
+street: Wiesenstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-We,Fr 09:30-14:30; Th 10:00-15:00"
-website: "https://www.asta.thm.de/site/referate/lmr"
+opening_hours: Mo-We,Fr 09:30-14:30; Th 10:00-15:00
+website: https://www.asta.thm.de/site/referate/lmr

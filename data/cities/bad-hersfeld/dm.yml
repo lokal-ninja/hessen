@@ -1,11 +1,11 @@
 id: 190902649
-type: way
+type: node
 latitude: 50.86428
 longitude: 9.70805
 postcode: "36251"
 city: Bad Hersfeld
-street: "Heinrich-von-Stephan-Straße"
-housenumber: 2
-phone: "+49 6621 1726076"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+street: Heinrich-von-Stephan-Straße
+housenumber: "2"
+phone: +49 6621 1726076
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

@@ -1,11 +1,11 @@
 id: 679550626
-type: way
+type: node
 latitude: 51.50634
 longitude: 8.9955
 postcode: "34474"
 city: Diemelstadt
-street: "Lilienstraße"
-housenumber: 7
-phone: "+49 152 28434550"
+street: Lilienstraße
+housenumber: "7"
+phone: +49 152 28434550
 opening_hours: ""
 website: ""

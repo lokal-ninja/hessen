@@ -1,11 +1,11 @@
 id: 97416399
-type: way
+type: node
 latitude: 50.64054
 longitude: 8.70183
 postcode: "35457"
 city: Lollar
-street: "Pfingstweide"
-housenumber: 10
-phone: "+49 6406 91260"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://www.adlermode-unternehmen.com/filialfinder/lollar/"
+street: Pfingstweide
+housenumber: "10"
+phone: +49 6406 91260
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://www.adlermode-unternehmen.com/filialfinder/lollar/

@@ -1,11 +1,11 @@
 id: 150594253
-type: way
+type: node
 latitude: 50.43011
 longitude: 8.37764
 postcode: "35789"
 city: Weilmünster
-street: "Mühlweg"
-housenumber: 6
+street: Mühlweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

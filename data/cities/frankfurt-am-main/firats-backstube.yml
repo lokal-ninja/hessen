@@ -4,8 +4,8 @@ latitude: 50.12658
 longitude: 8.71614
 postcode: "60385"
 city: Frankfurt am Main
-street: "Wittelsbacherallee"
-housenumber: 187
+street: Wittelsbacherallee
+housenumber: "187"
 phone: ""
-opening_hours: "Mo-Fr 07:00-15:30; Sa 08:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-15:30; Sa 08:00-13:00; Su,PH off
 website: ""

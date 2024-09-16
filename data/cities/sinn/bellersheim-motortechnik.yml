@@ -1,11 +1,11 @@
 id: 1237587959
-type: way
+type: node
 latitude: 50.6544
 longitude: 8.32806
 postcode: "35764"
 city: Sinn
-street: "Jordanstraße"
-housenumber: 
+street: Jordanstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

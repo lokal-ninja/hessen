@@ -1,11 +1,11 @@
 id: 42324999
-type: way
+type: node
 latitude: 49.59968
 longitude: 8.74027
 postcode: "69509"
 city: Mörlenbach
-street: "Fürther Straße"
-housenumber: 34
+street: Fürther Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
 website: ""

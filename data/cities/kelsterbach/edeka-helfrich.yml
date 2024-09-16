@@ -1,11 +1,11 @@
 id: 4758611
-type: way
+type: node
 latitude: 50.05406
 longitude: 8.52632
 postcode: "65451"
 city: Kelsterbach
-street: "Am Südpark"
-housenumber: 1
-phone: "+49 6107 900300"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Am Südpark
+housenumber: "1"
+phone: +49 6107 900300
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 535581508
-type: way
+type: node
 latitude: 50.39854
 longitude: 8.05674
 postcode: ""
 city: Limburg an der Lahn
-street: "Dieselstraße"
-housenumber: 1
+street: Dieselstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://autohaus.toyota.de/keller/"
+website: https://autohaus.toyota.de/keller/

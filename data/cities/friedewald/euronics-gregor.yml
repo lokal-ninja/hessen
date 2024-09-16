@@ -4,8 +4,8 @@ latitude: 50.88581
 longitude: 9.86713
 postcode: "36289"
 city: Friedewald
-street: "Im Gewerbegebiet"
-housenumber: 3
+street: Im Gewerbegebiet
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:30"
-website: "https://www.euronics.de/Friedewald/info/Ueber-Uns"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:30
+website: https://www.euronics.de/Friedewald/info/Ueber-Uns

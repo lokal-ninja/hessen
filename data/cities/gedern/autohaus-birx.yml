@@ -1,11 +1,11 @@
 id: 180317100
-type: way
+type: node
 latitude: 50.42409
 longitude: 9.20001
 postcode: "63688"
 city: Gedern
-street: "Mühlstraße"
-housenumber: 19
+street: Mühlstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

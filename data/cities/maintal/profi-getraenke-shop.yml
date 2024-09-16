@@ -4,8 +4,8 @@ latitude: 50.13097
 longitude: 8.86441
 postcode: "63477"
 city: Maintal
-street: "Honeywellstraße"
-housenumber: 14
-phone: "+49 6181 9084062"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-19:00; Sa 08:00-16:00"
-website: "https://alldrink.de/filiale/515-maintal-doernigheim"
+street: Honeywellstraße
+housenumber: "14"
+phone: +49 6181 9084062
+opening_hours: Mo-Fr 09:00-13:00,14:00-19:00; Sa 08:00-16:00
+website: https://alldrink.de/filiale/515-maintal-doernigheim

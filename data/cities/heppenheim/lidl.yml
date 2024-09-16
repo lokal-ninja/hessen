@@ -1,11 +1,11 @@
 id: 119444252
-type: way
+type: node
 latitude: 49.64284
 longitude: 8.63198
 postcode: "64646"
 city: Heppenheim
-street: "Lilienthalstraße"
-housenumber: 3
+street: Lilienthalstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

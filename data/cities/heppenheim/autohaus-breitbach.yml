@@ -1,11 +1,11 @@
 id: 231026743
-type: way
+type: node
 latitude: 49.64849
 longitude: 8.62406
 postcode: ""
 city: Heppenheim
-street: "Opelstraße"
-housenumber: 16
+street: Opelstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

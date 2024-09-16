@@ -4,8 +4,9 @@ latitude: 50.04041
 longitude: 8.46605
 postcode: "65795"
 city: Hattersheim
-street: "Bahnhofstraße"
-housenumber: 32
-phone: "+49 6145 5849680"
-opening_hours: "Tu 09:00-18:30; We 09:00-18:30; Th 09:00-20:00; Fr 09:00-18:30; Sa 08:30-15:30"
-website: "https://www.haircreativ-friseur.de/"
+street: Bahnhofstraße
+housenumber: "32"
+phone: +49 6145 5849680
+opening_hours: Tu 09:00-18:30; We 09:00-18:30; Th 09:00-20:00; Fr 09:00-18:30; Sa
+    08:30-15:30
+website: https://www.haircreativ-friseur.de/

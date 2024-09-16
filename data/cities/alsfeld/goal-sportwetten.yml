@@ -1,11 +1,11 @@
 id: 153235152
-type: way
+type: node
 latitude: 50.75001
 longitude: 9.26876
 postcode: "36304"
 city: Alsfeld
-street: "Marburger Straße"
-housenumber: 5
+street: Marburger Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

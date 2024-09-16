@@ -1,11 +1,11 @@
 id: 156946955
-type: way
+type: node
 latitude: 50.7691
 longitude: 8.58536
 postcode: "35075"
 city: Gladenbach
-street: "Adolf-Theis-Straße"
-housenumber: 6
+street: Adolf-Theis-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

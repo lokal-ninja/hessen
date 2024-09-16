@@ -1,11 +1,11 @@
 id: 262078890
-type: way
+type: node
 latitude: 49.96223
 longitude: 8.37675
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Pfälzer Straße"
-housenumber: 14
+street: Pfälzer Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.raiffeisen.com/standorte/186"
+website: https://www.raiffeisen.com/standorte/186

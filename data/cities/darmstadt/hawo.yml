@@ -4,8 +4,8 @@ latitude: 49.88761
 longitude: 8.64576
 postcode: "64293"
 city: Darmstadt
-street: "Otto-Röhm-Straße"
-housenumber: 47
-phone: "+49 6151 9505140"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
-website: "https://www.hawo-farben.de/"
+street: Otto-Röhm-Straße
+housenumber: "47"
+phone: +49 6151 9505140
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
+website: https://www.hawo-farben.de/

@@ -1,11 +1,11 @@
 id: 26549555
-type: way
+type: node
 latitude: 49.8902
 longitude: 8.64556
 postcode: "64293"
 city: Darmstadt
-street: "Otto-Röhm-Straße"
-housenumber: 51
-phone: "+49 6151 15936 0"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.roller.de/moebelhaeuser/darmstadt/"
+street: Otto-Röhm-Straße
+housenumber: "51"
+phone: +49 6151 15936 0
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.roller.de/moebelhaeuser/darmstadt/

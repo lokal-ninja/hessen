@@ -1,11 +1,11 @@
 id: 121752871
-type: way
+type: node
 latitude: 50.62845
 longitude: 8.39451
 postcode: "35630"
 city: Ehringshausen
-street: "Am Alten Bach"
-housenumber: 16
-phone: "+49 6441 9827414"
+street: Am Alten Bach
+housenumber: "16"
+phone: +49 6441 9827414
 opening_hours: ""
-website: "https://www.lager.es/"
+website: https://www.lager.es/

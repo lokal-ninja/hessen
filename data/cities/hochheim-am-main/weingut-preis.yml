@@ -4,8 +4,8 @@ latitude: 50.01034
 longitude: 8.34912
 postcode: "65239"
 city: Hochheim am Main
-street: "Rathausstraße"
-housenumber: 17
-phone: "+49 6146 7620"
-opening_hours: "We,Th,Fr,Sa 17:00+; PH,Su 12:00+; Mo,Tu off"
-website: "http://www.weingut-preis.de/"
+street: Rathausstraße
+housenumber: "17"
+phone: +49 6146 7620
+opening_hours: We,Th,Fr,Sa 17:00+; PH,Su 12:00+; Mo,Tu off
+website: http://www.weingut-preis.de/

@@ -1,11 +1,13 @@
 id: 139019346
-type: way
+type: node
 latitude: 50.05372
 longitude: 8.70693
 postcode: "63263"
 city: Neu-Isenburg
-street: "Offenbacher Straße"
-housenumber: 138
-phone: "+49 6102 7391-8000"
-opening_hours: "Mo-Fr 8:00-18:00 Verkauf; Sa 9:00-13:00 open Verkauf; Mo-Fr 7:00-18:00 open Service; Mo-Th 7:00-18:00 open Teile & Zubehör; Fr 7:00-17:00 open Teile & Zubehör; Su,PH off"
+street: Offenbacher Straße
+housenumber: "138"
+phone: +49 6102 7391-8000
+opening_hours: Mo-Fr 8:00-18:00 "Verkauf"; Sa 9:00-13:00 open "Verkauf"; Mo-Fr 7:00-18:00
+    open "Service"; Mo-Th 7:00-18:00 open "Teile & Zubehör"; Fr 7:00-17:00 open "Teile
+    & Zubehör"; Su,PH off
 website: ""

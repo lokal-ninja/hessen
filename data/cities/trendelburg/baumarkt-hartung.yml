@@ -1,11 +1,11 @@
 id: 166747866
-type: way
+type: node
 latitude: 51.57674
 longitude: 9.43031
 postcode: "34388"
 city: Trendelburg
-street: "Zur Abgunst"
-housenumber: 5
+street: Zur Abgunst
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.baumarkt-hartung.de/"
+website: https://www.baumarkt-hartung.de/

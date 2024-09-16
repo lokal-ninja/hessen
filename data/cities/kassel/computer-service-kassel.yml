@@ -1,11 +1,11 @@
 id: 260749285
-type: way
+type: node
 latitude: 51.32751
 longitude: 9.51564
 postcode: ""
 city: Kassel
-street: "Kellermannstraße"
-housenumber: 27
-phone: "+49 561 5038551"
-opening_hours: "Mo-Fr 10:00-12:00,13:00-18:00"
-website: "https://www.edv-schneider.com/"
+street: Kellermannstraße
+housenumber: "27"
+phone: +49 561 5038551
+opening_hours: Mo-Fr 10:00-12:00,13:00-18:00
+website: https://www.edv-schneider.com/

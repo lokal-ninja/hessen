@@ -1,11 +1,11 @@
 id: 110099963
-type: way
+type: node
 latitude: 50.32558
 longitude: 8.80211
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Sandkautenweg"
-housenumber: 4
+street: Sandkautenweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

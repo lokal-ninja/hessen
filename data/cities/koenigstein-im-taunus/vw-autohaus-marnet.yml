@@ -1,11 +1,11 @@
 id: 197975957
-type: way
+type: node
 latitude: 50.17722
 longitude: 8.47043
 postcode: "61462"
 city: Königstein im Taunus
-street: "Wiesbadener Straße"
-housenumber: 68
-phone: "+49 (6174) 2993-0"
+street: Wiesbadener Straße
+housenumber: "68"
+phone: +49 (6174) 2993-0
 opening_hours: ""
-website: "https://www.marnet.de"
+website: https://www.marnet.de

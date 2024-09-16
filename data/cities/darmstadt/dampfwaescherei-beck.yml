@@ -4,8 +4,8 @@ latitude: 49.86862
 longitude: 8.65667
 postcode: "64283"
 city: Darmstadt
-street: "Karlstraße"
-housenumber: 22
-phone: "+49 6151 46617"
-opening_hours: "Mo-Fr 8:00-16:00"
-website: "http://www.dampfwaescherei-beck.de"
+street: Karlstraße
+housenumber: "22"
+phone: +49 6151 46617
+opening_hours: Mo-Fr 8:00-16:00
+website: http://www.dampfwaescherei-beck.de

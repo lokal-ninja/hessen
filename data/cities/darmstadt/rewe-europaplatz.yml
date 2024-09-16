@@ -1,11 +1,11 @@
 id: 477203087
-type: way
+type: node
 latitude: 49.87247
 longitude: 8.62825
 postcode: "64293"
 city: Darmstadt
-street: "Europaplatz"
-housenumber: 2
+street: Europaplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 10:00-20:00; PH off"
+opening_hours: Mo-Sa 06:00-22:00; Su 10:00-20:00; PH off
 website: ""

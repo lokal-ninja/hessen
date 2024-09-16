@@ -1,11 +1,11 @@
 id: 177299229
-type: way
+type: node
 latitude: 51.25813
 longitude: 9.41881
 postcode: "34225"
 city: Baunatal
-street: "Altenritter Straße"
-housenumber: 2
-phone: "+49 561 494776"
+street: Altenritter Straße
+housenumber: "2"
+phone: +49 561 494776
 opening_hours: ""
 website: ""

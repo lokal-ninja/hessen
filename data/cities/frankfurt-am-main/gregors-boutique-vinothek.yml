@@ -4,8 +4,8 @@ latitude: 50.1172
 longitude: 8.66483
 postcode: "60325"
 city: Frankfurt am Main
-street: "Bockenheimer Landstraße"
-housenumber: 47
-phone: "+49 69 50927455"
-opening_hours: "Mo-Th 16:00-23:00; Fr 16:00-24:00; Sa 13:00-24:00"
+street: Bockenheimer Landstraße
+housenumber: "47"
+phone: +49 69 50927455
+opening_hours: Mo-Th 16:00-23:00; Fr 16:00-24:00; Sa 13:00-24:00
 website: ""

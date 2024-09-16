@@ -4,8 +4,8 @@ latitude: 50.55304
 longitude: 8.41886
 postcode: "35606"
 city: Solms
-street: "Heinrich-Baumann-Straße"
-housenumber: 2
+street: Heinrich-Baumann-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-18:00"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-18:00
+website: https://www.kik.de/

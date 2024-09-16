@@ -1,11 +1,11 @@
 id: 42778917
-type: way
+type: node
 latitude: 50.57755
 longitude: 8.63253
 postcode: "35452"
 city: Heuchelheim
-street: "Ludwig-Rinn-Straße"
-housenumber: 49
+street: Ludwig-Rinn-Straße
+housenumber: "49"
 phone: "+496413013690"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.roller.de/moebelhaeuser/heuchelheim-bei-giessen/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.roller.de/moebelhaeuser/heuchelheim-bei-giessen/

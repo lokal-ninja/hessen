@@ -4,8 +4,8 @@ latitude: 50.67119
 longitude: 8.30632
 postcode: "35745"
 city: Herborn
-street: "Konrad-Adenauer-Straße"
-housenumber: 70
-phone: "+49 2772 9241827"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:30-10:30"
-website: "https://www.schaefers-backstuben.de"
+street: Konrad-Adenauer-Straße
+housenumber: "70"
+phone: +49 2772 9241827
+opening_hours: Mo-Sa 07:00-22:00; Su 07:30-10:30
+website: https://www.schaefers-backstuben.de

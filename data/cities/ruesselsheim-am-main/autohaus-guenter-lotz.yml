@@ -1,11 +1,11 @@
 id: 166719535
-type: way
+type: node
 latitude: 49.9774
 longitude: 8.42613
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Eisenstraße"
-housenumber: 29
-phone: "+49 6142 82133"
-opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-16:00"
-website: "https://www.suzuki-lotz.de/"
+street: Eisenstraße
+housenumber: "29"
+phone: +49 6142 82133
+opening_hours: Mo-Th 08:00-17:30; Fr 08:00-16:00
+website: https://www.suzuki-lotz.de/

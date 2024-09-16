@@ -1,11 +1,11 @@
 id: 229158566
-type: way
+type: node
 latitude: 50.49464
 longitude: 8.65767
 postcode: "35428"
 city: Langgöns
-street: "Obergasse"
-housenumber: 50
-phone: "+49 6403 2163"
+street: Obergasse
+housenumber: "50"
+phone: +49 6403 2163
 opening_hours: ""
 website: ""

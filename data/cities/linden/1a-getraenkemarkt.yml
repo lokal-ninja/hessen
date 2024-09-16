@@ -1,11 +1,11 @@
 id: 28925694
-type: way
+type: node
 latitude: 50.53911
 longitude: 8.65015
 postcode: "35440"
 city: Linden
-street: "Gießener Pforte"
-housenumber: 31
+street: Gießener Pforte
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

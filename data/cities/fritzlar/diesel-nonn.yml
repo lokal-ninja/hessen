@@ -1,11 +1,11 @@
 id: 169014777
-type: way
+type: node
 latitude: 51.13733
 longitude: 9.26461
 postcode: "34560"
 city: Fritzlar
-street: "Geismarstraße"
-housenumber: 41
-phone: "+49 5622 98980"
+street: Geismarstraße
+housenumber: "41"
+phone: +49 5622 98980
 opening_hours: ""
-website: "https://www.diesel-nonn.de/"
+website: https://www.diesel-nonn.de/

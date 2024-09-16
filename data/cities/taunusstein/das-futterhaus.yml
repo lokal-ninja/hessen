@@ -1,11 +1,11 @@
 id: 34182004
-type: way
+type: node
 latitude: 50.13821
 longitude: 8.15581
 postcode: "65232"
 city: Taunusstein
-street: "Kleiststraße"
-housenumber: 9
+street: Kleiststraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su off; PH off
 website: ""

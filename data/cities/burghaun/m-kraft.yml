@@ -1,11 +1,11 @@
 id: 453891892
-type: way
+type: node
 latitude: 50.68932
 longitude: 9.64469
 postcode: "36151"
 city: Burghaun
-street: "Fuldaer Straße"
-housenumber: 19
+street: Fuldaer Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

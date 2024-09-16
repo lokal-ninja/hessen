@@ -1,11 +1,11 @@
 id: 229709346
-type: way
+type: node
 latitude: 51.13246
 longitude: 9.17509
 postcode: "34537"
 city: Bad Wildungen
-street: "Zur Wilde"
-housenumber: 6
+street: Zur Wilde
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 10:00-12:00, 15:00-18:00, Sa 10:00-14:00"
-website: "http://www.himmelreyter.de"
+opening_hours: Mo-Tu,Th-Fr 10:00-12:00, 15:00-18:00, Sa 10:00-14:00
+website: http://www.himmelreyter.de

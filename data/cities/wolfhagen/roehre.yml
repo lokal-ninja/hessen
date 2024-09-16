@@ -1,11 +1,11 @@
 id: 238879665
-type: way
+type: node
 latitude: 51.32599
 longitude: 9.17358
 postcode: "34466"
 city: Wolfhagen
-street: "Wilhelmstraße"
-housenumber: 9
-phone: "+49 5692 2383"
+street: Wilhelmstraße
+housenumber: "9"
+phone: +49 5692 2383
 opening_hours: ""
 website: ""

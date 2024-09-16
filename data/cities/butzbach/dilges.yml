@@ -1,11 +1,11 @@
 id: 496012850
-type: way
+type: node
 latitude: 50.39111
 longitude: 8.61807
 postcode: "35510"
 city: Butzbach
-street: "Am Schlosswingert"
-housenumber: 5
+street: Am Schlosswingert
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

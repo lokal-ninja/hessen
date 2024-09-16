@@ -1,11 +1,11 @@
 id: 246999247
-type: way
+type: node
 latitude: 50.57337
 longitude: 8.68534
 postcode: "35394"
 city: Gießen
-street: "Bänningerstraße"
-housenumber: 9
-phone: "+49 641 9236650"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Bänningerstraße
+housenumber: "9"
+phone: +49 641 9236650
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

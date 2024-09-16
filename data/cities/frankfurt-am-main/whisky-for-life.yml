@@ -4,8 +4,8 @@ latitude: 50.11044
 longitude: 8.68732
 postcode: "60311"
 city: Frankfurt am Main
-street: "Fahrgasse"
-housenumber: 6
-phone: "+49 173 6602413"
-opening_hours: "We,Th 14:00-19:00; Fr 14:00-20:00; Sa 12:00-16:00"
-website: "https://www.whiskyforlife.de/"
+street: Fahrgasse
+housenumber: "6"
+phone: +49 173 6602413
+opening_hours: We,Th 14:00-19:00; Fr 14:00-20:00; Sa 12:00-16:00
+website: https://www.whiskyforlife.de/

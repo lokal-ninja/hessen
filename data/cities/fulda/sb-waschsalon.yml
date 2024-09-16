@@ -4,8 +4,8 @@ latitude: 50.5622
 longitude: 9.68509
 postcode: "36037"
 city: Fulda
-street: "Leipziger Straße"
-housenumber: 78
-phone: "+49 661 41097020"
-opening_hours: "07:00-22:00"
-website: "https://www.waschsalon-fulda.de"
+street: Leipziger Straße
+housenumber: "78"
+phone: +49 661 41097020
+opening_hours: 07:00-22:00
+website: https://www.waschsalon-fulda.de

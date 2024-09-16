@@ -1,11 +1,11 @@
 id: 692438909
-type: way
+type: node
 latitude: 50.19891
 longitude: 8.58793
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Nassauer Straße"
-housenumber: 64
+street: Nassauer Straße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 05:00-21:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 05:00-21:00; Sa 07:00-20:00
 website: ""

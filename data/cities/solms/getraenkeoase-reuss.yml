@@ -4,8 +4,8 @@ latitude: 50.5442
 longitude: 8.40895
 postcode: "35606"
 city: Solms
-street: "Solmser Gewerbepark"
-housenumber: 7
-phone: "+49 6442 8963"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
+street: Solmser Gewerbepark
+housenumber: "7"
+phone: +49 6442 8963
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
 website: ""

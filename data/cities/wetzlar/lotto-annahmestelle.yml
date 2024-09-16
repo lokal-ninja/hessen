@@ -4,8 +4,8 @@ latitude: 50.56468
 longitude: 8.4775
 postcode: "35576"
 city: Wetzlar
-street: "Hohe Straße"
-housenumber: 1
-phone: "+49 6441 51 889"
-opening_hours: "Mo-Fr 06:00-23:00; Sa-Su 07:00-23:00"
+street: Hohe Straße
+housenumber: "1"
+phone: +49 6441 51 889
+opening_hours: Mo-Fr 06:00-23:00; Sa-Su 07:00-23:00
 website: ""

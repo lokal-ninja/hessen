@@ -4,8 +4,8 @@ latitude: 50.23071
 longitude: 8.6145
 postcode: "61348"
 city: Bad Homburg v.d. Höhe
-street: "Kaiser-Friedrich-Promenade"
-housenumber: 4
-phone: "+49 6172 867710"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://friseurteam-mirel.de/"
+street: Kaiser-Friedrich-Promenade
+housenumber: "4"
+phone: +49 6172 867710
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://friseurteam-mirel.de/

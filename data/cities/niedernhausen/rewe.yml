@@ -1,11 +1,11 @@
 id: 37832428
-type: way
+type: node
 latitude: 50.16327
 longitude: 8.30602
 postcode: "65527"
 city: Niedernhausen
-street: "Am Sägewerk"
-housenumber: 12
-phone: "+49 6127 7030822"
-opening_hours: "Mo-Sa 07:00-21:30"
+street: Am Sägewerk
+housenumber: "12"
+phone: +49 6127 7030822
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

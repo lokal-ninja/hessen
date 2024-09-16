@@ -1,11 +1,11 @@
 id: 192511462
-type: way
+type: node
 latitude: 49.66871
 longitude: 9.00045
 postcode: "64720"
 city: Michelstadt
-street: "Erbacher Straße"
-housenumber: 76
+street: Erbacher Straße
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "http://www.baeckereiheilmann.de/"
+website: http://www.baeckereiheilmann.de/

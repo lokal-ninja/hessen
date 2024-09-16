@@ -1,11 +1,11 @@
 id: 96488554
-type: way
+type: node
 latitude: 50.58178
 longitude: 8.64727
 postcode: "35398"
 city: Gießen
-street: "Gottlieb-Daimler-Straße"
-housenumber: 14
-phone: "+49 641 9311170"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.expert.de/giessen"
+street: Gottlieb-Daimler-Straße
+housenumber: "14"
+phone: +49 641 9311170
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.expert.de/giessen

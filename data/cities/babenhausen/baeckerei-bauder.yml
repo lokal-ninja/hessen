@@ -4,8 +4,8 @@ latitude: 49.96141
 longitude: 8.95346
 postcode: "64832"
 city: Babenhausen
-street: "Fahrstraße"
-housenumber: 6
-phone: "+49 6073 711487"
-opening_hours: "Mo-Fr 07:00-17:15; Sa 07:00-12:30; PH off"
-website: "https://www.baeckerei-bauder.de"
+street: Fahrstraße
+housenumber: "6"
+phone: +49 6073 711487
+opening_hours: Mo-Fr 07:00-17:15; Sa 07:00-12:30; PH off
+website: https://www.baeckerei-bauder.de

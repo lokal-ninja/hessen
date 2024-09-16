@@ -1,11 +1,11 @@
 id: 220060314
-type: way
+type: node
 latitude: 50.77698
 longitude: 8.30575
 postcode: "35684"
 city: Dillenburg
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

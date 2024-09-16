@@ -1,11 +1,11 @@
 id: 48295882
-type: way
+type: node
 latitude: 50.1286
 longitude: 8.62502
 postcode: "60487"
 city: Frankfurt am Main
-street: "Am Industriehof"
-housenumber: 9
-phone: "+49 69 708091"
-opening_hours: "Mo-Th 08:30-19:00, Fr 8:30-19:30, Sa 8:30-15:00"
-website: "https://www.ixi-getraenke.de/"
+street: Am Industriehof
+housenumber: "9"
+phone: +49 69 708091
+opening_hours: Mo-Th 08:30-19:00, Fr 8:30-19:30, Sa 8:30-15:00
+website: https://www.ixi-getraenke.de/

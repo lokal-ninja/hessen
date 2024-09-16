@@ -1,11 +1,11 @@
 id: 263662080
-type: way
+type: node
 latitude: 51.13575
 longitude: 9.42756
 postcode: "34587"
 city: Felsberg
-street: "Zum Haintor"
-housenumber: 1
-phone: "+49 5662 40810"
-opening_hours: "Mo-Sa 07:00-21:00; PH Su off"
-website: "https://www.rewe.de/marktseite/felsberg/1465851/rewe-markt-zum-haintor-1/"
+street: Zum Haintor
+housenumber: "1"
+phone: +49 5662 40810
+opening_hours: Mo-Sa 07:00-21:00; PH Su off
+website: https://www.rewe.de/marktseite/felsberg/1465851/rewe-markt-zum-haintor-1/

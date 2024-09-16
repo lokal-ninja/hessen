@@ -4,8 +4,8 @@ latitude: 50.04929
 longitude: 8.22505
 postcode: "65203"
 city: Wiesbaden
-street: "Hagenauer Straße"
-housenumber: 27
-phone: "+49 611 5659315"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.trinkgut.de/markt/reisinger"
+street: Hagenauer Straße
+housenumber: "27"
+phone: +49 611 5659315
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.trinkgut.de/markt/reisinger

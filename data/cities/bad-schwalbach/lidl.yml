@@ -1,11 +1,11 @@
 id: 93159900
-type: way
+type: node
 latitude: 50.14857
 longitude: 8.08355
 postcode: "65307"
 city: Bad Schwalbach
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 40a
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/f/bad-schwalbach/bahnhofstr-40a.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/f/bad-schwalbach/bahnhofstr-40a.html

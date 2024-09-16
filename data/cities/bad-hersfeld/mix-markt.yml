@@ -1,11 +1,11 @@
 id: 65155483
-type: way
+type: node
 latitude: 50.86487
 longitude: 9.71201
 postcode: "36251"
 city: Bad Hersfeld
-street: "Hainchenweg"
-housenumber: 3
+street: Hainchenweg
+housenumber: "3"
 phone: "+4966216406385"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/104/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/104/

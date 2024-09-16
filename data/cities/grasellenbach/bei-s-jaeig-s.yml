@@ -4,8 +4,8 @@ latitude: 49.62734
 longitude: 8.85704
 postcode: "64689"
 city: Grasellenbach
-street: "Siegfriedstraße"
-housenumber: 17
-phone: "+49 6207 949294"
-opening_hours: "Th,Fr 08:30-12:00,14:00-17:30; Sa 07:30-12:30"
-website: "http://www.bauernhof-jaeigs.de/hofladen.htm"
+street: Siegfriedstraße
+housenumber: "17"
+phone: +49 6207 949294
+opening_hours: Th,Fr 08:30-12:00,14:00-17:30; Sa 07:30-12:30
+website: http://www.bauernhof-jaeigs.de/hofladen.htm

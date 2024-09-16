@@ -4,8 +4,8 @@ latitude: 50.14442
 longitude: 8.65271
 postcode: "60431"
 city: Frankfurt am Main
-street: "Ginnheimer Hohl"
-housenumber: 36
+street: Ginnheimer Hohl
+housenumber: "36"
 phone: "+4969529336"
-opening_hours: "Mo-Fr 08:00-19:00, Sa 09:00-14:00"
-website: "http://www.quick-textilpflege.de/"
+opening_hours: Mo-Fr 08:00-19:00, Sa 09:00-14:00
+website: http://www.quick-textilpflege.de/

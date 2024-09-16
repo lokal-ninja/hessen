@@ -4,8 +4,8 @@ latitude: 51.1273
 longitude: 9.29199
 postcode: "34560"
 city: Fritzlar
-street: "Gewerbering"
-housenumber: 2
-phone: "+49 5622 915120"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-14:00"
-website: "https://kuechen-dietz.europa-moebel.de/"
+street: Gewerbering
+housenumber: "2"
+phone: +49 5622 915120
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-14:00
+website: https://kuechen-dietz.europa-moebel.de/

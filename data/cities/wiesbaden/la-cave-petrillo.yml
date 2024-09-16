@@ -4,8 +4,8 @@ latitude: 50.07545
 longitude: 8.23101
 postcode: "65185"
 city: Wiesbaden
-street: "Kaiser-Friedrich-Ring"
-housenumber: 22
-phone: "+49 1573 4792363"
-opening_hours: "by appointment"
-website: "https://lacavepetrillo.com"
+street: Kaiser-Friedrich-Ring
+housenumber: "22"
+phone: +49 1573 4792363
+opening_hours: '"by appointment"'
+website: https://lacavepetrillo.com

@@ -1,11 +1,11 @@
 id: 282919878
-type: way
+type: node
 latitude: 50.77198
 longitude: 8.58446
 postcode: "35075"
 city: Gladenbach
-street: "Kreuzstraße"
-housenumber: 41
+street: Kreuzstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

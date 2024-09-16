@@ -4,8 +4,8 @@ latitude: 50.13212
 longitude: 8.83754
 postcode: "63477"
 city: Maintal
-street: "Kennedystraße"
-housenumber: 53
-phone: "+49 6181 49 15 80"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.wehner-decoration.de/"
+street: Kennedystraße
+housenumber: "53"
+phone: +49 6181 49 15 80
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.wehner-decoration.de/

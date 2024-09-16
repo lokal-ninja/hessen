@@ -1,11 +1,11 @@
 id: 110750215
-type: way
+type: node
 latitude: 50.18907
 longitude: 8.69862
 postcode: "60437"
 city: Frankfurt am Main
-street: "Maßbornstraße"
-housenumber: 60
+street: Maßbornstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

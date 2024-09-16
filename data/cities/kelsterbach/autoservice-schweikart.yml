@@ -1,11 +1,11 @@
 id: 285792144
-type: way
+type: node
 latitude: 50.05927
 longitude: 8.52465
 postcode: "65451"
 city: Kelsterbach
-street: "Am Glanzstoffwerk"
-housenumber: 11
-phone: "+49 6107 3600"
+street: Am Glanzstoffwerk
+housenumber: "11"
+phone: +49 6107 3600
 opening_hours: ""
-website: "http://www.autoservice-schweikart.de/"
+website: http://www.autoservice-schweikart.de/

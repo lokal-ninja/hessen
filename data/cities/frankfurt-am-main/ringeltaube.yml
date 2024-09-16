@@ -4,8 +4,8 @@ latitude: 50.05506
 longitude: 8.59071
 postcode: "60549"
 city: Frankfurt am Main
-street: "Georg-Baumgarten-Straße"
-housenumber: 3
+street: Georg-Baumgarten-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 11:00-13:30, 14:15-18:00"
-website: "https://www.ringeltaube.de/"
+opening_hours: Mo-Fr 11:00-13:30, 14:15-18:00
+website: https://www.ringeltaube.de/

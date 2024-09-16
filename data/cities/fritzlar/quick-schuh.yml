@@ -4,8 +4,8 @@ latitude: 51.13373
 longitude: 9.27334
 postcode: "34560"
 city: Fritzlar
-street: "Allee"
-housenumber: 2
+street: Allee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.quick-schuh.com/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.quick-schuh.com/

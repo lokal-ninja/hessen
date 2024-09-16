@@ -4,8 +4,8 @@ latitude: 50.5567
 longitude: 8.49747
 postcode: "35576"
 city: Wetzlar
-street: "Langgasse"
-housenumber: 27
-phone: "+49 6441 5693598"
-opening_hours: "Tu-Fr 09:30-18:00, Sa 09:30-14:00"
-website: "https://rauch-pfeifen.de"
+street: Langgasse
+housenumber: "27"
+phone: +49 6441 5693598
+opening_hours: Tu-Fr 09:30-18:00, Sa 09:30-14:00
+website: https://rauch-pfeifen.de

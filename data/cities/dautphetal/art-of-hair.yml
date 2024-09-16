@@ -1,11 +1,11 @@
 id: 399290449
-type: way
+type: node
 latitude: 50.87339
 longitude: 8.59911
 postcode: "35232"
 city: Dautphetal
-street: "Johannesstraße"
-housenumber: 7
+street: Johannesstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

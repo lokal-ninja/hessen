@@ -1,11 +1,11 @@
 id: 1202303692
-type: way
+type: node
 latitude: 51.18794
 longitude: 10.05237
 postcode: ""
 city: Eschwege
-street: "An den Anlagen"
-housenumber: 
+street: An den Anlagen
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 12:00-24:00; Sa,Su 14:00-24:00"
+opening_hours: Mo-Fr 12:00-24:00; Sa,Su 14:00-24:00
 website: ""

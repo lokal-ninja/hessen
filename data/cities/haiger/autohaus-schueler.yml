@@ -1,11 +1,11 @@
 id: 125158139
-type: way
+type: node
 latitude: 50.74633
 longitude: 8.18863
 postcode: ""
 city: Haiger
-street: "Siegener Straße"
-housenumber: 13
+street: Siegener Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

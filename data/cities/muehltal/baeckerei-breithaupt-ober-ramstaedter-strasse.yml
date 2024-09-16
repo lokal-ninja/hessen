@@ -1,11 +1,11 @@
 id: 71499211
-type: way
+type: node
 latitude: 49.82674
 longitude: 8.70307
 postcode: "64367"
 city: Mühltal
-street: "Ober-Ramstädter Straße"
-housenumber: 39
+street: Ober-Ramstädter Straße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

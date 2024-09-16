@@ -1,11 +1,11 @@
 id: 261280769
-type: way
+type: node
 latitude: 49.83476
 longitude: 8.4882
 postcode: "64560"
 city: Riedstadt
-street: "Stahlbaustraße"
-housenumber: 3
+street: Stahlbaustraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

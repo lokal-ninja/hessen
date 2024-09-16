@@ -4,8 +4,8 @@ latitude: 49.74167
 longitude: 8.62475
 postcode: "64665"
 city: Alsbach-Hähnlein
-street: "Hauptstraße"
-housenumber: 20
-phone: "+49 6257 7277"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:00"
-website: "https://rundumurlaub.de/"
+street: Hauptstraße
+housenumber: "20"
+phone: +49 6257 7277
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:00
+website: https://rundumurlaub.de/

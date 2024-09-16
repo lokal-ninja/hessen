@@ -1,11 +1,11 @@
 id: 39965739
-type: way
+type: node
 latitude: 50.08148
 longitude: 8.23846
 postcode: "65183"
 city: Wiesbaden
-street: "Kirchgasse"
+street: Kirchgasse
 housenumber: 35-43
-phone: "+49 611 1630"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"
+phone: +49 611 1630
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00
 website: ""

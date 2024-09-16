@@ -1,11 +1,11 @@
 id: 106938318
-type: way
+type: node
 latitude: 50.39342
 longitude: 9.13513
 postcode: "63697"
 city: Hirzenhain
-street: "Nidderstraße"
-housenumber: 14
-phone: "+49 6045 5066"
+street: Nidderstraße
+housenumber: "14"
+phone: +49 6045 5066
 opening_hours: ""
-website: "http://www.stiebeling-hirzenhain.de/"
+website: http://www.stiebeling-hirzenhain.de/

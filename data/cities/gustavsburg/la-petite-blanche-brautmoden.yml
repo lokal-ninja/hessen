@@ -4,8 +4,8 @@ latitude: 49.99638
 longitude: 8.32364
 postcode: "65462"
 city: Gustavsburg
-street: "Darmstädter Landstraße"
-housenumber: 78
+street: Darmstädter Landstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Th 13:00-21:00; Sa 10:00-18:00 || nach Vereinbarung"
-website: "https://www.lapetiteblanche.de/"
+opening_hours: Mo-Fr 10:00-18:00; Th 13:00-21:00; Sa 10:00-18:00 || "nach Vereinbarung"
+website: https://www.lapetiteblanche.de/

@@ -1,11 +1,11 @@
 id: 676042141
-type: way
+type: node
 latitude: 51.13211
 longitude: 9.54253
 postcode: "34212"
 city: Melsungen
-street: "Kasseler Straße"
-housenumber: 15
-phone: "+49 5661 3800"
+street: Kasseler Straße
+housenumber: "15"
+phone: +49 5661 3800
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 353705748
-type: way
+type: node
 latitude: 50.58895
 longitude: 9.83296
 postcode: "36145"
 city: Hofbieber
-street: "Fuldaer Straße"
-housenumber: 54
-phone: "+49 6657 8011"
-opening_hours: "Mo-Fr 07:45-17:30; Sa 08:00-12:00"
-website: "https://www.opel-fahr-hofbieber.de/"
+street: Fuldaer Straße
+housenumber: "54"
+phone: +49 6657 8011
+opening_hours: Mo-Fr 07:45-17:30; Sa 08:00-12:00
+website: https://www.opel-fahr-hofbieber.de/

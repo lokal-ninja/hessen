@@ -1,11 +1,11 @@
 id: 366306810
-type: way
+type: node
 latitude: 50.05093
 longitude: 8.70065
 postcode: "63263"
 city: Neu-Isenburg
-street: "Herzogstraße"
-housenumber: 53
-phone: "+49 6102 777 444"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.ep.de/elektro-schmidt"
+street: Herzogstraße
+housenumber: "53"
+phone: +49 6102 777 444
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.ep.de/elektro-schmidt

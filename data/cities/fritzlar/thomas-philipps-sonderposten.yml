@@ -4,8 +4,8 @@ latitude: 51.1278
 longitude: 9.29217
 postcode: "34560"
 city: Fritzlar
-street: "Gewerbering"
-housenumber: 2
-phone: "+49 5622 798469"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.thomas-philipps.de"
+street: Gewerbering
+housenumber: "2"
+phone: +49 5622 798469
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.thomas-philipps.de

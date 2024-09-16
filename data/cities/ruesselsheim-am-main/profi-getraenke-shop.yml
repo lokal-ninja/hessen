@@ -1,11 +1,11 @@
 id: 141465664
-type: way
+type: node
 latitude: 49.98292
 longitude: 8.42941
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Schreberstraße"
-housenumber: 21
-phone: "+49 6142 5506140"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-19:00; Sa 08:00-18:00"
-website: "https://alldrink.de/filiale/518-ruesselsheim/"
+street: Schreberstraße
+housenumber: "21"
+phone: +49 6142 5506140
+opening_hours: Mo-Fr 09:00-13:00,14:00-19:00; Sa 08:00-18:00
+website: https://alldrink.de/filiale/518-ruesselsheim/

@@ -1,11 +1,11 @@
 id: 160534518
-type: way
+type: node
 latitude: 50.17573
 longitude: 8.21691
 postcode: "65232"
 city: Taunusstein
-street: "Idsteiner Straße"
-housenumber: 75
+street: Idsteiner Straße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

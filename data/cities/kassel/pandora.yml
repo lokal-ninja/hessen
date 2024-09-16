@@ -4,8 +4,8 @@ latitude: 51.31407
 longitude: 9.49489
 postcode: "34117"
 city: Kassel
-street: "Obere Königsstraße"
-housenumber: 37
+street: Obere Königsstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Umbauarbeiten"
-website: "https://www.pandora.net/de-de/stores/germany/34117/pandora-store-kassel"
+opening_hours: '"Umbauarbeiten"'
+website: https://www.pandora.net/de-de/stores/germany/34117/pandora-store-kassel

@@ -1,11 +1,11 @@
 id: 153630294
-type: way
+type: node
 latitude: 50.69354
 longitude: 9.73102
 postcode: "36151"
 city: Burghaun
-street: "Oberste Straße"
-housenumber: 34
+street: Oberste Straße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Th 09:30-13:00,14:30-18:30; Fr 09:30-18:30; Sa 09:30-14:00"
+opening_hours: Mo-Th 09:30-13:00,14:30-18:30; Fr 09:30-18:30; Sa 09:30-14:00
 website: ""

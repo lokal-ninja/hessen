@@ -1,11 +1,11 @@
 id: 459173047
-type: way
+type: node
 latitude: 50.67834
 longitude: 9.7628
 postcode: "36088"
 city: Hünfeld
-street: "Hersfelder Straße"
-housenumber: 3
-phone: "+49 6652 9113890"
+street: Hersfelder Straße
+housenumber: "3"
+phone: +49 6652 9113890
 opening_hours: ""
 website: ""

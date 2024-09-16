@@ -1,11 +1,11 @@
 id: 18941775
-type: way
+type: node
 latitude: 50.55369
 longitude: 8.63741
 postcode: "35398"
 city: Gießen
-street: "Heerweg"
-housenumber: 16
-phone: "+49 641 984070"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/rewe-markt-kleinlinden-heerweg-14-16/"
+street: Heerweg
+housenumber: "16"
+phone: +49 641 984070
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/rewe-markt-kleinlinden-heerweg-14-16/

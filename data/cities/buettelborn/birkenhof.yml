@@ -1,11 +1,11 @@
 id: 111804648
-type: way
+type: node
 latitude: 49.89629
 longitude: 8.50752
 postcode: ""
 city: Büttelborn
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

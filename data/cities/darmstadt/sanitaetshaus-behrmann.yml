@@ -1,11 +1,11 @@
 id: 169539189
-type: way
+type: node
 latitude: 49.87005
 longitude: 8.65462
 postcode: "64283"
 city: Darmstadt
-street: "Schützenstraße"
-housenumber: 10
-phone: "+49 6151 273515"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://behrmann-online.de/"
+street: Schützenstraße
+housenumber: "10"
+phone: +49 6151 273515
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://behrmann-online.de/

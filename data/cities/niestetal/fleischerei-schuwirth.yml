@@ -1,11 +1,11 @@
 id: 661413560
-type: way
+type: node
 latitude: 51.31941
 longitude: 9.54936
 postcode: "34266"
 city: Niestetal
-street: "Wilhelmine-Pötter-Straße"
-housenumber: 27
-phone: "+49 561 52279"
+street: Wilhelmine-Pötter-Straße
+housenumber: "27"
+phone: +49 561 52279
 opening_hours: ""
-website: "https://www.fleischerei-schuwirth.de/"
+website: https://www.fleischerei-schuwirth.de/

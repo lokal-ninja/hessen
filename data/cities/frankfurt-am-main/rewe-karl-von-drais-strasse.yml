@@ -1,11 +1,11 @@
 id: 24513716
-type: way
+type: node
 latitude: 50.14846
 longitude: 8.67773
 postcode: "60435"
 city: Frankfurt am Main
-street: "Karl-von-Drais-Straße"
-housenumber: 13
-phone: "+49 69 54805706"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de"
+street: Karl-von-Drais-Straße
+housenumber: "13"
+phone: +49 69 54805706
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de

@@ -4,8 +4,8 @@ latitude: 50.08168
 longitude: 8.23742
 postcode: "65183"
 city: Wiesbaden
-street: "Kleine Schwalbacher Straße"
-housenumber: 7
-phone: "+49 176 72513924"
-opening_hours: "Tu-Fr 10:00-18:00, Sa 10:00-17:00"
+street: Kleine Schwalbacher Straße
+housenumber: "7"
+phone: +49 176 72513924
+opening_hours: Tu-Fr 10:00-18:00, Sa 10:00-17:00
 website: ""

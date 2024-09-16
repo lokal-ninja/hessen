@@ -4,8 +4,8 @@ latitude: 50.08237
 longitude: 8.23883
 postcode: "65183"
 city: Wiesbaden
-street: "Kirchgasse"
-housenumber: 51
+street: Kirchgasse
+housenumber: "51"
 phone: "+4961145067835"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://de.lush.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://de.lush.com/

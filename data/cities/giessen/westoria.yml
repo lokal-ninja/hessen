@@ -1,11 +1,11 @@
 id: 42779527
-type: way
+type: node
 latitude: 50.58057
 longitude: 8.64408
 postcode: "35398"
 city: Gießen
-street: "Gottlieb-Daimler-Straße"
-housenumber: 27
+street: Gottlieb-Daimler-Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://westoria-giessen.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://westoria-giessen.de/

@@ -1,11 +1,11 @@
 id: 582486061
-type: way
+type: node
 latitude: 49.96799
 longitude: 8.5604
 postcode: "64546"
 city: Mörfelden-Walldorf
-street: "Gerauer Straße"
-housenumber: 52
+street: Gerauer Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

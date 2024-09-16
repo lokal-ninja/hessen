@@ -1,11 +1,11 @@
 id: 120862977
-type: way
+type: node
 latitude: 50.50091
 longitude: 9.12777
 postcode: ""
 city: Schotten
-street: "Märzwiese"
-housenumber: 1
+street: Märzwiese
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

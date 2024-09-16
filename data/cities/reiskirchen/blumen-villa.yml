@@ -1,11 +1,11 @@
 id: 169530194
-type: way
+type: node
 latitude: 50.59909
 longitude: 8.83362
 postcode: "35447"
 city: Reiskirchen
-street: "Bersröder Straße"
-housenumber: 17
+street: Bersröder Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

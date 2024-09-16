@@ -4,8 +4,8 @@ latitude: 49.87586
 longitude: 8.66116
 postcode: "64283"
 city: Darmstadt
-street: "Dieburger Straße"
-housenumber: 1
-phone: "+49 6151 997210"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://comphilfe.com/"
+street: Dieburger Straße
+housenumber: "1"
+phone: +49 6151 997210
+opening_hours: Mo-Fr 09:00-18:00
+website: http://comphilfe.com/

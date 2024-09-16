@@ -1,11 +1,11 @@
 id: 356581365
-type: way
+type: node
 latitude: 49.68765
 longitude: 8.4549
 postcode: "68647"
 city: Biblis
-street: "Darmstädter Straße"
-housenumber: 50
-phone: "+49 6245 9953293"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-16:00"
-website: "https://profigetraenke.de/filiale/535-biblis"
+street: Darmstädter Straße
+housenumber: "50"
+phone: +49 6245 9953293
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-16:00
+website: https://profigetraenke.de/filiale/535-biblis

@@ -4,8 +4,8 @@ latitude: 51.29755
 longitude: 9.48067
 postcode: "34121"
 city: Kassel
-street: "Frankfurter Straße"
-housenumber: 155
+street: Frankfurter Straße
+housenumber: "155"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00"
-website: "https://www.sputnik-reisen.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00
+website: https://www.sputnik-reisen.de/

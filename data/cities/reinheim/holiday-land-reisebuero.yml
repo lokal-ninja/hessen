@@ -4,8 +4,8 @@ latitude: 49.83295
 longitude: 8.83281
 postcode: "64354"
 city: Reinheim
-street: "Darmstädter Straße"
-housenumber: 66
-phone: "+49 6162 93360"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30;Sa 09:00-12:30"
-website: "http://www.holidayland-reinheim.de/"
+street: Darmstädter Straße
+housenumber: "66"
+phone: +49 6162 93360
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30;Sa 09:00-12:30
+website: http://www.holidayland-reinheim.de/

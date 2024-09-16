@@ -1,11 +1,11 @@
 id: 109883261
-type: way
+type: node
 latitude: 50.66274
 longitude: 9.38955
 postcode: "36341"
 city: Lauterbach
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

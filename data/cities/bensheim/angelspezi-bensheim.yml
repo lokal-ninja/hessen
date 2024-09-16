@@ -4,8 +4,9 @@ latitude: 49.67722
 longitude: 8.61624
 postcode: "64625"
 city: Bensheim
-street: "Wormser Straße"
-housenumber: 14
-phone: "+49 6251 2092"
-opening_hours: "Mo 09:00-12:30,14:30-18:00; Tu 09:00-13:00; We-Fr 09:00-12:30, 14:30-18:00, Sa 09:00-13:00; PH off"
-website: "http://angelspezi-bensheim.de/"
+street: Wormser Straße
+housenumber: "14"
+phone: +49 6251 2092
+opening_hours: Mo 09:00-12:30,14:30-18:00; Tu 09:00-13:00; We-Fr 09:00-12:30, 14:30-18:00,
+    Sa 09:00-13:00; PH off
+website: http://angelspezi-bensheim.de/

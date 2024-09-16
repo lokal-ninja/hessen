@@ -1,11 +1,11 @@
 id: 328715923
-type: way
+type: node
 latitude: 50.07801
 longitude: 8.21244
 postcode: "65197"
 city: Wiesbaden
-street: "Hollerbornstraße"
-housenumber: 
+street: Hollerbornstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 108829711
-type: way
+type: node
 latitude: 50.5939
 longitude: 9.54217
 postcode: "36137"
 city: Großenlüder
-street: "Breite Brücke"
-housenumber: 23
-phone: "+49 6648 620552"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:30; Sa 08:30-15:00"
-website: "http://www.getraenke-braeuning.de/getraenkefachmaerkte.html"
+street: Breite Brücke
+housenumber: "23"
+phone: +49 6648 620552
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:30; Sa 08:30-15:00
+website: http://www.getraenke-braeuning.de/getraenkefachmaerkte.html

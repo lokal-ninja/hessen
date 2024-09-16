@@ -1,11 +1,11 @@
 id: 674060911
-type: way
+type: node
 latitude: 50.76673
 longitude: 9.10798
 postcode: "36320"
 city: Kirtorf
-street: "Gemündener Straße"
-housenumber: 1
-phone: "+49 6635 261"
-opening_hours: "Mo-Fr 07:30-16:30, Sa 08:00-11:30"
-website: "https://naumann-kirtorf.skoda-auto.de/"
+street: Gemündener Straße
+housenumber: "1"
+phone: +49 6635 261
+opening_hours: Mo-Fr 07:30-16:30, Sa 08:00-11:30
+website: https://naumann-kirtorf.skoda-auto.de/

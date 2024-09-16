@@ -1,11 +1,11 @@
 id: 288763535
-type: way
+type: node
 latitude: 50.82856
 longitude: 8.90922
 postcode: "35274"
 city: Kirchhain
-street: "Frankfurter Straße"
-housenumber: 45
+street: Frankfurter Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

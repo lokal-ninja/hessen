@@ -4,8 +4,9 @@ latitude: 50.75293
 longitude: 8.49571
 postcode: "35080"
 city: Bad Endbach
-street: "Landstraße"
-housenumber: 45
-phone: "+49 2776 486"
-opening_hours: "Tu-Th 08:00-12:00,13:30-18:00; Fr 08:00-18:00; Sa 08:00-13:00; Su,PH off"
+street: Landstraße
+housenumber: "45"
+phone: +49 2776 486
+opening_hours: Tu-Th 08:00-12:00,13:30-18:00; Fr 08:00-18:00; Sa 08:00-13:00; Su,PH
+    off
 website: ""

@@ -5,7 +5,7 @@ longitude: 8.24495
 postcode: ""
 city: Wiesbaden
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.hedegger.de/"
+opening_hours: Tu-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.hedegger.de/

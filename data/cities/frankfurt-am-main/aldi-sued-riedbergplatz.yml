@@ -1,11 +1,11 @@
 id: 1061083803
-type: way
+type: node
 latitude: 50.17796
 longitude: 8.62884
 postcode: "60438"
 city: Frankfurt am Main
-street: "Riedbergplatz"
-housenumber: 2
+street: Riedbergplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/hessen/frankfurt/riedbergplatz-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/hessen/frankfurt/riedbergplatz-2

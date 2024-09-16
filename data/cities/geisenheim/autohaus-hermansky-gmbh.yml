@@ -1,11 +1,11 @@
 id: 202250814
-type: way
+type: node
 latitude: 49.98807
 longitude: 7.97946
 postcode: "65366"
 city: Geisenheim
-street: "Chauvignystraße"
-housenumber: 22
+street: Chauvignystraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-13:00"
-website: "http://www.hermansky.de"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-13:00
+website: http://www.hermansky.de

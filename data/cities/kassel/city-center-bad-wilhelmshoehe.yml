@@ -1,11 +1,11 @@
 id: 167620642
-type: way
+type: node
 latitude: 51.31327
 longitude: 9.44493
 postcode: "34131"
 city: Kassel
-street: "Wilhelmshöher Allee"
+street: Wilhelmshöher Allee
 housenumber: 253 - 255
 phone: ""
-opening_hours: "Mo-Su,PH 07:00-21:00"
-website: "https://www.citycenter-kassel.de/"
+opening_hours: Mo-Su,PH 07:00-21:00
+website: https://www.citycenter-kassel.de/

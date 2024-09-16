@@ -1,11 +1,11 @@
 id: 139109887
-type: way
+type: node
 latitude: 49.98706
 longitude: 8.41409
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Darmstädter Straße"
-housenumber: 76
+street: Darmstädter Straße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

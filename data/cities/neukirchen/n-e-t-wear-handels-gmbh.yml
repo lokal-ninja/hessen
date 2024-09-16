@@ -1,11 +1,11 @@
 id: 161586139
-type: way
+type: node
 latitude: 50.87071
 longitude: 9.34223
 postcode: "34626"
 city: Neukirchen
-street: "Kurhessenstraße"
-housenumber: 60
+street: Kurhessenstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

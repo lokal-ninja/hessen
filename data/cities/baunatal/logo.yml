@@ -1,11 +1,11 @@
 id: 192392593
-type: way
+type: node
 latitude: 51.26518
 longitude: 9.42509
 postcode: "34225"
 city: Baunatal
-street: "Hainbuchenstraße"
-housenumber: 1
-phone: "+49 561 4919766"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
-website: "http://www.logo-getraenke.de/"
+street: Hainbuchenstraße
+housenumber: "1"
+phone: +49 561 4919766
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
+website: http://www.logo-getraenke.de/

@@ -1,11 +1,11 @@
 id: 311651606
-type: way
+type: node
 latitude: 49.71054
 longitude: 8.47541
 postcode: "68649"
 city: Groß-Rohrheim
-street: "Die Neuwiese"
-housenumber: 1
+street: Die Neuwiese
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/gross-rohrheim/die-neuwiese-1/3937"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/gross-rohrheim/die-neuwiese-1/3937

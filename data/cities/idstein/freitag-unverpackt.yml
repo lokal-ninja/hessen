@@ -4,8 +4,8 @@ latitude: 50.22118
 longitude: 8.26982
 postcode: "65510"
 city: Idstein
-street: "König-Adolf-Platz"
-housenumber: 9
-phone: "+49 6126 227 28 99"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.freitag-idstein.de/"
+street: König-Adolf-Platz
+housenumber: "9"
+phone: +49 6126 227 28 99
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.freitag-idstein.de/

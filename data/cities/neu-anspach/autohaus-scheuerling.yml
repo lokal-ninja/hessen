@@ -1,11 +1,11 @@
 id: 287274953
-type: way
+type: node
 latitude: 50.30646
 longitude: 8.51697
 postcode: "61267"
 city: Neu-Anspach
-street: "Robert-Bosch-Straße"
-housenumber: 20
-phone: "+49 6081 405738"
-opening_hours: "Mo - Fr 08:00-16:30; Sa 09:00-13:00"
-website: "https://renault-scheuerling-neuanspach.de/"
+street: Robert-Bosch-Straße
+housenumber: "20"
+phone: +49 6081 405738
+opening_hours: Mo - Fr 08:00-16:30; Sa 09:00-13:00
+website: https://renault-scheuerling-neuanspach.de/

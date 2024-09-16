@@ -4,8 +4,8 @@ latitude: 51.31554
 longitude: 9.50066
 postcode: "34117"
 city: Kassel
-street: "Entenanger"
-housenumber: 7
+street: Entenanger
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.fulleoptik.de"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.fulleoptik.de

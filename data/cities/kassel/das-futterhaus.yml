@@ -4,8 +4,8 @@ latitude: 51.30784
 longitude: 9.54483
 postcode: "34123"
 city: Kassel
-street: "Heiligenröder Straße"
-housenumber: 51
-phone: "+49 561 28610636"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.futterhaus.de/service/filialen/kassel/"
+street: Heiligenröder Straße
+housenumber: "51"
+phone: +49 561 28610636
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.futterhaus.de/service/filialen/kassel/

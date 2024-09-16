@@ -4,8 +4,8 @@ latitude: 50.13666
 longitude: 8.64549
 postcode: "60487"
 city: Frankfurt am Main
-street: "Ginnheimer Landstraße"
-housenumber: 97
+street: Ginnheimer Landstraße
+housenumber: "97"
 phone: "+4969525044"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-16:00; Su 10:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-16:00; Su 10:00-12:00
 website: ""

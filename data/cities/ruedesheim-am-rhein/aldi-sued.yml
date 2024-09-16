@@ -1,11 +1,11 @@
 id: 130418005
-type: way
+type: node
 latitude: 49.98101
 longitude: 7.93846
 postcode: "65385"
 city: Rüdesheim am Rhein
-street: "Europastraße"
-housenumber: 5
+street: Europastraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

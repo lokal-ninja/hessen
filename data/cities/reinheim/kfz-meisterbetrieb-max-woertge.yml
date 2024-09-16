@@ -1,11 +1,11 @@
 id: 723709042
-type: way
+type: node
 latitude: 49.83695
 longitude: 8.83128
 postcode: "64354"
 city: Reinheim
-street: "Engelbert-Wörz-Straße"
-housenumber: 5
-phone: "+49 6162 9190890"
+street: Engelbert-Wörz-Straße
+housenumber: "5"
+phone: +49 6162 9190890
 opening_hours: ""
-website: "https://kfz-woertge.de/"
+website: https://kfz-woertge.de/

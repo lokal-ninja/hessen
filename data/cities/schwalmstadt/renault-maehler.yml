@@ -1,11 +1,11 @@
 id: 199333287
-type: way
+type: node
 latitude: 50.91416
 longitude: 9.18612
 postcode: ""
 city: Schwalmstadt
-street: "An der Stadtmauer"
-housenumber: 4
+street: An der Stadtmauer
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

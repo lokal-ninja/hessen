@@ -1,11 +1,11 @@
 id: 118141313
-type: way
+type: node
 latitude: 49.68048
 longitude: 9.00368
 postcode: "64720"
 city: Michelstadt
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 151330790
-type: way
+type: node
 latitude: 50.06484
 longitude: 8.38884
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Robert-Bosch-Straße"
-housenumber: 14
+street: Robert-Bosch-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

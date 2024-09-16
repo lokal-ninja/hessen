@@ -1,11 +1,11 @@
 id: 108801475
-type: way
+type: node
 latitude: 50.58939
 longitude: 9.54308
 postcode: "36137"
 city: Großenlüder
-street: "Bahnhofstraße"
-housenumber: 13
+street: Bahnhofstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 08:30-12:00,13:00-18:00; Sa 07:30-13:00"
+opening_hours: Mo off; Tu-Fr 08:30-12:00,13:00-18:00; Sa 07:30-13:00
 website: ""

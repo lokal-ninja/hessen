@@ -1,11 +1,11 @@
 id: 246175060
-type: way
+type: node
 latitude: 50.33395
 longitude: 8.53192
 postcode: "61250"
 city: Usingen
-street: "Bahnhofstraße"
-housenumber: 6
+street: Bahnhofstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

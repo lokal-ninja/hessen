@@ -1,11 +1,11 @@
 id: 45856226
-type: way
+type: node
 latitude: 50.34661
 longitude: 8.7573
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Dieselstraße"
-housenumber: 5
+street: Dieselstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

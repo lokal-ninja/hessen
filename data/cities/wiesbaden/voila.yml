@@ -4,8 +4,8 @@ latitude: 50.07788
 longitude: 8.23692
 postcode: "65185"
 city: Wiesbaden
-street: "Schwalbacher Straße"
-housenumber: 1
-phone: "+49 611 3086147"
-opening_hours: "Mo-Fr 09:00-19:30, Sa 09:00-18:00"
+street: Schwalbacher Straße
+housenumber: "1"
+phone: +49 611 3086147
+opening_hours: Mo-Fr 09:00-19:30, Sa 09:00-18:00
 website: ""

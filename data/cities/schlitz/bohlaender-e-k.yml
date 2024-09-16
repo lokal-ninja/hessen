@@ -1,11 +1,11 @@
 id: 110112781
-type: way
+type: node
 latitude: 50.64511
 longitude: 9.57737
 postcode: "36110"
 city: Schlitz
-street: "Heidelberger Weg"
-housenumber: 2
+street: Heidelberger Weg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

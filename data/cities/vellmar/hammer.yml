@@ -1,11 +1,11 @@
 id: 81213935
-type: way
+type: node
 latitude: 51.34707
 longitude: 9.47466
 postcode: "34246"
 city: Vellmar
-street: "Berliner Straße"
-housenumber: 7
+street: Berliner Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:30-18:00"
+opening_hours: Mo-Sa 09:30-18:00
 website: ""

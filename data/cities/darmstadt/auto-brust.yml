@@ -1,11 +1,11 @@
 id: 374097664
-type: way
+type: node
 latitude: 49.91645
 longitude: 8.6411
 postcode: "64291"
 city: Darmstadt
-street: "Guerickeweg"
-housenumber: 6
-phone: "+49 (0)6151-374078"
+street: Guerickeweg
+housenumber: "6"
+phone: +49 (0)6151-374078
 opening_hours: ""
-website: "https://www.auto-brust.de/"
+website: https://www.auto-brust.de/

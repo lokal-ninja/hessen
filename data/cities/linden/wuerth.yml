@@ -1,11 +1,11 @@
 id: 171642215
-type: way
+type: node
 latitude: 50.53811
 longitude: 8.6487
 postcode: "35440"
 city: Linden
-street: "Ferniestraße"
-housenumber: 2
+street: Ferniestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 06:30-18:00;Fr 06:30-16:00;PH off"
+opening_hours: Mo-Th 06:30-18:00;Fr 06:30-16:00;PH off
 website: ""

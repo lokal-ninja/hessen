@@ -1,11 +1,11 @@
 id: 503066876
-type: way
+type: node
 latitude: 51.41582
 longitude: 9.18546
 postcode: "34479"
 city: Breuna
-street: "Wolfhager Straße"
-housenumber: 2
+street: Wolfhager Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.85829
 longitude: 9.72281
 postcode: "36251"
 city: Bad Hersfeld
-street: "Carl-Benz-Straße"
-housenumber: 3
-phone: "+49 6621 919744"
-opening_hours: "24/7"
-website: "https://www.outletfinder.rm.total.com/otfe/ficheDetail.do?&outletCode=DETOT0000ND036855&reseauId=13&lang=DE&mode=amode&otherparams"
+street: Carl-Benz-Straße
+housenumber: "3"
+phone: +49 6621 919744
+opening_hours: 24/7
+website: https://www.outletfinder.rm.total.com/otfe/ficheDetail.do?&outletCode=DETOT0000ND036855&reseauId=13&lang=DE&mode=amode&otherparams

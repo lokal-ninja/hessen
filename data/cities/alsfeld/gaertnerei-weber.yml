@@ -1,11 +1,11 @@
 id: 111295811
-type: way
+type: node
 latitude: 50.75611
 longitude: 9.26691
 postcode: "36304"
 city: Alsfeld
-street: "Reibertenröder Weg"
-housenumber: 13
+street: Reibertenröder Weg
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

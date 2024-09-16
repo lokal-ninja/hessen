@@ -1,11 +1,11 @@
 id: 50827567
-type: way
+type: node
 latitude: 49.90452
 longitude: 8.45372
 postcode: "64521"
 city: Groß-Gerau
-street: "Sanddeich"
-housenumber: 7
+street: Sanddeich
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

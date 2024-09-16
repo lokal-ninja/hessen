@@ -1,11 +1,11 @@
 id: 293554766
-type: way
+type: node
 latitude: 49.96524
 longitude: 8.34391
 postcode: "65462"
 city: Ginsheim-Gustavsburg
-street: "Rheinstraße"
-housenumber: 27
+street: Rheinstraße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

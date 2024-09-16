@@ -4,8 +4,8 @@ latitude: 50.7517
 longitude: 9.27884
 postcode: "36304"
 city: Alsfeld
-street: "Schellengasse"
-housenumber: 41
-phone: "+49 6631 72955"
-opening_hours: "Mo-Fr 06:30-18:30, Sa 06:30-16:30, Su 07:00-17:30"
-website: "https://www.schwaelmer-brotladen.de/"
+street: Schellengasse
+housenumber: "41"
+phone: +49 6631 72955
+opening_hours: Mo-Fr 06:30-18:30, Sa 06:30-16:30, Su 07:00-17:30
+website: https://www.schwaelmer-brotladen.de/

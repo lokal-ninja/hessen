@@ -1,11 +1,11 @@
 id: 161708156
-type: way
+type: node
 latitude: 50.25215
 longitude: 9.29188
 postcode: "63607"
 city: Wächtersbach
-street: "Main-Kinzig-Straße"
-housenumber: 32
+street: Main-Kinzig-Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

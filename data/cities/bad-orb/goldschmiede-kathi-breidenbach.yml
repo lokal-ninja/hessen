@@ -4,8 +4,8 @@ latitude: 50.22628
 longitude: 9.34753
 postcode: "63619"
 city: Bad Orb
-street: "Kanalstraße"
-housenumber: 12
+street: Kanalstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,Th 11:00-18:00; Sa 11:00-14:00"
-website: "http://de.dawanda.com/shop/Godesing"
+opening_hours: Mo,Th 11:00-18:00; Sa 11:00-14:00
+website: http://de.dawanda.com/shop/Godesing

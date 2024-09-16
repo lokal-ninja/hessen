@@ -1,11 +1,11 @@
 id: 671853503
-type: way
+type: node
 latitude: 50.86921
 longitude: 9.70891
 postcode: "36251"
 city: Bad Hersfeld
-street: "Benno-Schilde-Straße"
-housenumber: 6
-phone: "+49 6621 797751"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-16:00"
+street: Benno-Schilde-Straße
+housenumber: "6"
+phone: +49 6621 797751
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-16:00
 website: ""

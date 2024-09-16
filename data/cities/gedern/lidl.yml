@@ -1,11 +1,11 @@
 id: 129487291
-type: way
+type: node
 latitude: 50.42217
 longitude: 9.19813
 postcode: "63688"
 city: Gedern
-street: "An der Bornwiese"
-housenumber: 4
+street: An der Bornwiese
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

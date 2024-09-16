@@ -1,11 +1,11 @@
 id: 214846396
-type: way
+type: node
 latitude: 51.03319
 longitude: 9.40167
 postcode: "34576"
 city: Homberg (Efze)
-street: "Ziegenhainer Straße"
-housenumber: 1
+street: Ziegenhainer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "https://www.mode-sauer.de"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: https://www.mode-sauer.de

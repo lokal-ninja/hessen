@@ -1,11 +1,11 @@
 id: 352892243
-type: way
+type: node
 latitude: 50.23802
 longitude: 8.43285
 postcode: "61389"
 city: Schmitten im Taunus
-street: "Brunhildestraße"
-housenumber: 66
+street: Brunhildestraße
+housenumber: "66"
 phone: "+496082924555"
 opening_hours: ""
-website: "https://www.werkstatt-am-berg.de"
+website: https://www.werkstatt-am-berg.de

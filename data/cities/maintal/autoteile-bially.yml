@@ -4,8 +4,8 @@ latitude: 50.1415
 longitude: 8.83835
 postcode: "63477"
 city: Maintal
-street: "Berliner Straße"
-housenumber: 7
-phone: "+49 6181 4405320"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-12:00"
-website: "http://www.autoteile-bially.de"
+street: Berliner Straße
+housenumber: "7"
+phone: +49 6181 4405320
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-12:00
+website: http://www.autoteile-bially.de

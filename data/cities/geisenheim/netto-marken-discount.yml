@@ -1,11 +1,11 @@
 id: 192998808
-type: way
+type: node
 latitude: 49.98142
 longitude: 7.96388
 postcode: "65366"
 city: Geisenheim
-street: "Rosengartenstraße"
-housenumber: 4
+street: Rosengartenstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/geisenheim/rosengartenstrasse-4/8159"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/geisenheim/rosengartenstrasse-4/8159

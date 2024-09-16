@@ -1,11 +1,11 @@
 id: 111645268
-type: way
+type: node
 latitude: 50.75082
 longitude: 9.2829
 postcode: ""
 city: Alsfeld
-street: "Hersfelder Straße"
-housenumber: 77
+street: Hersfelder Straße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.13245
 longitude: 9.27464
 postcode: "34560"
 city: Fritzlar
-street: "Kasseler Straße"
-housenumber: 9
+street: Kasseler Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
-website: "https://www.apollo.de"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00
+website: https://www.apollo.de

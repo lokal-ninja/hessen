@@ -4,8 +4,8 @@ latitude: 51.18799
 longitude: 10.16734
 postcode: "37281"
 city: Wanfried
-street: "In der Werraaue"
-housenumber: 2
-phone: "+49 5655 612"
-opening_hours: "Mo-Fr 08:00-13:00, 13:30-18:00; Sa 09:00-13:00"
-website: "https://www.2radrabe.de"
+street: In der Werraaue
+housenumber: "2"
+phone: +49 5655 612
+opening_hours: Mo-Fr 08:00-13:00, 13:30-18:00; Sa 09:00-13:00
+website: https://www.2radrabe.de

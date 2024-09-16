@@ -1,11 +1,11 @@
 id: 95531755
-type: way
+type: node
 latitude: 49.82852
 longitude: 8.90763
 postcode: "64853"
 city: Otzberg
-street: "Außerhalb"
-housenumber: 17
+street: Außerhalb
+housenumber: "17"
 phone: ""
-opening_hours: "We-Fr 09:00-12:00, 14:00-17:00; Sa 09:00-13:00"
+opening_hours: We-Fr 09:00-12:00, 14:00-17:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 61190299
-type: way
+type: node
 latitude: 50.06098
 longitude: 8.33174
 postcode: "65205"
 city: Wiesbaden
-street: "Daimlerring"
-housenumber: 6
-phone: "+49 6122 90 91 10"
-opening_hours: "Mo-Fr 08:00-17:00; Th 08:00-18:30"
-website: "http://www.psc-wiesbaden.de"
+street: Daimlerring
+housenumber: "6"
+phone: +49 6122 90 91 10
+opening_hours: Mo-Fr 08:00-17:00; Th 08:00-18:30
+website: http://www.psc-wiesbaden.de

@@ -4,8 +4,8 @@ latitude: 50.97159
 longitude: 8.86668
 postcode: "35119"
 city: Rosenthal
-street: "Feldgasse"
-housenumber: 6
+street: Feldgasse
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://twike.com/"
+website: https://twike.com/

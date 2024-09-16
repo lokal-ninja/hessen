@@ -4,8 +4,8 @@ latitude: 50.59303
 longitude: 8.96163
 postcode: "35305"
 city: Grünberg
-street: "Rosengasse"
-housenumber: 20
+street: Rosengasse
+housenumber: "20"
 phone: "+496401226800"
-opening_hours: "Mo, Tu, Th, Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.kogasol.com/"
+opening_hours: Mo, Tu, Th, Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.kogasol.com/

@@ -1,11 +1,11 @@
 id: 350652340
-type: way
+type: node
 latitude: 50.46827
 longitude: 8.13685
 postcode: "65614"
 city: Beselich
-street: "An der B 49"
-housenumber: 
+street: An der B 49
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 254066728
-type: way
+type: node
 latitude: 51.03344
 longitude: 9.39777
 postcode: "34576"
 city: Homberg (Efze)
-street: "Stellbergsweg"
-housenumber: 5
-phone: "+49 5681 930123"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/homberg-efze/1465704/rewe-markt-stellbergsweg-5/"
+street: Stellbergsweg
+housenumber: "5"
+phone: +49 5681 930123
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/homberg-efze/1465704/rewe-markt-stellbergsweg-5/

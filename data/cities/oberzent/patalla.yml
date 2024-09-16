@@ -1,11 +1,11 @@
 id: 233539727
-type: way
+type: node
 latitude: 49.56582
 longitude: 8.9762
 postcode: "64760"
 city: Oberzent
-street: "Eberbacher Weg"
-housenumber: 43
+street: Eberbacher Weg
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

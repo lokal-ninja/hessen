@@ -1,11 +1,11 @@
 id: 91896519
-type: way
+type: node
 latitude: 50.20511
 longitude: 9.13394
 postcode: "63584"
 city: Gründau
-street: "Am Lindengraben"
-housenumber: 3
+street: Am Lindengraben
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

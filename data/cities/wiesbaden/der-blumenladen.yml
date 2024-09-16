@@ -4,8 +4,8 @@ latitude: 50.07668
 longitude: 8.23979
 postcode: "65185"
 city: Wiesbaden
-street: "Adolfstraße"
-housenumber: 5
+street: Adolfstraße
+housenumber: "5"
 phone: "+49611301524"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
-website: "https://www.der-blumenladen-wiesbaden.de/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-14:00
+website: https://www.der-blumenladen-wiesbaden.de/

@@ -4,8 +4,8 @@ latitude: 50.80589
 longitude: 8.7755
 postcode: "35037"
 city: Marburg
-street: "Weidenhäuser Straße"
-housenumber: 64
-phone: "+49 6421 15667"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://www.velociped-marburg.de/"
+street: Weidenhäuser Straße
+housenumber: "64"
+phone: +49 6421 15667
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://www.velociped-marburg.de/

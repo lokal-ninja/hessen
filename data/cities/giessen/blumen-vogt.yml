@@ -1,11 +1,11 @@
 id: 108516036
-type: way
+type: node
 latitude: 50.57297
 longitude: 8.67367
 postcode: "35392"
 city: Gießen
-street: "Aulweg"
-housenumber: 77
-phone: "+49 641 77858"
-opening_hours: "Mo, We-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://blumenvogt.de/"
+street: Aulweg
+housenumber: "77"
+phone: +49 641 77858
+opening_hours: Mo, We-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://blumenvogt.de/

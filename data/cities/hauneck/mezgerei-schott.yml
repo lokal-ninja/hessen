@@ -1,11 +1,11 @@
 id: 84722743
-type: way
+type: node
 latitude: 50.8127
 longitude: 9.76375
 postcode: "36282"
 city: Hauneck
-street: "Fischbach"
-housenumber: 22
-phone: "+49 6621 62208"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "https://www.metzger-schott.de/"
+street: Fischbach
+housenumber: "22"
+phone: +49 6621 62208
+opening_hours: Tu-Fr 08:00-18:00; Sa 08:00-13:00
+website: https://www.metzger-schott.de/

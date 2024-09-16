@@ -4,8 +4,8 @@ latitude: 51.32252
 longitude: 9.49019
 postcode: "34117"
 city: Kassel
-street: "Reuterstraße"
-housenumber: 11
-phone: "+49 561 70003-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-12:00"
-website: "https://www.ford-haefner-und-strunk-kassel.de/"
+street: Reuterstraße
+housenumber: "11"
+phone: +49 561 70003-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-12:00
+website: https://www.ford-haefner-und-strunk-kassel.de/

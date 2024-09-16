@@ -4,8 +4,8 @@ latitude: 49.67501
 longitude: 8.61728
 postcode: "64625"
 city: Bensheim
-street: "Fabrikstraße"
-housenumber: 14
-phone: "+49 6251 1039296"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.dm.de"
+street: Fabrikstraße
+housenumber: "14"
+phone: +49 6251 1039296
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.dm.de

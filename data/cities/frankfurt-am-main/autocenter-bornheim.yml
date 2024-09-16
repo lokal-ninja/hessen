@@ -1,11 +1,11 @@
 id: 113018332
-type: way
+type: node
 latitude: 50.13557
 longitude: 8.71266
 postcode: "60389"
 city: Frankfurt am Main
-street: "Seckbacher Landstraße"
-housenumber: 72
+street: Seckbacher Landstraße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

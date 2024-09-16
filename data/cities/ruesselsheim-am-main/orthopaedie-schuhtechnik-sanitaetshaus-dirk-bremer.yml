@@ -4,8 +4,9 @@ latitude: 49.96179
 longitude: 8.45449
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Kohlseestraße"
-housenumber: 40
-phone: "+49-6142-62717"
-opening_hours: "Mo,We,Fr 08:00-12:30, 13:30-16:00; Tu,Th 08:00-12:30, 14:00-18:00; PH off"
-website: "https://www.ost-bremer.de/"
+street: Kohlseestraße
+housenumber: "40"
+phone: +49-6142-62717
+opening_hours: Mo,We,Fr 08:00-12:30, 13:30-16:00; Tu,Th 08:00-12:30, 14:00-18:00;
+    PH off
+website: https://www.ost-bremer.de/

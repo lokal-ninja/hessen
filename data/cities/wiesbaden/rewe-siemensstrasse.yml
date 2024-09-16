@@ -1,11 +1,11 @@
 id: 61190437
-type: way
+type: node
 latitude: 50.05934
 longitude: 8.3399
 postcode: "65205"
 city: Wiesbaden
-street: "Siemensstraße"
-housenumber: 6
-phone: "+49 6122 5889930"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/wiesbaden/240285/rewe-markt-siemensstr-6/"
+street: Siemensstraße
+housenumber: "6"
+phone: +49 6122 5889930
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/wiesbaden/240285/rewe-markt-siemensstr-6/

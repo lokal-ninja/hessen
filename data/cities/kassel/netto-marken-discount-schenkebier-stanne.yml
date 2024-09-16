@@ -1,11 +1,11 @@
 id: 699882358
-type: way
+type: node
 latitude: 51.34069
 longitude: 9.47884
 postcode: "34127"
 city: Kassel
-street: "Schenkebier Stanne"
-housenumber: 2
-phone: "+49 800 2000015"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/kassel-nord-holland/schenkebier-stanne-2/5381"
+street: Schenkebier Stanne
+housenumber: "2"
+phone: +49 800 2000015
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/kassel-nord-holland/schenkebier-stanne-2/5381

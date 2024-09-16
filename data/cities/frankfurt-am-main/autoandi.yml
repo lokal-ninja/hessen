@@ -4,8 +4,8 @@ latitude: 50.16179
 longitude: 8.65734
 postcode: "60433"
 city: Frankfurt am Main
-street: "Dreihäusergasse"
-housenumber: 17
-phone: "+49 172 6912979"
+street: Dreihäusergasse
+housenumber: "17"
+phone: +49 172 6912979
 opening_hours: ""
-website: "https://www.autoandi.de/"
+website: https://www.autoandi.de/

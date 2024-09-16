@@ -1,11 +1,11 @@
 id: 1131084009
-type: way
+type: node
 latitude: 50.39635
 longitude: 8.88908
 postcode: "61209"
 city: Echzell
-street: "Am Mühlbach"
-housenumber: 1
+street: Am Mühlbach
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

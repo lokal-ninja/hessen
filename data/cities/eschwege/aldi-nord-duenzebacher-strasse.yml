@@ -1,11 +1,11 @@
 id: 178127452
-type: way
+type: node
 latitude: 51.18362
 longitude: 10.06336
 postcode: "37269"
 city: Eschwege
-street: "Dünzebacher Straße"
+street: Dünzebacher Straße
 housenumber: 2c
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/eschwege/duenzebacher-str-2c.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/eschwege/duenzebacher-str-2c.html

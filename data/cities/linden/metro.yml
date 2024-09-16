@@ -1,11 +1,11 @@
 id: 28925653
-type: way
+type: node
 latitude: 50.5402
 longitude: 8.6523
 postcode: "35440"
 city: Linden
-street: "Siemensstraße"
-housenumber: 7
-phone: "+49 6403 9100"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
+street: Siemensstraße
+housenumber: "7"
+phone: +49 6403 9100
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
 website: ""

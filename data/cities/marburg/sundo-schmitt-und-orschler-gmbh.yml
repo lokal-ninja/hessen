@@ -1,11 +1,11 @@
 id: 107478702
-type: way
+type: node
 latitude: 50.84193
 longitude: 8.77032
 postcode: "35041"
 city: Marburg
-street: "Am Bahndamm"
-housenumber: 5
-phone: "+49 6421 8006-0"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:30-13:00"
-website: "https://www.sundo.de/standorte/marburg"
+street: Am Bahndamm
+housenumber: "5"
+phone: +49 6421 8006-0
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:30-13:00
+website: https://www.sundo.de/standorte/marburg

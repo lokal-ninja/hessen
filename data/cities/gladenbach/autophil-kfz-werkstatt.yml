@@ -1,11 +1,11 @@
 id: 306868773
-type: way
+type: node
 latitude: 50.75314
 longitude: 8.59446
 postcode: "35075"
 city: Gladenbach
-street: "Mittelstraße"
-housenumber: 6
+street: Mittelstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 191103884
-type: way
+type: node
 latitude: 50.98628
 longitude: 9.77902
 postcode: "36199"
 city: Rotenburg an der Fulda
-street: "Philipp-Reis-Straße"
-housenumber: 14
-phone: "+49 6623 915125"
+street: Philipp-Reis-Straße
+housenumber: "14"
+phone: +49 6623 915125
 opening_hours: ""
 website: ""

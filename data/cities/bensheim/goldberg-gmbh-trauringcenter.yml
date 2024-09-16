@@ -1,11 +1,11 @@
 id: 131473776
-type: way
+type: node
 latitude: 49.69972
 longitude: 8.6223
 postcode: "64625"
 city: Bensheim
-street: "Diefenbachweg"
-housenumber: 2
-phone: "+49 6251 787728"
+street: Diefenbachweg
+housenumber: "2"
+phone: +49 6251 787728
 opening_hours: ""
-website: "https://www.dergoldberg.de/index.php"
+website: https://www.dergoldberg.de/index.php

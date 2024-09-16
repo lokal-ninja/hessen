@@ -1,11 +1,11 @@
 id: 286290722
-type: way
+type: node
 latitude: 49.67311
 longitude: 9.01604
 postcode: "64720"
 city: Michelstadt
-street: "Stadtring"
-housenumber: 54
+street: Stadtring
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

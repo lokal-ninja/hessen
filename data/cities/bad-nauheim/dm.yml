@@ -1,11 +1,11 @@
 id: 30671196
-type: way
+type: node
 latitude: 50.36267
 longitude: 8.7538
 postcode: "61231"
 city: Bad Nauheim
-street: "Friedrich-Stoll-Straße"
-housenumber: 2
-phone: "+49 6032 347616"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Friedrich-Stoll-Straße
+housenumber: "2"
+phone: +49 6032 347616
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

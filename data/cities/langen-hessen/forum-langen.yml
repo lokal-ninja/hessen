@@ -1,11 +1,11 @@
 id: 876235440
-type: way
+type: node
 latitude: 49.99587
 longitude: 8.65834
 postcode: "63225"
 city: Langen (Hessen)
-street: "Liebigstraße"
-housenumber: 9
+street: Liebigstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:00-20:00"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:00-20:00
 website: ""

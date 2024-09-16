@@ -1,11 +1,11 @@
 id: 720632120
-type: way
+type: node
 latitude: 51.26994
 longitude: 9.47064
 postcode: "34134"
 city: Kassel
-street: "Hamburger Straße"
-housenumber: 22
-phone: "+49 561 5798860"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
-website: "https://www.foerch.de/unternehmen/verkaufsniederlassungen/kassel/kassel.aspx"
+street: Hamburger Straße
+housenumber: "22"
+phone: +49 561 5798860
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
+website: https://www.foerch.de/unternehmen/verkaufsniederlassungen/kassel/kassel.aspx

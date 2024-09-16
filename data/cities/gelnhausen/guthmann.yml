@@ -4,8 +4,8 @@ latitude: 50.1998
 longitude: 9.19134
 postcode: "63571"
 city: Gelnhausen
-street: "Am Ziegelturm"
-housenumber: 4
-phone: "+49 6051 92890"
-opening_hours: "Mo-Th 09:30-18:00; Fr 09:30-14:00; Sa 10:00-13:00"
-website: "https://www.guthmannshop.de/Startseite"
+street: Am Ziegelturm
+housenumber: "4"
+phone: +49 6051 92890
+opening_hours: Mo-Th 09:30-18:00; Fr 09:30-14:00; Sa 10:00-13:00
+website: https://www.guthmannshop.de/Startseite

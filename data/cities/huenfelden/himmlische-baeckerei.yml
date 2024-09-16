@@ -1,11 +1,11 @@
 id: 850063536
-type: way
+type: node
 latitude: 50.32738
 longitude: 8.18511
 postcode: "65597"
 city: Hünfelden
-street: "Eufinger Straße"
-housenumber: 32
+street: Eufinger Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://himmlische-baeckerei.de"
+website: https://himmlische-baeckerei.de

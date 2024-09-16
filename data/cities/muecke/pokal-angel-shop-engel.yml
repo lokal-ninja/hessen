@@ -1,11 +1,11 @@
 id: 114000937
-type: way
+type: node
 latitude: 50.61312
 longitude: 9.02123
 postcode: "35325"
 city: Mücke
-street: "Freiherr-vom-Stein-Straße"
-housenumber: 2
+street: Freiherr-vom-Stein-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

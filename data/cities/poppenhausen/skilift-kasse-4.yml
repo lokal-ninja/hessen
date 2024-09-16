@@ -1,11 +1,11 @@
 id: 179341611
-type: way
+type: node
 latitude: 50.50648
 longitude: 9.92947
 postcode: "36163"
 city: Poppenhausen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Je nach Schneefall"
+opening_hours: '"Je nach Schneefall"'
 website: ""

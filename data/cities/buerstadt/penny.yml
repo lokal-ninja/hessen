@@ -4,8 +4,8 @@ latitude: 49.65308
 longitude: 8.45233
 postcode: "68642"
 city: Bürstadt
-street: "Mainstraße"
-housenumber: 131
+street: Mainstraße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:30; Su,PH off"
-website: "https://www.penny.de/startseite/"
+opening_hours: Mo-Sa 07:30-21:30; Su,PH off
+website: https://www.penny.de/startseite/

@@ -4,8 +4,9 @@ latitude: 49.86934
 longitude: 8.6676
 postcode: "64287"
 city: Darmstadt
-street: "Roßdörfer Straße"
-housenumber: 55
+street: Roßdörfer Straße
+housenumber: "55"
 phone: "+49615123786"
-opening_hours: "Mo-Tu 08:30-13:00,14:30-18:00; We 08:30-13:00; Th-Fr 08:30-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.schluesseldienst-schlund.de/"
+opening_hours: Mo-Tu 08:30-13:00,14:30-18:00; We 08:30-13:00; Th-Fr 08:30-13:00,14:30-18:00;
+    Sa 09:00-13:00
+website: https://www.schluesseldienst-schlund.de/

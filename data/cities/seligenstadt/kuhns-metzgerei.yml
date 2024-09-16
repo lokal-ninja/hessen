@@ -4,8 +4,8 @@ latitude: 50.03946
 longitude: 8.99324
 postcode: "63500"
 city: Seligenstadt
-street: "Dieselstraße"
-housenumber: 7
+street: Dieselstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:30 -18:30, Sa 07:30 -14:00"
-website: "http://www.partyservice-kuhn.de/"
+opening_hours: Mo-Fr 07:30 -18:30, Sa 07:30 -14:00
+website: http://www.partyservice-kuhn.de/

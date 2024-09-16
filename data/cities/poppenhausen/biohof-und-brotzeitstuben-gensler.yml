@@ -4,8 +4,10 @@ latitude: 50.4991
 longitude: 9.8761
 postcode: "36163"
 city: Poppenhausen
-street: "Hohensteg"
-housenumber: 5
-phone: "+49 6658 1595"
-opening_hours: "May-Sep Th 10:00-12:00,14:00-16:00; May-Sep Fr 10:00-12:00,14:00-16:00; May-Sep Sa,Su 08:00-12:00,14:00-16:00; Oct-Apr Th 10:00-12:00,14:00-16:00; Oct-Apr Sa 08:00-12:00"
-website: "http://www.bio-hof-gensler.de/"
+street: Hohensteg
+housenumber: "5"
+phone: +49 6658 1595
+opening_hours: May-Sep Th 10:00-12:00,14:00-16:00; May-Sep Fr 10:00-12:00,14:00-16:00;
+    May-Sep Sa,Su 08:00-12:00,14:00-16:00; Oct-Apr Th 10:00-12:00,14:00-16:00; Oct-Apr
+    Sa 08:00-12:00
+website: http://www.bio-hof-gensler.de/

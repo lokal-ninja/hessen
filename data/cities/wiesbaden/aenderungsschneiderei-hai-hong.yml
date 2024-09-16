@@ -4,8 +4,8 @@ latitude: 50.07607
 longitude: 8.23271
 postcode: "65185"
 city: Wiesbaden
-street: "Wörthstraße"
-housenumber: 25
-phone: "+49 611-510 498 36"
-opening_hours: "Mo-Sa 10:00-14:00; Tu,Th,Fr 15:00-18:00"
+street: Wörthstraße
+housenumber: "25"
+phone: +49 611-510 498 36
+opening_hours: Mo-Sa 10:00-14:00; Tu,Th,Fr 15:00-18:00
 website: ""

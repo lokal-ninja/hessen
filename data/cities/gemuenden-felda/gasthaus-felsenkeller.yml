@@ -1,11 +1,11 @@
 id: 112438468
-type: way
+type: node
 latitude: 50.68045
 longitude: 9.03889
 postcode: "35329"
 city: Gemünden (Felda)
-street: "Ohmstraße"
-housenumber: 7
+street: Ohmstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

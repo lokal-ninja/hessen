@@ -1,11 +1,11 @@
 id: 279994709
-type: way
+type: node
 latitude: 50.03641
 longitude: 7.94934
 postcode: ""
 city: Geisenheim
-street: "Rathausstraße"
-housenumber: 16
+street: Rathausstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://piccolo-kosmetik.de/"
+website: https://piccolo-kosmetik.de/

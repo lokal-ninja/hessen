@@ -4,8 +4,8 @@ latitude: 50.12171
 longitude: 8.69841
 postcode: "60316"
 city: Frankfurt am Main
-street: "Berger Straße"
-housenumber: 77
-phone: "+49 69 432515"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-18:00"
-website: "http://www.optik-schreyer.de"
+street: Berger Straße
+housenumber: "77"
+phone: +49 69 432515
+opening_hours: Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-18:00
+website: http://www.optik-schreyer.de

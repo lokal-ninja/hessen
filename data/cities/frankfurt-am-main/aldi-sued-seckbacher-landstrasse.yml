@@ -1,11 +1,11 @@
 id: 98429910
-type: way
+type: node
 latitude: 50.13586
 longitude: 8.71473
 postcode: "60385"
 city: Frankfurt am Main
-street: "Seckbacher Landstraße"
-housenumber: 76
+street: Seckbacher Landstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://filialen.aldi-sued.de/hessen/frankfurt-am-main/seckbacher-landstrasse-76"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://filialen.aldi-sued.de/hessen/frankfurt-am-main/seckbacher-landstrasse-76

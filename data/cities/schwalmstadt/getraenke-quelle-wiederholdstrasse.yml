@@ -1,11 +1,11 @@
 id: 187986832
-type: way
+type: node
 latitude: 50.91257
 longitude: 9.24687
 postcode: ""
 city: Schwalmstadt
-street: "Wiederholdstraße"
-housenumber: 44
+street: Wiederholdstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 226154068
-type: way
+type: node
 latitude: 50.41884
 longitude: 8.10381
 postcode: "65594"
 city: Runkel
-street: "Am Dehrner Hafen"
-housenumber: 2
+street: Am Dehrner Hafen
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 33753382
-type: way
+type: node
 latitude: 49.89832
 longitude: 8.6123
 postcode: "64331"
 city: Weiterstadt
-street: "Industriestraße"
-housenumber: 10
+street: Industriestraße
+housenumber: "10"
 phone: ""
-opening_hours: "10:00-20:00"
+opening_hours: 10:00-20:00
 website: ""

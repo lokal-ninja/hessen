@@ -1,11 +1,11 @@
 id: 256458013
-type: way
+type: node
 latitude: 51.30236
 longitude: 9.48264
 postcode: "34121"
 city: Kassel
-street: "Frankfurter Straße"
-housenumber: 106
-phone: "+49 561 92047070"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://www.ducati-kassel.de/"
+street: Frankfurter Straße
+housenumber: "106"
+phone: +49 561 92047070
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://www.ducati-kassel.de/

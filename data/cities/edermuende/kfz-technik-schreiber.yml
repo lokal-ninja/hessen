@@ -1,11 +1,11 @@
 id: 616342767
-type: way
+type: node
 latitude: 51.22798
 longitude: 9.38774
 postcode: "34295"
 city: Edermünde
-street: "Großenritter Straße"
-housenumber: 71
-phone: "+49 5603 919293"
-opening_hours: "Mo-Tu 08:00-17:00; Fr 08:00-15:00"
-website: "https://www.kfz-schreiber.de/"
+street: Großenritter Straße
+housenumber: "71"
+phone: +49 5603 919293
+opening_hours: Mo-Tu 08:00-17:00; Fr 08:00-15:00
+website: https://www.kfz-schreiber.de/

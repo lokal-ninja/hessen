@@ -1,11 +1,11 @@
 id: 434811347
-type: way
+type: node
 latitude: 51.48924
 longitude: 9.00679
 postcode: "34474"
 city: Diemelstadt
-street: "Wrexer Teich"
-housenumber: 2
-phone: "+49 5694 9796 0"
+street: Wrexer Teich
+housenumber: "2"
+phone: +49 5694 9796 0
 opening_hours: ""
-website: "https://www.baustoffmarkt-gruppe.de/standorte/wh-diemel-baumarkt-gmbh-co-kg-start/"
+website: https://www.baustoffmarkt-gruppe.de/standorte/wh-diemel-baumarkt-gmbh-co-kg-start/

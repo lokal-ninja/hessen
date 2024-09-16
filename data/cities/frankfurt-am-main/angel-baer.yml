@@ -4,8 +4,8 @@ latitude: 50.11179
 longitude: 8.68515
 postcode: "60311"
 city: Frankfurt am Main
-street: "Braubachstraße"
-housenumber: 7
-phone: "+49 69 283785"
-opening_hours: "Mo-Tu 10:00-17:00; We-Fr 10:00-18:00; Sa 09:00-13:00"
-website: "https://www.angel-baer.de/"
+street: Braubachstraße
+housenumber: "7"
+phone: +49 69 283785
+opening_hours: Mo-Tu 10:00-17:00; We-Fr 10:00-18:00; Sa 09:00-13:00
+website: https://www.angel-baer.de/

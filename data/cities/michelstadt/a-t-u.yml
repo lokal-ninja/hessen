@@ -1,11 +1,11 @@
 id: 118189246
-type: way
+type: node
 latitude: 49.68815
 longitude: 9.00564
 postcode: "64720"
 city: Michelstadt
-street: "Zeller Straße"
-housenumber: 2
+street: Zeller Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 97802507
-type: way
+type: node
 latitude: 49.98378
 longitude: 8.42861
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Adam-Opel-Straße"
-housenumber: 49
+street: Adam-Opel-Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.lidl.de/

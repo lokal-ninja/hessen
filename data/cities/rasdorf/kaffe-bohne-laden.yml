@@ -1,11 +1,11 @@
 id: 703486610
-type: way
+type: node
 latitude: 50.71675
 longitude: 9.89995
 postcode: "36169"
 city: Rasdorf
-street: "Landstraße"
-housenumber: 13
+street: Landstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

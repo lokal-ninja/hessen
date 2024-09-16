@@ -1,11 +1,11 @@
 id: 726037503
-type: way
+type: node
 latitude: 50.14086
 longitude: 8.34586
 postcode: "65817"
 city: Eppstein
-street: "Valterweg"
-housenumber: 14
+street: Valterweg
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "http://autohaus-menzel.de"
+website: http://autohaus-menzel.de

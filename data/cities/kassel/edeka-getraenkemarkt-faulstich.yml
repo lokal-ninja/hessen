@@ -1,11 +1,11 @@
 id: 204844964
-type: way
+type: node
 latitude: 51.29142
 longitude: 9.5384
 postcode: "34123"
 city: Kassel
-street: "Forstbachweg"
-housenumber: 58
+street: Forstbachweg
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

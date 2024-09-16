@@ -4,8 +4,8 @@ latitude: 49.99258
 longitude: 8.41395
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Bahnhofstraße"
-housenumber: 38
-phone: "+49 6142 13343"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-14:00"
-website: "https://www.reformhaus-herrmann.de/"
+street: Bahnhofstraße
+housenumber: "38"
+phone: +49 6142 13343
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-14:00
+website: https://www.reformhaus-herrmann.de/

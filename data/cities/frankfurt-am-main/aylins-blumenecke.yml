@@ -1,11 +1,11 @@
 id: 312617708
-type: way
+type: node
 latitude: 50.14068
 longitude: 8.64711
 postcode: "60431"
 city: Frankfurt am Main
-street: "Ginnheimer Landstraße"
-housenumber: 165
-phone: "+49 176 2215 1298"
-opening_hours: "Mo-Sa 09:00-18:00; PH,Su 10:00-13:00"
+street: Ginnheimer Landstraße
+housenumber: "165"
+phone: +49 176 2215 1298
+opening_hours: Mo-Sa 09:00-18:00; PH,Su 10:00-13:00
 website: ""

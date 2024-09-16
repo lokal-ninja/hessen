@@ -1,11 +1,11 @@
 id: 362537577
-type: way
+type: node
 latitude: 49.98326
 longitude: 8.68027
 postcode: "63225"
 city: Langen (Hessen)
-street: "Friedhofstraße"
-housenumber: 29
+street: Friedhofstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Th 09:00-16:00; Fr 09:00-14:00; PH,Sa,Su off"
-website: "http://www.der-heizungs-und-baedermacher.de/"
+opening_hours: Mo-Th 09:00-16:00; Fr 09:00-14:00; PH,Sa,Su off
+website: http://www.der-heizungs-und-baedermacher.de/

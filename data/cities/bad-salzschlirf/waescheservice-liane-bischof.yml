@@ -1,11 +1,11 @@
 id: 100185964
-type: way
+type: node
 latitude: 50.6217
 longitude: 9.50634
 postcode: "36364"
 city: Bad Salzschlirf
-street: "Riedstraße"
-housenumber: 24
+street: Riedstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

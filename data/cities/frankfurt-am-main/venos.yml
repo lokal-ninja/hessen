@@ -1,11 +1,11 @@
 id: 52518982
-type: way
+type: node
 latitude: 50.12052
 longitude: 8.62195
 postcode: "60487"
 city: Frankfurt am Main
-street: "Rödelheimer Landstraße"
+street: Rödelheimer Landstraße
 housenumber: 75-85
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-19:00; Sa 08:00-15:00"
-website: "https://shop.venos.de/"
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-19:00; Sa 08:00-15:00
+website: https://shop.venos.de/

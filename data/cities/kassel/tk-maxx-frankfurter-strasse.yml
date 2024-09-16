@@ -4,8 +4,8 @@ latitude: 51.28711
 longitude: 9.47409
 postcode: "34134"
 city: Kassel
-street: "Frankfurter Straße"
-housenumber: 225
+street: Frankfurter Straße
+housenumber: "225"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.tkmaxx.de/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.tkmaxx.de/

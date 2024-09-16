@@ -4,8 +4,8 @@ latitude: 49.97602
 longitude: 8.56847
 postcode: "64546"
 city: Mörfelden-Walldorf
-street: "Langener Straße"
-housenumber: 8
-phone: "+49 6105 26399"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-12:30"
-website: "https://www.hurlin.de/index.php/filialen"
+street: Langener Straße
+housenumber: "8"
+phone: +49 6105 26399
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-12:30
+website: https://www.hurlin.de/index.php/filialen

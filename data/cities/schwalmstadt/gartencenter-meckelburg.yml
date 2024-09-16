@@ -1,11 +1,11 @@
 id: 199719908
-type: way
+type: node
 latitude: 50.92243
 longitude: 9.22613
 postcode: "34613"
 city: Schwalmstadt
-street: "Am Pfützentriesch"
-housenumber: 3
-phone: "+49 6691 928914"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.gartencentermeckelburg.de/index.php/schwalmstadt.html"
+street: Am Pfützentriesch
+housenumber: "3"
+phone: +49 6691 928914
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.gartencentermeckelburg.de/index.php/schwalmstadt.html

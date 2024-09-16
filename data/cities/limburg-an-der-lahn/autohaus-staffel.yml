@@ -1,11 +1,11 @@
 id: 178343358
-type: way
+type: node
 latitude: 50.41017
 longitude: 8.0667
 postcode: "65555"
 city: Limburg an der Lahn
-street: "Müschener Straße"
-housenumber: 2
+street: Müschener Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

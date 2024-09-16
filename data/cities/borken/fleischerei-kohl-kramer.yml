@@ -4,8 +4,8 @@ latitude: 51.03908
 longitude: 9.25374
 postcode: "34582"
 city: Borken
-street: "Hardtstraße"
-housenumber: 5
-phone: "+49 5682 2310"
-opening_hours: "Mo 07:30-12:30, Tu-Fr 07:30-18:00, Sa 07:30-12:30"
-website: "http://www.kohl-kramer.de"
+street: Hardtstraße
+housenumber: "5"
+phone: +49 5682 2310
+opening_hours: Mo 07:30-12:30, Tu-Fr 07:30-18:00, Sa 07:30-12:30
+website: http://www.kohl-kramer.de

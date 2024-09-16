@@ -4,8 +4,8 @@ latitude: 49.63691
 longitude: 8.61958
 postcode: "64646"
 city: Heppenheim
-street: "Tiergartenstraße"
-housenumber: 5
-phone: "+49 6252 9677527"
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
-website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"
+street: Tiergartenstraße
+housenumber: "5"
+phone: +49 6252 9677527
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
+website: https://www.baeckergoertz.de/#filialenstart/filialfinder

@@ -4,8 +4,8 @@ latitude: 50.54736
 longitude: 9.67464
 postcode: "36037"
 city: Fulda
-street: "Löherstraße"
-housenumber: 33
-phone: "+49 6612502872"
-opening_hours: "Mo, Fr 11:00-20:00; Tu, Th 09:00-18:00; Sa 08:00-14:00"
-website: "https://www.schnittlounge-fulda.de/"
+street: Löherstraße
+housenumber: "33"
+phone: +49 6612502872
+opening_hours: Mo, Fr 11:00-20:00; Tu, Th 09:00-18:00; Sa 08:00-14:00
+website: https://www.schnittlounge-fulda.de/

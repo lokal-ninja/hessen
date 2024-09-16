@@ -1,11 +1,11 @@
 id: 89706573
-type: way
+type: node
 latitude: 50.59465
 longitude: 8.65955
 postcode: "35398"
 city: Gießen
-street: "Krofdorfer Straße"
-housenumber: 87
+street: Krofdorfer Straße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

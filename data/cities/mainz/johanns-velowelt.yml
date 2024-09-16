@@ -4,8 +4,8 @@ latitude: 50.00146
 longitude: 8.31
 postcode: "55246"
 city: Mainz
-street: "Hauptstraße"
-housenumber: 85
-phone: "+49 6134 2401010"
-opening_hours: "Tu 15:00-18:30; We 15:00-18:30; Th 10:00-13:00,15:00-18:30; Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00"
-website: "https://www.johannsvelowelt.de/"
+street: Hauptstraße
+housenumber: "85"
+phone: +49 6134 2401010
+opening_hours: Tu,We 15:00-18:00; Th,Fr 10:00-13:00; Sa 10:00-14:00
+website: https://www.johannsvelowelt.de/

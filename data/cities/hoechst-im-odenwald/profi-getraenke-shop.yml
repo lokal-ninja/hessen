@@ -1,11 +1,11 @@
 id: 119958914
-type: way
+type: node
 latitude: 49.79954
 longitude: 9.00212
 postcode: "64739"
 city: Höchst im Odenwald
-street: "Dusenbacher Straße"
-housenumber: 56
-phone: "+49 6163 912294"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-18:00"
-website: "https://www.profi-getraenke-shop.de/"
+street: Dusenbacher Straße
+housenumber: "56"
+phone: +49 6163 912294
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:00-18:00
+website: https://www.profi-getraenke-shop.de/

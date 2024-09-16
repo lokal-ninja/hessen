@@ -4,8 +4,8 @@ latitude: 49.64251
 longitude: 8.63983
 postcode: "64646"
 city: Heppenheim
-street: "Friedrichstraße"
-housenumber: 29
-phone: "+49 6252 4249"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://www.maybooks.de"
+street: Friedrichstraße
+housenumber: "29"
+phone: +49 6252 4249
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://www.maybooks.de

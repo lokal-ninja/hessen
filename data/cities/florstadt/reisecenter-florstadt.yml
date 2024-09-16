@@ -4,8 +4,8 @@ latitude: 50.31864
 longitude: 8.86042
 postcode: "61197"
 city: Florstadt
-street: "Willy-Brandt-Straße"
-housenumber: 2
-phone: "+49 6035 971201"
-opening_hours: "Mo,Fr 10:00-13:00,14:00-18:00; Tu-Sa 10:00-13:00; We off"
-website: "https://reisecenter-florstadt.de"
+street: Willy-Brandt-Straße
+housenumber: "2"
+phone: +49 6035 971201
+opening_hours: Mo,Fr 10:00-13:00,14:00-18:00; Tu-Sa 10:00-13:00; We off
+website: https://reisecenter-florstadt.de

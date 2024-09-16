@@ -1,11 +1,11 @@
 id: 141681750
-type: way
+type: node
 latitude: 51.18293
 longitude: 10.16819
 postcode: "37281"
 city: Wanfried
-street: "Martinsgasse"
-housenumber: 8
-phone: "+49 5655 8384"
-opening_hours: "Nach Vereinbarung"
+street: Martinsgasse
+housenumber: "8"
+phone: +49 5655 8384
+opening_hours: '"Nach Vereinbarung"'
 website: ""

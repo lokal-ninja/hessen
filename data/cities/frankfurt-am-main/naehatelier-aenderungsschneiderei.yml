@@ -1,11 +1,11 @@
 id: 30877926
-type: way
+type: node
 latitude: 50.13512
 longitude: 8.67219
 postcode: "60320"
 city: Frankfurt am Main
-street: "Humserstraße"
-housenumber: 41
+street: Humserstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
 website: ""

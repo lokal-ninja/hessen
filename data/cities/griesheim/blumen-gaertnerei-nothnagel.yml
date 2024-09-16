@@ -4,8 +4,8 @@ latitude: 49.86753
 longitude: 8.54493
 postcode: "64347"
 city: Griesheim
-street: "Pfützenstraße"
-housenumber: 90
+street: Pfützenstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo - Fr 8:30-12:30, 14:00-18:00, Sa 8:30-13:00"
-website: "https://www.gaertnerei-nothnagel.de/"
+opening_hours: Mo - Fr 8:30-12:30, 14:00-18:00, Sa 8:30-13:00
+website: https://www.gaertnerei-nothnagel.de/

@@ -1,11 +1,11 @@
 id: 204060246
-type: way
+type: node
 latitude: 50.09383
 longitude: 8.45485
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Am Stegskreuz"
+street: Am Stegskreuz
 housenumber: 2-4
 phone: ""
-opening_hours: "Mo-Tu 08:00-19:00, Fr 08:00-18:00, Sa 10:00-14:00"
-website: "https://www.porsche-hofheim.de/"
+opening_hours: Mo-Tu 08:00-19:00, Fr 08:00-18:00, Sa 10:00-14:00
+website: https://www.porsche-hofheim.de/

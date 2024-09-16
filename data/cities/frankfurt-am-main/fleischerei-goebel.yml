@@ -4,8 +4,8 @@ latitude: 50.10704
 longitude: 8.66771
 postcode: "60329"
 city: Frankfurt am Main
-street: "Moselstraße"
-housenumber: 19
-phone: "+49 69 236187"
-opening_hours: "Mo-Fr 06:30-16:30"
-website: "https://www.fleischerei-goebel.de/"
+street: Moselstraße
+housenumber: "19"
+phone: +49 69 236187
+opening_hours: Mo-Fr 06:30-16:30
+website: https://www.fleischerei-goebel.de/

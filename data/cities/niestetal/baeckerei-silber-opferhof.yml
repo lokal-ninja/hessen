@@ -1,11 +1,11 @@
 id: 643126282
-type: way
+type: node
 latitude: 51.30651
 longitude: 9.57987
 postcode: "34266"
 city: Niestetal
-street: "Opferhof"
-housenumber: 4
-phone: "+49 561 523920"
+street: Opferhof
+housenumber: "4"
+phone: +49 561 523920
 opening_hours: ""
 website: ""

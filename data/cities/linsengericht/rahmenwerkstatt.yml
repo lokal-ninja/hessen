@@ -1,11 +1,11 @@
 id: 182240402
-type: way
+type: node
 latitude: 50.19049
 longitude: 9.19186
 postcode: "63589"
 city: Linsengericht
-street: "Gelnhäuser Straße"
-housenumber: 29
+street: Gelnhäuser Straße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

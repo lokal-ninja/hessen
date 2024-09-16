@@ -1,11 +1,11 @@
 id: 142605086
-type: way
+type: node
 latitude: 51.00359
 longitude: 9.4696
 postcode: "34593"
 city: Knüllwald
-street: "Hauptstraße"
-housenumber: 
-phone: "+49 5662 5874"
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:00-20:00"
-website: "http://www.edeka.de/"
+street: Hauptstraße
+housenumber: ""
+phone: +49 5662 5874
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:00-20:00
+website: http://www.edeka.de/

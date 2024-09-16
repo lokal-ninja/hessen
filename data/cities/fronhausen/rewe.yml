@@ -1,11 +1,11 @@
 id: 139428474
-type: way
+type: node
 latitude: 50.70933
 longitude: 8.69669
 postcode: "35112"
 city: Fronhausen
-street: "Im Boden"
-housenumber: 4
-phone: "+49 6426 921040"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Im Boden
+housenumber: "4"
+phone: +49 6426 921040
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

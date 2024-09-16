@@ -4,8 +4,8 @@ latitude: 50.67948
 longitude: 9.56248
 postcode: "36110"
 city: Schlitz
-street: "Bahnhofstraße"
-housenumber: 40
-phone: "+49 6642 87146"
-opening_hours: "Tu, Th 13:00-17:00"
-website: "https://langheinrich.de/"
+street: Bahnhofstraße
+housenumber: "40"
+phone: +49 6642 87146
+opening_hours: Tu, Th 13:00-17:00
+website: https://langheinrich.de/

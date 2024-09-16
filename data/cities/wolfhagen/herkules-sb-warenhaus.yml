@@ -1,11 +1,11 @@
 id: 90892260
-type: way
+type: node
 latitude: 51.32229
 longitude: 9.18032
 postcode: "34466"
 city: Wolfhagen
-street: "Kurfürstenstraße"
-housenumber: 39
+street: Kurfürstenstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

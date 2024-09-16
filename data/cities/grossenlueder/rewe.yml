@@ -1,11 +1,11 @@
 id: 352865409
-type: way
+type: node
 latitude: 50.59261
 longitude: 9.53106
 postcode: "36137"
 city: Großenlüder
-street: "Lauterbacher Straße"
-housenumber: 33
-phone: "+49 6648 7068"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.rewe.de/"
+street: Lauterbacher Straße
+housenumber: "33"
+phone: +49 6648 7068
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.rewe.de/

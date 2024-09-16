@@ -1,11 +1,11 @@
 id: 27653800
-type: way
+type: node
 latitude: 49.94912
 longitude: 8.45769
 postcode: "64569"
 city: Nauheim
-street: "Berzallee"
+street: Berzallee
 housenumber: 9-11
-phone: "+49 6152 64246"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-14:00"
-website: "https://www.blumen-schneider-nauheim.com/"
+phone: +49 6152 64246
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-14:00
+website: https://www.blumen-schneider-nauheim.com/

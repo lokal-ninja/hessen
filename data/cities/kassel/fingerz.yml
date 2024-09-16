@@ -4,8 +4,8 @@ latitude: 51.31515
 longitude: 9.49973
 postcode: "34117"
 city: Kassel
-street: "Oberste Gasse"
-housenumber: 2
+street: Oberste Gasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.fingerz.de/"
+website: https://www.fingerz.de/

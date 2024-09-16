@@ -4,8 +4,8 @@ latitude: 49.83675
 longitude: 8.69752
 postcode: "64367"
 city: Mühltal
-street: "Goethestraße"
-housenumber: 21
+street: Goethestraße
+housenumber: "21"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

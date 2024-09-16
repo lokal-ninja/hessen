@@ -1,11 +1,11 @@
 id: 126406907
-type: way
+type: node
 latitude: 50.49153
 longitude: 8.66103
 postcode: "35428"
 city: Langgöns
-street: "St.-Ulrich-Ring"
-housenumber: 6
+street: St.-Ulrich-Ring
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.malerhessen.de/"
+website: https://www.malerhessen.de/

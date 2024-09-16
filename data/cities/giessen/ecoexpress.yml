@@ -4,8 +4,8 @@ latitude: 50.58315
 longitude: 8.68084
 postcode: "35390"
 city: Gießen
-street: "Ludwigsplatz"
-housenumber: 4
+street: Ludwigsplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://waschsalon.de/"
+opening_hours: Mo-Su 06:00-22:00
+website: https://waschsalon.de/

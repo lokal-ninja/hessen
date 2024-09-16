@@ -1,11 +1,11 @@
 id: 250162616
-type: way
+type: node
 latitude: 49.82576
 longitude: 8.94491
 postcode: "64823"
 city: Groß-Umstadt
-street: "Odenwaldstraße"
-housenumber: 60
+street: Odenwaldstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

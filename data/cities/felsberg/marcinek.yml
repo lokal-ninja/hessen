@@ -1,11 +1,11 @@
 id: 426221343
-type: way
+type: node
 latitude: 51.13714
 longitude: 9.42234
 postcode: ""
 city: Felsberg
-street: "Schulstraße"
-housenumber: 6
+street: Schulstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.96216
 longitude: 8.45561
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Kohlseestraße"
-housenumber: 46
-phone: "+49 6142 32753"
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:30, 14:00-18:00; We,Sa 08:00-12:30; PH off"
-website: "https://ludschoweit.buchhandlung.de/"
+street: Kohlseestraße
+housenumber: "46"
+phone: +49 6142 32753
+opening_hours: Mo,Tu,Th,Fr 08:00-12:30, 14:00-18:00; We,Sa 08:00-12:30; PH off
+website: https://ludschoweit.buchhandlung.de/

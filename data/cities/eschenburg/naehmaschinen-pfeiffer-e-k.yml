@@ -1,11 +1,11 @@
 id: 219802038
-type: way
+type: node
 latitude: 50.78923
 longitude: 8.32468
 postcode: "35713"
 city: Eschenburg
-street: "Bezirksstraße"
-housenumber: 20
+street: Bezirksstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

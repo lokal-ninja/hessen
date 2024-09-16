@@ -1,11 +1,11 @@
 id: 162832296
-type: way
+type: node
 latitude: 51.41322
 longitude: 9.39833
 postcode: "34379"
 city: Calden
-street: "Breslauer Straße"
-housenumber: 2
+street: Breslauer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

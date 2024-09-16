@@ -1,11 +1,11 @@
 id: 148241169
-type: way
+type: node
 latitude: 50.11708
 longitude: 8.84084
 postcode: "63165"
 city: Mühlheim am Main
-street: "Ernst-Abbe-Straße"
-housenumber: 7
+street: Ernst-Abbe-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

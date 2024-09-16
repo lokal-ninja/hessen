@@ -1,11 +1,11 @@
 id: 360394677
-type: way
+type: node
 latitude: 50.48431
 longitude: 9.40003
 postcode: "36355"
 city: Grebenhain
-street: "Banneröder Straße"
-housenumber: 2
+street: Banneröder Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

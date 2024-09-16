@@ -1,11 +1,11 @@
 id: 42510991
-type: way
+type: node
 latitude: 50.22498
 longitude: 8.62087
 postcode: "61348"
 city: Bad Homburg v. d. Höhe
-street: "Louisenstraße"
+street: Louisenstraße
 housenumber: 86-90
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://la-vie-shopping.de/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://la-vie-shopping.de/

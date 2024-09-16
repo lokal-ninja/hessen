@@ -4,8 +4,8 @@ latitude: 51.49161
 longitude: 9.0736
 postcode: "34474"
 city: Diemelstadt
-street: "Teichstraße"
-housenumber: 3
+street: Teichstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 8:00-12:00, 14:00-18:00; Sa 9:00-13:00"
-website: "http://www.fahrrad-sinemus.de"
+opening_hours: Mo-Fr 8:00-12:00, 14:00-18:00; Sa 9:00-13:00
+website: http://www.fahrrad-sinemus.de

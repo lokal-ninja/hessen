@@ -1,11 +1,11 @@
 id: 158286812
-type: way
+type: node
 latitude: 50.66868
 longitude: 9.54844
 postcode: "36110"
 city: Schlitz
-street: "Adolph-Kolping-Straße"
-housenumber: 41
+street: Adolph-Kolping-Straße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.04477
 longitude: 8.20025
 postcode: "65201"
 city: Wiesbaden
-street: "Rheingaustraße"
-housenumber: 6
-phone: "+49 611 24338"
-opening_hours: "24/7"
-website: "https://www.schroeder-bestattungen-wiesbaden.de/"
+street: Rheingaustraße
+housenumber: "6"
+phone: +49 611 24338
+opening_hours: 24/7
+website: https://www.schroeder-bestattungen-wiesbaden.de/

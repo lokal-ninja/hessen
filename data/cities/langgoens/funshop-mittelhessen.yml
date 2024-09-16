@@ -1,11 +1,11 @@
 id: 128268926
-type: way
+type: node
 latitude: 50.5011
 longitude: 8.67528
 postcode: "35428"
 city: Langgöns
-street: "Leihgesterner Straße"
-housenumber: 19
+street: Leihgesterner Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 59181972
-type: way
+type: node
 latitude: 50.08964
 longitude: 8.29049
 postcode: "65191"
 city: Wiesbaden
-street: "Rostocker Straße"
-housenumber: 5
+street: Rostocker Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/f/wiesbaden/bierstadt-rostocker-strasse-5.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de/f/wiesbaden/bierstadt-rostocker-strasse-5.html

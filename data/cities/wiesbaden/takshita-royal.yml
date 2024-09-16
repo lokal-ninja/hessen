@@ -4,8 +4,8 @@ latitude: 50.08262
 longitude: 8.22981
 postcode: "65183"
 city: Wiesbaden
-street: "Wellritzstraße"
-housenumber: 59
-phone: "+49 157 76364432"
-opening_hours: "Mo-Fr 14:00-18:00,Sa 12:00-16:00"
+street: Wellritzstraße
+housenumber: "59"
+phone: +49 157 76364432
+opening_hours: Mo-Fr 14:00-18:00,Sa 12:00-16:00
 website: ""

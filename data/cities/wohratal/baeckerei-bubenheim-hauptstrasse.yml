@@ -1,11 +1,11 @@
 id: 126164621
-type: way
+type: node
 latitude: 50.91544
 longitude: 8.94943
 postcode: "35288"
 city: Wohratal
-street: "Hauptstraße"
-housenumber: 39
+street: Hauptstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

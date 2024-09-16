@@ -1,11 +1,11 @@
 id: 184871991
-type: way
+type: node
 latitude: 50.95259
 longitude: 9.06556
 postcode: "34630"
 city: Gilserberg
-street: "Kasseler Straße"
-housenumber: 21
+street: Kasseler Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/ueber-netto/Meine-Filiale.chtm/2564"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/ueber-netto/Meine-Filiale.chtm/2564

@@ -1,11 +1,11 @@
 id: 359738612
-type: way
+type: node
 latitude: 50.01409
 longitude: 8.06429
 postcode: ""
 city: Eltville am Rhein
-street: "Zimmerstraße"
-housenumber: 5
+street: Zimmerstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 44423831
-type: way
+type: node
 latitude: 50.212
 longitude: 8.56934
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Hohemarkstraße"
+street: Hohemarkstraße
 housenumber: 64-69
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/oberursel-taunus/oberursel-hohemarkstr-67+69.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/oberursel-taunus/oberursel-hohemarkstr-67+69.html

@@ -4,8 +4,8 @@ latitude: 50.00351
 longitude: 7.97857
 postcode: "65366"
 city: Geisenheim
-street: "Im Flecken"
-housenumber: 53
-phone: "+49 6722 5125"
-opening_hours: "Fr,Sa 16:30+; Su 15:00+"
-website: "http://www.weingut-martin-klein.de/"
+street: Im Flecken
+housenumber: "53"
+phone: +49 6722 5125
+opening_hours: Fr,Sa 16:30+; Su 15:00+
+website: http://www.weingut-martin-klein.de/

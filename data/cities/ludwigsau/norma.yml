@@ -1,11 +1,11 @@
 id: 1167220441
-type: way
+type: node
 latitude: 50.90442
 longitude: 9.74496
 postcode: "36251"
 city: Ludwigsau
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 6a
-phone: "+49 911 23734733"
+phone: +49 911 23734733
 opening_hours: ""
-website: "http://www.norma-online.de/"
+website: http://www.norma-online.de/

@@ -1,11 +1,11 @@
 id: 1145086031
-type: way
+type: node
 latitude: 51.62429
 longitude: 9.56642
 postcode: "34399"
 city: Wesertal
-street: "Schulstraße"
-housenumber: 33
+street: Schulstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

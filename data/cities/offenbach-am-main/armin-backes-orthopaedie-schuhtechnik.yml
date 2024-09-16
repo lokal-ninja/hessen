@@ -4,8 +4,8 @@ latitude: 50.10301
 longitude: 8.75921
 postcode: "63065"
 city: Offenbach am Main
-street: "Kaiserstraße"
-housenumber: 26
-phone: "+49 69 82 37 72 52"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://backes-ortho.de/"
+street: Kaiserstraße
+housenumber: "26"
+phone: +49 69 82 37 72 52
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://backes-ortho.de/

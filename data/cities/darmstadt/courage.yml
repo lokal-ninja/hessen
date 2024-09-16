@@ -4,8 +4,8 @@ latitude: 49.88204
 longitude: 8.65622
 postcode: "64289"
 city: Darmstadt
-street: "Liebfrauenstraße"
-housenumber: 27
-phone: "+49 6151 1546802"
-opening_hours: "nach Vereinbarung"
-website: "https://www.courage-bw.com/"
+street: Liebfrauenstraße
+housenumber: "27"
+phone: +49 6151 1546802
+opening_hours: '"nach Vereinbarung"'
+website: https://www.courage-bw.com/

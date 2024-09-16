@@ -1,11 +1,11 @@
 id: 934520567
-type: way
+type: node
 latitude: 50.363
 longitude: 8.95529
 postcode: "63691"
 city: Ranstadt
-street: "Kirchbergstraße"
-housenumber: 10
+street: Kirchbergstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

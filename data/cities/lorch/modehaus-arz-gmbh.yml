@@ -1,11 +1,11 @@
 id: 89581021
-type: way
+type: node
 latitude: 50.10108
 longitude: 7.84878
 postcode: "65391"
 city: Lorch
-street: "Kirchstraße"
-housenumber: 34
+street: Kirchstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.modehaus-arz.com/"
+website: https://www.modehaus-arz.com/

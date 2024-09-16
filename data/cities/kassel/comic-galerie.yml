@@ -4,8 +4,8 @@ latitude: 51.31434
 longitude: 9.49213
 postcode: "34117"
 city: Kassel
-street: "Opernstraße"
-housenumber: 15
-phone: "+49 561 7391365"
-opening_hours: "Mo-Th,Sa 10:00-18:00; Fr 10:00-19:00"
-website: "https://comic-galerie.de/"
+street: Opernstraße
+housenumber: "15"
+phone: +49 561 7391365
+opening_hours: Mo-Th,Sa 10:00-18:00; Fr 10:00-19:00
+website: https://comic-galerie.de/

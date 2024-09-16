@@ -1,11 +1,11 @@
 id: 382922851
-type: way
+type: node
 latitude: 50.52813
 longitude: 8.41042
 postcode: "35606"
 city: Solms
-street: "Braunfelser Straße"
+street: Braunfelser Straße
 housenumber: 20b
-phone: "+49 644292100"
-opening_hours: "Mo-Sa 09:00-12:30; Mo-Fr 14:00-18:00"
+phone: +49 644292100
+opening_hours: Mo-Sa 09:00-12:30; Mo-Fr 14:00-18:00
 website: ""

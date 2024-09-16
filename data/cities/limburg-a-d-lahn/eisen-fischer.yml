@@ -1,11 +1,11 @@
 id: 229184180
-type: way
+type: node
 latitude: 50.40821
 longitude: 8.0622
 postcode: "65555"
 city: Limburg a. d. Lahn
-street: "Limburger Straße"
-housenumber: 47
+street: Limburger Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

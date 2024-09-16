@@ -1,11 +1,11 @@
 id: 293532750
-type: way
+type: node
 latitude: 50.75716
 longitude: 8.46068
 postcode: "35080"
 city: Bad Endbach
-street: "Hauptstraße"
-housenumber: 86
+street: Hauptstraße
+housenumber: "86"
 phone: ""
-opening_hours: "Tu 15:00-17:00"
+opening_hours: Tu 15:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 26341355
-type: way
+type: node
 latitude: 51.26956
 longitude: 9.19481
 postcode: "34311"
 city: Naumburg
-street: "Kurstraße"
-housenumber: 1
+street: Kurstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 230273475
-type: way
+type: node
 latitude: 50.5628
 longitude: 8.6076
 postcode: "35582"
 city: Wetzlar
-street: "Am Rübenmorgen"
-housenumber: 3
+street: Am Rübenmorgen
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.futterhaus.de/"
+website: https://www.futterhaus.de/

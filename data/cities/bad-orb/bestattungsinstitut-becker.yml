@@ -1,11 +1,11 @@
 id: 66754663
-type: way
+type: node
 latitude: 50.22607
 longitude: 9.34772
 postcode: "63619"
 city: Bad Orb
-street: "Kanalstraße"
-housenumber: 24
+street: Kanalstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

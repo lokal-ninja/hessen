@@ -1,11 +1,11 @@
 id: 94102964
-type: way
+type: node
 latitude: 50.20167
 longitude: 9.17687
 postcode: "63571"
 city: Gelnhausen
-street: "Am Galgenfeld"
-housenumber: 1
+street: Am Galgenfeld
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-17:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-17:00
 website: ""

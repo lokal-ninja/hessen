@@ -1,11 +1,11 @@
 id: 203240589
-type: way
+type: node
 latitude: 50.70205
 longitude: 8.34088
 postcode: "35745"
 city: Herborn
-street: "Hohe Straße"
-housenumber: 31
+street: Hohe Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo,We-Fr 06:00-12:30,14:00-18:00; Tu 06:00-12:30; Sa 06:00-12:00"
-website: "http://www.baeckerei-gabriel.de"
+opening_hours: Mo,We-Fr 06:00-12:30,14:00-18:00; Tu 06:00-12:30; Sa 06:00-12:00
+website: http://www.baeckerei-gabriel.de

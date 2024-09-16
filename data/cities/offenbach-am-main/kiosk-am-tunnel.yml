@@ -1,11 +1,11 @@
 id: 624062745
-type: way
+type: node
 latitude: 50.10079
 longitude: 8.77237
 postcode: "63071"
 city: Offenbach am Main
-street: "Feldstraße"
-housenumber: 76
+street: Feldstraße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 06:30-20:30; Sa 08:00-20:30; Su 09:00-20:30"
+opening_hours: Mo-Fr 06:30-20:30; Sa 08:00-20:30; Su 09:00-20:30
 website: ""

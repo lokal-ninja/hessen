@@ -1,11 +1,11 @@
 id: 54562713
-type: way
+type: node
 latitude: 49.87037
 longitude: 8.63627
 postcode: "64295"
 city: Darmstadt
-street: "Rheinstraße"
+street: Rheinstraße
 housenumber: 80A
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:30-19:00; Su,PH off"
-website: "https://asiamarkt.co/darmstadt/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:30-19:00; Su,PH off
+website: https://asiamarkt.co/darmstadt/

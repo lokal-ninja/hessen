@@ -1,11 +1,11 @@
 id: 119616885
-type: way
+type: node
 latitude: 49.68009
 longitude: 8.61059
 postcode: "64625"
 city: Bensheim
-street: "Guntherstraße"
-housenumber: 12
+street: Guntherstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

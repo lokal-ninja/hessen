@@ -4,8 +4,8 @@ latitude: 50.07866
 longitude: 8.23732
 postcode: "65185"
 city: Wiesbaden
-street: "Kirchgasse"
-housenumber: 6
-phone: "+49 611 1574606"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite/wiesbaden/240195/rewe-markt-kirchgasse-6-luisenforum/"
+street: Kirchgasse
+housenumber: "6"
+phone: +49 611 1574606
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/marktseite/wiesbaden/240195/rewe-markt-kirchgasse-6-luisenforum/

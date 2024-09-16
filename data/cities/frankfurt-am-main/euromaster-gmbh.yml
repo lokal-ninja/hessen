@@ -4,8 +4,8 @@ latitude: 50.1205
 longitude: 8.75428
 postcode: "60386"
 city: Frankfurt am Main
-street: "Carl-Benz-Straße"
-housenumber: 29
-phone: "+49 69 419270"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 09:00-12:00; PH off"
-website: "https://filiale.euromaster.de/23064-euromaster-frankfurt-main"
+street: Carl-Benz-Straße
+housenumber: "29"
+phone: +49 69 419270
+opening_hours: Mo-Fr 08:00-17:00, Sa 09:00-12:00; PH off
+website: https://filiale.euromaster.de/23064-euromaster-frankfurt-main

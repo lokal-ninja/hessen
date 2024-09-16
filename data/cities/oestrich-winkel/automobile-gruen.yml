@@ -1,11 +1,11 @@
 id: 292928339
-type: way
+type: node
 latitude: 50.00897
 longitude: 8.03804
 postcode: "65375"
 city: Oestrich-Winkel
-street: "Untere Bein"
-housenumber: 2
-phone: "+49 171 1279320"
+street: Untere Bein
+housenumber: "2"
+phone: +49 171 1279320
 opening_hours: ""
 website: ""

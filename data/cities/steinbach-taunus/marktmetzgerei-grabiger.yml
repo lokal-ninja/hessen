@@ -1,11 +1,11 @@
 id: 53059496
-type: way
+type: node
 latitude: 50.16278
 longitude: 8.57022
 postcode: "61449"
 city: Steinbach (Taunus)
-street: "Eschborner Straße"
-housenumber: 69
+street: Eschborner Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.33736
 longitude: 8.75464
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Schirngasse"
-housenumber: 5
+street: Schirngasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo, Fr 10:00-16:00, We 10:00-13:00"
+opening_hours: Mo, Fr 10:00-16:00, We 10:00-13:00
 website: ""

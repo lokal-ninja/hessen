@@ -1,11 +1,11 @@
 id: 739101323
-type: way
+type: node
 latitude: 50.13877
 longitude: 8.45082
 postcode: "65779"
 city: Kelkheim (Taunus)
-street: "Hornauer Straße"
-housenumber: 4
+street: Hornauer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

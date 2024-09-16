@@ -1,11 +1,11 @@
 id: 174803867
-type: way
+type: node
 latitude: 50.73373
 longitude: 8.98876
 postcode: "35315"
 city: Homberg (Ohm)
-street: "Ohmstraße"
-housenumber: 6
+street: Ohmstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/

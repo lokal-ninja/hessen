@@ -1,11 +1,11 @@
 id: 47928243
-type: way
+type: node
 latitude: 50.1165
 longitude: 8.76292
 postcode: "60386"
 city: Frankfurt am Main
-street: "Ferdinand-Porsche-Straße"
-housenumber: 53
+street: Ferdinand-Porsche-Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

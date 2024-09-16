@@ -1,11 +1,11 @@
 id: 390572046
-type: way
+type: node
 latitude: 51.34303
 longitude: 9.859
 postcode: "37213"
 city: Witzenhausen
-street: "Steinstraße"
-housenumber: 8
+street: Steinstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Wir sind Tag und Nacht für Sie da 05542 9689990"
+opening_hours: '"Wir sind Tag und Nacht für Sie da 05542 9689990"'
 website: ""

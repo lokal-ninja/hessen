@@ -1,11 +1,11 @@
 id: 1090956844
-type: way
+type: node
 latitude: 49.67521
 longitude: 8.99897
 postcode: "64720"
 city: Michelstadt
-street: "Industriestraße"
-housenumber: 13
-phone: "+49 6061 7008-73"
-opening_hours: "Mo. - Fr.: 08:00 - 18:00 Uhr / Sa.: 09:00 - 13:00 Uhr"
-website: "https://www.autohaus-ebert.de/"
+street: Industriestraße
+housenumber: "13"
+phone: +49 6061 7008-73
+opening_hours: 'Mo. - Fr.: 08:00 - 18:00 Uhr / Sa.: 09:00 - 13:00 Uhr'
+website: https://www.autohaus-ebert.de/

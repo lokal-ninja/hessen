@@ -1,11 +1,11 @@
 id: 131594952
-type: way
+type: node
 latitude: 50.05883
 longitude: 8.87955
 postcode: "63110"
 city: Rodgau
-street: "Udenhoutstraße"
-housenumber: 2
+street: Udenhoutstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.selgros.de/markt/rodgau"
+website: https://www.selgros.de/markt/rodgau

@@ -4,8 +4,8 @@ latitude: 50.13331
 longitude: 8.60729
 postcode: "60488"
 city: Frankfurt am Main
-street: "Reifenberger Straße"
-housenumber: 73
-phone: "+49 69 9765120"
+street: Reifenberger Straße
+housenumber: "73"
+phone: +49 69 9765120
 opening_hours: ""
-website: "https://www.ballenberger.de/"
+website: https://www.ballenberger.de/

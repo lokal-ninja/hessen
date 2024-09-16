@@ -1,11 +1,11 @@
 id: 352092092
-type: way
+type: node
 latitude: 50.5174
 longitude: 8.38785
 postcode: "35619"
 city: Braunfels
-street: "Kaiser-Friedrich-Straße"
-housenumber: 7
-phone: "+49 6442 932 681"
-opening_hours: "Mo-Fr 07:30-22:00, Sa 08:00-20:00"
+street: Kaiser-Friedrich-Straße
+housenumber: "7"
+phone: +49 6442 932 681
+opening_hours: Mo-Fr 07:30-22:00, Sa 08:00-20:00
 website: ""

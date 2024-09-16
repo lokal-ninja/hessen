@@ -4,8 +4,8 @@ latitude: 50.10306
 longitude: 8.68508
 postcode: "60594"
 city: Frankfurt am Main
-street: "Laubestraße"
-housenumber: 26
-phone: "+49 69 95863972"
-opening_hours: "Th-Fr 10:00-19:00; Sa 10:00-16:00; PH off"
-website: "https://www.held-der-steine.de/"
+street: Laubestraße
+housenumber: "26"
+phone: +49 69 95863972
+opening_hours: Th-Fr 10:00-19:00; Sa 10:00-16:00; PH off
+website: https://www.held-der-steine.de/

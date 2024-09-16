@@ -1,11 +1,11 @@
 id: 470869126
-type: way
+type: node
 latitude: 51.22475
 longitude: 9.31379
 postcode: "34305"
 city: Niedenstein
-street: "Goethestraße"
-housenumber: 9
+street: Goethestraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

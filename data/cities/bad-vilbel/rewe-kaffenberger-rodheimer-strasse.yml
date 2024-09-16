@@ -1,11 +1,11 @@
 id: 274026717
-type: way
+type: node
 latitude: 50.18873
 longitude: 8.73311
 postcode: "61118"
 city: Bad Vilbel
-street: "Rodheimer Straße"
+street: Rodheimer Straße
 housenumber: 15-17
-phone: "+49 6101 9891371"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+phone: +49 6101 9891371
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

@@ -4,8 +4,8 @@ latitude: 50.52971
 longitude: 8.41123
 postcode: "35606"
 city: Solms
-street: "Am Donnersgraben"
-housenumber: 4
-phone: "+49 6442 954 6673"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:30"
-website: "https://salon-bodemer.de"
+street: Am Donnersgraben
+housenumber: "4"
+phone: +49 6442 954 6673
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:30
+website: https://salon-bodemer.de

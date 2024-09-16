@@ -4,8 +4,8 @@ latitude: 50.08343
 longitude: 8.22713
 postcode: "65195"
 city: Wiesbaden
-street: "Bülowstraße"
-housenumber: 2
+street: Bülowstraße
+housenumber: "2"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

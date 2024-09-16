@@ -1,11 +1,11 @@
 id: 294601824
-type: way
+type: node
 latitude: 50.62018
 longitude: 8.75416
 postcode: "35418"
 city: Buseck
-street: "Hofburgstraße"
-housenumber: 12
+street: Hofburgstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

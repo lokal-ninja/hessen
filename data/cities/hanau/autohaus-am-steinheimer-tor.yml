@@ -1,11 +1,11 @@
 id: 220880434
-type: way
+type: node
 latitude: 50.1289
 longitude: 8.91448
 postcode: "63450"
 city: Hanau
-street: "Am Steinheimer Tor"
-housenumber: 4
+street: Am Steinheimer Tor
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 426969472
-type: way
+type: node
 latitude: 50.0105
 longitude: 8.43852
 postcode: "65479"
 city: Raunheim
-street: "Anton-Flettner-Straße"
-housenumber: 22
+street: Anton-Flettner-Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
-website: "https://jysk.de/"
+website: https://jysk.de/

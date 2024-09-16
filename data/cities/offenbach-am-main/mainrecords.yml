@@ -1,11 +1,11 @@
 id: 55146158
-type: way
+type: node
 latitude: 50.10257
 longitude: 8.77458
 postcode: "63065"
 city: Offenbach am Main
-street: "Bieberer Straße"
-housenumber: 63
+street: Bieberer Straße
+housenumber: "63"
 phone: ""
 opening_hours: ""
-website: "https://www.mainrecords.net"
+website: https://www.mainrecords.net

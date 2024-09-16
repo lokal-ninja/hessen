@@ -1,11 +1,11 @@
 id: 230118385
-type: way
+type: node
 latitude: 49.86937
 longitude: 8.91973
 postcode: "64823"
 city: Groß-Umstadt
-street: "Georg-August-Zinn-Straße"
-housenumber: 74
+street: Georg-August-Zinn-Straße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

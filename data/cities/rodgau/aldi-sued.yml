@@ -1,11 +1,11 @@
 id: 45102018
-type: way
+type: node
 latitude: 49.99144
 longitude: 8.86155
 postcode: "63110"
 city: Rodgau
-street: "Borsigstraße"
-housenumber: 54
+street: Borsigstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/hessen/nieder-roden/borsigstrasse-52"
+opening_hours: Mo-sa 08:00-20:00
+website: https://filialen.aldi-sued.de/hessen/nieder-roden/borsigstrasse-52

@@ -4,8 +4,8 @@ latitude: 51.32603
 longitude: 9.50396
 postcode: "34127"
 city: Kassel
-street: "Gottschalkstraße"
-housenumber: 32
-phone: "+49 561 50615896"
-opening_hours: "Mo-Fr 13:00-18:00"
+street: Gottschalkstraße
+housenumber: "32"
+phone: +49 561 50615896
+opening_hours: Mo-Fr 13:00-18:00
 website: ""

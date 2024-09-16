@@ -1,11 +1,11 @@
 id: 117966108
-type: way
+type: node
 latitude: 49.67174
 longitude: 9.00008
 postcode: "64720"
 city: Michelstadt
-street: "Rumillystraße"
-housenumber: 56
-phone: "+49 6061 70070"
-opening_hours: "Mo-Th 06:00-09:00,16:00-19:00; Fr 06:00-09:00,15:00-18:00"
-website: "http://www.unibon-gmbh.de/"
+street: Rumillystraße
+housenumber: "56"
+phone: +49 6061 70070
+opening_hours: Mo-Th 06:00-09:00,16:00-19:00; Fr 06:00-09:00,15:00-18:00
+website: http://www.unibon-gmbh.de/

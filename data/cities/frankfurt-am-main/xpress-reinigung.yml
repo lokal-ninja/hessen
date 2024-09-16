@@ -4,8 +4,8 @@ latitude: 50.1219
 longitude: 8.69013
 postcode: "60318"
 city: Frankfurt am Main
-street: "Scheffelstraße"
-housenumber: 30
+street: Scheffelstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00, Sa 09:00-15:00"
+opening_hours: Mo-Fr 08:30-19:00, Sa 09:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 27133031
-type: way
+type: node
 latitude: 49.69916
 longitude: 8.62083
 postcode: "64625"
 city: Bensheim
-street: "Darmstädter Straße"
-housenumber: 160
+street: Darmstädter Straße
+housenumber: "160"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

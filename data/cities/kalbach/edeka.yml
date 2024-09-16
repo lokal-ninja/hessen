@@ -4,8 +4,8 @@ latitude: 50.43007
 longitude: 9.64153
 postcode: "36148"
 city: Kalbach
-street: "Gewerbestraße"
-housenumber: 1
-phone: "+49 6655 9110614"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de/"
+street: Gewerbestraße
+housenumber: "1"
+phone: +49 6655 9110614
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de/

@@ -1,11 +1,11 @@
 id: 89505031
-type: way
+type: node
 latitude: 50.16853
 longitude: 8.01439
 postcode: "65321"
 city: Heidenrod
-street: "Auf dem Pohl"
-housenumber: 2
+street: Auf dem Pohl
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

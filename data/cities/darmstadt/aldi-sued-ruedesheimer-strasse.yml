@@ -1,11 +1,11 @@
 id: 28232052
-type: way
+type: node
 latitude: 49.85195
 longitude: 8.64391
 postcode: "64285"
 city: Darmstadt
-street: "Rüdesheimer Straße"
+street: Rüdesheimer Straße
 housenumber: 123 d
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

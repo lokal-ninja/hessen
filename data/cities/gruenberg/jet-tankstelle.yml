@@ -1,11 +1,11 @@
 id: 94985335
-type: way
+type: node
 latitude: 50.59389
 longitude: 8.95619
 postcode: "35305"
 city: Grünberg
-street: "Gießener Straße"
+street: Gießener Straße
 housenumber: 17-19
-phone: "+49 6401 903122"
-opening_hours: "Mo-Fr 05:00-23:00; Sa 06:00-23:00; Su 08:00-23:00"
-website: "https://www.jet-tankstellen.de/tankstellen/tankstellennetz/?ort=&plz=35305&vorwahl=&x=0&y=0"
+phone: +49 6401 903122
+opening_hours: Mo-Fr 05:00-23:00; Sa 06:00-23:00; Su 08:00-23:00
+website: https://www.jet-tankstellen.de/tankstellen/tankstellennetz/?ort=&plz=35305&vorwahl=&x=0&y=0

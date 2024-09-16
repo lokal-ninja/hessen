@@ -1,11 +1,11 @@
 id: 119032695
-type: way
+type: node
 latitude: 50.12123
 longitude: 8.867
 postcode: "63165"
 city: Mühlheim am Main
-street: "Hegelstraße"
-housenumber: 6
+street: Hegelstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

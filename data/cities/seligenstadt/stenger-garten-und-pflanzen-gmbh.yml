@@ -1,11 +1,11 @@
 id: 253911175
-type: way
+type: node
 latitude: 50.03112
 longitude: 8.95015
 postcode: "63500"
 city: Seligenstadt
-street: "Goldbergweg"
-housenumber: 1
-phone: "+49 6182 / 92 34-0"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:30; Su 10:00-12:00"
-website: "http://www.stenger-garten.de/"
+street: Goldbergweg
+housenumber: "1"
+phone: +49 6182 / 92 34-0
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:30; Su 10:00-12:00
+website: http://www.stenger-garten.de/

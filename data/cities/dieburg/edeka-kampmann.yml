@@ -1,11 +1,11 @@
 id: 568649044
-type: way
+type: node
 latitude: 49.89769
 longitude: 8.84913
 postcode: "64807"
 city: Dieburg
-street: "Groß-Umstädter Straße"
-housenumber: 21
-phone: "+49 6071 928050"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka-kampmann.de/"
+street: Groß-Umstädter Straße
+housenumber: "21"
+phone: +49 6071 928050
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka-kampmann.de/

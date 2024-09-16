@@ -4,8 +4,8 @@ latitude: 51.31643
 longitude: 9.43897
 postcode: "34131"
 city: Kassel
-street: "Kirchditmolder Straße"
-housenumber: 13
+street: Kirchditmolder Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Fr 11:00-14:00; Mo-Th 14:00-17:00"
-website: "https://www.killefittundschnack.de/"
+opening_hours: Fr 11:00-14:00; Mo-Th 14:00-17:00
+website: https://www.killefittundschnack.de/

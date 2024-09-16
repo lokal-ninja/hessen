@@ -1,11 +1,11 @@
 id: 171379595
-type: way
+type: node
 latitude: 50.42413
 longitude: 8.85701
 postcode: "61200"
 city: Wölfersheim
-street: "Industriestraße"
-housenumber: 14
+street: Industriestraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

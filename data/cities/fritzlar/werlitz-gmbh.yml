@@ -4,8 +4,8 @@ latitude: 51.13388
 longitude: 9.26915
 postcode: "34560"
 city: Fritzlar
-street: "Geismarstraße"
-housenumber: 15
+street: Geismarstraße
+housenumber: "15"
 phone: "+495622996990"
-opening_hours: "Mo-Tu 09:00-12:30; 13:30-17:00; Th-Fr 09:00-12:30; 13:30-17:00"
+opening_hours: Mo-Tu 09:00-12:30; 13:30-17:00; Th-Fr 09:00-12:30; 13:30-17:00
 website: ""

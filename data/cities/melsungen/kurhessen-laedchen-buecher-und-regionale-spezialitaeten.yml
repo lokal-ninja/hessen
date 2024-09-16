@@ -4,8 +4,8 @@ latitude: 51.13244
 longitude: 9.54233
 postcode: "34212"
 city: Melsungen
-street: "Kasseler Straße"
-housenumber: 26
+street: Kasseler Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.kurhessen-laedchen.com/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.kurhessen-laedchen.com/

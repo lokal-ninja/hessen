@@ -4,8 +4,8 @@ latitude: 51.34987
 longitude: 9.85056
 postcode: "37213"
 city: Witzenhausen
-street: "Bischhäuser Aue"
-housenumber: 
+street: Bischhäuser Aue
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "https://www.baeckerei-apel.de/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
+website: https://www.baeckerei-apel.de/

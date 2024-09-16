@@ -4,8 +4,8 @@ latitude: 50.08747
 longitude: 8.5823
 postcode: "60529"
 city: Frankfurt am Main
-street: "Martinskirchstraße"
-housenumber: 66
-phone: "+49 69 21003650"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Martinskirchstraße
+housenumber: "66"
+phone: +49 69 21003650
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

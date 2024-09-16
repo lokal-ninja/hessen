@@ -4,8 +4,8 @@ latitude: 50.10361
 longitude: 8.91804
 postcode: "63456"
 city: Hanau
-street: "Reitweg"
-housenumber: 7
+street: Reitweg
+housenumber: "7"
 phone: "+496181690607"
 opening_hours: ""
-website: "https://www.augenoptik-marsch.de/"
+website: https://www.augenoptik-marsch.de/

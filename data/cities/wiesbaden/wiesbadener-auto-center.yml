@@ -1,11 +1,11 @@
 id: 344585416
-type: way
+type: node
 latitude: 50.07644
 longitude: 8.21177
 postcode: "65197"
 city: Wiesbaden
-street: "Dotzheimer Straße"
-housenumber: 170
+street: Dotzheimer Straße
+housenumber: "170"
 phone: ""
 opening_hours: ""
 website: ""

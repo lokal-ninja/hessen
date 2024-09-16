@@ -1,11 +1,11 @@
 id: 335387902
-type: way
+type: node
 latitude: 50.08771
 longitude: 8.22101
 postcode: "65195"
 city: Wiesbaden
-street: "Aarstraße"
-housenumber: 31
+street: Aarstraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

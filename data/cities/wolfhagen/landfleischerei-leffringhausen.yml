@@ -4,8 +4,9 @@ latitude: 51.35839
 longitude: 9.13305
 postcode: "34466"
 city: Wolfhagen
-street: "Wolfhager Straße"
-housenumber: 29
-phone: "+49 5692 2478"
-opening_hours: "Tu-Fr 07:00-13:00, 15:00-18:00; Fr 13:00-15:00; Mo 07:00 - 13:00; Sa 07:00-13:00; PH off"
-website: "https://www.leffis.de/"
+street: Wolfhager Straße
+housenumber: "29"
+phone: +49 5692 2478
+opening_hours: Tu-Fr 07:00-13:00, 15:00-18:00; Fr 13:00-15:00; Mo 07:00 - 13:00; Sa
+    07:00-13:00; PH off
+website: https://www.leffis.de/

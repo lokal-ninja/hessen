@@ -4,8 +4,8 @@ latitude: 50.05753
 longitude: 8.24359
 postcode: "65187"
 city: Wiesbaden
-street: "Biebricher Allee"
-housenumber: 112
-phone: "+49 611 9851000"
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.rewe.de/marktseite/wiesbaden/240465/rewe-city-biebricher-allee-112/"
+street: Biebricher Allee
+housenumber: "112"
+phone: +49 611 9851000
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.rewe.de/marktseite/wiesbaden/240465/rewe-city-biebricher-allee-112/

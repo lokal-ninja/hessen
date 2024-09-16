@@ -1,11 +1,11 @@
 id: 910877441
-type: way
+type: node
 latitude: 49.86124
 longitude: 8.76368
 postcode: "64380"
 city: Roßdorf
-street: "Theodor-Clausen-Straße"
-housenumber: 10
+street: Theodor-Clausen-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.aldi-sued.de/hessen/rossdorf/theodor-clausen-strasse-10"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.aldi-sued.de/hessen/rossdorf/theodor-clausen-strasse-10

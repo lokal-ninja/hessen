@@ -4,8 +4,8 @@ latitude: 50.46623
 longitude: 9.70684
 postcode: "36124"
 city: Eichenzell
-street: "Hammelburger Straße"
-housenumber: 18
-phone: "+49 6659 919330"
-opening_hours: "Mo-Fr 05:00-12:30,14:30-18:00; Sa 05:00-12:30; So 08:00-11:00"
-website: "https://www.nahkauf-reith.de/"
+street: Hammelburger Straße
+housenumber: "18"
+phone: +49 6659 919330
+opening_hours: Mo-Fr 05:00-12:30,14:30-18:00; Sa 05:00-12:30; So 08:00-11:00
+website: https://www.nahkauf-reith.de/

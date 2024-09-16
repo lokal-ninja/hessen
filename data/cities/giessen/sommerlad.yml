@@ -1,11 +1,11 @@
 id: 38576724
-type: way
+type: node
 latitude: 50.56939
 longitude: 8.6883
 postcode: "35394"
 city: Gießen
-street: "Pistorstraße"
-housenumber: 2
-phone: "+49 (0) 641-7003-0"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.sommerlad.com/standorte/1-giessen/"
+street: Pistorstraße
+housenumber: "2"
+phone: +49 (0) 641-7003-0
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.sommerlad.com/standorte/1-giessen/

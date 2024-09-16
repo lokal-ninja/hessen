@@ -1,11 +1,11 @@
 id: 1213082235
-type: way
+type: node
 latitude: 50.19212
 longitude: 8.65819
 postcode: "60437"
 city: Frankfurt am Main
-street: "Genfer Straße"
-housenumber: 
+street: Genfer Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

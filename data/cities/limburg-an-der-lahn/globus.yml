@@ -1,11 +1,11 @@
 id: 228640871
-type: way
+type: node
 latitude: 50.39857
 longitude: 8.07387
 postcode: "65549"
 city: Limburg an der Lahn
-street: "Mundipharmastraße"
-housenumber: 1
-phone: "+49 6431 21200"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: Mundipharmastraße
+housenumber: "1"
+phone: +49 6431 21200
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 48520093
-type: way
+type: node
 latitude: 50.27135
 longitude: 8.64647
 postcode: "61381"
 city: Friedrichsdorf
-street: "Amselweg"
+street: Amselweg
 housenumber: 34-36
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.penny.de/

@@ -4,8 +4,8 @@ latitude: 50.08456
 longitude: 8.24209
 postcode: "65183"
 city: Wiesbaden
-street: "Webergasse"
-housenumber: 12
-phone: "+49 611 99028-0"
+street: Webergasse
+housenumber: "12"
+phone: +49 611 99028-0
 opening_hours: ""
-website: "https://www.ann-dessous.de"
+website: https://www.ann-dessous.de

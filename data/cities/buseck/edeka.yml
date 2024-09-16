@@ -1,11 +1,11 @@
 id: 144831890
-type: way
+type: node
 latitude: 50.60696
 longitude: 8.77786
 postcode: "35418"
 city: Buseck
-street: "Schützenweg"
-housenumber: 58
+street: Schützenweg
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

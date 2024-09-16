@@ -4,8 +4,8 @@ latitude: 50.42412
 longitude: 8.93791
 postcode: "63667"
 city: Nidda
-street: "Im Rohrfeld"
-housenumber: 12
-phone: "+49 6043 950116"
-opening_hours: "24/7"
-website: "https://cos-tech.net"
+street: Im Rohrfeld
+housenumber: "12"
+phone: +49 6043 950116
+opening_hours: 24/7
+website: https://cos-tech.net

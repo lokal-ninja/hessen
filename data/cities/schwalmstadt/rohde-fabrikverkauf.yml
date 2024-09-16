@@ -1,11 +1,11 @@
 id: 232152623
-type: way
+type: node
 latitude: 50.90535
 longitude: 9.22775
 postcode: ""
 city: Schwalmstadt
-street: "Erich-Rohde-Straße"
-housenumber: 18
+street: Erich-Rohde-Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

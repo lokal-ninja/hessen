@@ -1,11 +1,11 @@
 id: 1052346095
-type: way
+type: node
 latitude: 50.3557
 longitude: 9.53602
 postcode: "36381"
 city: Schlüchtern
-street: "Gartenstraße"
-housenumber: 31
+street: Gartenstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 48871051
-type: way
+type: node
 latitude: 50.2578
 longitude: 8.65596
 postcode: "61381"
 city: Friedrichsdorf
-street: "Max-Planck-Straße"
-housenumber: 1
-phone: "+49 6172 6819610"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/friedrichsdorf/"
+street: Max-Planck-Straße
+housenumber: "1"
+phone: +49 6172 6819610
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/friedrichsdorf/

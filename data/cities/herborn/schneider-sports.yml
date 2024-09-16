@@ -1,11 +1,11 @@
 id: 129951623
-type: way
+type: node
 latitude: 50.67263
 longitude: 8.30631
 postcode: "35745"
 city: Herborn
-street: "Konrad-Adenauer-Straße"
-housenumber: 64
-phone: "+49 2772 57280"
-opening_hours: "Mo, We-Fr 10:00-13:00, 14:00-18:30; Sa 09:00-14:00"
-website: "https://www.schneider-sports.de/"
+street: Konrad-Adenauer-Straße
+housenumber: "64"
+phone: +49 2772 57280
+opening_hours: Mo, We-Fr 10:00-13:00, 14:00-18:30; Sa 09:00-14:00
+website: https://www.schneider-sports.de/

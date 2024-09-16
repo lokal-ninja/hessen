@@ -4,8 +4,8 @@ latitude: 50.1429
 longitude: 8.57563
 postcode: "65760"
 city: Eschborn
-street: "Rödelheimer Straße"
-housenumber: 59
+street: Rödelheimer Straße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo,We-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00; Tu off"
+opening_hours: Mo,We-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00; Tu off
 website: ""

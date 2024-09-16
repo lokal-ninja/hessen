@@ -1,11 +1,11 @@
 id: 111334301
-type: way
+type: node
 latitude: 50.07452
 longitude: 8.21293
 postcode: "65197"
 city: Wiesbaden
-street: "Im Rad"
-housenumber: 38
+street: Im Rad
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

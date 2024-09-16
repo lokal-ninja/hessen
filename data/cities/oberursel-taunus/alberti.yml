@@ -1,11 +1,11 @@
 id: 724726440
-type: way
+type: node
 latitude: 50.19067
 longitude: 8.59559
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Frankfurter Landstraße"
-housenumber: 86
-phone: "+49 6171 50680"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-15:00"
+street: Frankfurter Landstraße
+housenumber: "86"
+phone: +49 6171 50680
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-15:00
 website: ""

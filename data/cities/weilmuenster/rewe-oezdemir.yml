@@ -1,11 +1,11 @@
 id: 150594252
-type: way
+type: node
 latitude: 50.43038
 longitude: 8.37704
 postcode: "35789"
 city: Weilmünster
-street: "Mühlweg"
-housenumber: 12
-phone: "+49 6472 91320"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Mühlweg
+housenumber: "12"
+phone: +49 6472 91320
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

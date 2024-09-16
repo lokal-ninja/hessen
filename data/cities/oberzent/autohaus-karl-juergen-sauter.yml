@@ -1,11 +1,11 @@
 id: 182569944
-type: way
+type: node
 latitude: 49.56102
 longitude: 8.96719
 postcode: "64760"
 city: Oberzent
-street: "Hirschhorner Straße"
-housenumber: 97
-phone: "+49 6068 3182"
+street: Hirschhorner Straße
+housenumber: "97"
+phone: +49 6068 3182
 opening_hours: ""
-website: "http://www.autohaus-sauter.net/"
+website: http://www.autohaus-sauter.net/

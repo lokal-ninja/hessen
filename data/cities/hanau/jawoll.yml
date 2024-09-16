@@ -1,11 +1,11 @@
 id: 199427085
-type: way
+type: node
 latitude: 50.11489
 longitude: 8.92847
 postcode: "63457"
 city: Hanau
-street: "Rodgaustraße"
-housenumber: 9
+street: Rodgaustraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

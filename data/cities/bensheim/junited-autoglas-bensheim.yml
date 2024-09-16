@@ -4,8 +4,8 @@ latitude: 49.67656
 longitude: 8.61427
 postcode: "64625"
 city: Bensheim
-street: "Wormser Straße"
-housenumber: 34
-phone: "+49 6251 39767"
-opening_hours: "Mo-Th 07:30-18:00; Fr 07:30-17:00"
-website: "https://rss-autoglas.de/"
+street: Wormser Straße
+housenumber: "34"
+phone: +49 6251 39767
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-17:00
+website: https://rss-autoglas.de/

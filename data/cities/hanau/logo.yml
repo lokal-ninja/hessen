@@ -4,8 +4,8 @@ latitude: 50.14275
 longitude: 8.94001
 postcode: "63452"
 city: Hanau
-street: "Lamboystraße"
-housenumber: 62
+street: Lamboystraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.logo-getraenke.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.logo-getraenke.de/

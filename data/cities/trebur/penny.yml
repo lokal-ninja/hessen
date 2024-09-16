@@ -1,11 +1,11 @@
 id: 192231602
-type: way
+type: node
 latitude: 49.93086
 longitude: 8.40786
 postcode: "65468"
 city: Trebur
-street: "Vordere Oderstraße"
-housenumber: 1
+street: Vordere Oderstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

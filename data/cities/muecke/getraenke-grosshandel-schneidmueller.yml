@@ -1,11 +1,11 @@
 id: 226557247
-type: way
+type: node
 latitude: 50.64427
 longitude: 9.03077
 postcode: "35325"
 city: Mücke
-street: "Merlauer Straße"
-housenumber: 19
+street: Merlauer Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

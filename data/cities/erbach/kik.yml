@@ -1,11 +1,11 @@
 id: 27190921
-type: way
+type: node
 latitude: 49.66499
 longitude: 9.00854
 postcode: "64711"
 city: Erbach
-street: "Stockheimer Ring"
-housenumber: 20
+street: Stockheimer Ring
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.kik.de/"
+website: https://www.kik.de/

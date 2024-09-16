@@ -4,8 +4,8 @@ latitude: 50.5549
 longitude: 8.50015
 postcode: "35578"
 city: Wetzlar
-street: "Lahnstraße"
-housenumber: 23
-phone: "+49 172 1010 272"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://www.julias-schmuckdesign.de/"
+street: Lahnstraße
+housenumber: "23"
+phone: +49 172 1010 272
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://www.julias-schmuckdesign.de/

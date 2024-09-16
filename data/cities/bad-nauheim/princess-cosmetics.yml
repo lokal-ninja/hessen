@@ -4,8 +4,8 @@ latitude: 50.38373
 longitude: 8.71843
 postcode: "61231"
 city: Bad Nauheim
-street: "Luise-Frey-Straße"
-housenumber: 8
+street: Luise-Frey-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.princess-cosmetics.de/"
+opening_hours: '"by appointment"'
+website: https://www.princess-cosmetics.de/

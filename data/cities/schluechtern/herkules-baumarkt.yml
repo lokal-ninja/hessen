@@ -1,11 +1,11 @@
 id: 158903770
-type: way
+type: node
 latitude: 50.35718
 longitude: 9.53453
 postcode: "36381"
 city: Schlüchtern
-street: "Kurfürstenstraße"
-housenumber: 38
-phone: "+49 6661 74710"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Kurfürstenstraße
+housenumber: "38"
+phone: +49 6661 74710
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

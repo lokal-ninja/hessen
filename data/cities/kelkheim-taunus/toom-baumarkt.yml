@@ -1,11 +1,11 @@
 id: 48402144
-type: way
+type: node
 latitude: 50.11972
 longitude: 8.46899
 postcode: "65779"
 city: Kelkheim (Taunus)
-street: "Lise-Meitner-Straße"
-housenumber: 2
-phone: "+49 6195 673410"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Lise-Meitner-Straße
+housenumber: "2"
+phone: +49 6195 673410
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

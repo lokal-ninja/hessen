@@ -1,11 +1,11 @@
 id: 573919866
-type: way
+type: node
 latitude: 50.39551
 longitude: 8.75962
 postcode: "61231"
 city: Bad Nauheim
-street: "Am Dorngraben"
-housenumber: 40
+street: Am Dorngraben
+housenumber: "40"
 phone: ""
 opening_hours: ""
 website: ""

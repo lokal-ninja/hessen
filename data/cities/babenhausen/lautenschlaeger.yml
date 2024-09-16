@@ -4,8 +4,8 @@ latitude: 49.96705
 longitude: 8.95048
 postcode: "64832"
 city: Babenhausen
-street: "Seligenstädter Straße"
-housenumber: 14
-phone: "+49 6073 5569"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-16:30; PH,Su 07:30-16:30"
-website: "http://www.lautenschlaeger-baeckerei.de"
+street: Seligenstädter Straße
+housenumber: "14"
+phone: +49 6073 5569
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-16:30; PH,Su 07:30-16:30
+website: http://www.lautenschlaeger-baeckerei.de

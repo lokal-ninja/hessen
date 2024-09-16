@@ -4,8 +4,8 @@ latitude: 50.64151
 longitude: 10.02245
 postcode: ""
 city: Tann (Rhön)
-street: "Marktplatz"
-housenumber: 12
-phone: "+49 6682 244"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-13:00; Su, PH off"
-website: "https://www.zum-zobel.de/metzgerei"
+street: Marktplatz
+housenumber: "12"
+phone: +49 6682 244
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:00-13:00; Su, PH off
+website: https://www.zum-zobel.de/metzgerei

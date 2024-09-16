@@ -1,11 +1,11 @@
 id: 265505156
-type: way
+type: node
 latitude: 50.76629
 longitude: 8.89555
 postcode: "35287"
 city: Amöneburg
-street: "Waldstraße"
-housenumber: 2
+street: Waldstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 07:30-16:30; Fr 07:30-15:30; Sa 10:00-14:00; PH off"
-website: "https://www.ried-landtechnik.de/"
+opening_hours: Mo-Th 07:30-16:30; Fr 07:30-15:30; Sa 10:00-14:00; PH off
+website: https://www.ried-landtechnik.de/

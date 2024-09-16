@@ -4,8 +4,8 @@ latitude: 50.59051
 longitude: 9.54019
 postcode: "36137"
 city: Großenlüder
-street: "Lauterbacher Straße"
-housenumber: 12
-phone: "+49 6648 620234"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-16:00; Su 07:00-11:00"
-website: "http://www.baecker-happ.de/"
+street: Lauterbacher Straße
+housenumber: "12"
+phone: +49 6648 620234
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-16:00; Su 07:00-11:00
+website: http://www.baecker-happ.de/

@@ -1,11 +1,11 @@
 id: 369803280
-type: way
+type: node
 latitude: 49.90501
 longitude: 8.84702
 postcode: ""
 city: Dieburg
-street: "Lagerstraße"
-housenumber: 1
+street: Lagerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 751010338
-type: way
+type: node
 latitude: 49.63479
 longitude: 8.83178
 postcode: "64689"
 city: Grasellenbach
-street: "Schulstraße"
-housenumber: 6
+street: Schulstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://buecherbaer.com/"
+website: https://buecherbaer.com/

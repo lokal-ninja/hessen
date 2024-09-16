@@ -1,11 +1,11 @@
 id: 311388779
-type: way
+type: node
 latitude: 50.62233
 longitude: 9.72344
 postcode: "36100"
 city: Petersberg
-street: "Julius-Braun-Straße"
-housenumber: 9
+street: Julius-Braun-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "We,Fr 15:00-19:00; Sa 11:00-18:00"
-website: "http://trollbox.de"
+opening_hours: We,Fr 15:00-19:00; Sa 11:00-18:00
+website: http://trollbox.de

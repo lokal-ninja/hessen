@@ -1,11 +1,11 @@
 id: 115497242
-type: way
+type: node
 latitude: 49.6713
 longitude: 8.60978
 postcode: "64625"
 city: Bensheim
-street: "Rheinstraße"
-housenumber: 36
+street: Rheinstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://hausgeraete-pflaesterer.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://hausgeraete-pflaesterer.de/

@@ -4,8 +4,8 @@ latitude: 50.54295
 longitude: 8.40968
 postcode: "35606"
 city: Solms
-street: "Solmser Gewerbepark"
-housenumber: 1
-phone: "+49 6442 23418"
-opening_hours: "Tu, We, Fr 9:00-18:30; Th 9:00-22:00, Sa 8:00-13:00"
-website: "https://www.herget-muth.de/"
+street: Solmser Gewerbepark
+housenumber: "1"
+phone: +49 6442 23418
+opening_hours: Tu, We, Fr 9:00-18:30; Th 9:00-22:00, Sa 8:00-13:00
+website: https://www.herget-muth.de/

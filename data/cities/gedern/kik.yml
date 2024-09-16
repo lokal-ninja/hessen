@@ -1,11 +1,11 @@
 id: 181346380
-type: way
+type: node
 latitude: 50.41779
 longitude: 9.19059
 postcode: ""
 city: Gedern
-street: "Am Alten Bahnhof"
-housenumber: 22
+street: Am Alten Bahnhof
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

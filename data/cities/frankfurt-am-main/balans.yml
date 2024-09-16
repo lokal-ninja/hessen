@@ -4,8 +4,8 @@ latitude: 50.11812
 longitude: 8.68552
 postcode: "60313"
 city: Frankfurt am Main
-street: "Bleichstraße"
-housenumber: 17
-phone: "+49-69-13379668"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.balans-online.de/"
+street: Bleichstraße
+housenumber: "17"
+phone: +49-69-13379668
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.balans-online.de/

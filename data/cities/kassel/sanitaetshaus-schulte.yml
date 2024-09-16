@@ -4,8 +4,8 @@ latitude: 51.31353
 longitude: 9.48217
 postcode: "34117"
 city: Kassel
-street: "Königstor"
-housenumber: 42
-phone: "+49 561 13382"
-opening_hours: "Mo-Fr 08:00-18:00"
+street: Königstor
+housenumber: "42"
+phone: +49 561 13382
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 133439089
-type: way
+type: node
 latitude: 51.05837
 longitude: 9.18189
 postcode: "34596"
 city: Bad Zwesten
-street: "Kasseler Straße"
-housenumber: 26
+street: Kasseler Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.rewe.de/marktseite/bad-zwesten/1465519/rewe-markt-kasseler-str-26/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.rewe.de/marktseite/bad-zwesten/1465519/rewe-markt-kasseler-str-26/

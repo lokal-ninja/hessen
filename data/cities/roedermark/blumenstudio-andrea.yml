@@ -1,11 +1,11 @@
 id: 101549915
-type: way
+type: node
 latitude: 49.97895
 longitude: 8.8272
 postcode: "63322"
 city: Rödermark
-street: "Pfarrgasse"
-housenumber: 2
+street: Pfarrgasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 38623996
-type: way
+type: node
 latitude: 51.103
 longitude: 9.34787
 postcode: "34590"
 city: Wabern
-street: "Landgrafenstraße"
-housenumber: 2
-phone: "+49 5683 342"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.edeka.de/eh/hessenring/hans-pollmer-landgrafenstr.-2/"
+street: Landgrafenstraße
+housenumber: "2"
+phone: +49 5683 342
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.edeka.de/eh/hessenring/hans-pollmer-landgrafenstr.-2/

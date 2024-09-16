@@ -1,11 +1,11 @@
 id: 177902547
-type: way
+type: node
 latitude: 49.66732
 longitude: 8.99114
 postcode: "64711"
 city: Erbach
-street: "Carl-Benz-Straße"
-housenumber: 5
+street: Carl-Benz-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1030488499
-type: way
+type: node
 latitude: 50.37717
 longitude: 8.69366
 postcode: ""
 city: Ober-Mörlen
-street: "Frankfurter Straße"
-housenumber: 45
+street: Frankfurter Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

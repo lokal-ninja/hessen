@@ -1,11 +1,11 @@
 id: 200082299
-type: way
+type: node
 latitude: 50.08235
 longitude: 8.74882
 postcode: "63069"
 city: Offenbach am Main
-street: "Schumannstraße"
-housenumber: 146
+street: Schumannstraße
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

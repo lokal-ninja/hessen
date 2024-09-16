@@ -1,11 +1,11 @@
 id: 87975763
-type: way
+type: node
 latitude: 50.13582
 longitude: 8.83169
 postcode: "63477"
 city: Maintal
-street: "Bonhoefferstraße"
-housenumber: 38
+street: Bonhoefferstraße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

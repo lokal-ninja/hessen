@@ -4,8 +4,8 @@ latitude: 51.31445
 longitude: 9.49153
 postcode: "34117"
 city: Kassel
-street: "Wolfsschlucht"
-housenumber: 5
+street: Wolfsschlucht
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "https://k.polizei.hessen.de/949544233"
+opening_hours: Mo-Fr 10:00-16:00
+website: https://k.polizei.hessen.de/949544233

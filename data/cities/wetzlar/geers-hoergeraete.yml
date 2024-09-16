@@ -4,8 +4,8 @@ latitude: 50.55504
 longitude: 8.49974
 postcode: "35578"
 city: Wetzlar
-street: "Lahnstraße"
-housenumber: 27
-phone: "+49 800 6667777"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://standorte.geers.de/wetzlar/lahnstrasse-27.html"
+street: Lahnstraße
+housenumber: "27"
+phone: +49 800 6667777
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://standorte.geers.de/wetzlar/lahnstrasse-27.html

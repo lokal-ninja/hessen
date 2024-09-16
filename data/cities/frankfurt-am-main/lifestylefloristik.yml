@@ -4,8 +4,8 @@ latitude: 50.08309
 longitude: 8.57841
 postcode: "60529"
 city: Frankfurt am Main
-street: "Saarbrücker Straße"
-housenumber: 14
+street: Saarbrücker Straße
+housenumber: "14"
 phone: "+496966160004"
-opening_hours: "Mo-Sa 09:00-13:00; Mo,Tu,Th-Sa 15:00-18:00"
-website: "http://www.lifestyle-floristik.de"
+opening_hours: Mo-Sa 09:00-13:00; Mo,Tu,Th-Sa 15:00-18:00
+website: http://www.lifestyle-floristik.de

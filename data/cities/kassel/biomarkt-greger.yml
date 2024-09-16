@@ -4,8 +4,8 @@ latitude: 51.31352
 longitude: 9.44126
 postcode: "34131"
 city: Kassel
-street: "Wilhelmshöher Allee"
-housenumber: 275
-phone: "+49 561 35200"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 08:00-14:00"
-website: "https://www.biomarktgreger.de/"
+street: Wilhelmshöher Allee
+housenumber: "275"
+phone: +49 561 35200
+opening_hours: Mo-Fr 09:00-19:00;Sa 08:00-14:00
+website: https://www.biomarktgreger.de/

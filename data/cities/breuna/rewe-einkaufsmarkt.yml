@@ -1,11 +1,11 @@
 id: 1181960058
-type: way
+type: node
 latitude: 51.41219
 longitude: 9.18261
 postcode: "34479"
 city: Breuna
-street: "Wolfhager Straße"
-housenumber: 25
+street: Wolfhager Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00"
-website: "https://www.rewe.de/marktseite/breuna/4033723/rewe-markt-wolfhager-strasse-25-31/"
+opening_hours: Mo-Sa 06:00-21:00
+website: https://www.rewe.de/marktseite/breuna/4033723/rewe-markt-wolfhager-strasse-25-31/

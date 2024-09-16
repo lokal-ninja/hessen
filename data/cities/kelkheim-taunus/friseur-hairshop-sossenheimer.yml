@@ -4,8 +4,8 @@ latitude: 50.13609
 longitude: 8.44997
 postcode: "65779"
 city: Kelkheim (Taunus)
-street: "Mittelweg"
-housenumber: 1
-phone: "+49 6195 5155"
-opening_hours: "Tu 08:30-20:00; We-Fr 08:30-18:30; Sa 08:00-13:30"
-website: "https://www.hairshop-sossenheimer.de/"
+street: Mittelweg
+housenumber: "1"
+phone: +49 6195 5155
+opening_hours: Tu 08:30-20:00; We-Fr 08:30-18:30; Sa 08:00-13:30
+website: https://www.hairshop-sossenheimer.de/

@@ -4,8 +4,8 @@ latitude: 49.99528
 longitude: 8.41288
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Frankfurter Straße"
-housenumber: 2
-phone: "+49 6142 82123"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; PH off"
-website: "https://www.hoergeraete-becker.de/"
+street: Frankfurter Straße
+housenumber: "2"
+phone: +49 6142 82123
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; PH off
+website: https://www.hoergeraete-becker.de/

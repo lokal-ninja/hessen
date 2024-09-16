@@ -4,8 +4,8 @@ latitude: 50.07701
 longitude: 8.47099
 postcode: "65830"
 city: Kriftel
-street: "Gutenbergstraße"
-housenumber: 1
-phone: "+49 6192 9626290"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://www.jysk.de/"
+street: Gutenbergstraße
+housenumber: "1"
+phone: +49 6192 9626290
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://www.jysk.de/

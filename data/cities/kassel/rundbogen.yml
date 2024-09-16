@@ -4,8 +4,8 @@ latitude: 51.31619
 longitude: 9.50236
 postcode: "34117"
 city: Kassel
-street: "Die Freiheit"
-housenumber: 6
-phone: "+49 561 780764"
-opening_hours: "Mo-Fr 12:00-17:00; Sa 11:00-14:00"
-website: "https://www.rundbogen.net/"
+street: Die Freiheit
+housenumber: "6"
+phone: +49 561 780764
+opening_hours: Mo-Fr 12:00-17:00; Sa 11:00-14:00
+website: https://www.rundbogen.net/

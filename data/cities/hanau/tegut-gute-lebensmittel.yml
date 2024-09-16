@@ -1,11 +1,11 @@
 id: 28920776
-type: way
+type: node
 latitude: 50.14879
 longitude: 8.90752
 postcode: "63452"
 city: Hanau
-street: "Heldenbergener Straße"
-housenumber: 4
-phone: "+49 6181 5799690"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-hanau-heldenbergener-str-4.html"
+street: Heldenbergener Straße
+housenumber: "4"
+phone: +49 6181 5799690
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.tegut.com/maerkte/markt/tegut-hanau-heldenbergener-str-4.html

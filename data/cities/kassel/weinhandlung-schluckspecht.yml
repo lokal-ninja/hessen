@@ -4,8 +4,8 @@ latitude: 51.27898
 longitude: 9.45366
 postcode: "34132"
 city: Kassel
-street: "Oberzwehrener Straße"
-housenumber: 26
-phone: "+49 561 50397202"
-opening_hours: "Tu-Fr 15:00-18:30;Sa 10:00-14:00"
-website: "https://www.schluckspecht.de/"
+street: Oberzwehrener Straße
+housenumber: "26"
+phone: +49 561 50397202
+opening_hours: Tu-Fr 15:00-18:30;Sa 10:00-14:00
+website: https://www.schluckspecht.de/

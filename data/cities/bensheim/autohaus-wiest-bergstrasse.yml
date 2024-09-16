@@ -1,11 +1,11 @@
 id: 114813054
-type: way
+type: node
 latitude: 49.67824
 longitude: 8.59743
 postcode: "64625"
 city: Bensheim
-street: "Robert-Bosch-Straße"
+street: Robert-Bosch-Straße
 housenumber: 17,19
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 09:00-13:00"
-website: "https://www.wiest-autohaeuser.de/"
+opening_hours: Mo-Fr 07:00-18:30; Sa 09:00-13:00
+website: https://www.wiest-autohaeuser.de/

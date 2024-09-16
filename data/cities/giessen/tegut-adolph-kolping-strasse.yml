@@ -1,11 +1,11 @@
 id: 41817813
-type: way
+type: node
 latitude: 50.56515
 longitude: 8.66151
 postcode: "35392"
 city: Gießen
-street: "Adolph-Kolping-Straße"
-housenumber: 9
+street: Adolph-Kolping-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

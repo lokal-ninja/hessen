@@ -1,11 +1,11 @@
 id: 237980536
-type: way
+type: node
 latitude: 50.5219
 longitude: 9.33301
 postcode: "36355"
 city: Grebenhain
-street: "Herbsteiner Straße"
-housenumber: 9
+street: Herbsteiner Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

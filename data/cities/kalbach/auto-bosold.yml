@@ -1,11 +1,11 @@
 id: 211738740
-type: way
+type: node
 latitude: 50.42757
 longitude: 9.64355
 postcode: "36148"
 city: Kalbach
-street: "Gewerbestraße"
-housenumber: 10
+street: Gewerbestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

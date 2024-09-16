@@ -1,11 +1,11 @@
 id: 45479920
-type: way
+type: node
 latitude: 49.68008
 longitude: 8.62244
 postcode: "64625"
 city: Bensheim
-street: "Hauptstraße"
-housenumber: 56
-phone: "+49 62514006"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.kaufhaus-ganz.de/"
+street: Hauptstraße
+housenumber: "56"
+phone: +49 62514006
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.kaufhaus-ganz.de/

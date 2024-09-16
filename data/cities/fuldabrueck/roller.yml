@@ -1,11 +1,11 @@
 id: 124905391
-type: way
+type: node
 latitude: 51.27337
 longitude: 9.49794
 postcode: "34277"
 city: Fuldabrück
-street: "Ostring"
+street: Ostring
 housenumber: 42-44
-phone: "+49 561 948700"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-19:00"
-website: "https://www.roller.de/"
+phone: +49 561 948700
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-19:00
+website: https://www.roller.de/

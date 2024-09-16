@@ -4,8 +4,8 @@ latitude: 49.8199
 longitude: 8.64436
 postcode: "64297"
 city: Darmstadt
-street: "Heidelberger Landstraße"
-housenumber: 194
-phone: "+49 6151 57326"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 09:00-14:00"
-website: "https://www.sport-mroczek.de/"
+street: Heidelberger Landstraße
+housenumber: "194"
+phone: +49 6151 57326
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-14:00
+website: https://www.sport-mroczek.de/

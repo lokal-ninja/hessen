@@ -4,8 +4,8 @@ latitude: 51.41202
 longitude: 9.11996
 postcode: "34471"
 city: Volkmarsen
-street: "Gerichtsstraße"
-housenumber: 11
+street: Gerichtsstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
-website: "https://www.baeckerei-apel.de/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00
+website: https://www.baeckerei-apel.de/

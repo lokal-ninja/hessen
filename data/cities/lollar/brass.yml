@@ -1,11 +1,11 @@
 id: 97416346
-type: way
+type: node
 latitude: 50.64087
 longitude: 8.70327
 postcode: "35457"
 city: Lollar
-street: "Pfingstweide"
-housenumber: 16
+street: Pfingstweide
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

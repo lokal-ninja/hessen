@@ -4,8 +4,8 @@ latitude: 50.12653
 longitude: 8.69175
 postcode: "60318"
 city: Frankfurt am Main
-street: "Friedberger Landstraße"
-housenumber: 111
-phone: "+49 69 591304"
-opening_hours: "Mo off; Tu-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://haarmonie-ffm.de/"
+street: Friedberger Landstraße
+housenumber: "111"
+phone: +49 69 591304
+opening_hours: Mo off; Tu-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://haarmonie-ffm.de/

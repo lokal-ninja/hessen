@@ -1,11 +1,11 @@
 id: 37703441
-type: way
+type: node
 latitude: 49.82894
 longitude: 8.73577
 postcode: "64372"
 city: Ober-Ramstadt
-street: "Nieder-Ramstädter Straße"
-housenumber: 68
+street: Nieder-Ramstädter Straße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

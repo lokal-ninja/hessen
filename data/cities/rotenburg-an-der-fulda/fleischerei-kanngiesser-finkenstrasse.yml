@@ -4,8 +4,8 @@ latitude: 50.98979
 longitude: 9.73716
 postcode: "36199"
 city: Rotenburg an der Fulda
-street: "Finkenstraße"
-housenumber: 2
-phone: "+49 6623 1538"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "http://www.fleischerei-kanngiesser.de/"
+street: Finkenstraße
+housenumber: "2"
+phone: +49 6623 1538
+opening_hours: Mo-Sa 08:00-18:00
+website: http://www.fleischerei-kanngiesser.de/

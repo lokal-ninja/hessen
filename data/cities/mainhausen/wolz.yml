@@ -1,11 +1,11 @@
 id: 123518480
-type: way
+type: node
 latitude: 50.03039
 longitude: 9.02584
 postcode: "63533"
 city: Mainhausen
-street: "Brüder-Grimm-Straße"
-housenumber: 28
+street: Brüder-Grimm-Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-12:00; Su 08:00-11:00; PH 08:00-11:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-12:00; Su 08:00-11:00; PH 08:00-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 116462195
-type: way
+type: node
 latitude: 50.04441
 longitude: 7.8049
 postcode: "65391"
 city: Lorch
-street: "Römerberg"
-housenumber: 6
-phone: "+49 6726 581439"
+street: Römerberg
+housenumber: "6"
+phone: +49 6726 581439
 opening_hours: ""
-website: "https://www.kalbacho.de/"
+website: https://www.kalbacho.de/

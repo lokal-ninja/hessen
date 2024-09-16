@@ -1,11 +1,11 @@
 id: 198680528
-type: way
+type: node
 latitude: 50.11751
 longitude: 8.90043
 postcode: "63456"
 city: Hanau
-street: "Pfaffenbrunnenstraße"
-housenumber: 120
-phone: "+49 6181 964130"
-opening_hours: "Mo-Sa 07:30 - 18:00"
-website: "https://schlichting-automobile.de/"
+street: Pfaffenbrunnenstraße
+housenumber: "120"
+phone: +49 6181 964130
+opening_hours: Mo-Sa 07:30 - 18:00
+website: https://schlichting-automobile.de/

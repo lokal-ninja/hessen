@@ -1,11 +1,11 @@
 id: 1028408862
-type: way
+type: node
 latitude: 50.23225
 longitude: 9.34313
 postcode: "63619"
 city: Bad Orb
-street: "Gewerbestraße"
-housenumber: 4
+street: Gewerbestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-17:00; Su 07:00-17:00"
-website: "https://baecker-happ.de/fachgeschaefte#bad-orb-2"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-17:00; Su 07:00-17:00
+website: https://baecker-happ.de/fachgeschaefte#bad-orb-2

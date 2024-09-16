@@ -1,11 +1,11 @@
 id: 322944000
-type: way
+type: node
 latitude: 50.32751
 longitude: 8.75141
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Im Krämer"
-housenumber: 7
+street: Im Krämer
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; We off"
+opening_hours: Mo-Sa 08:00-22:00; We off
 website: ""

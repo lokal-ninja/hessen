@@ -1,11 +1,11 @@
 id: 176698671
-type: way
+type: node
 latitude: 49.66934
 longitude: 8.99704
 postcode: "64711"
 city: Erbach
-street: "Werner-von-Siemens-Straße"
-housenumber: 102
-phone: "+49 6062 955700"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: Werner-von-Siemens-Straße
+housenumber: "102"
+phone: +49 6062 955700
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

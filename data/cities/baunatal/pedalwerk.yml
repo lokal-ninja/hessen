@@ -4,8 +4,8 @@ latitude: 51.26177
 longitude: 9.39884
 postcode: "34225"
 city: Baunatal
-street: "Wilhelmshöher Straße"
-housenumber: 9
-phone: "+49-561-95318078"
-opening_hours: "Tu-Fr 10:00-18:00; Sa 10:00-14:00; Mar-Sep: Mo 10:00-18:00"
-website: "https://www.pedalwerk.de/"
+street: Wilhelmshöher Straße
+housenumber: "9"
+phone: +49-561-95318078
+opening_hours: 'Tu-Fr 10:00-18:00; Sa 10:00-14:00; Mar-Sep: Mo 10:00-18:00'
+website: https://www.pedalwerk.de/

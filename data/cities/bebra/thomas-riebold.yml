@@ -4,8 +4,9 @@ latitude: 50.97102
 longitude: 9.80093
 postcode: "36179"
 city: Bebra
-street: "Schützenweg"
-housenumber: 9
-phone: "+49 6622 7385"
-opening_hours: "Mo 08:00-13:00; Tu-Th 08:00-13:00, 15:00-18:00; Fr 08:00-13:00, 14:30-18:00; Sa 07:30-12:30"
-website: "https://www.riebold.eu/?page=metzgerei"
+street: Schützenweg
+housenumber: "9"
+phone: +49 6622 7385
+opening_hours: Mo 08:00-13:00; Tu-Th 08:00-13:00, 15:00-18:00; Fr 08:00-13:00, 14:30-18:00;
+    Sa 07:30-12:30
+website: https://www.riebold.eu/?page=metzgerei

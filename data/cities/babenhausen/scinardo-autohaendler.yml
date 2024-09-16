@@ -1,11 +1,11 @@
 id: 510192768
-type: way
+type: node
 latitude: 49.95255
 longitude: 8.95297
 postcode: "64832"
 city: Babenhausen
-street: "Industriestraße"
-housenumber: 10
+street: Industriestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

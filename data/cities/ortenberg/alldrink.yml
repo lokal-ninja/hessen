@@ -1,11 +1,11 @@
 id: 171246228
-type: way
+type: node
 latitude: 50.35291
 longitude: 9.04879
 postcode: "63683"
 city: Ortenberg
-street: "Karl-Hofmann-Straße"
-housenumber: 2
+street: Karl-Hofmann-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

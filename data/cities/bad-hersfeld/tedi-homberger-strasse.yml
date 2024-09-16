@@ -1,11 +1,11 @@
 id: 288207946
-type: way
+type: node
 latitude: 50.87941
 longitude: 9.68821
 postcode: "36251"
 city: Bad Hersfeld
-street: "Homberger Straße"
+street: Homberger Straße
 housenumber: 138-140
-phone: "+49 231 555770"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "http://www.tedi.com/"
+phone: +49 231 555770
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-17:00
+website: http://www.tedi.com/

@@ -1,11 +1,11 @@
 id: 118603953
-type: way
+type: node
 latitude: 50.8605
 longitude: 9.71475
 postcode: "36251"
 city: Bad Hersfeld
-street: "In den Giesen"
-housenumber: 3
-phone: "+49 6621 92610"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-14:30"
-website: "https://www.eisen-fischer.de/"
+street: In den Giesen
+housenumber: "3"
+phone: +49 6621 92610
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-14:30
+website: https://www.eisen-fischer.de/

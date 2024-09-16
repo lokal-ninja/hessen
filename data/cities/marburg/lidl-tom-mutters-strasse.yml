@@ -1,11 +1,11 @@
 id: 256467880
-type: way
+type: node
 latitude: 50.84202
 longitude: 8.76601
 postcode: "35041"
 city: Marburg
-street: "Tom-Mutters-Straße"
-housenumber: 7
+street: Tom-Mutters-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/filialen/marburg/wehrda-tom-mutters-strasse-7.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/filialen/marburg/wehrda-tom-mutters-strasse-7.html

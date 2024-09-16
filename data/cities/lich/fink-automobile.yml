@@ -1,11 +1,11 @@
 id: 147200502
-type: way
+type: node
 latitude: 50.505
 longitude: 8.83068
 postcode: "35423"
 city: Lich
-street: "Carl-Benz-Ring"
-housenumber: 27
+street: Carl-Benz-Ring
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

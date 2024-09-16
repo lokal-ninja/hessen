@@ -4,8 +4,8 @@ latitude: 50.1231
 longitude: 8.71093
 postcode: "60385"
 city: Frankfurt am Main
-street: "Freiligrathstraße"
-housenumber: 28
-phone: "+49 69 4930130"
-opening_hours: "Su 14:00-19:00; Mo-Fr 13:00-21:00; Sa 12:00-21:00"
-website: "http://www.video-city.de"
+street: Freiligrathstraße
+housenumber: "28"
+phone: +49 69 4930130
+opening_hours: Su 14:00-19:00; Mo-Fr 13:00-21:00; Sa 12:00-21:00
+website: http://www.video-city.de

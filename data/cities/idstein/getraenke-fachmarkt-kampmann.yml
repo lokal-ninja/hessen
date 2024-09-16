@@ -1,11 +1,12 @@
 id: 196688000
-type: way
+type: node
 latitude: 50.24308
 longitude: 8.25721
 postcode: "65510"
 city: Idstein
-street: "Hauptstraße"
-housenumber: 54
-phone: "+49 6126 51134"
-opening_hours: "Mo,Tu,Th 08:00-13:00,15:00-19:00; We 08:00-13:00; Fr 08:00-19:00; Sa 08:00-14:00"
+street: Hauptstraße
+housenumber: "54"
+phone: +49 6126 51134
+opening_hours: Mo,Tu,Th 08:00-13:00,15:00-19:00; We 08:00-13:00; Fr 08:00-19:00; Sa
+    08:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.8815
 longitude: 8.66225
 postcode: "64289"
 city: Darmstadt
-street: "Liebfrauenstraße"
-housenumber: 91
+street: Liebfrauenstraße
+housenumber: "91"
 phone: "+4961516278113"
-opening_hours: "Tu-Sa 10:00-13:00"
-website: "https://www.farmnatur.de/"
+opening_hours: Tu-Sa 10:00-13:00
+website: https://www.farmnatur.de/

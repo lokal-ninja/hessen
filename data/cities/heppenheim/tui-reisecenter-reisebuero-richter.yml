@@ -4,8 +4,8 @@ latitude: 49.64279
 longitude: 8.641
 postcode: "64646"
 city: Heppenheim
-street: "Zwerchgasse"
-housenumber: 3
-phone: "+49 6252 3988"
-opening_hours: "Mo,Tu 09:30-12:30,14:00-17:30; We 09:30-14:00; Th,Fr 09:30-12:30,14:00-17:30"
+street: Zwerchgasse
+housenumber: "3"
+phone: +49 6252 3988
+opening_hours: Mo,Tu 09:30-12:30,14:00-17:30; We 09:30-14:00; Th,Fr 09:30-12:30,14:00-17:30
 website: ""

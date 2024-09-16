@@ -4,8 +4,8 @@ latitude: 51.32812
 longitude: 9.49986
 postcode: "34127"
 city: Kassel
-street: "Henkelstraße"
-housenumber: 2
+street: Henkelstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:30; Sa 09:00-14:00
 website: ""

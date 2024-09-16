@@ -1,11 +1,11 @@
 id: 88428119
-type: way
+type: node
 latitude: 50.18377
 longitude: 8.54869
 postcode: "61476"
 city: Kronberg im Taunus
-street: "Oberurseler Straße"
-housenumber: 69
+street: Oberurseler Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

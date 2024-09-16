@@ -1,11 +1,11 @@
 id: 303325176
-type: way
+type: node
 latitude: 51.28652
 longitude: 9.50297
 postcode: "34123"
 city: Kassel
-street: "Falderbaumstraße"
-housenumber: 2
+street: Falderbaumstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

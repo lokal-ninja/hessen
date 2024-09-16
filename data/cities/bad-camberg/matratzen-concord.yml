@@ -1,11 +1,11 @@
 id: 234320764
-type: way
+type: node
 latitude: 50.29421
 longitude: 8.2521
 postcode: "65520"
 city: Bad Camberg
-street: "Robert-Bosch-Straße"
-housenumber: 7
-phone: "+49 6434 903870"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.matratzen-concord.de/filialen/bad-camberg/b406.html"
+street: Robert-Bosch-Straße
+housenumber: "7"
+phone: +49 6434 903870
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.matratzen-concord.de/filialen/bad-camberg/b406.html

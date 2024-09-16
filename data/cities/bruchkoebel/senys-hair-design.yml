@@ -4,8 +4,8 @@ latitude: 50.17809
 longitude: 8.91503
 postcode: "63486"
 city: Bruchköbel
-street: "Hauptstraße"
-housenumber: 12
+street: Hauptstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu,We,Fr 09:00-18:00; Th 12:00-20:00; Sa 09:00-13:00"
-website: "https://www.senys-hairdesign.de/"
+opening_hours: Tu,We,Fr 09:00-18:00; Th 12:00-20:00; Sa 09:00-13:00
+website: https://www.senys-hairdesign.de/

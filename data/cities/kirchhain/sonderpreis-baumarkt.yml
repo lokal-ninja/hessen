@@ -1,11 +1,11 @@
 id: 211143966
-type: way
+type: node
 latitude: 50.82437
 longitude: 8.93178
 postcode: "35274"
 city: Kirchhain
-street: "Niederrheinische Straße"
-housenumber: 58
+street: Niederrheinische Straße
+housenumber: "58"
 phone: "+4964228900426"
 opening_hours: ""
 website: ""

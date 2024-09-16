@@ -1,11 +1,11 @@
 id: 146352121
-type: way
+type: node
 latitude: 50.06119
 longitude: 8.25373
 postcode: "65189"
 city: Wiesbaden
-street: "Mainzer Straße"
-housenumber: 130
+street: Mainzer Straße
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://loehrgruppe.de/standorte/wiesbaden/skoda-zentrum-wiesbaden/uebersicht"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://loehrgruppe.de/standorte/wiesbaden/skoda-zentrum-wiesbaden/uebersicht

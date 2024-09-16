@@ -1,11 +1,11 @@
 id: 280269479
-type: way
+type: node
 latitude: 49.94011
 longitude: 8.8998
 postcode: "64832"
 city: Babenhausen
-street: "Außerhalb Hergershausen"
-housenumber: 11
+street: Außerhalb Hergershausen
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.gartenbau-winkler.com/"
+website: https://www.gartenbau-winkler.com/

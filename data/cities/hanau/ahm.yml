@@ -1,11 +1,11 @@
 id: 213421815
-type: way
+type: node
 latitude: 50.11921
 longitude: 8.93837
 postcode: "63450"
 city: Hanau
-street: "Alter Auheimer Weg"
-housenumber: 1
+street: Alter Auheimer Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

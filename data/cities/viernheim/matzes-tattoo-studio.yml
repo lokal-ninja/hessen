@@ -4,8 +4,9 @@ latitude: 49.53108
 longitude: 8.57204
 postcode: "68519"
 city: Viernheim
-street: "Rathausstraße"
-housenumber: 122
-phone: "+49 6204 9113888"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-16:00 Öffnungszeiten || Tu-Fr 16:00-18:00; Sa 11:00-16:00 Terminvergaben"
-website: "https://matzes-tattoo-studio.de/"
+street: Rathausstraße
+housenumber: "122"
+phone: +49 6204 9113888
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-16:00 "Öffnungszeiten" || Tu-Fr 16:00-18:00;
+    Sa 11:00-16:00 "Terminvergaben"
+website: https://matzes-tattoo-studio.de/

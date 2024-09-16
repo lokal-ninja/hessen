@@ -4,8 +4,8 @@ latitude: 51.34218
 longitude: 9.85873
 postcode: "37213"
 city: Witzenhausen
-street: "Walburger Straße"
-housenumber: 3
+street: Walburger Straße
+housenumber: "3"
 phone: "+495542910820"
-opening_hours: "Mo-Th 09:00-18:00; Fr 08:30-18:00; Sa 09:00-14:00"
-website: "https://hugohaase.de/"
+opening_hours: Mo-Th 09:00-18:00; Fr 08:30-18:00; Sa 09:00-14:00
+website: https://hugohaase.de/

@@ -1,11 +1,11 @@
 id: 168891963
-type: way
+type: node
 latitude: 49.986
 longitude: 8.58193
 postcode: "64546"
 city: Mörfelden-Walldorf
-street: "Starkenburgstraße"
-housenumber: 10
-phone: "+49 6105 40000"
+street: Starkenburgstraße
+housenumber: "10"
+phone: +49 6105 40000
 opening_hours: ""
-website: "http://www.route44.de/"
+website: http://www.route44.de/

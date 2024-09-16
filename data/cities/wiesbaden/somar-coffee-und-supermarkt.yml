@@ -1,11 +1,11 @@
 id: 1032943291
-type: way
+type: node
 latitude: 50.08087
 longitude: 8.23272
 postcode: "65183"
 city: Wiesbaden
-street: "Bleichstraße"
-housenumber: 21
+street: Bleichstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00"
-website: "https://somar-shop.com"
+opening_hours: Mo-Fr 06:00-22:00
+website: https://somar-shop.com

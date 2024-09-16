@@ -1,11 +1,11 @@
 id: 51928122
-type: way
+type: node
 latitude: 50.1438
 longitude: 8.04334
 postcode: "65307"
 city: Bad Schwalbach
-street: "Edmund-Heusinger-Straße"
-housenumber: 19
+street: Edmund-Heusinger-Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

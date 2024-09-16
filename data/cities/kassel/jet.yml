@@ -1,11 +1,11 @@
 id: 224286347
-type: way
+type: node
 latitude: 51.32424
 longitude: 9.46697
 postcode: "34127"
 city: Kassel
-street: "Wolfhager Straße"
-housenumber: 207
-phone: "+49 561 94990156"
-opening_hours: "Mo-Fr 05:00-24:00; Sa,Su,PH 00:00-24:00"
+street: Wolfhager Straße
+housenumber: "207"
+phone: +49 561 94990156
+opening_hours: Mo-Fr 05:00-24:00; Sa,Su,PH 00:00-24:00
 website: ""

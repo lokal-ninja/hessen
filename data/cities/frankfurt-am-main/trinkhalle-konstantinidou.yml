@@ -4,8 +4,8 @@ latitude: 50.13704
 longitude: 8.64539
 postcode: "60431"
 city: Frankfurt am Main
-street: "Ginnheimer Landstraße"
-housenumber: 107
+street: Ginnheimer Landstraße
+housenumber: "107"
 phone: "00492284333112"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.dhl.de/de/privatkunden/dhl-standorte-finden.html?objectid=4116195&isFeedbackDeeplink=true&template=locationdetail"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.dhl.de/de/privatkunden/dhl-standorte-finden.html?objectid=4116195&isFeedbackDeeplink=true&template=locationdetail

@@ -1,11 +1,11 @@
 id: 425917387
-type: way
+type: node
 latitude: 49.75195
 longitude: 8.48786
 postcode: "64579"
 city: Gernsheim
-street: "Am Friedhof"
-housenumber: 3
-phone: "+49 6258 3322"
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,14:00-18:00; We,Sa 08:00-13:00; Su nach Plan"
+street: Am Friedhof
+housenumber: "3"
+phone: +49 6258 3322
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00,14:00-18:00; We,Sa 08:00-13:00; Su "nach Plan"
 website: ""

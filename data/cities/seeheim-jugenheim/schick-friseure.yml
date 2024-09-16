@@ -4,8 +4,9 @@ latitude: 49.77315
 longitude: 8.64152
 postcode: "64342"
 city: Seeheim-Jugenheim
-street: "Friedrich-Ebert-Straße"
-housenumber: 33
-phone: "+49 6257 9994460"
-opening_hours: "Mo auf Anfrage; Tu 08:00-18:00; We 09:00-19:00; Th 09:00-20:00; Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://www.schick-friseure.de"
+street: Friedrich-Ebert-Straße
+housenumber: "33"
+phone: +49 6257 9994460
+opening_hours: Mo "auf Anfrage"; Tu 08:00-18:00; We 09:00-19:00; Th 09:00-20:00; Fr
+    08:00-18:00; Sa 08:00-14:00
+website: https://www.schick-friseure.de

@@ -1,11 +1,11 @@
 id: 288101746
-type: way
+type: node
 latitude: 50.41005
 longitude: 9.0122
 postcode: "63667"
 city: Nidda
-street: "Raun"
-housenumber: 102
+street: Raun
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 626235710
-type: way
+type: node
 latitude: 51.12066
 longitude: 9.13435
 postcode: "34537"
 city: Bad Wildungen
-street: "Bahnhofstraße"
-housenumber: 27
-phone: "+49 5621 96948-0"
+street: Bahnhofstraße
+housenumber: "27"
+phone: +49 5621 96948-0
 opening_hours: ""
-website: "https://www.bmw-backhaus-service.de/"
+website: https://www.bmw-backhaus-service.de/

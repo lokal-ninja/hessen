@@ -4,8 +4,8 @@ latitude: 50.0809
 longitude: 8.64894
 postcode: "60528"
 city: Frankfurt am Main
-street: "Königslacher Straße"
-housenumber: 36
-phone: "+49 69 672236"
-opening_hours: "Mo on appointment, Tu-Th 09:00-18:00, Fr 09:00-20:00, Sa 08:00-13:00"
-website: "http://sieunder-frankfurt.de"
+street: Königslacher Straße
+housenumber: "36"
+phone: +49 69 672236
+opening_hours: Mo "on appointment", Tu-Th 09:00-18:00, Fr 09:00-20:00, Sa 08:00-13:00
+website: http://sieunder-frankfurt.de

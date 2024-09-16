@@ -1,11 +1,11 @@
 id: 519472260
-type: way
+type: node
 latitude: 50.34792
 longitude: 9.53129
 postcode: "36381"
 city: Schlüchtern
-street: "Brückenauer Straße"
-housenumber: 16
+street: Brückenauer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 327072719
-type: way
+type: node
 latitude: 50.59642
 longitude: 8.82458
 postcode: "35447"
 city: Reiskirchen
-street: "Freiherr-vom-Stein-Straße"
-housenumber: 3
+street: Freiherr-vom-Stein-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

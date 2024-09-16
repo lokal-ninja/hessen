@@ -1,11 +1,11 @@
 id: 144623610
-type: way
+type: node
 latitude: 50.62582
 longitude: 9.50615
 postcode: "36364"
 city: Bad Salzschlirf
-street: "Schmittstraße"
-housenumber: 6
+street: Schmittstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

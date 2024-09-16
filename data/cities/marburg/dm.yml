@@ -4,8 +4,8 @@ latitude: 50.80646
 longitude: 8.76921
 postcode: "35037"
 city: Marburg
-street: "Universitätsstraße"
-housenumber: 8
+street: Universitätsstraße
+housenumber: "8"
 phone: "+4964218079940"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/d4j9/marburg/universitaetsstrasse-8"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/d4j9/marburg/universitaetsstrasse-8

@@ -4,8 +4,8 @@ latitude: 50.1321
 longitude: 8.74341
 postcode: "60386"
 city: Frankfurt am Main
-street: "Wächtersbacher Straße"
-housenumber: 90
+street: Wächtersbacher Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

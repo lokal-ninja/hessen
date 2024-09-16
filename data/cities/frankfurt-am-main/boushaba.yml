@@ -4,8 +4,8 @@ latitude: 50.10255
 longitude: 8.55071
 postcode: "65929"
 city: Frankfurt am Main
-street: "Emmerich-Josef-Straße"
-housenumber: 7
+street: Emmerich-Josef-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://boushaba.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://boushaba.de/

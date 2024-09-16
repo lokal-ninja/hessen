@@ -5,7 +5,7 @@ longitude: 8.3782
 postcode: "65468"
 city: Trebur
 street: ""
-housenumber: 35
-phone: "+49 6147 5799373"
-opening_hours: "Mo-Do 09:00-18:00; Fr 09:00-13:00"
-website: "https://www.cleanboxdeluxe.de/"
+housenumber: "35"
+phone: +49 6147 5799373
+opening_hours: Mo-Do 09:00-18:00; Fr 09:00-13:00
+website: https://www.cleanboxdeluxe.de/

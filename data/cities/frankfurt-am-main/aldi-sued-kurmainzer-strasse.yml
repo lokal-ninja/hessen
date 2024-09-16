@@ -1,11 +1,11 @@
 id: 103699690
-type: way
+type: node
 latitude: 50.10443
 longitude: 8.55474
 postcode: "65929"
 city: Frankfurt am Main
-street: "Kurmainzer Straße"
-housenumber: 4
+street: Kurmainzer Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://filialen.aldi-sued.de/hessen/frankfurt/kurmainzer-strasse-4"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://filialen.aldi-sued.de/hessen/frankfurt/kurmainzer-strasse-4

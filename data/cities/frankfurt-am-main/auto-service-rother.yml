@@ -1,11 +1,11 @@
 id: 104016636
-type: way
+type: node
 latitude: 50.14845
 longitude: 8.69141
 postcode: "60435"
 city: Frankfurt am Main
-street: "Theobald-Ziegler-Straße"
-housenumber: 2
+street: Theobald-Ziegler-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

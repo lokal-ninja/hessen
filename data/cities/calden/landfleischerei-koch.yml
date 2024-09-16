@@ -4,8 +4,8 @@ latitude: 51.40883
 longitude: 9.40359
 postcode: "34379"
 city: Calden
-street: "Mittelstraße"
-housenumber: 6
-phone: "+49 5674 6106"
-opening_hours: "Mo-Th 06:00-13:00, 15:00-18:00, Fr 06:00-18:00, Sa 06:00-13:00"
-website: "https://www.landfleischerei-koch.de/"
+street: Mittelstraße
+housenumber: "6"
+phone: +49 5674 6106
+opening_hours: Mo-Th 06:00-13:00, 15:00-18:00, Fr 06:00-18:00, Sa 06:00-13:00
+website: https://www.landfleischerei-koch.de/

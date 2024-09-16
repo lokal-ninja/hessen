@@ -1,11 +1,11 @@
 id: 116364695
-type: way
+type: node
 latitude: 50.12732
 longitude: 8.92655
 postcode: "63450"
 city: Hanau
-street: "Willy-Brandt-Straße"
-housenumber: 28
+street: Willy-Brandt-Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-18:00"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-18:00
 website: ""

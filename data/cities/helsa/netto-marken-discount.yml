@@ -1,11 +1,11 @@
 id: 325775400
-type: way
+type: node
 latitude: 51.25887
 longitude: 9.69595
 postcode: "34298"
 city: Helsa
-street: "Berliner Straße"
-housenumber: 80
+street: Berliner Straße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

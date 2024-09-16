@@ -1,11 +1,11 @@
 id: 89646767
-type: way
+type: node
 latitude: 49.67881
 longitude: 9.00049
 postcode: "64720"
 city: Michelstadt
-street: "Wiesenweg"
-housenumber: 25
+street: Wiesenweg
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

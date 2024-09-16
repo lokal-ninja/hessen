@@ -4,8 +4,8 @@ latitude: 51.31376
 longitude: 9.4993
 postcode: "34117"
 city: Kassel
-street: "Steinweg"
-housenumber: 1
-phone: "+49 561 779416"
+street: Steinweg
+housenumber: "1"
+phone: +49 561 779416
 opening_hours: ""
-website: "http://www.clemens-schweitzer.de"
+website: http://www.clemens-schweitzer.de

@@ -4,8 +4,8 @@ latitude: 50.2272
 longitude: 8.6202
 postcode: "61348"
 city: Bad Homburg vor der Höhe
-street: "Kaiser-Friedrich-Promenade"
-housenumber: 55
-phone: "+49 6172 945980"
-opening_hours: "Mo-Sa 09:00-23:00; Su,PH 09:00-18:00"
-website: "http://www.fritz55.de/"
+street: Kaiser-Friedrich-Promenade
+housenumber: "55"
+phone: +49 6172 945980
+opening_hours: Mo-Sa 09:00-23:00; Su,PH 09:00-18:00
+website: http://www.fritz55.de/

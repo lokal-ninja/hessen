@@ -4,8 +4,8 @@ latitude: 50.12148
 longitude: 8.93026
 postcode: "63450"
 city: Hanau
-street: "Hauptbahnhof"
-housenumber: 
+street: Hauptbahnhof
+housenumber: ""
 phone: ""
-opening_hours: "24/7 nur mit Kundenkarte, tegut...teo App, Giro-/Kreditkarte"
-website: "https://www.tegut.com/maerkte/markt/tegut-hanau-am-hauptbahnhof.html"
+opening_hours: 24/7 "nur mit Kundenkarte, tegut...teo App, Giro-/Kreditkarte"
+website: https://www.tegut.com/maerkte/markt/tegut-hanau-am-hauptbahnhof.html

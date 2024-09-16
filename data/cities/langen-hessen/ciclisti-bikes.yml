@@ -4,9 +4,10 @@ latitude: 49.99228
 longitude: 8.64886
 postcode: "63225"
 city: Langen (Hessen)
-street: "Berliner Allee"
-housenumber: 5
+street: Berliner Allee
+housenumber: "5"
 phone: ""
-opening_hours: "Apr-Oct We-Fr 09:00-12:30, 14:30-18:00; Sa 9:00-13:00;
-Nov-Mar We-Fr 10:00-12:30, 14:30-18:00; Sa 10:00-13:00;"
-website: "http://ciclisti.de"
+opening_hours: |-
+    Apr-Oct We-Fr 09:00-12:30, 14:30-18:00; Sa 9:00-13:00;
+    Nov-Mar We-Fr 10:00-12:30, 14:30-18:00; Sa 10:00-13:00;
+website: http://ciclisti.de

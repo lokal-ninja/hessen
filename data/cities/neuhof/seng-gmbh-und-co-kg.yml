@@ -1,11 +1,11 @@
 id: 281049031
-type: way
+type: node
 latitude: 50.4691
 longitude: 9.67316
 postcode: "36119"
 city: Neuhof
-street: "Kerzeller Straße"
-housenumber: 31
-phone: "+49 6655 3064"
-opening_hours: "24/7"
+street: Kerzeller Straße
+housenumber: "31"
+phone: +49 6655 3064
+opening_hours: 24/7
 website: ""

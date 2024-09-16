@@ -1,11 +1,11 @@
 id: 33264403
-type: way
+type: node
 latitude: 50.04918
 longitude: 8.49151
 postcode: "65795"
 city: Hattersheim am Main
-street: "Nahering"
-housenumber: 2
+street: Nahering
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

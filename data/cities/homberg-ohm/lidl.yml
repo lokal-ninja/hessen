@@ -1,11 +1,11 @@
 id: 174803998
-type: way
+type: node
 latitude: 50.73463
 longitude: 8.98793
 postcode: "35315"
 city: Homberg (Ohm)
-street: "Ohmstraße"
-housenumber: 2
+street: Ohmstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

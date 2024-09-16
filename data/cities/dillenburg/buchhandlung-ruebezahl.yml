@@ -4,8 +4,8 @@ latitude: 50.73852
 longitude: 8.28936
 postcode: "35683"
 city: Dillenburg
-street: "Hüttenplatz"
-housenumber: 14
-phone: "+49 2771 7238"
-opening_hours: "Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://ruebezahl.buchkatalog.de/"
+street: Hüttenplatz
+housenumber: "14"
+phone: +49 2771 7238
+opening_hours: Mo-Fr 08:30-12:30,14:00-18:00; Sa 09:00-13:00; PH off
+website: https://ruebezahl.buchkatalog.de/

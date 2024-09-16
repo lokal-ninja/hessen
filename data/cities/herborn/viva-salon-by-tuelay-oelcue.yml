@@ -4,8 +4,8 @@ latitude: 50.68114
 longitude: 8.30414
 postcode: "35745"
 city: Herborn
-street: "Hauptstraße"
-housenumber: 88
-phone: "+49 2772 646303"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:00-14:00"
+street: Hauptstraße
+housenumber: "88"
+phone: +49 2772 646303
+opening_hours: Mo-Fr 10:00-19:00, Sa 09:00-14:00
 website: ""

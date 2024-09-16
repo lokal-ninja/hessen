@@ -1,11 +1,11 @@
 id: 251559392
-type: way
+type: node
 latitude: 50.16749
 longitude: 8.98546
 postcode: "63526"
 city: Erlensee
-street: "Neue Anlage"
-housenumber: 12
+street: Neue Anlage
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 686607122
-type: way
+type: node
 latitude: 51.27649
 longitude: 8.88603
 postcode: "34497"
 city: Korbach
-street: "Strother Straße"
-housenumber: 43
+street: Strother Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

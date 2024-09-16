@@ -4,8 +4,8 @@ latitude: 50.08903
 longitude: 8.75565
 postcode: "63069"
 city: Offenbach am Main
-street: "Richard-Wagner-Straße"
-housenumber: 32
-phone: "+49 69 83005988"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/36/"
+street: Richard-Wagner-Straße
+housenumber: "32"
+phone: +49 69 83005988
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/36/

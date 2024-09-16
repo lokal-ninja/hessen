@@ -4,8 +4,9 @@ latitude: 49.87103
 longitude: 8.65575
 postcode: "64283"
 city: Darmstadt
-street: "An der Stadtkirche"
-housenumber: 6
-phone: "+49 6151 6602444"
-opening_hours: "Tu 09:00-19:00; We 10:00-20:00; Th 08:00-19:00; Fr 08:00-20:00; Sa 09:00-16:00; PH off"
-website: "www.petrelli.de/darmstadt--2/index"
+street: An der Stadtkirche
+housenumber: "6"
+phone: +49 6151 6602444
+opening_hours: Tu 09:00-19:00; We 10:00-20:00; Th 08:00-19:00; Fr 08:00-20:00; Sa
+    09:00-16:00; PH off
+website: www.petrelli.de/darmstadt--2/index

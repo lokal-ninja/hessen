@@ -1,11 +1,11 @@
 id: 261223824
-type: way
+type: node
 latitude: 49.86787
 longitude: 8.92428
 postcode: "64823"
 city: Groß-Umstadt
-street: "Frankenstraße"
-housenumber: 22
+street: Frankenstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:30-18:30; We 08:30-12:00; Sa 08:30-13:00"
-website: "https://www.zweirad-ellenberger.de/"
+opening_hours: Mo-Sa 08:30-18:30; We 08:30-12:00; Sa 08:30-13:00
+website: https://www.zweirad-ellenberger.de/

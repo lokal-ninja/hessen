@@ -1,11 +1,11 @@
 id: 297220826
-type: way
+type: node
 latitude: 51.15186
 longitude: 9.38207
 postcode: "34587"
 city: Felsberg
-street: "Hauptstraße"
-housenumber: 4
+street: Hauptstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

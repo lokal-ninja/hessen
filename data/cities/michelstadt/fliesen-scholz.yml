@@ -1,11 +1,11 @@
 id: 89742763
-type: way
+type: node
 latitude: 49.68166
 longitude: 8.99934
 postcode: "64720"
 city: Michelstadt
-street: "Contistraße"
-housenumber: 9
+street: Contistraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.fliesen-scholz-michelstadt.de/"
+website: https://www.fliesen-scholz-michelstadt.de/

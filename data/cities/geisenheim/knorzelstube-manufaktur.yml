@@ -4,8 +4,8 @@ latitude: 49.98335
 longitude: 7.96745
 postcode: "65366"
 city: Geisenheim
-street: "Römerberg"
-housenumber: 7
+street: Römerberg
+housenumber: "7"
 phone: ""
-opening_hours: "We-Th 10:00-18:00; Fr 08:00-18:00; Sa 10:00-13:00"
-website: "https://www.knorzelstube.de/"
+opening_hours: We-Th 10:00-18:00; Fr 08:00-18:00; Sa 10:00-13:00
+website: https://www.knorzelstube.de/

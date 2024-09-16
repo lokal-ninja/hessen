@@ -4,8 +4,8 @@ latitude: 50.59347
 longitude: 8.66252
 postcode: "35398"
 city: Gießen
-street: "Krofdorfer Straße"
-housenumber: 70
+street: Krofdorfer Straße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 08:30-12:30,14:30-18:00; We,Sa 08:30-12:30"
-website: "https://www.hardt-apotheke-giessen.de/"
+opening_hours: Mo,Tu,Th,Fr 08:30-12:30,14:30-18:00; We,Sa 08:30-12:30
+website: https://www.hardt-apotheke-giessen.de/

@@ -1,11 +1,11 @@
 id: 271988378
-type: way
+type: node
 latitude: 50.562
 longitude: 8.60776
 postcode: "35582"
 city: Wetzlar
-street: "Industriestraße"
-housenumber: 4
+street: Industriestraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.massiv-direkt.de/"
+website: https://www.massiv-direkt.de/

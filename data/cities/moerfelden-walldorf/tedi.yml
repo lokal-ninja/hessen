@@ -4,8 +4,8 @@ latitude: 50.01225
 longitude: 8.58583
 postcode: "64546"
 city: Mörfelden-Walldorf
-street: "Farmstraße"
-housenumber: 101
+street: Farmstraße
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://stores.tedi.com/tedi-39c79c41e632"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://stores.tedi.com/tedi-39c79c41e632

@@ -1,11 +1,11 @@
 id: 226857908
-type: way
+type: node
 latitude: 50.99221
 longitude: 8.54649
 postcode: "35116"
 city: Hatzfeld (Eder)
-street: "Edertalstraße"
-housenumber: 2
-phone: "+49 6467 229"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"
-website: "https://www.baeckerei-eckhardt.de/"
+street: Edertalstraße
+housenumber: "2"
+phone: +49 6467 229
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00
+website: https://www.baeckerei-eckhardt.de/

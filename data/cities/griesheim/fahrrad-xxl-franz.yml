@@ -1,11 +1,11 @@
 id: 28333842
-type: way
+type: node
 latitude: 49.86106
-longitude: 8.59196
+longitude: 8.59194
 postcode: "64347"
 city: Griesheim
-street: "Flughafenstraße"
-housenumber: 14
+street: Flughafenstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:30"
-website: "https://www.fahrrad-xxl.de/filiale/griesheim/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:30
+website: https://www.fahrrad-xxl.de/filiale/griesheim/

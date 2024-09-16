@@ -1,11 +1,11 @@
 id: 199427165
-type: way
+type: node
 latitude: 50.11874
 longitude: 8.92991
 postcode: "63457"
 city: Hanau
-street: "Röderseestraße"
-housenumber: 4
+street: Röderseestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-19:00"
-website: "https://www.tedox.de/shoplist/index/detail/?id=38"
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-19:00
+website: https://www.tedox.de/shoplist/index/detail/?id=38

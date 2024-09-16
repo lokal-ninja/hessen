@@ -4,8 +4,8 @@ latitude: 49.98953
 longitude: 8.41546
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Haßlocher Straße"
-housenumber: 32
-phone: "+49 6142 4759978"
-opening_hours: "Termin nach Vereinbarung"
-website: "https://salmana-beauty.de/"
+street: Haßlocher Straße
+housenumber: "32"
+phone: +49 6142 4759978
+opening_hours: '"Termin nach Vereinbarung"'
+website: https://salmana-beauty.de/

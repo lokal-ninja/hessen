@@ -1,11 +1,11 @@
 id: 108770420
-type: way
+type: node
 latitude: 50.59189
 longitude: 9.53968
 postcode: "36137"
 city: Großenlüder
-street: "Schlitzer Straße"
-housenumber: 7
+street: Schlitzer Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

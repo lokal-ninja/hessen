@@ -4,8 +4,8 @@ latitude: 51.3229
 longitude: 9.4467
 postcode: "34130"
 city: Kassel
-street: "Zentgrafenstraße"
-housenumber: 166
-phone: "+49 561 69135"
-opening_hours: "Mo,Fr 09:00-19:00; Sa 08:30-13:30"
-website: "http://www.schmanddibben-kirchditmold.de/"
+street: Zentgrafenstraße
+housenumber: "166"
+phone: +49 561 69135
+opening_hours: Mo,Fr 09:00-19:00; Sa 08:30-13:30
+website: http://www.schmanddibben-kirchditmold.de/

@@ -4,8 +4,8 @@ latitude: 50.08137
 longitude: 8.23303
 postcode: "65183"
 city: Wiesbaden
-street: "Hellmundstraße"
-housenumber: 27
-phone: "+49 177 5767744"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Hellmundstraße
+housenumber: "27"
+phone: +49 177 5767744
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

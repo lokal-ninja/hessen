@@ -4,8 +4,8 @@ latitude: 50.77504
 longitude: 8.30428
 postcode: "35684"
 city: Dillenburg
-street: "Hauptstraße"
-housenumber: 118
-phone: "+49 2771 268750"
-opening_hours: "Mo-Fr 05:00-14:00; Sa 05:00-13:00; Su 07:00-11:00"
-website: "https://www.schaefers-backstuben.de"
+street: Hauptstraße
+housenumber: "118"
+phone: +49 2771 268750
+opening_hours: Mo-Fr 05:00-14:00; Sa 05:00-13:00; Su 07:00-11:00
+website: https://www.schaefers-backstuben.de

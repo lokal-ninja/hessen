@@ -1,11 +1,11 @@
 id: 160774511
-type: way
+type: node
 latitude: 50.15516
 longitude: 9.14747
 postcode: "63579"
 city: Freigericht
-street: "In der Burg"
-housenumber: 9
+street: In der Burg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

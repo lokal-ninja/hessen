@@ -1,11 +1,11 @@
 id: 417843051
-type: way
+type: node
 latitude: 50.52996
 longitude: 9.67675
 postcode: ""
 city: Fulda
-street: "Frankfurter Straße"
-housenumber: 124
+street: Frankfurter Straße
+housenumber: "124"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

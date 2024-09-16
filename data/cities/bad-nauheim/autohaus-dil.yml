@@ -1,11 +1,11 @@
 id: 33441272
-type: way
+type: node
 latitude: 50.37637
 longitude: 8.74719
 postcode: "61231"
 city: Bad Nauheim
-street: "Am Taubenbaum"
+street: Am Taubenbaum
 housenumber: 19-21
-phone: "+49 6032 90900"
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-14:00"
+phone: +49 6032 90900
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-14:00
 website: ""

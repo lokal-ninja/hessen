@@ -4,8 +4,8 @@ latitude: 51.49412
 longitude: 9.38224
 postcode: "34369"
 city: Hofgeismar
-street: "Mühlenstraße"
-housenumber: 4
-phone: "+49 5671 7666 820"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa-Su off"
-website: "https://www.hess-haeusler.de/"
+street: Mühlenstraße
+housenumber: "4"
+phone: +49 5671 7666 820
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa-Su off
+website: https://www.hess-haeusler.de/

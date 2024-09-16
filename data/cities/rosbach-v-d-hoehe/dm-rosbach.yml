@@ -4,8 +4,8 @@ latitude: 50.29942
 longitude: 8.69504
 postcode: "61191"
 city: Rosbach v. d. Höhe
-street: "Dieselstraße"
-housenumber: 14
-phone: "+49 6003 9350903"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-1809/rosbach/dieselstrasse-14"
+street: Dieselstraße
+housenumber: "14"
+phone: +49 6003 9350903
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-1809/rosbach/dieselstrasse-14

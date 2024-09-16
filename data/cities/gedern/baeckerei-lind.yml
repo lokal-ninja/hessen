@@ -1,11 +1,11 @@
 id: 129716137
-type: way
+type: node
 latitude: 50.42218
 longitude: 9.19695
 postcode: "63688"
 city: Gedern
-street: "Frankfurter Straße"
-housenumber: 19
+street: Frankfurter Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

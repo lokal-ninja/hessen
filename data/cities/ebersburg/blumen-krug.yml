@@ -4,8 +4,8 @@ latitude: 50.48381
 longitude: 9.79487
 postcode: "36157"
 city: Ebersburg
-street: "Hochstraße"
-housenumber: 29
-phone: "+49 6656 252"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
-website: "http://www.blumenkrug-weyhers.de/"
+street: Hochstraße
+housenumber: "29"
+phone: +49 6656 252
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
+website: http://www.blumenkrug-weyhers.de/

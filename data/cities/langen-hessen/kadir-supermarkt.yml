@@ -4,8 +4,8 @@ latitude: 49.99508
 longitude: 8.66424
 postcode: "63225"
 city: Langen (Hessen)
-street: "Annastraße"
-housenumber: 45
-phone: "+49 6103 3728497"
-opening_hours: "Mo-Sa 08:00-19:00"
+street: Annastraße
+housenumber: "45"
+phone: +49 6103 3728497
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

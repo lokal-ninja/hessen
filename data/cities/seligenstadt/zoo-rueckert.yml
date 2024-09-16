@@ -1,11 +1,11 @@
 id: 194783659
-type: way
+type: node
 latitude: 50.05347
 longitude: 8.97536
 postcode: "63500"
 city: Seligenstadt
-street: "Steinheimer Straße"
-housenumber: 97
+street: Steinheimer Straße
+housenumber: "97"
 phone: ""
 opening_hours: ""
-website: "http://www.zoo-rueckert.de/"
+website: http://www.zoo-rueckert.de/

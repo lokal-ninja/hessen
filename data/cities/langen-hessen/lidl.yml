@@ -1,11 +1,11 @@
 id: 95403955
-type: way
+type: node
 latitude: 49.98117
 longitude: 8.67839
 postcode: "63225"
 city: Langen (Hessen)
-street: "Darmstädter Straße"
-housenumber: 64
+street: Darmstädter Straße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

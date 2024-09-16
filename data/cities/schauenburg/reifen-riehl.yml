@@ -1,11 +1,11 @@
 id: 234148726
-type: way
+type: node
 latitude: 51.26787
 longitude: 9.37542
 postcode: "34270"
 city: Schauenburg
-street: "Hilschen"
-housenumber: 3
+street: Hilschen
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

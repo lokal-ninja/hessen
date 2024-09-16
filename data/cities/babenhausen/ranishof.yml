@@ -4,8 +4,8 @@ latitude: 49.96055
 longitude: 8.95467
 postcode: "64832"
 city: Babenhausen
-street: "Platanenallee"
-housenumber: 25
-phone: "+49 6073 68551"
-opening_hours: "Mo-Th 09:00-13:00, Fr 09:00-18:00, Sa 08:30-13:00, Th 14:30-18:00"
-website: "http://www.ranishof.de/"
+street: Platanenallee
+housenumber: "25"
+phone: +49 6073 68551
+opening_hours: Mo-Th 09:00-13:00, Fr 09:00-18:00, Sa 08:30-13:00, Th 14:30-18:00
+website: http://www.ranishof.de/

@@ -4,8 +4,8 @@ latitude: 50.12961
 longitude: 8.92189
 postcode: "63450"
 city: Hanau
-street: "Friedrich-Ebert-Anlage"
-housenumber: 7
+street: Friedrich-Ebert-Anlage
+housenumber: "7"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

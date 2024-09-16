@@ -1,11 +1,11 @@
 id: 89737534
-type: way
+type: node
 latitude: 50.68775
 longitude: 9.75356
 postcode: "36088"
 city: Hünfeld
-street: "Carl-Zeiss-Straße"
-housenumber: 3
+street: Carl-Zeiss-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

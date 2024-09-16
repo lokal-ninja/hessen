@@ -1,11 +1,11 @@
 id: 1285953769
-type: way
+type: node
 latitude: 50.51197
 longitude: 8.39553
 postcode: "35619"
 city: Braunfels
-street: "Attenbachstraße"
-housenumber: 2
+street: Attenbachstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.maurer-service.bmw/de/home/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.maurer-service.bmw/de/home/

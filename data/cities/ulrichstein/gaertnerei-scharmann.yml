@@ -1,11 +1,11 @@
 id: 108833984
-type: way
+type: node
 latitude: 50.57404
 longitude: 9.19048
 postcode: "35327"
 city: Ulrichstein
-street: "Südhang Schloßberg"
-housenumber: 5
+street: Südhang Schloßberg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.55324
 longitude: 8.50069
 postcode: "35578"
 city: Wetzlar
-street: "Silhöfer Straße"
-housenumber: 23
-phone: "+49 6441 488 50"
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00, Sa 09:30-14:00; PH off"
-website: "https://fotosircoulomb.rf-webworld.de/"
+street: Silhöfer Straße
+housenumber: "23"
+phone: +49 6441 488 50
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00, Sa 09:30-14:00; PH off
+website: https://fotosircoulomb.rf-webworld.de/

@@ -1,11 +1,11 @@
 id: 243573000
-type: way
+type: node
 latitude: 49.9756
 longitude: 8.43574
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Silberstraße"
-housenumber: 19
-phone: "+49 6142 173606"
+street: Silberstraße
+housenumber: "19"
+phone: +49 6142 173606
 opening_hours: ""
-website: "https://yuchang.business.site/"
+website: https://yuchang.business.site/

@@ -4,8 +4,8 @@ latitude: 50.54691
 longitude: 8.48088
 postcode: "35578"
 city: Wetzlar
-street: "Am Schmittenberg"
-housenumber: 3
-phone: "+49 6441 449 2914"
-opening_hours: "Mo-Fr 08:00-11:30, 13:00-16:00; Sa,Su 08:30-12:30"
-website: "http://mfg-motorgeraete.de"
+street: Am Schmittenberg
+housenumber: "3"
+phone: +49 6441 449 2914
+opening_hours: Mo-Fr 08:00-11:30, 13:00-16:00; Sa,Su 08:30-12:30
+website: http://mfg-motorgeraete.de

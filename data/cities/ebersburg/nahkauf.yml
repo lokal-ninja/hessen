@@ -4,8 +4,8 @@ latitude: 50.43909
 longitude: 9.77347
 postcode: "36157"
 city: Ebersburg
-street: "Altenhofer Straße"
-housenumber: 2
-phone: "+49 6656 233"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-16:00"
+street: Altenhofer Straße
+housenumber: "2"
+phone: +49 6656 233
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-16:00
 website: ""

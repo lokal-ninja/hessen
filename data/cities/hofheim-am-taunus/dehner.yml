@@ -1,11 +1,11 @@
 id: 50647887
-type: way
+type: node
 latitude: 50.05751
 longitude: 8.41069
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Casteller Straße"
-housenumber: 97
-phone: "+49 6192 993930"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-18:00"
-website: "https://www.dehner.de/"
+street: Casteller Straße
+housenumber: "97"
+phone: +49 6192 993930
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:30-18:00
+website: https://www.dehner.de/

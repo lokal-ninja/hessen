@@ -4,8 +4,8 @@ latitude: 50.14342
 longitude: 8.50205
 postcode: "65812"
 city: Bad Soden am Taunus
-street: "Königsteiner Straße"
-housenumber: 59
-phone: "+49 6196 6522873"
-opening_hours: "Mo-Tu,Th-Fr 09:00-18:00; Sa 09:00-14:00; We 09:00-14:00;So Off"
-website: "http://www.heiter.de/"
+street: Königsteiner Straße
+housenumber: "59"
+phone: +49 6196 6522873
+opening_hours: Mo-Tu,Th-Fr 09:00-18:00; Sa 09:00-14:00; We 09:00-14:00;So Off
+website: http://www.heiter.de/

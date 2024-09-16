@@ -1,11 +1,11 @@
 id: 12652746
-type: way
+type: node
 latitude: 50.13495
 longitude: 8.56207
 postcode: "65760"
 city: Eschborn
-street: "Elly-Beinhorn-Straße"
-housenumber: 3
+street: Elly-Beinhorn-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

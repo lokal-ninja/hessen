@@ -1,11 +1,11 @@
 id: 44200108
-type: way
+type: node
 latitude: 50.10446
 longitude: 8.91953
 postcode: "63456"
 city: Hanau
-street: "Geleitstraße"
-housenumber: 47
+street: Geleitstraße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

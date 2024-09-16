@@ -1,11 +1,11 @@
 id: 363554459
-type: way
+type: node
 latitude: 51.1968
 longitude: 9.7223
 postcode: "37235"
 city: Hessisch Lichtenau
-street: "Heinrichstraße"
-housenumber: 3
+street: Heinrichstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

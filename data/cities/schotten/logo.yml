@@ -1,11 +1,11 @@
 id: 120858901
-type: way
+type: node
 latitude: 50.50539
 longitude: 9.13047
 postcode: ""
 city: Schotten
-street: "Vogelsbergstraße"
-housenumber: 161
+street: Vogelsbergstraße
+housenumber: "161"
 phone: ""
 opening_hours: ""
 website: ""

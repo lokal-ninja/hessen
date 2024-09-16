@@ -4,8 +4,8 @@ latitude: 50.11846
 longitude: 8.64861
 postcode: "60486"
 city: Frankfurt am Main
-street: "Jordanstraße"
-housenumber: 11
+street: Jordanstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-14:00"
-website: "https://karl-marx-buchhandlung.de/"
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-14:00
+website: https://karl-marx-buchhandlung.de/

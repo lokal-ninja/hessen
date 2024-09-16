@@ -4,8 +4,8 @@ latitude: 51.31945
 longitude: 9.49595
 postcode: "34117"
 city: Kassel
-street: "Hoffmann-von-Fallersleben-Straße"
-housenumber: 3
-phone: "+49 561 50378642"
-opening_hours: "Mo-Sa 12:00-18:00"
-website: "https://hautnah-kassel.de/"
+street: Hoffmann-von-Fallersleben-Straße
+housenumber: "3"
+phone: +49 561 50378642
+opening_hours: Mo-Sa 12:00-18:00
+website: https://hautnah-kassel.de/

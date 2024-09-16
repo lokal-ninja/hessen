@@ -1,11 +1,11 @@
 id: 555523088
-type: way
+type: node
 latitude: 51.33889
 longitude: 9.86226
 postcode: "37213"
 city: Witzenhausen
-street: "Am Eschenbornrasen"
-housenumber: 15
-phone: "+49 5542 93550"
+street: Am Eschenbornrasen
+housenumber: "15"
+phone: +49 5542 93550
 opening_hours: ""
-website: "https://www.autohaus-heidenreich.com"
+website: https://www.autohaus-heidenreich.com

@@ -1,11 +1,11 @@
 id: 29086545
-type: way
+type: node
 latitude: 50.05961
 longitude: 8.33876
 postcode: "65205"
 city: Wiesbaden
-street: "Siemensstraße"
-housenumber: 8
+street: Siemensstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/hessen/wiesbaden/siemensstrasse-8"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/hessen/wiesbaden/siemensstrasse-8

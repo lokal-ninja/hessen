@@ -1,11 +1,11 @@
 id: 197022699
-type: way
+type: node
 latitude: 49.5341
 longitude: 8.58603
 postcode: "68519"
 city: Viernheim
-street: "Heidelberger Straße"
-housenumber: 45
-phone: "+49 6204 913366"
+street: Heidelberger Straße
+housenumber: "45"
+phone: +49 6204 913366
 opening_hours: ""
-website: "https://www.salobirauto.de/"
+website: https://www.salobirauto.de/

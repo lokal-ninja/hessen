@@ -4,8 +4,8 @@ latitude: 49.91149
 longitude: 8.6563
 postcode: "64291"
 city: Darmstadt
-street: "Frankfurter Landstraße"
-housenumber: 162
-phone: "+49 6151 4925616"
-opening_hours: "Mo-Fr 06:00-19:00; Sa-Su 08:00-17:00"
-website: "https://schaefer-dein-baecker.de"
+street: Frankfurter Landstraße
+housenumber: "162"
+phone: +49 6151 4925616
+opening_hours: Mo-Fr 06:00-19:00; Sa-Su 08:00-17:00
+website: https://schaefer-dein-baecker.de

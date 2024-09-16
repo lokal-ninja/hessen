@@ -1,11 +1,11 @@
 id: 42245392
-type: way
+type: node
 latitude: 50.00863
 longitude: 8.78603
 postcode: "63128"
 city: Dietzenbach
-street: "Robert-Koch-Straße"
-housenumber: 1
+street: Robert-Koch-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.rl-fundgrube.de/"
+website: https://www.rl-fundgrube.de/

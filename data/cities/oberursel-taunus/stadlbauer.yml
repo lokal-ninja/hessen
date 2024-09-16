@@ -1,11 +1,11 @@
 id: 94102849
-type: way
+type: node
 latitude: 50.18985
 longitude: 8.5917
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Oberurseler Straße"
-housenumber: 67
+street: Oberurseler Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Th 07:00-12:00,13:00-17:30; Fr 07:00-14:30"
+opening_hours: Mo-Th 07:00-12:00,13:00-17:30; Fr 07:00-14:30
 website: ""

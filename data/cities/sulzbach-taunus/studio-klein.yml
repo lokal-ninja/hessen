@@ -4,8 +4,9 @@ latitude: 50.1376
 longitude: 8.52048
 postcode: "65843"
 city: Sulzbach (Taunus)
-street: "Waldstraße"
-housenumber: 12
+street: Waldstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo 09:00-18:00, Tu 09:00-19:00, We 09:00-18:00, Th 09:00-20:00, Fr 09:00-18:00, Sa 09:00-15:00; PH off"
-website: "https://www.studio-klein.net/"
+opening_hours: Mo 09:00-18:00, Tu 09:00-19:00, We 09:00-18:00, Th 09:00-20:00, Fr
+    09:00-18:00, Sa 09:00-15:00; PH off
+website: https://www.studio-klein.net/

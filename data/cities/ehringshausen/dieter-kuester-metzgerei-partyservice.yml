@@ -1,11 +1,11 @@
 id: 391284057
-type: way
+type: node
 latitude: 50.59805
 longitude: 8.38254
 postcode: "35630"
 city: Ehringshausen
-street: "Bahnhofstraße"
-housenumber: 58
-phone: "+49 6443 2088"
-opening_hours: "Mo-Sa 08:00-12:30; Tu, Fr 14:00-18:00"
+street: Bahnhofstraße
+housenumber: "58"
+phone: +49 6443 2088
+opening_hours: Mo-Sa 08:00-12:30; Tu, Fr 14:00-18:00
 website: ""

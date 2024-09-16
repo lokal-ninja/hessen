@@ -4,8 +4,8 @@ latitude: 50.9626
 longitude: 9.79078
 postcode: "36179"
 city: Bebra
-street: "Gottlieb-Daimler-Straße"
-housenumber: 2
+street: Gottlieb-Daimler-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00"
-website: "https://www.baeckerei-apel.de/"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-21:00
+website: https://www.baeckerei-apel.de/

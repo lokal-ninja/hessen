@@ -4,8 +4,8 @@ latitude: 49.98015
 longitude: 7.93845
 postcode: "65385"
 city: Rüdesheim am Rhein
-street: "Europastraße"
-housenumber: 8
+street: Europastraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.backstube-faust.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.backstube-faust.de/

@@ -1,11 +1,11 @@
 id: 55943989
-type: way
+type: node
 latitude: 50.65775
 longitude: 8.72757
 postcode: "35460"
 city: Staufenberg
-street: "Am Schiffenweg"
-housenumber: 15
+street: Am Schiffenweg
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

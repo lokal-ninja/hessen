@@ -4,8 +4,8 @@ latitude: 50.10841
 longitude: 8.64904
 postcode: "60327"
 city: Frankfurt am Main
-street: "Europa-Allee"
-housenumber: 33
+street: Europa-Allee
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-15:00"
-website: "https://www.beauty-skyline.com/"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-15:00
+website: https://www.beauty-skyline.com/

@@ -4,8 +4,8 @@ latitude: 50.09468
 longitude: 8.6961
 postcode: "60599"
 city: Frankfurt am Main
-street: "Hainer Weg"
-housenumber: 144
-phone: "+49 69 97698617"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 07:00-16:00; Su 07:00-17:00"
-website: "https://www.backstube-weller.de/"
+street: Hainer Weg
+housenumber: "144"
+phone: +49 69 97698617
+opening_hours: Mo-Fr 06:00-18:30; Sa 07:00-16:00; Su 07:00-17:00
+website: https://www.backstube-weller.de/

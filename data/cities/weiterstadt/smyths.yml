@@ -1,11 +1,11 @@
 id: 30133715
-type: way
+type: node
 latitude: 49.8961
 longitude: 8.60854
 postcode: "64331"
 city: Weiterstadt
-street: "Friedrich-Schaefer-Straße"
+street: Friedrich-Schaefer-Straße
 housenumber: 6-8
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.smythstoys.com"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.smythstoys.com

@@ -4,8 +4,8 @@ latitude: 50.11276
 longitude: 8.66092
 postcode: "60325"
 city: Frankfurt am Main
-street: "Rheinstraße"
-housenumber: 5
-phone: "+49 69 74222236"
-opening_hours: "Mo-Fr 08:00-20:00; Sa off"
-website: "http://www.salon-katrin-grewe.de"
+street: Rheinstraße
+housenumber: "5"
+phone: +49 69 74222236
+opening_hours: Mo-Fr 08:00-20:00; Sa off
+website: http://www.salon-katrin-grewe.de

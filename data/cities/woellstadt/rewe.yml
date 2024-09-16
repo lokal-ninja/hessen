@@ -1,11 +1,11 @@
 id: 473437353
-type: way
+type: node
 latitude: 50.2858
 longitude: 8.76379
 postcode: "61206"
 city: Wöllstadt
-street: "Am Lachengraben"
-housenumber: 1
-phone: "+49 6034 9398250"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/woellstadt/565832/rewe-markt-am-lachengraben-1/"
+street: Am Lachengraben
+housenumber: "1"
+phone: +49 6034 9398250
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/woellstadt/565832/rewe-markt-am-lachengraben-1/

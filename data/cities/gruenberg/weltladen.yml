@@ -1,11 +1,11 @@
 id: 104915420
-type: way
+type: node
 latitude: 50.59055
 longitude: 8.95969
 postcode: "35305"
 city: Grünberg
-street: "Rabegasse"
-housenumber: 14
-phone: "+49 6401 2287133"
-opening_hours: "Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; We,Sa 10:00-13:00"
-website: "https://weltladen-gruenberg.de/"
+street: Rabegasse
+housenumber: "14"
+phone: +49 6401 2287133
+opening_hours: Mo,Tu,Th,Fr 10:00-13:00,15:00-18:00; We,Sa 10:00-13:00
+website: https://weltladen-gruenberg.de/

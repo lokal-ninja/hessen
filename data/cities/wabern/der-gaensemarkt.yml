@@ -1,11 +1,11 @@
 id: 267128948
-type: way
+type: node
 latitude: 51.07083
 longitude: 9.39648
 postcode: ""
 city: Wabern
-street: "Am Gänsemarkt"
-housenumber: 1
+street: Am Gänsemarkt
+housenumber: "1"
 phone: ""
-opening_hours: "Th,Fr 09:00-18:30; Sa 07:00-17:00"
-website: "https://www.amgaensemarkt.de/"
+opening_hours: Th,Fr 09:00-18:30; Sa 07:00-17:00
+website: https://www.amgaensemarkt.de/

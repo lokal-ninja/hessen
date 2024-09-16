@@ -4,8 +4,8 @@ latitude: 50.36507
 longitude: 8.73859
 postcode: "61231"
 city: Bad Nauheim
-street: "Aliceplatz"
-housenumber: 4
+street: Aliceplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-16:00"
-website: "https://buchhandlungampark.buchkatalog.de/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-16:00
+website: https://buchhandlungampark.buchkatalog.de/

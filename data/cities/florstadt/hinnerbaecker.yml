@@ -4,8 +4,8 @@ latitude: 50.31925
 longitude: 8.86083
 postcode: "61197"
 city: Florstadt
-street: "Messeplatz"
-housenumber: 10
-phone: "+49 6035 1896797"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-11:00"
-website: "https://hinnerbaecker.com/"
+street: Messeplatz
+housenumber: "10"
+phone: +49 6035 1896797
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 07:00-11:00
+website: https://hinnerbaecker.com/

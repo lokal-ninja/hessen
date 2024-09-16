@@ -1,11 +1,13 @@
 id: 147523153
-type: way
+type: node
 latitude: 50.04768
 longitude: 8.67849
 postcode: "63263"
 city: Neu-Isenburg
-street: "Schleussnerstraße"
+street: Schleussnerstraße
 housenumber: 96-98
 phone: ""
-opening_hours: "Mo-Fr 8:00-18:30 open; Sa 9:00-13:00 open; Mo-Th 7:30-16:00 Teile; Fr 7:30-14:30 Teile; Sa 9:00-13:00 Teile; Mo-Fr 7:30-18:00 Service; Sa 9:00-13:00 Service; Mo-Fr 8:00-18:30 Neuwagen; Sa 9:00-14:00 Neuwagen; Su,PH off"
-website: "https://haendler.peugeot.de/retail-rhein-main-neu-isenburg"
+opening_hours: Mo-Fr 8:00-18:30 open; Sa 9:00-13:00 open; Mo-Th 7:30-16:00 "Teile";
+    Fr 7:30-14:30 "Teile"; Sa 9:00-13:00 "Teile"; Mo-Fr 7:30-18:00 "Service"; Sa 9:00-13:00
+    "Service"; Mo-Fr 8:00-18:30 "Neuwagen"; Sa 9:00-14:00 "Neuwagen"; Su,PH off
+website: https://haendler.peugeot.de/retail-rhein-main-neu-isenburg

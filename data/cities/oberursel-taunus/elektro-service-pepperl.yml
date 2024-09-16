@@ -1,11 +1,11 @@
 id: 100368132
-type: way
+type: node
 latitude: 50.2015
 longitude: 8.58169
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Vorstadt"
-housenumber: 13
-phone: "+49 6171 51171"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
-website: "http://www.elektro-pepperl.de/"
+street: Vorstadt
+housenumber: "13"
+phone: +49 6171 51171
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off
+website: http://www.elektro-pepperl.de/

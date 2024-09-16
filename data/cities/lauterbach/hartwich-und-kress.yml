@@ -1,11 +1,11 @@
 id: 92007759
-type: way
+type: node
 latitude: 50.64324
 longitude: 9.39998
 postcode: "36341"
 city: Lauterbach
-street: "Umgehungsstraße"
+street: Umgehungsstraße
 housenumber: 29 - 31
-phone: "+49 6641 9652 0"
+phone: +49 6641 9652 0
 opening_hours: ""
-website: "https://www.hartwich-kress.mercedes-benz.de/"
+website: https://www.hartwich-kress.mercedes-benz.de/

@@ -4,8 +4,8 @@ latitude: 50.07215
 longitude: 8.23883
 postcode: "65185"
 city: Wiesbaden
-street: "Moritzstraße"
-housenumber: 47
-phone: "+49 611 370094"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.zweiohren.de"
+street: Moritzstraße
+housenumber: "47"
+phone: +49 611 370094
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.zweiohren.de

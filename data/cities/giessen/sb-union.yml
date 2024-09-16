@@ -1,11 +1,11 @@
 id: 96488560
-type: way
+type: node
 latitude: 50.58266
 longitude: 8.64916
 postcode: "35398"
 city: Gießen
-street: "Gottlieb-Daimler-Straße"
-housenumber: 11
-phone: "+49 641 962030"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-15:00; PH off"
-website: "https://sbunion.de/markt-giessen/"
+street: Gottlieb-Daimler-Straße
+housenumber: "11"
+phone: +49 641 962030
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-15:00; PH off
+website: https://sbunion.de/markt-giessen/

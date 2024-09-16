@@ -1,11 +1,11 @@
 id: 203240587
-type: way
+type: node
 latitude: 50.70461
 longitude: 8.34529
 postcode: "35745"
 city: Herborn
-street: "Hohe Straße"
-housenumber: 61
+street: Hohe Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

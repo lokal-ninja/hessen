@@ -4,8 +4,8 @@ latitude: 51.31169
 longitude: 9.46561
 postcode: "34121"
 city: Kassel
-street: "Friedenstraße"
-housenumber: 2
+street: Friedenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:30,14:30-18:00; PH,Sa,Su off"
+opening_hours: Mo-Fr 09:00-13:30,14:30-18:00; PH,Sa,Su off
 website: ""

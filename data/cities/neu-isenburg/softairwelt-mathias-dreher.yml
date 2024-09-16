@@ -4,8 +4,8 @@ latitude: 50.04298
 longitude: 8.68771
 postcode: "63263"
 city: Neu-Isenburg
-street: "Hermannstraße"
-housenumber: 50
-phone: "+49 6102 798118"
-opening_hours: "Tu-Fr 14:00-19:00; Sa 11:00-14:00"
-website: "https://www.softairwelt.de"
+street: Hermannstraße
+housenumber: "50"
+phone: +49 6102 798118
+opening_hours: Tu-Fr 14:00-19:00; Sa 11:00-14:00
+website: https://www.softairwelt.de

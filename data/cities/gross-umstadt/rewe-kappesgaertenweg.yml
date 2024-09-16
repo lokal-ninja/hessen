@@ -1,11 +1,11 @@
 id: 230118384
-type: way
+type: node
 latitude: 49.87295
 longitude: 8.92725
 postcode: "64823"
 city: Groß-Umstadt
-street: "Kappesgärtenweg"
-housenumber: 24
+street: Kappesgärtenweg
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

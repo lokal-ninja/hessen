@@ -4,8 +4,8 @@ latitude: 50.09074
 longitude: 8.67201
 postcode: "60596"
 city: Frankfurt am Main
-street: "Stresemannallee"
-housenumber: 75
-phone: "+49 69 40769292"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:30-17:00; PH 08:00-12:00"
+street: Stresemannallee
+housenumber: "75"
+phone: +49 69 40769292
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00; Su 07:30-17:00; PH 08:00-12:00
 website: ""

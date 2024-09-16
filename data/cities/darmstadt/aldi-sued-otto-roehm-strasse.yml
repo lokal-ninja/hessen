@@ -1,11 +1,11 @@
 id: 26304246
-type: way
+type: node
 latitude: 49.89028
 longitude: 8.63316
 postcode: "64293"
 city: Darmstadt
-street: "Otto-Röhm-Straße"
+street: Otto-Röhm-Straße
 housenumber: 79 a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.aldi-sued.de"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.aldi-sued.de

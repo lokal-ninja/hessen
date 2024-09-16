@@ -1,11 +1,11 @@
 id: 124738237
-type: way
+type: node
 latitude: 50.74215
 longitude: 8.21015
 postcode: "35708"
 city: Haiger
-street: "Bitzenstraße"
-housenumber: 10
+street: Bitzenstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.11508
 longitude: 8.72329
 postcode: "60314"
 city: Frankfurt am Main
-street: "Hanauer Landstraße"
-housenumber: 196
-phone: "+49 69 4003403-0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-14:00"
-website: "https://www.maserati.com/de/de/dealers/autohaus-gunther"
+street: Hanauer Landstraße
+housenumber: "196"
+phone: +49 69 4003403-0
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-14:00
+website: https://www.maserati.com/de/de/dealers/autohaus-gunther

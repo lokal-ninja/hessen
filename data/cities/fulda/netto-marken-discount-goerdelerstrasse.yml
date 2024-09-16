@@ -1,11 +1,11 @@
 id: 1120071142
-type: way
+type: node
 latitude: 50.56303
 longitude: 9.69518
 postcode: "36037"
 city: Fulda
-street: "Goerdelerstraße"
-housenumber: 28
+street: Goerdelerstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 199719925
-type: way
+type: node
 latitude: 50.92285
 longitude: 9.22835
 postcode: "34613"
 city: Schwalmstadt
-street: "Saure Wiesen"
-housenumber: 1
+street: Saure Wiesen
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.joneleit.de/frameset/frameset.htm"
+website: https://www.joneleit.de/frameset/frameset.htm

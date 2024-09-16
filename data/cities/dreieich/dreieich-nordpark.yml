@@ -1,11 +1,11 @@
 id: 32303275
-type: way
+type: node
 latitude: 50.03193
 longitude: 8.70338
 postcode: "63303"
 city: Dreieich
-street: "Robert-Bosch-Straße"
-housenumber: 15
+street: Robert-Bosch-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.dreieich-nordpark.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.dreieich-nordpark.de/

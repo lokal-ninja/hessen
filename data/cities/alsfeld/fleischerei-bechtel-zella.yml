@@ -4,8 +4,8 @@ latitude: 50.75167
 longitude: 9.2787
 postcode: "36304"
 city: Alsfeld
-street: "Schellengasse"
-housenumber: 41
-phone: "+49 6631 72690"
-opening_hours: "mo-fr 07:00-18:00, sa 07:00-13:00"
-website: "http://www.fleischerei-bechtel.de/filialen/filiale-alsfeld/#"
+street: Schellengasse
+housenumber: "41"
+phone: +49 6631 72690
+opening_hours: mo-fr 07:00-18:00, sa 07:00-13:00
+website: http://www.fleischerei-bechtel.de/filialen/filiale-alsfeld/#

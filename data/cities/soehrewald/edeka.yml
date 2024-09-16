@@ -1,11 +1,11 @@
 id: 197338637
-type: way
+type: node
 latitude: 51.23221
 longitude: 9.57902
 postcode: "34320"
 city: Söhrewald
-street: "Wattenbacher Straße"
-housenumber: 51
-phone: "+49 5608 5580"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-18:00"
-website: "http://www.edeka.de/"
+street: Wattenbacher Straße
+housenumber: "51"
+phone: +49 5608 5580
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-18:00
+website: http://www.edeka.de/

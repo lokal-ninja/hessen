@@ -1,11 +1,11 @@
 id: 117261799
-type: way
+type: node
 latitude: 49.68639
 longitude: 8.61387
 postcode: "64625"
 city: Bensheim
-street: "Karl-Fuchs-Straße"
-housenumber: 10
+street: Karl-Fuchs-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

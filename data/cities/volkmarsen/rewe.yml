@@ -1,11 +1,11 @@
 id: 1092275895
-type: way
+type: node
 latitude: 51.40989
 longitude: 9.1176
 postcode: "34471"
 city: Volkmarsen
-street: "Steinweg"
-housenumber: 5
+street: Steinweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

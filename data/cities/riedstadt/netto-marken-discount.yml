@@ -1,11 +1,11 @@
 id: 16763725
-type: way
+type: node
 latitude: 49.83171
 longitude: 8.49551
 postcode: "64560"
 city: Riedstadt
-street: "Starkenburger Straße"
-housenumber: 74
+street: Starkenburger Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

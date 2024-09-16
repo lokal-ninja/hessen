@@ -1,11 +1,11 @@
 id: 187993531
-type: way
+type: node
 latitude: 50.50843
 longitude: 9.13257
 postcode: "63679"
 city: Schotten
-street: "Auf der Au"
-housenumber: 27
+street: Auf der Au
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

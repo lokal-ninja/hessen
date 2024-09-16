@@ -4,8 +4,8 @@ latitude: 50.58432
 longitude: 8.47923
 postcode: "35614"
 city: Aßlar
-street: "Walbergraben"
-housenumber: 4
-phone: "+49 6441-80702-0"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "http://www.eins-a.de/index_asslar_leit.html"
+street: Walbergraben
+housenumber: "4"
+phone: +49 6441-80702-0
+opening_hours: Mo-Sa 07:00-22:00
+website: http://www.eins-a.de/index_asslar_leit.html

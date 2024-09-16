@@ -1,11 +1,11 @@
 id: 141121080
-type: way
+type: node
 latitude: 50.5928
 longitude: 8.45764
 postcode: "35614"
 city: Aßlar
-street: "Herborner Straße"
-housenumber: 35
-phone: "+496441 85788"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://www.sonnenstudio-asslar.de/"
+street: Herborner Straße
+housenumber: "35"
+phone: +496441 85788
+opening_hours: Mo-Su 09:00-21:00
+website: https://www.sonnenstudio-asslar.de/

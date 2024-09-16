@@ -1,11 +1,11 @@
 id: 137103548
-type: way
+type: node
 latitude: 50.70809
 longitude: 9.72231
 postcode: "36151"
 city: Burghaun
-street: "Hersfelder Straße"
-housenumber: 42
+street: Hersfelder Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

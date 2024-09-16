@@ -1,11 +1,11 @@
 id: 578839542
-type: way
+type: node
 latitude: 50.92311
 longitude: 8.4643
 postcode: "35216"
 city: Biedenkopf
-street: "Theodor Meißner Straße"
-housenumber: 9
+street: Theodor Meißner Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 197769244
-type: way
+type: node
 latitude: 49.64518
 longitude: 9.01103
 postcode: "64711"
 city: Erbach
-street: "Schulhohlstraße"
-housenumber: 6
+street: Schulhohlstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

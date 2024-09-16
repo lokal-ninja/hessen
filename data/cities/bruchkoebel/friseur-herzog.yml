@@ -4,8 +4,8 @@ latitude: 50.17894
 longitude: 8.9206
 postcode: "63486"
 city: Bruchköbel
-street: "Hauptstraße"
-housenumber: 46
+street: Hauptstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Sa 08:00-13:00; Th 09:30-19:00; Tu,We,Fr 08:30-18:00"
-website: "https://friseursalon-herzog.de/"
+opening_hours: Sa 08:00-13:00; Th 09:30-19:00; Tu,We,Fr 08:30-18:00
+website: https://friseursalon-herzog.de/

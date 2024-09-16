@@ -1,11 +1,11 @@
 id: 445947328
-type: way
+type: node
 latitude: 50.99715
 longitude: 9.1464
 postcode: "34632"
 city: Jesberg
-street: "Kasseler Straße"
-housenumber: 3
-phone: "+496695 268"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.kfz-technik-boeth.de/"
+street: Kasseler Straße
+housenumber: "3"
+phone: +496695 268
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.kfz-technik-boeth.de/

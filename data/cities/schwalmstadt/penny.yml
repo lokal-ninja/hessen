@@ -1,11 +1,11 @@
 id: 204161185
-type: way
+type: node
 latitude: 50.91916
 longitude: 9.23395
 postcode: "34613"
 city: Schwalmstadt
-street: "Hessenallee"
-housenumber: 42
+street: Hessenallee
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.penny.de/

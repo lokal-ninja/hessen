@@ -1,11 +1,11 @@
 id: 67388385
-type: way
+type: node
 latitude: 50.54139
 longitude: 8.9928
 postcode: "35321"
 city: Laubach
-street: "Friedrichstraße"
+street: Friedrichstraße
 housenumber: 2,4
 phone: ""
-opening_hours: "Tu 14:00-18:00; We-Sa 06:30-18:00; Su 07:00-18:00"
+opening_hours: Tu 14:00-18:00; We-Sa 06:30-18:00; Su 07:00-18:00
 website: ""

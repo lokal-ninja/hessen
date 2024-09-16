@@ -4,8 +4,8 @@ latitude: 50.0591
 longitude: 8.52163
 postcode: "65451"
 city: Kelsterbach
-street: "Am Graf-de-Chardonnet-Platz"
-housenumber: 11
-phone: "+49 6107 7569138"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+street: Am Graf-de-Chardonnet-Platz
+housenumber: "11"
+phone: +49 6107 7569138
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

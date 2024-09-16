@@ -1,11 +1,11 @@
 id: 153793581
-type: way
+type: node
 latitude: 49.97655
 longitude: 8.43471
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Eisenstraße"
-housenumber: 10
-phone: "+49 6142 7956790"
+street: Eisenstraße
+housenumber: "10"
+phone: +49 6142 7956790
 opening_hours: ""
-website: "http://www.autoschilder-ruesselsheim.de/"
+website: http://www.autoschilder-ruesselsheim.de/

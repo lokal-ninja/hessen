@@ -1,11 +1,11 @@
 id: 158421298
-type: way
+type: node
 latitude: 50.21456
 longitude: 9.04355
 postcode: "63549"
 city: Ronneburg
-street: "Langstraße"
-housenumber: 12
-phone: "+49 6184 92750"
-opening_hours: "Mo-Fr 09:00-12:00"
-website: "https://www.iq-elektro-koehler.de"
+street: Langstraße
+housenumber: "12"
+phone: +49 6184 92750
+opening_hours: Mo-Fr 09:00-12:00
+website: https://www.iq-elektro-koehler.de

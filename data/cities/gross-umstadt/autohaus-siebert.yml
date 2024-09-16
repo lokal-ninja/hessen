@@ -1,11 +1,11 @@
 id: 261223830
-type: way
+type: node
 latitude: 49.86852
 longitude: 8.92355
 postcode: "64823"
 city: Groß-Umstadt
-street: "Georg-August-Zinn-Straße"
-housenumber: 54
+street: Georg-August-Zinn-Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "http://autosiebert.de/"
+website: http://autosiebert.de/

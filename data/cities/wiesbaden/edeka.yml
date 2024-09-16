@@ -1,11 +1,11 @@
 id: 701827863
-type: way
+type: node
 latitude: 50.08231
 longitude: 8.26252
 postcode: "65189"
 city: Wiesbaden
-street: "Bierstadter Straße"
-housenumber: 53
+street: Bierstadter Straße
+housenumber: "53"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.05888
 longitude: 8.25424
 postcode: ""
 city: Wiesbaden
-street: "Mainzer Straße"
-housenumber: 123
-phone: "+49 611 712562"
+street: Mainzer Straße
+housenumber: "123"
+phone: +49 611 712562
 opening_hours: ""
-website: "https://www.pitstop.de/Werkstatt/wiesbaden"
+website: https://www.pitstop.de/Werkstatt/wiesbaden

@@ -4,8 +4,8 @@ latitude: 50.12969
 longitude: 8.7168
 postcode: "60385"
 city: Frankfurt am Main
-street: "Inheidener Straße"
-housenumber: 51
-phone: "+49 152 11236600"
-opening_hours: "We,Fr 11:00-19:00; Th 12:00-20:00; Sa,Su off"
+street: Inheidener Straße
+housenumber: "51"
+phone: +49 152 11236600
+opening_hours: We,Fr 11:00-19:00; Th 12:00-20:00; Sa,Su off
 website: ""

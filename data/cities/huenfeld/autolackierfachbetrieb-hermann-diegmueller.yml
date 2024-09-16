@@ -1,11 +1,11 @@
 id: 89742845
-type: way
+type: node
 latitude: 50.68718
 longitude: 9.7529
 postcode: ""
 city: Hünfeld
-street: "Rudolf-Diesel-Straße"
-housenumber: 8
+street: Rudolf-Diesel-Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

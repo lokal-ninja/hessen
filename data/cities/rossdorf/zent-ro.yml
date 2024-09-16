@@ -1,11 +1,11 @@
 id: 910390471
-type: way
+type: node
 latitude: 49.86142
 longitude: 8.76533
 postcode: "64380"
 city: Roßdorf
-street: "Theodor-Clausen-Straße"
-housenumber: 4
+street: Theodor-Clausen-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

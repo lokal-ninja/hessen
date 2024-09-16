@@ -1,11 +1,11 @@
 id: 310909422
-type: way
+type: node
 latitude: 49.99587
 longitude: 8.65041
 postcode: "63225"
 city: Langen (Hessen)
-street: "Ampèrestraße"
-housenumber: 15
-phone: "+49 6103 3001910"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://toom.de/m/langen/"
+street: Ampèrestraße
+housenumber: "15"
+phone: +49 6103 3001910
+opening_hours: Mo-Sa 07:00-20:00
+website: https://toom.de/m/langen/

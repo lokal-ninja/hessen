@@ -1,11 +1,11 @@
 id: 202342307
-type: way
+type: node
 latitude: 51.30942
 longitude: 9.54574
 postcode: "34123"
 city: Kassel
-street: "Mündener Straße"
-housenumber: 14
-phone: "+49 561 520830"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
-website: "https://filiale.euromaster.de/23128-euromaster-kassel"
+street: Mündener Straße
+housenumber: "14"
+phone: +49 561 520830
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
+website: https://filiale.euromaster.de/23128-euromaster-kassel

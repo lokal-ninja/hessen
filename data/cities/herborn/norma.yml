@@ -1,11 +1,11 @@
 id: 146803255
-type: way
+type: node
 latitude: 50.68658
 longitude: 8.30227
 postcode: "35745"
 city: Herborn
-street: "Bürgermeisterwiese"
-housenumber: 8
+street: Bürgermeisterwiese
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

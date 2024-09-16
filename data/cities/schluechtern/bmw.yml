@@ -1,11 +1,11 @@
 id: 158903740
-type: way
+type: node
 latitude: 50.35684
 longitude: 9.53641
 postcode: "36381"
 city: Schlüchtern
-street: "Elmer Aue"
-housenumber: 3
+street: Elmer Aue
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

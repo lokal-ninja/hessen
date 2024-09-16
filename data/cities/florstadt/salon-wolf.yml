@@ -4,8 +4,8 @@ latitude: 50.32195
 longitude: 8.85432
 postcode: "61197"
 city: Florstadt
-street: "Siedlungsstraße"
-housenumber: 12
-phone: "+49 6035 6947"
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:30-13:00"
+street: Siedlungsstraße
+housenumber: "12"
+phone: +49 6035 6947
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:30-13:00
 website: ""

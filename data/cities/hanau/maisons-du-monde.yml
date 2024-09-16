@@ -4,8 +4,8 @@ latitude: 50.14879
 longitude: 8.94807
 postcode: "63452"
 city: Hanau
-street: "Oderstraße"
-housenumber: 15
-phone: "+49 6181 180020"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Oderstraße
+housenumber: "15"
+phone: +49 6181 180020
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

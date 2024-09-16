@@ -1,11 +1,11 @@
 id: 307659381
-type: way
+type: node
 latitude: 50.78185
 longitude: 9.76673
 postcode: ""
 city: Eiterfeld
-street: "Hersfelder Straße"
-housenumber: 36
+street: Hersfelder Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

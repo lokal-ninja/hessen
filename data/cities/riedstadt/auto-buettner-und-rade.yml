@@ -1,11 +1,11 @@
 id: 727274416
-type: way
+type: node
 latitude: 49.82863
 longitude: 8.48965
 postcode: "64560"
 city: Riedstadt
-street: "Im Entenbad"
-housenumber: 3
+street: Im Entenbad
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

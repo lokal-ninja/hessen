@@ -4,8 +4,8 @@ latitude: 50.12526
 longitude: 8.70682
 postcode: "60385"
 city: Frankfurt am Main
-street: "Arnsburger Straße"
-housenumber: 76
+street: Arnsburger Straße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:15-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-13:00,14:15-19:00; Sa 10:00-16:00
 website: ""

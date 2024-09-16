@@ -1,11 +1,11 @@
 id: 194607348
-type: way
+type: node
 latitude: 50.04875
 longitude: 8.97069
 postcode: "63500"
 city: Seligenstadt
-street: "Ellenseestraße"
-housenumber: 17
+street: Ellenseestraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

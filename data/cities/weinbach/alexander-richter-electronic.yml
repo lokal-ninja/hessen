@@ -1,11 +1,11 @@
 id: 520854864
-type: way
+type: node
 latitude: 50.44955
 longitude: 8.26046
 postcode: "35796"
 city: Weinbach
-street: "Taunusstraße"
-housenumber: 20
+street: Taunusstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

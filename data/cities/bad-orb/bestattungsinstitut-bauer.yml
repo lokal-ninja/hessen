@@ -1,11 +1,11 @@
 id: 66344170
-type: way
+type: node
 latitude: 50.22697
 longitude: 9.34881
 postcode: "63619"
 city: Bad Orb
-street: "Raiffeisenstraße"
-housenumber: 1
+street: Raiffeisenstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

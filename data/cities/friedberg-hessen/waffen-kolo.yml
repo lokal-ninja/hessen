@@ -1,11 +1,11 @@
 id: 315818560
-type: way
+type: node
 latitude: 50.33659
 longitude: 8.75969
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Gebrüder-Lang-Straße"
-housenumber: 2
-phone: "+49 6031 7915283"
-opening_hours: "Mo-Sa 10:00-14:00"
-website: "https://www.waffen-kolo.de/"
+street: Gebrüder-Lang-Straße
+housenumber: "2"
+phone: +49 6031 7915283
+opening_hours: Mo-Sa 10:00-14:00
+website: https://www.waffen-kolo.de/

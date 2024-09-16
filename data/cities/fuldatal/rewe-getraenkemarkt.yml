@@ -4,8 +4,8 @@ latitude: 51.34191
 longitude: 9.51774
 postcode: "34233"
 city: Fuldatal
-street: "Ihringshäuser Straße"
-housenumber: 161
-phone: "+49 5601 310570"
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "http://www.rewe.de/"
+street: Ihringshäuser Straße
+housenumber: "161"
+phone: +49 5601 310570
+opening_hours: Mo-Sa 06:00-22:00
+website: http://www.rewe.de/

@@ -4,8 +4,8 @@ latitude: 51.34188
 longitude: 9.85854
 postcode: "37213"
 city: Witzenhausen
-street: "Walburger Straße"
-housenumber: 8
-phone: "+49 5542 8834"
-opening_hours: "Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00"
+street: Walburger Straße
+housenumber: "8"
+phone: +49 5542 8834
+opening_hours: Mo-Th 09:00-13:00,15:00-18:00; Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

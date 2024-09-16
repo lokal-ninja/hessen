@@ -4,8 +4,8 @@ latitude: 50.18903
 longitude: 8.73334
 postcode: "61118"
 city: Bad Vilbel
-street: "Rodheimer Straße"
-housenumber: 15
-phone: "+49 6101 9860543"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 07:00-18:00"
-website: "https://www.der-baecker-eifler.de/startseite"
+street: Rodheimer Straße
+housenumber: "15"
+phone: +49 6101 9860543
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-22:00; Su 07:00-18:00
+website: https://www.der-baecker-eifler.de/startseite

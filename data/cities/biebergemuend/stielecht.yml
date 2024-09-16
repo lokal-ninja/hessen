@@ -4,8 +4,8 @@ latitude: 50.15887
 longitude: 9.32688
 postcode: "63599"
 city: Biebergemünd
-street: "Mühlstraße"
-housenumber: 2
-phone: "+49 6050 9080454"
-opening_hours: "Mo-Sa 09:00-12:00, Th,Fr 14:30-18:00"
+street: Mühlstraße
+housenumber: "2"
+phone: +49 6050 9080454
+opening_hours: Mo-Sa 09:00-12:00, Th,Fr 14:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 83281841
-type: way
+type: node
 latitude: 50.53794
 longitude: 8.72929
 postcode: "35415"
 city: Pohlheim
-street: "Johannes-Rau-Straße"
-housenumber: 3
+street: Johannes-Rau-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

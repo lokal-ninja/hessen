@@ -1,11 +1,11 @@
 id: 308568224
-type: way
+type: node
 latitude: 50.82745
 longitude: 8.77256
 postcode: "35039"
 city: Marburg
-street: "Alte Kasseler Straße"
-housenumber: 53
-phone: "+49 6421 61002-25588"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:30-12:30"
-website: "https://de.trost.com/Home/ProdukteDienstleistungen/Unternehmen/Standorte/Standortkarte.aspx"
+street: Alte Kasseler Straße
+housenumber: "53"
+phone: +49 6421 61002-25588
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:30-12:30
+website: https://de.trost.com/Home/ProdukteDienstleistungen/Unternehmen/Standorte/Standortkarte.aspx

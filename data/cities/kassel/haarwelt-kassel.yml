@@ -1,11 +1,11 @@
 id: 204017990
-type: way
+type: node
 latitude: 51.30549
 longitude: 9.52843
 postcode: "34123"
 city: Kassel
-street: "Leipziger Straße"
-housenumber: 179
-phone: "+49 561 53769"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "http://www.haarwelt-kassel.de"
+street: Leipziger Straße
+housenumber: "179"
+phone: +49 561 53769
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: http://www.haarwelt-kassel.de

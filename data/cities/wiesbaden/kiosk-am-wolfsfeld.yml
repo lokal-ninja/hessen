@@ -1,11 +1,11 @@
 id: 903042669
-type: way
+type: node
 latitude: 50.08725
 longitude: 8.285
 postcode: "65191"
 city: Wiesbaden
-street: "Leipziger Straße"
-housenumber: 2
+street: Leipziger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

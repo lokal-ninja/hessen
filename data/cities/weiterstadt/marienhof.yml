@@ -1,11 +1,11 @@
 id: 520518118
-type: way
+type: node
 latitude: 49.91367
 longitude: 8.58151
 postcode: "64331"
 city: Weiterstadt
-street: "Schleifweg"
-housenumber: 47
+street: Schleifweg
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 07:15-18:00, Sa 07:30-12:30"
-website: "https://www.metzgerei-marienhof.de/"
+opening_hours: Mo-Fr 07:15-18:00, Sa 07:30-12:30
+website: https://www.metzgerei-marienhof.de/

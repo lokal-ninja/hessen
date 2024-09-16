@@ -1,11 +1,11 @@
 id: 294916826
-type: way
+type: node
 latitude: 49.75356
 longitude: 8.6334
 postcode: "64342"
 city: Seeheim-Jugenheim
-street: "Bickenbacher Straße"
-housenumber: 1
-phone: "+49 6257 2483"
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30; We,Su off"
-website: "https://www.lang-lauf-jugenheim.de/home.html"
+street: Bickenbacher Straße
+housenumber: "1"
+phone: +49 6257 2483
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30; We,Su off
+website: https://www.lang-lauf-jugenheim.de/home.html

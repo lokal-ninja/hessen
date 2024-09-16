@@ -4,8 +4,8 @@ latitude: 50.548
 longitude: 9.68766
 postcode: "36043"
 city: Fulda
-street: "Heinrichstraße"
-housenumber: 85
-phone: "+49 661 90195240"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.kl-ruppert.de"
+street: Heinrichstraße
+housenumber: "85"
+phone: +49 661 90195240
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.kl-ruppert.de

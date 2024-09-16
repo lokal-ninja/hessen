@@ -4,8 +4,8 @@ latitude: 50.07983
 longitude: 8.23819
 postcode: "65185"
 city: Wiesbaden
-street: "Kirchgasse"
-housenumber: 27
-phone: "+49 611 97459000"
-opening_hours: "Mo-Fr 09:30-19:30, Sa 09:30-18:00"
-website: "https://shopseite.telekom.de/sued-west/wiesbaden/kirchgasse-27"
+street: Kirchgasse
+housenumber: "27"
+phone: +49 611 97459000
+opening_hours: Mo-Fr 09:30-19:30, Sa 09:30-18:00
+website: https://shopseite.telekom.de/sued-west/wiesbaden/kirchgasse-27

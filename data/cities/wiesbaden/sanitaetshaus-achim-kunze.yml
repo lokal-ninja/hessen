@@ -4,8 +4,8 @@ latitude: 50.08743
 longitude: 8.24234
 postcode: "65183"
 city: Wiesbaden
-street: "Taunusstraße"
-housenumber: 13
+street: Taunusstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Sa 08:30-15:00; Mo-Fr 08:30-18:00"
-website: "http://www.s-ak.de"
+opening_hours: Sa 08:30-15:00; Mo-Fr 08:30-18:00
+website: http://www.s-ak.de

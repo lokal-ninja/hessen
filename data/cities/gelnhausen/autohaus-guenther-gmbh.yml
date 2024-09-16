@@ -1,11 +1,11 @@
 id: 160959585
-type: way
+type: node
 latitude: 50.2085
 longitude: 9.23286
 postcode: "63571"
 city: Gelnhausen
-street: "Leipziger Allee"
-housenumber: 51
+street: Leipziger Allee
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

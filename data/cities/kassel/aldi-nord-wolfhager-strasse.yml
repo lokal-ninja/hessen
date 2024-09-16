@@ -1,11 +1,11 @@
 id: 217882363
-type: way
+type: node
 latitude: 51.33194
 longitude: 9.45562
 postcode: "34128"
 city: Kassel
-street: "Wolfhager Straße"
-housenumber: 274
+street: Wolfhager Straße
+housenumber: "274"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/kassel/wolfhager-strasse-274.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/kassel/wolfhager-strasse-274.html

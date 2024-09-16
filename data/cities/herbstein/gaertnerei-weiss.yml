@@ -1,11 +1,11 @@
 id: 106926723
-type: way
+type: node
 latitude: 50.56594
 longitude: 9.34768
 postcode: "36358"
 city: Herbstein
-street: "Ostring"
-housenumber: 2
+street: Ostring
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

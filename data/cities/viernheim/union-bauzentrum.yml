@@ -1,11 +1,11 @@
 id: 311728054
-type: way
+type: node
 latitude: 49.5445
 longitude: 8.58681
 postcode: ""
 city: Viernheim
-street: "Wiesenstraße"
-housenumber: 56
+street: Wiesenstraße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 173653002
-type: way
+type: node
 latitude: 50.90489
 longitude: 9.74639
 postcode: "36251"
 city: Ludwigsau
-street: "Industriestraße"
-housenumber: 6
+street: Industriestraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

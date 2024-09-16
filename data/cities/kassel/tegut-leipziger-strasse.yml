@@ -4,8 +4,8 @@ latitude: 51.30523
 longitude: 9.52707
 postcode: "34123"
 city: Kassel
-street: "Leipziger Straße"
-housenumber: 128
+street: Leipziger Straße
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-kassel-bettenhausen-leipziger-str-136.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.tegut.com/maerkte/markt/tegut-kassel-bettenhausen-leipziger-str-136.html

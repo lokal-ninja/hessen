@@ -1,11 +1,11 @@
 id: 95549237
-type: way
+type: node
 latitude: 49.68158
 longitude: 8.6234
 postcode: "64625"
 city: Bensheim
-street: "Marktplatz"
-housenumber: 8
+street: Marktplatz
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

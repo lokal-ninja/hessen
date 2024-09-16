@@ -1,11 +1,11 @@
 id: 460566405
-type: way
+type: node
 latitude: 50.66874
 longitude: 8.78114
 postcode: "35460"
 city: Staufenberg
-street: "Hauptstraße"
-housenumber: 109
+street: Hauptstraße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

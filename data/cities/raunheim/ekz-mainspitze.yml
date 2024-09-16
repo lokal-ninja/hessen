@@ -1,11 +1,11 @@
 id: 15693967
-type: way
+type: node
 latitude: 50.00909
 longitude: 8.43691
 postcode: "65479"
 city: Raunheim
-street: "Flörsheimer Straße"
-housenumber: 3
+street: Flörsheimer Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

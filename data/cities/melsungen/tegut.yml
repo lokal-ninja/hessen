@@ -1,11 +1,11 @@
 id: 42697789
-type: way
+type: node
 latitude: 51.13478
 longitude: 9.54115
 postcode: "34212"
 city: Melsungen
-street: "Kasseler Straße"
-housenumber: 52
-phone: "+49 5661 929380"
-opening_hours: "Mo-Th 07:00-21:00; Fr,Sa 07:00-22:00"
-website: "http://www.tegut.com/"
+street: Kasseler Straße
+housenumber: "52"
+phone: +49 5661 929380
+opening_hours: Mo-Th 07:00-21:00; Fr,Sa 07:00-22:00
+website: http://www.tegut.com/

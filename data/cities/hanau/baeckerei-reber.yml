@@ -1,11 +1,11 @@
 id: 116407456
-type: way
+type: node
 latitude: 50.12864
 longitude: 8.92909
 postcode: "63450"
 city: Hanau
-street: "Alfred-Delp-Straße"
-housenumber: 14
+street: Alfred-Delp-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

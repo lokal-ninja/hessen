@@ -1,11 +1,11 @@
 id: 47297157
-type: way
+type: node
 latitude: 49.75348
 longitude: 8.49279
 postcode: "64579"
 city: Gernsheim
-street: "Bensheimer Straße"
-housenumber: 7
-phone: "+49 6258 9999070"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Bensheimer Straße
+housenumber: "7"
+phone: +49 6258 9999070
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

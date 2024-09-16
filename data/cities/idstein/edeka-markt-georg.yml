@@ -1,11 +1,11 @@
 id: 49367083
-type: way
+type: node
 latitude: 50.22305
 longitude: 8.25418
 postcode: "65510"
 city: Idstein
-street: "Weldertstraße"
-housenumber: 1
-phone: "+49 6126 95952-0"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka-georg.de/"
+street: Weldertstraße
+housenumber: "1"
+phone: +49 6126 95952-0
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka-georg.de/

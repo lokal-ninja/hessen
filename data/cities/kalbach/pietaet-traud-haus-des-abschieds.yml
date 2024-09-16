@@ -1,11 +1,11 @@
 id: 1035353299
-type: way
+type: node
 latitude: 50.43022
 longitude: 9.63996
 postcode: "36148"
 city: Kalbach
-street: "Forsthaus"
-housenumber: 3
+street: Forsthaus
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

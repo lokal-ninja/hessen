@@ -1,11 +1,11 @@
 id: 315829826
-type: way
+type: node
 latitude: 51.4123
 longitude: 9.11964
 postcode: ""
 city: Volkmarsen
-street: "Gerichtsstraße"
-housenumber: 11
+street: Gerichtsstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

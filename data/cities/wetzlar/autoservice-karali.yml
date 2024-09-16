@@ -1,11 +1,11 @@
 id: 405314651
-type: way
+type: node
 latitude: 50.56194
 longitude: 8.61163
 postcode: "35582"
 city: Wetzlar
-street: "Industriestraße"
-housenumber: 14
-phone: "+49 641 25100"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-14:00"
-website: "http://www.autoservicekarali.de"
+street: Industriestraße
+housenumber: "14"
+phone: +49 641 25100
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-14:00
+website: http://www.autoservicekarali.de

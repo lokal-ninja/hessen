@@ -1,11 +1,11 @@
 id: 236437166
-type: way
+type: node
 latitude: 51.34278
 longitude: 9.08536
 postcode: "34454"
 city: Bad Arolsen
-street: "Arolser Straße"
-housenumber: 25
+street: Arolser Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://autohaus-preising.de/"
+opening_hours: Mo-Fr 08:00-18:00
+website: https://autohaus-preising.de/

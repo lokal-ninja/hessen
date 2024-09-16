@@ -1,11 +1,11 @@
 id: 460529466
-type: way
+type: node
 latitude: 50.67149
 longitude: 8.78259
 postcode: "35460"
 city: Staufenberg
-street: "Goldbergstraße"
-housenumber: 19
+street: Goldbergstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 384851420
-type: way
+type: node
 latitude: 49.83647
 longitude: 8.83391
 postcode: "64354"
 city: Reinheim
-street: "Darmstädter Straße"
+street: Darmstädter Straße
 housenumber: 65 D
-phone: "+49 6162 9685790"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.fristo.de/no_cache/maerkte/info/getraenkemarkt/reinheim-darmstaedter-strasse-65-d/"
+phone: +49 6162 9685790
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.fristo.de/no_cache/maerkte/info/getraenkemarkt/reinheim-darmstaedter-strasse-65-d/

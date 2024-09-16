@@ -1,11 +1,11 @@
 id: 126366140
-type: way
+type: node
 latitude: 50.4927
 longitude: 8.65598
 postcode: "35428"
 city: Langgöns
-street: "Am Lindenbaum"
-housenumber: 1
+street: Am Lindenbaum
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://rewe-travaci.de/langgoens-supermarkt/"
+opening_hours: Mo-Sa 06:00-22:00
+website: https://rewe-travaci.de/langgoens-supermarkt/

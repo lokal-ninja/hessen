@@ -4,8 +4,8 @@ latitude: 50.58244
 longitude: 8.67056
 postcode: "35390"
 city: Gießen
-street: "Seltersweg"
-housenumber: 64
-phone: "+49 641 55929880"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-17:30; PH off"
-website: "https://www.baeckerei-volkmann.de"
+street: Seltersweg
+housenumber: "64"
+phone: +49 641 55929880
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-17:30; PH off
+website: https://www.baeckerei-volkmann.de

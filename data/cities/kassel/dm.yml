@@ -4,8 +4,8 @@ latitude: 51.31268
 longitude: 9.49251
 postcode: "34117"
 city: Kassel
-street: "Obere Königsstraße"
-housenumber: 17
-phone: "+49 561 60290859"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dm.de/"
+street: Obere Königsstraße
+housenumber: "17"
+phone: +49 561 60290859
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dm.de/

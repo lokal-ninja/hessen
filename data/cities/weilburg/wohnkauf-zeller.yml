@@ -1,11 +1,11 @@
 id: 106808974
-type: way
+type: node
 latitude: 50.4808
 longitude: 8.29637
 postcode: "35781"
 city: Weilburg
-street: "Viehweg"
-housenumber: 8
-phone: "+49 6471 92780"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.wohnkauf-zeller.de/de/standorte/weilburg.html"
+street: Viehweg
+housenumber: "8"
+phone: +49 6471 92780
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.wohnkauf-zeller.de/de/standorte/weilburg.html

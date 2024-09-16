@@ -4,8 +4,8 @@ latitude: 49.87488
 longitude: 8.63729
 postcode: "64293"
 city: Darmstadt
-street: "Bismarckstraße"
-housenumber: 105
-phone: "+49 6151 891291"
-opening_hours: "Tu,We,Fr 10:00-18:00; Th 08:30-18:00; Sa 07:30-13:00"
-website: "https://struwwelliese.net/"
+street: Bismarckstraße
+housenumber: "105"
+phone: +49 6151 891291
+opening_hours: Tu,We,Fr 10:00-18:00; Th 08:30-18:00; Sa 07:30-13:00
+website: https://struwwelliese.net/

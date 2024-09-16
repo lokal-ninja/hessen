@@ -1,11 +1,11 @@
 id: 318695254
-type: way
+type: node
 latitude: 50.05123
 longitude: 7.89216
 postcode: "65385"
 city: Rüdesheim am Rhein
-street: "Grohlochstraße"
-housenumber: 10
+street: Grohlochstraße
+housenumber: "10"
 phone: "+4967261690"
-opening_hours: "Fr 16:00-18:00; Sa 08:00-12:00"
+opening_hours: Fr 16:00-18:00; Sa 08:00-12:00
 website: ""

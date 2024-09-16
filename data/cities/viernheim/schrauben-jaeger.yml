@@ -1,11 +1,11 @@
 id: 342327258
-type: way
+type: node
 latitude: 49.5518
 longitude: 8.59376
 postcode: "68519"
 city: Viernheim
-street: "Max-Born-Straße"
-housenumber: 7
+street: Max-Born-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "www.schrauben-jaeger.de"
+website: www.schrauben-jaeger.de

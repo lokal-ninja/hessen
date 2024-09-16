@@ -4,8 +4,8 @@ latitude: 50.12729
 longitude: 8.61267
 postcode: "60489"
 city: Frankfurt am Main
-street: "Winterstraße"
-housenumber: 20
-phone: "+49 69 782623"
-opening_hours: "Mo-Fr 08:00-18:30, Sa 07:30-13:00; PH closed"
-website: "https://www.metzger-heinrich.de/"
+street: Winterstraße
+housenumber: "20"
+phone: +49 69 782623
+opening_hours: Mo-Fr 08:00-18:30, Sa 07:30-13:00; PH closed
+website: https://www.metzger-heinrich.de/

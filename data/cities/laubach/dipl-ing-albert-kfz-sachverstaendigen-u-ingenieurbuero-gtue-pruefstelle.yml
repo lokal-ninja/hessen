@@ -1,11 +1,11 @@
 id: 67394128
-type: way
+type: node
 latitude: 50.54356
 longitude: 8.98032
 postcode: "35321"
 city: Laubach
-street: "Dexionstraße"
+street: Dexionstraße
 housenumber: 10a
-phone: "+49 6405 502727"
-opening_hours: "Th-Sa 09:00-12:00; Th-Fr 13:00-18:00"
-website: "http://www.laubach-power.de/dc8baf08-b365-4e79-b0b0-f3d8d0057ea9.html?t=1326282912647"
+phone: +49 6405 502727
+opening_hours: Th-Sa 09:00-12:00; Th-Fr 13:00-18:00
+website: http://www.laubach-power.de/dc8baf08-b365-4e79-b0b0-f3d8d0057ea9.html?t=1326282912647

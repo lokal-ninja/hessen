@@ -1,11 +1,11 @@
 id: 275354128
-type: way
+type: node
 latitude: 49.8895
-longitude: 8.61113
+longitude: 8.61114
 postcode: "64331"
 city: Weiterstadt
-street: "Waldstraße"
-housenumber: 18
-phone: "+49 6151 859320"
+street: Waldstraße
+housenumber: "18"
+phone: +49 6151 859320
 opening_hours: ""
-website: "http://www.roth-gruppe.com"
+website: http://www.roth-gruppe.com

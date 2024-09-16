@@ -4,8 +4,8 @@ latitude: 50.10996
 longitude: 8.7102
 postcode: "60314"
 city: Frankfurt am Main
-street: "Mayfarthstraße"
-housenumber: 15
+street: Mayfarthstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 09:00-13:30"
+opening_hours: Mo-Fr 07:30-17:30; Sa 09:00-13:30
 website: ""

@@ -1,11 +1,12 @@
 id: 209313730
-type: way
+type: node
 latitude: 50.01082
 longitude: 8.43997
 postcode: "65479"
 city: Raunheim
-street: "Hafenstraße"
-housenumber: 3
+street: Hafenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:00; We 09:00-12:30; Sa 09:00-13:00; PH,Su off"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:00; We 09:00-12:30; Sa 09:00-13:00; PH,Su
+    off
 website: ""

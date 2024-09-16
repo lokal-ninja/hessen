@@ -1,11 +1,11 @@
 id: 66862074
-type: way
+type: node
 latitude: 50.33144
 longitude: 8.71903
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Borngasse"
-housenumber: 29
+street: Borngasse
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 165915458
-type: way
+type: node
 latitude: 50.35695
 longitude: 9.30494
 postcode: "63633"
 city: Birstein
-street: "Rosengarten"
-housenumber: 10
+street: Rosengarten
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

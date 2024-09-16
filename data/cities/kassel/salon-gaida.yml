@@ -4,8 +4,8 @@ latitude: 51.31643
 longitude: 9.46445
 postcode: "34119"
 city: Kassel
-street: "Friedrich-Ebert-Straße"
-housenumber: 134
-phone: "+49 561 1 33 47"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://salon-gaida.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "134"
+phone: +49 561 1 33 47
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://salon-gaida.de/

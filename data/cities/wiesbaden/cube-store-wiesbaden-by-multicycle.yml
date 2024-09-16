@@ -1,11 +1,11 @@
 id: 1188905900
-type: way
+type: node
 latitude: 50.04737
 longitude: 8.23061
 postcode: "65203"
 city: Wiesbaden
-street: "Hagenauer Straße"
-housenumber: 1
-phone: "+49 611 95010060"
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-15:00; Su, Mo, PH off"
-website: "https://multicycle.de/cube-store-wiesbaden"
+street: Hagenauer Straße
+housenumber: "1"
+phone: +49 611 95010060
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:00-15:00; Su, Mo, PH off
+website: https://multicycle.de/cube-store-wiesbaden

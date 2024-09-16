@@ -1,11 +1,11 @@
 id: 287274954
-type: way
+type: node
 latitude: 50.30681
 longitude: 8.51249
 postcode: "61267"
 city: Neu-Anspach
-street: "Rudolf-Diesel-Straße"
-housenumber: 5
+street: Rudolf-Diesel-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Th 08:30-16:00; Fr 08:30-13:00"
-website: "https://www.praum-zwieback.de/"
+opening_hours: Th 08:30-16:00; Fr 08:30-13:00
+website: https://www.praum-zwieback.de/

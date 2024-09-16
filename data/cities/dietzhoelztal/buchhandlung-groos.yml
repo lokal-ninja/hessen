@@ -1,11 +1,11 @@
 id: 151371670
-type: way
+type: node
 latitude: 50.8326
 longitude: 8.31591
 postcode: "35716"
 city: Dietzhölztal
-street: "Hauptstraße"
-housenumber: 78
+street: Hauptstraße
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

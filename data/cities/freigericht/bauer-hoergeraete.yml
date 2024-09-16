@@ -4,8 +4,8 @@ latitude: 50.14279
 longitude: 9.11551
 postcode: "63579"
 city: Freigericht
-street: "Altenmittlauer Straße"
-housenumber: 4
-phone: "+49 6055 9078000"
-opening_hours: "Mo-Su 08:00-13:00,14:00-17:00"
-website: "https://bauerhoergeraete.com/standort-freigericht/"
+street: Altenmittlauer Straße
+housenumber: "4"
+phone: +49 6055 9078000
+opening_hours: Mo-Su 08:00-13:00,14:00-17:00
+website: https://bauerhoergeraete.com/standort-freigericht/

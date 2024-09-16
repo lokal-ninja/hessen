@@ -1,11 +1,11 @@
 id: 199719948
-type: way
+type: node
 latitude: 50.92299
 longitude: 9.22546
 postcode: ""
 city: Schwalmstadt
-street: "Wegebach"
-housenumber: 4
+street: Wegebach
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

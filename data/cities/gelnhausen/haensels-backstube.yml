@@ -4,8 +4,9 @@ latitude: 50.1844
 longitude: 9.14351
 postcode: "63571"
 city: Gelnhausen
-street: "Hanauer Landstraße"
-housenumber: 27
-phone: "+49 6051 66622"
-opening_hours: "Mo-Th 05:00-13:00,14:30-18:00; We,Sa 05:00-13:00; Fr 05:00-18:00; PH off"
+street: Hanauer Landstraße
+housenumber: "27"
+phone: +49 6051 66622
+opening_hours: Mo-Th 05:00-13:00,14:30-18:00; We,Sa 05:00-13:00; Fr 05:00-18:00; PH
+    off
 website: ""

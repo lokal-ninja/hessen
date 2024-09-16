@@ -1,11 +1,11 @@
 id: 504562865
-type: way
+type: node
 latitude: 50.22706
 longitude: 8.20132
 postcode: "65510"
 city: Hünstetten
-street: "Neukirchner Straße"
-housenumber: 53
+street: Neukirchner Straße
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 358906280
-type: way
+type: node
 latitude: 50.02159
 longitude: 8.08768
 postcode: "65346"
 city: Eltville am Rhein
-street: "Hallgarter Straße"
-housenumber: 14
+street: Hallgarter Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,16:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 10:00-12:00,16:00-18:00; Sa 08:00-12:00
 website: ""

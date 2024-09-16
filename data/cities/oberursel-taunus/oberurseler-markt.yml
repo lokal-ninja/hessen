@@ -1,11 +1,11 @@
 id: 106169979
-type: way
+type: node
 latitude: 50.21411
 longitude: 8.56027
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Hohemarkstraße"
-housenumber: 107
+street: Hohemarkstraße
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://oberurselermarkt.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://oberurselermarkt.de/

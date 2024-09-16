@@ -4,8 +4,8 @@ latitude: 50.13862
 longitude: 8.74372
 postcode: "60388"
 city: Frankfurt am Main
-street: "Borsigallee"
-housenumber: 27
-phone: "+49 69 40897360"
-opening_hours: "Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su,PH 10:00-20:00"
-website: "https://www.sunpoint.de/studiofinder/solarium-frankfurt-seckbach"
+street: Borsigallee
+housenumber: "27"
+phone: +49 69 40897360
+opening_hours: Mo-Fr 08:00-21:00; Sa 09:00-20:00; Su,PH 10:00-20:00
+website: https://www.sunpoint.de/studiofinder/solarium-frankfurt-seckbach

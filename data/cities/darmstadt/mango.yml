@@ -4,8 +4,8 @@ latitude: 49.87161
 longitude: 8.6531
 postcode: "64283"
 city: Darmstadt
-street: "Schuchardstraße"
-housenumber: 5
+street: Schuchardstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Fr,Sa 10:00-20:00"
+opening_hours: Mo-Th 10:00-19:00; Fr,Sa 10:00-20:00
 website: ""

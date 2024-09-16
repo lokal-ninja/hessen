@@ -1,11 +1,11 @@
 id: 204244386
-type: way
+type: node
 latitude: 50.72999
 longitude: 9.74712
 postcode: "36151"
 city: Burghaun
-street: "Raiffeisenstraße"
-housenumber: 15
+street: Raiffeisenstraße
+housenumber: "15"
 phone: "+4966529110805"
-opening_hours: "Mo-Fr 10:00-17:00"
+opening_hours: Mo-Fr 10:00-17:00
 website: ""

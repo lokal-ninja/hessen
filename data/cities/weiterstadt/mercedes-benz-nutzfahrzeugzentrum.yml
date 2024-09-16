@@ -1,11 +1,11 @@
 id: 119489367
-type: way
+type: node
 latitude: 49.89788
 longitude: 8.61532
 postcode: "64331"
 city: Weiterstadt
-street: "In der Krümme"
-housenumber: 3
+street: In der Krümme
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

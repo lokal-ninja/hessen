@@ -1,11 +1,11 @@
 id: 337481537
-type: way
+type: node
 latitude: 49.87484
 longitude: 8.82993
 postcode: "64846"
 city: Groß-Zimmern
-street: "Angelgartenstraße"
-housenumber: 2
+street: Angelgartenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

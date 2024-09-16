@@ -1,11 +1,11 @@
 id: 252526956
-type: way
+type: node
 latitude: 50.90486
 longitude: 8.72332
 postcode: "35083"
 city: Wetter (Hessen)
-street: "Am Untertor"
-housenumber: 8
+street: Am Untertor
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-21:00; PH off
+website: https://www.aldi-nord.de/

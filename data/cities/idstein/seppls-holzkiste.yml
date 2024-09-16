@@ -1,11 +1,11 @@
 id: 52008058
-type: way
+type: node
 latitude: 50.22158
 longitude: 8.26974
 postcode: "65510"
 city: Idstein
-street: "König-Adolf-Platz"
-housenumber: 4
-phone: "+49 6126 71848"
+street: König-Adolf-Platz
+housenumber: "4"
+phone: +49 6126 71848
 opening_hours: ""
 website: ""

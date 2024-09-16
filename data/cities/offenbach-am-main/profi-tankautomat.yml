@@ -1,11 +1,11 @@
 id: 60742020
-type: way
+type: node
 latitude: 50.08752
 longitude: 8.76391
 postcode: "63069"
 city: Offenbach am Main
-street: "Senefelderstraße"
-housenumber: 170
+street: Senefelderstraße
+housenumber: "170"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

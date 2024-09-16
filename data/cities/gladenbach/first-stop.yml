@@ -1,11 +1,11 @@
 id: 323665813
-type: way
+type: node
 latitude: 50.77441
 longitude: 8.58857
 postcode: "35075"
 city: Gladenbach
-street: "Marburger Straße"
-housenumber: 35
+street: Marburger Straße
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

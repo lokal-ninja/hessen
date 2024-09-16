@@ -1,11 +1,11 @@
 id: 225134863
-type: way
+type: node
 latitude: 50.7694
 longitude: 9.29299
 postcode: "36304"
 city: Alsfeld
-street: "Hattendörfer Straße"
-housenumber: 2
+street: Hattendörfer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

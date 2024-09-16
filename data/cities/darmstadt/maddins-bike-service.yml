@@ -1,11 +1,11 @@
 id: 136751686
-type: way
+type: node
 latitude: 49.88701
 longitude: 8.63178
 postcode: "64293"
 city: Darmstadt
-street: "Pfnorstraße"
-housenumber: 9
-phone: "+49 6151 9579952"
-opening_hours: "Mo-Fr 10:00-19:00; PH off"
-website: "https://maddins-bikeservice.de/"
+street: Pfnorstraße
+housenumber: "9"
+phone: +49 6151 9579952
+opening_hours: Mo-Fr 10:00-19:00; PH off
+website: https://maddins-bikeservice.de/

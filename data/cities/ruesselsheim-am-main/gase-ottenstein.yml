@@ -4,8 +4,8 @@ latitude: 49.97634
 longitude: 8.42841
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Stahlstraße"
-housenumber: 29
+street: Stahlstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su, PH off"
-website: "http://www.gase-ottenstein.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su, PH off
+website: http://www.gase-ottenstein.de/

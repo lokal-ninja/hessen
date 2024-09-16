@@ -4,8 +4,8 @@ latitude: 50.15176
 longitude: 8.42241
 postcode: "65779"
 city: Kelkheim
-street: "Langstraße"
-housenumber: 1
+street: Langstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Sa 08:00-13:00"
-website: "https://www.rausch-metzgerei-kelkheim.de/"
+opening_hours: Tu-Sa 08:00-13:00
+website: https://www.rausch-metzgerei-kelkheim.de/

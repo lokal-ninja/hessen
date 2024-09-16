@@ -4,8 +4,8 @@ latitude: 50.09734
 longitude: 8.50552
 postcode: "65931"
 city: Frankfurt am Main
-street: "Pfaffenwiese"
-housenumber: 103
+street: Pfaffenwiese
+housenumber: "103"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

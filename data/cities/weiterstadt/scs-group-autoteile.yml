@@ -1,11 +1,11 @@
 id: 46621612
-type: way
-latitude: 49.89339
-longitude: 8.60968
+type: node
+latitude: 49.8934
+longitude: 8.60972
 postcode: "64331"
 city: Weiterstadt
-street: "Riedbahnstraße"
-housenumber: 9
+street: Riedbahnstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

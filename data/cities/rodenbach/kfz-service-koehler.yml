@@ -1,11 +1,11 @@
 id: 223305797
-type: way
+type: node
 latitude: 50.14811
 longitude: 9.00902
 postcode: "63517"
 city: Rodenbach
-street: "Industriestraße"
-housenumber: 22
-phone: "+49 6184 51507"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "http://kfz-service-koehler.com/"
+street: Industriestraße
+housenumber: "22"
+phone: +49 6184 51507
+opening_hours: Mo-Fr 07:30-16:30
+website: http://kfz-service-koehler.com/

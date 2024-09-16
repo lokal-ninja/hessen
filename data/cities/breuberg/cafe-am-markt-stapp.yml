@@ -1,11 +1,11 @@
 id: 119906022
-type: way
+type: node
 latitude: 49.81916
 longitude: 9.01773
 postcode: "64747"
 city: Breuberg
-street: "Ernst-Ludwig-Straße"
-housenumber: 6
-phone: "+49 6163 3347"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-17:00; PH off"
-website: "http://www.baecker-stapp.de"
+street: Ernst-Ludwig-Straße
+housenumber: "6"
+phone: +49 6163 3347
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00; Su 08:00-17:00; PH off
+website: http://www.baecker-stapp.de

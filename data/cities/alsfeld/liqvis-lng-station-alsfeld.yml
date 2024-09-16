@@ -1,11 +1,11 @@
 id: 1177408217
-type: way
+type: node
 latitude: 50.73785
 longitude: 9.24523
 postcode: "36304"
 city: Alsfeld
-street: "Dirsröder Feld"
-housenumber: 4
-phone: "+49 201 319377055"
-opening_hours: "24/7"
+street: Dirsröder Feld
+housenumber: "4"
+phone: +49 201 319377055
+opening_hours: 24/7
 website: ""

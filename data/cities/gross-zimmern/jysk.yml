@@ -1,11 +1,11 @@
 id: 350572434
-type: way
+type: node
 latitude: 49.88082
 longitude: 8.81378
 postcode: "64846"
 city: Groß-Zimmern
-street: "Röntgenstraße"
-housenumber: 6
+street: Röntgenstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://jysk.de/"
+website: https://jysk.de/

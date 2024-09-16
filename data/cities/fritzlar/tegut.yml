@@ -1,11 +1,11 @@
 id: 767361164
-type: way
+type: node
 latitude: 51.13484
 longitude: 9.27505
 postcode: "34560"
 city: Fritzlar
-street: "Am Hospital"
-housenumber: 3
+street: Am Hospital
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-fritzlar-am-hospital-3.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.tegut.com/maerkte/markt/tegut-fritzlar-am-hospital-3.html

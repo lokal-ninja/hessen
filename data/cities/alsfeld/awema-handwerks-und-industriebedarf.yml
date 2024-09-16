@@ -1,11 +1,11 @@
 id: 102844970
-type: way
+type: node
 latitude: 50.74133
 longitude: 9.25988
 postcode: "36304"
 city: Alsfeld
-street: "Liederbacher Straße"
-housenumber: 16
+street: Liederbacher Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

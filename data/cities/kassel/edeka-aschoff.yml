@@ -1,11 +1,11 @@
 id: 771244760
-type: way
+type: node
 latitude: 51.30178
 longitude: 9.48142
 postcode: "34121"
 city: Kassel
-street: "Frankfurter Straße"
+street: Frankfurter Straße
 housenumber: 114-120
-phone: "+49 561 2861561"
-opening_hours: "Mo-Sa 07:00-24:00"
-website: "https://www.edeka.de/eh/hessenring/edeka-aschoff-frankfurterstr.-114-120/"
+phone: +49 561 2861561
+opening_hours: Mo-Sa 07:00-24:00
+website: https://www.edeka.de/eh/hessenring/edeka-aschoff-frankfurterstr.-114-120/

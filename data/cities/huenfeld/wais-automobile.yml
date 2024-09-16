@@ -1,11 +1,11 @@
 id: 459383827
-type: way
+type: node
 latitude: 50.6927
 longitude: 9.75402
 postcode: "36088"
 city: Hünfeld
-street: "Industriestraße"
-housenumber: 20
+street: Industriestraße
+housenumber: "20"
 phone: ""
-opening_hours: "09:00-18:00"
+opening_hours: 09:00-18:00
 website: ""

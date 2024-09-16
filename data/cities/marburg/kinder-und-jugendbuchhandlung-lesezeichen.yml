@@ -1,11 +1,11 @@
 id: 230152204
-type: way
+type: node
 latitude: 50.80658
 longitude: 8.77187
 postcode: "35037"
 city: Marburg
-street: "Am Grün"
-housenumber: 30
+street: Am Grün
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

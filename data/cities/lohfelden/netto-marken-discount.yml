@@ -1,11 +1,11 @@
 id: 245233374
-type: way
+type: node
 latitude: 51.26767
 longitude: 9.56332
 postcode: "34253"
 city: Lohfelden
-street: "Kasseler Straße"
-housenumber: 54
+street: Kasseler Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

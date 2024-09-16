@@ -4,8 +4,8 @@ latitude: 50.58379
 longitude: 8.67261
 postcode: "35390"
 city: Gießen
-street: "Seltersweg"
-housenumber: 38
-phone: "+49 641 975720"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 9:30-18:00"
-website: "https://www.koehler24.de/"
+street: Seltersweg
+housenumber: "38"
+phone: +49 641 975720
+opening_hours: Mo-Fr 10:00-19:00; Sa 9:30-18:00
+website: https://www.koehler24.de/

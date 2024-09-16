@@ -1,11 +1,11 @@
 id: 186938836
-type: way
+type: node
 latitude: 51.32559
 longitude: 9.51821
 postcode: "34125"
 city: Kassel
-street: "Fuldatalstraße"
-housenumber: 14
+street: Fuldatalstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

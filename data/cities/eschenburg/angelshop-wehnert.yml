@@ -1,11 +1,11 @@
 id: 219802020
-type: way
+type: node
 latitude: 50.79107
 longitude: 8.32739
 postcode: "35713"
 city: Eschenburg
-street: "Breitewies"
-housenumber: 2
+street: Breitewies
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

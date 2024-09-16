@@ -1,11 +1,11 @@
 id: 151649487
-type: way
+type: node
 latitude: 50.06409
 longitude: 8.3842
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Hessenstraße"
-housenumber: 2
+street: Hessenstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

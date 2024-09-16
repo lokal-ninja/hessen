@@ -4,8 +4,8 @@ latitude: 50.12099
 longitude: 8.64868
 postcode: "60487"
 city: Frankfurt am Main
-street: "Leipziger Straße"
-housenumber: 15
-phone: "+49 69 772634"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 08:00-16:00"
-website: "https://www.metzgerei-waibel.de"
+street: Leipziger Straße
+housenumber: "15"
+phone: +49 69 772634
+opening_hours: Mo-Fr 09:00-18:30, Sa 08:00-16:00
+website: https://www.metzgerei-waibel.de

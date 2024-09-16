@@ -1,11 +1,11 @@
 id: 109979380
-type: way
+type: node
 latitude: 50.7121
 longitude: 9.58012
 postcode: "36110"
 city: Schlitz
-street: "Hersfelder Straße"
-housenumber: 1
+street: Hersfelder Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

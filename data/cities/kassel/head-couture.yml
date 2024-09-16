@@ -4,8 +4,8 @@ latitude: 51.31642
 longitude: 9.46481
 postcode: "34119"
 city: Kassel
-street: "Friedrich-Ebert-Straße"
-housenumber: 132
-phone: "+49 561 14038"
-opening_hours: "Tu-Fr 09:00-19:00"
-website: "https://www.headcouture.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "132"
+phone: +49 561 14038
+opening_hours: Tu-Fr 09:00-19:00
+website: https://www.headcouture.de/

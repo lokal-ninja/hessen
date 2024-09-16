@@ -4,8 +4,8 @@ latitude: 50.11891
 longitude: 8.64831
 postcode: "60486"
 city: Frankfurt am Main
-street: "Kiesstraße"
-housenumber: 27
+street: Kiesstraße
+housenumber: "27"
 phone: ""
-opening_hours: "We-Fr 17:00-23:00; Sa-Su 15:00-23:00"
-website: "https://playce.rocks/"
+opening_hours: We-Fr 17:00-23:00; Sa-Su 15:00-23:00
+website: https://playce.rocks/

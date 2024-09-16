@@ -4,8 +4,8 @@ latitude: 50.21628
 longitude: 9.27104
 postcode: "63599"
 city: Biebergemünd
-street: "Wirtheimer Straße"
-housenumber: 13
-phone: "+49 6050 907550"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00"
-website: "https://www.rieger-kaffeeshop.de/"
+street: Wirtheimer Straße
+housenumber: "13"
+phone: +49 6050 907550
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-14:00
+website: https://www.rieger-kaffeeshop.de/

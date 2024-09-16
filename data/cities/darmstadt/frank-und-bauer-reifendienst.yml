@@ -1,11 +1,11 @@
 id: 136751659
-type: way
+type: node
 latitude: 49.88538
 longitude: 8.63291
 postcode: "64293"
 city: Darmstadt
-street: "Dieselstraße"
-housenumber: 
+street: Dieselstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

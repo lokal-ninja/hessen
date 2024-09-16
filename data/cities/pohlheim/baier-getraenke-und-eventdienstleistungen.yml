@@ -1,11 +1,11 @@
 id: 398982387
-type: way
+type: node
 latitude: 50.54176
 longitude: 8.72129
 postcode: "35415"
 city: Pohlheim
-street: "Goethestraße"
-housenumber: 34
+street: Goethestraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

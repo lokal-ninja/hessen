@@ -1,11 +1,11 @@
 id: 145244663
-type: way
+type: node
 latitude: 49.98901
 longitude: 8.32454
 postcode: "65462"
 city: Ginsheim-Gustavsburg
-street: "Adam-Opel-Straße"
-housenumber: 8
+street: Adam-Opel-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

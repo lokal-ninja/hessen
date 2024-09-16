@@ -4,8 +4,8 @@ latitude: 50.11248
 longitude: 8.71925
 postcode: "60314"
 city: Frankfurt am Main
-street: "Lindleystraße"
-housenumber: 12
-phone: "+49 69 281826"
-opening_hours: "Mo-Th 07:30-16:30, Fr 07:30-15:00"
-website: "https://www.hilpert-gmbh.com"
+street: Lindleystraße
+housenumber: "12"
+phone: +49 69 281826
+opening_hours: Mo-Th 07:30-16:30, Fr 07:30-15:00
+website: https://www.hilpert-gmbh.com

@@ -1,11 +1,11 @@
 id: 111645190
-type: way
+type: node
 latitude: 50.75135
 longitude: 9.28268
 postcode: "36304"
 city: Alsfeld
-street: "Hersfelder Straße"
-housenumber: 79
+street: Hersfelder Straße
+housenumber: "79"
 phone: ""
 opening_hours: ""
 website: ""

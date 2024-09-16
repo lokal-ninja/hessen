@@ -1,11 +1,11 @@
 id: 410081303
-type: way
+type: node
 latitude: 50.52846
 longitude: 9.70348
 postcode: "36043"
 city: Fulda
-street: "Zum Geisküppel"
-housenumber: 2
+street: Zum Geisküppel
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

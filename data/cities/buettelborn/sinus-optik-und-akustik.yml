@@ -4,8 +4,8 @@ latitude: 49.89662
 longitude: 8.51884
 postcode: "64572"
 city: Büttelborn
-street: "Stauffenbergstraße"
-housenumber: 28
+street: Stauffenbergstraße
+housenumber: "28"
 phone: "+4961529479210"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.sinus-akustik.de/home"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.sinus-akustik.de/home

@@ -4,8 +4,8 @@ latitude: 50.39812
 longitude: 8.05487
 postcode: "65549"
 city: Limburg an der Lahn
-street: "Westerwaldstraße"
-housenumber: 117
-phone: "+49 6431 2197730"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dehner.de/"
+street: Westerwaldstraße
+housenumber: "117"
+phone: +49 6431 2197730
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dehner.de/

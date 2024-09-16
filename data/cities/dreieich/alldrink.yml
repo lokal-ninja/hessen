@@ -1,11 +1,11 @@
 id: 145194426
-type: way
+type: node
 latitude: 50.00366
 longitude: 8.70515
 postcode: "63303"
 city: Dreieich
-street: "Gleisstraße"
-housenumber: 1
-phone: "+49 6103 7318477"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-16:00"
+street: Gleisstraße
+housenumber: "1"
+phone: +49 6103 7318477
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-16:00
 website: ""

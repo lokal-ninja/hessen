@@ -1,11 +1,11 @@
 id: 243323010
-type: way
+type: node
 latitude: 50.06917
 longitude: 8.19397
 postcode: "65199"
 city: Wiesbaden
-street: "Hans-Böckler-Straße"
+street: Hans-Böckler-Straße
 housenumber: 1a
-phone: "+49 611 97440571"
-opening_hours: "Mo-Sa 07:00-22:00"
+phone: +49 611 97440571
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

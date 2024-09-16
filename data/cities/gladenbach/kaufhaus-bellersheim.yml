@@ -1,11 +1,11 @@
 id: 319623633
-type: way
+type: node
 latitude: 50.76909
 longitude: 8.58385
 postcode: "35075"
 city: Gladenbach
-street: "Bahnhofstraße"
-housenumber: 5
+street: Bahnhofstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
-website: "https://www.bellersheim.net/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH off
+website: https://www.bellersheim.net/

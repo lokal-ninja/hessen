@@ -4,8 +4,8 @@ latitude: 49.67447
 longitude: 8.61739
 postcode: "64625"
 city: Bensheim
-street: "Fabrikstraße"
-housenumber: 18
-phone: "+49 6251 9392197"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.futterhaus.de/mein-futterhaus/filialen/bensheim/"
+street: Fabrikstraße
+housenumber: "18"
+phone: +49 6251 9392197
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.futterhaus.de/mein-futterhaus/filialen/bensheim/

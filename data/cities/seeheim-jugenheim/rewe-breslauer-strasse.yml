@@ -1,11 +1,11 @@
 id: 250455152
-type: way
+type: node
 latitude: 49.77501
 longitude: 8.63738
 postcode: "64342"
 city: Seeheim-Jugenheim
-street: "Breslauer Straße"
-housenumber: 18
-phone: "+49 6257 505651"
-opening_hours: "Mo-Sa 07:00-21:30; Su off"
-website: "https://www.rewe.de/marktseite/seeheim/240234/rewe-markt-breslauer-strasse-18/"
+street: Breslauer Straße
+housenumber: "18"
+phone: +49 6257 505651
+opening_hours: Mo-Sa 07:00-21:30; Su off
+website: https://www.rewe.de/marktseite/seeheim/240234/rewe-markt-breslauer-strasse-18/

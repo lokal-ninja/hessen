@@ -1,11 +1,11 @@
 id: 221023093
-type: way
+type: node
 latitude: 50.13365
 longitude: 8.9208
 postcode: "63450"
 city: Hanau
-street: "Hirschstraße"
-housenumber: 22
+street: Hirschstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

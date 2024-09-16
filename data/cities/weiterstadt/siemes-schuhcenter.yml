@@ -1,11 +1,11 @@
 id: 10218136
-type: way
+type: node
 latitude: 49.89759
 longitude: 8.60976
 postcode: "64331"
 city: Weiterstadt
-street: "Robert-Koch-Straße"
-housenumber: 5
-phone: "+49 6151 3971703"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-18:00"
-website: "http://www.siemes.de"
+street: Robert-Koch-Straße
+housenumber: "5"
+phone: +49 6151 3971703
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-18:00
+website: http://www.siemes.de

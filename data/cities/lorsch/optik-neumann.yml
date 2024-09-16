@@ -4,8 +4,8 @@ latitude: 49.65347
 longitude: 8.56785
 postcode: "64653"
 city: Lorsch
-street: "Römerstraße"
-housenumber: 2
-phone: "+49 6251 56799"
-opening_hours: "Mo-Sa 09:00-13:00; Mo,Tu,Th,Fr 14:30-18:30"
-website: "https://neumann-optik.de/"
+street: Römerstraße
+housenumber: "2"
+phone: +49 6251 56799
+opening_hours: Mo-Sa 09:00-13:00; Mo,Tu,Th,Fr 14:30-18:30
+website: https://neumann-optik.de/

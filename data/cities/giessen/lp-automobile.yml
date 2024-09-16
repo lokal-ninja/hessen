@@ -1,11 +1,11 @@
 id: 636426425
-type: way
+type: node
 latitude: 50.57433
 longitude: 8.70663
 postcode: "35394"
 city: Gießen
-street: "An der Automeile"
-housenumber: 6
-phone: "+49 641 32052843"
+street: An der Automeile
+housenumber: "6"
+phone: +49 641 32052843
 opening_hours: ""
 website: ""

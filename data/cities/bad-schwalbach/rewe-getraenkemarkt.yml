@@ -1,11 +1,11 @@
 id: 527131653
-type: way
+type: node
 latitude: 50.14742
 longitude: 8.07931
 postcode: "65307"
 city: Bad Schwalbach
-street: "Bahnhofstraße"
-housenumber: 21
+street: Bahnhofstraße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

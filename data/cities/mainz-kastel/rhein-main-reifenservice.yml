@@ -4,8 +4,8 @@ latitude: 50.02873
 longitude: 8.28331
 postcode: "55252"
 city: Mainz-Kastel
-street: "Fritz-Lenges-Straße"
-housenumber: 16
-phone: "+49 6134 256 700 - 0"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://rhein-main-reifenservice.de"
+street: Fritz-Lenges-Straße
+housenumber: "16"
+phone: +49 6134 256 700 - 0
+opening_hours: Mo-Fr 08:00-17:00
+website: https://rhein-main-reifenservice.de

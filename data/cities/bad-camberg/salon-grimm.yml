@@ -1,11 +1,11 @@
 id: 387800403
-type: way
+type: node
 latitude: 50.29836
 longitude: 8.27044
 postcode: "65520"
 city: Bad Camberg
-street: "Obertorstraße"
-housenumber: 13
+street: Obertorstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

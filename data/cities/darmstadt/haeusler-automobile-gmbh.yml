@@ -1,11 +1,11 @@
 id: 106875096
-type: way
+type: node
 latitude: 49.85173
 longitude: 8.64509
 postcode: "64285"
 city: Darmstadt
-street: "Heidelberger Straße"
-housenumber: 191
+street: Heidelberger Straße
+housenumber: "191"
 phone: ""
 opening_hours: ""
 website: ""

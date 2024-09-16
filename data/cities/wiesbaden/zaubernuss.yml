@@ -4,8 +4,8 @@ latitude: 50.0842
 longitude: 8.22717
 postcode: "65195"
 city: Wiesbaden
-street: "Seerobenstraße"
-housenumber: 19
-phone: "+49 611 406270"
-opening_hours: "Mo-Fr 08:30-13:00,15:00-18:30; Sa 08:30-14:00; Su 10:00-12:00"
-website: "https://www.zaubernuss-wiesbaden.de/"
+street: Seerobenstraße
+housenumber: "19"
+phone: +49 611 406270
+opening_hours: Mo-Fr 08:30-13:00,15:00-18:30; Sa 08:30-14:00; Su 10:00-12:00
+website: https://www.zaubernuss-wiesbaden.de/

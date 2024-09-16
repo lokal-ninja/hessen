@@ -4,8 +4,8 @@ latitude: 50.20746
 longitude: 8.74616
 postcode: "61118"
 city: Bad Vilbel
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://porta.de/einrichtungshaeuser"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://porta.de/einrichtungshaeuser

@@ -1,11 +1,11 @@
 id: 33790692
-type: way
+type: node
 latitude: 50.14069
 longitude: 8.15686
 postcode: "65232"
 city: Taunusstein
-street: "Gottfried-Keller-Straße"
-housenumber: 15
+street: Gottfried-Keller-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; PH off
 website: ""

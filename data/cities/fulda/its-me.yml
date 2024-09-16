@@ -1,11 +1,11 @@
 id: 1119955839
-type: way
+type: node
 latitude: 50.57492
 longitude: 9.65894
 postcode: "36039"
 city: Fulda
-street: "Aschenbergplatz"
-housenumber: 8
+street: Aschenbergplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00; PH off
 website: ""

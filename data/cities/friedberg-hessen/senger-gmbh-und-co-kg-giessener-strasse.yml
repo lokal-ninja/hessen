@@ -1,11 +1,11 @@
 id: 1047626100
-type: way
+type: node
 latitude: 50.3445
 longitude: 8.75593
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Gießener Straße"
-housenumber: 40
+street: Gießener Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-senger.de/mercedes-benz-friedberg/"
+website: https://www.auto-senger.de/mercedes-benz-friedberg/

@@ -4,8 +4,8 @@ latitude: 49.98458
 longitude: 8.36152
 postcode: "65474"
 city: Bischofsheim
-street: "Frohnseestraße"
-housenumber: 24
-phone: "+49 6144 1365"
-opening_hours: "Mo,Tu,Th,Fr 17:00-19:00; Sa 10:00-14:00"
-website: "https://www.weingut-bott.com/"
+street: Frohnseestraße
+housenumber: "24"
+phone: +49 6144 1365
+opening_hours: Mo,Tu,Th,Fr 17:00-19:00; Sa 10:00-14:00
+website: https://www.weingut-bott.com/

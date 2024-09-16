@@ -1,11 +1,11 @@
 id: 340604904
-type: way
+type: node
 latitude: 50.87945
 longitude: 9.69126
 postcode: "36251"
 city: Bad Hersfeld
-street: "Homberger Straße"
-housenumber: 122
+street: Homberger Straße
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

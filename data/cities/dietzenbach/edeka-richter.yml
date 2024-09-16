@@ -1,11 +1,11 @@
 id: 259426057
-type: way
+type: node
 latitude: 50.02841
 longitude: 8.78732
 postcode: "63128"
 city: Dietzenbach
-street: "Gallische Straße"
-housenumber: 4
+street: Gallische Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka-richter.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka-richter.de/

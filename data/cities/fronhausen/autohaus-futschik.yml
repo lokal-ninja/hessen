@@ -1,11 +1,11 @@
 id: 34948236
-type: way
+type: node
 latitude: 50.70841
 longitude: 8.70166
 postcode: "35112"
 city: Fronhausen
-street: "Am Sandgraben"
-housenumber: 3
-phone: "+49 6426 7028"
+street: Am Sandgraben
+housenumber: "3"
+phone: +49 6426 7028
 opening_hours: ""
 website: ""

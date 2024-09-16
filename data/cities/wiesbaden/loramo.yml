@@ -4,8 +4,8 @@ latitude: 50.04258
 longitude: 8.21699
 postcode: "65203"
 city: Wiesbaden
-street: "Fritz-Haber-Straße"
-housenumber: 7
-phone: "+49-611-89072144"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.loramo.de/"
+street: Fritz-Haber-Straße
+housenumber: "7"
+phone: +49-611-89072144
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.loramo.de/

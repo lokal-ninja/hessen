@@ -1,11 +1,11 @@
 id: 105065495
-type: way
+type: node
 latitude: 50.6164
 longitude: 8.7352
 postcode: "35418"
 city: Buseck
-street: "Flößerweg"
-housenumber: 1
+street: Flößerweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.ruhl-baucenter.de/"
+website: https://www.ruhl-baucenter.de/

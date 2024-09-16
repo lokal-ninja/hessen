@@ -4,8 +4,8 @@ latitude: 50.1107
 longitude: 8.68238
 postcode: "60311"
 city: Frankfurt am Main
-street: "Römerberg"
-housenumber: 34
-phone: "+49 69 978414650"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"
+street: Römerberg
+housenumber: "34"
+phone: +49 69 978414650
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.5608
 longitude: 8.50234
 postcode: "35576"
 city: Wetzlar
-street: "Buderusplatz"
-housenumber: 2
-phone: "+49 6441 500070"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://mueller.de"
+street: Buderusplatz
+housenumber: "2"
+phone: +49 6441 500070
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://mueller.de

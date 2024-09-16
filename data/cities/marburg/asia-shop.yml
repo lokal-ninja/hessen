@@ -4,8 +4,8 @@ latitude: 50.81552
 longitude: 8.76897
 postcode: "35037"
 city: Marburg
-street: "Elisabethstraße"
-housenumber: 11
-phone: "+49 6421 164847"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off"
-website: "https://www.asiashop-marburg.de/"
+street: Elisabethstraße
+housenumber: "11"
+phone: +49 6421 164847
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00; PH off
+website: https://www.asiashop-marburg.de/

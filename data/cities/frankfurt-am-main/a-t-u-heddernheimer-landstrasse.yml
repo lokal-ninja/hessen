@@ -1,11 +1,11 @@
 id: 33469420
-type: way
+type: node
 latitude: 50.16222
 longitude: 8.63949
 postcode: "60439"
 city: Frankfurt am Main
-street: "Heddernheimer Landstraße"
-housenumber: 122
+street: Heddernheimer Landstraße
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-16:00
 website: ""

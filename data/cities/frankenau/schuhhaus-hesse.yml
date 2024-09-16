@@ -1,11 +1,11 @@
 id: 264200294
-type: way
+type: node
 latitude: 51.06848
 longitude: 8.90704
 postcode: "35110"
 city: Frankenau
-street: "Geismarer Straße"
-housenumber: 6
+street: Geismarer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

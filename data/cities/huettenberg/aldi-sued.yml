@@ -1,11 +1,11 @@
 id: 153698106
-type: way
+type: node
 latitude: 50.52191
 longitude: 8.59152
 postcode: "35625"
 city: Hüttenberg
-street: "Budenweisgraben"
-housenumber: 4
+street: Budenweisgraben
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

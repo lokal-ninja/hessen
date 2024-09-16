@@ -4,8 +4,8 @@ latitude: 50.78688
 longitude: 8.768
 postcode: "35043"
 city: Marburg
-street: "Marburger Straße"
-housenumber: 100
-phone: "+49 64 21 953 768 7"
-opening_hours: "Mo-Sa 07:00-20:30; Su 07:30-10:30"
-website: "https://www.schaefers-backstuben.de/"
+street: Marburger Straße
+housenumber: "100"
+phone: +49 64 21 953 768 7
+opening_hours: Mo-Sa 07:00-20:30; Su 07:30-10:30
+website: https://www.schaefers-backstuben.de/

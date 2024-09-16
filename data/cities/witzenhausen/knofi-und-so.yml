@@ -1,11 +1,11 @@
 id: 678088980
-type: way
+type: node
 latitude: 51.34231
 longitude: 9.88294
 postcode: "37214"
 city: Witzenhausen
-street: "Ludwigsteinstraße"
-housenumber: 32
+street: Ludwigsteinstraße
+housenumber: "32"
 phone: ""
-opening_hours: "sunrise-sunset"
-website: "https://www.knofi-und-so.de/"
+opening_hours: sunrise-sunset
+website: https://www.knofi-und-so.de/

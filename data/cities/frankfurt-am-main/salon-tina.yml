@@ -4,8 +4,8 @@ latitude: 50.13784
 longitude: 8.66756
 postcode: "60320"
 city: Frankfurt am Main
-street: "Am Dornbusch"
-housenumber: 24
-phone: "+49 69 563330"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 08:00-16:00"
+street: Am Dornbusch
+housenumber: "24"
+phone: +49 69 563330
+opening_hours: Tu-Fr 09:00-18:30; Sa 08:00-16:00
 website: ""

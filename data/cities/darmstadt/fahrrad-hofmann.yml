@@ -1,11 +1,11 @@
 id: 179458444
-type: way
+type: node
 latitude: 49.81863
 longitude: 8.64339
 postcode: "64297"
 city: Darmstadt
-street: "Gabelsbergerstraße"
-housenumber: 7
+street: Gabelsbergerstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:30-12:15, 14:30-18:00; We 09:30-12:15; Sa 09:30-12:30"
+opening_hours: Mo,Tu,Th,Fr 09:30-12:15, 14:30-18:00; We 09:30-12:15; Sa 09:30-12:30
 website: ""

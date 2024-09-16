@@ -1,11 +1,11 @@
 id: 288449980
-type: way
+type: node
 latitude: 50.48875
 longitude: 9.33788
 postcode: "36355"
 city: Grebenhain
-street: "Hauptstraße"
-housenumber: 14
+street: Hauptstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Sa 09:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.11508
 longitude: 8.68308
 postcode: "60313"
 city: Frankfurt am Main
-street: "Stiftstraße"
-housenumber: 4
+street: Stiftstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; PH off"
-website: "https://www.orion-store.de/"
+opening_hours: Mo-Sa 10:00-19:00; PH off
+website: https://www.orion-store.de/

@@ -4,8 +4,8 @@ latitude: 50.58474
 longitude: 8.48313
 postcode: "35586"
 city: Wetzlar
-street: "Ludwigstraße"
-housenumber: 13
-phone: "+49 6441-9356-0"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-13:00"
-website: "http://www.kfz-service-wetzlar.de/"
+street: Ludwigstraße
+housenumber: "13"
+phone: +49 6441-9356-0
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-13:00
+website: http://www.kfz-service-wetzlar.de/

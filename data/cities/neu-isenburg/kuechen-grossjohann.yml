@@ -4,8 +4,8 @@ latitude: 50.05484
 longitude: 8.69539
 postcode: "63263"
 city: Neu-Isenburg
-street: "Frankfurter Straße"
-housenumber: 58
-phone: "+49 6102 6893"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.kuechen-grossjohann.de/"
+street: Frankfurter Straße
+housenumber: "58"
+phone: +49 6102 6893
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.kuechen-grossjohann.de/

@@ -4,8 +4,8 @@ latitude: 50.48266
 longitude: 8.43601
 postcode: "35619"
 city: Braunfels
-street: "Backhausgasse"
-housenumber: 1
-phone: "+49 6445 92630"
-opening_hours: "Mo,Tu,Th,Fr 09:00-19:00; We 09:00-12:00, 16:00-19:00; Sa 09:00-14:00"
-website: "http://4-print.org"
+street: Backhausgasse
+housenumber: "1"
+phone: +49 6445 92630
+opening_hours: Mo,Tu,Th,Fr 09:00-19:00; We 09:00-12:00, 16:00-19:00; Sa 09:00-14:00
+website: http://4-print.org

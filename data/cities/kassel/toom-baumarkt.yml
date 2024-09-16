@@ -1,11 +1,11 @@
 id: 1218793124
-type: way
+type: node
 latitude: 51.30911
 longitude: 9.44997
 postcode: "34121"
 city: Kassel
-street: "Kohlenstraße"
-housenumber: 138
+street: Kohlenstraße
+housenumber: "138"
 phone: ""
-opening_hours: "Mo-Th,Sa 08:00-20:00; Fr 08:00-20:00"
-website: "https://toom.de/"
+opening_hours: Mo-Th,Sa 08:00-20:00; Fr 08:00-20:00
+website: https://toom.de/

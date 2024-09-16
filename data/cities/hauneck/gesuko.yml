@@ -1,11 +1,11 @@
 id: 81403807
-type: way
+type: node
 latitude: 50.83707
 longitude: 9.72033
 postcode: "36282"
 city: Hauneck
-street: "Döllwiesen"
-housenumber: 7
+street: Döllwiesen
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.gesuko.de/"
+website: https://www.gesuko.de/

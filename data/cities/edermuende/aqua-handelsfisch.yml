@@ -1,11 +1,11 @@
 id: 372388267
-type: way
+type: node
 latitude: 51.21751
 longitude: 9.41062
 postcode: "34295"
 city: Edermünde
-street: "Im Niederfeld"
-housenumber: 8
+street: Im Niederfeld
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-We off; Th 12:00-17:00; Fr 09:00-12:30"
+opening_hours: Mo-We off; Th 12:00-17:00; Fr 09:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 172893941
-type: way
+type: node
 latitude: 50.67351
 longitude: 9.60941
 postcode: "36110"
 city: Schlitz
-street: "Sandlofser Straße"
-housenumber: 24
+street: Sandlofser Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.79045
 longitude: 8.7659
 postcode: "35039"
 city: Marburg
-street: "Frauenbergstraße"
-housenumber: 22
-phone: "+49 6421 485154"
+street: Frauenbergstraße
+housenumber: "22"
+phone: +49 6421 485154
 opening_hours: ""
-website: "https://www.die-weinrebe.de"
+website: https://www.die-weinrebe.de

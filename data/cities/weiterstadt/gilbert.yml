@@ -1,11 +1,11 @@
 id: 121016130
-type: way
+type: node
 latitude: 49.91346
 longitude: 8.57494
 postcode: "64331"
 city: Weiterstadt
-street: "Ludwigstraße"
-housenumber: 62
+street: Ludwigstraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 14:30-18:00; Sa 09:30-12:30"
-website: "https://www.gilbert-gartengestaltung.com/"
+opening_hours: Mo,Tu,Th,Fr 14:30-18:00; Sa 09:30-12:30
+website: https://www.gilbert-gartengestaltung.com/

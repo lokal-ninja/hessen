@@ -1,11 +1,11 @@
 id: 1015403269
-type: way
+type: node
 latitude: 50.15182
 longitude: 9.14611
 postcode: "63579"
 city: Freigericht
-street: "Jahnstraße"
-housenumber: 8
+street: Jahnstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Apr-Nov: We-Su 09:00-17:00"
-website: "https://www.bauer-nietsch.de/pages/der-hofladen.php"
+opening_hours: 'Apr-Nov: We-Su 09:00-17:00'
+website: https://www.bauer-nietsch.de/pages/der-hofladen.php

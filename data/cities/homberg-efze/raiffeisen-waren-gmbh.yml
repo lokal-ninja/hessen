@@ -1,11 +1,11 @@
 id: 681135164
-type: way
+type: node
 latitude: 51.039
 longitude: 9.39776
 postcode: "34576"
 city: Homberg (Efze)
-street: "Kasseler Straße"
-housenumber: 28
+street: Kasseler Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.raiwa.net"
+website: https://www.raiwa.net

@@ -4,8 +4,8 @@ latitude: 49.98375
 longitude: 7.96635
 postcode: "65366"
 city: Geisenheim
-street: "Neustraße"
-housenumber: 2
+street: Neustraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.goldschmiede-sterntaler.de/"
+website: https://www.goldschmiede-sterntaler.de/

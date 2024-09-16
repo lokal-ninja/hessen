@@ -1,11 +1,11 @@
 id: 996039319
-type: way
+type: node
 latitude: 50.62191
 longitude: 8.34239
 postcode: "35630"
 city: Ehringshausen
-street: "Ober der Reinwies"
-housenumber: 5
+street: Ober der Reinwies
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

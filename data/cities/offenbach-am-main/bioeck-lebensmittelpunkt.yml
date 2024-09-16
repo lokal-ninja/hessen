@@ -4,8 +4,8 @@ latitude: 50.11768
 longitude: 8.78489
 postcode: "63075"
 city: Offenbach am Main
-street: "Falltorstraße"
-housenumber: 11
-phone: "+49 69 854027"
-opening_hours: "Tu-Fr 09:00-13:30,15:00-18:00; Sa 09:00-13:00; Mo off"
-website: "https://www.bioeck-offenbach.de"
+street: Falltorstraße
+housenumber: "11"
+phone: +49 69 854027
+opening_hours: Tu-Fr 09:00-13:30,15:00-18:00; Sa 09:00-13:00; Mo off
+website: https://www.bioeck-offenbach.de

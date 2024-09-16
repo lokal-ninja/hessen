@@ -1,11 +1,11 @@
 id: 89553450
-type: way
+type: node
 latitude: 49.66626
 longitude: 9.0062
 postcode: ""
 city: Michelstadt
-street: "Stockheimer Hohl"
-housenumber: 16
+street: Stockheimer Hohl
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

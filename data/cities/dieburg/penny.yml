@@ -1,11 +1,11 @@
 id: 145151378
-type: way
+type: node
 latitude: 49.89772
 longitude: 8.8422
 postcode: "64807"
 city: Dieburg
-street: "In der Altstadt"
-housenumber: 3
+street: In der Altstadt
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

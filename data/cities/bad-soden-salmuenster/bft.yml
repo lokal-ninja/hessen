@@ -4,8 +4,8 @@ latitude: 50.2835
 longitude: 9.37034
 postcode: "63628"
 city: Bad Soden-Salmünster
-street: "Bad Sodener Straße"
-housenumber: 49
-phone: "+49 6056 1667"
-opening_hours: "Mo-Th 05:00-22:00; Fr 05:00-24:00; Sa 07:00-24:00; Su 07:00-22:00"
-website: "https://www.foerster-oel.de/bft-salmuenster/"
+street: Bad Sodener Straße
+housenumber: "49"
+phone: +49 6056 1667
+opening_hours: Mo-Th 05:00-22:00; Fr 05:00-24:00; Sa 07:00-24:00; Su 07:00-22:00
+website: https://www.foerster-oel.de/bft-salmuenster/

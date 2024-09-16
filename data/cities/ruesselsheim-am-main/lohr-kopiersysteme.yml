@@ -1,11 +1,11 @@
 id: 243573030
-type: way
+type: node
 latitude: 49.9773
 longitude: 8.42878
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Uranstraße"
-housenumber: 10
-phone: "+49 6142 4097008"
+street: Uranstraße
+housenumber: "10"
+phone: +49 6142 4097008
 opening_hours: ""
-website: "http://lohr-kopiersysteme.de/"
+website: http://lohr-kopiersysteme.de/

@@ -1,11 +1,11 @@
 id: 129859647
-type: way
+type: node
 latitude: 51.49251
 longitude: 9.38373
 postcode: "34369"
 city: Hofgeismar
-street: "Schützenhagen"
-housenumber: 17
-phone: "+49 5671 92 05 32"
-opening_hours: "Mo-Fr 09:30-13:00,14:30-18:00; Sa 09:30-13:00"
-website: "https://www.begatex.de/"
+street: Schützenhagen
+housenumber: "17"
+phone: +49 5671 92 05 32
+opening_hours: Mo-Fr 09:30-13:00,14:30-18:00; Sa 09:30-13:00
+website: https://www.begatex.de/

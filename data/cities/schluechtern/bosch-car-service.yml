@@ -1,11 +1,11 @@
 id: 34072416
-type: way
+type: node
 latitude: 50.35575
 longitude: 9.52209
 postcode: "36381"
 city: Schlüchtern
-street: "Königsberger Straße"
-housenumber: 18
+street: Königsberger Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

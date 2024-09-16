@@ -1,11 +1,11 @@
 id: 156651131
-type: way
+type: node
 latitude: 50.56163
 longitude: 9.34776
 postcode: "36358"
 city: Herbstein
-street: "Rixfelder Straße"
-housenumber: 2
+street: Rixfelder Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

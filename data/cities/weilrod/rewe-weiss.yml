@@ -1,11 +1,11 @@
 id: 265583537
-type: way
+type: node
 latitude: 50.33715
 longitude: 8.38244
 postcode: "61276"
 city: Weilrod
-street: "Weilstraße"
-housenumber: 1
-phone: "+49 6083 910043"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "http://www.rewe-weilrod.de/"
+street: Weilstraße
+housenumber: "1"
+phone: +49 6083 910043
+opening_hours: Mo-Sa 07:00-21:00
+website: http://www.rewe-weilrod.de/

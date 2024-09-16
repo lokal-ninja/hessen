@@ -1,11 +1,11 @@
 id: 168940231
-type: way
+type: node
 latitude: 50.51929
 longitude: 8.81915
 postcode: "35423"
 city: Lich
-street: "Unterstadt"
-housenumber: 17
+street: Unterstadt
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

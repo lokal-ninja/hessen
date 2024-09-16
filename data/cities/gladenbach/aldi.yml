@@ -1,11 +1,11 @@
 id: 244925582
-type: way
+type: node
 latitude: 50.76859
 longitude: 8.58719
 postcode: "35075"
 city: Gladenbach
-street: "Kirchbergstraße"
-housenumber: 6
+street: Kirchbergstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.aldi-nord.de/

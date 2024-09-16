@@ -1,11 +1,11 @@
 id: 366496971
-type: way
+type: node
 latitude: 49.87208
 longitude: 8.8314
 postcode: "64846"
 city: Groß-Zimmern
-street: "Beinestraße"
-housenumber: 12
+street: Beinestraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

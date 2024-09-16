@@ -4,8 +4,8 @@ latitude: 50.58093
 longitude: 8.70605
 postcode: "35394"
 city: Gießen
-street: "Fasanenweg"
-housenumber: 28
+street: Fasanenweg
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 08:00-17:00"
-website: "https://www.baeckerei-braun.de/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-17:00; Su 08:00-17:00
+website: https://www.baeckerei-braun.de/

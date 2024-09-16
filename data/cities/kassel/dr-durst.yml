@@ -4,8 +4,8 @@ latitude: 51.31192
 longitude: 9.48198
 postcode: "34117"
 city: Kassel
-street: "Wilhelmshöher Allee"
-housenumber: 32
-phone: "+49 561 630 5457"
-opening_hours: "Mo-Fr 09:00-19:00; Sa-Su 12:00-20:00"
-website: "https://www.drdurst.de/"
+street: Wilhelmshöher Allee
+housenumber: "32"
+phone: +49 561 630 5457
+opening_hours: Mo-Fr 09:00-19:00; Sa-Su 12:00-20:00
+website: https://www.drdurst.de/

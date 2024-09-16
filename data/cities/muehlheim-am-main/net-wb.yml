@@ -1,11 +1,11 @@
 id: 132557657
-type: way
+type: node
 latitude: 50.11552
 longitude: 8.8508
 postcode: "63165"
 city: Mühlheim am Main
-street: "Benzstraße"
-housenumber: 9
+street: Benzstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

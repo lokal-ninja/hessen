@@ -4,8 +4,9 @@ latitude: 50.44773
 longitude: 8.34748
 postcode: "35789"
 city: Weilmünster
-street: "Aulenhäuser Weg"
-housenumber: 1
+street: Aulenhäuser Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Tu 10:00-12:00,16:00-18:00; Th 16:00-18:00; Fr 10:00-12:00,16:00-19:30; Sa 10:00-12:00"
+opening_hours: Tu 10:00-12:00,16:00-18:00; Th 16:00-18:00; Fr 10:00-12:00,16:00-19:30;
+    Sa 10:00-12:00
 website: ""

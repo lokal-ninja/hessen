@@ -4,8 +4,8 @@ latitude: 50.0767
 longitude: 8.23826
 postcode: "65185"
 city: Wiesbaden
-street: "Moritzstraße"
-housenumber: 7
-phone: "+49 163 4855555"
-opening_hours: "Tu-Sa 11:00-21:00"
+street: Moritzstraße
+housenumber: "7"
+phone: +49 163 4855555
+opening_hours: Tu-Sa 11:00-21:00
 website: ""

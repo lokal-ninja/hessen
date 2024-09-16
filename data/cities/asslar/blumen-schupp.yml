@@ -1,11 +1,11 @@
 id: 94806569
-type: way
+type: node
 latitude: 50.58628
 longitude: 8.47226
 postcode: "35614"
 city: Aßlar
-street: "Hermannsteiner Straße"
-housenumber: 63
+street: Hermannsteiner Straße
+housenumber: "63"
 phone: "+49644181535"
 opening_hours: ""
 website: ""

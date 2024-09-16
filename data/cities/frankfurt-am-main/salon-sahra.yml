@@ -4,8 +4,8 @@ latitude: 50.14317
 longitude: 8.6566
 postcode: "60431"
 city: Frankfurt am Main
-street: "Raimundstraße"
-housenumber: 29
-phone: "+49 69 520367"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:30-18:00"
+street: Raimundstraße
+housenumber: "29"
+phone: +49 69 520367
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:30-18:00
 website: ""

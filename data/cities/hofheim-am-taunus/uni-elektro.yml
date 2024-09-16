@@ -1,11 +1,11 @@
 id: 201006202
-type: way
+type: node
 latitude: 50.09442
 longitude: 8.45518
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Am Stegskreuz"
+street: Am Stegskreuz
 housenumber: 2a
 phone: ""
-opening_hours: "Mo-Tu 07:00-17:00, Fr 07:00-15:00"
-website: "https://www.unielektro.de/"
+opening_hours: Mo-Tu 07:00-17:00, Fr 07:00-15:00
+website: https://www.unielektro.de/

@@ -1,11 +1,11 @@
 id: 271000922
-type: way
+type: node
 latitude: 50.49035
 longitude: 9.86842
 postcode: "36163"
 city: Poppenhausen
-street: "Am Forsthaus"
-housenumber: 3
-phone: "+49 6658 919270"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.tegut.com/"
+street: Am Forsthaus
+housenumber: "3"
+phone: +49 6658 919270
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.tegut.com/

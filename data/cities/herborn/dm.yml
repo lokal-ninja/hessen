@@ -4,8 +4,8 @@ latitude: 50.67144
 longitude: 8.30692
 postcode: "35745"
 city: Herborn
-street: "Konrad-Adenauer-Straße"
-housenumber: 70
-phone: "+49 2772 5720146"
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.dm.de/store/d3h2/herborn/konrad-adenauer-strasse-70"
+street: Konrad-Adenauer-Straße
+housenumber: "70"
+phone: +49 2772 5720146
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.dm.de/store/d3h2/herborn/konrad-adenauer-strasse-70

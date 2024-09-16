@@ -4,8 +4,8 @@ latitude: 50.07951
 longitude: 8.23149
 postcode: "65185"
 city: Wiesbaden
-street: "Zimmermannstraße"
-housenumber: 9
-phone: "+49 611 45049627"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.five-elephants.de/"
+street: Zimmermannstraße
+housenumber: "9"
+phone: +49 611 45049627
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.five-elephants.de/

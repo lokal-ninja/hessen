@@ -1,11 +1,11 @@
 id: 61348724
-type: way
+type: node
 latitude: 49.98443
 longitude: 8.40198
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Alzeyer Straße"
-housenumber: 11
+street: Alzeyer Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

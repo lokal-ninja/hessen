@@ -1,11 +1,11 @@
 id: 236410085
-type: way
+type: node
 latitude: 50.4657
 longitude: 8.1332
 postcode: "65614"
 city: Beselich
-street: "Gottlieb-Daimler-Straße"
-housenumber: 7
+street: Gottlieb-Daimler-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.linsensuppe.de/"
+website: https://www.linsensuppe.de/

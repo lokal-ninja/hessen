@@ -4,8 +4,8 @@ latitude: 50.08055
 longitude: 8.23525
 postcode: "65185"
 city: Wiesbaden
-street: "Bleichstraße"
-housenumber: 2
+street: Bleichstraße
+housenumber: "2"
 phone: "+4961160976498"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/wiesbaden/241175/rewe-markt-bleichstr-2/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/wiesbaden/241175/rewe-markt-bleichstr-2/

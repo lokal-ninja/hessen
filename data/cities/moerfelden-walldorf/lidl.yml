@@ -1,11 +1,11 @@
 id: 301174031
-type: way
+type: node
 latitude: 49.96764
 longitude: 8.56131
 postcode: "64546"
 city: Mörfelden-Walldorf
-street: "Gerauer Straße"
+street: Gerauer Straße
 housenumber: 46-48
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.lidl.de/filialen/moerfelden-walldorf/moerfelden-gerauer-str-46-48.html"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.lidl.de/filialen/moerfelden-walldorf/moerfelden-gerauer-str-46-48.html

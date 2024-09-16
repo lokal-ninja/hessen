@@ -4,8 +4,8 @@ latitude: 50.11234
 longitude: 8.67793
 postcode: "60311"
 city: Frankfurt am Main
-street: "Roßmarkt"
-housenumber: 13
+street: Roßmarkt
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

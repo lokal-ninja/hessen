@@ -1,11 +1,11 @@
 id: 999358939
-type: way
+type: node
 latitude: 50.62043
 longitude: 8.6585
 postcode: "35435"
 city: Wettenberg
-street: "Ludwig-Rinn-Straße"
-housenumber: 9
+street: Ludwig-Rinn-Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

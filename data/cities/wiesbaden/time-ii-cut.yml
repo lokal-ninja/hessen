@@ -4,8 +4,8 @@ latitude: 50.08057
 longitude: 8.23242
 postcode: "65183"
 city: Wiesbaden
-street: "Bleichstraße"
-housenumber: 28
-phone: "+49 611 510135"
-opening_hours: "Tu-Fr 10:00-18:00, Sa 10:00-16:00"
+street: Bleichstraße
+housenumber: "28"
+phone: +49 611 510135
+opening_hours: Tu-Fr 10:00-18:00, Sa 10:00-16:00
 website: ""

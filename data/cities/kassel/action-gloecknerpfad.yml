@@ -1,11 +1,11 @@
 id: 260960677
-type: way
+type: node
 latitude: 51.2908
 longitude: 9.45537
 postcode: "34134"
 city: Kassel
-street: "Glöcknerpfad"
-housenumber: 33
+street: Glöcknerpfad
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/

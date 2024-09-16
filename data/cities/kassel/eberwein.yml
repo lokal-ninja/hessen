@@ -1,11 +1,11 @@
 id: 190630188
-type: way
+type: node
 latitude: 51.33345
 longitude: 9.43345
 postcode: "34128"
 city: Kassel
-street: "Ahnatalstraße"
-housenumber: 73
+street: Ahnatalstraße
+housenumber: "73"
 phone: ""
 opening_hours: ""
 website: ""

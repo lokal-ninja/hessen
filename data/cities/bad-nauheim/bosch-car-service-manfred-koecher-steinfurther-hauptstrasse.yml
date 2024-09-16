@@ -1,11 +1,11 @@
 id: 37376143
-type: way
+type: node
 latitude: 50.4017
 longitude: 8.74115
 postcode: "61231"
 city: Bad Nauheim
-street: "Steinfurther Hauptstraße"
-housenumber: 85
+street: Steinfurther Hauptstraße
+housenumber: "85"
 phone: ""
 opening_hours: ""
 website: ""

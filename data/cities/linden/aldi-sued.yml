@@ -1,11 +1,11 @@
 id: 28925716
-type: way
+type: node
 latitude: 50.53839
 longitude: 8.65554
 postcode: "35440"
 city: Linden
-street: "Carl-Benz-Straße"
-housenumber: 1
+street: Carl-Benz-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

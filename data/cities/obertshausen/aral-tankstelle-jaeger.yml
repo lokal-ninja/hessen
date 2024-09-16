@@ -1,11 +1,11 @@
 id: 140649635
-type: way
+type: node
 latitude: 50.08867
 longitude: 8.86348
 postcode: "63179"
 city: Obertshausen
-street: "Lämmerspieler Straße"
-housenumber: 50
+street: Lämmerspieler Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

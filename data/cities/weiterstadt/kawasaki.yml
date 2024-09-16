@@ -1,11 +1,11 @@
 id: 125953901
-type: way
-latitude: 49.88771
+type: node
+latitude: 49.88772
 longitude: 8.60792
 postcode: "64331"
 city: Weiterstadt
-street: "Feldstraße"
-housenumber: 12
+street: Feldstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

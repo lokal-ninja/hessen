@@ -1,11 +1,11 @@
 id: 236572142
-type: way
+type: node
 latitude: 50.55705
 longitude: 8.78593
 postcode: "35463"
 city: Fernwald
-street: "Rudolf-Diesel-Straße"
-housenumber: 7
+street: Rudolf-Diesel-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

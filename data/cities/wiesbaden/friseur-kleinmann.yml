@@ -4,8 +4,8 @@ latitude: 50.00703
 longitude: 8.28581
 postcode: "55252"
 city: Wiesbaden
-street: "Frankfurter Straße"
-housenumber: 11
+street: Frankfurter Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "http://www.friseur-kleinmann.de"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-14:00
+website: http://www.friseur-kleinmann.de

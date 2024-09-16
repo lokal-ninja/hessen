@@ -1,11 +1,12 @@
 id: 145334266
-type: way
+type: node
 latitude: 50.20298
 longitude: 9.18494
 postcode: "63571"
 city: Gelnhausen
-street: "Berliner Straße"
-housenumber: 51
-phone: "+49 6051 6059777"
-opening_hours: "Mo,Th 10:00-18:00; Tu 10:00-19:00; We 10:00-15:00; Sa Nach Vereinbarung; Fr,Su,PH off"
-website: "https://www.kosmetiksalon-kaiser.de/"
+street: Berliner Straße
+housenumber: "51"
+phone: +49 6051 6059777
+opening_hours: Mo,Th 10:00-18:00; Tu 10:00-19:00; We 10:00-15:00; Sa "Nach Vereinbarung";
+    Fr,Su,PH off
+website: https://www.kosmetiksalon-kaiser.de/

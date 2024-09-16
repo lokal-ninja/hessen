@@ -1,11 +1,11 @@
 id: 116514501
-type: way
+type: node
 latitude: 50.49433
 longitude: 9.34797
 postcode: "36355"
 city: Grebenhain
-street: "Bahnhofstraße"
-housenumber: 76
+street: Bahnhofstraße
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 633322958
-type: way
+type: node
 latitude: 50.08587
 longitude: 8.77169
 postcode: "63071"
 city: Offenbach am Main
-street: "Waldstraße"
-housenumber: 252
-phone: "+49 69 133894840"
-opening_hours: "Mo-Th 07:00-17:00, Fr 07:00-16:00, PH off"
+street: Waldstraße
+housenumber: "252"
+phone: +49 69 133894840
+opening_hours: Mo-Th 07:00-17:00, Fr 07:00-16:00, PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.17538
 longitude: 8.92207
 postcode: "63486"
 city: Bruchköbel
-street: "Haagstraße"
-housenumber: 17
-phone: "+49 6181 9062939"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:30; Sa 10:00-13:00"
-website: "https://www.pc-brk.info/"
+street: Haagstraße
+housenumber: "17"
+phone: +49 6181 9062939
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:30; Sa 10:00-13:00
+website: https://www.pc-brk.info/

@@ -4,8 +4,8 @@ latitude: 50.12111
 longitude: 8.67535
 postcode: "60322"
 city: Frankfurt am Main
-street: "Eschersheimer Landstraße"
-housenumber: 43
-phone: "+49 69 400 501 130"
-opening_hours: "Mo - Fr 10:00 - 14:00,15:00 - 19:00; Sa 10:00 - 18:00 || on appointment"
-website: "https://www.bechstein.com/centren/frankfurt-am-main/startseite/"
+street: Eschersheimer Landstraße
+housenumber: "43"
+phone: +49 69 400 501 130
+opening_hours: Mo - Fr 10:00 - 14:00,15:00 - 19:00; Sa 10:00 - 18:00 || "on appointment"
+website: https://www.bechstein.com/centren/frankfurt-am-main/startseite/

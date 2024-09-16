@@ -1,11 +1,11 @@
 id: 1026211658
-type: way
+type: node
 latitude: 50.20388
 longitude: 8.59352
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Karl-Hermann-Flach-Straße"
-housenumber: 38
-phone: "+49 (0)69 450924301"
-opening_hours: "24/7"
-website: "https://garagenmax.de/oberursel/"
+street: Karl-Hermann-Flach-Straße
+housenumber: "38"
+phone: +49 (0)69 450924301
+opening_hours: 24/7
+website: https://garagenmax.de/oberursel/

@@ -1,11 +1,11 @@
 id: 194467488
-type: way
+type: node
 latitude: 50.1802
 longitude: 8.91104
 postcode: "63486"
 city: Bruchköbel
-street: "Limesstraße"
-housenumber: 5
+street: Limesstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

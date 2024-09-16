@@ -1,11 +1,11 @@
 id: 99686758
-type: way
+type: node
 latitude: 50.43046
 longitude: 8.49531
 postcode: "35647"
 city: Waldsolms
-street: "Hasselborner Straße"
-housenumber: 21
+street: Hasselborner Straße
+housenumber: "21"
 phone: ""
-opening_hours: "07:00-22:00"
-website: "https://www.rewe.de/marktseite/waldsolms-brandoberndorf/240109/rewe-markt-hasselborner-str-19-21/"
+opening_hours: 07:00-22:00
+website: https://www.rewe.de/marktseite/waldsolms-brandoberndorf/240109/rewe-markt-hasselborner-str-19-21/

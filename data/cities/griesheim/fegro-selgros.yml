@@ -1,11 +1,11 @@
 id: 28857990
-type: way
+type: node
 latitude: 49.87178
 longitude: 8.54596
 postcode: "64347"
 city: Griesheim
-street: "Zusestraße"
-housenumber: 2
+street: Zusestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.fegro-selgros.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.fegro-selgros.de

@@ -4,8 +4,8 @@ latitude: 49.53931
 longitude: 8.58058
 postcode: "68519"
 city: Viernheim
-street: "Rathausstraße"
-housenumber: 7
-phone: "+49 6204 740515"
-opening_hours: "Mo-Fr 9:30-12:30; Mo,Tu,Th,Fr 15:00-18:00; Sa 9:30-12:30"
-website: "http://www.stoff-ecke.de/"
+street: Rathausstraße
+housenumber: "7"
+phone: +49 6204 740515
+opening_hours: Mo-Fr 9:30-12:30; Mo,Tu,Th,Fr 15:00-18:00; Sa 9:30-12:30
+website: http://www.stoff-ecke.de/

@@ -4,8 +4,8 @@ latitude: 49.67871
 longitude: 8.62169
 postcode: "64625"
 city: Bensheim
-street: "Hauptstraße"
-housenumber: 96
-phone: "+49 6251 8694831"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-14:30, Su off"
+street: Hauptstraße
+housenumber: "96"
+phone: +49 6251 8694831
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-14:30, Su off
 website: ""

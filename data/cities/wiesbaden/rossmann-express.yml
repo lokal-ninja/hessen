@@ -1,11 +1,11 @@
 id: 539697270
-type: way
+type: node
 latitude: 50.07075
 longitude: 8.24344
 postcode: "65189"
 city: Wiesbaden
-street: "Bahnhofsplatz"
-housenumber: 1
+street: Bahnhofsplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00; PH 08:00-22:00"
+opening_hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-22:00; PH 08:00-22:00
 website: ""

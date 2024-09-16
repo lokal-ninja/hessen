@@ -4,8 +4,8 @@ latitude: 51.27746
 longitude: 8.87295
 postcode: "34497"
 city: Korbach
-street: "Bahnhofstraße"
-housenumber: 14
-phone: "+49 5631 937758"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://www.bonita.de/"
+street: Bahnhofstraße
+housenumber: "14"
+phone: +49 5631 937758
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://www.bonita.de/

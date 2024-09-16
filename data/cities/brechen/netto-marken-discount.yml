@@ -1,11 +1,11 @@
 id: 137611337
-type: way
+type: node
 latitude: 50.36226
 longitude: 8.15618
 postcode: "65611"
 city: Brechen
-street: "Limburger Straße"
-housenumber: 102
+street: Limburger Straße
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

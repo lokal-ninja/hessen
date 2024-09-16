@@ -1,11 +1,11 @@
 id: 192545247
-type: way
+type: node
 latitude: 50.57336
 longitude: 8.70887
 postcode: "35394"
 city: Gießen
-street: "An der Automeile"
+street: An der Automeile
 housenumber: 12 B
-phone: "+49 641 944 69 - 0"
+phone: +49 641 944 69 - 0
 opening_hours: ""
-website: "https://www.profi-parts.de/ueber-uns/standorte/giessen"
+website: https://www.profi-parts.de/ueber-uns/standorte/giessen

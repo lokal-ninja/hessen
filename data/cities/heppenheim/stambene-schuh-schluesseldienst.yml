@@ -1,11 +1,11 @@
 id: 161224214
-type: way
+type: node
 latitude: 49.64275
 longitude: 8.64193
 postcode: "64646"
 city: Heppenheim
-street: "Friedrichstraße"
-housenumber: 5
-phone: "+49 6252 910919"
-opening_hours: "Mo-Fr 8:30-18:30; Sa 8:30-14:00"
+street: Friedrichstraße
+housenumber: "5"
+phone: +49 6252 910919
+opening_hours: Mo-Fr 8:30-18:30; Sa 8:30-14:00
 website: ""

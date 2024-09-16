@@ -1,11 +1,11 @@
 id: 446358677
-type: way
+type: node
 latitude: 50.13953
 longitude: 8.15555
 postcode: "65232"
 city: Taunusstein
-street: "Kleiststraße"
+street: Kleiststraße
 housenumber: 8a
 phone: "+4961282466813"
 opening_hours: ""
-website: "https://www.dm.de/store/de-2729/taunusstein/kleiststrasse-8"
+website: https://www.dm.de/store/de-2729/taunusstein/kleiststrasse-8

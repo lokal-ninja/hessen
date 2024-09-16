@@ -4,8 +4,8 @@ latitude: 51.11241
 longitude: 9.07834
 postcode: "34537"
 city: Bad Wildungen
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,15:00-17:30; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-12:30,15:00-17:30; Sa 09:00-12:00
 website: ""

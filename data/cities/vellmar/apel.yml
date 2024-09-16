@@ -4,8 +4,8 @@ latitude: 51.3615
 longitude: 9.4594
 postcode: "34246"
 city: Vellmar
-street: "Holländische Straße"
-housenumber: 74
+street: Holländische Straße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-17:00"
-website: "http://www.baeckerei-apel.de/"
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-17:00
+website: http://www.baeckerei-apel.de/

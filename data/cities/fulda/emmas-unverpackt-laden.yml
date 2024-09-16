@@ -4,8 +4,8 @@ latitude: 50.55173
 longitude: 9.67517
 postcode: "36037"
 city: Fulda
-street: "Luckenberg"
-housenumber: 1
+street: Luckenberg
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:30; Sa 10:00-15:00"
+opening_hours: Tu-Fr 10:00-18:30; Sa 10:00-15:00
 website: ""

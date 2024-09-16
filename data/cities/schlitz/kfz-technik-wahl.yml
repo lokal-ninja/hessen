@@ -1,11 +1,11 @@
 id: 101976619
-type: way
+type: node
 latitude: 50.66948
 longitude: 9.55887
 postcode: "36110"
 city: Schlitz
-street: "Kreuzweg"
-housenumber: 7
+street: Kreuzweg
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

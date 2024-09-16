@@ -4,8 +4,8 @@ latitude: 50.5548
 longitude: 8.50077
 postcode: "35578"
 city: Wetzlar
-street: "Krämerstraße"
-housenumber: 14
+street: Krämerstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu-Th 10:00-20:00; Fr-Sa 09:00-23:00"
+opening_hours: Tu-Th 10:00-20:00; Fr-Sa 09:00-23:00
 website: ""

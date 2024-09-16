@@ -1,11 +1,11 @@
 id: 118723833
-type: way
+type: node
 latitude: 51.12153
 longitude: 9.27821
 postcode: "34560"
 city: Fritzlar
-street: "Auf der Lache"
-housenumber: 1
+street: Auf der Lache
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

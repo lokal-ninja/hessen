@@ -1,11 +1,11 @@
 id: 104148284
-type: way
+type: node
 latitude: 50.10198
 longitude: 8.54908
 postcode: "65929"
 city: Frankfurt am Main
-street: "Emmerich-Josef-Straße"
-housenumber: 20
-phone: "+49-69-301070"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH closed"
-website: "https://www.albanus-optik.de/"
+street: Emmerich-Josef-Straße
+housenumber: "20"
+phone: +49-69-301070
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH closed
+website: https://www.albanus-optik.de/

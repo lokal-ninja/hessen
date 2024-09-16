@@ -1,11 +1,11 @@
 id: 192513254
-type: way
+type: node
 latitude: 49.66301
 longitude: 9.01037
 postcode: "64711"
 city: Erbach
-street: "Gewerbepark Gräsig"
-housenumber: 1
-phone: "+49 6062 809959"
-opening_hours: "Mo-Th 08:00-18:00; Fr 09:00-13:00"
-website: "http://www.suzuki-handel.de/popp-erbach/index.html"
+street: Gewerbepark Gräsig
+housenumber: "1"
+phone: +49 6062 809959
+opening_hours: Mo-Th 08:00-18:00; Fr 09:00-13:00
+website: http://www.suzuki-handel.de/popp-erbach/index.html

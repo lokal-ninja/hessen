@@ -4,8 +4,8 @@ latitude: 51.2769
 longitude: 8.87208
 postcode: "34497"
 city: Korbach
-street: "Bahnhofstraße"
-housenumber: 7
+street: Bahnhofstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH off"
-website: "https://www.engbers.com/filialfinder/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00; Su,PH off
+website: https://www.engbers.com/filialfinder/

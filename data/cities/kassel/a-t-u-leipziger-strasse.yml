@@ -1,11 +1,11 @@
 id: 199725613
-type: way
+type: node
 latitude: 51.29561
 longitude: 9.54568
 postcode: "34123"
 city: Kassel
-street: "Leipziger Straße"
-housenumber: 331
-phone: "+49 561 9513869"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-16:00"
-website: "https://www.atu.de/filialen/196-kassel-bettenhausen/"
+street: Leipziger Straße
+housenumber: "331"
+phone: +49 561 9513869
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-16:00
+website: https://www.atu.de/filialen/196-kassel-bettenhausen/

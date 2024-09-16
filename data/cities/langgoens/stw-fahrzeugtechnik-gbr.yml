@@ -1,11 +1,11 @@
 id: 126636968
-type: way
+type: node
 latitude: 50.49196
 longitude: 8.66319
 postcode: "35428"
 city: Langgöns
-street: "Am Wingert"
-housenumber: 15
-phone: "+49 6403 778 3063"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.stw-fahrzeugtechnik.de/"
+street: Am Wingert
+housenumber: "15"
+phone: +49 6403 778 3063
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.stw-fahrzeugtechnik.de/

@@ -1,11 +1,11 @@
 id: 52468452
-type: way
+type: node
 latitude: 50.12763
 longitude: 8.62734
 postcode: "60487"
 city: Frankfurt am Main
-street: "Tilsiter Straße"
-housenumber: 8
+street: Tilsiter Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

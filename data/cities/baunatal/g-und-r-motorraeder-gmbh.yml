@@ -1,11 +1,11 @@
 id: 125510673
-type: way
+type: node
 latitude: 51.22937
 longitude: 9.43163
 postcode: "34225"
 city: Baunatal
-street: "Fuldastraße"
-housenumber: 10
-phone: "+49 5665 1836410"
+street: Fuldastraße
+housenumber: "10"
+phone: +49 5665 1836410
 opening_hours: ""
-website: "https://www.torquemaster.de/"
+website: https://www.torquemaster.de/

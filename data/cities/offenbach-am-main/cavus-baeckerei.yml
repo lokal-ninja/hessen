@@ -4,8 +4,8 @@ latitude: 50.10632
 longitude: 8.76595
 postcode: "63065"
 city: Offenbach am Main
-street: "Sandgasse"
-housenumber: 28
-phone: "+49 69 8008576"
-opening_hours: "Mo-Su,PH 06:00-23:00"
+street: Sandgasse
+housenumber: "28"
+phone: +49 69 8008576
+opening_hours: Mo-Su,PH 06:00-23:00
 website: ""

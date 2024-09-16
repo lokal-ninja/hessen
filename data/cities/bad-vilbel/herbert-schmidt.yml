@@ -1,11 +1,11 @@
 id: 134282378
-type: way
+type: node
 latitude: 50.17724
 longitude: 8.7368
 postcode: "61118"
 city: Bad Vilbel
-street: "Ritterstraße"
-housenumber: 25
+street: Ritterstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.schmidt-vilbel.de/"
+website: https://www.schmidt-vilbel.de/

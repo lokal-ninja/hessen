@@ -1,11 +1,11 @@
 id: 95204286
-type: way
+type: node
 latitude: 51.05077
 longitude: 9.66694
 postcode: "36211"
 city: Alheim
-street: "Eisfeldstraße"
-housenumber: 19
+street: Eisfeldstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

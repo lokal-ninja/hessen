@@ -4,8 +4,8 @@ latitude: 50.08209
 longitude: 8.23886
 postcode: "65183"
 city: Wiesbaden
-street: "Kirchgasse"
-housenumber: 47
-phone: "+49 611 37588000"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.hugendubel.de/de/"
+street: Kirchgasse
+housenumber: "47"
+phone: +49 611 37588000
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.hugendubel.de/de/

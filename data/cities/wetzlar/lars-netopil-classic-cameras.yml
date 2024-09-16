@@ -4,8 +4,8 @@ latitude: 50.55592
 longitude: 8.50105
 postcode: "35578"
 city: Wetzlar
-street: "Baugasse"
-housenumber: 4
-phone: "+49 6441 / 410378"
-opening_hours: "Mo-Fr 15:50-18:30"
-website: "http://www.lars-netopil.com/"
+street: Baugasse
+housenumber: "4"
+phone: +49 6441 / 410378
+opening_hours: Mo-Fr 15:50-18:30
+website: http://www.lars-netopil.com/

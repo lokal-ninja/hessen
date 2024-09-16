@@ -1,11 +1,11 @@
 id: 102315500
-type: way
+type: node
 latitude: 50.07961
 longitude: 8.20149
 postcode: "65199"
 city: Wiesbaden
-street: "Flachstraße"
+street: Flachstraße
 housenumber: 5a
 phone: "+4961194917080"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/d55g/wiesbaden/flachstrasse-5a"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/d55g/wiesbaden/flachstrasse-5a

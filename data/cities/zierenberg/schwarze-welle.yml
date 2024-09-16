@@ -1,11 +1,11 @@
 id: 1041797875
-type: way
+type: node
 latitude: 51.36822
 longitude: 9.30266
 postcode: "34289"
 city: Zierenberg
-street: "Lange Straße"
-housenumber: 21
+street: Lange Straße
+housenumber: "21"
 phone: "+4956065172450"
-opening_hours: "Tu,We,Fr 10:00-18:00; Th 10:00-14:00; Sa 10:00-14:00; Mo off"
+opening_hours: Tu,We,Fr 10:00-18:00; Th 10:00-14:00; Sa 10:00-14:00; Mo off
 website: ""

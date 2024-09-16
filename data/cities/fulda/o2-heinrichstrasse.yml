@@ -4,8 +4,8 @@ latitude: 50.54846
 longitude: 9.68708
 postcode: "36043"
 city: Fulda
-street: "Heinrichstraße"
-housenumber: 85
-phone: "+49 661 96171861"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.o2online.de/"
+street: Heinrichstraße
+housenumber: "85"
+phone: +49 661 96171861
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.o2online.de/

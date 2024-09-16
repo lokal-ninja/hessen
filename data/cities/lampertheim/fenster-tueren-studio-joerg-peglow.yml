@@ -1,11 +1,11 @@
 id: 316037347
-type: way
+type: node
 latitude: 49.62161
 longitude: 8.42869
 postcode: ""
 city: Lampertheim
-street: "Wilhelm-Herz-Ring"
-housenumber: 7
-phone: "+49 6206 4580"
+street: Wilhelm-Herz-Ring
+housenumber: "7"
+phone: +49 6206 4580
 opening_hours: ""
-website: "https://www.peglow-fenster.de/"
+website: https://www.peglow-fenster.de/

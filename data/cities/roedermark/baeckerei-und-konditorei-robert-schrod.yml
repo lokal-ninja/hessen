@@ -4,8 +4,8 @@ latitude: 49.97285
 longitude: 8.83034
 postcode: "63322"
 city: Rödermark
-street: "Dieburger Straße"
-housenumber: 85
-phone: "+49 6074 90881"
-opening_hours: "Tu-Fr 06:30-13:00,14:30-18:30; Sa 06:30-13:00"
-website: "https://www.baeckerei-schrod.de/"
+street: Dieburger Straße
+housenumber: "85"
+phone: +49 6074 90881
+opening_hours: Tu-Fr 06:30-13:00,14:30-18:30; Sa 06:30-13:00
+website: https://www.baeckerei-schrod.de/

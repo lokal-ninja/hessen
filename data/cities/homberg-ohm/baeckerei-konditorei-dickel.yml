@@ -1,11 +1,11 @@
 id: 550737092
-type: way
+type: node
 latitude: 50.75501
 longitude: 8.97013
 postcode: "35315"
 city: Homberg (Ohm)
-street: "Unterstraße"
-housenumber: 20
+street: Unterstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

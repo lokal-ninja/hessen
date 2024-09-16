@@ -4,8 +4,8 @@ latitude: 51.32535
 longitude: 9.16794
 postcode: "34466"
 city: Wolfhagen
-street: "Schützeberger Straße"
-housenumber: 29
+street: Schützeberger Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.mander.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.mander.de

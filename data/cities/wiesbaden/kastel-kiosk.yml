@@ -4,8 +4,8 @@ latitude: 50.00718
 longitude: 8.2857
 postcode: "55252"
 city: Wiesbaden
-street: "Frankfurter Straße"
-housenumber: 13
+street: Frankfurter Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 11:00-23:00; PH,Su 16:00-22:00"
+opening_hours: Mo-Sa 11:00-23:00; PH,Su 16:00-22:00
 website: ""

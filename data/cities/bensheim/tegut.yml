@@ -1,11 +1,11 @@
 id: 202808395
-type: way
+type: node
 latitude: 49.66926
 longitude: 8.62752
 postcode: "64625"
 city: Bensheim
-street: "Heidelberger Straße"
-housenumber: 100
-phone: "+49 6251 987807-0"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.tegut.com/"
+street: Heidelberger Straße
+housenumber: "100"
+phone: +49 6251 987807-0
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.tegut.com/

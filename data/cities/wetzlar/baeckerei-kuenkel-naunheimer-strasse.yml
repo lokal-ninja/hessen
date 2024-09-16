@@ -4,8 +4,8 @@ latitude: 50.57609
 longitude: 8.50856
 postcode: "35576"
 city: Wetzlar
-street: "Naunheimer Straße"
-housenumber: 38
-phone: "+49 6441 33547"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-12:00"
-website: "https://www.baeckerei-kuenkel.de"
+street: Naunheimer Straße
+housenumber: "38"
+phone: +49 6441 33547
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-12:00
+website: https://www.baeckerei-kuenkel.de

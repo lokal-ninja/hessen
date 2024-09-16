@@ -4,8 +4,8 @@ latitude: 51.1779
 longitude: 9.36453
 postcode: "34281"
 city: Gudensberg
-street: "Untergasse"
-housenumber: 6
+street: Untergasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00"
-website: "http://www.kiefer-chocolatier.de"
+opening_hours: Mo-Sa 09:00-12:00
+website: http://www.kiefer-chocolatier.de

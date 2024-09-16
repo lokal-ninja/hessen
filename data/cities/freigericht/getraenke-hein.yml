@@ -1,11 +1,11 @@
 id: 159545429
-type: way
+type: node
 latitude: 50.15431
 longitude: 9.14382
 postcode: "63579"
 city: Freigericht
-street: "Edith-Stein-Straße"
-housenumber: 2
+street: Edith-Stein-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

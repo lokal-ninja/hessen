@@ -4,8 +4,8 @@ latitude: 50.00178
 longitude: 8.01518
 postcode: "65375"
 city: Oestrich-Winkel
-street: "Rheingaustraße"
-housenumber: 126
-phone: "+49 6723 3353"
-opening_hours: "We-Fr 08:00-12:00, 15:00-18:00; Sa 08:00-12:00; PH off"
-website: "http://www.destalter.de/"
+street: Rheingaustraße
+housenumber: "126"
+phone: +49 6723 3353
+opening_hours: We-Fr 08:00-12:00, 15:00-18:00; Sa 08:00-12:00; PH off
+website: http://www.destalter.de/

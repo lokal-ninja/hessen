@@ -4,8 +4,8 @@ latitude: 50.07879
 longitude: 8.21751
 postcode: "65197"
 city: Wiesbaden
-street: "Hollerbornstraße"
-housenumber: 3
-phone: "+49 611-240 07 17"
-opening_hours: "Mo 15:00-18:00; Tu-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00"
+street: Hollerbornstraße
+housenumber: "3"
+phone: +49 611-240 07 17
+opening_hours: Mo 15:00-18:00; Tu-Fr 10:00-13:00,15:00-18:30; Sa 10:00-14:00
 website: ""

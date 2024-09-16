@@ -4,8 +4,9 @@ latitude: 50.59834
 longitude: 8.41726
 postcode: "35614"
 city: Aßlar
-street: "Hauptstraße"
-housenumber: 22
-phone: "+49 6443 8192500"
-opening_hours: "Mo-Tu 09:00-12:30,14:30-18:00; We 09:00-12:30; Th-Fr 09:00-12:30,14:30-18:00; Sa 09:00-12:30"
-website: "https://ideenwerk22.de/"
+street: Hauptstraße
+housenumber: "22"
+phone: +49 6443 8192500
+opening_hours: Mo-Tu 09:00-12:30,14:30-18:00; We 09:00-12:30; Th-Fr 09:00-12:30,14:30-18:00;
+    Sa 09:00-12:30
+website: https://ideenwerk22.de/

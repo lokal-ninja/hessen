@@ -4,8 +4,8 @@ latitude: 50.84126
 longitude: 8.76781
 postcode: "35041"
 city: Marburg
-street: "Tom-Mutters-Straße"
-housenumber: 2
-phone: "+49 6421 3038928"
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00, Sa 09:00-14:00; PH off"
-website: "https://www.tiptop-textilreinigung.de/"
+street: Tom-Mutters-Straße
+housenumber: "2"
+phone: +49 6421 3038928
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00, Sa 09:00-14:00; PH off
+website: https://www.tiptop-textilreinigung.de/

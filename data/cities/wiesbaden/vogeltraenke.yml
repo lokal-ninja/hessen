@@ -4,8 +4,8 @@ latitude: 50.0666
 longitude: 8.24857
 postcode: "65189"
 city: Wiesbaden
-street: "Murnaustraße"
-housenumber: 2
+street: Murnaustraße
+housenumber: "2"
 phone: ""
-opening_hours: "Th-Su"
+opening_hours: Th-Su
 website: ""

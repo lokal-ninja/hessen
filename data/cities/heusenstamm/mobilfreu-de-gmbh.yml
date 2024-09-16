@@ -4,8 +4,8 @@ latitude: 50.05602
 longitude: 8.80434
 postcode: "63150"
 city: Heusenstamm
-street: "Franz-Rau-Straße"
-housenumber: 12
-phone: "+49 6104 948882"
-opening_hours: "24/7"
-website: "https://mobilfreu.de"
+street: Franz-Rau-Straße
+housenumber: "12"
+phone: +49 6104 948882
+opening_hours: 24/7
+website: https://mobilfreu.de

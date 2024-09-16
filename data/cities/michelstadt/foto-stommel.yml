@@ -4,8 +4,8 @@ latitude: 49.68056
 longitude: 9.00353
 postcode: "64720"
 city: Michelstadt
-street: "Bahnhofstraße"
-housenumber: 15
-phone: "+49 6061 2243"
-opening_hours: "Mo-Th,Sa-Su off; Fr 14:30-18:00"
-website: "https://www.foto-stommel.de"
+street: Bahnhofstraße
+housenumber: "15"
+phone: +49 6061 2243
+opening_hours: Mo-Th,Sa-Su off; Fr 14:30-18:00
+website: https://www.foto-stommel.de

@@ -1,11 +1,11 @@
 id: 258510538
-type: way
+type: node
 latitude: 51.32411
 longitude: 9.49974
 postcode: ""
 city: Kassel
-street: "Westring"
+street: Westring
 housenumber: 40-42
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-23:30
 website: ""

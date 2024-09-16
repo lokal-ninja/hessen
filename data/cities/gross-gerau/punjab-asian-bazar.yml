@@ -1,11 +1,11 @@
 id: 275576766
-type: way
+type: node
 latitude: 49.91262
 longitude: 8.49305
 postcode: "64521"
 city: Groß-Gerau
-street: "Odenwaldstraße"
-housenumber: 16
+street: Odenwaldstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

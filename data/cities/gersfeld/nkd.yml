@@ -4,8 +4,8 @@ latitude: 50.45099
 longitude: 9.91966
 postcode: "36129"
 city: Gersfeld
-street: "Brückenstraße"
-housenumber: 2
-phone: "+49 6654 919020"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.nkd.com/de_de/storelocator/"
+street: Brückenstraße
+housenumber: "2"
+phone: +49 6654 919020
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.nkd.com/de_de/storelocator/

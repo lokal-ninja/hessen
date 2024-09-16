@@ -4,8 +4,10 @@ latitude: 50.1513
 longitude: 8.42315
 postcode: "65779"
 city: Kelkheim (Taunus)
-street: "Langstraße"
+street: Langstraße
 housenumber: 1 a
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:00; Su 07:30-11:00; PH 07:00-18:00; Jan 01 off; easter -2 days off; easter +1 day off; easter +50 days off; Dec 25,Dec 26 off"
-website: "https://heislitz.de/kelkheim-fischbach.html"
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-13:00; Su 07:30-11:00; PH 07:00-18:00;
+    Jan 01 off; easter -2 days off; easter +1 day off; easter +50 days off; Dec 25,Dec
+    26 off
+website: https://heislitz.de/kelkheim-fischbach.html

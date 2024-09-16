@@ -4,8 +4,8 @@ latitude: 49.81774
 longitude: 9.01696
 postcode: "64747"
 city: Breuberg
-street: "Höchster Straße"
-housenumber: 19
-phone: "+49 6163 2295"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
-website: "https://autohausveit.go1a.de/"
+street: Höchster Straße
+housenumber: "19"
+phone: +49 6163 2295
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
+website: https://autohausveit.go1a.de/

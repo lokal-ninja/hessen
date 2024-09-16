@@ -1,11 +1,11 @@
 id: 223948087
-type: way
+type: node
 latitude: 50.15998
 longitude: 8.99335
 postcode: "63526"
 city: Erlensee
-street: "Leipziger Straße"
-housenumber: 12
+street: Leipziger Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

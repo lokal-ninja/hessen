@@ -1,11 +1,11 @@
 id: 256454485
-type: way
+type: node
 latitude: 51.29206
 longitude: 9.47548
 postcode: "34134"
 city: Kassel
-street: "Frankfurter Straße"
+street: Frankfurter Straße
 housenumber: 201a
-phone: "+49 561 941730"
-opening_hours: "Mo-Th 07:15-17:30; Fr 07:15-16:00"
-website: "https://www.lange-kassel.de/"
+phone: +49 561 941730
+opening_hours: Mo-Th 07:15-17:30; Fr 07:15-16:00
+website: https://www.lange-kassel.de/

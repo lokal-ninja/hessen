@@ -4,8 +4,8 @@ latitude: 50.54593
 longitude: 8.45105
 postcode: "35579"
 city: Wetzlar
-street: "Hauptstraße"
-housenumber: 66
-phone: "+49 6441 24832"
-opening_hours: "Mo-Fr 09:00-13:00, 15:00-18:00"
-website: "https://friedchen-kfz.de"
+street: Hauptstraße
+housenumber: "66"
+phone: +49 6441 24832
+opening_hours: Mo-Fr 09:00-13:00, 15:00-18:00
+website: https://friedchen-kfz.de

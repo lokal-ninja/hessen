@@ -1,11 +1,11 @@
 id: 172893938
-type: way
+type: node
 latitude: 50.67449
 longitude: 9.60798
 postcode: "36110"
 city: Schlitz
-street: "An der Horch"
-housenumber: 3
+street: An der Horch
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

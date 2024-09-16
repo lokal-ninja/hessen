@@ -4,8 +4,8 @@ latitude: 50.07519
 longitude: 8.21171
 postcode: "65197"
 city: Wiesbaden
-street: "Schlangenbader Straße"
-housenumber: 12
+street: Schlangenbader Straße
+housenumber: "12"
 phone: "+49611421433"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-14:00 nach Vereinbarung (Notdienst)"
-website: "https://karobau-ruppert.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-14:00 "nach Vereinbarung (Notdienst)"
+website: https://karobau-ruppert.de/

@@ -1,11 +1,11 @@
 id: 201006214
-type: way
+type: node
 latitude: 50.09569
 longitude: 8.45635
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Im Langgewann"
-housenumber: 2
+street: Im Langgewann
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

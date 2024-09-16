@@ -4,8 +4,8 @@ latitude: 50.13319
 longitude: 8.92012
 postcode: "63450"
 city: Hanau
-street: "Salzstraße"
-housenumber: 18
-phone: "+49 6181 92910"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:00"
-website: "http://www.buecher-bei-dausien.de"
+street: Salzstraße
+housenumber: "18"
+phone: +49 6181 92910
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-15:00
+website: http://www.buecher-bei-dausien.de

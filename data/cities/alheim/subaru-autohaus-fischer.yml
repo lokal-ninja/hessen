@@ -1,11 +1,11 @@
 id: 95351184
-type: way
+type: node
 latitude: 51.04212
 longitude: 9.67211
 postcode: "36211"
 city: Alheim
-street: "Nürnberger Straße"
-housenumber: 74
+street: Nürnberger Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.33624
 longitude: 9.43871
 postcode: "34128"
 city: Kassel
-street: "Karlshafener Straße"
-housenumber: 5
+street: Karlshafener Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-We 10:00-18:00, Th off, Fr 10:00-18:00, Sa 09:00-13:00, PH off"
-website: "http://www.grünow.com/"
+opening_hours: Mo-We 10:00-18:00, Th off, Fr 10:00-18:00, Sa 09:00-13:00, PH off
+website: http://www.grünow.com/

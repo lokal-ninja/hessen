@@ -4,8 +4,8 @@ latitude: 50.1152
 longitude: 8.6845
 postcode: "60313"
 city: Frankfurt am Main
-street: "Zeil"
-housenumber: 90
-phone: "+49 69 90025671"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://goasia.net/de/store_list/frankfurt"
+street: Zeil
+housenumber: "90"
+phone: +49 69 90025671
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://goasia.net/de/store_list/frankfurt

@@ -1,11 +1,11 @@
 id: 126775529
-type: way
+type: node
 latitude: 51.27513
 longitude: 9.43929
 postcode: "34132"
 city: Kassel
-street: "Mattenbergstraße"
-housenumber: 62
+street: Mattenbergstraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

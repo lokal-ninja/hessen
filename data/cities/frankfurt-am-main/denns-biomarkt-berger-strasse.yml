@@ -4,8 +4,8 @@ latitude: 50.12471
 longitude: 8.70479
 postcode: "60385"
 city: Frankfurt am Main
-street: "Berger Straße"
-housenumber: 155
+street: Berger Straße
+housenumber: "155"
 phone: "06947884570"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.biomarkt.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.biomarkt.de

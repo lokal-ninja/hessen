@@ -4,8 +4,8 @@ latitude: 50.08053
 longitude: 8.23487
 postcode: "65185"
 city: Wiesbaden
-street: "Bleichstraße"
-housenumber: 2
+street: Bleichstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
-website: "http://www.baeckerladen.de/"
+opening_hours: Mo-Sa 07:00-18:00
+website: http://www.baeckerladen.de/

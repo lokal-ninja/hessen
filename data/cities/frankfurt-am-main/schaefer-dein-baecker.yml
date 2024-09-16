@@ -4,8 +4,8 @@ latitude: 50.11847
 longitude: 8.7101
 postcode: "60385"
 city: Frankfurt am Main
-street: "Rhönstraße"
-housenumber: 105
-phone: "+49 69 36602733"
-opening_hours: "Mo-Sa 07:00-19:00; Su,PH 08:00-17:00"
+street: Rhönstraße
+housenumber: "105"
+phone: +49 69 36602733
+opening_hours: Mo-Sa 07:00-19:00; Su,PH 08:00-17:00
 website: ""

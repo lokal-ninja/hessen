@@ -1,11 +1,11 @@
 id: 93218621
-type: way
+type: node
 latitude: 50.12757
 longitude: 8.46086
 postcode: "65779"
 city: Kelkheim (Taunus)
-street: "Frankfurter Straße"
-housenumber: 133
+street: Frankfurter Straße
+housenumber: "133"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
 website: ""

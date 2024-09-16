@@ -4,8 +4,8 @@ latitude: 49.87181
 longitude: 8.64255
 postcode: "64283"
 city: Darmstadt
-street: "Rheinstraße"
-housenumber: 53
-phone: "+49 6151 824437"
-opening_hours: "Mo,Su,PH off; Tu-Fr 14:00-18:00; Sa 11:00-15:00"
-website: "https://www.aquanaut.de/"
+street: Rheinstraße
+housenumber: "53"
+phone: +49 6151 824437
+opening_hours: Mo,Su,PH off; Tu-Fr 14:00-18:00; Sa 11:00-15:00
+website: https://www.aquanaut.de/

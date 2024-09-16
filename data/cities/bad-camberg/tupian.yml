@@ -1,11 +1,11 @@
 id: 451642641
-type: way
+type: node
 latitude: 50.29973
 longitude: 8.2527
 postcode: "65520"
 city: Bad Camberg
-street: "Dieselstraße"
-housenumber: 6
+street: Dieselstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

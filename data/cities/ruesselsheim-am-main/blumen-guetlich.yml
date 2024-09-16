@@ -1,11 +1,11 @@
 id: 225738210
-type: way
+type: node
 latitude: 49.98464
 longitude: 8.42704
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "August-Bebel-Straße"
-housenumber: 92
-phone: "+49 6142 62508"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 10:00-12:00"
-website: "https://www.blumen-guetlich.de/"
+street: August-Bebel-Straße
+housenumber: "92"
+phone: +49 6142 62508
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; Su 10:00-12:00
+website: https://www.blumen-guetlich.de/

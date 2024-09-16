@@ -1,11 +1,11 @@
 id: 361266941
-type: way
+type: node
 latitude: 50.02522
 longitude: 8.29085
 postcode: "55252"
 city: Wiesbaden
-street: "Boelckestraße"
-housenumber: 144
+street: Boelckestraße
+housenumber: "144"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00; PH off"
-website: "https://www.gaertnerei-hanns.de/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00; PH off
+website: https://www.gaertnerei-hanns.de/

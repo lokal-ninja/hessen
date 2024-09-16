@@ -1,11 +1,11 @@
 id: 211377016
-type: way
+type: node
 latitude: 50.1176
 longitude: 8.96048
 postcode: "63457"
 city: Hanau
-street: "Grashüpferweg"
-housenumber: 3
-phone: "+49 6181 6750845"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Grashüpferweg
+housenumber: "3"
+phone: +49 6181 6750845
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

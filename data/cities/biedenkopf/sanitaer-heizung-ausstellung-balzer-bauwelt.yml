@@ -1,11 +1,11 @@
 id: 667920368
-type: way
+type: node
 latitude: 50.92386
 longitude: 8.46985
 postcode: "35216"
 city: Biedenkopf
-street: "Bahnhofstraße"
-housenumber: 34
+street: Bahnhofstraße
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

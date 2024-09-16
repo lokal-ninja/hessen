@@ -1,11 +1,11 @@
 id: 663205279
-type: way
+type: node
 latitude: 49.65864
 longitude: 8.41372
 postcode: "68623"
 city: Lampertheim
-street: "Bahnhofstraße"
-housenumber: 31
-phone: "+49 6241 5033880"
-opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-16:00"
-website: "www.sawathi-thaimassage.de"
+street: Bahnhofstraße
+housenumber: "31"
+phone: +49 6241 5033880
+opening_hours: Mo-Fr 09:30-19:00, Sa 09:30-16:00
+website: www.sawathi-thaimassage.de

@@ -1,11 +1,11 @@
 id: 216615747
-type: way
+type: node
 latitude: 50.88495
 longitude: 9.72348
 postcode: "36251"
 city: Bad Hersfeld
-street: "Am Giegenberg"
-housenumber: 1
+street: Am Giegenberg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.schade.mercedes-benz.de/"
+website: http://www.schade.mercedes-benz.de/

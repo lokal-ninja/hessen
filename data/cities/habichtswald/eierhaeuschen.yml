@@ -1,11 +1,11 @@
 id: 255093227
-type: way
+type: node
 latitude: 51.3424
 longitude: 9.33399
 postcode: "34317"
 city: Habichtswald
-street: "Breiter Weg"
-housenumber: 34
+street: Breiter Weg
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

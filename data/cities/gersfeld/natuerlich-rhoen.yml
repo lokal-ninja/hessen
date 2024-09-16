@@ -4,8 +4,8 @@ latitude: 50.45083
 longitude: 9.91835
 postcode: "36129"
 city: Gersfeld
-street: "Marktplatz"
-housenumber: 9
-phone: "+49 6654 9185060"
-opening_hours: "Mo,We-Fr 09:00-13:00,14:30-18:30; Sa-Su 09:00-17:00; PH off"
-website: "https://www.natuerlich-rhoen.de"
+street: Marktplatz
+housenumber: "9"
+phone: +49 6654 9185060
+opening_hours: Mo,We-Fr 09:00-13:00,14:30-18:30; Sa-Su 09:00-17:00; PH off
+website: https://www.natuerlich-rhoen.de

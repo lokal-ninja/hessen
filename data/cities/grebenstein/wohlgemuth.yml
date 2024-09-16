@@ -4,8 +4,8 @@ latitude: 51.44691
 longitude: 9.41651
 postcode: "34393"
 city: Grebenstein
-street: "Untere Schnurstraße"
-housenumber: 12
-phone: "+49 5674 6149"
-opening_hours: "Mo-Fr 15:00-18:00; Sa 10:00-12:00"
-website: "http://fernseh-wohlgemuth.de/"
+street: Untere Schnurstraße
+housenumber: "12"
+phone: +49 5674 6149
+opening_hours: Mo-Fr 15:00-18:00; Sa 10:00-12:00
+website: http://fernseh-wohlgemuth.de/

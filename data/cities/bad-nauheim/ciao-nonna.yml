@@ -4,8 +4,8 @@ latitude: 50.36529
 longitude: 8.74029
 postcode: "61231"
 city: Bad Nauheim
-street: "Parkstraße"
-housenumber: 4
+street: Parkstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 10:00-18:00, Sa 10:00-14:00"
-website: "https://ciao-nonna.de/#pasta"
+opening_hours: Tu-Fr 10:00-18:00, Sa 10:00-14:00
+website: https://ciao-nonna.de/#pasta

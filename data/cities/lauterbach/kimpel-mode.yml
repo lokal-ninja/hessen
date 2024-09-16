@@ -1,11 +1,11 @@
 id: 101699391
-type: way
+type: node
 latitude: 50.63571
 longitude: 9.39616
 postcode: "36341"
 city: Lauterbach
-street: "Eisenbacher Tor"
-housenumber: 14
+street: Eisenbacher Tor
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

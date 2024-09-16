@@ -4,8 +4,8 @@ latitude: 49.9276
 longitude: 8.40342
 postcode: "65468"
 city: Trebur
-street: "Astheimer Straße"
-housenumber: 58
-phone: "+49 6147 7915"
-opening_hours: "Tu-Fr 14:00-18:00; Sa 10:00-13:00"
-website: "https://www.fahrrad-claus.de/"
+street: Astheimer Straße
+housenumber: "58"
+phone: +49 6147 7915
+opening_hours: Tu-Fr 14:00-18:00; Sa 10:00-13:00
+website: https://www.fahrrad-claus.de/

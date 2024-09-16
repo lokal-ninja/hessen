@@ -1,11 +1,11 @@
 id: 289275550
-type: way
+type: node
 latitude: 50.31428
 longitude: 8.15603
 postcode: "65597"
 city: Hünfelden
-street: "Hünfeldener Höhe"
-housenumber: 2
+street: Hünfeldener Höhe
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

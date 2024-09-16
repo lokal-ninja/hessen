@@ -1,11 +1,11 @@
 id: 29171544
-type: way
+type: node
 latitude: 50.99921
 longitude: 9.14847
 postcode: "34632"
 city: Jesberg
-street: "Industriestraße"
-housenumber: 7
-phone: "+49 6695 911270"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:30-20:00"
-website: "https://edeka-weissing-jesberg.de/"
+street: Industriestraße
+housenumber: "7"
+phone: +49 6695 911270
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:30-20:00
+website: https://edeka-weissing-jesberg.de/

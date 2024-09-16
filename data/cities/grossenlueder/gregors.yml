@@ -1,11 +1,11 @@
 id: 108344514
-type: way
+type: node
 latitude: 50.54811
 longitude: 9.51552
 postcode: "36137"
 city: Großenlüder
-street: "Mühlenstraße"
-housenumber: 1
-phone: "+49 6650 9185888"
-opening_hours: "Mo 06:30-12:00; Tu-Fr 06:30-12:00, 14:00-18:00; Sa 07:00-12:00"
-website: "https://gregorstore.de/"
+street: Mühlenstraße
+housenumber: "1"
+phone: +49 6650 9185888
+opening_hours: Mo 06:30-12:00; Tu-Fr 06:30-12:00, 14:00-18:00; Sa 07:00-12:00
+website: https://gregorstore.de/

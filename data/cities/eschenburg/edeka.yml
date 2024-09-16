@@ -1,11 +1,11 @@
 id: 92192829
-type: way
+type: node
 latitude: 50.8177
 longitude: 8.33674
 postcode: "35713"
 city: Eschenburg
-street: "Laaspher Straße"
-housenumber: 15
+street: Laaspher Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

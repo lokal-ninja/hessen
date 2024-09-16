@@ -1,11 +1,11 @@
 id: 101699390
-type: way
+type: node
 latitude: 50.63538
 longitude: 9.39748
 postcode: "36341"
 city: Lauterbach
-street: "Langgasse"
-housenumber: 18
+street: Langgasse
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 382537464
-type: way
+type: node
 latitude: 49.96339
 longitude: 8.67069
 postcode: "63329"
 city: Egelsbach
-street: "Im Geisbaum"
-housenumber: 21
+street: Im Geisbaum
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-janko.de/"
+website: https://www.autohaus-janko.de/

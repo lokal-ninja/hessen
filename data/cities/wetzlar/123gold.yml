@@ -4,8 +4,8 @@ latitude: 50.55512
 longitude: 8.50019
 postcode: "35578"
 city: Wetzlar
-street: "Lahnstraße"
-housenumber: 24
-phone: "+49 6441 45590"
-opening_hours: "Mo-Fr 10:30-18:30; Sa 10:30-17:00"
-website: "https://www.123gold.de/standorte/wetzlar"
+street: Lahnstraße
+housenumber: "24"
+phone: +49 6441 45590
+opening_hours: Mo-Fr 10:30-18:30; Sa 10:30-17:00
+website: https://www.123gold.de/standorte/wetzlar

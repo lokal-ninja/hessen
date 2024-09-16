@@ -4,8 +4,8 @@ latitude: 51.34409
 longitude: 9.85855
 postcode: "37213"
 city: Witzenhausen
-street: "Steinstraße"
-housenumber: 19
+street: Steinstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo 14:00-18:00; Tu 15:00-18:00; Fr 15:00-17:30"
-website: "http://radhaus.org/"
+opening_hours: Mo 14:00-18:00; Tu 15:00-18:00; Fr 15:00-17:30
+website: http://radhaus.org/

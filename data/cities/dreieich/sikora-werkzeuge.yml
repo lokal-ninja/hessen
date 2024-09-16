@@ -1,11 +1,11 @@
 id: 230969492
-type: way
+type: node
 latitude: 50.00044
 longitude: 8.71215
 postcode: "63303"
 city: Dreieich
-street: "Solmische-Weiher-Straße"
-housenumber: 3
-phone: "+49 6103 87398"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-12:00"
-website: "http://www.sikora-werkzeuge.de"
+street: Solmische-Weiher-Straße
+housenumber: "3"
+phone: +49 6103 87398
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-12:00
+website: http://www.sikora-werkzeuge.de

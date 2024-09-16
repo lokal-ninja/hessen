@@ -1,11 +1,11 @@
 id: 259352477
-type: way
+type: node
 latitude: 50.67259
 longitude: 9.76596
 postcode: "36088"
 city: Hünfeld
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 6652 748222"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00"
-website: "http://www.optik-och.de/"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 6652 748222
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00
+website: http://www.optik-och.de/

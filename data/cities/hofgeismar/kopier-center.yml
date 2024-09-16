@@ -4,8 +4,8 @@ latitude: 51.49375
 longitude: 9.38486
 postcode: "34369"
 city: Hofgeismar
-street: "Mühlentor"
-housenumber: 2
-phone: "+49-5671-5967"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:00-17:00; We 09:00-13:00; PH off"
-website: "https://www.creative-color-copy.de/"
+street: Mühlentor
+housenumber: "2"
+phone: +49-5671-5967
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-17:00; We 09:00-13:00; PH off
+website: https://www.creative-color-copy.de/

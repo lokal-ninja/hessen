@@ -1,11 +1,11 @@
 id: 101080974
-type: way
+type: node
 latitude: 50.60745
 longitude: 9.3651
 postcode: "36341"
 city: Lauterbach
-street: "Hopfmannsfelder Straße"
-housenumber: 23
+street: Hopfmannsfelder Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

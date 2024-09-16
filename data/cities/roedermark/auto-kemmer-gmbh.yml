@@ -1,11 +1,11 @@
 id: 98688232
-type: way
+type: node
 latitude: 49.967
 longitude: 8.8262
 postcode: "63322"
 city: Rödermark
-street: "Carl-Zeiss-Straße"
-housenumber: 2
-phone: "+49 6074 86830"
+street: Carl-Zeiss-Straße
+housenumber: "2"
+phone: +49 6074 86830
 opening_hours: ""
-website: "http://www.auto-kemmer.skoda-auto.de"
+website: http://www.auto-kemmer.skoda-auto.de

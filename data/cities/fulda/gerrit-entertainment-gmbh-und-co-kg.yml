@@ -1,11 +1,11 @@
 id: 137866029
-type: way
+type: node
 latitude: 50.53566
 longitude: 9.64648
 postcode: "36041"
 city: Fulda
-street: "Robert-Kronfeld-Straße"
-housenumber: 6
+street: Robert-Kronfeld-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

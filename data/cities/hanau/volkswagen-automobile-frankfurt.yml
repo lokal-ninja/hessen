@@ -1,11 +1,11 @@
 id: 222911935
-type: way
+type: node
 latitude: 50.15161
 longitude: 8.9337
 postcode: "63452"
 city: Hanau
-street: "Donaustraße"
-housenumber: 32
+street: Donaustraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-13:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 50.37299
 longitude: 8.69421
 postcode: "61239"
 city: Ober-Mörlen
-street: "Usinger Straße"
-housenumber: 2
+street: Usinger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu 09:00-18:00; We 11:00-20:00; Th 09:00-20:00; Fr 08:00-19:00; Sa 09:00-14:00"
+opening_hours: Tu 09:00-18:00; We 11:00-20:00; Th 09:00-20:00; Fr 08:00-19:00; Sa
+    09:00-14:00
 website: ""

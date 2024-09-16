@@ -1,11 +1,11 @@
 id: 61348579
-type: way
+type: node
 latitude: 49.9836
 longitude: 8.39545
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Alzeyer Straße"
-housenumber: 13
+street: Alzeyer Straße
+housenumber: "13"
 phone: "+496142176030"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/

@@ -1,11 +1,11 @@
 id: 355707740
-type: way
+type: node
 latitude: 49.76046
 longitude: 8.48341
 postcode: "64579"
 city: Gernsheim
-street: "Mainzer Straße"
-housenumber: 25
+street: Mainzer Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
 website: ""

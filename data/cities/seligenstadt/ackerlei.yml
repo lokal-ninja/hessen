@@ -4,8 +4,8 @@ latitude: 50.02904
 longitude: 8.95862
 postcode: "63500"
 city: Seligenstadt
-street: "Schachenweg"
-housenumber: 3
+street: Schachenweg
+housenumber: "3"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off"
+opening_hours: Tu,Th,Fr 09:00-18:30; Sa 09:00-14:00; Su,PH off
 website: ""

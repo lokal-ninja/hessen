@@ -4,8 +4,8 @@ latitude: 49.87119
 longitude: 8.65426
 postcode: "64283"
 city: Darmstadt
-street: "Ernst-Ludwig-Straße"
-housenumber: 24
-phone: "+49 6151-15-22-47"
-opening_hours: "Mo-Sa 09:00-18:00; Su,PH off"
-website: "https://www.apollo.de/"
+street: Ernst-Ludwig-Straße
+housenumber: "24"
+phone: +49 6151-15-22-47
+opening_hours: Mo-Sa 09:00-18:00; Su,PH off
+website: https://www.apollo.de/

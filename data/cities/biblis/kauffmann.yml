@@ -1,11 +1,11 @@
 id: 337746998
-type: way
+type: node
 latitude: 49.6943
 longitude: 8.45359
 postcode: "68647"
 city: Biblis
-street: "Gewerbestraße"
-housenumber: 29
+street: Gewerbestraße
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

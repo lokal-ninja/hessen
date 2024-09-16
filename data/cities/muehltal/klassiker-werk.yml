@@ -1,11 +1,11 @@
 id: 71306215
-type: way
+type: node
 latitude: 49.8291
 longitude: 8.70963
 postcode: "64367"
 city: Mühltal
-street: "Ober-Ramstädter Straße"
-housenumber: 82
+street: Ober-Ramstädter Straße
+housenumber: "82"
 phone: ""
 opening_hours: ""
-website: "https://www.klassikerwerk.info/"
+website: https://www.klassikerwerk.info/

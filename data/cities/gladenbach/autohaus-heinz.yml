@@ -1,11 +1,11 @@
 id: 184178387
-type: way
+type: node
 latitude: 50.77605
 longitude: 8.58419
 postcode: "35075"
 city: Gladenbach
-street: "Zu den Kauten"
-housenumber: 1
+street: Zu den Kauten
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

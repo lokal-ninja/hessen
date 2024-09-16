@@ -4,8 +4,8 @@ latitude: 50.1247
 longitude: 8.69425
 postcode: "60316"
 city: Frankfurt am Main
-street: "Vogelsbergstraße"
-housenumber: 25
+street: Vogelsbergstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,16:00-18:30; Sa 10:00-14:00"
-website: "https://www.casaviva-online.de/"
+opening_hours: Mo-Fr 10:00-14:00,16:00-18:30; Sa 10:00-14:00
+website: https://www.casaviva-online.de/

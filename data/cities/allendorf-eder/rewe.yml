@@ -1,11 +1,11 @@
 id: 264385189
-type: way
+type: node
 latitude: 51.02231
 longitude: 8.66498
 postcode: "35108"
 city: Allendorf (Eder)
-street: "Ringstraße"
-housenumber: 1
-phone: "+49 6452 91080"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/allendorf-battenfeld/1464112/rewe-markt-ringstr-1/"
+street: Ringstraße
+housenumber: "1"
+phone: +49 6452 91080
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/allendorf-battenfeld/1464112/rewe-markt-ringstr-1/

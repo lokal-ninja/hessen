@@ -1,11 +1,11 @@
 id: 128617434
-type: way
+type: node
 latitude: 50.49713
 longitude: 8.66609
 postcode: "35428"
 city: Langgöns
-street: "Bahnhofstraße"
-housenumber: 7
-phone: "+49 6403 2946"
+street: Bahnhofstraße
+housenumber: "7"
+phone: +49 6403 2946
 opening_hours: ""
 website: ""

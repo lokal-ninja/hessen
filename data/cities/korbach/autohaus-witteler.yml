@@ -1,11 +1,11 @@
 id: 646247965
-type: way
+type: node
 latitude: 51.26606
 longitude: 8.8808
 postcode: "34497"
 city: Korbach
-street: "Frankenberger Landstraße"
-housenumber: 7
+street: Frankenberger Landstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://witteler-automobile.de/ueber-uns/autohaeuser-und-kontakt/"
+website: https://witteler-automobile.de/ueber-uns/autohaeuser-und-kontakt/

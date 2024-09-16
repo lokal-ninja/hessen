@@ -1,11 +1,11 @@
 id: 837084362
-type: way
+type: node
 latitude: 50.11686
 longitude: 8.42067
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Alt Lorsbach"
-housenumber: 3
+street: Alt Lorsbach
+housenumber: "3"
 phone: ""
-opening_hours: "Tu-Sa 09:00-13:00"
+opening_hours: Tu-Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 175406105
-type: way
+type: node
 latitude: 49.8578
 longitude: 8.65093
 postcode: "64285"
 city: Darmstadt
-street: "Ludwigshöhstraße"
-housenumber: 1
+street: Ludwigshöhstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 14:00-20:00"
-website: "https://www.ebaystores.de/Antiquariat-Darmstadt-Eberstadt/Antiquariat-an-der-Linie-3.html"
+opening_hours: Mo-Fr 14:00-20:00
+website: https://www.ebaystores.de/Antiquariat-Darmstadt-Eberstadt/Antiquariat-an-der-Linie-3.html

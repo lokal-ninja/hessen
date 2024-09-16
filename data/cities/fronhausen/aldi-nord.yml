@@ -1,11 +1,11 @@
 id: 139428476
-type: way
+type: node
 latitude: 50.7094
 longitude: 8.69579
 postcode: "35112"
 city: Fronhausen
-street: "Im Boden"
-housenumber: 2
+street: Im Boden
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.aldi-nord.de/

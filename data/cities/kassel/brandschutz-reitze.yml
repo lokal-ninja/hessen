@@ -4,8 +4,8 @@ latitude: 51.29938
 longitude: 9.52681
 postcode: "34123"
 city: Kassel
-street: "Lilienthalstraße"
-housenumber: 25
+street: Lilienthalstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "http://www.brandschutz-reitze.de"
+website: http://www.brandschutz-reitze.de

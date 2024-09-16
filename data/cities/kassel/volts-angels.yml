@@ -4,8 +4,8 @@ latitude: 51.31161
 longitude: 9.48833
 postcode: "34117"
 city: Kassel
-street: "Wilhelmshöher Allee"
-housenumber: 8
-phone: "+49 561 816 905 07"
-opening_hours: "Mo-Fr 11:00-18:00,Sa 11:00-16:00; PH off"
-website: "https://www.voltsangels.de/"
+street: Wilhelmshöher Allee
+housenumber: "8"
+phone: +49 561 816 905 07
+opening_hours: Mo-Fr 11:00-18:00,Sa 11:00-16:00; PH off
+website: https://www.voltsangels.de/

@@ -4,8 +4,8 @@ latitude: 50.23134
 longitude: 8.76961
 postcode: "61184"
 city: Karben
-street: "Homburger Straße"
-housenumber: 51
-phone: "+49 6039 44442"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:30; Su 08:00-11:00"
-website: "https://www.kroegers-broetchen.de"
+street: Homburger Straße
+housenumber: "51"
+phone: +49 6039 44442
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:30; Su 08:00-11:00
+website: https://www.kroegers-broetchen.de

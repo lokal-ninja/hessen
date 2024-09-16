@@ -4,8 +4,8 @@ latitude: 51.30458
 longitude: 9.52722
 postcode: "34123"
 city: Kassel
-street: "Leipziger Straße"
-housenumber: 124
-phone: "+49 561 97915616"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.fressnapf.de/"
+street: Leipziger Straße
+housenumber: "124"
+phone: +49 561 97915616
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.fressnapf.de/

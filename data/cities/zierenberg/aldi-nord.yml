@@ -1,11 +1,11 @@
 id: 176358399
-type: way
+type: node
 latitude: 51.36715
 longitude: 9.29028
 postcode: "34289"
 city: Zierenberg
-street: "Vor Brakens Höhe"
-housenumber: 2
+street: Vor Brakens Höhe
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/zierenberg/vor-brakens-hoehe-2.html"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/zierenberg/vor-brakens-hoehe-2.html

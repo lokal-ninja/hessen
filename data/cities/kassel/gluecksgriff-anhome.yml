@@ -4,8 +4,8 @@ latitude: 51.3158
 longitude: 9.494
 postcode: ""
 city: Kassel
-street: "Treppenstraße"
-housenumber: 10
-phone: "+49 561 560 361 86"
-opening_hours: "Mo-Sa 10:30-18:30"
-website: "https://www.gluecksgriff-kassel.de"
+street: Treppenstraße
+housenumber: "10"
+phone: +49 561 560 361 86
+opening_hours: Mo-Sa 10:30-18:30
+website: https://www.gluecksgriff-kassel.de

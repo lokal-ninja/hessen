@@ -1,11 +1,11 @@
 id: 564388390
-type: way
+type: node
 latitude: 50.57687
 longitude: 8.49218
 postcode: "35586"
 city: Wetzlar
-street: "Wiesenstraße"
-housenumber: 11
+street: Wiesenstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

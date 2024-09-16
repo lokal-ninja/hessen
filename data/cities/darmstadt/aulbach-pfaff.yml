@@ -4,8 +4,8 @@ latitude: 49.88396
 longitude: 8.63496
 postcode: "64293"
 city: Darmstadt
-street: "Pallaswiesenstraße"
-housenumber: 145
-phone: "+49 6151 137470"
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "https://aulbach-pfaff.de/"
+street: Pallaswiesenstraße
+housenumber: "145"
+phone: +49 6151 137470
+opening_hours: Mo-Fr 08:00-16:30
+website: https://aulbach-pfaff.de/

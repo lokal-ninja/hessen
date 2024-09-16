@@ -1,11 +1,11 @@
 id: 96681594
-type: way
+type: node
 latitude: 50.9125
 longitude: 9.24681
 postcode: "34613"
 city: Schwalmstadt
-street: "Wiederholdstraße"
+street: Wiederholdstraße
 housenumber: 42a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de/

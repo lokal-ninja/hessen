@@ -1,11 +1,11 @@
 id: 202250865
-type: way
+type: node
 latitude: 49.99085
 longitude: 7.97731
 postcode: "65366"
 city: Geisenheim
-street: "Industriestraße"
-housenumber: 8
+street: Industriestraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://autoservice-muessig.de/"
+website: https://autoservice-muessig.de/

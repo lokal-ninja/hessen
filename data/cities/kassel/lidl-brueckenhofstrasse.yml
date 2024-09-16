@@ -1,11 +1,11 @@
 id: 126623823
-type: way
+type: node
 latitude: 51.28255
 longitude: 9.44176
 postcode: "34132"
 city: Kassel
-street: "Brückenhofstraße"
-housenumber: 77
+street: Brückenhofstraße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

@@ -1,11 +1,11 @@
 id: 205406873
-type: way
+type: node
 latitude: 49.95145
 longitude: 8.95651
 postcode: "64832"
 city: Babenhausen
-street: "Siemensstraße"
-housenumber: 8
+street: Siemensstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

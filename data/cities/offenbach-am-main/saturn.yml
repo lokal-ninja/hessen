@@ -4,8 +4,8 @@ latitude: 50.08732
 longitude: 8.76254
 postcode: "63069"
 city: Offenbach am Main
-street: "Odenwaldring"
-housenumber: 70
+street: Odenwaldring
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.saturn.de/de/store/offenbach-1375"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.saturn.de/de/store/offenbach-1375

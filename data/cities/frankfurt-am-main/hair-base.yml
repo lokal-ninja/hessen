@@ -4,8 +4,8 @@ latitude: 50.10835
 longitude: 8.65722
 postcode: "60327"
 city: Frankfurt am Main
-street: "Mainzer Landstraße"
+street: Mainzer Landstraße
 housenumber: 114a
-phone: "+49 69 74745805"
-opening_hours: "Tu-Fr 10:00-20:00; Sa 10:00-16:00; Mo, PH off"
+phone: +49 69 74745805
+opening_hours: Tu-Fr 10:00-20:00; Sa 10:00-16:00; Mo, PH off
 website: ""

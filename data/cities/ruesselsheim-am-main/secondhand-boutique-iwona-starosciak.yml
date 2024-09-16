@@ -4,8 +4,8 @@ latitude: 49.99554
 longitude: 8.41191
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Mainstraße"
-housenumber: 1
+street: Mainstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 11:00-17:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 11:00-17:00; Sa 10:00-14:00
 website: ""

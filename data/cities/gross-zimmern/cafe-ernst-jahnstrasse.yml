@@ -1,11 +1,11 @@
 id: 368072313
-type: way
+type: node
 latitude: 49.87368
 longitude: 8.8311
 postcode: "64846"
 city: Groß-Zimmern
-street: "Jahnstraße"
-housenumber: 7
-phone: "+496071–30 26 779"
-opening_hours: "Mo-Fr 06:30-13:00, Sa 06:30-12:00, So 08:00-11:00, Fei 08:00-11:30"
-website: "https://cafe-ernst.de/unsere-cafes/"
+street: Jahnstraße
+housenumber: "7"
+phone: +496071–30 26 779
+opening_hours: Mo-Fr 06:30-13:00, Sa 06:30-12:00, So 08:00-11:00, Fei 08:00-11:30
+website: https://cafe-ernst.de/unsere-cafes/

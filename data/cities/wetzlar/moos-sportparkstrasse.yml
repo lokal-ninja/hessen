@@ -1,11 +1,11 @@
 id: 134872037
-type: way
+type: node
 latitude: 50.55309
 longitude: 8.53226
 postcode: "35578"
 city: Wetzlar
-street: "Sportparkstraße"
-housenumber: 20
+street: Sportparkstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00"
+opening_hours: Mo-Fr 06:00-17:00
 website: ""

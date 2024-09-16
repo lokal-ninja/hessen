@@ -1,11 +1,11 @@
 id: 345485067
-type: way
+type: node
 latitude: 49.99477
 longitude: 8.41063
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Mainzer Straße"
-housenumber: 6
+street: Mainzer Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

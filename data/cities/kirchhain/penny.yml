@@ -1,11 +1,11 @@
 id: 108817025
-type: way
+type: node
 latitude: 50.81968
 longitude: 8.9358
 postcode: "35274"
 city: Kirchhain
-street: "Alsfelder Straße"
-housenumber: 58
+street: Alsfelder Straße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

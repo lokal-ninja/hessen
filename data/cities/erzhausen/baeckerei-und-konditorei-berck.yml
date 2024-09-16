@@ -4,8 +4,8 @@ latitude: 49.95342
 longitude: 8.62812
 postcode: "64390"
 city: Erzhausen
-street: "Hauptstraße"
-housenumber: 40
-phone: "+49 6150 7531"
-opening_hours: "Mo-Fr 05:30-12:30; 14:30-18:00"
-website: "https://www.baeckerei-berck.de/"
+street: Hauptstraße
+housenumber: "40"
+phone: +49 6150 7531
+opening_hours: Mo-Fr 05:30-12:30; 14:30-18:00
+website: https://www.baeckerei-berck.de/

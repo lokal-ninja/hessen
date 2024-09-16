@@ -4,8 +4,8 @@ latitude: 51.30851
 longitude: 9.57746
 postcode: "34266"
 city: Niestetal
-street: "Witzenhäuser Straße"
-housenumber: 15
+street: Witzenhäuser Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su 08:00-11:00"
-website: "http://www.baeckerei-apel.de/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00; Su 08:00-11:00
+website: http://www.baeckerei-apel.de/

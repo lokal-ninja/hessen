@@ -4,8 +4,8 @@ latitude: 50.08898
 longitude: 8.92057
 postcode: "63456"
 city: Hanau
-street: "Speckweg"
-housenumber: 23
+street: Speckweg
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su 12:00-17:00"
-website: "https://wurbs-hanau.de/hofladen/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su 12:00-17:00
+website: https://wurbs-hanau.de/hofladen/

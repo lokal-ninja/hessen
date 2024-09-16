@@ -1,11 +1,11 @@
 id: 218890570
-type: way
+type: node
 latitude: 50.49199
 longitude: 8.65493
 postcode: "35428"
 city: Langgöns
-street: "Am Lindenbaum"
-housenumber: 6
+street: Am Lindenbaum
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

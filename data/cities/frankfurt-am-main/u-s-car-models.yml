@@ -1,11 +1,11 @@
 id: 116174648
-type: way
+type: node
 latitude: 50.14714
 longitude: 8.75343
 postcode: "60388"
 city: Frankfurt am Main
-street: "Taschnerstraße"
-housenumber: 3
-phone: "+49 6109 723623"
-opening_hours: "Mo,Tu,Th 16:00-19:00; Fr 15:00-19:00; Sa 10:00-14:00"
-website: "http://www.uscarmodels.eu"
+street: Taschnerstraße
+housenumber: "3"
+phone: +49 6109 723623
+opening_hours: Mo,Tu,Th 16:00-19:00; Fr 15:00-19:00; Sa 10:00-14:00
+website: http://www.uscarmodels.eu

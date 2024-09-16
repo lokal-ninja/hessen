@@ -4,8 +4,8 @@ latitude: 50.17668
 longitude: 9.04148
 postcode: "63505"
 city: Langenselbold
-street: "Gartenstraße"
-housenumber: 4
-phone: "+49 6184 903381"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.drk-hanau.de/"
+street: Gartenstraße
+housenumber: "4"
+phone: +49 6184 903381
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.drk-hanau.de/

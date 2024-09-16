@@ -4,8 +4,8 @@ latitude: 51.26402
 longitude: 9.97317
 postcode: "37242"
 city: Bad Sooden-Allendorf
-street: "Werrastraße"
-housenumber: 6
+street: Werrastraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/bad-sooden-allendorf.html"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/bad-sooden-allendorf.html

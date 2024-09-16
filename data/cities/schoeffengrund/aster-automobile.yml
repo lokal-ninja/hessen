@@ -4,8 +4,8 @@ latitude: 50.4751
 longitude: 8.50676
 postcode: "35641"
 city: Schöffengrund
-street: "Kreuzweg"
-housenumber: 5
-phone: "+49 6445 600 910"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-13:00"
-website: "http://aster-automobile.de"
+street: Kreuzweg
+housenumber: "5"
+phone: +49 6445 600 910
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-13:00
+website: http://aster-automobile.de

@@ -1,11 +1,11 @@
 id: 192308138
-type: way
+type: node
 latitude: 50.19383
 longitude: 8.64324
 postcode: "60437"
 city: Frankfurt am Main
-street: "Heinrich-Lanz-Allee"
-housenumber: 33
+street: Heinrich-Lanz-Allee
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.mercedes-benz-frankfurt.de/"
+website: https://www.mercedes-benz-frankfurt.de/

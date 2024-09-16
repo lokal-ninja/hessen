@@ -4,8 +4,8 @@ latitude: 50.01916
 longitude: 8.34274
 postcode: "65239"
 city: Hochheim am Main
-street: "Am Weiher"
-housenumber: 49
-phone: "+49 6146 3722"
-opening_hours: "We-Sa 17:00+; PH,Su 16:00+"
-website: "http://www.weingut-dienst.de/"
+street: Am Weiher
+housenumber: "49"
+phone: +49 6146 3722
+opening_hours: We-Sa 17:00+; PH,Su 16:00+
+website: http://www.weingut-dienst.de/

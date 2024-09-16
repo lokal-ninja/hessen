@@ -4,8 +4,8 @@ latitude: 50.08247
 longitude: 8.23
 postcode: "65183"
 city: Wiesbaden
-street: "Wellritzstraße"
-housenumber: 48
-phone: "+49 177 8740263"
-opening_hours: "Mo-Tu 10:00-13:00,15:00-18:00; We 10:00-13:00; Th-Fr 10:00-13:00,15:00-18:00"
-website: "https://www.henn-hahn-wiesbaden.de"
+street: Wellritzstraße
+housenumber: "48"
+phone: +49 177 8740263
+opening_hours: Mo-Tu 10:00-13:00,15:00-18:00; We 10:00-13:00; Th-Fr 10:00-13:00,15:00-18:00
+website: https://www.henn-hahn-wiesbaden.de

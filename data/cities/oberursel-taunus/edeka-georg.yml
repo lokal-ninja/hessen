@@ -1,11 +1,11 @@
 id: 197484517
-type: way
+type: node
 latitude: 50.18663
 longitude: 8.59982
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Frankfurter Landstraße"
-housenumber: 150
-phone: "+49 6171 916060"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.edeka-georg.de/oberursel-weisskirchen"
+street: Frankfurter Landstraße
+housenumber: "150"
+phone: +49 6171 916060
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.edeka-georg.de/oberursel-weisskirchen

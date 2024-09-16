@@ -1,11 +1,11 @@
 id: 1120571584
-type: way
+type: node
 latitude: 51.4144
 longitude: 9.17342
 postcode: "34479"
 city: Breuna
-street: "Am Bachmann"
-housenumber: 13
-phone: "+49 5693 2339990"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-17:00"
-website: "https://www.caravantechnik-lyssov.de/"
+street: Am Bachmann
+housenumber: "13"
+phone: +49 5693 2339990
+opening_hours: Mo-Fr 09:00-12:00, 14:00-17:00
+website: https://www.caravantechnik-lyssov.de/

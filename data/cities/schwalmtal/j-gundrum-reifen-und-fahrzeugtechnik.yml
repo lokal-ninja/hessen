@@ -1,11 +1,11 @@
 id: 306494297
-type: way
+type: node
 latitude: 50.65322
 longitude: 9.26227
 postcode: "36318"
 city: Schwalmtal
-street: "Meicheser Straße"
-housenumber: 36
+street: Meicheser Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; PH off"
-website: "http://www.fahrzeugtechnik-gundrum.de/"
+opening_hours: Mo-Fr 08:00-17:00; PH off
+website: http://www.fahrzeugtechnik-gundrum.de/

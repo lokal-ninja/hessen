@@ -1,11 +1,11 @@
 id: 207083321
-type: way
+type: node
 latitude: 49.60771
 longitude: 8.4669
 postcode: "68623"
 city: Lampertheim
-street: "Andreasstraße"
-housenumber: 70
+street: Andreasstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

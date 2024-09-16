@@ -1,11 +1,11 @@
 id: 321394592
-type: way
+type: node
 latitude: 51.11785
 longitude: 9.83356
 postcode: "37284"
 city: Waldkappel
-street: "Frankenweg"
-housenumber: 4
+street: Frankenweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

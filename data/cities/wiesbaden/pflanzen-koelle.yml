@@ -4,8 +4,8 @@ latitude: 50.04794
 longitude: 8.21842
 postcode: "65203"
 city: Wiesbaden
-street: "Hagenauer Straße"
-housenumber: 38
-phone: "+49 611 5040460"
-opening_hours: "Mo-Sa 09:00-19:00; Su 10:00-15:00"
-website: "https://www.pflanzen-koelle.de/"
+street: Hagenauer Straße
+housenumber: "38"
+phone: +49 611 5040460
+opening_hours: Mo-Sa 09:00-19:00; Su 10:00-15:00
+website: https://www.pflanzen-koelle.de/

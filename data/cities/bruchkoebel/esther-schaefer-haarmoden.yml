@@ -4,8 +4,9 @@ latitude: 50.19517
 longitude: 8.95347
 postcode: "63486"
 city: Bruchköbel
-street: "Langstraße"
+street: Langstraße
 housenumber: 32a
 phone: ""
-opening_hours: "Mo 14:00-20:00; Tu,We,Fr 09:00-18:30; Th 09:00-20:00; Sa 08:00-17:00;PH off"
+opening_hours: Mo 14:00-20:00; Tu,We,Fr 09:00-18:30; Th 09:00-20:00; Sa 08:00-17:00;PH
+    off
 website: ""

@@ -1,11 +1,11 @@
 id: 123586560
-type: way
+type: node
 latitude: 49.68225
 longitude: 8.62169
 postcode: "64625"
 city: Bensheim
-street: "Hauptstraße"
-housenumber: 5
-phone: "+496251 10630"
-opening_hours: "Mo-Fr 10:30-18:00; Sa 10:00-16:00; Su off; Ph off"
-website: "https://www.mode-winkler.de/"
+street: Hauptstraße
+housenumber: "5"
+phone: +496251 10630
+opening_hours: Mo-Fr 10:30-18:00; Sa 10:00-16:00; Su off; Ph off
+website: https://www.mode-winkler.de/

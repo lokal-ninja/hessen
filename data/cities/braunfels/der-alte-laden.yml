@@ -4,8 +4,8 @@ latitude: 50.51451
 longitude: 8.39029
 postcode: "35619"
 city: Braunfels
-street: "Borngasse"
-housenumber: 1
-phone: "+49 6442 954 0925"
-opening_hours: "Tu,Sa 11:00-16:00; Th 15:00-18:00"
+street: Borngasse
+housenumber: "1"
+phone: +49 6442 954 0925
+opening_hours: Tu,Sa 11:00-16:00; Th 15:00-18:00
 website: ""

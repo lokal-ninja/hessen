@@ -4,8 +4,8 @@ latitude: 50.08847
 longitude: 8.80785
 postcode: "63073"
 city: Offenbach am Main
-street: "Aschaffenburger Straße"
-housenumber: 6
-phone: "+49 69 892161"
-opening_hours: "Mo-Fr 07:30-18:00, Sa 07:30-13:00"
-website: "https://www.altstadtmetzgerei.de"
+street: Aschaffenburger Straße
+housenumber: "6"
+phone: +49 69 892161
+opening_hours: Mo-Fr 07:30-18:00, Sa 07:30-13:00
+website: https://www.altstadtmetzgerei.de

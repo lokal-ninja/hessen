@@ -1,11 +1,11 @@
 id: 364575732
-type: way
+type: node
 latitude: 51.02278
 longitude: 9.2565
 postcode: "34582"
 city: Borken (Hessen)
-street: "Burgstraße"
-housenumber: 2
+street: Burgstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-12:00"
-website: "https://feldmann.skoda-auto.de/index_haendler.php?e=1"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-12:00
+website: https://feldmann.skoda-auto.de/index_haendler.php?e=1

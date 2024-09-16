@@ -1,11 +1,11 @@
 id: 354841713
-type: way
+type: node
 latitude: 49.5504
 longitude: 8.57648
 postcode: ""
 city: Viernheim
-street: "Einsteinstraße"
-housenumber: 15
+street: Einsteinstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://www.adler-buerobedarf.de/"
+website: http://www.adler-buerobedarf.de/

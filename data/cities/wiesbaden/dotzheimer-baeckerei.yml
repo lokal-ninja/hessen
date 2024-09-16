@@ -1,11 +1,11 @@
 id: 143904647
-type: way
+type: node
 latitude: 50.09296
 longitude: 8.19959
 postcode: "65197"
 city: Wiesbaden
-street: "Graf-von-Galen-Straße"
-housenumber: 37
+street: Graf-von-Galen-Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

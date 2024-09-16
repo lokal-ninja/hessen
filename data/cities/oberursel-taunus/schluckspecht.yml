@@ -1,11 +1,11 @@
 id: 96257554
-type: way
+type: node
 latitude: 50.20424
 longitude: 8.59535
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "An den Drei Hasen"
-housenumber: 10
+street: An den Drei Hasen
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

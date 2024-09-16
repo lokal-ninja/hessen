@@ -1,11 +1,11 @@
 id: 103214986
-type: way
+type: node
 latitude: 50.69338
 longitude: 9.30368
 postcode: "36318"
 city: Schwalmtal
-street: "Schwalmstraße"
-housenumber: 10
+street: Schwalmstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

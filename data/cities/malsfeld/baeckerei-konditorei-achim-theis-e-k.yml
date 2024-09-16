@@ -1,11 +1,11 @@
 id: 172826984
-type: way
+type: node
 latitude: 51.08126
 longitude: 9.5405
 postcode: "34323"
 city: Malsfeld
-street: "Mühlenstraße"
-housenumber: 44
-phone: "+49 5664 1498"
+street: Mühlenstraße
+housenumber: "44"
+phone: +49 5664 1498
 opening_hours: ""
 website: ""

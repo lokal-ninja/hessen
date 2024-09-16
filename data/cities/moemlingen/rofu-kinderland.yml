@@ -1,11 +1,11 @@
 id: 118567483
-type: way
+type: node
 latitude: 49.85028
 longitude: 9.07647
 postcode: "63853"
 city: Mömlingen
-street: "Bahnhofstraße"
-housenumber: 24
-phone: "+49 6022 681480"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.rofu.de/ueber-rofu/filial-finder/#!/l/momlingen/bahnhofstrasse-24/1198018"
+street: Bahnhofstraße
+housenumber: "24"
+phone: +49 6022 681480
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.rofu.de/ueber-rofu/filial-finder/#!/l/momlingen/bahnhofstrasse-24/1198018

@@ -4,8 +4,8 @@ latitude: 50.38864
 longitude: 8.06367
 postcode: "65549"
 city: Limburg an der Lahn
-street: "Fischmarkt"
-housenumber: 5
-phone: "+49 6431 932291"
-opening_hours: "Tu,Th,Fr 11:00-17:00; Sa 10:00-14:00; Mo,We off"
-website: "https://www.irena-soukup-moden.de"
+street: Fischmarkt
+housenumber: "5"
+phone: +49 6431 932291
+opening_hours: Tu,Th,Fr 11:00-17:00; Sa 10:00-14:00; Mo,We off
+website: https://www.irena-soukup-moden.de

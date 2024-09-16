@@ -1,11 +1,11 @@
 id: 121901535
-type: way
+type: node
 latitude: 49.65732
 longitude: 8.56534
 postcode: "64653"
 city: Lorsch
-street: "Rheinstraße"
-housenumber: 32
-phone: "+49 6251 51468"
-opening_hours: "Mo 8:00-16:30, Tu,We,Th 7:00-12:00,13:00-16:30, Fr 7:00-13:00"
-website: "http://www.autokarosseriebau.de"
+street: Rheinstraße
+housenumber: "32"
+phone: +49 6251 51468
+opening_hours: Mo 8:00-16:30, Tu,We,Th 7:00-12:00,13:00-16:30, Fr 7:00-13:00
+website: http://www.autokarosseriebau.de

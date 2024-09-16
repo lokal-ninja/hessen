@@ -4,8 +4,8 @@ latitude: 50.08216
 longitude: 8.23991
 postcode: "65183"
 city: Wiesbaden
-street: "Neugasse"
-housenumber: 21
-phone: "+49 611 94912430"
-opening_hours: "Mo-Fr 09:30-19:00,Sa 09:30-18:00"
-website: "https://www.gourmet-markt.de"
+street: Neugasse
+housenumber: "21"
+phone: +49 611 94912430
+opening_hours: Mo-Fr 09:30-19:00,Sa 09:30-18:00
+website: https://www.gourmet-markt.de

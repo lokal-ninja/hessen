@@ -4,8 +4,8 @@ latitude: 50.54647
 longitude: 8.48218
 postcode: "35578"
 city: Wetzlar
-street: "Westendstraße"
-housenumber: 15
+street: Westendstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://gwab.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: https://gwab.de/

@@ -1,11 +1,11 @@
 id: 107846059
-type: way
+type: node
 latitude: 50.60687
 longitude: 9.30429
 postcode: "36369"
 city: Lautertal
-street: "Frischborner Straße"
-housenumber: 2
+street: Frischborner Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

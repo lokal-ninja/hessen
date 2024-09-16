@@ -1,11 +1,11 @@
 id: 199264751
-type: way
+type: node
 latitude: 50.2573
 longitude: 8.68019
 postcode: "61381"
 city: Friedrichsdorf
-street: "Rodheimer Straße"
-housenumber: 46
+street: Rodheimer Straße
+housenumber: "46"
 phone: ""
-opening_hours: "mo-sa; 07:00-21:00"
+opening_hours: mo-sa; 07:00-21:00
 website: ""

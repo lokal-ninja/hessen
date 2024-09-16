@@ -4,8 +4,8 @@ latitude: 50.1461
 longitude: 8.0778
 postcode: "65307"
 city: Bad Schwalbach
-street: "Bahnhofstraße"
-housenumber: 7
-phone: "+49 6124 12502"
-opening_hours: "Mo-Fr 09:00 - 13:00 Mo-Di 14:00 - 18:00 Do-Fr 14:00 - 18:00"
+street: Bahnhofstraße
+housenumber: "7"
+phone: +49 6124 12502
+opening_hours: Mo-Fr 09:00 - 13:00 Mo-Di 14:00 - 18:00 Do-Fr 14:00 - 18:00
 website: ""

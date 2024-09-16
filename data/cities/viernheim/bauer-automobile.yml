@@ -1,11 +1,11 @@
 id: 342327259
-type: way
+type: node
 latitude: 49.55214
 longitude: 8.59405
 postcode: "68519"
 city: Viernheim
-street: "Alexander-Fleming-Straße"
-housenumber: 8
-phone: "+49 6201 599088"
+street: Alexander-Fleming-Straße
+housenumber: "8"
+phone: +49 6201 599088
 opening_hours: ""
-website: "https://home.mobile.de/BAUER-AUTOMOBILE#ses"
+website: https://home.mobile.de/BAUER-AUTOMOBILE#ses

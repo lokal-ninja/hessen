@@ -4,8 +4,8 @@ latitude: 49.65309
 longitude: 8.45267
 postcode: "68642"
 city: Bürstadt
-street: "Mainstraße"
-housenumber: 131
-phone: "+49 6206 9096262"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off"
-website: "https://www.fressnapf.de/maerkte/fressnapf-buerstadt"
+street: Mainstraße
+housenumber: "131"
+phone: +49 6206 9096262
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su,PH off
+website: https://www.fressnapf.de/maerkte/fressnapf-buerstadt

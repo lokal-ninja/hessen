@@ -4,8 +4,8 @@ latitude: 49.98058
 longitude: 7.93949
 postcode: "65385"
 city: Rüdesheim am Rhein
-street: "Europastraße"
-housenumber: 10
+street: Europastraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo,We,Fr 09:00-19:00; Tu,Th 09:00-21:00; Sa 09:00-15:00"
-website: "https://www.friseur-ruedesheim.de/"
+opening_hours: Mo,We,Fr 09:00-19:00; Tu,Th 09:00-21:00; Sa 09:00-15:00
+website: https://www.friseur-ruedesheim.de/

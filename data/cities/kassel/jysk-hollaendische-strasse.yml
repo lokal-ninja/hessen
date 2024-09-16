@@ -1,11 +1,11 @@
 id: 227546542
-type: way
+type: node
 latitude: 51.34112
 longitude: 9.47888
 postcode: "34127"
 city: Kassel
-street: "Holländische Straße"
-housenumber: 203
-phone: "+49 561 879030"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00"
-website: "https://www.daenischesbettenlager.de/filiale/f/f160/hessen/kassel-vellmar/hollaendische-strasse-203"
+street: Holländische Straße
+housenumber: "203"
+phone: +49 561 879030
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00
+website: https://www.daenischesbettenlager.de/filiale/f/f160/hessen/kassel-vellmar/hollaendische-strasse-203

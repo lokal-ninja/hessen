@@ -1,11 +1,11 @@
 id: 108541058
-type: way
+type: node
 latitude: 50.59509
 longitude: 9.53939
 postcode: "36137"
 city: Großenlüder
-street: "Schlitzer Straße"
-housenumber: 32
-phone: "+49 6648 8617"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-18:00; Sa 10:00-13:00; We off"
-website: "http://www.radsportcenter.de/"
+street: Schlitzer Straße
+housenumber: "32"
+phone: +49 6648 8617
+opening_hours: Mo-Fr 10:00-12:00,14:00-18:00; Sa 10:00-13:00; We off
+website: http://www.radsportcenter.de/

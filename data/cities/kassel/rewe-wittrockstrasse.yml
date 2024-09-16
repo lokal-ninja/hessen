@@ -4,8 +4,8 @@ latitude: 51.31162
 longitude: 9.4642
 postcode: "34121"
 city: Kassel
-street: "Wittrockstraße"
-housenumber: 3
+street: Wittrockstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-23:30"
-website: "https://www.rossmann.de/"
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-23:30
+website: https://www.rossmann.de/

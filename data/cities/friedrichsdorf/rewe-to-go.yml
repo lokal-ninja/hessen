@@ -4,8 +4,8 @@ latitude: 50.25284
 longitude: 8.63498
 postcode: "61381"
 city: Friedrichsdorf
-street: "Höhenstraße"
-housenumber: 1
-phone: "+49 6172 2663645"
-opening_hours: "Mo-Sa 06:00-22:00; Su 07:00-22:00"
+street: Höhenstraße
+housenumber: "1"
+phone: +49 6172 2663645
+opening_hours: Mo-Sa 06:00-22:00; Su 07:00-22:00
 website: ""

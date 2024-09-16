@@ -4,8 +4,9 @@ latitude: 50.31869
 longitude: 8.86117
 postcode: "61197"
 city: Florstadt
-street: "Messeplatz"
-housenumber: 13
+street: Messeplatz
+housenumber: "13"
 phone: ""
-opening_hours: "Mo,We-Fr 10:30-23:00; Sa 16:00-23:00; Su 11:00-14:00,17:00-20:00; PH off"
+opening_hours: Mo,We-Fr 10:30-23:00; Sa 16:00-23:00; Su 11:00-14:00,17:00-20:00; PH
+    off
 website: ""

@@ -1,11 +1,11 @@
 id: 671853557
-type: way
+type: node
 latitude: 50.86872
 longitude: 9.7088
 postcode: "36251"
 city: Bad Hersfeld
-street: "Klausstraße"
-housenumber: 16
+street: Klausstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-18:00; Su 07:30-18:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-18:00; Su 07:30-18:00
 website: ""

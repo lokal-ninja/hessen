@@ -4,8 +4,8 @@ latitude: 50.12002
 longitude: 8.64976
 postcode: "60486"
 city: Frankfurt am Main
-street: "Adalbertstraße"
-housenumber: 1
-phone: "+49 69 26013139"
-opening_hours: "Mo-Fr 06:30-19:00; Sa,Su,PH 07:00-14:00"
-website: "https://www.huckgmbh.de"
+street: Adalbertstraße
+housenumber: "1"
+phone: +49 69 26013139
+opening_hours: Mo-Fr 06:30-19:00; Sa,Su,PH 07:00-14:00
+website: https://www.huckgmbh.de

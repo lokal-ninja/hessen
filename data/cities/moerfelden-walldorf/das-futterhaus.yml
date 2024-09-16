@@ -4,8 +4,8 @@ latitude: 49.99863
 longitude: 8.5878
 postcode: "64546"
 city: Mörfelden-Walldorf
-street: "Frankfurter Landstraße"
-housenumber: 8
+street: Frankfurter Landstraße
+housenumber: "8"
 phone: "+4961052732717"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.futterhaus.de/service/filialen/moerfelden-walldorf/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.futterhaus.de/service/filialen/moerfelden-walldorf/

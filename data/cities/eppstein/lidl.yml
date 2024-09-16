@@ -1,11 +1,11 @@
 id: 79080610
-type: way
+type: node
 latitude: 50.15149
 longitude: 8.37608
 postcode: "65817"
 city: Eppstein
-street: "Hauptstraße"
-housenumber: 130
+street: Hauptstraße
+housenumber: "130"
 phone: ""
 opening_hours: ""
 website: ""

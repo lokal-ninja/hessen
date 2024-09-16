@@ -1,11 +1,11 @@
 id: 202250904
-type: way
+type: node
 latitude: 49.98968
 longitude: 7.97731
 postcode: "65366"
 city: Geisenheim
-street: "Industriestraße"
+street: Industriestraße
 housenumber: 5a
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; PH off"
+opening_hours: Mo-Sa 08:00-21:00; PH off
 website: ""

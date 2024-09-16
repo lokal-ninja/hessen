@@ -4,8 +4,8 @@ latitude: 50.38753
 longitude: 8.06437
 postcode: "65549"
 city: Limburg an der Lahn
-street: "Bahnhofstraße"
-housenumber: 21
+street: Bahnhofstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-14:00"
-website: "https://www.metzgerei-raab-limburg.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:00-14:00
+website: https://www.metzgerei-raab-limburg.de/

@@ -1,11 +1,11 @@
 id: 190635269
-type: way
+type: node
 latitude: 51.28326
 longitude: 9.6327
 postcode: "34260"
 city: Kaufungen
-street: "Leipziger Straße"
-housenumber: 448
+street: Leipziger Straße
+housenumber: "448"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:00
 website: ""

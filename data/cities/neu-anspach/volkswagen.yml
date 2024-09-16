@@ -1,11 +1,11 @@
 id: 119295570
-type: way
+type: node
 latitude: 50.3057
 longitude: 8.51128
 postcode: "61267"
 city: Neu-Anspach
-street: "Siemensstraße"
-housenumber: 2
+street: Siemensstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.volkswagen-erlenhoff.de/p_44385/de.html"
+website: http://www.volkswagen-erlenhoff.de/p_44385/de.html

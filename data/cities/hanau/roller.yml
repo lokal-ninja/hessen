@@ -4,8 +4,8 @@ latitude: 50.14757
 longitude: 8.93186
 postcode: "63452"
 city: Hanau
-street: "Kinzigbogen"
-housenumber: 10
-phone: "+49 6181 180820"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.roller.de/moebelhaeuser/hanau/"
+street: Kinzigbogen
+housenumber: "10"
+phone: +49 6181 180820
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.roller.de/moebelhaeuser/hanau/

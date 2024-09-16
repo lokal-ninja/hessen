@@ -4,8 +4,8 @@ latitude: 50.23247
 longitude: 8.73928
 postcode: "61184"
 city: Karben
-street: "Ober-Erlenbacher-Straße"
-housenumber: 13
+street: Ober-Erlenbacher-Straße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "http://die-galerien.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: http://die-galerien.de/

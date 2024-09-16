@@ -1,11 +1,11 @@
 id: 189763709
-type: way
+type: node
 latitude: 50.46716
 longitude: 8.13487
 postcode: "65614"
 city: Beselich
-street: "Gottlieb-Daimler-Straße"
-housenumber: 1
+street: Gottlieb-Daimler-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00"
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

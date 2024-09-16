@@ -4,8 +4,8 @@ latitude: 50.02503
 longitude: 8.11788
 postcode: "65343"
 city: Eltville am Rhein
-street: "Rheingauer Straße"
-housenumber: 1
-phone: "+49 6123 61555"
-opening_hours: "Mo-Tu,Th-Fr 09:00-13:00,14:30-18:30; We,Sa 09:00-13:00; PH off"
-website: "https://barsomo-hms.de/"
+street: Rheingauer Straße
+housenumber: "1"
+phone: +49 6123 61555
+opening_hours: Mo-Tu,Th-Fr 09:00-13:00,14:30-18:30; We,Sa 09:00-13:00; PH off
+website: https://barsomo-hms.de/

@@ -1,11 +1,11 @@
 id: 83281847
-type: way
+type: node
 latitude: 50.53985
 longitude: 8.73246
 postcode: "35415"
 city: Pohlheim
-street: "Neue Mitte"
-housenumber: 1
+street: Neue Mitte
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
 website: ""

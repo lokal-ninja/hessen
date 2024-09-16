@@ -1,11 +1,11 @@
 id: 1418198604
 type: node
-latitude: 51.3151
-longitude: 9.49497
+latitude: 51.31511
+longitude: 9.49496
 postcode: "34117"
 city: Kassel
-street: "Treppenstraße"
-housenumber: 2
-phone: "+49 561 20 19 34 56"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "http://www.friseurgieseke.de/"
+street: Treppenstraße
+housenumber: "2"
+phone: +49 561 20 19 34 56
+opening_hours: Mo-Sa 09:00-20:00
+website: http://www.friseurgieseke.de/

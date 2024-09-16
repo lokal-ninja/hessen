@@ -4,8 +4,8 @@ latitude: 50.15653
 longitude: 8.49305
 postcode: "65812"
 city: Bad Soden am Taunus
-street: "Hauptstraße"
-housenumber: 20
+street: Hauptstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-13:00, Mo,Tu,Th,Fr 15:00-18:00"
+opening_hours: Mo-Sa 08:00-13:00, Mo,Tu,Th,Fr 15:00-18:00
 website: ""

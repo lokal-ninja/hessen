@@ -1,11 +1,11 @@
 id: 574980863
-type: way
+type: node
 latitude: 50.39016
 longitude: 8.74592
 postcode: "61231"
 city: Bad Nauheim
-street: "Bad Nauheimer Straße"
-housenumber: 47
+street: Bad Nauheimer Straße
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

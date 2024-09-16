@@ -4,8 +4,8 @@ latitude: 50.20093
 longitude: 8.58223
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Vorstadt"
-housenumber: 4
+street: Vorstadt
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-16:00"
-website: "https://unternehmen.blume2000.de/blume-2000-filialen/"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:00-16:00
+website: https://unternehmen.blume2000.de/blume-2000-filialen/

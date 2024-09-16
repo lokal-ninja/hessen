@@ -1,11 +1,11 @@
 id: 120919885
-type: way
+type: node
 latitude: 50.55424
 longitude: 9.72155
 postcode: "36100"
 city: Petersberg
-street: "Breitunger Straße"
-housenumber: 4
+street: Breitunger Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 166479617
-type: way
+type: node
 latitude: 50.5903
 longitude: 8.46318
 postcode: "35614"
 city: Aßlar
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: "+49644187673"
 opening_hours: ""
-website: "https://www.ohne-moos-nixlos.com/"
+website: https://www.ohne-moos-nixlos.com/

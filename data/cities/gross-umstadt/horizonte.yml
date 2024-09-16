@@ -4,8 +4,8 @@ latitude: 49.87042
 longitude: 8.91776
 postcode: "64823"
 city: Groß-Umstadt
-street: "Georg-August-Zinn-Straße"
-housenumber: 90
-phone: "+49 6078 71066"
-opening_hours: "Mo-Fr 09:00-13:00; 15:00-19:00; Sa 10:00-15:00"
-website: "https://www.horizonte-gross-umstadt.de/"
+street: Georg-August-Zinn-Straße
+housenumber: "90"
+phone: +49 6078 71066
+opening_hours: Mo-Fr 09:00-13:00; 15:00-19:00; Sa 10:00-15:00
+website: https://www.horizonte-gross-umstadt.de/

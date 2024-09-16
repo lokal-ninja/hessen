@@ -1,11 +1,11 @@
 id: 27518769
-type: way
+type: node
 latitude: 50.0139
 longitude: 8.79153
 postcode: "63128"
 city: Dietzenbach
-street: "Albert-Einstein-Straße"
-housenumber: 3
-phone: "+49 6074 40721-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.globus-baumarkt.de/"
+street: Albert-Einstein-Straße
+housenumber: "3"
+phone: +49 6074 40721-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.globus-baumarkt.de/

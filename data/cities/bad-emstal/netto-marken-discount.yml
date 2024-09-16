@@ -1,11 +1,11 @@
 id: 211170191
-type: way
+type: node
 latitude: 51.24717
 longitude: 9.26287
 postcode: "34308"
 city: Bad Emstal
-street: "Kasseler Straße"
+street: Kasseler Straße
 housenumber: 85a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

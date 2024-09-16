@@ -4,8 +4,8 @@ latitude: 51.31477
 longitude: 9.51672
 postcode: "34125"
 city: Kassel
-street: "Scharnhorststraße"
-housenumber: 14
-phone: "+49 561 570000"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "https://www.bmw-kassel.de/de/ueber-uns/standort-team/"
+street: Scharnhorststraße
+housenumber: "14"
+phone: +49 561 570000
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: https://www.bmw-kassel.de/de/ueber-uns/standort-team/

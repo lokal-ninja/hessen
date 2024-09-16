@@ -4,8 +4,8 @@ latitude: 50.15491
 longitude: 8.75
 postcode: "60388"
 city: Frankfurt am Main
-street: "Marktstraße"
-housenumber: 6
-phone: "+49 6109 23619"
-opening_hours: "We-Sa 10:00-13:00, Th,Fr 15:00-19:00; Mo,Tu off"
-website: "https://www.fleige-schmuck.de/"
+street: Marktstraße
+housenumber: "6"
+phone: +49 6109 23619
+opening_hours: We-Sa 10:00-13:00, Th,Fr 15:00-19:00; Mo,Tu off
+website: https://www.fleige-schmuck.de/

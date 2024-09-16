@@ -4,8 +4,8 @@ latitude: 50.12906
 longitude: 8.66799
 postcode: "60323"
 city: Frankfurt am Main
-street: "Max-Horkheimer-Straße"
-housenumber: 
-phone: "+49 69 79833233"
-opening_hours: "Tu 10:00-16:00; We 13:00-19:00; Th 13:00-19:00"
-website: "https://www.asta-fahrradwerkstatt.de"
+street: Max-Horkheimer-Straße
+housenumber: ""
+phone: +49 69 79833233
+opening_hours: Tu 10:00-16:00; We 13:00-19:00; Th 13:00-19:00
+website: https://www.asta-fahrradwerkstatt.de

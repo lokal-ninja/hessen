@@ -1,11 +1,11 @@
 id: 41083025
-type: way
+type: node
 latitude: 50.84032
 longitude: 9.28719
 postcode: "34637"
 city: Schrecksbach
-street: "Kasseler Straße"
-housenumber: 25
-phone: "+49 6698 919105"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-schrecksbach-kasseler-str-25.html"
+street: Kasseler Straße
+housenumber: "25"
+phone: +49 6698 919105
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.tegut.com/maerkte/markt/tegut-schrecksbach-kasseler-str-25.html

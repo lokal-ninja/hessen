@@ -1,11 +1,11 @@
 id: 194705734
-type: way
+type: node
 latitude: 50.23174
 longitude: 8.76185
 postcode: "61184"
 city: Karben
-street: "Industriestraße"
-housenumber: 6
+street: Industriestraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 914710330
-type: way
+type: node
 latitude: 50.51999
 longitude: 8.81721
 postcode: "35423"
 city: Lich
-street: "Braugasse"
-housenumber: 25
+street: Braugasse
+housenumber: "25"
 phone: ""
-opening_hours: "Di-Fr: 9-18; Sa: 9-13"
+opening_hours: '"Di-Fr: 9-18; Sa: 9-13"'
 website: ""

@@ -1,11 +1,11 @@
 id: 106809000
-type: way
+type: node
 latitude: 50.4815
 longitude: 8.29571
 postcode: "35781"
 city: Weilburg
-street: "Viehweg"
-housenumber: 12
+street: Viehweg
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

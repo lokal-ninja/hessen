@@ -4,8 +4,8 @@ latitude: 49.87225
 longitude: 8.65614
 postcode: "64283"
 city: Darmstadt
-street: "Marktplatz"
-housenumber: 9
+street: Marktplatz
+housenumber: "9"
 phone: ""
-opening_hours: "PH off; Sa 11:30-18:00; Mo-Fr 11:00-13:00,13:45-18:00"
-website: "https://heimatstore.com"
+opening_hours: PH off; Sa 11:30-18:00; Mo-Fr 11:00-13:00,13:45-18:00
+website: https://heimatstore.com

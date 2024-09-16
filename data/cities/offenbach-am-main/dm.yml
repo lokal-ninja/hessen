@@ -4,8 +4,8 @@ latitude: 50.10479
 longitude: 8.7648
 postcode: "63065"
 city: Offenbach am Main
-street: "Marktplatz"
-housenumber: 10
-phone: "+49 69 80052326"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dm.de/"
+street: Marktplatz
+housenumber: "10"
+phone: +49 69 80052326
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dm.de/

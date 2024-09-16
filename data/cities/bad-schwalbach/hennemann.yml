@@ -1,11 +1,11 @@
 id: 96911884
-type: way
+type: node
 latitude: 50.1452
 longitude: 8.07603
 postcode: "65307"
 city: Bad Schwalbach
-street: "Adolfstraße"
-housenumber: 133
-phone: "+49 6124 12264"
+street: Adolfstraße
+housenumber: "133"
+phone: +49 6124 12264
 opening_hours: ""
-website: "https://www.hennemann24.de/"
+website: https://www.hennemann24.de/

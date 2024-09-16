@@ -1,11 +1,11 @@
 id: 312318990
-type: way
+type: node
 latitude: 50.73205
 longitude: 8.99043
 postcode: ""
 city: Homberg (Ohm)
-street: "Ohmstraße"
-housenumber: 19
+street: Ohmstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 121993166
-type: way
+type: node
 latitude: 50.65256
 longitude: 8.32546
 postcode: "35764"
 city: Sinn
-street: "In der Au"
-housenumber: 6
+street: In der Au
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

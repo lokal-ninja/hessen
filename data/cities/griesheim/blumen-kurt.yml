@@ -1,11 +1,11 @@
 id: 83077341
-type: way
+type: node
 latitude: 49.86525
 longitude: 8.56213
 postcode: "64347"
 city: Griesheim
-street: "Friedhofsweg"
-housenumber: 9
+street: Friedhofsweg
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

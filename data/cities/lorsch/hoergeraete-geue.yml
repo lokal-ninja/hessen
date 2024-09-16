@@ -4,8 +4,9 @@ latitude: 49.65325
 longitude: 8.56782
 postcode: "64653"
 city: Lorsch
-street: "Römerstraße"
+street: Römerstraße
 housenumber: 4a
-phone: "+49 6251 8604876"
-opening_hours: "Mo,Fr 08:30-13:00; Tu,Th 08:30-13:00,14:00-18:00; Sa,Su off; We nach Vereinbarung"
+phone: +49 6251 8604876
+opening_hours: Mo,Fr 08:30-13:00; Tu,Th 08:30-13:00,14:00-18:00; Sa,Su off; We "nach
+    Vereinbarung"
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.1283
 longitude: 8.7073
 postcode: "60385"
 city: Frankfurt am Main
-street: "Gronauer Straße"
-housenumber: 2
-phone: "+49 69 78081216"
-opening_hours: "Mo-Fr 14:00-19:00; Sa 10:00-16:00"
-website: "https://www.analogetontraeger.de/"
+street: Gronauer Straße
+housenumber: "2"
+phone: +49 69 78081216
+opening_hours: Mo-Fr 14:00-19:00; Sa 10:00-16:00
+website: https://www.analogetontraeger.de/

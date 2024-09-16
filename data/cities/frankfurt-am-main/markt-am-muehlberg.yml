@@ -4,8 +4,8 @@ latitude: 50.09907
 longitude: 8.70273
 postcode: "60599"
 city: Frankfurt am Main
-street: "Lettigkautweg"
-housenumber: 11
-phone: "+49 69 612216"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-14:00"
-website: "https://markt-am-muhlberg.business.site"
+street: Lettigkautweg
+housenumber: "11"
+phone: +49 69 612216
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-14:00
+website: https://markt-am-muhlberg.business.site

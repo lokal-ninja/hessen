@@ -1,11 +1,11 @@
 id: 311385335
-type: way
+type: node
 latitude: 50.61916
 longitude: 9.72325
 postcode: "36100"
 city: Petersberg
-street: "Ägidienstraße"
-housenumber: 4
-phone: "+49 661 65941"
-opening_hours: "Mo-Sa 06:30-13:00; PH off"
-website: "http://www.landmetzgerei-froehlich.de/"
+street: Ägidienstraße
+housenumber: "4"
+phone: +49 661 65941
+opening_hours: Mo-Sa 06:30-13:00; PH off
+website: http://www.landmetzgerei-froehlich.de/

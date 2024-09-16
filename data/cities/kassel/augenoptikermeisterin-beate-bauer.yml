@@ -4,8 +4,8 @@ latitude: 51.33031
 longitude: 9.51363
 postcode: "34125"
 city: Kassel
-street: "Ihringshäuser Straße"
-housenumber: 54
-phone: "+49 561 877616"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
-website: "https://www.augenoptik-bauer.de/"
+street: Ihringshäuser Straße
+housenumber: "54"
+phone: +49 561 877616
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30
+website: https://www.augenoptik-bauer.de/

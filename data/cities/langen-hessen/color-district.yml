@@ -4,8 +4,8 @@ latitude: 49.99
 longitude: 8.67042
 postcode: "63225"
 city: Langen (Hessen)
-street: "Bahnstraße"
-housenumber: 35
-phone: "+49 6103 3109650"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"
-website: "https://colordistrict.de/langen/"
+street: Bahnstraße
+housenumber: "35"
+phone: +49 6103 3109650
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-16:00
+website: https://colordistrict.de/langen/

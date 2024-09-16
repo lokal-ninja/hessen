@@ -1,11 +1,11 @@
 id: 288665839
-type: way
+type: node
 latitude: 50.30872
 longitude: 8.51191
 postcode: "61267"
 city: Neu-Anspach
-street: "Philipp-Reis-Straße"
-housenumber: 5
-phone: "+49 6081 94110"
+street: Philipp-Reis-Straße
+housenumber: "5"
+phone: +49 6081 94110
 opening_hours: ""
-website: "https://www.edv-zubehoer-haerzer.de/"
+website: https://www.edv-zubehoer-haerzer.de/

@@ -1,11 +1,11 @@
 id: 146163853
-type: way
+type: node
 latitude: 50.03911
 longitude: 8.94829
 postcode: "63500"
 city: Seligenstadt
-street: "Im Griesgrund"
-housenumber: 2
+street: Im Griesgrund
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

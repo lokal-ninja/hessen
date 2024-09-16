@@ -4,8 +4,8 @@ latitude: 50.5483
 longitude: 9.67493
 postcode: "36037"
 city: Fulda
-street: "Löherstraße"
-housenumber: 13
+street: Löherstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://marleenrecords.wordpress.com/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://marleenrecords.wordpress.com/

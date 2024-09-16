@@ -1,11 +1,11 @@
 id: 100651561
-type: way
+type: node
 latitude: 50.64224
 longitude: 9.39213
 postcode: ""
 city: Lauterbach
-street: "Umgehungsstraße"
-housenumber: 45
+street: Umgehungsstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
 website: ""

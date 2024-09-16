@@ -4,8 +4,8 @@ latitude: 50.10835
 longitude: 8.65848
 postcode: "60327"
 city: Frankfurt am Main
-street: "Ludwigstraße"
-housenumber: 16
+street: Ludwigstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo,We-Fr 10:00-19:00; Tu 10:00-18:30; Sa 11:00-16:00"
+opening_hours: Mo,We-Fr 10:00-19:00; Tu 10:00-18:30; Sa 11:00-16:00
 website: ""

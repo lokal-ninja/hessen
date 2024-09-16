@@ -1,11 +1,11 @@
 id: 173087107
-type: way
+type: node
 latitude: 50.42786
 longitude: 9.40117
 postcode: "36399"
 city: Freiensteinau
-street: "Grebenhainer Straße"
-housenumber: 5
+street: Grebenhainer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

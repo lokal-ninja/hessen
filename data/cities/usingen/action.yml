@@ -1,11 +1,11 @@
 id: 52285730
-type: way
+type: node
 latitude: 50.33573
 longitude: 8.53231
 postcode: "61250"
 city: Usingen
-street: "Neutorstraße"
-housenumber: 8
+street: Neutorstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

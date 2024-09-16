@@ -1,11 +1,11 @@
 id: 253652556
-type: way
+type: node
 latitude: 49.75666
 longitude: 8.63529
 postcode: "64342"
 city: Seeheim-Jugenheim
-street: "Alte Bergstraße"
-housenumber: 49
-phone: "+49 6257 4545"
+street: Alte Bergstraße
+housenumber: "49"
+phone: +49 6257 4545
 opening_hours: ""
 website: ""

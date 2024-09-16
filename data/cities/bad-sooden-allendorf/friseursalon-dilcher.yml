@@ -4,8 +4,8 @@ latitude: 51.27104
 longitude: 9.97516
 postcode: "37242"
 city: Bad Sooden-Allendorf
-street: "Kirchstraße"
-housenumber: 16
-phone: "+49 5652 2537"
-opening_hours: "Mo 08:30-18:00; Tu-Th 08:00-18:00; Fr 08:00-20:00; Sa 08:00-13:00"
+street: Kirchstraße
+housenumber: "16"
+phone: +49 5652 2537
+opening_hours: Mo 08:30-18:00; Tu-Th 08:00-18:00; Fr 08:00-20:00; Sa 08:00-13:00
 website: ""

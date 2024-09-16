@@ -1,11 +1,11 @@
 id: 123416306
-type: way
+type: node
 latitude: 49.68134
 longitude: 8.62171
 postcode: "64625"
 city: Bensheim
-street: "Bahnhofstraße"
-housenumber: 
+street: Bahnhofstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

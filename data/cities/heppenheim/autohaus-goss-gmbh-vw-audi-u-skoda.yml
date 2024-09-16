@@ -1,11 +1,11 @@
 id: 229003725
-type: way
+type: node
 latitude: 49.64436
 longitude: 8.62831
 postcode: "64646"
 city: Heppenheim
-street: "Weiherhausstraße"
-housenumber: 8
+street: Weiherhausstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

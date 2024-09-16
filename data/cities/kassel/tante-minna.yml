@@ -4,8 +4,8 @@ latitude: 51.30528
 longitude: 9.48566
 postcode: "34121"
 city: Kassel
-street: "Frankfurter Straße"
-housenumber: 73
-phone: "+49 561 50332709"
-opening_hours: "Mo off; Tu 10:00-19:00; We-Th 10:00-15:00; Fr 10:00-16:00; Sa-Su off"
-website: "https://www.tante-minna.de"
+street: Frankfurter Straße
+housenumber: "73"
+phone: +49 561 50332709
+opening_hours: Mo off; Tu 10:00-19:00; We-Th 10:00-15:00; Fr 10:00-16:00; Sa-Su off
+website: https://www.tante-minna.de

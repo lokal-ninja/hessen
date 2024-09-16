@@ -1,11 +1,11 @@
 id: 189980751
-type: way
+type: node
 latitude: 50.91781
 longitude: 9.19097
 postcode: "34613"
 city: Schwalmstadt
-street: "Friedrich-Ebert-Straße"
-housenumber: 33
+street: Friedrich-Ebert-Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "http://shop.strato.de/epages/61151395.sf/de_DE/?ObjectPath=/Shops/61151395/Categories"
+website: http://shop.strato.de/epages/61151395.sf/de_DE/?ObjectPath=/Shops/61151395/Categories

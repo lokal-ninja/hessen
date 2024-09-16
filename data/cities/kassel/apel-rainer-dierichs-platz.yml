@@ -1,11 +1,11 @@
 id: 525637625
-type: way
+type: node
 latitude: 51.31801
 longitude: 9.48967
 postcode: "34117"
 city: Kassel
-street: "Rainer-Dierichs-Platz"
-housenumber: 1
+street: Rainer-Dierichs-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 05:30-20:00; Sa 06:30-19:00; Su 06:30-19:00"
-website: "https://www.baeckerei-apel.de/"
+opening_hours: Mo-Fr 05:30-20:00; Sa 06:30-19:00; Su 06:30-19:00
+website: https://www.baeckerei-apel.de/

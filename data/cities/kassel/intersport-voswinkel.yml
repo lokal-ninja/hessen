@@ -4,8 +4,8 @@ latitude: 51.28713
 longitude: 9.47563
 postcode: "34134"
 city: Kassel
-street: "Frankfurter Straße"
-housenumber: 225
+street: Frankfurter Straße
+housenumber: "225"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.intersport.de/businesscard/index/merchantId/504630920/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.intersport.de/businesscard/index/merchantId/504630920/

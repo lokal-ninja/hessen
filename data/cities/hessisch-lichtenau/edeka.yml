@@ -4,8 +4,8 @@ latitude: 51.19755
 longitude: 9.72514
 postcode: "37235"
 city: Hessisch Lichtenau
-street: "Heinrichstraße"
-housenumber: 19
-phone: "+49 5602 9190099"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/"
+street: Heinrichstraße
+housenumber: "19"
+phone: +49 5602 9190099
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/

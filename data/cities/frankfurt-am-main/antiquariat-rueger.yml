@@ -4,8 +4,8 @@ latitude: 50.10358
 longitude: 8.69099
 postcode: "60594"
 city: Frankfurt am Main
-street: "Dreieichstraße"
-housenumber: 52
-phone: "+49 69 615638"
-opening_hours: "Mo-We 12:00-19:00"
-website: "https://www.antiquariat-rueger.de/"
+street: Dreieichstraße
+housenumber: "52"
+phone: +49 69 615638
+opening_hours: Mo-We 12:00-19:00
+website: https://www.antiquariat-rueger.de/

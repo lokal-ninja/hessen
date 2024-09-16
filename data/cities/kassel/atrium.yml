@@ -1,11 +1,11 @@
 id: 37465574
-type: way
+type: node
 latitude: 51.31392
 longitude: 9.44485
 postcode: "34131"
 city: Kassel
-street: "Wilhelmshöher Allee"
-housenumber: 262
+street: Wilhelmshöher Allee
+housenumber: "262"
 phone: ""
-opening_hours: "Mo-Sa 07:00-23:30; Su 10:00-23:30"
-website: "https://www.atrium-kassel.de/"
+opening_hours: Mo-Sa 07:00-23:30; Su 10:00-23:30
+website: https://www.atrium-kassel.de/

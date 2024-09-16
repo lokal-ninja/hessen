@@ -1,11 +1,11 @@
 id: 164285354
-type: way
+type: node
 latitude: 50.66103
 longitude: 9.66895
 postcode: "36088"
 city: Hünfeld
-street: "Im Roth"
-housenumber: 4
+street: Im Roth
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

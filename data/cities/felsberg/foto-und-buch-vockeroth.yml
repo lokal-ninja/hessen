@@ -1,11 +1,11 @@
 id: 396032709
-type: way
+type: node
 latitude: 51.12942
 longitude: 9.43607
 postcode: "34587"
 city: Felsberg
-street: "Bahnhofstraße"
-housenumber: 11
+street: Bahnhofstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-12:30"
+opening_hours: Mo-Fr 09:00-12:30,14:30-18:30; Sa 09:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 358554284
-type: way
+type: node
 latitude: 49.99517
 longitude: 8.67847
 postcode: "63225"
 city: Langen (Hessen)
-street: "An der Winkelwiese"
+street: An der Winkelwiese
 housenumber: 1A
-phone: "+49 6103 2021423"
-opening_hours: "Mo-Sa 08:00-20:00"
+phone: +49 6103 2021423
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

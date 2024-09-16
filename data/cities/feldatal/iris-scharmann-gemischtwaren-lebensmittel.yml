@@ -1,11 +1,12 @@
 id: 109760328
-type: way
+type: node
 latitude: 50.6178
 longitude: 9.21056
 postcode: "36325"
 city: Feldatal
-street: "Helpershainer Straße"
-housenumber: 33
-phone: "+49 6645 376"
-opening_hours: "Mo-Fr 06:00-13:00, 15:00-18:00, Sa 06:00-13:00, in dringenden Fällen nach Vereinbarung"
+street: Helpershainer Straße
+housenumber: "33"
+phone: +49 6645 376
+opening_hours: Mo-Fr 06:00-13:00, 15:00-18:00, Sa 06:00-13:00, "in dringenden Fällen
+    nach Vereinbarung"
 website: ""

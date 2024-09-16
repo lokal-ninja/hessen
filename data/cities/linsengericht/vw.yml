@@ -1,11 +1,11 @@
 id: 144119225
-type: way
+type: node
 latitude: 50.19364
 longitude: 9.19175
 postcode: "63589"
 city: Linsengericht
-street: "Im Niederfeld"
-housenumber: 2
+street: Im Niederfeld
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

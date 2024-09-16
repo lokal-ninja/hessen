@@ -4,8 +4,8 @@ latitude: 50.6975
 longitude: 8.30606
 postcode: "35745"
 city: Herborn
-street: "Burger Hauptstraße"
-housenumber: 30
-phone: "+49 2772 3827"
-opening_hours: "Tu,We,Fr 11:00-19:00; PH off"
+street: Burger Hauptstraße
+housenumber: "30"
+phone: +49 2772 3827
+opening_hours: Tu,We,Fr 11:00-19:00; PH off
 website: ""

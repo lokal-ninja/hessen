@@ -1,11 +1,11 @@
 id: 175093590
-type: way
+type: node
 latitude: 50.77959
 longitude: 8.76739
 postcode: "35043"
 city: Marburg
-street: "Marburger Straße"
-housenumber: 22
+street: Marburger Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

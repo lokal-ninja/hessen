@@ -4,8 +4,9 @@ latitude: 50.15983
 longitude: 8.64489
 postcode: "60439"
 city: Frankfurt am Main
-street: "Mark-Aurel-Straße"
-housenumber: 7
+street: Mark-Aurel-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mar-Oct Tu-Fr 08:00-12:00,14:00-18:00; Feb,Nov-Dec Tu-Fr 09:00-12:00,14:00-18:00; Jan-Dec Sa 09:00-13:00"
-website: "https://www.mertinke.com"
+opening_hours: Mar-Oct Tu-Fr 08:00-12:00,14:00-18:00; Feb,Nov-Dec Tu-Fr 09:00-12:00,14:00-18:00;
+    Jan-Dec Sa 09:00-13:00
+website: https://www.mertinke.com

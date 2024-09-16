@@ -4,8 +4,8 @@ latitude: 50.09759
 longitude: 8.76151
 postcode: "63069"
 city: Offenbach am Main
-street: "Schäferstraße"
-housenumber: 20
-phone: "+49 69 832304"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 07:30-13:00"
-website: "http://www.salon-hanim.de"
+street: Schäferstraße
+housenumber: "20"
+phone: +49 69 832304
+opening_hours: Tu-Fr 09:00-18:00; Sa 07:30-13:00
+website: http://www.salon-hanim.de

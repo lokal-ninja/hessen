@@ -4,8 +4,8 @@ latitude: 50.08136
 longitude: 8.23576
 postcode: "65183"
 city: Wiesbaden
-street: "Schwalbacher Straße"
-housenumber: 34
-phone: "+49 611 441166"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:30; Sa 09:00-14:00"
-website: "https://www.orthopaedie-debusmann.de"
+street: Schwalbacher Straße
+housenumber: "34"
+phone: +49 611 441166
+opening_hours: Mo-Fr 09:00-12:30, 14:00-18:30; Sa 09:00-14:00
+website: https://www.orthopaedie-debusmann.de

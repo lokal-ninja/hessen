@@ -4,8 +4,8 @@ latitude: 50.6713
 longitude: 9.76826
 postcode: "36088"
 city: Hünfeld
-street: "Josefstraße"
-housenumber: 3
-phone: "+49 6652 982915"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-13:00"
-website: "https://www.ortho-vogt.de/"
+street: Josefstraße
+housenumber: "3"
+phone: +49 6652 982915
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-13:00
+website: https://www.ortho-vogt.de/

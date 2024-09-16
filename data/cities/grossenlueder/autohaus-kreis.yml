@@ -1,11 +1,11 @@
 id: 100686769
-type: way
+type: node
 latitude: 50.59761
 longitude: 9.50431
 postcode: "36137"
 city: Großenlüder
-street: "Salzschlirfer Straße"
-housenumber: 2
+street: Salzschlirfer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

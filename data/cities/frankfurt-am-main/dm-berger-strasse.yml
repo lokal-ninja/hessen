@@ -1,11 +1,11 @@
 id: 732906095
-type: way
+type: node
 latitude: 50.12269
 longitude: 8.70015
 postcode: "60316"
 city: Frankfurt am Main
-street: "Berger Straße"
+street: Berger Straße
 housenumber: 93-95
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

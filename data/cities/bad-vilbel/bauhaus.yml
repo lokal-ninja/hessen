@@ -1,11 +1,11 @@
 id: 40106846
-type: way
+type: node
 latitude: 50.19393
 longitude: 8.72872
 postcode: "61118"
 city: Bad Vilbel
-street: "Zeppelinstraße"
-housenumber: 25
+street: Zeppelinstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

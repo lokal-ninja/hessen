@@ -4,8 +4,8 @@ latitude: 49.99531
 longitude: 8.73106
 postcode: "63303"
 city: Dreieich
-street: "Langener Straße"
-housenumber: 48
-phone: "+49 6103 84097"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:30-17:00; Su,PH off"
-website: "http://www.tankstelle-schaum.de"
+street: Langener Straße
+housenumber: "48"
+phone: +49 6103 84097
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:30-17:00; Su,PH off
+website: http://www.tankstelle-schaum.de

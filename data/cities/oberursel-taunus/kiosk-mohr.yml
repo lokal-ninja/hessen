@@ -4,8 +4,8 @@ latitude: 50.21431
 longitude: 8.56758
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Dornbachstraße"
-housenumber: 29
-phone: "+49 6171 284344"
-opening_hours: "Tu-Th 06:00-16:00;Fr 06:00-18:00;Sa 07:00-13:00; Su,Mo,PH off"
-website: "http://www.kiosk-mohr.de/"
+street: Dornbachstraße
+housenumber: "29"
+phone: +49 6171 284344
+opening_hours: Tu-Th 06:00-16:00;Fr 06:00-18:00;Sa 07:00-13:00; Su,Mo,PH off
+website: http://www.kiosk-mohr.de/

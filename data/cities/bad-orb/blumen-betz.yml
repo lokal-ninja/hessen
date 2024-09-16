@@ -1,11 +1,11 @@
 id: 62850248
-type: way
+type: node
 latitude: 50.22498
 longitude: 9.34658
 postcode: "63619"
 city: Bad Orb
-street: "Molkenbergstraße"
-housenumber: 2
+street: Molkenbergstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 34304374
-type: way
+type: node
 latitude: 50.587
 longitude: 8.63386
 postcode: "35452"
 city: Heuchelheim
-street: "Heinestraße"
-housenumber: 18
-phone: "+49 641 9311290"
-opening_hours: "Mo-Sa 07:00-21:30"
-website: "https://www.rewe.de/marktseite/heuchelheim/1469337/rewe-markt-heinestr-18/"
+street: Heinestraße
+housenumber: "18"
+phone: +49 641 9311290
+opening_hours: Mo-Sa 07:00-21:30
+website: https://www.rewe.de/marktseite/heuchelheim/1469337/rewe-markt-heinestr-18/

@@ -4,8 +4,8 @@ latitude: 50.06012
 longitude: 8.25816
 postcode: "65189"
 city: Wiesbaden
-street: "Hasengartenstraße"
-housenumber: 25
-phone: "+49-611-976000"
-opening_hours: "Mo-Sa 08:00-22:00"
+street: Hasengartenstraße
+housenumber: "25"
+phone: +49-611-976000
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

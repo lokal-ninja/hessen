@@ -1,11 +1,11 @@
 id: 108355814
-type: way
+type: node
 latitude: 50.40035
 longitude: 9.14673
 postcode: "63697"
 city: Hirzenhain
-street: "Junkernwiese"
-housenumber: 2
+street: Junkernwiese
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://mueller-mobil.eu/"
+website: https://mueller-mobil.eu/

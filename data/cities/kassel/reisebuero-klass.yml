@@ -4,8 +4,8 @@ latitude: 51.32004
 longitude: 9.50961
 postcode: "34125"
 city: Kassel
-street: "Weserstraße"
-housenumber: 15
-phone: "+49 561 875778"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-13:00"
-website: "http://www.reisebueroklass.de/"
+street: Weserstraße
+housenumber: "15"
+phone: +49 561 875778
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-13:00
+website: http://www.reisebueroklass.de/

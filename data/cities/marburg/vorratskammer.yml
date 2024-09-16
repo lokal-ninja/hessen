@@ -4,8 +4,8 @@ latitude: 50.81866
 longitude: 8.83035
 postcode: "35043"
 city: Marburg
-street: "Bauerbacher Straße"
-housenumber: 44
+street: Bauerbacher Straße
+housenumber: "44"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.biohof-boehm.de/"
+opening_hours: 24/7
+website: https://www.biohof-boehm.de/

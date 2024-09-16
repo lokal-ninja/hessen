@@ -1,11 +1,12 @@
 id: 368926426
-type: way
+type: node
 latitude: 50.17063
 longitude: 8.33662
 postcode: "65527"
 city: Niedernhausen
-street: "Am Alten Rathaus"
-housenumber: 2
-phone: "+49 6127 703557"
-opening_hours: "Mo-We 06:30-12:30; Th,Fr 06:30-12:30,15:00-18:00; Sa 07:00-12:00; Su 08:00-11:00"
-website: "https://www.landbaeckerei-bohrmann.de"
+street: Am Alten Rathaus
+housenumber: "2"
+phone: +49 6127 703557
+opening_hours: Mo-We 06:30-12:30; Th,Fr 06:30-12:30,15:00-18:00; Sa 07:00-12:00; Su
+    08:00-11:00
+website: https://www.landbaeckerei-bohrmann.de

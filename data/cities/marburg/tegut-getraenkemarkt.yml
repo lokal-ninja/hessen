@@ -1,11 +1,11 @@
 id: 262389161
-type: way
+type: node
 latitude: 50.84075
 longitude: 8.76992
 postcode: ""
 city: Marburg
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

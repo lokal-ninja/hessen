@@ -1,11 +1,11 @@
 id: 138785256
-type: way
+type: node
 latitude: 49.67876
 longitude: 8.61804
 postcode: "64625"
 city: Bensheim
-street: "Rodensteinstraße"
-housenumber: 60
+street: Rodensteinstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:00,13:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,13:00-18:00; Sa 10:00-14:00
 website: ""

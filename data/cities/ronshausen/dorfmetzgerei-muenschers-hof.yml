@@ -1,11 +1,11 @@
 id: 544897571
-type: way
+type: node
 latitude: 50.94672
 longitude: 9.8574
 postcode: "36217"
 city: Ronshausen
-street: "Bahnhofstraße"
-housenumber: 15
-phone: "+49 6622 3563"
+street: Bahnhofstraße
+housenumber: "15"
+phone: +49 6622 3563
 opening_hours: ""
-website: "https://www.muenschers-hof.de/"
+website: https://www.muenschers-hof.de/

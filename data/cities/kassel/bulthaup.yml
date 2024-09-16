@@ -1,11 +1,11 @@
 id: 198873885
-type: way
+type: node
 latitude: 51.27597
 longitude: 9.52161
 postcode: "34123"
 city: Kassel
-street: "Heinrich-Hertz-Straße"
-housenumber: 32
+street: Heinrich-Hertz-Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

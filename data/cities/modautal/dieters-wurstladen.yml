@@ -4,8 +4,8 @@ latitude: 49.74224
 longitude: 8.76608
 postcode: "64397"
 city: Modautal
-street: "Brunnengasse"
-housenumber: 4
+street: Brunnengasse
+housenumber: "4"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:00,14:00-18:30; Sa 07:00-12:30"
-website: "https://www.dieters-wurstladen.de/"
+opening_hours: Tu-Fr 08:30-12:00,14:00-18:30; Sa 07:00-12:30
+website: https://www.dieters-wurstladen.de/

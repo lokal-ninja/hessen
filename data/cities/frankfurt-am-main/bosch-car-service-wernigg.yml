@@ -4,8 +4,8 @@ latitude: 50.11329
 longitude: 8.71556
 postcode: "60314"
 city: Frankfurt am Main
-street: "Ferdinand-Happ-Straße"
-housenumber: 36
-phone: "+4969/439591"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.boschcarservice.com/de/de/werkstatt/wernigg-frankfurt/?gad_source=1"
+street: Ferdinand-Happ-Straße
+housenumber: "36"
+phone: +4969/439591
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.boschcarservice.com/de/de/werkstatt/wernigg-frankfurt/?gad_source=1

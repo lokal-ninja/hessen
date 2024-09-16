@@ -1,11 +1,11 @@
 id: 125624030
-type: way
+type: node
 latitude: 50.03772
 longitude: 8.95874
 postcode: "63500"
 city: Seligenstadt
-street: "Willi-Brehm-Straße"
-housenumber: 1
+street: Willi-Brehm-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.penny.de/

@@ -1,11 +1,11 @@
 id: 113435775
-type: way
+type: node
 latitude: 49.68919
 longitude: 8.61616
 postcode: "64625"
 city: Bensheim
-street: "Fehlheimer Straße"
-housenumber: 100
-phone: "+49 6251 843827"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-16:00"
+street: Fehlheimer Straße
+housenumber: "100"
+phone: +49 6251 843827
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-16:00
 website: ""

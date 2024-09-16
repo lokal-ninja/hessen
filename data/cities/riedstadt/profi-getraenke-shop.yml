@@ -1,11 +1,11 @@
 id: 198218254
-type: way
+type: node
 latitude: 49.83506
 longitude: 8.48775
 postcode: "64560"
 city: Riedstadt
-street: "An der Riedbahn"
-housenumber: 1
+street: An der Riedbahn
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

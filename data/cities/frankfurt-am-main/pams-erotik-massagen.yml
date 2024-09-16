@@ -1,11 +1,11 @@
 id: 61326501
-type: way
+type: node
 latitude: 50.11728
 longitude: 8.68508
 postcode: "60313"
 city: Frankfurt am Main
-street: "Alte Gasse"
-housenumber: 5
+street: Alte Gasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

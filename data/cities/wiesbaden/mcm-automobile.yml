@@ -1,11 +1,11 @@
 id: 61190200
-type: way
+type: node
 latitude: 50.05899
 longitude: 8.33236
 postcode: "65205"
 city: Wiesbaden
-street: "Daimlerring"
-housenumber: 9
+street: Daimlerring
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

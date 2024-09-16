@@ -4,8 +4,8 @@ latitude: 50.11334
 longitude: 8.68277
 postcode: "60311"
 city: Frankfurt am Main
-street: "Töngesgasse"
-housenumber: 44
+street: Töngesgasse
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://filialen.aldi-sued.de/hessen/frankfurt/toengesgasse-40"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://filialen.aldi-sued.de/hessen/frankfurt/toengesgasse-40

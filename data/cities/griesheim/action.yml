@@ -4,8 +4,8 @@ latitude: 49.86011
 longitude: 8.59137
 postcode: "64347"
 city: Griesheim
-street: "Flughafenstraße"
-housenumber: 16
+street: Flughafenstraße
+housenumber: "16"
 phone: ""
-opening_hours: "09:00-20:00; Su,PH off"
-website: "https://www.action.com/de-de/laden/griesheim-flughafenstrabe/"
+opening_hours: 09:00-20:00; Su,PH off
+website: https://www.action.com/de-de/laden/griesheim-flughafenstrabe/

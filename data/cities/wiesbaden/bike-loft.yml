@@ -4,8 +4,8 @@ latitude: 50.08738
 longitude: 8.24062
 postcode: "65183"
 city: Wiesbaden
-street: "Nerostraße"
-housenumber: 20
+street: Nerostraße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 11:00-19:00; Sa 10:00-15:00"
-website: "https://www.bike-loft.de/"
+opening_hours: Tu-Fr 11:00-19:00; Sa 10:00-15:00
+website: https://www.bike-loft.de/

@@ -1,11 +1,11 @@
 id: 184341535
-type: way
+type: node
 latitude: 50.085
 longitude: 8.44505
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Alte Bleiche"
-housenumber: 6
+street: Alte Bleiche
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

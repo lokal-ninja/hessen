@@ -4,8 +4,8 @@ latitude: 50.04659
 longitude: 8.21572
 postcode: "65203"
 city: Wiesbaden
-street: "Äppelallee"
-housenumber: 69
-phone: "+49 611 5854930"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+street: Äppelallee
+housenumber: "69"
+phone: +49 611 5854930
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

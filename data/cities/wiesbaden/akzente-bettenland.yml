@@ -1,11 +1,11 @@
 id: 61190251
-type: way
+type: node
 latitude: 50.05916
 longitude: 8.33078
 postcode: "65205"
 city: Wiesbaden
-street: "Daimlerring"
-housenumber: 13
-phone: "+49 6122 704150"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "http://akzente-shop.de/"
+street: Daimlerring
+housenumber: "13"
+phone: +49 6122 704150
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: http://akzente-shop.de/

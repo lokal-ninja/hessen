@@ -1,11 +1,11 @@
 id: 107474563
-type: way
+type: node
 latitude: 50.47773
 longitude: 8.88135
 postcode: "35410"
 city: Hungen
-street: "Gießener Straße"
-housenumber: 48
+street: Gießener Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

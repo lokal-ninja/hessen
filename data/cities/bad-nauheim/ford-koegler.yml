@@ -1,11 +1,11 @@
 id: 542964368
-type: way
+type: node
 latitude: 50.34943
 longitude: 8.75316
 postcode: ""
 city: Bad Nauheim
-street: "Feldbergstraße"
-housenumber: 7
+street: Feldbergstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

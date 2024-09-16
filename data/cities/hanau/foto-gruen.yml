@@ -1,11 +1,11 @@
 id: 244691213
-type: way
+type: node
 latitude: 50.10645
 longitude: 8.94153
 postcode: "63457"
 city: Hanau
-street: "Hauptstraße"
-housenumber: 37
+street: Hauptstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

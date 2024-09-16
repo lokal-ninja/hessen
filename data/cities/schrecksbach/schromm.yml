@@ -1,11 +1,11 @@
 id: 69419647
-type: way
+type: node
 latitude: 50.83471
 longitude: 9.29185
 postcode: "34637"
 city: Schrecksbach
-street: "Berliner Straße"
-housenumber: 18
+street: Berliner Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

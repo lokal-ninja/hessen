@@ -4,8 +4,8 @@ latitude: 49.73677
 longitude: 8.57726
 postcode: "64665"
 city: Alsbach-Hähnlein
-street: "Alsbacher Straße"
-housenumber: 1
-phone: "+49 6257 6468085"
-opening_hours: "Tu,We 09:00-13:00; Fr 15:00-18:30; Sa 09:00-13:00"
+street: Alsbacher Straße
+housenumber: "1"
+phone: +49 6257 6468085
+opening_hours: Tu,We 09:00-13:00; Fr 15:00-18:30; Sa 09:00-13:00
 website: ""

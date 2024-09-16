@@ -4,8 +4,8 @@ latitude: 49.6785
 longitude: 9.00351
 postcode: "64720"
 city: Michelstadt
-street: "Neutorstraße"
-housenumber: 2
+street: Neutorstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.caffe-des-amis.de/"
+website: https://www.caffe-des-amis.de/

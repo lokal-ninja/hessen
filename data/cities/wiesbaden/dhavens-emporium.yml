@@ -4,8 +4,8 @@ latitude: 50.0733
 longitude: 8.23899
 postcode: "65185"
 city: Wiesbaden
-street: "Moritzstraße"
-housenumber: 54
-phone: "+49 611 88009638"
-opening_hours: "Mo-Fr 10:00-20:00"
-website: "https://dhavens.de"
+street: Moritzstraße
+housenumber: "54"
+phone: +49 611 88009638
+opening_hours: Mo-Fr 10:00-20:00
+website: https://dhavens.de

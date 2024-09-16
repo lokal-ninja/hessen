@@ -1,11 +1,11 @@
 id: 111669120
-type: way
+type: node
 latitude: 50.54003
 longitude: 9.69831
 postcode: "36043"
 city: Fulda
-street: "Kreuzbergstraße"
-housenumber: 44
+street: Kreuzbergstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.sorg-gruppe.de/"
+website: https://www.sorg-gruppe.de/

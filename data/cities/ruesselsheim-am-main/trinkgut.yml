@@ -1,11 +1,11 @@
 id: 253003016
-type: way
+type: node
 latitude: 49.97638
 longitude: 8.43435
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Eisenstraße"
-housenumber: 10
-phone: "+49 6142 171207"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.trinkgut.de/markt/bossler"
+street: Eisenstraße
+housenumber: "10"
+phone: +49 6142 171207
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.trinkgut.de/markt/bossler

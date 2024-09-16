@@ -1,11 +1,11 @@
 id: 397128311
-type: way
+type: node
 latitude: 49.54327
 longitude: 8.58197
 postcode: "68519"
 city: Viernheim
-street: "Wasserstraße"
-housenumber: 75
+street: Wasserstraße
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

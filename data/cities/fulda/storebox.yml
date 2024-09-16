@@ -4,8 +4,8 @@ latitude: 50.54925
 longitude: 9.6724
 postcode: "36037"
 city: Fulda
-street: "Am Rosengarten"
-housenumber: 12
+street: Am Rosengarten
+housenumber: "12"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.yourstorebox.com/de/location-details/storebox-fulda-innenstadt"
+opening_hours: 24/7
+website: https://www.yourstorebox.com/de/location-details/storebox-fulda-innenstadt

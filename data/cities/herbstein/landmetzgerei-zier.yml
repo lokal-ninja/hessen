@@ -1,11 +1,11 @@
 id: 101081328
-type: way
+type: node
 latitude: 50.58005
 longitude: 9.3779
 postcode: "36358"
 city: Herbstein
-street: "Vogelsbergstraße"
-housenumber: 4
+street: Vogelsbergstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

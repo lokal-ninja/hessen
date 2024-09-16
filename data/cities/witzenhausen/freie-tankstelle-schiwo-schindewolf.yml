@@ -1,11 +1,11 @@
 id: 591420653
-type: way
+type: node
 latitude: 51.33541
 longitude: 9.86104
 postcode: "37213"
 city: Witzenhausen
-street: "Kasseler Landstraße"
-housenumber: 2
-phone: "+495542 91 04 33"
-opening_hours: "Mo-Fr 06:00-20:30, Sa 08:00-20:30, So 09:00-20:30"
+street: Kasseler Landstraße
+housenumber: "2"
+phone: +495542 91 04 33
+opening_hours: Mo-Fr 06:00-20:30, Sa 08:00-20:30, So 09:00-20:30
 website: ""

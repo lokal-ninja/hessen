@@ -1,11 +1,11 @@
 id: 59485633
-type: way
+type: node
 latitude: 50.51838
 longitude: 8.10853
 postcode: "65620"
 city: Waldbrunn (Westerwald)
-street: "In der Struth"
-housenumber: 5
+street: In der Struth
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

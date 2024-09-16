@@ -4,8 +4,8 @@ latitude: 49.99789
 longitude: 8.00621
 postcode: "65375"
 city: Oestrich-Winkel
-street: "Hauptstraße"
-housenumber: 76
-phone: "+49 6723 603120"
-opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-17:00, Su 07:30-12:00"
-website: "https://www.baecker-aulmann.de/cafe.php"
+street: Hauptstraße
+housenumber: "76"
+phone: +49 6723 603120
+opening_hours: Mo-Fr 06:30-18:00, Sa 06:30-17:00, Su 07:30-12:00
+website: https://www.baecker-aulmann.de/cafe.php

@@ -1,11 +1,11 @@
 id: 110630088
-type: way
+type: node
 latitude: 50.74723
 longitude: 9.3455
 postcode: "36304"
 city: Alsfeld
-street: "Rainröder Straße"
-housenumber: 12
+street: Rainröder Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 99822590
-type: way
+type: node
 latitude: 50.62918
 longitude: 9.44312
 postcode: "36367"
 city: Wartenberg
-street: "Lauterbacher Straße"
-housenumber: 20
+street: Lauterbacher Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

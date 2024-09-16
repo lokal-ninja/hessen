@@ -1,11 +1,11 @@
 id: 1172242137
-type: way
+type: node
 latitude: 50.34044
 longitude: 8.84352
 postcode: "61203"
 city: Reichelsheim
-street: "Ligusterweg"
-housenumber: 8
+street: Ligusterweg
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

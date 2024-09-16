@@ -4,8 +4,8 @@ latitude: 50.10708
 longitude: 8.75548
 postcode: "63067"
 city: Offenbach am Main
-street: "Domstraße"
-housenumber: 53
-phone: "+49 69 82 360 360"
-opening_hours: "Mo-Fr 12:00-20:00, Sa 10:00-18:00"
-website: "https://www.tour-des-vins.de"
+street: Domstraße
+housenumber: "53"
+phone: +49 69 82 360 360
+opening_hours: Mo-Fr 12:00-20:00, Sa 10:00-18:00
+website: https://www.tour-des-vins.de

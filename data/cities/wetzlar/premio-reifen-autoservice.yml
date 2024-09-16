@@ -1,11 +1,11 @@
 id: 592600312
-type: way
+type: node
 latitude: 50.55071
 longitude: 8.48277
 postcode: "35578"
 city: Wetzlar
-street: "Siegmund-Hiepe-Straße"
-housenumber: 5
-phone: "+49 6441 923 30"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH off"
-website: "https://wetzlar.premio.de/"
+street: Siegmund-Hiepe-Straße
+housenumber: "5"
+phone: +49 6441 923 30
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00; PH off
+website: https://wetzlar.premio.de/

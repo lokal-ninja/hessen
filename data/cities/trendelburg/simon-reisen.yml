@@ -1,11 +1,11 @@
 id: 425093170
-type: way
+type: node
 latitude: 51.57288
 longitude: 9.41565
 postcode: "34388"
 city: Trendelburg
-street: "Zur Alten Mühle"
-housenumber: 44
+street: Zur Alten Mühle
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 171921739
-type: way
+type: node
 latitude: 50.40939
 longitude: 9.01011
 postcode: "63667"
 city: Nidda
-street: "An der Heugasse"
-housenumber: 3
+street: An der Heugasse
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

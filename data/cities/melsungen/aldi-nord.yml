@@ -1,11 +1,11 @@
 id: 215199683
-type: way
+type: node
 latitude: 51.12856
 longitude: 9.54909
 postcode: "34212"
 city: Melsungen
-street: "Bahnhofstraße"
-housenumber: 4
+street: Bahnhofstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/

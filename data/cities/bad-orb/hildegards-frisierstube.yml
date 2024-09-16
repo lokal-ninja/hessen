@@ -1,11 +1,11 @@
 id: 67145328
-type: way
+type: node
 latitude: 50.23021
 longitude: 9.34903
 postcode: "63619"
 city: Bad Orb
-street: "Bahnhofstraße"
-housenumber: 9
+street: Bahnhofstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

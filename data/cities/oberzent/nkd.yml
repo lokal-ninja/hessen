@@ -1,11 +1,11 @@
 id: 235328562
-type: way
+type: node
 latitude: 49.575
 longitude: 8.98153
 postcode: "64760"
 city: Oberzent
-street: "Mümlingtalstraße"
-housenumber: 56
+street: Mümlingtalstraße
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

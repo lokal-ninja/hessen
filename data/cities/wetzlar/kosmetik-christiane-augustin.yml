@@ -4,8 +4,8 @@ latitude: 50.55496
 longitude: 8.50006
 postcode: "35578"
 city: Wetzlar
-street: "Lahnstraße"
-housenumber: 25
-phone: "+49 6441 48 290"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.kosmetikinstitut-augustin.de/"
+street: Lahnstraße
+housenumber: "25"
+phone: +49 6441 48 290
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.kosmetikinstitut-augustin.de/

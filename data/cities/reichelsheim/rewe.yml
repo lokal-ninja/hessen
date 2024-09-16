@@ -1,11 +1,11 @@
 id: 1148652640
-type: way
+type: node
 latitude: 50.35975
 longitude: 8.87237
 postcode: "61203"
 city: Reichelsheim
-street: "Eichenstraße"
-housenumber: 3
+street: Eichenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

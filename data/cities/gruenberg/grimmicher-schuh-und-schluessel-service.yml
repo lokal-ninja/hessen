@@ -1,11 +1,11 @@
 id: 104620539
-type: way
+type: node
 latitude: 50.59012
 longitude: 8.95909
 postcode: "35305"
 city: Grünberg
-street: "Rabegasse"
-housenumber: 28
-phone: "+49 6401 22426"
-opening_hours: "Mo-Tu,Th-Sa 09:15-13:00; Mo-Tu,Th-Fr 15:00-18:00"
+street: Rabegasse
+housenumber: "28"
+phone: +49 6401 22426
+opening_hours: Mo-Tu,Th-Sa 09:15-13:00; Mo-Tu,Th-Fr 15:00-18:00
 website: ""

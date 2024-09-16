@@ -4,8 +4,8 @@ latitude: 50.08531
 longitude: 8.24096
 postcode: "65183"
 city: Wiesbaden
-street: "Webergasse"
-housenumber: 35
+street: Webergasse
+housenumber: "35"
 phone: ""
-opening_hours: "Mo 11:00-18:00; Tu 11:00-16:00; We-Sa 11:00-17:00"
+opening_hours: Mo 11:00-18:00; Tu 11:00-16:00; We-Sa 11:00-17:00
 website: ""

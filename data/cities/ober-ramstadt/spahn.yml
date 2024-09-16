@@ -1,11 +1,11 @@
 id: 37975486
-type: way
+type: node
 latitude: 49.82108
 longitude: 8.75471
 postcode: "64372"
 city: Ober-Ramstadt
-street: "Röhrstraße"
-housenumber: 18
+street: Röhrstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:30; Sa 7:30-17:00"
+opening_hours: Mo-Fr 07:00-18:30; Sa 7:30-17:00
 website: ""

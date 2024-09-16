@@ -1,11 +1,11 @@
 id: 88021526
-type: way
+type: node
 latitude: 51.32175
 longitude: 9.51832
 postcode: "34125"
 city: Kassel
-street: "Franzgraben"
+street: Franzgraben
 housenumber: 40-42
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

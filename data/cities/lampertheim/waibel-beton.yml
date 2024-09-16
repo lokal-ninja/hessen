@@ -1,11 +1,11 @@
 id: 306117450
-type: way
+type: node
 latitude: 49.6153
 longitude: 8.43627
 postcode: "68623"
 city: Lampertheim
-street: "Hafenstraße"
-housenumber: 9
+street: Hafenstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

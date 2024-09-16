@@ -4,8 +4,8 @@ latitude: 49.6501
 longitude: 8.77707
 postcode: "64658"
 city: Fürth
-street: "Mühlstraße"
-housenumber: 4
+street: Mühlstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

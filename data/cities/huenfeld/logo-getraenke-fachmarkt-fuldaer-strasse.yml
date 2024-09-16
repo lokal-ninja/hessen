@@ -1,11 +1,11 @@
 id: 166632328
-type: way
+type: node
 latitude: 50.66757
 longitude: 9.7626
 postcode: "36088"
 city: Hünfeld
-street: "Fuldaer Straße"
-housenumber: 25
-phone: "+49 6652 73452"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "http://www.logo-getraenke.de/"
+street: Fuldaer Straße
+housenumber: "25"
+phone: +49 6652 73452
+opening_hours: Mo-Sa 08:00-19:00
+website: http://www.logo-getraenke.de/

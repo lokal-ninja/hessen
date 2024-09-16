@@ -1,11 +1,11 @@
 id: 199266345
-type: way
+type: node
 latitude: 51.04657
 longitude: 9.28151
 postcode: "34582"
 city: Borken
-street: "Bahnhofstraße"
-housenumber: 72
+street: Bahnhofstraße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

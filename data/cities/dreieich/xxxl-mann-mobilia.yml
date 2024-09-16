@@ -1,11 +1,11 @@
 id: 32303283
-type: way
+type: node
 latitude: 50.03008
 longitude: 8.70133
 postcode: "63303"
 city: Dreieich
-street: "Voltastraße"
-housenumber: 5
+street: Voltastraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.xxxlutz.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.xxxlutz.de/

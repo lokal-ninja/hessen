@@ -1,11 +1,11 @@
 id: 53219924
-type: way
+type: node
 latitude: 50.13241
 longitude: 8.74751
 postcode: "60386"
 city: Frankfurt am Main
-street: "Wächtersbacher Straße"
-housenumber: 76
-phone: "+49 69 490 97 47"
-opening_hours: "Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off"
-website: "https://www.louis.de/filialen/louis-frankfurt"
+street: Wächtersbacher Straße
+housenumber: "76"
+phone: +49 69 490 97 47
+opening_hours: 'Mar-Sep: Mo-Sa 09:00-20:00; Oct-Feb: Mo-Sa 09:00-19:00; Su off'
+website: https://www.louis.de/filialen/louis-frankfurt

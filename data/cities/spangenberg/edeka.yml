@@ -1,11 +1,11 @@
 id: 99995144
-type: way
+type: node
 latitude: 51.11585
 longitude: 9.66221
 postcode: "34286"
 city: Spangenberg
-street: "Lochmühle"
-housenumber: 3
-phone: "+49 5663 931060"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:30-20:00"
-website: "https://www.edeka.de/eh/hessenring/lars-kr%C3%B6ninger-lochm%C3%BChle-3/index.jsp"
+street: Lochmühle
+housenumber: "3"
+phone: +49 5663 931060
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:30-20:00
+website: https://www.edeka.de/eh/hessenring/lars-kr%C3%B6ninger-lochm%C3%BChle-3/index.jsp

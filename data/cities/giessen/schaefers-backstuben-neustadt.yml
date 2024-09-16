@@ -4,8 +4,8 @@ latitude: 50.58626
 longitude: 8.67199
 postcode: "35390"
 city: Gießen
-street: "Neustadt"
-housenumber: 12
-phone: "+49 64 1 972 770 18"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-18:30; Su 07:00-13:00"
-website: "https://www.schaefers-backstuben.de"
+street: Neustadt
+housenumber: "12"
+phone: +49 64 1 972 770 18
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-18:30; Su 07:00-13:00
+website: https://www.schaefers-backstuben.de

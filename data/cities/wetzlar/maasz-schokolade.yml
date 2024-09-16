@@ -4,8 +4,8 @@ latitude: 50.53
 longitude: 8.48812
 postcode: "35580"
 city: Wetzlar
-street: "Dietrichsgasse"
-housenumber: 5
-phone: "+49 6085 521 0644"
-opening_hours: "Th-Fr 15:30-19:00; Sa 10:00-13:00"
-website: "https://maasz-schokolade.de"
+street: Dietrichsgasse
+housenumber: "5"
+phone: +49 6085 521 0644
+opening_hours: Th-Fr 15:30-19:00; Sa 10:00-13:00
+website: https://maasz-schokolade.de

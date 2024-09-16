@@ -1,11 +1,11 @@
 id: 89571119
-type: way
+type: node
 latitude: 50.13368
 longitude: 8.69655
 postcode: "60389"
 city: Frankfurt am Main
-street: "Friedberger Landstraße"
-housenumber: 300
+street: Friedberger Landstraße
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

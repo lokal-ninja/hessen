@@ -1,11 +1,11 @@
 id: 49363755
-type: way
+type: node
 latitude: 49.86019
 longitude: 8.63747
 postcode: "64295"
 city: Darmstadt
-street: "Eschollbrücker Straße"
-housenumber: 30
+street: Eschollbrücker Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

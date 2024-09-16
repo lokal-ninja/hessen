@@ -1,11 +1,11 @@
 id: 28877916
-type: way
+type: node
 latitude: 49.87015
 longitude: 8.55853
 postcode: "64347"
 city: Griesheim
-street: "Dieselstraße"
-housenumber: 9
+street: Dieselstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

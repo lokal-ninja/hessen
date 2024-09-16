@@ -1,11 +1,11 @@
 id: 88008570
-type: way
+type: node
 latitude: 50.05102
 longitude: 7.82179
 postcode: "65391"
 city: Lorch
-street: "Gewerbepark Wispertal"
-housenumber: 10
-phone: "+49-6726-839056"
+street: Gewerbepark Wispertal
+housenumber: "10"
+phone: +49-6726-839056
 opening_hours: ""
-website: "https://www.kreutz-holz.de/"
+website: https://www.kreutz-holz.de/

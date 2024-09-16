@@ -1,11 +1,11 @@
 id: 135888856
-type: way
+type: node
 latitude: 50.58604
 longitude: 8.54851
 postcode: "35633"
 city: Lahnau
-street: "Kreuzerstraße"
-housenumber: 33
+street: Kreuzerstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 06:00-13:00, Tu-Fr 14:00-18:00; Fr 13:00-14:00"
+opening_hours: Mo-Sa 06:00-13:00, Tu-Fr 14:00-18:00; Fr 13:00-14:00
 website: ""

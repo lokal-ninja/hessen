@@ -1,11 +1,11 @@
 id: 108627098
-type: way
+type: node
 latitude: 50.37597
 longitude: 9.08605
 postcode: "63683"
 city: Ortenberg
-street: "Obergasse"
-housenumber: 2
+street: Obergasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 81213940
-type: way
+type: node
 latitude: 51.34631
 longitude: 9.47521
 postcode: "34246"
 city: Vellmar
-street: "Warburger Straße"
-housenumber: 2
+street: Warburger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30, Mo-Fr 13:30-18:00; Sa 08:00-13:00"
-website: "http://www.rosen-zundel.de"
+opening_hours: Mo-Fr 08:00-12:30, Mo-Fr 13:30-18:00; Sa 08:00-13:00
+website: http://www.rosen-zundel.de

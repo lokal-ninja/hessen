@@ -1,11 +1,11 @@
 id: 192480610
-type: way
+type: node
 latitude: 50.58689
 longitude: 8.65602
 postcode: "35398"
 city: Gießen
-street: "An der Hessenhalle"
-housenumber: 1
-phone: "+49 641 96090572"
-opening_hours: "PH off; Sa 08:00-19:00; Mo-Fr 08:00-20:00"
-website: "https://www.denns-biomarkt.de/giessen-an-der-hessenhalle-1-3/marktseite/"
+street: An der Hessenhalle
+housenumber: "1"
+phone: +49 641 96090572
+opening_hours: PH off; Sa 08:00-19:00; Mo-Fr 08:00-20:00
+website: https://www.denns-biomarkt.de/giessen-an-der-hessenhalle-1-3/marktseite/

@@ -1,11 +1,11 @@
 id: 307106891
-type: way
+type: node
 latitude: 49.59642
 longitude: 8.48583
 postcode: "68623"
 city: Lampertheim
-street: "Gaußstraße"
-housenumber: 4
-phone: "+49 6206 52359"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00;Sa 09:00-13:00"
-website: "http://www.autohaus-sanfilippo.de"
+street: Gaußstraße
+housenumber: "4"
+phone: +49 6206 52359
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00;Sa 09:00-13:00
+website: http://www.autohaus-sanfilippo.de

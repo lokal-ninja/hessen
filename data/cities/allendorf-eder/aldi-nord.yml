@@ -1,11 +1,11 @@
 id: 195547140
-type: way
+type: node
 latitude: 51.02026
 longitude: 8.66685
 postcode: "35108"
 city: Allendorf (Eder)
-street: "Ringstraße"
-housenumber: 11
+street: Ringstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/allendorf-eder.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/allendorf-eder.html

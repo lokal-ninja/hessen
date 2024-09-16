@@ -1,11 +1,11 @@
 id: 171921608
-type: way
+type: node
 latitude: 50.40981
 longitude: 9.00873
 postcode: ""
 city: Nidda
-street: "Am Rauner Graben"
-housenumber: 9
-phone: "+49 6043 801771"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "https://www.logo-getraenke.de/"
+street: Am Rauner Graben
+housenumber: "9"
+phone: +49 6043 801771
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
+website: https://www.logo-getraenke.de/

@@ -1,11 +1,11 @@
 id: 749725756
-type: way
+type: node
 latitude: 51.0146
 longitude: 8.64427
 postcode: "35088"
 city: Battenberg (Eder)
-street: "Marburger Straße"
-housenumber: 22
-phone: "+49 6452 3310; +49 6452 932165"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:30"
-website: "http://www.baeckerei-bienhaus.de/"
+street: Marburger Straße
+housenumber: "22"
+phone: +49 6452 3310; +49 6452 932165
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:30
+website: http://www.baeckerei-bienhaus.de/

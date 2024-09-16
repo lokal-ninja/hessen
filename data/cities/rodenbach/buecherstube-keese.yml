@@ -4,8 +4,9 @@ latitude: 50.14535
 longitude: 9.02302
 postcode: "63517"
 city: Rodenbach
-street: "Kirchstraße"
-housenumber: 3
-phone: "+49 6184 50290"
-opening_hours: "Tu 10:00-12:00,15:00-19:00; We,Fr 10:00-12:00,15:00-18:00; Th 15:00-18:00; Sa 10:00-14:00"
+street: Kirchstraße
+housenumber: "3"
+phone: +49 6184 50290
+opening_hours: Tu 10:00-12:00,15:00-19:00; We,Fr 10:00-12:00,15:00-18:00; Th 15:00-18:00;
+    Sa 10:00-14:00
 website: ""

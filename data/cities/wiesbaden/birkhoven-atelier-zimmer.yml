@@ -1,11 +1,11 @@
 id: 178025881
-type: way
+type: node
 latitude: 50.07385
 longitude: 8.2391
 postcode: "65185"
 city: Wiesbaden
-street: "Moritzstraße"
-housenumber: 46
-phone: "+49 176 72280461"
-opening_hours: "nach Vereinbarung"
-website: "https://birkhoven.com/"
+street: Moritzstraße
+housenumber: "46"
+phone: +49 176 72280461
+opening_hours: '"nach Vereinbarung"'
+website: https://birkhoven.com/

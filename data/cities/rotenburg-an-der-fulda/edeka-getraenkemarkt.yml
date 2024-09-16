@@ -1,11 +1,11 @@
 id: 274983020
-type: way
+type: node
 latitude: 50.99881
 longitude: 9.72904
 postcode: "36199"
 city: Rotenburg an der Fulda
-street: "An der Unterführung"
-housenumber: 1
+street: An der Unterführung
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

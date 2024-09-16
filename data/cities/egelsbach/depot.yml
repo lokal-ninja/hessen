@@ -4,8 +4,8 @@ latitude: 49.96201
 longitude: 8.66995
 postcode: "63329"
 city: Egelsbach
-street: "Kurt-Schumacher-Ring"
-housenumber: 1
-phone: "+49 6103 2023696"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+street: Kurt-Schumacher-Ring
+housenumber: "1"
+phone: +49 6103 2023696
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

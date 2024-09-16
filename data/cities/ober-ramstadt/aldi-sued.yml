@@ -1,11 +1,11 @@
 id: 732080175
-type: way
+type: node
 latitude: 49.8329
 longitude: 8.73542
 postcode: "64372"
 city: Ober-Ramstadt
-street: "Gräfenbergweg"
-housenumber: 2
+street: Gräfenbergweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/hessen/ober-ramstadt/graefenbergweg-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/hessen/ober-ramstadt/graefenbergweg-2

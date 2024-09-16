@@ -1,11 +1,11 @@
 id: 482656705
-type: way
+type: node
 latitude: 50.85233
 longitude: 9.10962
 postcode: "35279"
 city: Neustadt (Hessen)
-street: "Marburger Straße"
-housenumber: 28
+street: Marburger Straße
+housenumber: "28"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 374080574
-type: way
+type: node
 latitude: 49.91667
 longitude: 8.63838
 postcode: "64291"
 city: Darmstadt
-street: "Borsigstraße"
-housenumber: 18
-phone: "+49 (0)6151-376757"
+street: Borsigstraße
+housenumber: "18"
+phone: +49 (0)6151-376757
 opening_hours: ""
-website: "https://www.autosportivo.de/"
+website: https://www.autosportivo.de/

@@ -4,8 +4,8 @@ latitude: 50.10525
 longitude: 8.68723
 postcode: "60594"
 city: Frankfurt am Main
-street: "Schulstraße"
-housenumber: 1
+street: Schulstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-Fr 14:00-19:00; Sa 11:00-16:00"
-website: "http://www.sickwreckords.de"
+opening_hours: Tu-Fr 14:00-19:00; Sa 11:00-16:00
+website: http://www.sickwreckords.de

@@ -4,8 +4,8 @@ latitude: 50.12504
 longitude: 8.63862
 postcode: "60487"
 city: Frankfurt am Main
-street: "Grempstraße"
-housenumber: 29
+street: Grempstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:30 open, Sa 10:00-14:30 open || nach Vereinbarung"
+opening_hours: Tu-Fr 11:00-18:30 open, Sa 10:00-14:30 open || "nach Vereinbarung"
 website: ""

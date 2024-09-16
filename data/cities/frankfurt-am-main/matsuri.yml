@@ -4,8 +4,8 @@ latitude: 50.11317
 longitude: 8.66501
 postcode: "60325"
 city: Frankfurt am Main
-street: "Ulmenstraße"
-housenumber: 1
-phone: "+49 69 71678710"
-opening_hours: "Tu-Su 18:00-22:00"
+street: Ulmenstraße
+housenumber: "1"
+phone: +49 69 71678710
+opening_hours: Tu-Su 18:00-22:00
 website: ""

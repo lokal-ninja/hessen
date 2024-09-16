@@ -1,11 +1,11 @@
 id: 104970268
-type: way
+type: node
 latitude: 50.17864
 longitude: 8.73412
 postcode: "61118"
 city: Bad Vilbel
-street: "Am Südbahnhof"
-housenumber: 2
-phone: "+49 6101 3041352"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+street: Am Südbahnhof
+housenumber: "2"
+phone: +49 6101 3041352
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

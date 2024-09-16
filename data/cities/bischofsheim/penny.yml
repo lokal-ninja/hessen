@@ -1,11 +1,11 @@
 id: 130795911
-type: way
+type: node
 latitude: 49.99219
 longitude: 8.34822
 postcode: "65474"
 city: Bischofsheim
-street: "Kasteler Straße"
-housenumber: 1
+street: Kasteler Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

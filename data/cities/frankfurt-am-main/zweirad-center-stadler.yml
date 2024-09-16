@@ -1,11 +1,11 @@
 id: 105699408
-type: way
+type: node
 latitude: 50.13883
 longitude: 8.74326
 postcode: "60388"
 city: Frankfurt am Main
-street: "Borsigallee"
-housenumber: 23
+street: Borsigallee
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

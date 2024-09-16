@@ -1,11 +1,11 @@
 id: 93980643
-type: way
+type: node
 latitude: 50.1896
 longitude: 8.58703
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Zimmersmühlenweg"
-housenumber: 56
-phone: "+49 6171 97 96 00"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 10:00-14:00;Su,PH off"
-website: "https://www.auto-scherre.de/"
+street: Zimmersmühlenweg
+housenumber: "56"
+phone: +49 6171 97 96 00
+opening_hours: Mo-Fr 08:00-18:00;Sa 10:00-14:00;Su,PH off
+website: https://www.auto-scherre.de/

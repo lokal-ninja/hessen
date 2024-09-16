@@ -4,8 +4,8 @@ latitude: 51.09161
 longitude: 8.93347
 postcode: "35110"
 city: Frankenau
-street: "Wilhelmstraße"
-housenumber: 21
-phone: "+49 6455 471"
-opening_hours: "mo-fr 6:00-12:30,14:00-18:00;sa 6:30-13:00;su 7:30-10:30"
-website: "http://www.kellerwald-baecker.de/"
+street: Wilhelmstraße
+housenumber: "21"
+phone: +49 6455 471
+opening_hours: mo-fr 6:00-12:30,14:00-18:00;sa 6:30-13:00;su 7:30-10:30
+website: http://www.kellerwald-baecker.de/

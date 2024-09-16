@@ -1,11 +1,11 @@
 id: 187872150
-type: way
+type: node
 latitude: 51.29401
 longitude: 9.48138
 postcode: "34121"
 city: Kassel
-street: "Heckerswiesenstraße"
+street: Heckerswiesenstraße
 housenumber: 6a
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.33106
 longitude: 9.50128
 postcode: "34127"
 city: Kassel
-street: "Fiedlerstraße"
-housenumber: 30
-phone: "+49 561 870690"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/eh/hessenring/marco-wenzel-fiedlerstra%C3%9Fe-30/index.jsp"
+street: Fiedlerstraße
+housenumber: "30"
+phone: +49 561 870690
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/eh/hessenring/marco-wenzel-fiedlerstra%C3%9Fe-30/index.jsp

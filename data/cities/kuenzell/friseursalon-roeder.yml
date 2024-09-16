@@ -1,11 +1,11 @@
 id: 131850050
-type: way
+type: node
 latitude: 50.53793
 longitude: 9.70794
 postcode: "36093"
 city: Künzell
-street: "Turmstraße"
-housenumber: 57
+street: Turmstraße
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

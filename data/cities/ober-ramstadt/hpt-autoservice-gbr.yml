@@ -1,11 +1,11 @@
 id: 125012175
-type: way
+type: node
 latitude: 49.80118
 longitude: 8.76198
 postcode: "64372"
 city: Ober-Ramstadt
-street: "Rodauer Straße"
-housenumber: 21
+street: Rodauer Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

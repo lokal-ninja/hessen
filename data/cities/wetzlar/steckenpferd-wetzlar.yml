@@ -4,8 +4,8 @@ latitude: 50.55437
 longitude: 8.5008
 postcode: "35578"
 city: Wetzlar
-street: "Lahnstraße"
-housenumber: 1
+street: Lahnstraße
+housenumber: "1"
 phone: ""
-opening_hours: "online shop"
-website: "https://concept-steckenpferd.de/"
+opening_hours: '"online shop"'
+website: https://concept-steckenpferd.de/

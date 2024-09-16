@@ -4,8 +4,8 @@ latitude: 50.10929
 longitude: 8.67048
 postcode: "60329"
 city: Frankfurt am Main
-street: "Kaiserstraße"
-housenumber: 38
-phone: "+49 69 20024870"
-opening_hours: "Mo-Fr 09:00-11:00, 15:00-18:00"
-website: "https://diefahrradwerkstatt.bike/"
+street: Kaiserstraße
+housenumber: "38"
+phone: +49 69 20024870
+opening_hours: Mo-Fr 09:00-11:00, 15:00-18:00
+website: https://diefahrradwerkstatt.bike/

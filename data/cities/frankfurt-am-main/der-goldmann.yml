@@ -4,8 +4,8 @@ latitude: 50.1235
 longitude: 8.70225
 postcode: "60385"
 city: Frankfurt am Main
-street: "Berger Straße"
-housenumber: 113
-phone: "+49 179 9753475"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH off"
+street: Berger Straße
+housenumber: "113"
+phone: +49 179 9753475
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00; Su,PH off
 website: ""

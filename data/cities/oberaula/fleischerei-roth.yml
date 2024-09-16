@@ -4,8 +4,8 @@ latitude: 50.85508
 longitude: 9.46681
 postcode: "36280"
 city: Oberaula
-street: "Schulstraße"
-housenumber: 14
-phone: "+49 6628 92120"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "http://www.fleischerei-roth.de/"
+street: Schulstraße
+housenumber: "14"
+phone: +49 6628 92120
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
+website: http://www.fleischerei-roth.de/

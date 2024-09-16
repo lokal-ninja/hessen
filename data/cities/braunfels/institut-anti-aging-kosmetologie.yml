@@ -4,8 +4,8 @@ latitude: 50.51445
 longitude: 8.39098
 postcode: "35619"
 city: Braunfels
-street: "Am Kurpark"
-housenumber: 5
-phone: "+49 6442 96 26 553"
-opening_hours: "Nach Vereinbarung"
-website: "https://anti-aging-braunfels.de"
+street: Am Kurpark
+housenumber: "5"
+phone: +49 6442 96 26 553
+opening_hours: '"Nach Vereinbarung"'
+website: https://anti-aging-braunfels.de

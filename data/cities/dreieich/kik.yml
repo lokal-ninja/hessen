@@ -1,11 +1,11 @@
 id: 296407766
-type: way
+type: node
 latitude: 50.0296
 longitude: 8.7004
 postcode: "63303"
 city: Dreieich
-street: "Voltastraße"
-housenumber: 16
+street: Voltastraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

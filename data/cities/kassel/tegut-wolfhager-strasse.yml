@@ -1,11 +1,11 @@
 id: 219905840
-type: way
+type: node
 latitude: 51.33197
 longitude: 9.45511
 postcode: "34128"
 city: Kassel
-street: "Wolfhager Straße"
-housenumber: 278
+street: Wolfhager Straße
+housenumber: "278"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-kassel-rothenditmold-wolfhager-str-278.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.tegut.com/maerkte/markt/tegut-kassel-rothenditmold-wolfhager-str-278.html

@@ -1,11 +1,11 @@
 id: 59124504
-type: way
+type: node
 latitude: 50.04619
 longitude: 8.22077
 postcode: "65203"
 city: Wiesbaden
-street: "Friedrich-Bergius-Straße"
-housenumber: 1
+street: Friedrich-Bergius-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

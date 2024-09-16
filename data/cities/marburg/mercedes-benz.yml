@@ -1,11 +1,11 @@
 id: 107478712
-type: way
+type: node
 latitude: 50.82686
 longitude: 8.76962
 postcode: "35039"
 city: Marburg
-street: "Neue Kasseler Straße"
-housenumber: 52
+street: Neue Kasseler Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-13:00
 website: ""

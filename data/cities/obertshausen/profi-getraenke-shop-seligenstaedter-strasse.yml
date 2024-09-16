@@ -1,11 +1,11 @@
 id: 228268338
-type: way
+type: node
 latitude: 50.07683
 longitude: 8.86434
 postcode: "63179"
 city: Obertshausen
-street: "Seligenstädter Straße"
-housenumber: 68
+street: Seligenstädter Straße
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

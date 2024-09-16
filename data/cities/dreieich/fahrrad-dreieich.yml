@@ -4,8 +4,8 @@ latitude: 50.01873
 longitude: 8.69585
 postcode: "63303"
 city: Dreieich
-street: "Offenbacher Straße"
-housenumber: 1
+street: Offenbacher Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:30, 14:30-18:00; Sa 10:00-13:00"
-website: "https://www.fahrrad-dreieich.de"
+opening_hours: Mo-Fr 09:30-12:30, 14:30-18:00; Sa 10:00-13:00
+website: https://www.fahrrad-dreieich.de

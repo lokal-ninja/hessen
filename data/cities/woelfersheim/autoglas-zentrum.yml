@@ -1,11 +1,11 @@
 id: 555640597
-type: way
+type: node
 latitude: 50.39335
 longitude: 8.81456
 postcode: "61200"
 city: Wölfersheim
-street: "Europastraße"
-housenumber: 2
+street: Europastraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

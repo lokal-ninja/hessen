@@ -1,11 +1,11 @@
 id: 150980965
-type: way
+type: node
 latitude: 50.55834
 longitude: 9.67715
 postcode: "36039"
 city: Fulda
-street: "Adalbertstraße"
-housenumber: 2
+street: Adalbertstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

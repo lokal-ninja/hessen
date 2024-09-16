@@ -1,11 +1,11 @@
 id: 516168595
-type: way
+type: node
 latitude: 49.49845
 longitude: 8.92101
 postcode: "64760"
 city: Oberzent
-street: "Hauptstraße"
-housenumber: 17
+street: Hauptstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

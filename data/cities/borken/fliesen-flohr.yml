@@ -1,11 +1,11 @@
 id: 91960558
-type: way
+type: node
 latitude: 51.05211
 longitude: 9.28112
 postcode: "34582"
 city: Borken
-street: "Mittelweg"
-housenumber: 6
+street: Mittelweg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:30-13:00,14:00-18:00; Sa 08:30-13:00; Su off"
+opening_hours: Mo-Fr 08:30-13:00,14:00-18:00; Sa 08:30-13:00; Su off
 website: ""

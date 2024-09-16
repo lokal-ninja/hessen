@@ -1,11 +1,11 @@
 id: 105047382
-type: way
+type: node
 latitude: 50.1008
 longitude: 8.54411
 postcode: "65929"
 city: Frankfurt am Main
-street: "Antoniterstraße"
-housenumber: 22
+street: Antoniterstraße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.31496
 longitude: 9.43989
 postcode: "34131"
 city: Kassel
-street: "Kunoldstraße"
-housenumber: 16
-phone: "+49 561 312 842"
-opening_hours: "Mo-Fr 10:00-13:00,15:00-18:00"
-website: "https://www.kontaktladen-kassel.de/"
+street: Kunoldstraße
+housenumber: "16"
+phone: +49 561 312 842
+opening_hours: Mo-Fr 10:00-13:00,15:00-18:00
+website: https://www.kontaktladen-kassel.de/

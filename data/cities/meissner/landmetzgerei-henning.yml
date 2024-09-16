@@ -5,7 +5,7 @@ longitude: 9.90431
 postcode: "37290"
 city: Meißner
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo,We-Fr 08:00-13:00,15:00-18:00, Tu,Sa 08:00-13:00"
-website: "https://www.landmetzgerei-henning.de/"
+opening_hours: Mo,We-Fr 08:00-13:00,15:00-18:00, Tu,Sa 08:00-13:00
+website: https://www.landmetzgerei-henning.de/

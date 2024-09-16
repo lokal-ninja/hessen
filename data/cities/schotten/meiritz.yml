@@ -1,11 +1,11 @@
 id: 236008615
-type: way
+type: node
 latitude: 50.46367
 longitude: 9.20583
 postcode: "63679"
 city: Schotten
-street: "Im Eiches"
-housenumber: 15
+street: Im Eiches
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

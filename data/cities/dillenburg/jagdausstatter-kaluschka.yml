@@ -4,8 +4,8 @@ latitude: 50.77907
 longitude: 8.30368
 postcode: "35684"
 city: Dillenburg
-street: "Industriestraße"
-housenumber: 11
-phone: "+49 2771 8017520"
-opening_hours: "Tu,Fr 10:00-18:00; Th 10:00-20:00; Sa 10:00-14:00; Mo,We,Su,PH off"
-website: "https://www.jagdausstatter-kaluscha.de/"
+street: Industriestraße
+housenumber: "11"
+phone: +49 2771 8017520
+opening_hours: Tu,Fr 10:00-18:00; Th 10:00-20:00; Sa 10:00-14:00; Mo,We,Su,PH off
+website: https://www.jagdausstatter-kaluscha.de/

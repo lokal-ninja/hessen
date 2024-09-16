@@ -4,8 +4,8 @@ latitude: 50.10213
 longitude: 8.63219
 postcode: "60326"
 city: Frankfurt am Main
-street: "Mainzer Landstraße"
-housenumber: 330
-phone: "+49 69 75848994"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-12:00"
-website: "https://www.backhaus-schroeer.de"
+street: Mainzer Landstraße
+housenumber: "330"
+phone: +49 69 75848994
+opening_hours: Mo-Sa 07:00-22:00; Su 07:00-12:00
+website: https://www.backhaus-schroeer.de

@@ -1,11 +1,11 @@
 id: 57840803
-type: way
+type: node
 latitude: 50.54076
 longitude: 9.64012
 postcode: "36041"
 city: Fulda
-street: "Paul-Klee-Straße"
-housenumber: 71
+street: Paul-Klee-Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 229264121
-type: way
+type: node
 latitude: 50.49744
 longitude: 8.65505
 postcode: "35428"
 city: Langgöns
-street: "Schillerstraße"
-housenumber: 57
-phone: "+49 6403 72221"
+street: Schillerstraße
+housenumber: "57"
+phone: +49 6403 72221
 opening_hours: ""
-website: "https://www.entenfrisch.de"
+website: https://www.entenfrisch.de

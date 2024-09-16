@@ -4,8 +4,8 @@ latitude: 51.3685
 longitude: 9.30207
 postcode: "34289"
 city: Zierenberg
-street: "Mittelstraße"
-housenumber: 15
+street: Mittelstraße
+housenumber: "15"
 phone: "+491744634901"
-opening_hours: "Mo-Fr 09:00-20:00; Sa,Su 10:00-20:00"
-website: "https://www.elitestudio-zierenberg.de"
+opening_hours: Mo-Fr 09:00-20:00; Sa,Su 10:00-20:00
+website: https://www.elitestudio-zierenberg.de

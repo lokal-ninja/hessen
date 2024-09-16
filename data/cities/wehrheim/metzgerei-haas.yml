@@ -4,8 +4,8 @@ latitude: 50.30316
 longitude: 8.56956
 postcode: "61273"
 city: Wehrheim
-street: "Dorfborngasse"
-housenumber: 3
+street: Dorfborngasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:00 - 18:30; Sa 08:00 - 13:00"
-website: "https://www.metzgereihaas.de/"
+opening_hours: Mo-Fr 07:00 - 18:30; Sa 08:00 - 13:00
+website: https://www.metzgereihaas.de/

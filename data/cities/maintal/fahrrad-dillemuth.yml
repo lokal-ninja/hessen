@@ -4,8 +4,8 @@ latitude: 50.14969
 longitude: 8.80113
 postcode: "63477"
 city: Maintal
-street: "Fechenheimer Weg"
-housenumber: 16
-phone: "+49 6109 61417"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00; We off"
-website: "https://www.bikeshop-dillemuth.de/"
+street: Fechenheimer Weg
+housenumber: "16"
+phone: +49 6109 61417
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00; We off
+website: https://www.bikeshop-dillemuth.de/

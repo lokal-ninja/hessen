@@ -4,8 +4,8 @@ latitude: 50.59633
 longitude: 8.70987
 postcode: "35396"
 city: Gießen
-street: "Ursulum"
-housenumber: 16
-phone: "+49 641 944410"
+street: Ursulum
+housenumber: "16"
+phone: +49 641 944410
 opening_hours: ""
-website: "https://wobst.de/"
+website: https://wobst.de/

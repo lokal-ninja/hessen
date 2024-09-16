@@ -4,8 +4,8 @@ latitude: 50.58055
 longitude: 8.5195
 postcode: "35584"
 city: Wetzlar
-street: "Talstraße"
-housenumber: 3
-phone: "+49 6441-3096977"
-opening_hours: "Mo-Fr 11:30-18:00; Sa 10:00-15:00"
-website: "https://www.angelshop-wetzlar.de/"
+street: Talstraße
+housenumber: "3"
+phone: +49 6441-3096977
+opening_hours: Mo-Fr 11:30-18:00; Sa 10:00-15:00
+website: https://www.angelshop-wetzlar.de/

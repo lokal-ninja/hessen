@@ -4,8 +4,8 @@ latitude: 50.81451
 longitude: 8.76834
 postcode: "35037"
 city: Marburg
-street: "Ketzerbach"
-housenumber: 8
+street: Ketzerbach
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 13:00-18:00;Sa 10:00-15:00"
-website: "https://www.das-feuer-haus.de/index.php"
+opening_hours: Tu-Fr 13:00-18:00;Sa 10:00-15:00
+website: https://www.das-feuer-haus.de/index.php

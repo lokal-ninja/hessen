@@ -1,11 +1,11 @@
 id: 116950611
-type: way
+type: node
 latitude: 50.03301
 longitude: 7.82189
 postcode: "65391"
 city: Lorch
-street: "Binger Weg"
-housenumber: 38
+street: Binger Weg
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

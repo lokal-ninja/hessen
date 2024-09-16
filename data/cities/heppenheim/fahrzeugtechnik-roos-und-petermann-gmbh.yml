@@ -1,11 +1,11 @@
 id: 228444187
-type: way
+type: node
 latitude: 49.64905
 longitude: 8.6387
 postcode: "64646"
 city: Heppenheim
-street: "Darmstädter Straße"
-housenumber: 59
+street: Darmstädter Straße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

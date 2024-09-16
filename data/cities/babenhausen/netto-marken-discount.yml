@@ -1,11 +1,11 @@
 id: 216450896
-type: way
+type: node
 latitude: 49.96975
 longitude: 8.94857
 postcode: "64832"
 city: Babenhausen
-street: "Bouxwillerstraße"
-housenumber: 1
+street: Bouxwillerstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de/filialen/babenhausen/bouxwiller-str-1-frankfurte/3994"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de/filialen/babenhausen/bouxwiller-str-1-frankfurte/3994

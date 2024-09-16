@@ -1,11 +1,11 @@
 id: 426221320
-type: way
+type: node
 latitude: 51.13478
 longitude: 9.41892
 postcode: "34587"
 city: Felsberg
-street: "Obertor"
-housenumber: 5
+street: Obertor
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:45; Mo-Tu, Th-Fr 14:30-17:30"
-website: "https://www.bambinis-welt.de/"
+opening_hours: Mo-Fr 10:00-12:45; Mo-Tu, Th-Fr 14:30-17:30
+website: https://www.bambinis-welt.de/

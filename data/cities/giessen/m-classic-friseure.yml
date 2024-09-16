@@ -4,8 +4,8 @@ latitude: 50.57958
 longitude: 8.67449
 postcode: "35390"
 city: Gießen
-street: "Ludwigstraße"
-housenumber: 41
-phone: "+49 641 77688"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.mclassic.de"
+street: Ludwigstraße
+housenumber: "41"
+phone: +49 641 77688
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.mclassic.de

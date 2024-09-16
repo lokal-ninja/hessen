@@ -1,11 +1,11 @@
 id: 302301266
-type: way
+type: node
 latitude: 51.27115
 longitude: 9.52995
 postcode: "34253"
 city: Lohfelden
-street: "Matthäus-Merian-Straße"
-housenumber: 7
-phone: "+49561 5000 500"
+street: Matthäus-Merian-Straße
+housenumber: "7"
+phone: +49561 5000 500
 opening_hours: ""
-website: "https://www.nfz-kassel.de"
+website: https://www.nfz-kassel.de

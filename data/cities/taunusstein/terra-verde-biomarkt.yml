@@ -4,8 +4,8 @@ latitude: 50.14215
 longitude: 8.15457
 postcode: "65232"
 city: Taunusstein
-street: "Aarstraße"
-housenumber: 110
+street: Aarstraße
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:30-18:00"
-website: "http://www.terraverde-bio.de/index.php/component/content/article?id=85"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:30-18:00
+website: http://www.terraverde-bio.de/index.php/component/content/article?id=85

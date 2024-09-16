@@ -1,11 +1,11 @@
 id: 144275461
-type: way
+type: node
 latitude: 50.56889
 longitude: 9.66515
 postcode: "36039"
 city: Fulda
-street: "Niesiger Straße"
-housenumber: 69
+street: Niesiger Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.11077
 longitude: 8.67584
 postcode: "60311"
 city: Frankfurt am Main
-street: "Kaiserstraße"
-housenumber: 15
-phone: "+49 69 13387958"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off"
+street: Kaiserstraße
+housenumber: "15"
+phone: +49 69 13387958
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su,PH off
 website: ""

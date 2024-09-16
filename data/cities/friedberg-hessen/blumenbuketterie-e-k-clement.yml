@@ -1,11 +1,11 @@
 id: 315809657
-type: way
+type: node
 latitude: 50.33613
 longitude: 8.75993
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Fauerbacher Straße"
-housenumber: 3
+street: Fauerbacher Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:30; We 09:00-14:00; Sa 09:00-14:00; PH,Su 10:00-12:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:30; We 09:00-14:00; Sa 09:00-14:00; PH,Su 10:00-12:00
 website: ""

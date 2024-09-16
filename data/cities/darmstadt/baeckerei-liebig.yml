@@ -4,8 +4,8 @@ latitude: 49.81968
 longitude: 8.64745
 postcode: "64297"
 city: Darmstadt
-street: "Schwanenstraße"
-housenumber: 6
+street: Schwanenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 06:30-12:30, Sa 06:30-12:30, Su 08:00-11:00, Fr 15:00-18:00"
+opening_hours: Mo-Fr 06:30-12:30, Sa 06:30-12:30, Su 08:00-11:00, Fr 15:00-18:00
 website: ""

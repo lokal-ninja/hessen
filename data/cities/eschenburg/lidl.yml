@@ -1,11 +1,11 @@
 id: 626939763
-type: way
+type: node
 latitude: 50.78825
 longitude: 8.3209
 postcode: "35713"
 city: Eschenburg
-street: "Im Seifen"
-housenumber: 2
+street: Im Seifen
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

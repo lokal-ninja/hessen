@@ -4,8 +4,8 @@ latitude: 50.10287
 longitude: 8.75926
 postcode: "63065"
 city: Offenbach am Main
-street: "Kaiserstraße"
-housenumber: 24
-phone: "+49 69 817728"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://brillenschlange.eu/"
+street: Kaiserstraße
+housenumber: "24"
+phone: +49 69 817728
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://brillenschlange.eu/

@@ -1,11 +1,11 @@
 id: 101693246
-type: way
+type: node
 latitude: 50.63579
 longitude: 9.39151
 postcode: "36341"
 city: Lauterbach
-street: "Rockelsgasse"
-housenumber: 31
+street: Rockelsgasse
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

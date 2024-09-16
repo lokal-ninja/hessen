@@ -4,8 +4,8 @@ latitude: 50.33592
 longitude: 8.75299
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Kaiserstraße"
-housenumber: 113
-phone: "+49 6031 91333"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.dreamcut-coiffeur.de"
+street: Kaiserstraße
+housenumber: "113"
+phone: +49 6031 91333
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.dreamcut-coiffeur.de

@@ -1,11 +1,11 @@
 id: 195542048
-type: way
+type: node
 latitude: 50.66984
 longitude: 8.30704
 postcode: "35745"
 city: Herborn
 street: ""
-housenumber: 13
-phone: "+49 2772 924860"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00; PH off"
-website: "https://www.haertl-kuechenwelt.de/"
+housenumber: "13"
+phone: +49 2772 924860
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00; PH off
+website: https://www.haertl-kuechenwelt.de/

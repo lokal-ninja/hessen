@@ -1,11 +1,11 @@
 id: 317166491
-type: way
+type: node
 latitude: 50.23582
 longitude: 8.77131
 postcode: "61184"
 city: Karben
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo, Tu, Th, Fr 10:00-18:00; We, Sa 10:00-15:00"
-website: "http://www.irieskate.com/"
+opening_hours: Mo, Tu, Th, Fr 10:00-18:00; We, Sa 10:00-15:00
+website: http://www.irieskate.com/

@@ -1,11 +1,11 @@
 id: 192432044
-type: way
+type: node
 latitude: 50.57807
 longitude: 8.56741
 postcode: "35633"
 city: Lahnau
-street: "Beim Eberacker"
-housenumber: 4
+street: Beim Eberacker
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

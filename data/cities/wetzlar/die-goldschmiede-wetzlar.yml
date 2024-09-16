@@ -4,8 +4,8 @@ latitude: 50.55328
 longitude: 8.50048
 postcode: "35578"
 city: Wetzlar
-street: "Silhöfer Straße"
-housenumber: 30
-phone: "+49 6441 450 02"
-opening_hours: "Tu-Fr 13:30-18:30; Sa 09:30-16:00"
-website: "https://www.die-goldschmiede-wetzlar.de/"
+street: Silhöfer Straße
+housenumber: "30"
+phone: +49 6441 450 02
+opening_hours: Tu-Fr 13:30-18:30; Sa 09:30-16:00
+website: https://www.die-goldschmiede-wetzlar.de/

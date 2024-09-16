@@ -1,11 +1,11 @@
 id: 89727863
-type: way
+type: node
 latitude: 49.67495
 longitude: 8.99777
 postcode: "64720"
 city: Michelstadt
-street: "Pelarstraße"
-housenumber: 10
+street: Pelarstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

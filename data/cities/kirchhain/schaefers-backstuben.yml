@@ -4,8 +4,8 @@ latitude: 50.82349
 longitude: 8.92138
 postcode: "35274"
 city: Kirchhain
-street: "Am Bahnhof"
-housenumber: 9
-phone: "+49 6422 8991828"
-opening_hours: "Mo-Fr 05:30-17:00; Sa 06:00-13:00; Su 07:30-12:00"
-website: "https://www.schaefers-backstuben.de/"
+street: Am Bahnhof
+housenumber: "9"
+phone: +49 6422 8991828
+opening_hours: Mo-Fr 05:30-17:00; Sa 06:00-13:00; Su 07:30-12:00
+website: https://www.schaefers-backstuben.de/

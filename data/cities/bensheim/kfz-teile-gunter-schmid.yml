@@ -4,8 +4,8 @@ latitude: 49.67559
 longitude: 8.61233
 postcode: "64625"
 city: Bensheim
-street: "Wormser Straße"
-housenumber: 50
-phone: "+49 6251 2165"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-14:00, Su off"
-website: "http://kfz-teile-schmidt.de"
+street: Wormser Straße
+housenumber: "50"
+phone: +49 6251 2165
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-14:00, Su off
+website: http://kfz-teile-schmidt.de

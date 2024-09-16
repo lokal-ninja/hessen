@@ -1,11 +1,11 @@
 id: 1206576457
-type: way
+type: node
 latitude: 50.06216
 longitude: 8.48204
 postcode: "65795"
 city: Hattersheim
-street: "Im Boden"
-housenumber: 19
+street: Im Boden
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

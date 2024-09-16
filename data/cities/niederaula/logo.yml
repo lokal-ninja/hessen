@@ -4,8 +4,8 @@ latitude: 50.80335
 longitude: 9.61465
 postcode: "36272"
 city: Niederaula
-street: "Hersfelder Straße"
-housenumber: 20
-phone: "+49 6625 342494"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "http://www.logo-getraenke.de/"
+street: Hersfelder Straße
+housenumber: "20"
+phone: +49 6625 342494
+opening_hours: Mo-Sa 08:00-19:00
+website: http://www.logo-getraenke.de/

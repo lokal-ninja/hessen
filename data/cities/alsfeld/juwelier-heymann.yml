@@ -1,11 +1,11 @@
 id: 153229255
-type: way
+type: node
 latitude: 50.75023
 longitude: 9.26993
 postcode: "36304"
 city: Alsfeld
-street: "Mainzer Gasse"
-housenumber: 17
+street: Mainzer Gasse
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

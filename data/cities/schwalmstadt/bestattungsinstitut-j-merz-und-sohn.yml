@@ -1,11 +1,11 @@
 id: 183885128
-type: way
+type: node
 latitude: 50.91542
 longitude: 9.19085
 postcode: "34613"
 city: Schwalmstadt
-street: "Wiegelsweg"
-housenumber: 17
+street: Wiegelsweg
+housenumber: "17"
 phone: ""
 opening_hours: ""
-website: "https://www.merz-bestattungen.de/"
+website: https://www.merz-bestattungen.de/

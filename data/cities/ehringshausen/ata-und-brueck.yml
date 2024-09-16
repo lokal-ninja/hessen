@@ -1,11 +1,11 @@
 id: 371945946
-type: way
+type: node
 latitude: 50.5985
 longitude: 8.38957
 postcode: "35630"
 city: Ehringshausen
-street: "Wetzlarer Straße"
-housenumber: 60
+street: Wetzlarer Straße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

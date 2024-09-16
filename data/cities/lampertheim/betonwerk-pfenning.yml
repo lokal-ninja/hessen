@@ -1,11 +1,11 @@
 id: 306077025
-type: way
+type: node
 latitude: 49.61539
 longitude: 8.4283
 postcode: "68623"
 city: Lampertheim
-street: "Küblinger Weg"
-housenumber: 10
-phone: "+49 6206 94040"
+street: Küblinger Weg
+housenumber: "10"
+phone: +49 6206 94040
 opening_hours: ""
-website: "https://www.beton-pfenning.de/"
+website: https://www.beton-pfenning.de/

@@ -1,11 +1,11 @@
 id: 94229516
-type: way
+type: node
 latitude: 49.80968
 longitude: 8.58669
 postcode: "64319"
 city: Pfungstadt
-street: "Mainstraße"
-housenumber: 132
+street: Mainstraße
+housenumber: "132"
 phone: ""
 opening_hours: ""
-website: "https://www.mediamarkt.de/de/store/pfungstadt-6087"
+website: https://www.mediamarkt.de/de/store/pfungstadt-6087

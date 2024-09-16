@@ -4,8 +4,8 @@ latitude: 50.14169
 longitude: 8.74947
 postcode: "60388"
 city: Frankfurt am Main
-street: "Borsigallee"
-housenumber: 45
-phone: "+49 6109 5046 14"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+street: Borsigallee
+housenumber: "45"
+phone: +49 6109 5046 14
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
 website: ""

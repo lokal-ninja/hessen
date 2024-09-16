@@ -1,11 +1,11 @@
 id: 93865987
-type: way
+type: node
 latitude: 50.19564
 longitude: 9.19856
 postcode: "63589"
 city: Linsengericht
-street: "Kleinbahnweg"
-housenumber: 3
+street: Kleinbahnweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 07:00-21:00"
+opening_hours: Mo-Fr 08:00-21:00; Sa 07:00-21:00
 website: ""

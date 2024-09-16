@@ -1,11 +1,11 @@
 id: 118311271
-type: way
+type: node
 latitude: 49.6721
 longitude: 8.59495
 postcode: "64625"
 city: Bensheim
-street: "AMPèrestraße"
-housenumber: 5
+street: AMPèrestraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:00-18:00"
-website: "https://jysk.de/"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:00-18:00
+website: https://jysk.de/

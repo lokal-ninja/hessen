@@ -4,8 +4,8 @@ latitude: 51.35249
 longitude: 9.46471
 postcode: "34246"
 city: Vellmar
-street: "Lange Wender"
-housenumber: 3
-phone: "+49 561 98294 0"
-opening_hours: "Mo-Fr 07:00-17:30; Sa 08:00-13:00"
-website: "https://www.baustoffmarkt-hubenthal.de/"
+street: Lange Wender
+housenumber: "3"
+phone: +49 561 98294 0
+opening_hours: Mo-Fr 07:00-17:30; Sa 08:00-13:00
+website: https://www.baustoffmarkt-hubenthal.de/

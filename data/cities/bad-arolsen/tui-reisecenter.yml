@@ -4,8 +4,8 @@ latitude: 51.38102
 longitude: 9.00983
 postcode: "34454"
 city: Bad Arolsen
-street: "Bahnhofstraße"
-housenumber: 44
-phone: "+49 5691-5340"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-17:00"
-website: "https://reisebuero-bierhoff.de"
+street: Bahnhofstraße
+housenumber: "44"
+phone: +49 5691-5340
+opening_hours: Mo-Fr 09:00-13:00,14:00-17:00
+website: https://reisebuero-bierhoff.de

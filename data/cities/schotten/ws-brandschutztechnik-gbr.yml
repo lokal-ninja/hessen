@@ -1,11 +1,12 @@
 id: 121595165
-type: way
+type: node
 latitude: 50.50299
 longitude: 9.12399
 postcode: "63679"
 city: Schotten
-street: "Marktstraße"
-housenumber: 6
-phone: "+49 6044 - 95 00 96"
-opening_hours: "Mo-Th 09:00-12:00,12:30-16:00, Fr 09:00-12:00, 12:30-15:00, Sa, Su closed, nach Vereinbarung"
-website: "https://www.ws-brandschutztechnik.de/"
+street: Marktstraße
+housenumber: "6"
+phone: +49 6044 - 95 00 96
+opening_hours: Mo-Th 09:00-12:00,12:30-16:00, Fr 09:00-12:00, 12:30-15:00, Sa, Su
+    closed, "nach Vereinbarung"
+website: https://www.ws-brandschutztechnik.de/

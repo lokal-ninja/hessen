@@ -4,8 +4,8 @@ latitude: 50.54864
 longitude: 9.67791
 postcode: "36037"
 city: Fulda
-street: "Dalbergstraße"
-housenumber: 29
-phone: "+49 661 25007961"
-opening_hours: "Mo-Sa 06:00-19:00; PH,Su off"
-website: "http://www.rewe-fulda.de/"
+street: Dalbergstraße
+housenumber: "29"
+phone: +49 661 25007961
+opening_hours: Mo-Sa 06:00-19:00; PH,Su off
+website: http://www.rewe-fulda.de/

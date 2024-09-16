@@ -1,11 +1,11 @@
 id: 71447859
-type: way
+type: node
 latitude: 49.85653
 longitude: 8.75837
 postcode: "64380"
 city: Roßdorf
-street: "Kirchgasse"
-housenumber: 9
-phone: "+49 6154 8492"
-opening_hours: "Tu, Fr 15:00-18:00; Sa 09:00-13:00"
-website: "https://weingut-edling.de/"
+street: Kirchgasse
+housenumber: "9"
+phone: +49 6154 8492
+opening_hours: Tu, Fr 15:00-18:00; Sa 09:00-13:00
+website: https://weingut-edling.de/

@@ -1,11 +1,11 @@
 id: 195037735
-type: way
+type: node
 latitude: 50.5365
 longitude: 9.67484
 postcode: "36041"
 city: Fulda
-street: "Karl-Storch-Straße"
+street: Karl-Storch-Straße
 housenumber: 2a
-phone: "+49 661 2428700"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; PH off"
+phone: +49 661 2428700
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; PH off
 website: ""

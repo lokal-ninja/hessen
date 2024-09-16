@@ -5,7 +5,7 @@ longitude: 8.97481
 postcode: "63500"
 city: Seligenstadt
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 9:00-13:00, 15:00-18:30; Sa 9:00-13:30"
-website: "https://www.barlettavinothek.de/"
+opening_hours: Mo-Fr 9:00-13:00, 15:00-18:30; Sa 9:00-13:30
+website: https://www.barlettavinothek.de/

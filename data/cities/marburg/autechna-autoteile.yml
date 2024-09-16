@@ -1,11 +1,11 @@
 id: 914047322
-type: way
+type: node
 latitude: 50.82797
 longitude: 8.76869
 postcode: "35039"
 city: Marburg
-street: "Afföllerstraße"
-housenumber: 55
+street: Afföllerstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00; Sa 08:00-18:00
 website: ""

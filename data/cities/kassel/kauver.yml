@@ -4,8 +4,8 @@ latitude: 51.2954
 longitude: 9.45229
 postcode: "34134"
 city: Kassel
-street: "Rhönplatz"
-housenumber: 2
+street: Rhönplatz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off"
-website: "https://kauver.de/maerkte/kauver-kassel/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00; PH off
+website: https://kauver.de/maerkte/kauver-kassel/

@@ -4,8 +4,8 @@ latitude: 50.12505
 longitude: 8.64209
 postcode: "60487"
 city: Frankfurt am Main
-street: "Basaltstraße"
-housenumber: 21
+street: Basaltstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 08:30-14:00,15:00-18:00"
-website: "https://edlebiere.de"
+opening_hours: Mo-Fr 08:30-14:00,15:00-18:00
+website: https://edlebiere.de

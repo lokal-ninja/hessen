@@ -1,11 +1,11 @@
 id: 165637227
-type: way
+type: node
 latitude: 50.57164
 longitude: 8.48197
 postcode: "35576"
 city: Wetzlar
-street: "Auf der Dreispitz"
-housenumber: 1
-phone: "+49 6441 383233"
+street: Auf der Dreispitz
+housenumber: "1"
+phone: +49 6441 383233
 opening_hours: ""
-website: "http://www.identica-uhlmann.de"
+website: http://www.identica-uhlmann.de

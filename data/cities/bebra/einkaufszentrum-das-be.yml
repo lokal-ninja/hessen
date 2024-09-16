@@ -1,11 +1,11 @@
 id: 311081171
-type: way
+type: node
 latitude: 50.96958
 longitude: 9.79457
 postcode: "36179"
 city: Bebra
-street: "Nürnberger Straße"
+street: Nürnberger Straße
 housenumber: 43-47
 phone: ""
 opening_hours: ""
-website: "https://das-be.de/"
+website: https://das-be.de/

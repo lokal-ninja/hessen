@@ -1,11 +1,11 @@
 id: 519933766
-type: way
+type: node
 latitude: 50.05726
 longitude: 8.3418
 postcode: "65205"
 city: Wiesbaden
-street: "Ostring"
-housenumber: 2
+street: Ostring
+housenumber: "2"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

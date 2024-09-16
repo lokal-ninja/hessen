@@ -1,11 +1,11 @@
 id: 576581672
-type: way
+type: node
 latitude: 50.54016
 longitude: 9.70259
 postcode: "36093"
 city: Künzell
-street: "Turmstraße"
-housenumber: 5
-phone: "+49661 250250"
+street: Turmstraße
+housenumber: "5"
+phone: +49661 250250
 opening_hours: ""
-website: "https://www.das-bestattungshaus.de/"
+website: https://www.das-bestattungshaus.de/

@@ -1,11 +1,11 @@
 id: 137061432
-type: way
+type: node
 latitude: 50.25014
 longitude: 8.31439
 postcode: "65529"
 city: Waldems
-street: "Schwalbacher Straße"
-housenumber: 23
+street: Schwalbacher Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Fr 06:00-13:00,14:30-18:00; Sa 06:00-12:30; PH closed"
+opening_hours: Tu-Fr 06:00-13:00,14:30-18:00; Sa 06:00-12:30; PH closed
 website: ""

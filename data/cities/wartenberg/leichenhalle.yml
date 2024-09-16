@@ -1,11 +1,11 @@
 id: 143422802
-type: way
+type: node
 latitude: 50.63146
 longitude: 9.4492
 postcode: ""
 city: Wartenberg
-street: "Krombergsweg"
-housenumber: 1
+street: Krombergsweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

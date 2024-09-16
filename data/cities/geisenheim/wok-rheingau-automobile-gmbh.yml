@@ -1,11 +1,11 @@
 id: 202250889
-type: way
+type: node
 latitude: 49.98825
 longitude: 7.97847
 postcode: "65366"
 city: Geisenheim
-street: "Chauvignystraße"
-housenumber: 18
+street: Chauvignystraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://www.wok-rheingau-automobile.de/"
+website: https://www.wok-rheingau-automobile.de/

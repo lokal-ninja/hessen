@@ -1,11 +1,11 @@
 id: 166747261
-type: way
+type: node
 latitude: 51.57508
 longitude: 9.42716
 postcode: "34388"
 city: Trendelburg
-street: "Steinweg"
-housenumber: 23
+street: Steinweg
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

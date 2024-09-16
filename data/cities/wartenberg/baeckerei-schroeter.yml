@@ -1,11 +1,11 @@
 id: 144259340
-type: way
+type: node
 latitude: 50.60602
 longitude: 9.47296
 postcode: "36367"
 city: Wartenberg
-street: "Stockhäuser Straße"
-housenumber: 32
+street: Stockhäuser Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.99134
 longitude: 8.66019
 postcode: "63225"
 city: Langen (Hessen)
-street: "Bahnstraße"
-housenumber: 110
-phone: "+49 6103 25560"
-opening_hours: "Mo-Fr 09:00-13:30,14:30-18:30; Sa 09:00-14:00"
-website: "https://www.guenther-parfuemerien.de/"
+street: Bahnstraße
+housenumber: "110"
+phone: +49 6103 25560
+opening_hours: Mo-Fr 09:00-13:30,14:30-18:30; Sa 09:00-14:00
+website: https://www.guenther-parfuemerien.de/

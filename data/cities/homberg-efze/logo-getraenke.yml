@@ -1,11 +1,11 @@
 id: 213556582
-type: way
+type: node
 latitude: 51.03112
 longitude: 9.42119
 postcode: "34576"
 city: Homberg (Efze)
-street: "August-Vilmar-Straße"
-housenumber: 23
-phone: "+49 5681 60494"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-17:00"
-website: "https://www.logo-getraenke.de/"
+street: August-Vilmar-Straße
+housenumber: "23"
+phone: +49 5681 60494
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-17:00
+website: https://www.logo-getraenke.de/

@@ -1,11 +1,11 @@
 id: 60962077
-type: way
+type: node
 latitude: 50.7582
 longitude: 8.57787
 postcode: "35075"
 city: Gladenbach
-street: "Jakob-Heuser-Straße"
-housenumber: 4
+street: Jakob-Heuser-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.obi.de/de/markets/maerkte/Gladenbach/"
+website: https://www.obi.de/de/markets/maerkte/Gladenbach/

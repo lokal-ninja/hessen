@@ -1,11 +1,11 @@
 id: 630859858
-type: way
+type: node
 latitude: 50.59251
 longitude: 9.53261
 postcode: "36137"
 city: Großenlüder
-street: "Lauterbacher Straße"
-housenumber: 31
+street: Lauterbacher Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

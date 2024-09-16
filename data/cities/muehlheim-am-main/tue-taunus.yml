@@ -1,11 +1,11 @@
 id: 222888908
-type: way
+type: node
 latitude: 50.11875
 longitude: 8.81755
 postcode: "63165"
 city: Mühlheim am Main
-street: "Borsigstraße"
-housenumber: 7
+street: Borsigstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

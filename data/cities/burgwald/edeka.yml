@@ -1,11 +1,11 @@
 id: 195153769
-type: way
+type: node
 latitude: 50.97905
 longitude: 8.73078
 postcode: "35099"
 city: Burgwald
-street: "Marburger Straße"
-housenumber: 35
+street: Marburger Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00"
+opening_hours: Mo-Fr 07:00-20:00
 website: ""

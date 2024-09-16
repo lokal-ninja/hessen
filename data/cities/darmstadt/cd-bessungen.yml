@@ -4,8 +4,8 @@ latitude: 49.85797
 longitude: 8.65162
 postcode: "64285"
 city: Darmstadt
-street: "Bessunger Straße"
-housenumber: 54
+street: Bessunger Straße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; Sa 08:00-13:00; We 09:00-14:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; Sa 08:00-13:00; We 09:00-14:00
 website: ""

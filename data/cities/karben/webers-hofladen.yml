@@ -4,8 +4,8 @@ latitude: 50.22723
 longitude: 8.77364
 postcode: "61184"
 city: Karben
-street: "Rathausstraße"
-housenumber: 50
-phone: "+49 6039 6882"
-opening_hours: "Mo-Sa 09:00-13:00, Mo,We,Fr 14:30-18:00"
-website: "http://webershofladen.de"
+street: Rathausstraße
+housenumber: "50"
+phone: +49 6039 6882
+opening_hours: Mo-Sa 09:00-13:00, Mo,We,Fr 14:30-18:00
+website: http://webershofladen.de

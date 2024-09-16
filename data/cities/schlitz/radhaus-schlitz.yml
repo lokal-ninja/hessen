@@ -1,11 +1,11 @@
 id: 102482414
-type: way
+type: node
 latitude: 50.68465
 longitude: 9.57833
 postcode: "36110"
 city: Schlitz
-street: "Lindenstraße"
-housenumber: 5
+street: Lindenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.radhaus-schlitz.de/"
+website: https://www.radhaus-schlitz.de/

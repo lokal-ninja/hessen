@@ -4,8 +4,8 @@ latitude: 50.55819
 longitude: 8.49838
 postcode: "35576"
 city: Wetzlar
-street: "Langgasse"
-housenumber: 66
-phone: "+49 6441 42212"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://www.ups.com/dropoff/rte?reqType=print_directions&loc=de_DE&country=DE&Locations=159251&geolat=50.5509758&geolong=8.50349903&uom=KM&to_geolat=50.5582&to_geolong=8.4983&appid=&is_wwef=false&txtquery=Wetzlar,%20Lahn-Dill-Kreis,%20HE&mapVendorSessionK"
+street: Langgasse
+housenumber: "66"
+phone: +49 6441 42212
+opening_hours: Mo-Fr 09:30-18:00
+website: https://www.ups.com/dropoff/rte?reqType=print_directions&loc=de_DE&country=DE&Locations=159251&geolat=50.5509758&geolong=8.50349903&uom=KM&to_geolat=50.5582&to_geolong=8.4983&appid=&is_wwef=false&txtquery=Wetzlar,%20Lahn-Dill-Kreis,%20HE&mapVendorSessionK

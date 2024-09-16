@@ -1,11 +1,11 @@
 id: 188316739
-type: way
+type: node
 latitude: 50.09264
 longitude: 8.45772
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Nordring"
+street: Nordring
 housenumber: 5-9
-phone: "+49 6192 959680"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.globus-baumarkt.de/"
+phone: +49 6192 959680
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.globus-baumarkt.de/

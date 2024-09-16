@@ -1,11 +1,11 @@
 id: 145334090
-type: way
+type: node
 latitude: 50.20524
 longitude: 9.17386
 postcode: "63571"
 city: Gelnhausen
-street: "Frankfurter Straße"
-housenumber: 36
+street: Frankfurter Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:30-12:00"
-website: "https://www.buerozentrum.de/startseite.html"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:30-12:00
+website: https://www.buerozentrum.de/startseite.html

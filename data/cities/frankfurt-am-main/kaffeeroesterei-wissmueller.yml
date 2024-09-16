@@ -4,8 +4,8 @@ latitude: 50.12202
 longitude: 8.64649
 postcode: "60487"
 city: Frankfurt am Main
-street: "Leipziger Straße"
-housenumber: 39
+street: Leipziger Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-18:00"
-website: "http://www.kaffeeroesterei-wissmueller.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-18:00
+website: http://www.kaffeeroesterei-wissmueller.de/

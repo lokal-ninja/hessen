@@ -4,8 +4,8 @@ latitude: 49.89038
 longitude: 8.6373
 postcode: "64293"
 city: Darmstadt
-street: "Otto-Röhm-Straße"
-housenumber: 69
-phone: "+49 6151 8298 0"
+street: Otto-Röhm-Straße
+housenumber: "69"
+phone: +49 6151 8298 0
 opening_hours: ""
-website: "http://www.autoglas-darmstadt.de"
+website: http://www.autoglas-darmstadt.de

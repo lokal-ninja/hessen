@@ -1,11 +1,11 @@
 id: 481207746
-type: way
+type: node
 latitude: 50.45667
 longitude: 8.73174
 postcode: "35516"
 city: Münzenberg
-street: "Butzbacher Straße"
-housenumber: 14
+street: Butzbacher Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.mazda-autohaus-fenchel-muenzenberg-gambach.de/"
+website: https://www.mazda-autohaus-fenchel-muenzenberg-gambach.de/

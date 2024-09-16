@@ -1,11 +1,11 @@
 id: 89644535
-type: way
+type: node
 latitude: 49.69276
 longitude: 9.00301
 postcode: "64720"
 city: Michelstadt
-street: "Walther-Rathenau-Allee"
-housenumber: 
-phone: "+49 6061 967110"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://toom.de/m/michelstadt/"
+street: Walther-Rathenau-Allee
+housenumber: ""
+phone: +49 6061 967110
+opening_hours: Mo-Sa 08:00-20:00
+website: https://toom.de/m/michelstadt/

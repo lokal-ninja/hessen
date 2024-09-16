@@ -1,11 +1,11 @@
 id: 297320665
-type: way
+type: node
 latitude: 50.02759
 longitude: 8.69583
 postcode: "63303"
 city: Dreieich
-street: "Frankfurter Straße"
-housenumber: 109
+street: Frankfurter Straße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

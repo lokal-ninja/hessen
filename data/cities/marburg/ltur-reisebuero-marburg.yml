@@ -1,11 +1,11 @@
 id: 230043664
-type: way
+type: node
 latitude: 50.81054
 longitude: 8.77056
 postcode: "35037"
 city: Marburg
-street: "Wettergasse"
-housenumber: 37
-phone: "06421 64062"
-opening_hours: "Mo 13-18; Di,Do,Fr 11-18; Mi 11-14; Sa 11-15"
-website: "https://www.ltur.com/de/information/shopfinder/l/marburg/wettergasse-37/1151464"
+street: Wettergasse
+housenumber: "37"
+phone: 06421 64062
+opening_hours: Mo 13-18; Di,Do,Fr 11-18; Mi 11-14; Sa 11-15
+website: https://www.ltur.com/de/information/shopfinder/l/marburg/wettergasse-37/1151464

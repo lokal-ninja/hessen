@@ -1,11 +1,11 @@
 id: 130709191
-type: way
+type: node
 latitude: 50.10653
 longitude: 8.69343
 postcode: "60594"
 city: Frankfurt am Main
-street: "Seehofstraße"
-housenumber: 3
+street: Seehofstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

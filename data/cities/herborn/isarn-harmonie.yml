@@ -4,8 +4,8 @@ latitude: 50.68457
 longitude: 8.30218
 postcode: "35745"
 city: Herborn
-street: "Hauptstraße"
-housenumber: 2
-phone: "+49 2772 583918"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://isarn-harmonie.de/"
+street: Hauptstraße
+housenumber: "2"
+phone: +49 2772 583918
+opening_hours: Mo-Sa 10:00-20:00
+website: https://isarn-harmonie.de/

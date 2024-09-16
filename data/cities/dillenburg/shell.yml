@@ -1,11 +1,11 @@
 id: 141128647
-type: way
+type: node
 latitude: 50.73537
 longitude: 8.29043
 postcode: ""
 city: Dillenburg
-street: "Frankfurter Straße"
-housenumber: 1
+street: Frankfurter Straße
+housenumber: "1"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

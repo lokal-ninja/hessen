@@ -1,11 +1,11 @@
 id: 113857862
-type: way
+type: node
 latitude: 50.62251
 longitude: 9.02861
 postcode: "35325"
 city: Mücke
-street: "Bahnhofstraße"
-housenumber: 24
+street: Bahnhofstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

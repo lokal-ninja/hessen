@@ -1,11 +1,11 @@
 id: 178701738
-type: way
+type: node
 latitude: 50.14326
 longitude: 8.04679
 postcode: "65307"
 city: Bad Schwalbach
-street: "Edmund-Heusinger-Straße"
+street: Edmund-Heusinger-Straße
 housenumber: 15-17
-phone: "+49 (0)6124 3034"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
-website: "www.autohaus-ernst-gmbh.de/"
+phone: +49 (0)6124 3034
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
+website: www.autohaus-ernst-gmbh.de/

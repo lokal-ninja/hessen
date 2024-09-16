@@ -4,8 +4,8 @@ latitude: 51.31493
 longitude: 9.43649
 postcode: "34131"
 city: Kassel
-street: "Lange Straße"
-housenumber: 95
-phone: "+49 157 37 555 279"
-opening_hours: "We-Sa 17:00-22:00"
-website: "https://buengustogmbh.jimdo.com"
+street: Lange Straße
+housenumber: "95"
+phone: +49 157 37 555 279
+opening_hours: We-Sa 17:00-22:00
+website: https://buengustogmbh.jimdo.com

@@ -1,11 +1,11 @@
 id: 647506163
-type: way
+type: node
 latitude: 50.20776
 longitude: 8.59428
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Willy-Brandt-Straße"
-housenumber: 13
-phone: "+49 6171 275970"
-opening_hours: "Mo-Fr 07:00-16:30; Sa 08:00-12:00"
-website: "https://www.raabkarcher.de/oberursel/"
+street: Willy-Brandt-Straße
+housenumber: "13"
+phone: +49 6171 275970
+opening_hours: Mo-Fr 07:00-16:30; Sa 08:00-12:00
+website: https://www.raabkarcher.de/oberursel/

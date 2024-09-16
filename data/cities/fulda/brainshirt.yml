@@ -4,8 +4,8 @@ latitude: 50.54871
 longitude: 9.67957
 postcode: "36043"
 city: Fulda
-street: "Florengasse"
-housenumber: 24
-phone: "+49 661 8697760"
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-14:00"
-website: "https://brainshirt.eu"
+street: Florengasse
+housenumber: "24"
+phone: +49 661 8697760
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-14:00
+website: https://brainshirt.eu

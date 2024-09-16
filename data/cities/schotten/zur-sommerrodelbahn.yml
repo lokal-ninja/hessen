@@ -1,11 +1,11 @@
 id: 120139352
-type: way
+type: node
 latitude: 50.50933
 longitude: 9.22582
 postcode: "63679"
 city: Schotten
-street: "Am Hoherodskopf"
-housenumber: 15
+street: Am Hoherodskopf
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

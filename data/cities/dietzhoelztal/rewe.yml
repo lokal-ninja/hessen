@@ -1,11 +1,11 @@
 id: 157432944
-type: way
+type: node
 latitude: 50.83461
 longitude: 8.32558
 postcode: "35716"
 city: Dietzhölztal
-street: "Storchweg"
-housenumber: 2
+street: Storchweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

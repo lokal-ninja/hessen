@@ -1,11 +1,11 @@
 id: 218780844
-type: way
+type: node
 latitude: 49.65335
 longitude: 8.78572
 postcode: "64658"
 city: Fürth
-street: "Erbacher Straße"
-housenumber: 46
+street: Erbacher Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

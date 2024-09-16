@@ -4,8 +4,8 @@ latitude: 50.05523
 longitude: 8.29827
 postcode: "65205"
 city: Wiesbaden
-street: "Berliner Straße"
-housenumber: 265
-phone: "+49 611 711565"
-opening_hours: "Th-Fr 09:00-18:00; Sa 08:00-14:00"
+street: Berliner Straße
+housenumber: "265"
+phone: +49 611 711565
+opening_hours: Th-Fr 09:00-18:00; Sa 08:00-14:00
 website: ""

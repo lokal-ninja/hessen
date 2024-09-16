@@ -1,11 +1,11 @@
 id: 198043754
-type: way
+type: node
 latitude: 50.12232
 longitude: 8.90551
 postcode: "63456"
 city: Hanau
-street: "Hadrianstraße"
-housenumber: 12
+street: Hadrianstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

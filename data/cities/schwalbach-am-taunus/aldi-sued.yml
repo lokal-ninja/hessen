@@ -1,11 +1,11 @@
 id: 170269405
-type: way
+type: node
 latitude: 50.16238
 longitude: 8.53377
 postcode: "65824"
 city: Schwalbach am Taunus
-street: "Am Kronberger Hang"
-housenumber: 9
+street: Am Kronberger Hang
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://filialen.aldi-sued.de/hessen/schwalbach/am-kronberger-hang-9"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://filialen.aldi-sued.de/hessen/schwalbach/am-kronberger-hang-9

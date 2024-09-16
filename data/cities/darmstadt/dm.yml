@@ -4,8 +4,8 @@ latitude: 49.87182
 longitude: 8.65085
 postcode: ""
 city: Darmstadt
-street: "Wilhelminenstraße"
-housenumber: 7
+street: Wilhelminenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/store/d1na/darmstadt/wilhelminenstrasse-7"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.dm.de/store/d1na/darmstadt/wilhelminenstrasse-7

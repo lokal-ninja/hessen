@@ -1,11 +1,11 @@
 id: 145194404
-type: way
+type: node
 latitude: 50.00384
 longitude: 8.70548
 postcode: "63303"
 city: Dreieich
-street: "Gleisstraße"
+street: Gleisstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:30-14:00"
-website: "http://lautlos-durch-rhein-main.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:30-14:00
+website: http://lautlos-durch-rhein-main.de/

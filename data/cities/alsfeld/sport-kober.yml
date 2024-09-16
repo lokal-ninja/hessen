@@ -1,11 +1,12 @@
 id: 111246286
-type: way
+type: node
 latitude: 50.75006
 longitude: 9.27103
 postcode: "36304"
 city: Alsfeld
-street: "Roßmarkt"
-housenumber: 3
+street: Roßmarkt
+housenumber: "3"
 phone: "+4966313610"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-14:00 || Adventssamstage 09:00 - 17:00 Uhr"
-website: "https://www.sport-kober-intersportgruppe.de/"
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-14:00 || "Adventssamstage 09:00 - 17:00
+    Uhr"
+website: https://www.sport-kober-intersportgruppe.de/

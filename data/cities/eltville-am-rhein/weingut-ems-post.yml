@@ -4,8 +4,8 @@ latitude: 50.02708
 longitude: 8.11534
 postcode: "65343"
 city: Eltville am Rhein
-street: "Wörthstraße"
-housenumber: 17
-phone: "+49 6123 3863"
-opening_hours: "Mo-Fr 09:00-12:30,13:30-19:00; Sa 09:00-12:30,13:30-18:00"
-website: "http://www.weingut-ems-post.de/"
+street: Wörthstraße
+housenumber: "17"
+phone: +49 6123 3863
+opening_hours: Mo-Fr 09:00-12:30,13:30-19:00; Sa 09:00-12:30,13:30-18:00
+website: http://www.weingut-ems-post.de/

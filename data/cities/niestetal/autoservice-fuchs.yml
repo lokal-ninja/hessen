@@ -1,11 +1,11 @@
 id: 660496141
-type: way
+type: node
 latitude: 51.32263
 longitude: 9.553
 postcode: "34266"
 city: Niestetal
-street: "Ysenburgstraße"
-housenumber: 2
-phone: "+49 561 522144"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.autoservice-fuchs.de/"
+street: Ysenburgstraße
+housenumber: "2"
+phone: +49 561 522144
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.autoservice-fuchs.de/

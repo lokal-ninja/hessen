@@ -1,11 +1,11 @@
 id: 159404251
-type: way
+type: node
 latitude: 50.75172
 longitude: 9.27294
 postcode: "36304"
 city: Alsfeld
-street: "Untergasse"
-housenumber: 34
+street: Untergasse
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

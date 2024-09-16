@@ -4,8 +4,8 @@ latitude: 51.08237
 longitude: 9.37322
 postcode: "34590"
 city: Wabern
-street: "Bauerngasse"
-housenumber: 3
+street: Bauerngasse
+housenumber: "3"
 phone: ""
-opening_hours: "24/7"
-website: "http://pilzzucht-braun.de/"
+opening_hours: 24/7
+website: http://pilzzucht-braun.de/

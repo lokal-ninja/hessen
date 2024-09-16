@@ -1,11 +1,11 @@
 id: 136664500
-type: way
+type: node
 latitude: 50.2781
 longitude: 8.34278
 postcode: "65529"
 city: Waldems
-street: "Gartenstraße"
-housenumber: 24
+street: Gartenstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

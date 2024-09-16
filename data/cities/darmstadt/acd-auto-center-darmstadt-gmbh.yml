@@ -1,11 +1,11 @@
 id: 197336800
-type: way
+type: node
 latitude: 49.88842
 longitude: 8.65553
 postcode: "64289"
 city: Darmstadt
-street: "Schottener Weg"
-housenumber: 10
+street: Schottener Weg
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

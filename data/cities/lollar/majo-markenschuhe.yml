@@ -1,11 +1,11 @@
 id: 97416356
-type: way
+type: node
 latitude: 50.64083
 longitude: 8.70283
 postcode: "35457"
 city: Lollar
-street: "Pfingstweide"
-housenumber: 14
-phone: "+49 6406 8300516"
-opening_hours: "Sa 10:00-18:00; Mo-Fr 10:00-19:00"
-website: "https://www.majo-markenschuhe.de/lollar.php"
+street: Pfingstweide
+housenumber: "14"
+phone: +49 6406 8300516
+opening_hours: Sa 10:00-18:00; Mo-Fr 10:00-19:00
+website: https://www.majo-markenschuhe.de/lollar.php

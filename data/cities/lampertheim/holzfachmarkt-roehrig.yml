@@ -1,11 +1,11 @@
 id: 308691008
-type: way
+type: node
 latitude: 49.59627
 longitude: 8.48451
 postcode: "68623"
 city: Lampertheim
-street: "Otto-Hahn-Straße"
-housenumber: 23
-phone: "+49 6206 4003"
-opening_hours: "Mo-Fr 09:00-12:00, 15:00-18:00; Sa 09:00-12:00"
-website: "https://röhrig-holz.de"
+street: Otto-Hahn-Straße
+housenumber: "23"
+phone: +49 6206 4003
+opening_hours: Mo-Fr 09:00-12:00, 15:00-18:00; Sa 09:00-12:00
+website: https://röhrig-holz.de

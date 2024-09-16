@@ -4,8 +4,8 @@ latitude: 51.29325
 longitude: 9.4668
 postcode: "34134"
 city: Kassel
-street: "Silberbornstraße"
-housenumber: 32
+street: Silberbornstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-We,Fr,Sa 07:00-13:00, Th,Fr 07:00-18:00, Tu,We 15:00-18:00"
-website: "https://www.leffis.de/"
+opening_hours: Mo-We,Fr,Sa 07:00-13:00, Th,Fr 07:00-18:00, Tu,We 15:00-18:00
+website: https://www.leffis.de/

@@ -4,8 +4,8 @@ latitude: 50.81406
 longitude: 8.76799
 postcode: "35037"
 city: Marburg
-street: "Zwischenhausen"
-housenumber: 6
-phone: "+49 6421 6209633"
-opening_hours: "Mo-Fr 9:30-18:30; Sa 9:30-14:00"
-website: "http://www.healthy-hair-club.de/"
+street: Zwischenhausen
+housenumber: "6"
+phone: +49 6421 6209633
+opening_hours: Mo-Fr 9:30-18:30; Sa 9:30-14:00
+website: http://www.healthy-hair-club.de/

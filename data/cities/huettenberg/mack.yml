@@ -4,8 +4,8 @@ latitude: 50.52235
 longitude: 8.59
 postcode: "35625"
 city: Hüttenberg
-street: "Budenweisgraben"
-housenumber: 3
-phone: "+49 6441 8971830"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-17:00; Su 07:30-17:00"
-website: "https://baeckermack.de/"
+street: Budenweisgraben
+housenumber: "3"
+phone: +49 6441 8971830
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-17:00; Su 07:30-17:00
+website: https://baeckermack.de/

@@ -1,11 +1,11 @@
 id: 520862206
-type: way
+type: node
 latitude: 50.40991
 longitude: 8.15821
 postcode: "65594"
 city: Runkel
-street: "Weilburger Straße"
-housenumber: 1
+street: Weilburger Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

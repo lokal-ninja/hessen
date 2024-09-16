@@ -4,8 +4,8 @@ latitude: 50.07872
 longitude: 8.23784
 postcode: "65185"
 city: Wiesbaden
-street: "Kirchgasse"
-housenumber: 6
+street: Kirchgasse
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.saturn.de/de/store/wiesbaden-1196"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.saturn.de/de/store/wiesbaden-1196

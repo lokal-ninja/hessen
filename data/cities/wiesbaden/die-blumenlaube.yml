@@ -1,11 +1,11 @@
 id: 369214275
-type: way
+type: node
 latitude: 50.00106
 longitude: 8.30476
 postcode: "55246"
 city: Wiesbaden
-street: "Taunusstraße"
-housenumber: 10
+street: Taunusstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,15:00-18:00; Sa 10:00-13:00; PH,Su 10:00-12:00"
+opening_hours: Mo-Fr 10:00-12:30,15:00-18:00; Sa 10:00-13:00; PH,Su 10:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 25108786
-type: way
+type: node
 latitude: 49.83643
 longitude: 8.83581
 postcode: "64354"
 city: Reinheim
-street: "Darmstädter Straße"
-housenumber: 65
+street: Darmstädter Straße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/hessen/reinheim/darmstaedter-strasse-65"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/hessen/reinheim/darmstaedter-strasse-65

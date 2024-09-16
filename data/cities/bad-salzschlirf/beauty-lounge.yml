@@ -1,11 +1,11 @@
 id: 100185681
-type: way
+type: node
 latitude: 50.62127
 longitude: 9.50522
 postcode: "36364"
 city: Bad Salzschlirf
-street: "Riedstraße"
-housenumber: 29
-phone: "+49 6648 2030078"
+street: Riedstraße
+housenumber: "29"
+phone: +49 6648 2030078
 opening_hours: ""
 website: ""

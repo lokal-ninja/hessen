@@ -1,11 +1,11 @@
 id: 177173381
-type: way
+type: node
 latitude: 50.24836
 longitude: 9.29181
 postcode: "63607"
 city: Wächtersbach
-street: "Industriestraße"
-housenumber: 46
+street: Industriestraße
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

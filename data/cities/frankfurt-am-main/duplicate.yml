@@ -4,8 +4,8 @@ latitude: 50.10848
 longitude: 8.65859
 postcode: "60329"
 city: Frankfurt am Main
-street: "Mainzer Landstraße"
-housenumber: 109
-phone: "+49 69 24006684"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.duplicate24.de"
+street: Mainzer Landstraße
+housenumber: "109"
+phone: +49 69 24006684
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.duplicate24.de

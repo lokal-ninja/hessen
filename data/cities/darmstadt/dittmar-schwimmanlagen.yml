@@ -4,8 +4,8 @@ latitude: 49.91159
 longitude: 8.66031
 postcode: "64291"
 city: Darmstadt
-street: "Untere Mühlstraße"
-housenumber: 24
-phone: "+49 6151 351020"
-opening_hours: "Mo,We,Fr 09:00-12:00"
-website: "https://www.dittmar-schwimmanlagen.de/"
+street: Untere Mühlstraße
+housenumber: "24"
+phone: +49 6151 351020
+opening_hours: Mo,We,Fr 09:00-12:00
+website: https://www.dittmar-schwimmanlagen.de/

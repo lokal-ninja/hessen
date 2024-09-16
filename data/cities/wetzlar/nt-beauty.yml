@@ -4,8 +4,8 @@ latitude: 50.55765
 longitude: 8.49773
 postcode: "35576"
 city: Wetzlar
-street: "Langgasse"
+street: Langgasse
 housenumber: 67-69
-phone: "+49 6441 786 7764"
-opening_hours: "Mo-Fr 10:00-19:00 || Nach Vereinbarung"
-website: "https://nt-beauty.de"
+phone: +49 6441 786 7764
+opening_hours: Mo-Fr 10:00-19:00 || "Nach Vereinbarung"
+website: https://nt-beauty.de

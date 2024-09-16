@@ -1,11 +1,12 @@
 id: 94233785
-type: way
+type: node
 latitude: 50.01694
 longitude: 8.99692
 postcode: "63533"
 city: Mainhausen
-street: "Jahnstraße"
-housenumber: 3
+street: Jahnstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mar-Oct: Mo-Fr 07:00-18:00; Mar-Oct: Sa 08:00-12:00; Nov-Feb: Mo-Fr 07:00-17:00; Nov-Feb: Sa 08:00-12:00"
+opening_hours: 'Mar-Oct: Mo-Fr 07:00-18:00; Mar-Oct: Sa 08:00-12:00; Nov-Feb: Mo-Fr
+    07:00-17:00; Nov-Feb: Sa 08:00-12:00'
 website: ""

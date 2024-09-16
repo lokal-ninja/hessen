@@ -1,11 +1,11 @@
 id: 286129071
-type: way
+type: node
 latitude: 49.87125
 longitude: 8.65133
 postcode: "64283"
 city: Darmstadt
-street: "Elisabethenstraße"
-housenumber: 15
-phone: "+49 6151 109491"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Elisabethenstraße
+housenumber: "15"
+phone: +49 6151 109491
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.99512
 longitude: 8.41671
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Waldstraße"
-housenumber: 18
-phone: "+49 172 676 78 97"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Waldstraße
+housenumber: "18"
+phone: +49 172 676 78 97
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

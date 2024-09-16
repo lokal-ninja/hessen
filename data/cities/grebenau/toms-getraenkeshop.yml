@@ -1,11 +1,11 @@
 id: 110446286
-type: way
+type: node
 latitude: 50.71364
 longitude: 9.44585
 postcode: "36323"
 city: Grebenau
-street: "Werngeser Straße"
-housenumber: 19
+street: Werngeser Straße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

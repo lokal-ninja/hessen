@@ -1,11 +1,11 @@
 id: 44289547
-type: way
+type: node
 latitude: 49.89534
 longitude: 8.60192
 postcode: "64331"
 city: Weiterstadt
-street: "Im Rödling"
-housenumber: 8
-phone: "+49 6150 1850"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-20:00"
-website: "https://www.metro24.de/pages/DE/Standorte/029_METROWeiterstadt"
+street: Im Rödling
+housenumber: "8"
+phone: +49 6150 1850
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-20:00
+website: https://www.metro24.de/pages/DE/Standorte/029_METROWeiterstadt

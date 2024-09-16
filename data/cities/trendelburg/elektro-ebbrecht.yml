@@ -1,11 +1,11 @@
 id: 192528095
-type: way
+type: node
 latitude: 51.57502
 longitude: 9.41734
 postcode: "34388"
 city: Trendelburg
-street: "Manroder Straße"
-housenumber: 1
+street: Manroder Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

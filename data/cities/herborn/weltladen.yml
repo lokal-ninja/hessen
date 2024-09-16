@@ -4,8 +4,8 @@ latitude: 50.68284
 longitude: 8.30291
 postcode: "35745"
 city: Herborn
-street: "Schulhofstraße"
-housenumber: 2
-phone: "+49 2772 4765462"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH off"
-website: "https://herborner-weltladen.de/"
+street: Schulhofstraße
+housenumber: "2"
+phone: +49 2772 4765462
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH off
+website: https://herborner-weltladen.de/

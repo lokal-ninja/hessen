@@ -4,8 +4,8 @@ latitude: 50.78432
 longitude: 8.82955
 postcode: "35043"
 city: Marburg
-street: "Schröcker Straße"
-housenumber: 42
-phone: "+49 6424 929516"
-opening_hours: "Mo-Fr 15:00-18:00; Sa 09:00-12:00"
+street: Schröcker Straße
+housenumber: "42"
+phone: +49 6424 929516
+opening_hours: Mo-Fr 15:00-18:00; Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 293279077
-type: way
+type: node
 latitude: 50.75777
 longitude: 8.46205
 postcode: "35080"
 city: Bad Endbach
-street: "Schlierbacher Straße"
-housenumber: 3
+street: Schlierbacher Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

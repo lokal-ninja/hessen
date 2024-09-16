@@ -1,11 +1,11 @@
 id: 334310007
-type: way
+type: node
 latitude: 50.54141
 longitude: 8.50185
 postcode: "35578"
 city: Wetzlar
-street: "Nauborner Straße"
-housenumber: 146
-phone: "+49 6441 92061-62"
+street: Nauborner Straße
+housenumber: "146"
+phone: +49 6441 92061-62
 opening_hours: ""
-website: "https://www.reisebuero-taub.de"
+website: https://www.reisebuero-taub.de

@@ -1,11 +1,11 @@
 id: 35015707
-type: way
+type: node
 latitude: 50.24023
 longitude: 8.59241
 postcode: "61350"
 city: Bad Homburg v.d. Höhe
-street: "Anspacher Straße"
-housenumber: 36
+street: Anspacher Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

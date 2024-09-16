@@ -1,11 +1,11 @@
 id: 32431087
-type: way
+type: node
 latitude: 50.61052
 longitude: 8.64936
 postcode: "35435"
 city: Wettenberg
-street: "Im Westpark"
-housenumber: 2
-phone: "+49 221 20199959"
-opening_hours: "Mo-Sa 07:30-21:00"
-website: "https://www.penny.de/markt/wettenberg/230303/penny-wettenberg-im-westpark-2-6-wetzlarer-str"
+street: Im Westpark
+housenumber: "2"
+phone: +49 221 20199959
+opening_hours: Mo-Sa 07:30-21:00
+website: https://www.penny.de/markt/wettenberg/230303/penny-wettenberg-im-westpark-2-6-wetzlarer-str

@@ -1,11 +1,11 @@
 id: 124485987
-type: way
+type: node
 latitude: 50.65612
 longitude: 8.32635
 postcode: "35764"
 city: Sinn
-street: "Herborner Straße"
-housenumber: 9
+street: Herborner Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

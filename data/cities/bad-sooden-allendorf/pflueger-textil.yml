@@ -4,8 +4,8 @@ latitude: 51.27279
 longitude: 9.97424
 postcode: "37242"
 city: Bad Sooden-Allendorf
-street: "Kirchstraße"
-housenumber: 73
+street: Kirchstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00; Mo, Tu, Th, Fr 15:00-18:00; Sa 09:00-12:00"
-website: "https://www.pflüger-textilpflege.de/"
+opening_hours: Mo,Tu,Th-Sa 09:00-13:00, Tu,Th,Fr 15:00-18:00
+website: https://www.pflüger-textilpflege.de/

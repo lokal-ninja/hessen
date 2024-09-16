@@ -1,11 +1,11 @@
 id: 676042145
-type: way
+type: node
 latitude: 51.13216
 longitude: 9.54244
 postcode: "34212"
 city: Melsungen
-street: "Kasseler Straße"
-housenumber: 17
-phone: "+495661 922104"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://shopseite.telekom.de/sued-west/melsungen/kasseler-str-17"
+street: Kasseler Straße
+housenumber: "17"
+phone: +495661 922104
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://shopseite.telekom.de/sued-west/melsungen/kasseler-str-17

@@ -4,8 +4,8 @@ latitude: 50.35634
 longitude: 8.72986
 postcode: "61231"
 city: Bad Nauheim
-street: "Arthur-Weber-Weg"
-housenumber: 3
-phone: "+49 6032 8699933"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "http://friseur-creative.de"
+street: Arthur-Weber-Weg
+housenumber: "3"
+phone: +49 6032 8699933
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-15:00
+website: http://friseur-creative.de

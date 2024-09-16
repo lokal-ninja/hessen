@@ -4,8 +4,8 @@ latitude: 51.33543
 longitude: 9.44208
 postcode: "34128"
 city: Kassel
-street: "Wolfhager Straße"
-housenumber: 367
-phone: "+49 561 5218430"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.tierwelt-kassel.de/"
+street: Wolfhager Straße
+housenumber: "367"
+phone: +49 561 5218430
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.tierwelt-kassel.de/

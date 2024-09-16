@@ -1,11 +1,11 @@
 id: 223034798
-type: way
+type: node
 latitude: 50.14601
 longitude: 8.92525
 postcode: "63452"
 city: Hanau
-street: "Breslauer Straße"
-housenumber: 11
+street: Breslauer Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

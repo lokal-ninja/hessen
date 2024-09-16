@@ -4,8 +4,8 @@ latitude: 49.65433
 longitude: 8.45359
 postcode: "68642"
 city: Bürstadt
-street: "Mainstraße"
-housenumber: 135
-phone: "+49 6206 156258"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
-website: "https://www.rossmann.de/de/filialen/hessen/buerstadt/mainstr--135-137.html"
+street: Mainstraße
+housenumber: "135"
+phone: +49 6206 156258
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
+website: https://www.rossmann.de/de/filialen/hessen/buerstadt/mainstr--135-137.html

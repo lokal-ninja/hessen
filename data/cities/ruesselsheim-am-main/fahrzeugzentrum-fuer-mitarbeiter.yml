@@ -4,8 +4,8 @@ latitude: 49.99348
 longitude: 8.38568
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Mainzer Straße"
-housenumber: 95
-phone: "+49 6142 774710"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://wir-fahren-opel.de/"
+street: Mainzer Straße
+housenumber: "95"
+phone: +49 6142 774710
+opening_hours: Mo-Fr 08:00-16:00
+website: https://wir-fahren-opel.de/

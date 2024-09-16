@@ -1,11 +1,11 @@
 id: 101739000
-type: way
+type: node
 latitude: 49.97714
 longitude: 8.43262
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Stahlstraße"
-housenumber: 9
+street: Stahlstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

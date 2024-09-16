@@ -1,11 +1,11 @@
 id: 28785364
-type: way
+type: node
 latitude: 50.13761
 longitude: 8.64611
 postcode: "60431"
 city: Frankfurt am Main
-street: "Ginnheimer Landstraße"
-housenumber: 110
+street: Ginnheimer Landstraße
+housenumber: "110"
 phone: "+491748101594"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.promo-supermarkt.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.promo-supermarkt.de/

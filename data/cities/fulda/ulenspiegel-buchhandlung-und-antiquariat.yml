@@ -4,8 +4,8 @@ latitude: 50.54845
 longitude: 9.67501
 postcode: "36037"
 city: Fulda
-street: "Löherstraße"
-housenumber: 13
-phone: "+49 661 21686"
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-16:00; PH off"
-website: "https://www.ulenspiegel.de/"
+street: Löherstraße
+housenumber: "13"
+phone: +49 661 21686
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-16:00; PH off
+website: https://www.ulenspiegel.de/

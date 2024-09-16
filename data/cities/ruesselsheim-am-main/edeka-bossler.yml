@@ -1,11 +1,11 @@
 id: 1175168002
-type: way
+type: node
 latitude: 49.96848
 longitude: 8.4437
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Bensheimer Straße"
-housenumber: 2
-phone: "+49 6142 301177"
-opening_hours: "Mo-Sa 07:30-21:00; PH off"
-website: "https://www.edeka-bossler.de/koenigstaedten.html"
+street: Bensheimer Straße
+housenumber: "2"
+phone: +49 6142 301177
+opening_hours: Mo-Sa 07:30-21:00; PH off
+website: https://www.edeka-bossler.de/koenigstaedten.html

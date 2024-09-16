@@ -4,8 +4,8 @@ latitude: 51.05447
 longitude: 9.17524
 postcode: "34596"
 city: Bad Zwesten
-street: "Vor dem Tore"
-housenumber: 2
-phone: "+49 5626 9220348"
-opening_hours: "Tu,Th,Fr 10:30-17:30; We 10:30-15:30; Sa 09:30-13:00; Su,Mo off"
+street: Vor dem Tore
+housenumber: "2"
+phone: +49 5626 9220348
+opening_hours: Tu,Th,Fr 10:30-17:30; We 10:30-15:30; Sa 09:30-13:00; Su,Mo off
 website: ""

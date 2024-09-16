@@ -4,8 +4,8 @@ latitude: 50.07721
 longitude: 8.23702
 postcode: "65185"
 city: Wiesbaden
-street: "Oranienstraße"
-housenumber: 2
+street: Oranienstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 10:00-13:00, 16:00-18:30; Sa 10:00-13:00"
-website: "https://www.die-radwerkstatt.de/"
+opening_hours: Tu-Fr 10:00-13:00, 16:00-18:30; Sa 10:00-13:00
+website: https://www.die-radwerkstatt.de/

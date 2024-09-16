@@ -4,8 +4,8 @@ latitude: 50.14868
 longitude: 8.37718
 postcode: "65817"
 city: Eppstein
-street: "Hauptstraße"
-housenumber: 97.1
-phone: "+49 6198 32023"
-opening_hours: "Mo-Fr 07:00-13:00, 15:00-19:00; Sa 07:00-13:00, 15:00-19:00"
+street: Hauptstraße
+housenumber: "97.1"
+phone: +49 6198 32023
+opening_hours: Mo-Fr 07:00-13:00, 15:00-19:00; Sa 07:00-13:00, 15:00-19:00
 website: ""

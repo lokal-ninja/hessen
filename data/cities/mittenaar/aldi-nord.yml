@@ -1,11 +1,11 @@
 id: 247721068
-type: way
+type: node
 latitude: 50.69822
 longitude: 8.40592
 postcode: "35756"
 city: Mittenaar
-street: "An der B 255"
-housenumber: 3
+street: An der B 255
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

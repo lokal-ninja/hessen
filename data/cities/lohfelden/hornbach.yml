@@ -1,11 +1,11 @@
 id: 26505960
-type: way
+type: node
 latitude: 51.2806
 longitude: 9.52769
 postcode: "34253"
 city: Lohfelden
-street: "Otto-Hahn-Straße"
+street: Otto-Hahn-Straße
 housenumber: 1-5
-phone: "+49 561 51187-0"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.hornbach.de/cms/de/de/mein_hornbach/hornbach_maerkte/hornbach-kassel-lohfelden.html"
+phone: +49 561 51187-0
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.hornbach.de/cms/de/de/mein_hornbach/hornbach_maerkte/hornbach-kassel-lohfelden.html

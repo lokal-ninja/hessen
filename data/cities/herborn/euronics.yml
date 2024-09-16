@@ -1,11 +1,11 @@
 id: 129951621
-type: way
+type: node
 latitude: 50.67218
 longitude: 8.30547
 postcode: "35745"
 city: Herborn
-street: "Austraße"
-housenumber: 65
+street: Austraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00; PH closed"
+opening_hours: Mo-Fr 09:00-12:30,13:30-18:00; Sa 09:00-13:00; PH closed
 website: ""

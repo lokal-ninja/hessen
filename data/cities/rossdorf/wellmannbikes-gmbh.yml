@@ -1,11 +1,11 @@
 id: 748949367
-type: way
+type: node
 latitude: 49.86831
 longitude: 8.77903
 postcode: "64380"
 city: Roßdorf
-street: "Ulmenweg"
-housenumber: 17
-phone: "+49 6071 44293"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-14:00"
-website: "https://www.wellmannbikes.de/"
+street: Ulmenweg
+housenumber: "17"
+phone: +49 6071 44293
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-14:00
+website: https://www.wellmannbikes.de/

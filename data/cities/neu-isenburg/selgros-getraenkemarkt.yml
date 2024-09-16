@@ -1,11 +1,11 @@
 id: 130766220
-type: way
+type: node
 latitude: 50.0483
 longitude: 8.70957
 postcode: "63263"
 city: Neu-Isenburg
-street: "Martin-Behaim-Straße"
-housenumber: 1
+street: Martin-Behaim-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off"
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00; Su,PH off
 website: ""

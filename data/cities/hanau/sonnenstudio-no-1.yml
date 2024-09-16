@@ -4,8 +4,8 @@ latitude: 50.14673
 longitude: 8.93082
 postcode: "63452"
 city: Hanau
-street: "Kinzigbogen"
-housenumber: 1
+street: Kinzigbogen
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00;Su 10:00-18:00; PH off"
-website: "https://www.beste-sonne.de/"
+opening_hours: Mo-Sa 09:00-21:00;Su 10:00-18:00; PH off
+website: https://www.beste-sonne.de/

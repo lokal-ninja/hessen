@@ -4,8 +4,8 @@ latitude: 50.02544
 longitude: 8.88461
 postcode: "63110"
 city: Rodgau
-street: "Hintergasse"
-housenumber: 27
-phone: "+49 6106 86040"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.der.com/reisebuero/Rodgau-Juegesheim-Hintergasse-27"
+street: Hintergasse
+housenumber: "27"
+phone: +49 6106 86040
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-13:00
+website: https://www.der.com/reisebuero/Rodgau-Juegesheim-Hintergasse-27

@@ -4,8 +4,8 @@ latitude: 49.99075
 longitude: 8.41603
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Moselstraße"
-housenumber: 23
-phone: "+49 6142 8292 0"
-opening_hours: "Mo-Fr 10:00-12:30, 14:00-18:00; Sa 10:00-14:00"
-website: "https://www.okay.de/"
+street: Moselstraße
+housenumber: "23"
+phone: +49 6142 8292 0
+opening_hours: Mo-Fr 10:00-12:30, 14:00-18:00; Sa 10:00-14:00
+website: https://www.okay.de/

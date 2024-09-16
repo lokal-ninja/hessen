@@ -4,8 +4,8 @@ latitude: 50.55251
 longitude: 8.50067
 postcode: "35578"
 city: Wetzlar
-street: "Schillerplatz"
-housenumber: 10
-phone: "+49 6441 204 4694"
-opening_hours: "nach Vereinbarung"
+street: Schillerplatz
+housenumber: "10"
+phone: +49 6441 204 4694
+opening_hours: '"nach Vereinbarung"'
 website: ""

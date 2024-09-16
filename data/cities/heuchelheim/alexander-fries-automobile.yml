@@ -1,11 +1,11 @@
 id: 268269912
-type: way
+type: node
 latitude: 50.58969
 longitude: 8.63327
 postcode: "35452"
 city: Heuchelheim
-street: "Rodheimer Straße"
-housenumber: 52
+street: Rodheimer Straße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
 website: ""

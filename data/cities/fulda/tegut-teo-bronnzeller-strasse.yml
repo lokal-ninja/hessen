@@ -1,11 +1,11 @@
 id: 1024665835
-type: way
+type: node
 latitude: 50.51899
 longitude: 9.68055
 postcode: "36043"
 city: Fulda
-street: "Bronnzeller Straße"
-housenumber: 4
+street: Bronnzeller Straße
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.tegut.com/teo.html"
+opening_hours: 24/7
+website: https://www.tegut.com/teo.html

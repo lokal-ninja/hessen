@@ -4,8 +4,8 @@ latitude: 50.1258
 longitude: 8.70702
 postcode: "60385"
 city: Frankfurt am Main
-street: "Berger Straße"
-housenumber: 189
+street: Berger Straße
+housenumber: "189"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, Sa 09:30-13:00"
-website: "https://www.optik-friedauer.de/"
+opening_hours: Mo-Fr 09:30-18:30, Sa 09:30-13:00
+website: https://www.optik-friedauer.de/

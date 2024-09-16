@@ -4,8 +4,8 @@ latitude: 50.33962
 longitude: 8.75349
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Kaiserstraße"
-housenumber: 11
-phone: "+49 6031 64686"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "http://friseur-creative.de"
+street: Kaiserstraße
+housenumber: "11"
+phone: +49 6031 64686
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-15:00
+website: http://friseur-creative.de

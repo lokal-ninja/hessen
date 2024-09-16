@@ -1,11 +1,11 @@
 id: 44584570
-type: way
+type: node
 latitude: 50.07668
 longitude: 8.9969
 postcode: "63538"
 city: Großkrotzenburg
-street: "Marie-Curie-Straße"
-housenumber: 5
+street: Marie-Curie-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.05539
 longitude: 8.20466
 postcode: "65201"
 city: Wiesbaden
-street: "Saarstraße"
-housenumber: 118
-phone: "+49 611 25250"
-opening_hours: "Tu,Th,Fr 09:00-13:00, 15:00-18:30; Sa 09:00-13:00"
-website: "https://www.huber-gemuese.de/"
+street: Saarstraße
+housenumber: "118"
+phone: +49 611 25250
+opening_hours: Tu,Th,Fr 09:00-13:00, 15:00-18:30; Sa 09:00-13:00
+website: https://www.huber-gemuese.de/

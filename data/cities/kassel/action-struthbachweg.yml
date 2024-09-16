@@ -1,11 +1,11 @@
 id: 174033193
-type: way
+type: node
 latitude: 51.33403
 longitude: 9.49155
 postcode: "34127"
 city: Kassel
-street: "Struthbachweg"
-housenumber: 26
+street: Struthbachweg
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.action.com/de-de/laden/kassel-nordholland/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.action.com/de-de/laden/kassel-nordholland/

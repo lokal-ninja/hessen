@@ -4,8 +4,8 @@ latitude: 50.55555
 longitude: 8.49975
 postcode: "35578"
 city: Wetzlar
-street: "Lahnstraße"
-housenumber: 36
-phone: "+49 6441 48101"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:00"
-website: "https://www.buchladen-wetzlar.de"
+street: Lahnstraße
+housenumber: "36"
+phone: +49 6441 48101
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-15:00
+website: https://www.buchladen-wetzlar.de

@@ -1,11 +1,11 @@
 id: 87298480
-type: way
+type: node
 latitude: 50.45225
 longitude: 9.90596
 postcode: "36129"
 city: Gersfeld
-street: "Berliner Straße"
-housenumber: 29
-phone: "+49 6654 91830"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "http://www.rewe.de/marktseite/rewe-markt-gersfeld-berliner-straße-29/"
+street: Berliner Straße
+housenumber: "29"
+phone: +49 6654 91830
+opening_hours: Mo-Sa 07:00-20:00
+website: http://www.rewe.de/marktseite/rewe-markt-gersfeld-berliner-straße-29/

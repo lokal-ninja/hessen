@@ -1,11 +1,11 @@
 id: 261214676
-type: way
+type: node
 latitude: 49.86612
 longitude: 8.92548
 postcode: "64823"
 city: Groß-Umstadt
-street: "Carlo-Mierendorff-Straße"
-housenumber: 17
+street: Carlo-Mierendorff-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

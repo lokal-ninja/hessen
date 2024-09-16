@@ -1,11 +1,11 @@
 id: 870949464
-type: way
+type: node
 latitude: 51.34666
 longitude: 9.85787
 postcode: "37213"
 city: Witzenhausen
-street: "An der Bohlenbrücke"
-housenumber: 4
+street: An der Bohlenbrücke
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

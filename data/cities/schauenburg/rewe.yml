@@ -1,11 +1,11 @@
 id: 194452713
-type: way
+type: node
 latitude: 51.27985
 longitude: 9.35521
 postcode: "34270"
 city: Schauenburg
-street: "Pfingstweide"
-housenumber: 4
+street: Pfingstweide
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

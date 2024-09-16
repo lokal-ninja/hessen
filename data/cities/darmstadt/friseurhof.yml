@@ -1,11 +1,11 @@
 id: 1068950762
-type: way
+type: node
 latitude: 49.88139
 longitude: 8.65679
 postcode: "64289"
 city: Darmstadt
-street: "Arheilger Straße"
-housenumber: 66
-phone: "+49 6151 712072"
-opening_hours: "Tu,Th,Fr 09:00-15:00; We 09:00-15:00; Sa 09:00-14:00; PH off"
+street: Arheilger Straße
+housenumber: "66"
+phone: +49 6151 712072
+opening_hours: Tu,Th,Fr 09:00-15:00; We 09:00-15:00; Sa 09:00-14:00; PH off
 website: ""

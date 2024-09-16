@@ -1,11 +1,11 @@
 id: 241944755
-type: way
+type: node
 latitude: 50.98778
 longitude: 8.73932
 postcode: "35099"
 city: Burgwald
-street: "Rosenweg"
-housenumber: 
+street: Rosenweg
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

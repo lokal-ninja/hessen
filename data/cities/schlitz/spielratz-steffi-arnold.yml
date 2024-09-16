@@ -1,11 +1,11 @@
 id: 102018027
-type: way
+type: node
 latitude: 50.67417
 longitude: 9.56168
 postcode: "36110"
 city: Schlitz
-street: "Ringmauer"
-housenumber: 17
+street: Ringmauer
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

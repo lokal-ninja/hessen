@@ -1,11 +1,11 @@
 id: 245117234
-type: way
+type: node
 latitude: 50.06293
 longitude: 8.37321
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Zur Burg"
-housenumber: 2
+street: Zur Burg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:00,15:00-18:00; Sa 06:00-13:00"
+opening_hours: Mo-Fr 06:00-13:00,15:00-18:00; Sa 06:00-13:00
 website: ""

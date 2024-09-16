@@ -4,8 +4,8 @@ latitude: 50.12247
 longitude: 8.67607
 postcode: "60322"
 city: Frankfurt am Main
-street: "Eschersheimer Landstraße"
-housenumber: 60
+street: Eschersheimer Landstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.alnatura.de"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.alnatura.de

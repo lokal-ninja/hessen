@@ -1,11 +1,11 @@
 id: 570370212
-type: way
+type: node
 latitude: 50.39598
 longitude: 8.06277
 postcode: ""
 city: Limburg an der Lahn
-street: "Offheimer Weg"
-housenumber: 13
+street: Offheimer Weg
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

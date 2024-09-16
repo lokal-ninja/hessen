@@ -4,8 +4,8 @@ latitude: 50.11986
 longitude: 8.69519
 postcode: "60316"
 city: Frankfurt am Main
-street: "Berger Straße"
-housenumber: 36
+street: Berger Straße
+housenumber: "36"
 phone: "+496960663564"
-opening_hours: "Mo-Tu 11:00-19:00,We 14:00-19:00,Thu-Fr 11:00-19:00,Sa 10:00-18:00"
-website: "https://neonboxshop.de"
+opening_hours: Mo-Tu 11:00-19:00,We 14:00-19:00,Thu-Fr 11:00-19:00,Sa 10:00-18:00
+website: https://neonboxshop.de

@@ -1,11 +1,11 @@
 id: 149516175
-type: way
+type: node
 latitude: 49.89962
 longitude: 8.59437
 postcode: "64331"
 city: Weiterstadt
-street: "Max-Planck-Straße"
-housenumber: 4
+street: Max-Planck-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

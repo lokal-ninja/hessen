@@ -1,11 +1,11 @@
 id: 237145437
-type: way
+type: node
 latitude: 50.2517
 longitude: 9.31141
 postcode: "63607"
 city: Wächtersbach
-street: "Frankfurter Straße"
-housenumber: 1
+street: Frankfurter Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-nix.de/neuwagen/volkswagen-nutzfahrzeuge/"
+website: https://www.auto-nix.de/neuwagen/volkswagen-nutzfahrzeuge/

@@ -1,11 +1,11 @@
 id: 97539021
-type: way
+type: node
 latitude: 50.54183
 longitude: 8.98962
 postcode: "35321"
 city: Laubach
-street: "Bahnhofstraße"
-housenumber: 8
+street: Bahnhofstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

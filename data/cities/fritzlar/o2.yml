@@ -4,8 +4,8 @@ latitude: 51.13263
 longitude: 9.27475
 postcode: "34560"
 city: Fritzlar
-street: "Kasseler Straße"
-housenumber: 14
-phone: "+49 5622 790680"
-opening_hours: "Mo-Fr 09:30-13:00, Mo-We,Fr 14:00-18:00, Sa 09:30-13:00; Su off"
-website: "https://www.o2online.de/"
+street: Kasseler Straße
+housenumber: "14"
+phone: +49 5622 790680
+opening_hours: Mo-Fr 09:30-13:00, Mo-We,Fr 14:00-18:00, Sa 09:30-13:00; Su off
+website: https://www.o2online.de/

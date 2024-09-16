@@ -4,8 +4,8 @@ latitude: 49.6777
 longitude: 9.00167
 postcode: "64720"
 city: Michelstadt
-street: "Hammerweg"
-housenumber: 8
-phone: "+49 6061 23 94"
+street: Hammerweg
+housenumber: "8"
+phone: +49 6061 23 94
 opening_hours: ""
-website: "https://www.moellinger.info/"
+website: https://www.moellinger.info/

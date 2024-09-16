@@ -1,11 +1,11 @@
 id: 642232173
-type: way
+type: node
 latitude: 51.27848
 longitude: 8.88142
 postcode: "34497"
 city: Korbach
-street: "Oststraße"
-housenumber: 25
-phone: "+49 5631 913369"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30"
+street: Oststraße
+housenumber: "25"
+phone: +49 5631 913369
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa 09:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 134012923
-type: way
+type: node
 latitude: 50.59074
 longitude: 8.46334
 postcode: "35614"
 city: Aßlar
-street: "Bachstraße"
-housenumber: 3
+street: Bachstraße
+housenumber: "3"
 phone: "+49644188480"
-opening_hours: "Mo-Th 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.edeka.de/eh/hessenring/alex-leipi-e.k.-hauptstr.-20/index.jsp"
+opening_hours: Mo-Th 08:00-19:00; Sa 08:00-16:00
+website: https://www.edeka.de/eh/hessenring/alex-leipi-e.k.-hauptstr.-20/index.jsp

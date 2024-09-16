@@ -1,11 +1,11 @@
 id: 158226903
-type: way
+type: node
 latitude: 50.96596
 longitude: 9.79504
 postcode: "36179"
 city: Bebra
-street: "Hersfelder Straße"
-housenumber: 18
-phone: "+49 6622 9157460"
-opening_hours: "Mo-Sa 06:00-18:00, Su 07:30-17:00"
-website: "https://www.guter-gerlach.de/"
+street: Hersfelder Straße
+housenumber: "18"
+phone: +49 6622 9157460
+opening_hours: Mo-Sa 06:00-18:00, Su 07:30-17:00
+website: https://www.guter-gerlach.de/

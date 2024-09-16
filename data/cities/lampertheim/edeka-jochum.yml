@@ -1,11 +1,11 @@
 id: 306439419
-type: way
+type: node
 latitude: 49.59727
 longitude: 8.45871
 postcode: "68623"
 city: Lampertheim
-street: "Schwalbenstraße"
-housenumber: 5
+street: Schwalbenstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.99065
 longitude: 8.8473
 postcode: "63110"
 city: Rodgau
-street: "Isarstraße"
-housenumber: 13
-phone: "+49 6151 9737070"
-opening_hours: "24/7"
+street: Isarstraße
+housenumber: "13"
+phone: +49 6151 9737070
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 97467924
-type: way
+type: node
 latitude: 51.05839
 longitude: 8.79066
 postcode: "35066"
 city: Frankenberg (Eder)
-street: "Jahnstraße"
-housenumber: 16
+street: Jahnstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

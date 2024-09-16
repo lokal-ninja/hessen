@@ -1,11 +1,11 @@
 id: 192993418
-type: way
+type: node
 latitude: 51.57321
 longitude: 9.42053
 postcode: "34388"
 city: Trendelburg
-street: "Zur Burg"
-housenumber: 2
+street: Zur Burg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

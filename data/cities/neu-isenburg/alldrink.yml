@@ -1,11 +1,11 @@
 id: 138949882
-type: way
+type: node
 latitude: 50.05125
 longitude: 8.69894
 postcode: "63263"
 city: Neu-Isenburg
-street: "Gärtnerweg"
-housenumber: 8
+street: Gärtnerweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

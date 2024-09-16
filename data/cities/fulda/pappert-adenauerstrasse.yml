@@ -1,11 +1,11 @@
 id: 1117881644
-type: way
+type: node
 latitude: 50.57541
 longitude: 9.65914
 postcode: "36039"
 city: Fulda
-street: "Adenauerstraße"
-housenumber: 9
-phone: "+49 661 95250219"
-opening_hours: "Mo-Sa 06:00-19:00; PH,Su 07:00-12:00"
-website: "https://www.papperts.de/"
+street: Adenauerstraße
+housenumber: "9"
+phone: +49 661 95250219
+opening_hours: Mo-Sa 06:00-19:00; PH,Su 07:00-12:00
+website: https://www.papperts.de/

@@ -4,8 +4,8 @@ latitude: 51.30752
 longitude: 9.52127
 postcode: "34123"
 city: Kassel
-street: "Leipziger Straße"
-housenumber: 92
-phone: "+800 22557755"
-opening_hours: "Mo-Sa 08:00-18:30, Sa 08:00-15:00"
-website: "www.driverama.de"
+street: Leipziger Straße
+housenumber: "92"
+phone: +800 22557755
+opening_hours: Mo-Sa 08:00-18:30, Sa 08:00-15:00
+website: www.driverama.de

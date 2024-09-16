@@ -4,8 +4,8 @@ latitude: 50.11203
 longitude: 8.70036
 postcode: "60314"
 city: Frankfurt am Main
-street: "Windeckstraße"
-housenumber: 33
+street: Windeckstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-18:00
 website: ""

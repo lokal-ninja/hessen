@@ -1,11 +1,11 @@
 id: 214769291
-type: way
+type: node
 latitude: 50.70424
 longitude: 8.4435
 postcode: "35649"
 city: Bischoffen
-street: "Bahnhofstraße"
-housenumber: 25
+street: Bahnhofstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

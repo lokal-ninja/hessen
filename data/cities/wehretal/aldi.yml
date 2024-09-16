@@ -1,11 +1,11 @@
 id: 180616071
-type: way
+type: node
 latitude: 51.15787
 longitude: 9.99864
 postcode: "37287"
 city: Wehretal
-street: "Landstraße"
-housenumber: 123
+street: Landstraße
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

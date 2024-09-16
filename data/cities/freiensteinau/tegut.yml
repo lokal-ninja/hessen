@@ -1,11 +1,11 @@
 id: 173086665
-type: way
+type: node
 latitude: 50.42145
 longitude: 9.41179
 postcode: "36399"
 city: Freiensteinau
-street: "Im Mühlfeld"
-housenumber: 23
-phone: "+49 6666 919123"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Im Mühlfeld
+housenumber: "23"
+phone: +49 6666 919123
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

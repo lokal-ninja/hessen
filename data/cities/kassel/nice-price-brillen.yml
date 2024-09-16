@@ -4,8 +4,8 @@ latitude: 51.32086
 longitude: 9.45079
 postcode: "34130"
 city: Kassel
-street: "Teichstraße"
-housenumber: 31
+street: Teichstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:30,14:30-18:00; Sa 09:00-13:00"
-website: "http://dieoptik.de/pages/filialen/--kassel-kirchditmold.php"
+opening_hours: Mo-Fr 09:00-13:30,14:30-18:00; Sa 09:00-13:00
+website: http://dieoptik.de/pages/filialen/--kassel-kirchditmold.php

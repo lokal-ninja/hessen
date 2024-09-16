@@ -4,8 +4,8 @@ latitude: 50.13228
 longitude: 8.91627
 postcode: "63450"
 city: Hanau
-street: "Am Markt"
-housenumber: 13
+street: Am Markt
+housenumber: "13"
 phone: ""
-opening_hours: "Mo 09:00-18:00; Tu-Fr 09:00-19:00; Sa 09:00-16:00; Su off"
-website: "https://www.friseurteamhairline.de"
+opening_hours: Mo 09:00-18:00; Tu-Fr 09:00-19:00; Sa 09:00-16:00; Su off
+website: https://www.friseurteamhairline.de

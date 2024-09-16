@@ -4,8 +4,8 @@ latitude: 50.72483
 longitude: 8.30323
 postcode: "35687"
 city: Dillenburg
-street: "Waldstraße"
-housenumber: 6
-phone: "+49 171 498 7684"
-opening_hours: "Termine nach Vereinbarung"
+street: Waldstraße
+housenumber: "6"
+phone: +49 171 498 7684
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

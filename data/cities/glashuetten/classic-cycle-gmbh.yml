@@ -1,11 +1,11 @@
 id: 263719944
-type: way
+type: node
 latitude: 50.19416
 longitude: 8.37975
 postcode: "61479"
 city: Glashütten
-street: "An der Kreuzheck"
-housenumber: 14
+street: An der Kreuzheck
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.classic-cycle.de/"
+website: https://www.classic-cycle.de/

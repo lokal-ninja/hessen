@@ -4,8 +4,8 @@ latitude: 50.15263
 longitude: 8.66116
 postcode: "60431"
 city: Frankfurt am Main
-street: "Eschersheimer Landstraße"
-housenumber: 533
-phone: "+49 69 53 08 46 54"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-13:00"
+street: Eschersheimer Landstraße
+housenumber: "533"
+phone: +49 69 53 08 46 54
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

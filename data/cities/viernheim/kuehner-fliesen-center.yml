@@ -1,11 +1,11 @@
 id: 559649115
-type: way
+type: node
 latitude: 49.54804
 longitude: 8.59187
 postcode: "68519"
 city: Viernheim
-street: "Max-Planck-Straße"
-housenumber: 1
-phone: "+49 6204 96870"
+street: Max-Planck-Straße
+housenumber: "1"
+phone: +49 6204 96870
 opening_hours: ""
-website: "https://www.baumarkt-kuehner.de/"
+website: https://www.baumarkt-kuehner.de/

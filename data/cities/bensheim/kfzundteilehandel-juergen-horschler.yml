@@ -1,11 +1,11 @@
 id: 114932753
-type: way
+type: node
 latitude: 49.68744
 longitude: 8.59598
 postcode: "64625"
 city: Bensheim
-street: "An der Hartbrücke"
-housenumber: 16
-phone: "+49 173 3117410"
+street: An der Hartbrücke
+housenumber: "16"
+phone: +49 173 3117410
 opening_hours: ""
 website: ""

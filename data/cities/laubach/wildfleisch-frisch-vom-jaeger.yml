@@ -1,11 +1,11 @@
 id: 67391391
-type: way
+type: node
 latitude: 50.51328
 longitude: 9.02351
 postcode: "35321"
 city: Laubach
-street: "Hauptstraße"
-housenumber: 49
-phone: "+49 6405 7371"
+street: Hauptstraße
+housenumber: "49"
+phone: +49 6405 7371
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 737903327
-type: way
+type: node
 latitude: 50.95382
 longitude: 9.81163
 postcode: "36179"
 city: Bebra
-street: "Hessische Straße"
-housenumber: 34
-phone: "+49 6622 7130"
+street: Hessische Straße
+housenumber: "34"
+phone: +49 6622 7130
 opening_hours: ""
 website: ""

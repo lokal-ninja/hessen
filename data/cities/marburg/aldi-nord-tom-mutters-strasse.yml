@@ -1,11 +1,11 @@
 id: 276214160
-type: way
+type: node
 latitude: 50.84278
 longitude: 8.76563
 postcode: "35041"
 city: Marburg
-street: "Tom-Mutters-Straße"
-housenumber: 9
+street: Tom-Mutters-Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/marburg/tom-mutters-str-9.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/marburg/tom-mutters-str-9.html

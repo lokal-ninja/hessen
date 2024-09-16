@@ -4,8 +4,8 @@ latitude: 51.31384
 longitude: 9.48597
 postcode: "34117"
 city: Kassel
-street: "Karthäuserstraße"
-housenumber: 6
-phone: "+49 561 772711"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-13:00"
-website: "http://www.alheid.de"
+street: Karthäuserstraße
+housenumber: "6"
+phone: +49 561 772711
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-13:00
+website: http://www.alheid.de

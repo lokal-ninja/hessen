@@ -1,11 +1,11 @@
 id: 139939496
-type: way
+type: node
 latitude: 50.41274
 longitude: 9.00496
 postcode: "63667"
 city: Nidda
-street: "Bahnhofstraße"
-housenumber: 30
+street: Bahnhofstraße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

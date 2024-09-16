@@ -1,11 +1,11 @@
 id: 199243621
-type: way
+type: node
 latitude: 50.16134
 longitude: 8.30688
 postcode: ""
 city: Niedernhausen
-street: "Lucas-Cranach-Straße"
-housenumber: 7
+street: Lucas-Cranach-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

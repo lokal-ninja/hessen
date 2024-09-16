@@ -4,8 +4,8 @@ latitude: 50.52801
 longitude: 9.68347
 postcode: "36043"
 city: Fulda
-street: "Ferdinand-Schneider-Straße"
-housenumber: 2
-phone: "+49 661 9429797"
-opening_hours: "Mo - Fr 10:00 - 19:00, Sa 9:00 - 15:00"
-website: "http://sporthaus-fulda.eu"
+street: Ferdinand-Schneider-Straße
+housenumber: "2"
+phone: +49 661 9429797
+opening_hours: Mo - Fr 10:00 - 19:00, Sa 9:00 - 15:00
+website: http://sporthaus-fulda.eu

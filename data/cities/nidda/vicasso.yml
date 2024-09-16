@@ -1,11 +1,11 @@
 id: 171961603
-type: way
+type: node
 latitude: 50.41326
 longitude: 9.00847
 postcode: "63667"
 city: Nidda
-street: "Mühlstraße"
-housenumber: 4
+street: Mühlstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.vicasso.de"
+website: https://www.vicasso.de

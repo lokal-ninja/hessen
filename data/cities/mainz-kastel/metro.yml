@@ -1,11 +1,11 @@
 id: 58093579
-type: way
+type: node
 latitude: 50.0208
 longitude: 8.29016
 postcode: "55252"
 city: Mainz-Kastel
-street: "Boelckestraße"
-housenumber: 78
-phone: "+49 6134 7210"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
+street: Boelckestraße
+housenumber: "78"
+phone: +49 6134 7210
+opening_hours: Mo-Fr 07:00-22:00; Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 225785104
-type: way
+type: node
 latitude: 51.05026
 longitude: 9.24183
 postcode: "34582"
 city: Borken (Hessen)
-street: "Zum Roth"
-housenumber: 13
+street: Zum Roth
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-12:00; Su off"
-website: "http://www.motorgeraete-adam.de/"
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-12:00; Su off
+website: http://www.motorgeraete-adam.de/

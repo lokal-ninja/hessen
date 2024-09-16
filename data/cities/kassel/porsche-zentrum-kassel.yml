@@ -1,11 +1,11 @@
 id: 197713141
-type: way
+type: node
 latitude: 51.30486
 longitude: 9.52849
 postcode: "34123"
 city: Kassel
-street: "Leipziger Straße"
-housenumber: 142
+street: Leipziger Straße
+housenumber: "142"
 phone: ""
 opening_hours: ""
-website: "https://www.porsche-kassel.de/"
+website: https://www.porsche-kassel.de/

@@ -1,11 +1,11 @@
 id: 114807172
-type: way
+type: node
 latitude: 49.67767
 longitude: 8.59463
 postcode: "64625"
 city: Bensheim
-street: "Robert-Bosch-Straße"
+street: Robert-Bosch-Straße
 housenumber: 23,25
 phone: ""
 opening_hours: ""
-website: "https://www.kurlaender.de/"
+website: https://www.kurlaender.de/

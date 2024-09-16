@@ -1,11 +1,11 @@
 id: 229712401
-type: way
+type: node
 latitude: 50.50071
 longitude: 8.65999
 postcode: "35428"
 city: Langgöns
-street: "Hinter dem Niederhofen"
-housenumber: 8
-phone: "+49 6403 8406"
-opening_hours: "Tu-Su 08:00-15:00;Sa 08:00-12:00"
+street: Hinter dem Niederhofen
+housenumber: "8"
+phone: +49 6403 8406
+opening_hours: Tu-Su 08:00-15:00;Sa 08:00-12:00
 website: ""

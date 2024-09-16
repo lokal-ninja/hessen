@@ -1,11 +1,11 @@
 id: 88027594
-type: way
+type: node
 latitude: 51.49305
 longitude: 9.59639
 postcode: ""
 city: Reinhardshagen
-street: "Obere Kasseler Straße"
-housenumber: 49
+street: Obere Kasseler Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:30-13:00"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:30-13:00
 website: ""

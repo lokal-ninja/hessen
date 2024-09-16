@@ -1,11 +1,11 @@
 id: 110786674
-type: way
+type: node
 latitude: 50.75099
 longitude: 9.34964
 postcode: "36304"
 city: Alsfeld
-street: "Aulastraße"
-housenumber: 19
-phone: "+49 6631 708883"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00, Su closed"
-website: "http://www.autoservice-marko-becker.de/"
+street: Aulastraße
+housenumber: "19"
+phone: +49 6631 708883
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00, Su closed
+website: http://www.autoservice-marko-becker.de/

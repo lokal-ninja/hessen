@@ -1,11 +1,11 @@
 id: 95429677
-type: way
+type: node
 latitude: 50.67732
 longitude: 8.82059
 postcode: "35469"
 city: Allendorf
-street: "Rahmengasse"
-housenumber: 2
+street: Rahmengasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

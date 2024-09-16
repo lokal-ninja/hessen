@@ -1,11 +1,11 @@
 id: 220957999
-type: way
+type: node
 latitude: 50.1323
 longitude: 8.91642
 postcode: "63450"
 city: Hanau
-street: "Am Markt"
-housenumber: 11
+street: Am Markt
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

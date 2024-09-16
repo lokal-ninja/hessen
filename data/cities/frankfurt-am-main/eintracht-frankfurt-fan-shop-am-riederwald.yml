@@ -4,8 +4,8 @@ latitude: 50.13263
 longitude: 8.7293
 postcode: "60386"
 city: Frankfurt am Main
-street: "Alfred-Pfaff-Straße"
-housenumber: 1
+street: Alfred-Pfaff-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-16:00"
-website: "https://shop.eintracht.de/"
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-16:00
+website: https://shop.eintracht.de/

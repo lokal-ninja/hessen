@@ -1,11 +1,12 @@
 id: 197904233
-type: way
+type: node
 latitude: 49.9955
 longitude: 7.88315
 postcode: "65385"
 city: Rüdesheim am Rhein
 street: ""
-housenumber: 
-phone: "+49 6722 1064"
-opening_hours: "Straußwirtschaft, nur an wenigen Tagen Ende April, im Mai und September geöffnet"
-website: "https://www.weingut-robert-koenig.de/"
+housenumber: ""
+phone: +49 6722 1064
+opening_hours: '"Straußwirtschaft, nur an wenigen Tagen Ende April, im Mai und September
+    geöffnet"'
+website: https://www.weingut-robert-koenig.de/

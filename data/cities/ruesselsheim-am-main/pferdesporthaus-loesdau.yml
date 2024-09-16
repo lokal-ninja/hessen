@@ -1,11 +1,11 @@
 id: 208484272
-type: way
+type: node
 latitude: 49.97579
 longitude: 8.44814
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Alexander-Fleming-Ring"
-housenumber: 39
-phone: "+49 6142 161699"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.loesdau.de/pferdesporthaeuser/loesdau-ruesselsheim/"
+street: Alexander-Fleming-Ring
+housenumber: "39"
+phone: +49 6142 161699
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.loesdau.de/pferdesporthaeuser/loesdau-ruesselsheim/

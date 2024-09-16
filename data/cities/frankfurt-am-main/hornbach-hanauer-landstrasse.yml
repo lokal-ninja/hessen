@@ -1,11 +1,11 @@
 id: 37406604
-type: way
+type: node
 latitude: 50.12736
 longitude: 8.75033
 postcode: "60386"
 city: Frankfurt am Main
-street: "Hanauer Landstraße"
-housenumber: 477
+street: Hanauer Landstraße
+housenumber: "477"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.67101
 longitude: 9.76773
 postcode: "36088"
 city: Hünfeld
-street: "Josefstraße"
-housenumber: 16
+street: Josefstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "http://www.norma.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: http://www.norma.de/

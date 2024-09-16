@@ -1,11 +1,11 @@
 id: 281147044
-type: way
+type: node
 latitude: 50.04437
 longitude: 8.23111
 postcode: "65203"
 city: Wiesbaden
-street: "Dunantstraße"
-housenumber: 14
+street: Dunantstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-19:00; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-19:00; PH off
 website: ""

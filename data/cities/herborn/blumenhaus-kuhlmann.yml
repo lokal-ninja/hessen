@@ -1,11 +1,11 @@
 id: 1024497802
-type: way
+type: node
 latitude: 50.6871
 longitude: 8.30529
 postcode: "35745"
 city: Herborn
-street: "Dr.-Siegfried-Straße"
-housenumber: 1
-phone: "+49 2772 3325"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00; Su 10:00-12:00"
-website: "https://www.blumenhaus-kuhlmann.de/"
+street: Dr.-Siegfried-Straße
+housenumber: "1"
+phone: +49 2772 3325
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-14:00; Su 10:00-12:00
+website: https://www.blumenhaus-kuhlmann.de/

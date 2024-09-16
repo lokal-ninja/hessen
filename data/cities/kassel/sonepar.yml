@@ -1,11 +1,11 @@
 id: 202342306
-type: way
+type: node
 latitude: 51.3095
 longitude: 9.5467
 postcode: "34123"
 city: Kassel
-street: "Mündener Straße"
-housenumber: 16
+street: Mündener Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://www.sonepar.de/"
+website: https://www.sonepar.de/

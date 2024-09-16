@@ -4,8 +4,8 @@ latitude: 51.27725
 longitude: 9.54352
 postcode: ""
 city: Lohfelden
-street: "Hauptstraße"
-housenumber: 49
+street: Hauptstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.sporthaussolms.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.sporthaussolms.de

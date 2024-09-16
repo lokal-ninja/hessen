@@ -4,8 +4,8 @@ latitude: 50.43566
 longitude: 8.68346
 postcode: "35510"
 city: Butzbach
-street: "Philipp-Reis-Straße"
-housenumber: 4
+street: Philipp-Reis-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

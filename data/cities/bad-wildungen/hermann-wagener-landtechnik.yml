@@ -1,11 +1,11 @@
 id: 203511568
-type: way
+type: node
 latitude: 51.13398
 longitude: 9.17554
 postcode: "34537"
 city: Bad Wildungen
-street: "Ederstraße"
-housenumber: 
+street: Ederstraße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

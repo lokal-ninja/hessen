@@ -1,11 +1,11 @@
 id: 199253653
-type: way
+type: node
 latitude: 50.16153
 longitude: 8.31416
 postcode: "65527"
 city: Niedernhausen
-street: "Austraße"
-housenumber: 12
-phone: "+49 6127 9999774"
+street: Austraße
+housenumber: "12"
+phone: +49 6127 9999774
 opening_hours: ""
-website: "https://www.auktionshaus-schreiber.de"
+website: https://www.auktionshaus-schreiber.de

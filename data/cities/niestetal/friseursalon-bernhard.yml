@@ -1,11 +1,11 @@
 id: 27617680
-type: way
+type: node
 latitude: 51.3046
 longitude: 9.58171
 postcode: "34266"
 city: Niestetal
-street: "Umbachsweg"
-housenumber: 19
+street: Umbachsweg
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

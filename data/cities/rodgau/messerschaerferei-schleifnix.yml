@@ -4,8 +4,8 @@ latitude: 50.02497
 longitude: 8.88422
 postcode: "63110"
 city: Rodgau
-street: "Hintergasse"
-housenumber: 44
+street: Hintergasse
+housenumber: "44"
 phone: ""
-opening_hours: "We 18:00-19:00; Sa 12:00-14:00"
-website: "https://www.schleifnix.de/"
+opening_hours: We 18:00-19:00; Sa 12:00-14:00
+website: https://www.schleifnix.de/

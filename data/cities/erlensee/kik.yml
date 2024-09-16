@@ -1,11 +1,11 @@
 id: 212702300
-type: way
+type: node
 latitude: 50.15483
 longitude: 8.97849
 postcode: "63526"
 city: Erlensee
-street: "Dieselstraße"
-housenumber: 3
+street: Dieselstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

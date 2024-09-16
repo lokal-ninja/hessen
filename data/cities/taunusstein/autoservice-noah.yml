@@ -1,11 +1,11 @@
 id: 111855084
-type: way
+type: node
 latitude: 50.15218
 longitude: 8.19608
 postcode: "65232"
 city: Taunusstein
-street: "Platter Straße"
-housenumber: 
+street: Platter Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 09:00-14:00"
-website: "https://www.autoservice-noah.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 09:00-14:00
+website: https://www.autoservice-noah.de/

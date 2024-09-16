@@ -4,8 +4,8 @@ latitude: 50.1115
 longitude: 8.68472
 postcode: "60311"
 city: Frankfurt am Main
-street: "Domstraße"
-housenumber: 6
-phone: "+49 69 90738500"
-opening_hours: "We-Fr 12:00-18:00; Sa 11:00-17:00"
+street: Domstraße
+housenumber: "6"
+phone: +49 69 90738500
+opening_hours: We-Fr 12:00-18:00; Sa 11:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.8724
 longitude: 9.71695
 postcode: "36251"
 city: Bad Hersfeld
-street: "Friedloser Straße"
-housenumber: 28
-phone: "+49 6621 917647"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.schul-zeit.de/"
+street: Friedloser Straße
+housenumber: "28"
+phone: +49 6621 917647
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.schul-zeit.de/

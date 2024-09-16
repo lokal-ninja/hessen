@@ -4,8 +4,8 @@ latitude: 50.66089
 longitude: 8.89061
 postcode: "35466"
 city: Rabenau
-street: "Hauptstraße"
-housenumber: 7
-phone: "+49 6407 9060919"
-opening_hours: "nach Vereinbarung"
-website: "http://www.fahrradscheune-rabenau.de/"
+street: Hauptstraße
+housenumber: "7"
+phone: +49 6407 9060919
+opening_hours: '"nach Vereinbarung"'
+website: http://www.fahrradscheune-rabenau.de/

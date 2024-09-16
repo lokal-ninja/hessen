@@ -4,8 +4,10 @@ latitude: 50.13394
 longitude: 8.52711
 postcode: "65843"
 city: Sulzbach (Taunus)
-street: "Hauptstraße"
-housenumber: 30
-phone: "+49 6196 73558"
-opening_hours: "Montag	        Geschlossen Dienstag	       Geschlossen Mittwoch	      Geschlossen Donnerstag	09:00–13:00, 15:00–18:00 Freitag	        09:00–13:00, 15:00–18:00 Samstag	        08:30–12:00 Sonntag	        Geschlossen"
-website: "https://www.feinkost-weber.de/"
+street: Hauptstraße
+housenumber: "30"
+phone: +49 6196 73558
+opening_hours: "Montag\t        Geschlossen Dienstag\t       Geschlossen Mittwoch\t
+    \     Geschlossen Donnerstag\t09:00–13:00, 15:00–18:00 Freitag\t        09:00–13:00,
+    15:00–18:00 Samstag\t        08:30–12:00 Sonntag\t        Geschlossen"
+website: https://www.feinkost-weber.de/

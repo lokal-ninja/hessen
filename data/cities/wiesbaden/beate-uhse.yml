@@ -4,8 +4,8 @@ latitude: 50.01881
 longitude: 8.28897
 postcode: "55252"
 city: Wiesbaden
-street: "Boelckestraße"
-housenumber: 70
-phone: "+49 6134 256947"
-opening_hours: "Mo-Fr 10:00 - 22:00"
-website: "https://www.redstore-mainz.de/"
+street: Boelckestraße
+housenumber: "70"
+phone: +49 6134 256947
+opening_hours: Mo-Fr 10:00 - 22:00
+website: https://www.redstore-mainz.de/

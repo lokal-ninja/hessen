@@ -1,11 +1,11 @@
 id: 93325085
-type: way
+type: node
 latitude: 50.01404
 longitude: 8.37002
 postcode: "65239"
 city: Hochheim am Main
-street: "Dr.-Ruben-Rausing-Straße"
+street: Dr.-Ruben-Rausing-Straße
 housenumber: 2a
-phone: "+49-6146-2219"
+phone: +49-6146-2219
 opening_hours: ""
-website: "https://siegfried-scania.de/"
+website: https://siegfried-scania.de/

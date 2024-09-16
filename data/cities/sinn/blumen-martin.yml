@@ -1,11 +1,11 @@
 id: 126548982
-type: way
+type: node
 latitude: 50.6325
 longitude: 8.32721
 postcode: "35764"
 city: Sinn
-street: "Bundesstraße"
-housenumber: 1
+street: Bundesstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://blumenmartin.business.site/"
+website: https://blumenmartin.business.site/

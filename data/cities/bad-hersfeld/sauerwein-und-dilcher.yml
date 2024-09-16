@@ -1,11 +1,11 @@
 id: 38102762
-type: way
+type: node
 latitude: 50.85942
 longitude: 9.71516
 postcode: "36251"
 city: Bad Hersfeld
-street: "In den Giesen"
-housenumber: 7
+street: In den Giesen
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.sauerwein-dilcher.de/"
+website: https://www.sauerwein-dilcher.de/

@@ -4,8 +4,8 @@ latitude: 49.85766
 longitude: 8.57931
 postcode: "64347"
 city: Griesheim
-street: "Bessunger Straße"
-housenumber: 187
-phone: "+49-6155-63928"
-opening_hours: "Mo-Fr 08:00-12:30; Mo, Tu, Th, Fr 14:30-18:00; Sa 07:00-12:30"
-website: "https://www.metzgerei-ehmann.de/"
+street: Bessunger Straße
+housenumber: "187"
+phone: +49-6155-63928
+opening_hours: Mo-Fr 08:00-12:30; Mo, Tu, Th, Fr 14:30-18:00; Sa 07:00-12:30
+website: https://www.metzgerei-ehmann.de/

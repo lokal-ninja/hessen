@@ -1,11 +1,11 @@
 id: 91840924
-type: way
+type: node
 latitude: 50.79535
 longitude: 8.57085
 postcode: "35075"
 city: Gladenbach
-street: "Runzhäuser Straße"
-housenumber: 10
+street: Runzhäuser Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://gaertnerei-kurz-gladenbach.de"
+website: https://gaertnerei-kurz-gladenbach.de

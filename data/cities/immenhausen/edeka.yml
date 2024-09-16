@@ -1,11 +1,11 @@
 id: 1246731081
-type: way
+type: node
 latitude: 51.42829
 longitude: 9.46868
 postcode: "34376"
 city: Immenhausen
-street: "Grebensteiner Straße"
-housenumber: 11
-phone: "+49 5673 925386"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.neukauf-hofmann.de/"
+street: Grebensteiner Straße
+housenumber: "11"
+phone: +49 5673 925386
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.neukauf-hofmann.de/

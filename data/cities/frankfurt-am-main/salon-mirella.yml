@@ -4,8 +4,8 @@ latitude: 50.15665
 longitude: 8.65554
 postcode: "60431"
 city: Frankfurt am Main
-street: "Am Weißen Stein"
-housenumber: 19
-phone: "+4969. 52 05 4"
-opening_hours: "Mo-Fr 09:00-13:00, Mo-Th 16:00-19:30, Fr 15:30-18:30"
+street: Am Weißen Stein
+housenumber: "19"
+phone: +4969. 52 05 4
+opening_hours: Mo-Fr 09:00-13:00, Mo-Th 16:00-19:30, Fr 15:30-18:30
 website: ""

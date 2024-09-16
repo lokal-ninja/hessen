@@ -4,8 +4,8 @@ latitude: 50.59142
 longitude: 8.96014
 postcode: "35305"
 city: Grünberg
-street: "Marktplatz"
-housenumber: 7
-phone: "+49 6401 90147"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:30-14:00"
-website: "https://www.foto-halbich.de/"
+street: Marktplatz
+housenumber: "7"
+phone: +49 6401 90147
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:30-14:00
+website: https://www.foto-halbich.de/

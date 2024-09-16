@@ -1,11 +1,11 @@
 id: 30668137
-type: way
+type: node
 latitude: 50.53714
 longitude: 8.6509
 postcode: "35440"
 city: Linden
-street: "Robert-Bosch-Straße"
-housenumber: 7
-phone: "+49 6403 776607"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.majo-markenschuhe.de/linden"
+street: Robert-Bosch-Straße
+housenumber: "7"
+phone: +49 6403 776607
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.majo-markenschuhe.de/linden

@@ -4,8 +4,8 @@ latitude: 50.12395
 longitude: 8.70317
 postcode: "60385"
 city: Frankfurt am Main
-street: "Berger Straße"
-housenumber: 131
+street: Berger Straße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.vintagerevivals.de/de/"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.vintagerevivals.de/de/

@@ -1,11 +1,11 @@
 id: 205406837
-type: way
+type: node
 latitude: 49.95235
 longitude: 8.95255
 postcode: "64832"
 city: Babenhausen
-street: "Hinter der Altdörfer Kirche"
-housenumber: 15
+street: Hinter der Altdörfer Kirche
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 319273819
-type: way
+type: node
 latitude: 51.29407
 longitude: 8.61389
 postcode: "34508"
 city: Willingen (Upland)
-street: "Waldecker Straße"
-housenumber: 11
+street: Waldecker Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-17:00"
-website: "https://www.nkd.com/de_de"
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-17:00
+website: https://www.nkd.com/de_de

@@ -1,11 +1,11 @@
 id: 507789546
-type: way
+type: node
 latitude: 50.06969
 longitude: 8.48532
 postcode: "65795"
 city: Hattersheim
-street: "Hauptstraße"
-housenumber: 40
+street: Hauptstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo,We,Th 08:00-13:00, Mo 14:00-18:00, Tu,Fr 08:00-13:00; PH,Sa,Su off"
-website: "https://www.sanitaetshaus-engelke.de"
+opening_hours: Mo,We,Th 08:00-13:00, Mo 14:00-18:00, Tu,Fr 08:00-13:00; PH,Sa,Su off
+website: https://www.sanitaetshaus-engelke.de

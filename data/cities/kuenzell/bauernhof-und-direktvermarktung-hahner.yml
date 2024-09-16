@@ -4,8 +4,8 @@ latitude: 50.54546
 longitude: 9.71299
 postcode: "36093"
 city: Künzell
-street: "Fuldaer Straße"
-housenumber: 14
-phone: "+49 661 38189"
-opening_hours: "Mo,Th 08:00-18:00, Sa 08:00-12:00"
-website: "http://www.bauernhof-hahner.de/"
+street: Fuldaer Straße
+housenumber: "14"
+phone: +49 661 38189
+opening_hours: Mo,Th 08:00-18:00, Sa 08:00-12:00
+website: http://www.bauernhof-hahner.de/

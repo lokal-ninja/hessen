@@ -1,11 +1,11 @@
 id: 825976200
-type: way
+type: node
 latitude: 51.339
 longitude: 9.49018
 postcode: "34127"
 city: Kassel
-street: "Niedervellmarer Straße"
-housenumber: 2
+street: Niedervellmarer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/kassel/niedervellmarer-strasse-2.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/hessen/kassel/niedervellmarer-strasse-2.html

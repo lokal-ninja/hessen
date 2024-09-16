@@ -4,8 +4,8 @@ latitude: 50.12672
 longitude: 8.70463
 postcode: "60385"
 city: Frankfurt am Main
-street: "Wiesenstraße"
-housenumber: 34
+street: Wiesenstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

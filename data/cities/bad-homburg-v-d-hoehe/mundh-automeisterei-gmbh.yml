@@ -1,11 +1,11 @@
 id: 990162537
-type: way
+type: node
 latitude: 50.23043
 longitude: 8.60489
 postcode: "61348"
 city: Bad Homburg v.d. Höhe
-street: "Heuchelheimer Straße"
-housenumber: 8
-phone: "+49 6172 969356"
+street: Heuchelheimer Straße
+housenumber: "8"
+phone: +49 6172 969356
 opening_hours: ""
-website: "https://www.automeisterei.com"
+website: https://www.automeisterei.com

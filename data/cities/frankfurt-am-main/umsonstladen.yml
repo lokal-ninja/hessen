@@ -4,8 +4,8 @@ latitude: 50.1154
 longitude: 8.68954
 postcode: "60313"
 city: Frankfurt am Main
-street: "Klapperfeldstraße"
-housenumber: 5
+street: Klapperfeldstraße
+housenumber: "5"
 phone: ""
-opening_hours: "PH,Mo-Su 00:00-24:00"
+opening_hours: PH,Mo-Su 00:00-24:00
 website: ""

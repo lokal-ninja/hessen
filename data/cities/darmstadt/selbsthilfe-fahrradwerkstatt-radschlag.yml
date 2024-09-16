@@ -1,11 +1,11 @@
 id: 1303328337
-type: way
+type: node
 latitude: 49.86279
 longitude: 8.68043
 postcode: "64287"
 city: Darmstadt
-street: "Franziska-Braun-Straße"
-housenumber: 
+street: Franziska-Braun-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

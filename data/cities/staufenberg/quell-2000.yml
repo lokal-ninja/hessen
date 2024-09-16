@@ -1,11 +1,11 @@
 id: 58646348
-type: way
+type: node
 latitude: 50.66957
 longitude: 8.77987
 postcode: "35460"
 city: Staufenberg
-street: "Buchwaldstraße"
-housenumber: 4
+street: Buchwaldstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

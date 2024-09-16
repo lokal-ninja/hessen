@@ -1,11 +1,11 @@
 id: 708417005
-type: way
+type: node
 latitude: 51.11891
 longitude: 9.13174
 postcode: "34537"
 city: Bad Wildungen
-street: "Itzelstraße"
-housenumber: 32
-phone: "+49 5621 963155"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-18:00"
-website: "https://www.logo-getraenke.de/"
+street: Itzelstraße
+housenumber: "32"
+phone: +49 5621 963155
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-18:00
+website: https://www.logo-getraenke.de/

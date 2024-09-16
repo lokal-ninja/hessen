@@ -1,11 +1,11 @@
 id: 205489528
-type: way
+type: node
 latitude: 50.06703
 longitude: 8.43513
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Rheingaustraße"
-housenumber: 130
+street: Rheingaustraße
+housenumber: "130"
 phone: ""
 opening_hours: ""
-website: "https://www.goethling-kaufmann.de"
+website: https://www.goethling-kaufmann.de

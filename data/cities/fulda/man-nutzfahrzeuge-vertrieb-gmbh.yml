@@ -1,11 +1,11 @@
 id: 130186285
-type: way
+type: node
 latitude: 50.53679
 longitude: 9.67817
 postcode: "36043"
 city: Fulda
-street: "Mainstraße"
-housenumber: 9
+street: Mainstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 220436748
-type: way
+type: node
 latitude: 49.97892
 longitude: 8.41371
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Am Keglerheim"
-housenumber: 13
-phone: "+49 6142 174060"
-opening_hours: "closed"
-website: "https://www.autopark-ruesselsheim.de/"
+street: Am Keglerheim
+housenumber: "13"
+phone: +49 6142 174060
+opening_hours: closed
+website: https://www.autopark-ruesselsheim.de/

@@ -1,11 +1,11 @@
 id: 459198540
-type: way
+type: node
 latitude: 50.68316
 longitude: 9.75813
 postcode: "36088"
 city: Hünfeld
-street: "Hersfelder Straße"
-housenumber: 39
+street: Hersfelder Straße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

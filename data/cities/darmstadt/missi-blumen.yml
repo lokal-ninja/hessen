@@ -1,11 +1,11 @@
 id: 165951121
-type: way
+type: node
 latitude: 49.86637
 longitude: 8.6561
 postcode: ""
 city: Darmstadt
-street: "Karlstraße"
+street: Karlstraße
 housenumber: 65a
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-16:00; PH 09:00-16:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 09:00-16:00; PH 09:00-16:00
 website: ""

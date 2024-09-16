@@ -1,11 +1,11 @@
 id: 150891608
-type: way
+type: node
 latitude: 50.59642
 longitude: 8.38161
 postcode: "35630"
 city: Ehringshausen
-street: "Bahnhofstraße"
-housenumber: 65
+street: Bahnhofstraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

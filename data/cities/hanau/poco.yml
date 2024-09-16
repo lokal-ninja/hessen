@@ -1,11 +1,11 @@
 id: 199396112
-type: way
+type: node
 latitude: 50.11596
 longitude: 8.92603
 postcode: "63450"
 city: Hanau
-street: "Kinzigheimer Weg"
-housenumber: 132
+street: Kinzigheimer Weg
+housenumber: "132"
 phone: ""
 opening_hours: ""
-website: "https://www.poco.de/filiale/poco-hanau/77"
+website: https://www.poco.de/filiale/poco-hanau/77

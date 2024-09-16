@@ -1,11 +1,11 @@
 id: 348699840
-type: way
+type: node
 latitude: 50.67229
 longitude: 9.76588
 postcode: "36088"
 city: Hünfeld
-street: "Fuldaer Berg"
-housenumber: 46
-phone: "+49 6652 96640"
+street: Fuldaer Berg
+housenumber: "46"
+phone: +49 6652 96640
 opening_hours: ""
-website: "https://www.fuldaerzeitung.de/"
+website: https://www.fuldaerzeitung.de/

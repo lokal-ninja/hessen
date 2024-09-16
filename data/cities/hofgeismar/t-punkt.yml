@@ -4,8 +4,8 @@ latitude: 51.49422
 longitude: 9.38156
 postcode: "34369"
 city: Hofgeismar
-street: "Mühlenstraße"
-housenumber: 1
+street: Mühlenstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:30,14:00-18:00;Sa 10:00-13:00"
-website: "https://shopseite.telekom.de/west/hofgeismar/muehlenstr-1"
+opening_hours: Mo-Fr 10:00-13:30,14:00-18:00;Sa 10:00-13:00
+website: https://shopseite.telekom.de/west/hofgeismar/muehlenstr-1

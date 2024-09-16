@@ -1,11 +1,11 @@
 id: 1267116006
-type: way
+type: node
 latitude: 50.51447
 longitude: 8.61713
 postcode: "35625"
 city: Hüttenberg
-street: "Wetzlarer Straße"
-housenumber: 16
-phone: "+49 6403 976090"
-opening_hours: "Mo-Fr 07:30-12:00,13:00-17:00; PH off"
-website: "https://autohaus-serafin.de/"
+street: Wetzlarer Straße
+housenumber: "16"
+phone: +49 6403 976090
+opening_hours: Mo-Fr 07:30-12:00,13:00-17:00; PH off
+website: https://autohaus-serafin.de/

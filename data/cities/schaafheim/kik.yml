@@ -1,11 +1,11 @@
 id: 836480939
-type: way
+type: node
 latitude: 49.92425
 longitude: 9.01309
 postcode: "64850"
 city: Schaafheim
-street: "Großostheimer Straße"
-housenumber: 20
+street: Großostheimer Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

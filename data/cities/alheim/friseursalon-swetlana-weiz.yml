@@ -1,11 +1,11 @@
 id: 95360869
-type: way
+type: node
 latitude: 51.04706
 longitude: 9.66558
 postcode: "36211"
 city: Alheim
-street: "Im Graben"
-housenumber: 2
+street: Im Graben
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

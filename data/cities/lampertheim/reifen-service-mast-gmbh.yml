@@ -4,8 +4,8 @@ latitude: 49.59837
 longitude: 8.48639
 postcode: "68623"
 city: Lampertheim
-street: "Gaußstraße"
-housenumber: 20
-phone: "+49 6206 157340"
-opening_hours: "Mo-Fr 8:00-18:00; Sa 9:00-13:00"
-website: "https://www.reifenmast.de/"
+street: Gaußstraße
+housenumber: "20"
+phone: +49 6206 157340
+opening_hours: Mo-Fr 8:00-18:00; Sa 9:00-13:00
+website: https://www.reifenmast.de/

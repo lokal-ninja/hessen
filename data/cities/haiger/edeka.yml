@@ -1,11 +1,11 @@
 id: 222977259
-type: way
+type: node
 latitude: 50.79417
 longitude: 8.20457
 postcode: "35708"
 city: Haiger
-street: "Haigerer Straße"
-housenumber: 8
+street: Haigerer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00
 website: ""

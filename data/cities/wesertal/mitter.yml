@@ -1,11 +1,11 @@
 id: 238119387
-type: way
+type: node
 latitude: 51.62311
 longitude: 9.55557
 postcode: "34399"
 city: Wesertal
-street: "Deckenstraße"
-housenumber: 3
+street: Deckenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

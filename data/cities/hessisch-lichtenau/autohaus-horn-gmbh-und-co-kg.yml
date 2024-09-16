@@ -1,11 +1,11 @@
 id: 430492943
-type: way
+type: node
 latitude: 51.20033
 longitude: 9.71816
 postcode: "37235"
 city: Hessisch Lichtenau
-street: "Mühlweg"
-housenumber: 25
+street: Mühlweg
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:45-18:00"
+opening_hours: Mo-Sa 07:45-18:00
 website: ""

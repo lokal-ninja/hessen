@@ -1,11 +1,11 @@
 id: 193015583
-type: way
+type: node
 latitude: 50.31123
 longitude: 9.46668
 postcode: "36396"
 city: Steinau an der Straße
-street: "Ringstraße"
-housenumber: 60
+street: Ringstraße
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

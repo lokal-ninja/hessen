@@ -4,8 +4,8 @@ latitude: 50.0703
 longitude: 8.84371
 postcode: "63179"
 city: Obertshausen
-street: "Schulstraße"
-housenumber: 13
+street: Schulstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 414858342
-type: way
+type: node
 latitude: 50.49071
 longitude: 8.47343
 postcode: "35641"
 city: Schöffengrund
-street: "Steinstraße"
-housenumber: 18
-phone: "+49 6445 92530"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://rolladen-bepler.de"
+street: Steinstraße
+housenumber: "18"
+phone: +49 6445 92530
+opening_hours: Mo-Fr 08:00-17:00
+website: https://rolladen-bepler.de

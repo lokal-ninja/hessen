@@ -1,11 +1,11 @@
 id: 295396599
-type: way
+type: node
 latitude: 50.12479
 longitude: 8.70847
 postcode: "60385"
 city: Frankfurt am Main
-street: "Roßdorfer Straße"
-housenumber: 47
+street: Roßdorfer Straße
+housenumber: "47"
 phone: ""
-opening_hours: "PH,Mo-Su 11:00-22:00"
+opening_hours: PH,Mo-Su 11:00-22:00
 website: ""

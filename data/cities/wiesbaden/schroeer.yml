@@ -4,8 +4,8 @@ latitude: 50.08044
 longitude: 8.23924
 postcode: "65185"
 city: Wiesbaden
-street: "Friedrichstraße"
-housenumber: 41
-phone: "+49 611 36003888"
-opening_hours: "Mo-Fr 05:00-18:30; Sa 07:00-14:00"
+street: Friedrichstraße
+housenumber: "41"
+phone: +49 611 36003888
+opening_hours: Mo-Fr 05:00-18:30; Sa 07:00-14:00
 website: ""

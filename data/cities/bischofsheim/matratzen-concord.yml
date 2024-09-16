@@ -1,11 +1,11 @@
 id: 144909870
-type: way
+type: node
 latitude: 49.97698
 longitude: 8.37738
 postcode: ""
 city: Bischofsheim
-street: "Am Schindberg"
-housenumber: 4
-phone: "+49 6144 336635"
+street: Am Schindberg
+housenumber: "4"
+phone: +49 6144 336635
 opening_hours: ""
 website: ""

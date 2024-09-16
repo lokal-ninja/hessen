@@ -1,11 +1,11 @@
 id: 220060354
-type: way
+type: node
 latitude: 50.77456
 longitude: 8.30341
 postcode: "35684"
 city: Dillenburg
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 106a
-phone: "+49 176 64702854"
+phone: +49 176 64702854
 opening_hours: ""
 website: ""

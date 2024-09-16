@@ -4,8 +4,8 @@ latitude: 49.98256
 longitude: 7.96548
 postcode: "65366"
 city: Geisenheim
-street: "Rheinstraße"
-housenumber: 1
+street: Rheinstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.holidayland-geisenheim.de/"
+website: https://www.holidayland-geisenheim.de/

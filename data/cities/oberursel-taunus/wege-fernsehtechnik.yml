@@ -4,8 +4,9 @@ latitude: 50.1838
 longitude: 8.59711
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Kurmainzer Straße"
-housenumber: 32
-phone: "+49 6171 8311"
-opening_hours: "Mo-Tu 09:00-13:00,15:00-18:00; We 09:00-12:00; Th-Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00"
-website: "https://wege-fernsehtechnik.de/"
+street: Kurmainzer Straße
+housenumber: "32"
+phone: +49 6171 8311
+opening_hours: Mo-Tu 09:00-13:00,15:00-18:00; We 09:00-12:00; Th-Fr 09:00-13:00,15:00-18:00;
+    Sa 09:00-12:00
+website: https://wege-fernsehtechnik.de/

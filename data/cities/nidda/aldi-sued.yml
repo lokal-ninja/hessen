@@ -1,11 +1,11 @@
 id: 1231588202
-type: way
+type: node
 latitude: 50.40828
 longitude: 9.00664
 postcode: "63667"
 city: Nidda
-street: "Unter der Stadt"
-housenumber: 6
+street: Unter der Stadt
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
+website: https://www.aldi-sued.de/

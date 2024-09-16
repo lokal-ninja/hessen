@@ -1,11 +1,11 @@
 id: 27518770
-type: way
+type: node
 latitude: 50.01463
 longitude: 8.79387
 postcode: "63128"
 city: Dietzenbach
-street: "Albert-Einstein-Straße"
-housenumber: 1
+street: Albert-Einstein-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

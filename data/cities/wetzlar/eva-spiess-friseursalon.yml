@@ -4,8 +4,8 @@ latitude: 50.53139
 longitude: 8.494
 postcode: "35580"
 city: Wetzlar
-street: "Altwies"
-housenumber: 5
-phone: "+49 6441 23550"
-opening_hours: "Tu-Fr 08:00-18:00"
+street: Altwies
+housenumber: "5"
+phone: +49 6441 23550
+opening_hours: Tu-Fr 08:00-18:00
 website: ""

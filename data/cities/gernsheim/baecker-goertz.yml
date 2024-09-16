@@ -4,8 +4,8 @@ latitude: 49.75293
 longitude: 8.49283
 postcode: "64579"
 city: Gernsheim
-street: "Bensheimer Straße"
-housenumber: 7
-phone: "+49 6258 9496654"
-opening_hours: "Mo-Sa 06:00-20:00; Su 07:30-12:00"
-website: "https://www.baeckergoertz.de/#filialenstart/filialfinder"
+street: Bensheimer Straße
+housenumber: "7"
+phone: +49 6258 9496654
+opening_hours: Mo-Sa 06:00-20:00; Su 07:30-12:00
+website: https://www.baeckergoertz.de/#filialenstart/filialfinder

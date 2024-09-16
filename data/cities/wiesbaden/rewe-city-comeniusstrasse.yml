@@ -1,11 +1,11 @@
 id: 379056052
-type: way
+type: node
 latitude: 50.08916
 longitude: 8.22757
 postcode: "65195"
 city: Wiesbaden
-street: "Comeniusstraße"
-housenumber: 11
+street: Comeniusstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

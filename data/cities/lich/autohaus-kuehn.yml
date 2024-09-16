@@ -1,11 +1,11 @@
 id: 135464211
-type: way
+type: node
 latitude: 50.5391
 longitude: 8.88687
 postcode: "35423"
 city: Lich
-street: "Grünberger Straße"
-housenumber: 15
+street: Grünberger Straße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

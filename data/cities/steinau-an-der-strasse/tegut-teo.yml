@@ -1,11 +1,11 @@
 id: 1182945803
-type: way
+type: node
 latitude: 50.37036
 longitude: 9.42188
 postcode: "36396"
 city: Steinau an der Straße
-street: "Heinz-Désor-Straße"
+street: Heinz-Désor-Straße
 housenumber: 3a
 phone: ""
-opening_hours: "24/7"
-website: "https://www.tegut.com/teo.html"
+opening_hours: 24/7
+website: https://www.tegut.com/teo.html

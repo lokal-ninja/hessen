@@ -1,11 +1,11 @@
 id: 332357237
-type: way
+type: node
 latitude: 50.30441
 longitude: 8.57209
 postcode: "61273"
 city: Wehrheim
-street: "Gartenstraße"
-housenumber: 8
+street: Gartenstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

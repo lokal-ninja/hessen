@@ -1,11 +1,11 @@
 id: 236515883
-type: way
+type: node
 latitude: 49.68674
 longitude: 8.44587
 postcode: "68647"
 city: Biblis
-street: "Berliner Straße"
-housenumber: 4
+street: Berliner Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

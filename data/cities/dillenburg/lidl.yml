@@ -1,11 +1,11 @@
 id: 161573668
-type: way
+type: node
 latitude: 50.73367
 longitude: 8.29325
 postcode: "35683"
 city: Dillenburg
-street: "Herwigstraße"
-housenumber: 28
+street: Herwigstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

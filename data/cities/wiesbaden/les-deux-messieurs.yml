@@ -4,8 +4,8 @@ latitude: 50.08066
 longitude: 8.24188
 postcode: "65183"
 city: Wiesbaden
-street: "Marktstraße"
-housenumber: 2
-phone: "+49 611 16661310"
-opening_hours: "Mo-Fr 09:00-17:00, Sa 08:00-19:00, Su 08:00-18:00"
-website: "https://www.les-deux-messieurs.de/"
+street: Marktstraße
+housenumber: "2"
+phone: +49 611 16661310
+opening_hours: Mo-Fr 09:00-17:00, Sa 08:00-19:00, Su 08:00-18:00
+website: https://www.les-deux-messieurs.de/

@@ -1,11 +1,11 @@
 id: 279075921
-type: way
+type: node
 latitude: 49.85646
 longitude: 8.6332
 postcode: "64295"
 city: Darmstadt
-street: "Eschollbrücker Straße"
-housenumber: 44
-phone: "+49 6151 30040"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/e-center-patschull-eschollbr%C3%BCcker-stra%C3%9Fe-44/index.jsp"
+street: Eschollbrücker Straße
+housenumber: "44"
+phone: +49 6151 30040
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/e-center-patschull-eschollbr%C3%BCcker-stra%C3%9Fe-44/index.jsp

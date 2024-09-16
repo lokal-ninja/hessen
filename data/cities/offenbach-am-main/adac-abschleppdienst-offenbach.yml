@@ -1,11 +1,11 @@
 id: 199652938
-type: way
+type: node
 latitude: 50.08598
 longitude: 8.746
 postcode: "63069"
 city: Offenbach am Main
-street: "Sprendlinger Landstraße"
-housenumber: 167
+street: Sprendlinger Landstraße
+housenumber: "167"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 100665358
-type: way
+type: node
 latitude: 50.62853
 longitude: 9.50615
 postcode: "36364"
 city: Bad Salzschlirf
-street: "Brückenstraße"
-housenumber: 3
+street: Brückenstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

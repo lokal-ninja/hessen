@@ -4,8 +4,8 @@ latitude: 50.80322
 longitude: 9.61444
 postcode: "36272"
 city: Niederaula
-street: "Hersfelder Straße"
-housenumber: 20
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 08:00-20:00; Su off"
-website: "http://www.lidl.de/"
+street: Hersfelder Straße
+housenumber: "20"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 08:00-20:00; Su off
+website: http://www.lidl.de/

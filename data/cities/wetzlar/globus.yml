@@ -1,11 +1,11 @@
 id: 25726770
-type: way
+type: node
 latitude: 50.56152
 longitude: 8.60723
 postcode: "35582"
 city: Wetzlar
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We 08:00-20:00; Th-Sa 08:00-22:00"
-website: "https://www.globus.de/dutenhofen/index.php"
+opening_hours: Mo-We 08:00-20:00; Th-Sa 08:00-22:00
+website: https://www.globus.de/dutenhofen/index.php

@@ -1,11 +1,11 @@
 id: 137382389
-type: way
+type: node
 latitude: 50.29742
 longitude: 8.25188
 postcode: "65520"
 city: Bad Camberg
-street: "Max-Planck-Straße"
-housenumber: 17
+street: Max-Planck-Straße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

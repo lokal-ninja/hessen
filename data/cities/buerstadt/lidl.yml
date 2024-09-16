@@ -4,8 +4,8 @@ latitude: 49.63794
 longitude: 8.45058
 postcode: "68642"
 city: Bürstadt
-street: "Weidenweg"
-housenumber: 2
+street: Weidenweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/filialen/buerstadt/weidenweg-2.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/filialen/buerstadt/weidenweg-2.html

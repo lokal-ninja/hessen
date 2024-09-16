@@ -1,11 +1,11 @@
 id: 237844290
-type: way
+type: node
 latitude: 50.75964
 longitude: 8.72842
 postcode: "35096"
 city: Weimar (Lahn)
-street: "Haddamshäuser Weg"
-housenumber: 3
+street: Haddamshäuser Weg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

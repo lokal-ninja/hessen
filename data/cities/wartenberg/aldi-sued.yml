@@ -1,11 +1,11 @@
 id: 92016514
-type: way
+type: node
 latitude: 50.62451
 longitude: 9.45201
 postcode: "36367"
 city: Wartenberg
-street: "Am Sportplatz"
-housenumber: 1
+street: Am Sportplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

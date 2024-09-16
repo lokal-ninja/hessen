@@ -4,8 +4,8 @@ latitude: 50.56311
 longitude: 8.50306
 postcode: "35576"
 city: Wetzlar
-street: "Bahnhofstraße"
-housenumber: 20
-phone: "+49 6441 94000"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:30"
-website: "https://shopseite.telekom.de/sued-west/wetzlar/bahnhofstr-20"
+street: Bahnhofstraße
+housenumber: "20"
+phone: +49 6441 94000
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:30
+website: https://shopseite.telekom.de/sued-west/wetzlar/bahnhofstr-20

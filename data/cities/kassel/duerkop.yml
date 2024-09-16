@@ -1,11 +1,11 @@
 id: 124903906
-type: way
+type: node
 latitude: 51.27574
 longitude: 9.52338
 postcode: "34123"
 city: Kassel
-street: "Heinrich-Hertz-Straße"
-housenumber: 27
+street: Heinrich-Hertz-Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.duerkop.de/filialen/kassel-waldau"
+website: https://www.duerkop.de/filialen/kassel-waldau

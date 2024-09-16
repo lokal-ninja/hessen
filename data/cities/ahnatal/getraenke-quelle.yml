@@ -1,11 +1,11 @@
 id: 787240114
-type: way
+type: node
 latitude: 51.36331
 longitude: 9.38808
 postcode: "34292"
 city: Ahnatal
-street: "Dörnbergstraße"
-housenumber: 48
-phone: "+49 5609 8078736"
+street: Dörnbergstraße
+housenumber: "48"
+phone: +49 5609 8078736
 opening_hours: ""
-website: "https://getraenkequelle-hessen.de/"
+website: https://getraenkequelle-hessen.de/

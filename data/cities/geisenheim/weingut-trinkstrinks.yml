@@ -4,8 +4,8 @@ latitude: 49.98217
 longitude: 7.96679
 postcode: "65366"
 city: Geisenheim
-street: "Bischof-Blum-Platz"
-housenumber: 4
-phone: "+49 6722 406097"
-opening_hours: "nach Vereinbarung"
-website: "https://trinks-trinks.de/"
+street: Bischof-Blum-Platz
+housenumber: "4"
+phone: +49 6722 406097
+opening_hours: '"nach Vereinbarung"'
+website: https://trinks-trinks.de/

@@ -1,11 +1,11 @@
 id: 97416320
-type: way
+type: node
 latitude: 50.64006
 longitude: 8.70457
 postcode: "35457"
 city: Lollar
-street: "Rothweg"
-housenumber: 9
+street: Rothweg
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

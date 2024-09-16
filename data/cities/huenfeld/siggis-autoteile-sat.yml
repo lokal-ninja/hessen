@@ -1,11 +1,11 @@
 id: 459557010
-type: way
+type: node
 latitude: 50.68749
 longitude: 9.75509
 postcode: "36088"
 city: Hünfeld
-street: "Rudolf-Diesel-Straße"
-housenumber: 2
+street: Rudolf-Diesel-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
 website: ""

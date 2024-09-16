@@ -4,8 +4,8 @@ latitude: 50.56526
 longitude: 8.50373
 postcode: "35576"
 city: Wetzlar
-street: "Willy-Brandt-Platz"
-housenumber: 5
-phone: "+49 6441 4490 355"
-opening_hours: "Mo-Th 05:00-20:00, Fr 05:00-21:00, Sa 08:00-18:00, Su,PH 09:00-16:00"
-website: "https://www.servicestoredb.de/sst-de/Standortfinder#!/l/wetzlar/willy-brandt-platz-5/360863"
+street: Willy-Brandt-Platz
+housenumber: "5"
+phone: +49 6441 4490 355
+opening_hours: Mo-Th 05:00-20:00, Fr 05:00-21:00, Sa 08:00-18:00, Su,PH 09:00-16:00
+website: https://www.servicestoredb.de/sst-de/Standortfinder#!/l/wetzlar/willy-brandt-platz-5/360863

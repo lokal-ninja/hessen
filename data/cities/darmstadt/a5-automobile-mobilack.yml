@@ -1,11 +1,11 @@
 id: 55229021
-type: way
+type: node
 latitude: 49.88369
 longitude: 8.62916
 postcode: ""
 city: Darmstadt
-street: "Mainzer Straße"
-housenumber: 91
+street: Mainzer Straße
+housenumber: "91"
 phone: ""
 opening_hours: ""
-website: "http://www.a5automobile.de/"
+website: http://www.a5automobile.de/

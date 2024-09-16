@@ -4,8 +4,8 @@ latitude: 51.43418
 longitude: 9.32654
 postcode: "34379"
 city: Calden
-street: "Grebensteiner Straße"
-housenumber: 1
-phone: "+49 5677 6141"
-opening_hours: "Mo, Tu, Th, Fr 07:00-12:00, 15:00-18:00; We 07:00-12:00; Sa 07:00-13:00"
-website: "https://www.edeka.de/eh/hessenring/melanie-eisenhuth-grebensteiner-str.-1/index.jsp"
+street: Grebensteiner Straße
+housenumber: "1"
+phone: +49 5677 6141
+opening_hours: Mo, Tu, Th, Fr 07:00-12:00, 15:00-18:00; We 07:00-12:00; Sa 07:00-13:00
+website: https://www.edeka.de/eh/hessenring/melanie-eisenhuth-grebensteiner-str.-1/index.jsp

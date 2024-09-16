@@ -1,11 +1,12 @@
 id: 138785156
-type: way
+type: node
 latitude: 49.67954
 longitude: 8.62081
 postcode: "64625"
 city: Bensheim
-street: "Gerbergasse"
-housenumber: 9
+street: Gerbergasse
+housenumber: "9"
 phone: ""
-opening_hours: "Tu,We 09:00-12:00, 13:30 - 17:00; Th,Fr 09:00-14:00, Mo,Th,Fr,Sa nach Vereinbarung"
+opening_hours: Tu,We 09:00-12:00, 13:30 - 17:00; Th,Fr 09:00-14:00, Mo,Th,Fr,Sa "nach
+    Vereinbarung"
 website: ""

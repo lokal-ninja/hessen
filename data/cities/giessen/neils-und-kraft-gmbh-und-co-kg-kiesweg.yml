@@ -1,11 +1,11 @@
 id: 93746696
-type: way
+type: node
 latitude: 50.61074
 longitude: 8.70232
 postcode: "35396"
 city: Gießen
-street: "Kiesweg"
-housenumber: 2
+street: Kiesweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

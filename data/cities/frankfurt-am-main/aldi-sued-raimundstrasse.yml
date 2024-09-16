@@ -1,11 +1,11 @@
 id: 28633166
-type: way
+type: node
 latitude: 50.14069
 longitude: 8.66212
 postcode: "60320"
 city: Frankfurt am Main
-street: "Raimundstraße"
-housenumber: 101
+street: Raimundstraße
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://filialen.aldi-sued.de/hessen/frankfurt-ginnheim/raimundstrasse-101"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://filialen.aldi-sued.de/hessen/frankfurt-ginnheim/raimundstrasse-101

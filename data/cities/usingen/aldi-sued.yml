@@ -1,11 +1,11 @@
 id: 45742868
-type: way
+type: node
 latitude: 50.33371
 longitude: 8.52921
 postcode: "61250"
 city: Usingen
-street: "Am Riedborn"
-housenumber: 43
+street: Am Riedborn
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

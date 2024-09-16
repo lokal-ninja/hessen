@@ -4,8 +4,8 @@ latitude: 50.05
 longitude: 8.22723
 postcode: "65203"
 city: Wiesbaden
-street: "Paul-Friedländer-Straße"
-housenumber: 6
+street: Paul-Friedländer-Straße
+housenumber: "6"
 phone: "+4961194698975"
-opening_hours: "Mo-Fr 10:00-15:00; Sa-Su off; PH off"
-website: "https://www.smokestars.de/lagerverkauf/"
+opening_hours: Mo-Fr 10:00-15:00; Sa-Su off; PH off
+website: https://www.smokestars.de/lagerverkauf/

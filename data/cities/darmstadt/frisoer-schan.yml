@@ -4,8 +4,8 @@ latitude: 49.88184
 longitude: 8.65364
 postcode: "64289"
 city: Darmstadt
-street: "Liebfrauenstraße"
-housenumber: 43
-phone: "+49 6151 27 27 72"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 9:00-16:00"
+street: Liebfrauenstraße
+housenumber: "43"
+phone: +49 6151 27 27 72
+opening_hours: Tu-Fr 09:30-19:00; Sa 9:00-16:00
 website: ""

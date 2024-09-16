@@ -4,8 +4,8 @@ latitude: 50.55236
 longitude: 8.50073
 postcode: "35578"
 city: Wetzlar
-street: "Nauborner Straße"
-housenumber: 4
-phone: "+49 152 1785 0690"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+street: Nauborner Straße
+housenumber: "4"
+phone: +49 152 1785 0690
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

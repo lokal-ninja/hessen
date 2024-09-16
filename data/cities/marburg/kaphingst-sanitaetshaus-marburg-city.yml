@@ -4,8 +4,8 @@ latitude: 50.80603
 longitude: 8.76833
 postcode: "35037"
 city: Marburg
-street: "Wilhelmstraße"
-housenumber: 3
-phone: "+49 6421 14452"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.kaphingst.de/sanitaetshaus-marburg-city"
+street: Wilhelmstraße
+housenumber: "3"
+phone: +49 6421 14452
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: https://www.kaphingst.de/sanitaetshaus-marburg-city

@@ -4,8 +4,8 @@ latitude: 50.11546
 longitude: 8.67359
 postcode: "60313"
 city: Frankfurt am Main
-street: "Hochstraße"
-housenumber: 49
+street: Hochstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

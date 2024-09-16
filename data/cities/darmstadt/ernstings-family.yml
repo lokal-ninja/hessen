@@ -4,8 +4,8 @@ latitude: 49.87036
 longitude: 8.65251
 postcode: "64283"
 city: Darmstadt
-street: "Elisabethenstraße"
-housenumber: 12
+street: Elisabethenstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-20:00; Su,PH off"
-website: "https://www.ernstings-family.de/filialen/1377/elisabethenstr.-12-64283-darmstadt"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-20:00; Su,PH off
+website: https://www.ernstings-family.de/filialen/1377/elisabethenstr.-12-64283-darmstadt

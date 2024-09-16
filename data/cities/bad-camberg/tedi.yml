@@ -1,11 +1,11 @@
 id: 234320763
-type: way
+type: node
 latitude: 50.29431
 longitude: 8.25252
 postcode: "65520"
 city: Bad Camberg
-street: "Robert-Bosch-Straße"
-housenumber: 7
+street: Robert-Bosch-Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://stores.tedi.com/tedi-7ed80a2cd083"
+website: https://stores.tedi.com/tedi-7ed80a2cd083

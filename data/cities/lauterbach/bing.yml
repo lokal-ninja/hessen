@@ -1,11 +1,11 @@
 id: 154399036
-type: way
+type: node
 latitude: 50.66035
 longitude: 9.39159
 postcode: "36341"
 city: Lauterbach
-street: "Dornweg"
-housenumber: 24
+street: Dornweg
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

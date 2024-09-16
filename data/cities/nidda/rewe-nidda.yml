@@ -4,8 +4,8 @@ latitude: 50.45465
 longitude: 9.04754
 postcode: "63667"
 city: Nidda
-street: "Frankenstraße"
-housenumber: 52
-phone: "+49 6043 950470"
-opening_hours: "Mo-Sa 06:00-22:00"
+street: Frankenstraße
+housenumber: "52"
+phone: +49 6043 950470
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 215435062
-type: way
+type: node
 latitude: 51.132
 longitude: 9.54621
 postcode: "34212"
 city: Melsungen
-street: "Sandstraße"
-housenumber: 2
-phone: "+49 5661 51923"
-opening_hours: "Mo-Fr 08:30-13:00, 14:00-18:00"
-website: "https://www.rottler.de/melsungen-akustik/"
+street: Sandstraße
+housenumber: "2"
+phone: +49 5661 51923
+opening_hours: Mo-Fr 08:30-13:00, 14:00-18:00
+website: https://www.rottler.de/melsungen-akustik/

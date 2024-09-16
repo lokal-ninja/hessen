@@ -1,11 +1,11 @@
 id: 927291131
-type: way
+type: node
 latitude: 50.53465
 longitude: 8.04877
 postcode: "65599"
 city: Dornburg
-street: "An der B 54"
-housenumber: 1
+street: An der B 54
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

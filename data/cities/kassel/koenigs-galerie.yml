@@ -1,11 +1,11 @@
 id: 41347615
-type: way
+type: node
 latitude: 51.31457
 longitude: 9.49445
 postcode: "34117"
 city: Kassel
-street: "Obere Königsstraße"
-housenumber: 39
+street: Obere Königsstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://koenigsgalerie.de/"
+website: https://koenigsgalerie.de/

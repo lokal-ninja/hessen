@@ -1,11 +1,11 @@
 id: 237003222
-type: way
+type: node
 latitude: 50.70338
 longitude: 8.72251
 postcode: "35112"
 city: Fronhausen
-street: "Hassenhäuser Straße"
-housenumber: 5
+street: Hassenhäuser Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.daniels.land/"
+website: http://www.daniels.land/

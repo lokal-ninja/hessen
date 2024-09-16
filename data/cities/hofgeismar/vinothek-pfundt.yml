@@ -1,11 +1,11 @@
 id: 824150273
-type: way
+type: node
 latitude: 51.52092
 longitude: 9.41853
 postcode: "34369"
 city: Hofgeismar
-street: "Hinterm Dorf"
-housenumber: 10
-phone: "+49 5671 5094084"
-opening_hours: "Mo,Tu off; We,Th 17:30-21:00; Fr 17:30-23:00; Sa 16:00-23:00; Su 16:00-20:00"
-website: "https://www.cella-vinaria.de/"
+street: Hinterm Dorf
+housenumber: "10"
+phone: +49 5671 5094084
+opening_hours: Mo,Tu off; We,Th 17:30-21:00; Fr 17:30-23:00; Sa 16:00-23:00; Su 16:00-20:00
+website: https://www.cella-vinaria.de/

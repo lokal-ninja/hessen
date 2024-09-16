@@ -1,11 +1,11 @@
 id: 241762082
-type: way
+type: node
 latitude: 50.14422
 longitude: 8.92244
 postcode: "63452"
 city: Hanau
-street: "Martin-Luther-King-Straße"
-housenumber: 2
+street: Martin-Luther-King-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

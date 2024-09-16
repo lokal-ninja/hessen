@@ -1,11 +1,11 @@
 id: 26642313
-type: way
+type: node
 latitude: 49.9612
 longitude: 8.67049
 postcode: "63329"
 city: Egelsbach
-street: "Kurt-Schumacher-Ring"
-housenumber: 3
+street: Kurt-Schumacher-Ring
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/egelsbach-419"
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/egelsbach-419

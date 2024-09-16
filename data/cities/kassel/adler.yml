@@ -1,11 +1,11 @@
 id: 766995134
-type: way
+type: node
 latitude: 51.28876
 longitude: 9.4733
 postcode: "34134"
 city: Kassel
-street: "Knorrstraße"
-housenumber: 28
-phone: "+49 561 701460"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.adlermode-unternehmen.com/"
+street: Knorrstraße
+housenumber: "28"
+phone: +49 561 701460
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.adlermode-unternehmen.com/

@@ -4,8 +4,8 @@ latitude: 49.62742
 longitude: 8.75813
 postcode: "64668"
 city: Rimbach
-street: "Staatsstraße"
-housenumber: 46
-phone: "+49 6253 9889880"
-opening_hours: "Mo-Fr 10:00-13:00,14:30-18:00; We 10:00-13:00"
+street: Staatsstraße
+housenumber: "46"
+phone: +49 6253 9889880
+opening_hours: Mo-Fr 10:00-13:00,14:30-18:00; We 10:00-13:00
 website: ""

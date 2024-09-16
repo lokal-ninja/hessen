@@ -4,8 +4,8 @@ latitude: 50.6744
 longitude: 9.56072
 postcode: "36110"
 city: Schlitz
-street: "Hindenburgstraße"
-housenumber: 12
+street: Hindenburgstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 14:00-18:00, Sa 10:00-13:00; PH,Su off"
+opening_hours: Mo-Fr 10:00-13:00, Mo,Tu,Th,Fr 14:00-18:00, Sa 10:00-13:00; PH,Su off
 website: ""

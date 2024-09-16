@@ -1,11 +1,11 @@
 id: 37924077
-type: way
+type: node
 latitude: 49.88223
 longitude: 8.64278
 postcode: "64293"
 city: Darmstadt
-street: "Pallaswiesenstraße"
-housenumber: 80
-phone: "+49 6151 6089112"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://yazgulu.de/"
+street: Pallaswiesenstraße
+housenumber: "80"
+phone: +49 6151 6089112
+opening_hours: Mo-Sa 08:00-20:00
+website: https://yazgulu.de/

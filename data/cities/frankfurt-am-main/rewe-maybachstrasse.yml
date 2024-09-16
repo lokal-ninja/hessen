@@ -4,8 +4,8 @@ latitude: 50.15906
 longitude: 8.65538
 postcode: "60433"
 city: Frankfurt am Main
-street: "Maybachstraße"
-housenumber: 20
+street: Maybachstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

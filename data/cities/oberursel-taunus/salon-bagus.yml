@@ -4,8 +4,9 @@ latitude: 50.18438
 longitude: 8.60029
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Friedrich-Ludwig-Jahn-Straße"
-housenumber: 45
-phone: "+49 6171 79894"
-opening_hours: "Tu-We 08:30-12:30,13:30-17:30; Th 08:00-12:30,13:30-18:30; Fr 08:00-12:30,13:30-18:00; Sa 08:00-13:00"
+street: Friedrich-Ludwig-Jahn-Straße
+housenumber: "45"
+phone: +49 6171 79894
+opening_hours: Tu-We 08:30-12:30,13:30-17:30; Th 08:00-12:30,13:30-18:30; Fr 08:00-12:30,13:30-18:00;
+    Sa 08:00-13:00
 website: ""

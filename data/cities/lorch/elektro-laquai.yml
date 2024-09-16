@@ -1,11 +1,11 @@
 id: 113827796
-type: way
+type: node
 latitude: 50.04553
 longitude: 7.80382
 postcode: "65391"
 city: Lorch
-street: "Schwalbacher Straße"
-housenumber: 14
+street: Schwalbacher Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

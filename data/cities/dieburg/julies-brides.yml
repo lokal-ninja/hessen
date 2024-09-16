@@ -4,8 +4,8 @@ latitude: 49.89844
 longitude: 8.83946
 postcode: "64807"
 city: Dieburg
-street: "Steinstraße"
-housenumber: 4
+street: Steinstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:30-13:00; Mo,Th,Fr 14:30-18:00"
-website: "http://www.kv-dieburg.drk.de/angebote/kleiderladen/dieburg.html"
+opening_hours: Mo-Sa 09:30-13:00; Mo,Th,Fr 14:30-18:00
+website: http://www.kv-dieburg.drk.de/angebote/kleiderladen/dieburg.html

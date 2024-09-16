@@ -1,11 +1,11 @@
 id: 115351928
-type: way
+type: node
 latitude: 49.67806
 longitude: 8.6068
 postcode: "64625"
 city: Bensheim
-street: "Adolf-Kolping-Straße"
-housenumber: 26
-phone: "+49 6251 62686"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:30-13:00"
+street: Adolf-Kolping-Straße
+housenumber: "26"
+phone: +49 6251 62686
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:30-13:00
 website: ""

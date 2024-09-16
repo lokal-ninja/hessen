@@ -4,8 +4,8 @@ latitude: 50.10479
 longitude: 8.68714
 postcode: "60594"
 city: Frankfurt am Main
-street: "Brückenstraße"
-housenumber: 54
+street: Brückenstraße
+housenumber: "54"
 phone: ""
-opening_hours: "Tu-Fr 15:30-19:00; Sa 11:00-19:00"
-website: "https://www.bruecke54.de/"
+opening_hours: Tu-Fr 15:30-19:00; Sa 11:00-19:00
+website: https://www.bruecke54.de/

@@ -1,11 +1,11 @@
 id: 277828472
-type: way
+type: node
 latitude: 49.639
 longitude: 8.61574
 postcode: "64646"
 city: Heppenheim
-street: "Odenwaldstraße"
-housenumber: 10
+street: Odenwaldstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

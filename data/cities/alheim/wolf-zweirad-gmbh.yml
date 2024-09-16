@@ -1,11 +1,11 @@
 id: 95357274
-type: way
+type: node
 latitude: 51.046
 longitude: 9.66705
 postcode: "36211"
 city: Alheim
-street: "Nürnberger Straße"
-housenumber: 40
+street: Nürnberger Straße
+housenumber: "40"
 phone: ""
 opening_hours: ""
-website: "https://www.wolf-bikes-bebra.de/40967.html"
+website: https://www.wolf-bikes-bebra.de/40967.html

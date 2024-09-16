@@ -1,11 +1,11 @@
 id: 169530288
-type: way
+type: node
 latitude: 50.59852
 longitude: 8.83077
 postcode: "35447"
 city: Reiskirchen
-street: "Grünberger Straße"
-housenumber: 32
+street: Grünberger Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 05:00-15:00; Sa 05:00-13:00; Su 07:30-10:30"
+opening_hours: Mo-Fr 05:00-15:00; Sa 05:00-13:00; Su 07:30-10:30
 website: ""

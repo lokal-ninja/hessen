@@ -1,11 +1,11 @@
 id: 114872934
-type: way
+type: node
 latitude: 49.68182
 longitude: 8.60733
 postcode: "64625"
 city: Bensheim
-street: "Schwanheimer Straße"
-housenumber: 91
+street: Schwanheimer Straße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

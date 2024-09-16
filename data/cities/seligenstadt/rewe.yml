@@ -1,11 +1,11 @@
 id: 67985295
-type: way
+type: node
 latitude: 50.03958
 longitude: 8.99215
 postcode: "63500"
 city: Seligenstadt
-street: "Dieselstraße"
-housenumber: 13
+street: Dieselstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
 website: ""

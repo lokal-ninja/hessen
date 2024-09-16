@@ -4,8 +4,8 @@ latitude: 50.756
 longitude: 9.26981
 postcode: "36304"
 city: Alsfeld
-street: "In der Rambach"
-housenumber: 2
+street: In der Rambach
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://www.gertler-hoerakustik.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://www.gertler-hoerakustik.de/

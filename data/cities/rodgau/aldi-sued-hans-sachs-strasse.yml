@@ -1,11 +1,11 @@
 id: 166504516
-type: way
+type: node
 latitude: 50.03558
 longitude: 8.87692
 postcode: "63110"
 city: Rodgau
-street: "Hans-Sachs-Straße"
-housenumber: 7
+street: Hans-Sachs-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

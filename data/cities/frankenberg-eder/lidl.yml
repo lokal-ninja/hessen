@@ -1,11 +1,11 @@
 id: 1005699499
-type: way
+type: node
 latitude: 51.05568
 longitude: 8.78707
 postcode: "35066"
 city: Frankenberg (Eder)
-street: "Siegener Straße"
-housenumber: 5
+street: Siegener Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/f/frankenberg/siegener-strasse-5.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/f/frankenberg/siegener-strasse-5.html

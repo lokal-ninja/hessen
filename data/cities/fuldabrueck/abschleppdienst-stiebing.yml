@@ -1,11 +1,11 @@
 id: 274677675
-type: way
+type: node
 latitude: 51.22926
 longitude: 9.49965
 postcode: "34277"
 city: Fuldabrück
-street: "Melsunger Straße"
-housenumber: 5
-phone: "+49 5665 30355"
-opening_hours: "24/7 Notdienst"
+street: Melsunger Straße
+housenumber: "5"
+phone: +49 5665 30355
+opening_hours: 24/7 "Notdienst"
 website: ""

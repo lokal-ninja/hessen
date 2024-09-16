@@ -4,8 +4,8 @@ latitude: 51.02928
 longitude: 9.16242
 postcode: "34596"
 city: Bad Zwesten
-street: "Heideweg"
-housenumber: 1
-phone: "+49 5626 261"
-opening_hours: "Fr 08:00-18:00"
-website: "https://www.kellerwaldhof.de/hofladen/"
+street: Heideweg
+housenumber: "1"
+phone: +49 5626 261
+opening_hours: Fr 08:00-18:00
+website: https://www.kellerwaldhof.de/hofladen/

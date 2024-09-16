@@ -1,11 +1,11 @@
 id: 220720666
-type: way
+type: node
 latitude: 51.27282
 longitude: 9.23747
 postcode: "34308"
 city: Bad Emstal
-street: "Königstraße"
-housenumber: 9
+street: Königstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

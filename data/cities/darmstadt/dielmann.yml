@@ -4,8 +4,8 @@ latitude: 49.87073
 longitude: 8.65545
 postcode: "64283"
 city: Darmstadt
-street: "Schulstraße"
-housenumber: 8
-phone: "+49 6151 100544"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.dielmann.de/filialen/darmstadt/"
+street: Schulstraße
+housenumber: "8"
+phone: +49 6151 100544
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.dielmann.de/filialen/darmstadt/

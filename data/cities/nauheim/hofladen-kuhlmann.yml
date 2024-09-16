@@ -1,11 +1,11 @@
 id: 249782196
-type: way
+type: node
 latitude: 49.94994
 longitude: 8.46022
 postcode: "64569"
 city: Nauheim
-street: "Berzallee"
-housenumber: 15
-phone: "+49-6152-66156"
-opening_hours: "Mo,Tu,Th,Fr 09:30-12:00,15:30-18:00; Sa 09:30-13:00"
+street: Berzallee
+housenumber: "15"
+phone: +49-6152-66156
+opening_hours: Mo,Tu,Th,Fr 09:30-12:00,15:30-18:00; Sa 09:30-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 237726148
-type: way
+type: node
 latitude: 50.46199
 longitude: 9.20084
 postcode: "63679"
 city: Schotten
-street: "Niddergrund"
-housenumber: 24
+street: Niddergrund
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

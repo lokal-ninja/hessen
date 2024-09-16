@@ -1,11 +1,11 @@
 id: 28907240
-type: way
+type: node
 latitude: 49.87031
 longitude: 8.55199
 postcode: "64347"
 city: Griesheim
-street: "Feldstraße"
-housenumber: 16
-phone: "+49 6155 822480"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-16:00; PH,Su off"
-website: "https://treffpunkt-troedelmarkt.de/"
+street: Feldstraße
+housenumber: "16"
+phone: +49 6155 822480
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-16:00; PH,Su off
+website: https://treffpunkt-troedelmarkt.de/

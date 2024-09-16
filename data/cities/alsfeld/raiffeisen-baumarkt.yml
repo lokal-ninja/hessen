@@ -1,11 +1,11 @@
 id: 639356646
-type: way
+type: node
 latitude: 50.74693
 longitude: 9.26211
 postcode: "36304"
 city: Alsfeld
-street: "Grünberger Straße"
-housenumber: 59
-phone: "+49 6631 801-231"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-12:00"
-website: "https://www.raiffeisen-warendienst.de/baustoffe/standorte/alsfeld/"
+street: Grünberger Straße
+housenumber: "59"
+phone: +49 6631 801-231
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-12:00
+website: https://www.raiffeisen-warendienst.de/baustoffe/standorte/alsfeld/

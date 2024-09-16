@@ -1,11 +1,11 @@
 id: 712349637
-type: way
+type: node
 latitude: 50.37327
 longitude: 8.89258
 postcode: "61209"
 city: Echzell
-street: "Weidgasse"
+street: Weidgasse
 housenumber: 27b
 phone: ""
 opening_hours: ""
-website: "https://lg-bingenheim.de/arbeiten/weberei.html"
+website: https://lg-bingenheim.de/arbeiten/weberei.html

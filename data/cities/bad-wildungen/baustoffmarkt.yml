@@ -1,11 +1,11 @@
 id: 708417004
-type: way
+type: node
 latitude: 51.11861
 longitude: 9.13117
 postcode: "34537"
 city: Bad Wildungen
-street: "Itzelstraße"
-housenumber: 30
-phone: "+49 5621 70820"
+street: Itzelstraße
+housenumber: "30"
+phone: +49 5621 70820
 opening_hours: ""
-website: "https://www.baustoffmarkt-gruppe.de/standorte/nordhessischer-baustoffmarkt-gmbh-co-kg-bad-wildungen-start/"
+website: https://www.baustoffmarkt-gruppe.de/standorte/nordhessischer-baustoffmarkt-gmbh-co-kg-bad-wildungen-start/

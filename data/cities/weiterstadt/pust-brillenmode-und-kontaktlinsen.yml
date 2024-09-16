@@ -4,8 +4,8 @@ latitude: 49.90605
 longitude: 8.58624
 postcode: "64331"
 city: Weiterstadt
-street: "Darmstädter Straße"
-housenumber: 56
-phone: "+49 6150 2449"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-13:00"
-website: "https://optik-pust.de"
+street: Darmstädter Straße
+housenumber: "56"
+phone: +49 6150 2449
+opening_hours: Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-13:00
+website: https://optik-pust.de

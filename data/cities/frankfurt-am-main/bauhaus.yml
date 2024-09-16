@@ -1,11 +1,11 @@
 id: 48466507
-type: way
+type: node
 latitude: 50.13184
 longitude: 8.76269
 postcode: "60386"
 city: Frankfurt am Main
-street: "Hanauer Landstraße"
+street: Hanauer Landstraße
 housenumber: 517-543
-phone: "+49 69 2197880"
-opening_hours: "Mo-Sa 07:00-20:00"
+phone: +49 69 2197880
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

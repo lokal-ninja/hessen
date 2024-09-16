@@ -4,8 +4,8 @@ latitude: 50.5606
 longitude: 8.48697
 postcode: "35576"
 city: Wetzlar
-street: "Altenberger Straße"
-housenumber: 24
-phone: "+49 6441 956-0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://globus-baumarkt.de/info/markt/wetzlar"
+street: Altenberger Straße
+housenumber: "24"
+phone: +49 6441 956-0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://globus-baumarkt.de/info/markt/wetzlar

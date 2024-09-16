@@ -1,11 +1,12 @@
 id: 246488784
-type: way
+type: node
 latitude: 50.33557
 longitude: 8.53518
 postcode: "61250"
 city: Usingen
-street: "Kreuzgasse"
-housenumber: 16
+street: Kreuzgasse
+housenumber: "16"
 phone: ""
-opening_hours: "Mo 09:00-13:00,15:00-18:30; Tu 09:00-13:00,15:00-18:30; We 09:00-13:00; Th 09:00-13:00,15:00-18:30; Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00"
+opening_hours: Mo 09:00-13:00,15:00-18:30; Tu 09:00-13:00,15:00-18:30; We 09:00-13:00;
+    Th 09:00-13:00,15:00-18:30; Fr 09:00-13:00,15:00-18:30; Sa 09:00-13:00
 website: ""

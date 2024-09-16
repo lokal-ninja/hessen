@@ -1,11 +1,11 @@
 id: 197017910
-type: way
+type: node
 latitude: 49.53673
 longitude: 8.5906
 postcode: "68519"
 city: Viernheim
-street: "Heidelberger Straße"
-housenumber: 61
+street: Heidelberger Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 08:00-21:00; Su,PH off
 website: ""

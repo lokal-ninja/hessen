@@ -4,8 +4,8 @@ latitude: 50.09506
 longitude: 8.68135
 postcode: "60598"
 city: Frankfurt am Main
-street: "Mörfelder Landstraße"
-housenumber: 139
-phone: "+49 69 66426488"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-14:00"
-website: "https://kasimumcu.de/"
+street: Mörfelder Landstraße
+housenumber: "139"
+phone: +49 69 66426488
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-14:00
+website: https://kasimumcu.de/

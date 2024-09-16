@@ -1,11 +1,11 @@
 id: 195720278
-type: way
+type: node
 latitude: 51.27498
 longitude: 9.37371
 postcode: "34270"
 city: Schauenburg
-street: "Lange Baunastraße"
-housenumber: 50
+street: Lange Baunastraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

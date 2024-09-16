@@ -1,11 +1,11 @@
 id: 213587559
-type: way
+type: node
 latitude: 50.32488
 longitude: 8.74743
 postcode: ""
 city: Friedberg (Hessen)
-street: "Grüner Weg"
-housenumber: 2
+street: Grüner Weg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 123586558
-type: way
+type: node
 latitude: 49.68142
 longitude: 8.62209
 postcode: "64625"
 city: Bensheim
-street: "Hauptstraße"
-housenumber: 23
-phone: "+49 6251 8609804"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su,PH off"
-website: "https://shops.vodafone.de/bensheim/hauptstr.-23"
+street: Hauptstraße
+housenumber: "23"
+phone: +49 6251 8609804
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00; Su,PH off
+website: https://shops.vodafone.de/bensheim/hauptstr.-23

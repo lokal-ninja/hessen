@@ -1,11 +1,11 @@
 id: 719443889
-type: way
+type: node
 latitude: 51.13152
 longitude: 9.54889
 postcode: "34212"
 city: Melsungen
-street: "Vorstadt"
-housenumber: 6
+street: Vorstadt
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

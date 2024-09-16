@@ -1,11 +1,11 @@
 id: 118135333
-type: way
+type: node
 latitude: 51.28056
 longitude: 9.49618
 postcode: "34123"
 city: Kassel
-street: "Werner-Heisenberg-Straße"
-housenumber: 10
+street: Werner-Heisenberg-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.metro.de/"
+website: https://www.metro.de/

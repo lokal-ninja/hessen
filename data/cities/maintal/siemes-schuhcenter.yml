@@ -1,11 +1,11 @@
 id: 89102612
-type: way
+type: node
 latitude: 50.13123
 longitude: 8.86875
 postcode: "63477"
 city: Maintal
-street: "Industriestraße"
-housenumber: 11
+street: Industriestraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

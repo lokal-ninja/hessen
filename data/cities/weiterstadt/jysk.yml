@@ -1,11 +1,11 @@
 id: 777756814
-type: way
+type: node
 latitude: 49.89912
 longitude: 8.60928
 postcode: "64331"
 city: Weiterstadt
-street: "Robert-Bosch-Straße"
-housenumber: 4
+street: Robert-Bosch-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://jysk.de/"
+website: https://jysk.de/

@@ -4,8 +4,8 @@ latitude: 50.14671
 longitude: 8.66689
 postcode: "60431"
 city: Frankfurt am Main
-street: "Eschersheimer Landstraße"
-housenumber: 415
-phone: "+49 69 291397"
-opening_hours: "Mo-Fr 09:00-12:00,16:00-19:30"
-website: "https://www.fuellhalter-atelier.de"
+street: Eschersheimer Landstraße
+housenumber: "415"
+phone: +49 69 291397
+opening_hours: Mo-Fr 09:00-12:00,16:00-19:30
+website: https://www.fuellhalter-atelier.de

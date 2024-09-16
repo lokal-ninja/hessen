@@ -4,8 +4,8 @@ latitude: 50.68091
 longitude: 8.30548
 postcode: "35745"
 city: Herborn
-street: "Hauptstraße"
-housenumber: 115
-phone: "+49 27 72 58 35 296"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off"
-website: "https://www.schaefers-backstuben.de"
+street: Hauptstraße
+housenumber: "115"
+phone: +49 27 72 58 35 296
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su,PH off
+website: https://www.schaefers-backstuben.de

@@ -1,11 +1,11 @@
 id: 79262124
-type: way
+type: node
 latitude: 50.54415
 longitude: 8.96568
 postcode: "35321"
 city: Laubach
-street: "Philipp-Reis-Straße"
-housenumber: 51
+street: Philipp-Reis-Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

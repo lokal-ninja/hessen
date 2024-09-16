@@ -4,8 +4,8 @@ latitude: 51.35569
 longitude: 9.48756
 postcode: "34246"
 city: Vellmar
-street: "Am Hirleberg"
-housenumber: 2
-phone: "+49 561 982800"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 08:30-13:00"
-website: "https://getraenke-kuhn.de"
+street: Am Hirleberg
+housenumber: "2"
+phone: +49 561 982800
+opening_hours: Mo-Fr 08:00-17:00, Sa 08:30-13:00
+website: https://getraenke-kuhn.de

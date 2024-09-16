@@ -1,11 +1,11 @@
 id: 31341267
-type: way
+type: node
 latitude: 50.14424
 longitude: 8.74725
 postcode: "60388"
 city: Frankfurt am Main
-street: "Victor-Slotosch-Straße"
-housenumber: 16
+street: Victor-Slotosch-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

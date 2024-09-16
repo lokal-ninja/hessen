@@ -1,11 +1,11 @@
 id: 137672369
-type: way
+type: node
 latitude: 50.20942
 longitude: 8.74717
 postcode: "61118"
 city: Bad Vilbel
-street: "Industriestraße"
-housenumber: 1
-phone: "+49 6101 8038920"
-opening_hours: "Mo-Sa 10:00-18:00"
+street: Industriestraße
+housenumber: "1"
+phone: +49 6101 8038920
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

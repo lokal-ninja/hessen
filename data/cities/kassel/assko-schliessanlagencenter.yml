@@ -4,8 +4,8 @@ latitude: 51.31234
 longitude: 9.49135
 postcode: "34117"
 city: Kassel
-street: "Fünffensterstraße"
+street: Fünffensterstraße
 housenumber: 9 + 9A
-phone: "+49 561 21018"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 10:00-14:00"
-website: "http://www.assko-kassel.de/"
+phone: +49 561 21018
+opening_hours: Mo-Fr 09:00-17:00; Sa 10:00-14:00
+website: http://www.assko-kassel.de/

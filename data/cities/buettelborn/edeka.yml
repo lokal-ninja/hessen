@@ -1,11 +1,11 @@
 id: 204955494
-type: way
+type: node
 latitude: 49.92146
 longitude: 8.52889
 postcode: "64572"
 city: Büttelborn
-street: "Kurt-Schumacher-Ring"
-housenumber: 44
-phone: "+49 6152 710881"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/s%C3%BCdwest/frischemarkt-winkler-kurt-schumacher-ring-44/"
+street: Kurt-Schumacher-Ring
+housenumber: "44"
+phone: +49 6152 710881
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/s%C3%BCdwest/frischemarkt-winkler-kurt-schumacher-ring-44/

@@ -1,11 +1,11 @@
 id: 228602796
-type: way
+type: node
 latitude: 50.81613
 longitude: 8.76933
 postcode: "35037"
 city: Marburg
-street: "Bahnhofstraße"
-housenumber: 3
+street: Bahnhofstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-16:00; PH off"
-website: "https://www.teka-marburg.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-16:00; PH off
+website: https://www.teka-marburg.de/

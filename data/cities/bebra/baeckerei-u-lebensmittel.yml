@@ -1,11 +1,11 @@
 id: 159070877
-type: way
+type: node
 latitude: 50.9572
 longitude: 9.7849
 postcode: "36179"
 city: Bebra
-street: "Hersfelder Straße"
-housenumber: 109
+street: Hersfelder Straße
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

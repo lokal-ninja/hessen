@@ -1,11 +1,11 @@
 id: 180234969
-type: way
+type: node
 latitude: 50.55811
 longitude: 10.00924
 postcode: "36115"
 city: Hilders
-street: "Krautacker"
-housenumber: 6
-phone: "+49 6681 917907"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+street: Krautacker
+housenumber: "6"
+phone: +49 6681 917907
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00
 website: ""

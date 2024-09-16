@@ -4,8 +4,8 @@ latitude: 51.13256
 longitude: 9.54512
 postcode: "34212"
 city: Melsungen
-street: "Sandstraße"
-housenumber: 9
-phone: "+49 5661 9050748"
-opening_hours: "Mo-Fr 08:00-16:30; Sa,Su off"
+street: Sandstraße
+housenumber: "9"
+phone: +49 5661 9050748
+opening_hours: Mo-Fr 08:00-16:30; Sa,Su off
 website: ""

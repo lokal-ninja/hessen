@@ -1,11 +1,11 @@
 id: 30280593
-type: way
+type: node
 latitude: 49.85915
 longitude: 8.56111
 postcode: "64347"
 city: Griesheim
-street: "Bessunger Straße"
-housenumber: 46
+street: Bessunger Straße
+housenumber: "46"
 phone: ""
 opening_hours: ""
-website: "https://www.heuse-bestattungen.de/"
+website: https://www.heuse-bestattungen.de/

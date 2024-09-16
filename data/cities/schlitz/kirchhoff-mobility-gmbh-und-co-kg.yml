@@ -1,11 +1,11 @@
 id: 110125068
-type: way
+type: node
 latitude: 50.63192
 longitude: 9.58432
 postcode: "36110"
 city: Schlitz
-street: "Fuldaer Straße"
-housenumber: 29
-phone: "+49 6642 919170"
+street: Fuldaer Straße
+housenumber: "29"
+phone: +49 6642 919170
 opening_hours: ""
-website: "https://www.kirchhoff-mobility.com/"
+website: https://www.kirchhoff-mobility.com/

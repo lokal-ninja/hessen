@@ -4,8 +4,8 @@ latitude: 51.28686
 longitude: 9.62929
 postcode: "34260"
 city: Kaufungen
-street: "Am Stechkopf"
-housenumber: 5
+street: Am Stechkopf
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-11:00"
-website: "https://www.baeckerei-apel.de/"
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-11:00
+website: https://www.baeckerei-apel.de/

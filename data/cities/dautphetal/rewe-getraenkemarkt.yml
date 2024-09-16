@@ -1,11 +1,11 @@
 id: 33677906
-type: way
+type: node
 latitude: 50.85545
 longitude: 8.54847
 postcode: ""
 city: Dautphetal
-street: "Gladenbacher Straße"
-housenumber: 43
+street: Gladenbacher Straße
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

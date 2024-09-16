@@ -1,11 +1,11 @@
 id: 89102676
-type: way
+type: node
 latitude: 50.13214
 longitude: 8.86528
 postcode: "63477"
 city: Maintal
-street: "Honeywellstraße"
-housenumber: 7
+street: Honeywellstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

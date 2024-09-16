@@ -4,8 +4,8 @@ latitude: 51.13452
 longitude: 9.27725
 postcode: "34560"
 city: Fritzlar
-street: "Am Hospital"
-housenumber: 11
-phone: "+49 5622 9195883"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su off"
-website: "https://www.hoergeraete-pavel.de/"
+street: Am Hospital
+housenumber: "11"
+phone: +49 5622 9195883
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa,Su off
+website: https://www.hoergeraete-pavel.de/

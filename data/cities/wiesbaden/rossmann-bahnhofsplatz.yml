@@ -4,8 +4,8 @@ latitude: 50.07046
 longitude: 8.24173
 postcode: "65189"
 city: Wiesbaden
-street: "Bahnhofsplatz"
-housenumber: 3
+street: Bahnhofsplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 09:00-21:00; Su,PH off
 website: ""

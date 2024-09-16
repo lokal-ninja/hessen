@@ -1,11 +1,11 @@
 id: 123152944
-type: way
+type: node
 latitude: 49.68366
 longitude: 8.60195
 postcode: "64625"
 city: Bensheim
-street: "Berliner Ring"
-housenumber: 100
-phone: "+49 6251 10600"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/baumarkt/bensheim/"
+street: Berliner Ring
+housenumber: "100"
+phone: +49 6251 10600
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/baumarkt/bensheim/

@@ -1,11 +1,11 @@
 id: 437940627
-type: way
+type: node
 latitude: 51.29237
 longitude: 9.45861
 postcode: "34134"
 city: Kassel
-street: "Leuschnerstraße"
-housenumber: 72
-phone: "+49 561 9705197"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://www.kfz-raabe.de/"
+street: Leuschnerstraße
+housenumber: "72"
+phone: +49 561 9705197
+opening_hours: Mo-Fr 07:30-17:00
+website: https://www.kfz-raabe.de/

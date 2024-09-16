@@ -4,8 +4,8 @@ latitude: 50.57917
 longitude: 8.67497
 postcode: "35390"
 city: Gießen
-street: "Bleichstraße"
-housenumber: 29
-phone: "+49 641 73427"
-opening_hours: "Mo-Fr 08:00-18:30;Sa 08:00-14:00; PH off"
-website: "https://www.manz-die-metzgerei.de/standorte/giessen-bleichstrasse"
+street: Bleichstraße
+housenumber: "29"
+phone: +49 641 73427
+opening_hours: Mo-Fr 08:00-18:30;Sa 08:00-14:00; PH off
+website: https://www.manz-die-metzgerei.de/standorte/giessen-bleichstrasse

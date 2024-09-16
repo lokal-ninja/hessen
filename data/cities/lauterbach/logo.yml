@@ -1,11 +1,11 @@
 id: 101765881
-type: way
+type: node
 latitude: 50.64131
 longitude: 9.4071
 postcode: "36341"
 city: Lauterbach
-street: "Fuldaer Straße"
-housenumber: 9
+street: Fuldaer Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 233080169
-type: way
+type: node
 latitude: 50.0719
 longitude: 8.86253
 postcode: "63179"
 city: Obertshausen
-street: "Albrecht-Dürer-Straße"
-housenumber: 25
+street: Albrecht-Dürer-Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:30-16:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:30-16:00
 website: ""

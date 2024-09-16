@@ -1,11 +1,11 @@
 id: 246494601
-type: way
+type: node
 latitude: 50.87988
 longitude: 9.72299
 postcode: "36251"
 city: Bad Hersfeld
-street: "Friedloser Straße"
-housenumber: 27
+street: Friedloser Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

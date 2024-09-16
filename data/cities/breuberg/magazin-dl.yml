@@ -1,11 +1,11 @@
 id: 119749227
-type: way
+type: node
 latitude: 49.81667
 longitude: 9.01537
 postcode: "64747"
 city: Breuberg
-street: "Höchster Straße"
-housenumber: 36
+street: Höchster Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-13:00,14:00-18:00; Sa 08:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 301944062
-type: way
+type: node
 latitude: 51.27185
 longitude: 9.53693
 postcode: "34253"
 city: Lohfelden
-street: "Crumbacher Straße"
-housenumber: 38
+street: Crumbacher Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

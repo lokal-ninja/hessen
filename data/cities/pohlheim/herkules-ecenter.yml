@@ -1,11 +1,11 @@
 id: 83281829
-type: way
+type: node
 latitude: 50.53918
 longitude: 8.7318
 postcode: "35415"
 city: Pohlheim
-street: "Neue Mitte"
-housenumber: 2
-phone: "+49 6403 979410"
-opening_hours: "Mo-Sa 08:00-21:00; PH closed"
-website: "https://www.herkulesmarkt.de/standorte/pohlheim/lebensmittel/angebote"
+street: Neue Mitte
+housenumber: "2"
+phone: +49 6403 979410
+opening_hours: Mo-Sa 08:00-21:00; PH closed
+website: https://www.herkulesmarkt.de/standorte/pohlheim/lebensmittel/angebote

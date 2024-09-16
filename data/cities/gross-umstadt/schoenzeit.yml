@@ -1,11 +1,11 @@
 id: 263009768
-type: way
+type: node
 latitude: 49.86854
 longitude: 8.91573
 postcode: "64823"
 city: Groß-Umstadt
-street: "Albert-Einstein-Straße"
-housenumber: 16
+street: Albert-Einstein-Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

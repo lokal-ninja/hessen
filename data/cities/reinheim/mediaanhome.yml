@@ -4,8 +4,8 @@ latitude: 49.83351
 longitude: 8.83323
 postcode: "64354"
 city: Reinheim
-street: "Westring"
-housenumber: 92
-phone: "+49 6162 93400"
-opening_hours: "Mo-Fr 10:00-12:30,15:30-18:00; We,Sa 10:00-12:30"
-website: "https://www.mediaathome.de/reinheim-friedrich/"
+street: Westring
+housenumber: "92"
+phone: +49 6162 93400
+opening_hours: Mo-Fr 10:00-12:30,15:30-18:00; We,Sa 10:00-12:30
+website: https://www.mediaathome.de/reinheim-friedrich/

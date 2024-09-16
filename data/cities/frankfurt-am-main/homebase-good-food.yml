@@ -4,8 +4,8 @@ latitude: 50.11263
 longitude: 8.6831
 postcode: "60311"
 city: Frankfurt am Main
-street: "Hasengasse"
-housenumber: 5
+street: Hasengasse
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://abphy.com/user/homebasegoodfood"
+website: https://abphy.com/user/homebasegoodfood

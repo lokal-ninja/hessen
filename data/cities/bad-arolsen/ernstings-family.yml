@@ -1,11 +1,11 @@
 id: 143136542
-type: way
+type: node
 latitude: 51.38054
 longitude: 9.01442
 postcode: "34454"
 city: Bad Arolsen
-street: "Bahnhofstraße"
-housenumber: 8
+street: Bahnhofstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

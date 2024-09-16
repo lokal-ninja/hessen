@@ -1,11 +1,11 @@
 id: 388285502
-type: way
+type: node
 latitude: 49.83565
 longitude: 8.49658
 postcode: "64560"
 city: Riedstadt
-street: "Bahnhofstraße"
-housenumber: 10
+street: Bahnhofstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

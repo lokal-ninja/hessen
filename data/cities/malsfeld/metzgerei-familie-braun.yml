@@ -1,11 +1,11 @@
 id: 194660567
-type: way
+type: node
 latitude: 51.09397
 longitude: 9.53807
 postcode: "34323"
 city: Malsfeld
-street: "Lindenstraße"
-housenumber: 1
-phone: "+49 5661 929559"
-opening_hours: "Tu-Fr 07:30-18:00; Sa 07:30-12:30"
-website: "https://www.metzger-braun.de/"
+street: Lindenstraße
+housenumber: "1"
+phone: +49 5661 929559
+opening_hours: Tu-Fr 07:30-18:00; Sa 07:30-12:30
+website: https://www.metzger-braun.de/

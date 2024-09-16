@@ -1,11 +1,11 @@
 id: 248351447
-type: way
+type: node
 latitude: 50.10661
 longitude: 8.6478
 postcode: "60327"
 city: Frankfurt am Main
-street: "Frankenallee"
-housenumber: 38
-phone: "+49 69 734328"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "www.kfz-martinez.de"
+street: Frankenallee
+housenumber: "38"
+phone: +49 69 734328
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: www.kfz-martinez.de

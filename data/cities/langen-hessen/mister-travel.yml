@@ -4,8 +4,8 @@ latitude: 49.99408
 longitude: 8.65849
 postcode: "63225"
 city: Langen (Hessen)
-street: "Westendstraße"
-housenumber: 2
+street: Westendstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:30"
-website: "http://www.mister-travel.de"
+opening_hours: Mo-Sa 09:00-13:00, Mo,Tu,Th,Fr 14:00-18:30
+website: http://www.mister-travel.de

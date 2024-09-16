@@ -4,8 +4,8 @@ latitude: 50.04518
 longitude: 8.22177
 postcode: "65203"
 city: Wiesbaden
-street: "Äppelallee"
-housenumber: 94
-phone: "+49 611 188630"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00"
-website: "https://www.autohaus-bayer.de/ueber-uns/ansprechpartner/wiesbaden/"
+street: Äppelallee
+housenumber: "94"
+phone: +49 611 188630
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-14:00
+website: https://www.autohaus-bayer.de/ueber-uns/ansprechpartner/wiesbaden/

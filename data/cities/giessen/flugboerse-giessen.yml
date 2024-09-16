@@ -4,8 +4,8 @@ latitude: 50.5854
 longitude: 8.67723
 postcode: "35390"
 city: Gießen
-street: "Neuen Bäue"
-housenumber: 13
-phone: "+49 641 31001"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 10:00-14:00, Su off"
-website: "https://www.flugboerse.de/giessen"
+street: Neuen Bäue
+housenumber: "13"
+phone: +49 641 31001
+opening_hours: Mo-Fr 09:00-18:30, Sa 10:00-14:00, Su off
+website: https://www.flugboerse.de/giessen

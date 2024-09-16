@@ -1,11 +1,11 @@
 id: 93902112
-type: way
+type: node
 latitude: 49.68401
 longitude: 9.00133
 postcode: "64720"
 city: Michelstadt
-street: "Hulster Straße"
-housenumber: 3
+street: Hulster Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

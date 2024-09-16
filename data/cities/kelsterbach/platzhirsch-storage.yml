@@ -1,11 +1,11 @@
 id: 150041279
-type: way
+type: node
 latitude: 50.05073
 longitude: 8.53002
 postcode: "65451"
 city: Kelsterbach
-street: "Am Südpark"
-housenumber: 13
+street: Am Südpark
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://platzhirsch-storage.de/"
+website: https://platzhirsch-storage.de/

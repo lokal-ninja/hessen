@@ -1,11 +1,11 @@
 id: 105878197
-type: way
+type: node
 latitude: 50.71593
 longitude: 9.33508
 postcode: "36318"
 city: Schwalmtal
-street: "Schwarzer Straße"
-housenumber: 1
+street: Schwarzer Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 24429349
-type: way
-latitude: 49.81024
-longitude: 8.5889
+type: node
+latitude: 49.81023
+longitude: 8.58891
 postcode: "64319"
 city: Pfungstadt
-street: "Mainstraße"
-housenumber: 128
-phone: "+49 6157 801990"
-opening_hours: "Mo-Sa 08:00-21:00; PH closed"
+street: Mainstraße
+housenumber: "128"
+phone: +49 6157 801990
+opening_hours: Mo-Sa 08:00-21:00; PH closed
 website: ""

@@ -1,11 +1,11 @@
 id: 840379268
-type: way
+type: node
 latitude: 51.29215
 longitude: 9.45743
 postcode: "34134"
 city: Kassel
-street: "Glockenbruchweg"
-housenumber: 84
+street: Glockenbruchweg
+housenumber: "84"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 88862771
-type: way
+type: node
 latitude: 49.85175
 longitude: 8.55565
 postcode: "64347"
 city: Griesheim
-street: "Oberndorfer Straße"
-housenumber: 111
+street: Oberndorfer Straße
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 108355742
-type: way
+type: node
 latitude: 50.39836
 longitude: 9.14915
 postcode: "63697"
 city: Hirzenhain
-street: "Unterweide"
-housenumber: 6
+street: Unterweide
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

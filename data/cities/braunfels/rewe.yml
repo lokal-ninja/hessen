@@ -1,11 +1,11 @@
 id: 352092084
-type: way
+type: node
 latitude: 50.51749
 longitude: 8.3886
 postcode: "35619"
 city: Braunfels
-street: "Kaiser-Friedrich-Straße"
-housenumber: 5
-phone: "+49 6442 951 90"
-opening_hours: "Mo-Sa 7:30-22:00"
-website: "https://www.rewe.de/angebote/braunfels/240130/rewe-markt-kaiser-friedrich-str-3/?week=current"
+street: Kaiser-Friedrich-Straße
+housenumber: "5"
+phone: +49 6442 951 90
+opening_hours: Mo-Sa 7:30-22:00
+website: https://www.rewe.de/angebote/braunfels/240130/rewe-markt-kaiser-friedrich-str-3/?week=current

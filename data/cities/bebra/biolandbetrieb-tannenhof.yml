@@ -1,11 +1,11 @@
 id: 475356128
-type: way
+type: node
 latitude: 51.00543
 longitude: 9.85708
 postcode: "36179"
 city: Bebra
-street: "Hof Vockerode"
-housenumber: 5
+street: Hof Vockerode
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 14:30-15:00, Th 18:30-19:00; Sa 11:30-12:00; PH off"
-website: "https://tannenhof-imshausen.de/"
+opening_hours: Mo-Fr 14:30-15:00, Th 18:30-19:00; Sa 11:30-12:00; PH off
+website: https://tannenhof-imshausen.de/

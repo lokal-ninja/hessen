@@ -1,11 +1,11 @@
 id: 38539978
-type: way
+type: node
 latitude: 50.09501
 longitude: 8.68299
 postcode: "60598"
 city: Frankfurt am Main
-street: "Mörfelder Landstraße"
-housenumber: 129
-phone: "+49 (0)69 6605683"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-21:00"
-website: "https://www.obi.de/de/maerkte/Frankfurt-Sachsenhausen/"
+street: Mörfelder Landstraße
+housenumber: "129"
+phone: +49 (0)69 6605683
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-21:00
+website: https://www.obi.de/de/maerkte/Frankfurt-Sachsenhausen/

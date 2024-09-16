@@ -1,11 +1,11 @@
 id: 243346813
-type: way
+type: node
 latitude: 50.7917
 longitude: 8.75123
 postcode: "35037"
 city: Marburg
-street: "Stephan-Niderehe-Straße"
-housenumber: 21
+street: Stephan-Niderehe-Straße
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

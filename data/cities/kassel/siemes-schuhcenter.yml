@@ -1,11 +1,11 @@
 id: 155330275
-type: way
+type: node
 latitude: 51.29931
 longitude: 9.48103
 postcode: "34121"
 city: Kassel
-street: "Frankfurter Straße"
+street: Frankfurter Straße
 housenumber: 128a
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

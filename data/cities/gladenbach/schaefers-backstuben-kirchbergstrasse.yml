@@ -4,8 +4,8 @@ latitude: 50.76854
 longitude: 8.58541
 postcode: "35075"
 city: Gladenbach
-street: "Kirchbergstraße"
-housenumber: 4
-phone: "+49 64 62 409 08 66"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.schaefers-backstuben.de"
+street: Kirchbergstraße
+housenumber: "4"
+phone: +49 64 62 409 08 66
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.schaefers-backstuben.de

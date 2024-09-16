@@ -1,11 +1,11 @@
 id: 27597473
-type: way
+type: node
 latitude: 51.30884
 longitude: 9.57803
 postcode: "34266"
 city: Niestetal
-street: "Witzenhäuser Straße"
-housenumber: 15
-phone: "+49 561 527755"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Witzenhäuser Straße
+housenumber: "15"
+phone: +49 561 527755
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

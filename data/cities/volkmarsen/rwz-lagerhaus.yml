@@ -4,8 +4,9 @@ latitude: 51.4071
 longitude: 9.11761
 postcode: "34471"
 city: Volkmarsen
-street: "Lütersheimer Straße"
-housenumber: 2
+street: Lütersheimer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mar-Oct: Mo-Fr 08:00-12:00,13:00-16:30; Mar-Oct: Sa 09:00 - 11:00; Nov-Feb: Mo-Th 08:00-12:00,13:00-16:30"
+opening_hours: 'Mar-Oct: Mo-Fr 08:00-12:00,13:00-16:30; Mar-Oct: Sa 09:00 - 11:00;
+    Nov-Feb: Mo-Th 08:00-12:00,13:00-16:30'
 website: ""

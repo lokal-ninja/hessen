@@ -4,8 +4,8 @@ latitude: 51.16058
 longitude: 9.61295
 postcode: "34212"
 city: Melsungen
-street: "Kehrenbachstraße"
-housenumber: 10
+street: Kehrenbachstraße
+housenumber: "10"
 phone: "+495661910636"
-opening_hours: "Mo-Th 07:00-17:00, Fr 07:00-15:30"
-website: "http://www.putzer-einkauf.de/"
+opening_hours: Mo-Th 07:00-17:00, Fr 07:00-15:30
+website: http://www.putzer-einkauf.de/

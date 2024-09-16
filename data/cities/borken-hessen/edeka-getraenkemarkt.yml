@@ -1,11 +1,11 @@
 id: 92144987
-type: way
+type: node
 latitude: 51.04646
 longitude: 9.27939
 postcode: "34582"
 city: Borken (Hessen)
-street: "Bahnhofstraße"
-housenumber: 36
+street: Bahnhofstraße
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://www.edeka.de/eh/hessenring/wirth-gmbh-bahnhofstr.-36/"
+website: https://www.edeka.de/eh/hessenring/wirth-gmbh-bahnhofstr.-36/

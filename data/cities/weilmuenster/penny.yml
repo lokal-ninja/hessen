@@ -1,11 +1,11 @@
 id: 44109544
-type: way
+type: node
 latitude: 50.43314
 longitude: 8.37653
 postcode: "35789"
 city: Weilmünster
-street: "Möttauer Straße"
+street: Möttauer Straße
 housenumber: 12a
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:30-20:00
+website: https://www.penny.de/

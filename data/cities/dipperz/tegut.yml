@@ -1,11 +1,11 @@
 id: 457727286
-type: way
+type: node
 latitude: 50.53984
 longitude: 9.78804
 postcode: "36160"
 city: Dipperz
-street: "Gewerbepark"
-housenumber: 5
-phone: "+49 6657 6087195"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.tegut.com/"
+street: Gewerbepark
+housenumber: "5"
+phone: +49 6657 6087195
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.tegut.com/

@@ -1,11 +1,11 @@
 id: 118723830
-type: way
+type: node
 latitude: 51.12122
 longitude: 9.27585
 postcode: "34560"
 city: Fritzlar
-street: "Auf der Lache"
-housenumber: 5
-phone: "+49 5622 99360"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.herkulesbaumarkt.de"
+street: Auf der Lache
+housenumber: "5"
+phone: +49 5622 99360
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.herkulesbaumarkt.de

@@ -1,11 +1,11 @@
 id: 102315499
-type: way
+type: node
 latitude: 50.07952
 longitude: 8.20233
 postcode: "65199"
 city: Wiesbaden
-street: "Am Hang"
-housenumber: 17
+street: Am Hang
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 51255416
-type: way
+type: node
 latitude: 49.90594
 longitude: 8.45454
 postcode: "64521"
 city: Groß-Gerau
-street: "An der Pforte"
-housenumber: 32
+street: An der Pforte
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00, Su 08:00-11:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00, Su 08:00-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 141501274
-type: way
+type: node
 latitude: 50.527
 longitude: 9.73275
 postcode: "36093"
 city: Künzell
-street: "In den Gründen"
-housenumber: 4
+street: In den Gründen
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://filialen.aldi-sued.de/hessen/kuenzell/in-den-gruenden-4"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://filialen.aldi-sued.de/hessen/kuenzell/in-den-gruenden-4

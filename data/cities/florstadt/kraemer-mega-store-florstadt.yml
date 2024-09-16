@@ -4,8 +4,8 @@ latitude: 50.33
 longitude: 8.93011
 postcode: "61197"
 city: Florstadt
-street: "In der Grobach"
-housenumber: 17
+street: In der Grobach
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-17:00"
-website: "https://www.kraemer.de/MEGA-STORES/Florstadt"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-17:00
+website: https://www.kraemer.de/MEGA-STORES/Florstadt

@@ -1,11 +1,11 @@
 id: 901101512
-type: way
+type: node
 latitude: 51.2842
 longitude: 8.84739
 postcode: "34497"
 city: Korbach
-street: "Briloner Landstraße"
-housenumber: 74
+street: Briloner Landstraße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

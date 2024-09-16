@@ -1,11 +1,11 @@
 id: 1155286917
-type: way
+type: node
 latitude: 50.57606
 longitude: 9.70239
 postcode: "36039"
 city: Fulda
-street: "Leipziger Straße"
-housenumber: 199
+street: Leipziger Straße
+housenumber: "199"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-18:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-18:00
 website: ""

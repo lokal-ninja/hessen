@@ -1,11 +1,11 @@
 id: 422968253
-type: way
+type: node
 latitude: 49.67595
 longitude: 8.99864
 postcode: "64720"
 city: Michelstadt
-street: "Industriestraße"
-housenumber: 7
-phone: "+49 6061-96754-0"
+street: Industriestraße
+housenumber: "7"
+phone: +49 6061-96754-0
 opening_hours: ""
-website: "https://www.meg.de/standorte/michelstadt.html"
+website: https://www.meg.de/standorte/michelstadt.html

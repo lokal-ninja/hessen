@@ -1,11 +1,11 @@
 id: 164873782
-type: way
+type: node
 latitude: 50.26624
 longitude: 9.36477
 postcode: "63628"
 city: Bad Soden-Salmünster
-street: "Berliner Straße"
-housenumber: 36
+street: Berliner Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

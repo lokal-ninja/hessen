@@ -1,11 +1,11 @@
 id: 1289173741
-type: way
+type: node
 latitude: 50.5622
 longitude: 8.50625
 postcode: "35578"
 city: Wetzlar
-street: "Garbenheimer Straße"
-housenumber: 12
-phone: "+49 6441 4462261"
-opening_hours: "Mo-Fr 09:30-17:30, Sa 10:00-12:00; PH off"
-website: "https://www.rauter-auto.de/"
+street: Garbenheimer Straße
+housenumber: "12"
+phone: +49 6441 4462261
+opening_hours: Mo-Fr 09:30-17:30, Sa 10:00-12:00; PH off
+website: https://www.rauter-auto.de/

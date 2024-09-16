@@ -1,11 +1,11 @@
 id: 771244761
-type: way
+type: node
 latitude: 51.30116
 longitude: 9.48184
 postcode: "34121"
 city: Kassel
-street: "Frankfurter Straße"
+street: Frankfurter Straße
 housenumber: 114-120
 phone: ""
-opening_hours: "Mo-Sa 06:00-24:00, Su 07:00-18:00"
-website: "https://kamps.de/"
+opening_hours: Mo-Sa 06:00-24:00, Su 07:00-18:00
+website: https://kamps.de/

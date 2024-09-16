@@ -1,11 +1,11 @@
 id: 91908959
-type: way
+type: node
 latitude: 50.20468
 longitude: 9.17309
 postcode: "63571"
 city: Gelnhausen
-street: "Frankfurter Straße"
-housenumber: 57
+street: Frankfurter Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

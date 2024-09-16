@@ -1,11 +1,11 @@
 id: 137396493
-type: way
+type: node
 latitude: 50.29307
 longitude: 8.27135
 postcode: "65520"
 city: Bad Camberg
-street: "Frankfurter Straße"
-housenumber: 80
+street: Frankfurter Straße
+housenumber: "80"
 phone: ""
 opening_hours: ""
 website: ""

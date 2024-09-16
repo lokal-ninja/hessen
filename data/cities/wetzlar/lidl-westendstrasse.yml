@@ -1,11 +1,11 @@
 id: 132665940
-type: way
+type: node
 latitude: 50.54956
 longitude: 8.47558
 postcode: "35578"
 city: Wetzlar
-street: "Westendstraße"
-housenumber: 1
+street: Westendstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

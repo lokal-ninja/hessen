@@ -4,8 +4,8 @@ latitude: 50.55524
 longitude: 8.50002
 postcode: "35578"
 city: Wetzlar
-street: "Lahnstraße"
-housenumber: 28
-phone: "+49 6441 - 468 21"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
-website: "https://www.orthopaedie-gerster.de/"
+street: Lahnstraße
+housenumber: "28"
+phone: +49 6441 - 468 21
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-14:00
+website: https://www.orthopaedie-gerster.de/

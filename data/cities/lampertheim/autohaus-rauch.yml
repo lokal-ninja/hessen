@@ -1,11 +1,11 @@
 id: 896774632
-type: way
+type: node
 latitude: 49.60645
 longitude: 8.4659
 postcode: "68623"
 city: Lampertheim
-street: "Bürstädter Straße"
-housenumber: 112
+street: Bürstädter Straße
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-rauch.de"
+website: https://www.autohaus-rauch.de

@@ -4,8 +4,8 @@ latitude: 50.0131
 longitude: 8.9925
 postcode: "63533"
 city: Mainhausen
-street: "Heinrich-Heine-Straße"
-housenumber: 8
-phone: "+49 6182 21643"
-opening_hours: "Mo-Th 15:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00"
-website: "http://der-weinladen.org/"
+street: Heinrich-Heine-Straße
+housenumber: "8"
+phone: +49 6182 21643
+opening_hours: Mo-Th 15:00-19:00; Fr 09:00-19:00; Sa 09:00-16:00
+website: http://der-weinladen.org/

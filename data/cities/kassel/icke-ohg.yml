@@ -1,11 +1,11 @@
 id: 160541189
-type: way
+type: node
 latitude: 51.30742
 longitude: 9.45069
 postcode: "34121"
 city: Kassel
-street: "Kohlenstraße"
-housenumber: 125
-phone: "+49 561 2001900"
-opening_hours: "Mo-Fr 07:15-18:00; Sa 09:00-13:00"
-website: "https://icke-kassel.de/"
+street: Kohlenstraße
+housenumber: "125"
+phone: +49 561 2001900
+opening_hours: Mo-Fr 07:15-18:00; Sa 09:00-13:00
+website: https://icke-kassel.de/

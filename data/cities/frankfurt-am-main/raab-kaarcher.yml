@@ -1,11 +1,11 @@
 id: 165071992
-type: way
+type: node
 latitude: 50.10948
 longitude: 8.71072
 postcode: "60314"
 city: Frankfurt am Main
-street: "Mayfarthstraße"
-housenumber: 14
-phone: "+49 69 4050505"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 08:00-13:00"
-website: "https://www.raabkarcher.de/frankfurt-main"
+street: Mayfarthstraße
+housenumber: "14"
+phone: +49 69 4050505
+opening_hours: Mo-Fr 06:30-17:00; Sa 08:00-13:00
+website: https://www.raabkarcher.de/frankfurt-main

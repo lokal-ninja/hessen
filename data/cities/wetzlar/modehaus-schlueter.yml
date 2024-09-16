@@ -4,8 +4,8 @@ latitude: 50.55802
 longitude: 8.4982
 postcode: "35576"
 city: Wetzlar
-street: "Langgasse"
-housenumber: 62
-phone: "+49 6441 200 7071"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-16:00"
-website: "https://modehausschlueter.com"
+street: Langgasse
+housenumber: "62"
+phone: +49 6441 200 7071
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-16:00
+website: https://modehausschlueter.com

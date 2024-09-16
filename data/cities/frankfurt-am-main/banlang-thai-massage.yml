@@ -4,8 +4,8 @@ latitude: 50.1389
 longitude: 8.71783
 postcode: "60389"
 city: Frankfurt am Main
-street: "Wilhelmshöher Straße"
-housenumber: 20
-phone: "+49 69 79273238"
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "https://banlang.de/"
+street: Wilhelmshöher Straße
+housenumber: "20"
+phone: +49 69 79273238
+opening_hours: Mo-Sa 11:00-20:00
+website: https://banlang.de/

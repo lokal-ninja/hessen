@@ -1,11 +1,11 @@
 id: 92252743
-type: way
+type: node
 latitude: 50.20288
 longitude: 9.17371
 postcode: "63571"
 city: Gelnhausen
-street: "Am Galgenfeld"
-housenumber: 4
-phone: "+49 6051 48080"
-opening_hours: "Mo-Sa 08:00-19:00"
+street: Am Galgenfeld
+housenumber: "4"
+phone: +49 6051 48080
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

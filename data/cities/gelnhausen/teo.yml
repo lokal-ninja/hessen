@@ -1,11 +1,11 @@
 id: 1128443126
-type: way
+type: node
 latitude: 50.19969
 longitude: 9.19126
 postcode: "63571"
 city: Gelnhausen
-street: "Am Ziegelturm"
-housenumber: 2
+street: Am Ziegelturm
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 00:00-24:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-gelnhausen-am-ziegelturm-2-4.html"
+opening_hours: Mo-Sa 00:00-24:00
+website: https://www.tegut.com/maerkte/markt/tegut-gelnhausen-am-ziegelturm-2-4.html

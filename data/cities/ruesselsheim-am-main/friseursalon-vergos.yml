@@ -4,8 +4,8 @@ latitude: 49.99038
 longitude: 8.44393
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Feuerbachstraße"
-housenumber: 8
-phone: "+49 6142 958618"
-opening_hours: "Tu, We, Fr 08:30-18:00; Th 09:30-19:00; Sa 08:30-13:30"
-website: "http://www.friseursalon-vergos.de"
+street: Feuerbachstraße
+housenumber: "8"
+phone: +49 6142 958618
+opening_hours: Tu, We, Fr 08:30-18:00; Th 09:30-19:00; Sa 08:30-13:30
+website: http://www.friseursalon-vergos.de

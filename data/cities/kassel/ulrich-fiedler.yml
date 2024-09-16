@@ -4,8 +4,8 @@ latitude: 51.31495
 longitude: 9.48048
 postcode: "34117"
 city: Kassel
-street: "Friedrich-Ebert-Straße"
-housenumber: 59
-phone: "+49 561 18045"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "https://www.fufiedler.de/"
+street: Friedrich-Ebert-Straße
+housenumber: "59"
+phone: +49 561 18045
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-14:00
+website: https://www.fufiedler.de/

@@ -1,11 +1,11 @@
 id: 985988519
-type: way
+type: node
 latitude: 50.55859
 longitude: 9.68498
 postcode: "36037"
 city: Fulda
-street: "Magdeburger Straße"
-housenumber: 24
+street: Magdeburger Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 00:00-24:00"
-website: "https://www.tegut.com/teo.html"
+opening_hours: Mo-Sa 00:00-24:00
+website: https://www.tegut.com/teo.html

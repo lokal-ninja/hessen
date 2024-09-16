@@ -4,8 +4,8 @@ latitude: 51.32395
 longitude: 9.46942
 postcode: "34127"
 city: Kassel
-street: "Wolfhager Straße"
-housenumber: 199
+street: Wolfhager Straße
+housenumber: "199"
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00"
-website: "https://www.baeckerei-apel.de/"
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-21:00
+website: https://www.baeckerei-apel.de/

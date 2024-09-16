@@ -4,8 +4,8 @@ latitude: 50.08393
 longitude: 8.65056
 postcode: "60528"
 city: Frankfurt am Main
-street: "Rennbahnstraße"
-housenumber: 70
-phone: "+49 69 67868505"
-opening_hours: "nach Vereinbarung"
-website: "http://www.littlemoments-massage.de/"
+street: Rennbahnstraße
+housenumber: "70"
+phone: +49 69 67868505
+opening_hours: '"nach Vereinbarung"'
+website: http://www.littlemoments-massage.de/

@@ -4,8 +4,8 @@ latitude: 51.4891
 longitude: 9.60637
 postcode: "34359"
 city: Reinhardshagen
-street: "Vaaker Weg"
-housenumber: 6
+street: Vaaker Weg
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 14:30-18:00; Sa 11:00-13:00"
-website: "http://www.bucheronline.de"
+opening_hours: Mo-Fr 14:30-18:00; Sa 11:00-13:00
+website: http://www.bucheronline.de

@@ -1,11 +1,11 @@
 id: 182515170
-type: way
+type: node
 latitude: 50.2249
 longitude: 8.61941
 postcode: "61348"
 city: Bad Homburg v.d. Höhe
-street: "Louisenstraße"
+street: Louisenstraße
 housenumber: 91-95
-phone: "+49 6172 9013"
-opening_hours: "Mo-Sa 10:00-19:00"
+phone: +49 6172 9013
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

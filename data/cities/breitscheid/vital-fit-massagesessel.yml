@@ -1,11 +1,11 @@
 id: 124874145
-type: way
+type: node
 latitude: 50.69321
 longitude: 8.21718
 postcode: "35767"
 city: Breitscheid
-street: "Weilsteinstraße"
-housenumber: 13
+street: Weilsteinstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://vital-fit-massagesessel.de/"
+website: https://vital-fit-massagesessel.de/

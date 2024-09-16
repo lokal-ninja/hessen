@@ -1,11 +1,11 @@
 id: 216068806
-type: way
+type: node
 latitude: 50.52292
 longitude: 10.01743
 postcode: "36115"
 city: Ehrenberg
-street: "Eisenacher Straße"
-housenumber: 9
-phone: "+49 6683 917030"
-opening_hours: "Mo-Fr 08:00-12:30,13:30-18:00; Sa 08:00-12:30; Su off"
-website: "https://automarkt-handwerk.de/"
+street: Eisenacher Straße
+housenumber: "9"
+phone: +49 6683 917030
+opening_hours: Mo-Fr 08:00-12:30,13:30-18:00; Sa 08:00-12:30; Su off
+website: https://automarkt-handwerk.de/

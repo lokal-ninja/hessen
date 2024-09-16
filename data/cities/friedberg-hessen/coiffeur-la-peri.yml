@@ -4,8 +4,9 @@ latitude: 50.34377
 longitude: 8.74709
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Städter Weg"
-housenumber: 12
-phone: "+49 6031 719752"
-opening_hours: "Tu 09:00-18:00, We 09:00-18:00, Th-Fr 09:00-18:00, Sa 08:00-15:00, Su-Mo off"
-website: "https://coiffeurlaperi.de/"
+street: Städter Weg
+housenumber: "12"
+phone: +49 6031 719752
+opening_hours: Tu 09:00-18:00, We 09:00-18:00, Th-Fr 09:00-18:00, Sa 08:00-15:00,
+    Su-Mo off
+website: https://coiffeurlaperi.de/

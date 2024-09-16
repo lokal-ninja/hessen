@@ -4,8 +4,8 @@ latitude: 51.3229
 longitude: 9.4952
 postcode: "34117"
 city: Kassel
-street: "Erzbergerstraße"
-housenumber: 42
+street: Erzbergerstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 05:00-00:00; Sa, Su 06:00-00:00"
-website: "https://www.bft.de/"
+opening_hours: Mo-Fr 05:00-00:00; Sa, Su 06:00-00:00
+website: https://www.bft.de/

@@ -1,11 +1,11 @@
 id: 514904999
-type: way
+type: node
 latitude: 49.49989
 longitude: 8.9189
 postcode: "64760"
 city: Oberzent
-street: "Odenwälder Landstraße"
-housenumber: 17
+street: Odenwälder Landstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

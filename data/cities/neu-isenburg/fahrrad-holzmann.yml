@@ -1,11 +1,11 @@
 id: 294569040
-type: way
+type: node
 latitude: 50.05177
 longitude: 8.69841
 postcode: "63263"
 city: Neu-Isenburg
-street: "Wilhelmstraße"
-housenumber: 33
-phone: "+49-6102 733654"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su,PH off"
-website: "https://www.fahrrad-holzmann.de/"
+street: Wilhelmstraße
+housenumber: "33"
+phone: +49-6102 733654
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00; Su,PH off
+website: https://www.fahrrad-holzmann.de/

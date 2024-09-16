@@ -1,11 +1,11 @@
 id: 445611820
-type: way
+type: node
 latitude: 50.52669
 longitude: 9.67686
 postcode: "36043"
 city: Fulda
-street: "Frankfurter Straße"
-housenumber: 146
+street: Frankfurter Straße
+housenumber: "146"
 phone: ""
 opening_hours: ""
 website: ""

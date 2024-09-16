@@ -1,11 +1,11 @@
 id: 166046717
-type: way
+type: node
 latitude: 50.59492
 longitude: 8.9466
 postcode: ""
 city: Grünberg
-street: "Gießener Straße"
-housenumber: 61
-phone: "+49 6401 - 903370"
-opening_hours: "Mo-Sa 06:00-22:00"
+street: Gießener Straße
+housenumber: "61"
+phone: +49 6401 - 903370
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

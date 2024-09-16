@@ -1,11 +1,11 @@
 id: 159832175
-type: way
+type: node
 latitude: 51.3532
 longitude: 9.46507
 postcode: "34246"
 city: Vellmar
-street: "Lange Wender"
-housenumber: 4
-phone: "+49 561 8200497"
+street: Lange Wender
+housenumber: "4"
+phone: +49 561 8200497
 opening_hours: ""
-website: "https://www.lienhop-gmbh.de/"
+website: https://www.lienhop-gmbh.de/

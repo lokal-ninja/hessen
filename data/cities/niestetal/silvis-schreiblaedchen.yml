@@ -1,11 +1,11 @@
 id: 27617686
-type: way
+type: node
 latitude: 51.3057
 longitude: 9.57345
 postcode: "34266"
 city: Niestetal
-street: "Karl-Marx-Straße"
-housenumber: 28
+street: Karl-Marx-Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

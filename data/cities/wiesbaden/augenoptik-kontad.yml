@@ -4,8 +4,8 @@ latitude: 50.04473
 longitude: 8.20016
 postcode: "65201"
 city: Wiesbaden
-street: "Rheingaustraße"
-housenumber: 6
-phone: "+49 61122540"
-opening_hours: "Mo-Sa 09:00-12:30; Mo-Tu 14:00-18:00; Th-Fr 14:00-18:00"
-website: "https://augenoptik-konrad.de/"
+street: Rheingaustraße
+housenumber: "6"
+phone: +49 61122540
+opening_hours: Mo-Sa 09:00-12:30; Mo-Tu 14:00-18:00; Th-Fr 14:00-18:00
+website: https://augenoptik-konrad.de/

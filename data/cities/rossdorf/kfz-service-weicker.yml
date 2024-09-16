@@ -1,11 +1,11 @@
 id: 238179587
-type: way
+type: node
 latitude: 49.86651
 longitude: 8.74447
 postcode: "64380"
 city: Roßdorf
-street: "Arheilger Weg"
-housenumber: 25
-phone: "+49 6154 5766888"
+street: Arheilger Weg
+housenumber: "25"
+phone: +49 6154 5766888
 opening_hours: ""
 website: ""

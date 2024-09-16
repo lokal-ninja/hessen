@@ -1,11 +1,11 @@
 id: 267582515
-type: way
+type: node
 latitude: 50.87051
 longitude: 8.6029
 postcode: "35232"
 city: Dautphetal
-street: "Elmshäuser Straße"
-housenumber: 29
-phone: "+49 6466 5147"
+street: Elmshäuser Straße
+housenumber: "29"
+phone: +49 6466 5147
 opening_hours: ""
 website: ""

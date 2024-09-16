@@ -4,8 +4,8 @@ latitude: 50.08072
 longitude: 8.2373
 postcode: "65183"
 city: Wiesbaden
-street: "Faulbrunnenstraße"
-housenumber: 6
-phone: "+49 611 58087711"
-opening_hours: "Mo-Fr 10:00-19:00,Sa 10:00-16:00"
-website: "https://hairfree.de/standorte/wiesbaden/"
+street: Faulbrunnenstraße
+housenumber: "6"
+phone: +49 611 58087711
+opening_hours: Mo-Fr 10:00-19:00,Sa 10:00-16:00
+website: https://hairfree.de/standorte/wiesbaden/

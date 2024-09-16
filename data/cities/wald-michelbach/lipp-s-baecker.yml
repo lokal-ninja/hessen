@@ -4,8 +4,8 @@ latitude: 49.5686
 longitude: 8.82918
 postcode: "69483"
 city: Wald-Michelbach
-street: "Wetzkeil"
-housenumber: 14
+street: Wetzkeil
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 08:00-11:00"
-website: "https://lipps-baecker.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-12:30; Su 08:00-11:00
+website: https://lipps-baecker.de/

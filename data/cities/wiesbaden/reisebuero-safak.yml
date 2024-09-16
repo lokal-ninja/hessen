@@ -4,8 +4,8 @@ latitude: 50.08104
 longitude: 8.23306
 postcode: "65183"
 city: Wiesbaden
-street: "Hellmundstraße"
-housenumber: 21
-phone: "+49 611 401763"
-opening_hours: "Mo-Fr 10:30-17:00"
-website: "http://www.safakreisen.de/index.html"
+street: Hellmundstraße
+housenumber: "21"
+phone: +49 611 401763
+opening_hours: Mo-Fr 10:30-17:00
+website: http://www.safakreisen.de/index.html

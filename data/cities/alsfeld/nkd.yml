@@ -1,11 +1,11 @@
 id: 132953527
-type: way
+type: node
 latitude: 50.75193
 longitude: 9.27854
 postcode: "36304"
 city: Alsfeld
-street: "An der Au"
-housenumber: 1
+street: An der Au
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 100066123
-type: way
+type: node
 latitude: 50.59658
 longitude: 9.41712
 postcode: "36341"
 city: Lauterbach
-street: "Hohwaldstraße"
-housenumber: 2
+street: Hohwaldstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.hofgut-rudlos.de/"
+website: https://www.hofgut-rudlos.de/

@@ -1,11 +1,11 @@
 id: 93445381
-type: way
+type: node
 latitude: 50.02604
 longitude: 8.10993
 postcode: "65343"
 city: Eltville am Rhein
-street: "H.J.-Müller-Straße"
-housenumber: 2
+street: H.J.-Müller-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-sued.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-sued.de/

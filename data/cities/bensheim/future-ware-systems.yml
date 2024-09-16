@@ -1,11 +1,11 @@
 id: 117230450
-type: way
+type: node
 latitude: 49.68319
 longitude: 8.62141
 postcode: "64625"
 city: Bensheim
-street: "Darmstädter Straße"
-housenumber: 4
-phone: "+49 6251 680988"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.future-ware.de/"
+street: Darmstädter Straße
+housenumber: "4"
+phone: +49 6251 680988
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.future-ware.de/

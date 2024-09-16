@@ -1,11 +1,11 @@
 id: 194066592
-type: way
+type: node
 latitude: 49.85344
 longitude: 8.48759
 postcode: "64560"
 city: Riedstadt
-street: "Bertha-von-Suttner-Straße"
-housenumber: 12
+street: Bertha-von-Suttner-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/filialen/riedstadt-wolfskehlen/bertha-von-suttner-strasse-12/3846"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/filialen/riedstadt-wolfskehlen/bertha-von-suttner-strasse-12/3846

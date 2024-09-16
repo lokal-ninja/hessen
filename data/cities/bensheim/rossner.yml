@@ -1,11 +1,11 @@
 id: 123416288
-type: way
+type: node
 latitude: 49.68043
 longitude: 8.62251
 postcode: "64625"
 city: Bensheim
-street: "Hauptstraße"
-housenumber: 54
+street: Hauptstraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
 website: ""

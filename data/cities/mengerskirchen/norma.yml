@@ -1,11 +1,11 @@
 id: 320881400
-type: way
+type: node
 latitude: 50.56208
 longitude: 8.15618
 postcode: "35794"
 city: Mengerskirchen
-street: "Unterm Flecken"
-housenumber: 4
+street: Unterm Flecken
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

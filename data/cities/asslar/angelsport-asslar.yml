@@ -1,11 +1,11 @@
 id: 129792496
-type: way
+type: node
 latitude: 50.59151
 longitude: 8.45983
 postcode: "35614"
 city: Aßlar
-street: "Herborner Straße"
-housenumber: 19
+street: Herborner Straße
+housenumber: "19"
 phone: "+4964414470722"
 opening_hours: ""
 website: ""

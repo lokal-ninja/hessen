@@ -4,8 +4,8 @@ latitude: 49.97844
 longitude: 8.56789
 postcode: "64546"
 city: Mörfelden-Walldorf
-street: "Hermannstraße"
-housenumber: 3
+street: Hermannstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.phono-service.de/"
+website: https://www.phono-service.de/

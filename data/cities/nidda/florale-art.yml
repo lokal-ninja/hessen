@@ -1,11 +1,11 @@
 id: 664409737
-type: way
+type: node
 latitude: 50.40485
 longitude: 9.06055
 postcode: "63667"
 city: Nidda
-street: "Wallernhäuser Straße"
-housenumber: 14
+street: Wallernhäuser Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

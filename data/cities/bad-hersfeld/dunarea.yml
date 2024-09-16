@@ -1,11 +1,11 @@
 id: 120114741
-type: way
+type: node
 latitude: 50.87137
 longitude: 9.71022
 postcode: "36251"
 city: Bad Hersfeld
-street: "Seilerweg"
+street: Seilerweg
 housenumber: 2A
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10-19:30"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10-19:30
 website: ""

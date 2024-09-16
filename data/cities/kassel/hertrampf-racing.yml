@@ -4,8 +4,9 @@ latitude: 51.30105
 longitude: 9.53985
 postcode: "34123"
 city: Kassel
-street: "Olebachweg"
-housenumber: 50
-phone: "+49 561 94914860"
-opening_hours: "Mar-Sep Mo-Fr 09:00-18:30; Mar-Sep Sa 09:00-16:00; Oct-Feb Mo-Fr 09:00-18:00; Oct-Feb Sa 10:00-14:00; Su,PH off"
-website: "https://www.hertrampf-kassel.de/"
+street: Olebachweg
+housenumber: "50"
+phone: +49 561 94914860
+opening_hours: Mar-Sep Mo-Fr 09:00-18:30; Mar-Sep Sa 09:00-16:00; Oct-Feb Mo-Fr 09:00-18:00;
+    Oct-Feb Sa 10:00-14:00; Su,PH off
+website: https://www.hertrampf-kassel.de/

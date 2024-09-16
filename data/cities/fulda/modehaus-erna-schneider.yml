@@ -4,8 +4,8 @@ latitude: 50.55222
 longitude: 9.67866
 postcode: "36037"
 city: Fulda
-street: "Universitätsplatz"
-housenumber: 3
+street: Universitätsplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-18:00"
-website: "https://www.modehaus-schneider.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-18:00
+website: https://www.modehaus-schneider.de/

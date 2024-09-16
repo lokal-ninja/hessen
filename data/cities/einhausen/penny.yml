@@ -1,11 +1,11 @@
 id: 200050199
-type: way
+type: node
 latitude: 49.67519
 longitude: 8.55226
 postcode: "64683"
 city: Einhausen
-street: "Rudolf-Diesel-Straße"
-housenumber: 1
+street: Rudolf-Diesel-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

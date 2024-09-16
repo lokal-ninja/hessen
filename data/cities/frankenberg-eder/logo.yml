@@ -1,11 +1,11 @@
 id: 316128270
-type: way
+type: node
 latitude: 51.0607
 longitude: 8.78346
 postcode: "35066"
 city: Frankenberg (Eder)
-street: "Ruhrstraße"
-housenumber: 5
-phone: "+49 6451 1307"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.logo-getraenke.de/"
+street: Ruhrstraße
+housenumber: "5"
+phone: +49 6451 1307
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.logo-getraenke.de/

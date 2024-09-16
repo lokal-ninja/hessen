@@ -4,8 +4,8 @@ latitude: 50.56778
 longitude: 8.48353
 postcode: "35576"
 city: Wetzlar
-street: "Dillfeld"
-housenumber: 21
-phone: "+49 6441 98440"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://obi.de/baumarkt/wetzlar"
+street: Dillfeld
+housenumber: "21"
+phone: +49 6441 98440
+opening_hours: Mo-Sa 08:00-20:00
+website: https://obi.de/baumarkt/wetzlar

@@ -1,11 +1,11 @@
 id: 38072293
-type: way
+type: node
 latitude: 51.30554
 longitude: 9.4434
 postcode: "34131"
 city: Kassel
-street: "Ludwig-Erhard-Straße"
-housenumber: 11
+street: Ludwig-Erhard-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.tegut.com/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.tegut.com/

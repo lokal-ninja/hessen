@@ -1,11 +1,11 @@
 id: 263719960
-type: way
+type: node
 latitude: 50.19526
 longitude: 8.38035
 postcode: "61479"
 city: Glashütten
-street: "Im Buhles"
-housenumber: 11
+street: Im Buhles
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-13:00"
+opening_hours: Mo-Sa 08:00-13:00
 website: ""

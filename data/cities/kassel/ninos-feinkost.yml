@@ -4,8 +4,8 @@ latitude: 51.3234
 longitude: 9.47655
 postcode: "34127"
 city: Kassel
-street: "Philippistraße"
-housenumber: 17
-phone: "+49 561891744"
-opening_hours: "Tu-Fr 09:00-14:15, 16:00-18:00; Sa 09:00-14:00"
+street: Philippistraße
+housenumber: "17"
+phone: +49 561891744
+opening_hours: Tu-Fr 09:00-14:15, 16:00-18:00; Sa 09:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.58546
 longitude: 8.67469
 postcode: "35390"
 city: Gießen
-street: "Kreuzplatz"
-housenumber: 2
-phone: "+49 641 3011722"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "http://www.haarstudiobahar.de/"
+street: Kreuzplatz
+housenumber: "2"
+phone: +49 641 3011722
+opening_hours: Mo-Sa 09:00-19:00
+website: http://www.haarstudiobahar.de/

@@ -4,8 +4,8 @@ latitude: 50.13499
 longitude: 8.91559
 postcode: "63450"
 city: Hanau
-street: "Sternstraße"
-housenumber: 4
-phone: "+49 6181 4286694"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.christ.de/filiale/090/hanau-forum-hanau-sternstr-4"
+street: Sternstraße
+housenumber: "4"
+phone: +49 6181 4286694
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.christ.de/filiale/090/hanau-forum-hanau-sternstr-4

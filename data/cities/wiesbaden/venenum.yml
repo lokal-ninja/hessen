@@ -4,8 +4,8 @@ latitude: 50.079
 longitude: 8.23004
 postcode: "65183"
 city: Wiesbaden
-street: "Bismarckring"
-housenumber: 7
-phone: "+49 611 36026704"
-opening_hours: "Tu-Fr 09:00-17:00, Sa 09:00-14:00"
+street: Bismarckring
+housenumber: "7"
+phone: +49 611 36026704
+opening_hours: Tu-Fr 09:00-17:00, Sa 09:00-14:00
 website: ""

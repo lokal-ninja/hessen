@@ -1,11 +1,11 @@
 id: 115681080
-type: way
+type: node
 latitude: 49.69557
 longitude: 8.61466
 postcode: "64625"
 city: Bensheim
-street: "Wilhelmstraße"
-housenumber: 142
+street: Wilhelmstraße
+housenumber: "142"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

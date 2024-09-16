@@ -4,8 +4,8 @@ latitude: 50.48833
 longitude: 9.70804
 postcode: "36124"
 city: Eichenzell
-street: "Rhönhof"
-housenumber: 5
-phone: "+49 6659 915450"
-opening_hours: "24/7"
-website: "http://www.autohof-eichenzell.de/"
+street: Rhönhof
+housenumber: "5"
+phone: +49 6659 915450
+opening_hours: 24/7
+website: http://www.autohof-eichenzell.de/

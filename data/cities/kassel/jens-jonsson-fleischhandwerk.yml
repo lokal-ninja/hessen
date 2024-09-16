@@ -4,8 +4,8 @@ latitude: 51.28823
 longitude: 9.47069
 postcode: "34134"
 city: Kassel
-street: "Frankfurter Straße"
-housenumber: 234
-phone: "+49 561 820 58878"
-opening_hours: "Mo,Sa 07:00-14:00, Tu-Fr 07:00-18:00"
-website: "https://fleischhandwerk.de/"
+street: Frankfurter Straße
+housenumber: "234"
+phone: +49 561 820 58878
+opening_hours: Mo,Sa 07:00-14:00, Tu-Fr 07:00-18:00
+website: https://fleischhandwerk.de/

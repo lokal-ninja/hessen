@@ -1,11 +1,11 @@
 id: 371053773
-type: way
+type: node
 latitude: 50.45149
 longitude: 9.91407
 postcode: "36129"
 city: Gersfeld
-street: "Fuldaer Straße"
-housenumber: 13
-phone: "+49 6654 7211"
-opening_hours: "Mo-Fr 08:30-12:30, 13:30-18:00; Sa 08:30-13:00"
-website: "http://www.fachmarkt-center-gersfeld.de/"
+street: Fuldaer Straße
+housenumber: "13"
+phone: +49 6654 7211
+opening_hours: Mo-Fr 08:30-12:30, 13:30-18:00; Sa 08:30-13:00
+website: http://www.fachmarkt-center-gersfeld.de/

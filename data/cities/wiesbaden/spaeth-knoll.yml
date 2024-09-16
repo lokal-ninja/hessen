@@ -4,8 +4,8 @@ latitude: 50.06883
 longitude: 8.25353
 postcode: "65189"
 city: Wiesbaden
-street: "Salierstraße"
-housenumber: 25
-phone: "+49 611 971400 0"
-opening_hours: "Mo-Tu 06:30-16:00;Fr 06:30-15:00;Sa 08:00-12:00"
-website: "https://www.spaeth24.de/de/standort-sp%C3%A4th-wiesbaden"
+street: Salierstraße
+housenumber: "25"
+phone: +49 611 971400 0
+opening_hours: Mo-Tu 06:30-16:00;Fr 06:30-15:00;Sa 08:00-12:00
+website: https://www.spaeth24.de/de/standort-sp%C3%A4th-wiesbaden

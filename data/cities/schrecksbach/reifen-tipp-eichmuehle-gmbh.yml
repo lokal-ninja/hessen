@@ -4,8 +4,8 @@ latitude: 50.81793
 longitude: 9.26471
 postcode: "34637"
 city: Schrecksbach
-street: "Eichmühle"
-housenumber: 1
+street: Eichmühle
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00;Sa 09:00-12:00"
-website: "https://www.reifen-tip.de/"
+opening_hours: Mo-Fr 08:00-17:00;Sa 09:00-12:00
+website: https://www.reifen-tip.de/

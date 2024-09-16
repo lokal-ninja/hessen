@@ -4,8 +4,8 @@ latitude: 50.55685
 longitude: 8.49748
 postcode: "35576"
 city: Wetzlar
-street: "Langgasse"
-housenumber: 33
-phone: "+49 6441 47 080"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://betten-ruhe.de"
+street: Langgasse
+housenumber: "33"
+phone: +49 6441 47 080
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://betten-ruhe.de

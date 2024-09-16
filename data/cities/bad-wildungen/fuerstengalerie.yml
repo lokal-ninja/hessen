@@ -1,11 +1,11 @@
 id: 352955760
-type: way
+type: node
 latitude: 51.11973
 longitude: 9.11897
 postcode: "34537"
 city: Bad Wildungen
-street: "Breiter Hagen"
-housenumber: 6
+street: Breiter Hagen
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

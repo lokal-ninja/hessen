@@ -1,11 +1,11 @@
 id: 261744793
-type: way
+type: node
 latitude: 51.32901
 longitude: 9.49999
 postcode: "34127"
 city: Kassel
-street: "Holländische Straße"
-housenumber: 90
+street: Holländische Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Th 07:30-17:30; Fr 07:30-16:00"
+opening_hours: Mo-Th 07:30-17:30; Fr 07:30-16:00
 website: ""

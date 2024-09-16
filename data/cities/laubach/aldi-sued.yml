@@ -1,11 +1,11 @@
 id: 67391197
-type: way
+type: node
 latitude: 50.54436
 longitude: 8.97724
 postcode: "35321"
 city: Laubach
-street: "Philipp-Reis-Straße"
-housenumber: 11
+street: Philipp-Reis-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 374236304
-type: way
+type: node
 latitude: 51.19047
 longitude: 10.02394
 postcode: "37269"
 city: Eschwege
-street: "Danziger Weg"
-housenumber: 6
-phone: "+49 5651 21473"
+street: Danziger Weg
+housenumber: "6"
+phone: +49 5651 21473
 opening_hours: ""
 website: ""

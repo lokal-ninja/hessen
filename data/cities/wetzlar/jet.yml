@@ -1,11 +1,11 @@
 id: 1286179939
-type: way
+type: node
 latitude: 50.5748
 longitude: 8.49082
 postcode: "35576"
 city: Wetzlar
-street: "Hermannsteiner Straße"
-housenumber: 67
+street: Hermannsteiner Straße
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

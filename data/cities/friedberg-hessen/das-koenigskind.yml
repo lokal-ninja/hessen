@@ -4,8 +4,8 @@ latitude: 50.33585
 longitude: 8.75836
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Hanauer Straße"
-housenumber: 10
-phone: "+49 6031 1609400"
-opening_hours: "Mo 09:00-14:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa 10:00-13:00"
-website: "https://das-koenigskind.de"
+street: Hanauer Straße
+housenumber: "10"
+phone: +49 6031 1609400
+opening_hours: Mo 09:00-14:00; Tu-Fr 09:00-13:00,14:00-18:00; Sa 10:00-13:00
+website: https://das-koenigskind.de

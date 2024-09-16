@@ -4,8 +4,8 @@ latitude: 50.12345
 longitude: 8.64205
 postcode: "60486"
 city: Frankfurt am Main
-street: "Mühlgasse"
-housenumber: 3
+street: Mühlgasse
+housenumber: "3"
 phone: ""
-opening_hours: "Mo 14:00-18:30; Tu-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "https://www.genialokal.de/buchhandlung/frankfurt/libretto-frankfurt/"
+opening_hours: Mo 14:00-18:30; Tu-Fr 10:00-18:30; Sa 10:00-14:00
+website: https://www.genialokal.de/buchhandlung/frankfurt/libretto-frankfurt/

@@ -4,8 +4,8 @@ latitude: 51.28731
 longitude: 9.47454
 postcode: "34134"
 city: Kassel
-street: "Frankfurter Straße"
-housenumber: 225
-phone: "+49-561-9413369"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 08:00-20:00"
-website: "https://www.thiele.info/"
+street: Frankfurter Straße
+housenumber: "225"
+phone: +49-561-9413369
+opening_hours: Mo-Fr 08:00-20:00;Sa 08:00-20:00
+website: https://www.thiele.info/

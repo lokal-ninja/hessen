@@ -1,11 +1,11 @@
 id: 349857277
-type: way
+type: node
 latitude: 50.84727
 longitude: 8.77788
 postcode: "35091"
 city: Cölbe
-street: "Kasseler Straße"
-housenumber: 37
+street: Kasseler Straße
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

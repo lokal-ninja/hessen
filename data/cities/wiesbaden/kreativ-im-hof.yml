@@ -4,8 +4,8 @@ latitude: 50.06264
 longitude: 8.15391
 postcode: "65201"
 city: Wiesbaden
-street: "Kirschblütenstraße"
-housenumber: 6
-phone: "+49 611 423910"
-opening_hours: "24/7"
-website: "https://kreativ-im-hof.com/"
+street: Kirschblütenstraße
+housenumber: "6"
+phone: +49 611 423910
+opening_hours: 24/7
+website: https://kreativ-im-hof.com/

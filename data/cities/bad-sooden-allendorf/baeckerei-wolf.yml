@@ -1,11 +1,11 @@
 id: 235878064
-type: way
+type: node
 latitude: 51.26985
 longitude: 9.98106
 postcode: "37242"
 city: Bad Sooden-Allendorf
-street: "Rothesteinstraße"
-housenumber: 4
+street: Rothesteinstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

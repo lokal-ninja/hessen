@@ -4,8 +4,8 @@ latitude: 50.99503
 longitude: 9.72771
 postcode: "36199"
 city: Rotenburg an der Fulda
-street: "Breitenstraße"
-housenumber: 35
-phone: "+49 6623 5744"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"
+street: Breitenstraße
+housenumber: "35"
+phone: +49 6623 5744
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-13:00
 website: ""

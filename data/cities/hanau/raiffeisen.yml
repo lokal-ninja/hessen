@@ -1,11 +1,11 @@
 id: 222996498
-type: way
+type: node
 latitude: 50.14955
 longitude: 8.93079
 postcode: "63452"
 city: Hanau
-street: "Moselstraße"
-housenumber: 41
+street: Moselstraße
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

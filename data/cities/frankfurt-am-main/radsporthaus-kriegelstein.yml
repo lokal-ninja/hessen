@@ -4,8 +4,8 @@ latitude: 50.09645
 longitude: 8.4884
 postcode: "65931"
 city: Frankfurt am Main
-street: "Hofheimer Straße"
-housenumber: 5
-phone: "+49 69 365238"
-opening_hours: "Mo, Tu, Th, Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.radsporthaus-kriegelstein.de/"
+street: Hofheimer Straße
+housenumber: "5"
+phone: +49 69 365238
+opening_hours: Mo, Tu, Th, Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.radsporthaus-kriegelstein.de/

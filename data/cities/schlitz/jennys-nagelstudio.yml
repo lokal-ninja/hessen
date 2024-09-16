@@ -1,11 +1,11 @@
 id: 102018028
-type: way
+type: node
 latitude: 50.67508
 longitude: 9.55912
 postcode: "36110"
 city: Schlitz
-street: "Im Grund"
-housenumber: 6
+street: Im Grund
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

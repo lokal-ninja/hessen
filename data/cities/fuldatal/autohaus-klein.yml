@@ -1,11 +1,11 @@
 id: 148251776
-type: way
+type: node
 latitude: 51.35169
 longitude: 9.52027
 postcode: "34233"
 city: Fuldatal
-street: "Niedervellmarsche Straße"
-housenumber: 26
-phone: "+49 561 8103-0"
+street: Niedervellmarsche Straße
+housenumber: "26"
+phone: +49 561 8103-0
 opening_hours: ""
-website: "https://www.autohaus-klein.de/"
+website: https://www.autohaus-klein.de/

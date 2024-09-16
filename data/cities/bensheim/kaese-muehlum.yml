@@ -1,11 +1,11 @@
 id: 153273289
-type: way
+type: node
 latitude: 49.67957
 longitude: 8.62093
 postcode: "64625"
 city: Bensheim
-street: "Gerbergasse"
-housenumber: 7
-phone: "+49 1512 1122163"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:30"
-website: "https://kaese-muehlum.de/"
+street: Gerbergasse
+housenumber: "7"
+phone: +49 1512 1122163
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:30
+website: https://kaese-muehlum.de/

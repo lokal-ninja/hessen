@@ -1,11 +1,11 @@
 id: 81098252
-type: way
+type: node
 latitude: 49.80875
 longitude: 8.82477
 postcode: "64401"
 city: Groß-Bieberau
-street: "Am Schaubacher Berg"
-housenumber: 20
+street: Am Schaubacher Berg
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

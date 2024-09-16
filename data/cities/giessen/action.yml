@@ -1,11 +1,12 @@
 id: 105867850
-type: way
+type: node
 latitude: 50.60301
 longitude: 8.6896
 postcode: "35396"
 city: Gießen
-street: "Marburger Straße"
-housenumber: 183
+street: Marburger Straße
+housenumber: "183"
 phone: ""
-opening_hours: "Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-20:00; Su closed"
-website: "https://www.action.com/de-de/laden/gieben-marburger-strabe/"
+opening_hours: Mo 09:00-20:00; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr
+    09:00-20:00; Sa 09:00-20:00; Su closed
+website: https://www.action.com/de-de/laden/gieben-marburger-strabe/

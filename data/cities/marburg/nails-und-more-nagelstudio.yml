@@ -4,8 +4,8 @@ latitude: 50.84505
 longitude: 8.71641
 postcode: "35041"
 city: Marburg
-street: "Sonnenweg"
-housenumber: 14
-phone: "+49 173 2643289"
-opening_hours: "Nach Vereinbarung"
+street: Sonnenweg
+housenumber: "14"
+phone: +49 173 2643289
+opening_hours: '"Nach Vereinbarung"'
 website: ""

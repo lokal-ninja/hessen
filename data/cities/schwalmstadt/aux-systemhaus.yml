@@ -4,8 +4,8 @@ latitude: 50.91405
 longitude: 9.18455
 postcode: "34613"
 city: Schwalmstadt
-street: "Wagnergasse"
-housenumber: 17
-phone: "+49 6691 22130"
-opening_hours: "Mo-Fr 09:00-13:00 14:30-17:00"
-website: "https://www.aux-sys.de/"
+street: Wagnergasse
+housenumber: "17"
+phone: +49 6691 22130
+opening_hours: Mo-Fr 09:00-13:00 14:30-17:00
+website: https://www.aux-sys.de/

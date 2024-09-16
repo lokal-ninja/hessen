@@ -1,11 +1,11 @@
 id: 365515374
-type: way
+type: node
 latitude: 50.84843
 longitude: 8.78337
 postcode: "35091"
 city: Cölbe
-street: "Alte Dorfstraße"
-housenumber: 9
+street: Alte Dorfstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

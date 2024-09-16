@@ -1,11 +1,11 @@
 id: 332647262
-type: way
+type: node
 latitude: 51.3466
 longitude: 9.85382
 postcode: "37213"
 city: Witzenhausen
-street: "Laubenweg"
-housenumber: 5
+street: Laubenweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 160137281
-type: way
+type: node
 latitude: 50.29632
 longitude: 8.51408
 postcode: "61267"
 city: Neu-Anspach
-street: "Bahnhofstraße"
-housenumber: 73
-phone: "+49 6081 405951"
+street: Bahnhofstraße
+housenumber: "73"
+phone: +49 6081 405951
 opening_hours: ""
-website: "http://www.diewerkstatt4u.de/"
+website: http://www.diewerkstatt4u.de/

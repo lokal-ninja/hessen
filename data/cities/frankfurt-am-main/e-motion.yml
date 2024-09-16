@@ -1,11 +1,11 @@
 id: 110391069
-type: way
+type: node
 latitude: 50.19242
 longitude: 8.65573
 postcode: "60437"
 city: Frankfurt am Main
-street: "Berner Straße"
+street: Berner Straße
 housenumber: 107a
-phone: "+49 89 2475 22520"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-16:00"
-website: "https://emotion-technologies.de/frankfurt-nord/"
+phone: +49 89 2475 22520
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-16:00
+website: https://emotion-technologies.de/frankfurt-nord/

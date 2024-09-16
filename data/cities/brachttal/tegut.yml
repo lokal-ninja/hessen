@@ -1,11 +1,11 @@
 id: 90613752
-type: way
+type: node
 latitude: 50.3039
 longitude: 9.29995
 postcode: "63636"
 city: Brachttal
-street: "Fabrikstraße"
-housenumber: 5
+street: Fabrikstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.tegut.com"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.tegut.com

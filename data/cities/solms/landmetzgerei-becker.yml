@@ -4,8 +4,8 @@ latitude: 50.55363
 longitude: 8.41782
 postcode: "35606"
 city: Solms
-street: "Heinrich-Baumann-Straße"
-housenumber: 3
-phone: "+49 6441 - 449 7212"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"
-website: "https://metzgerei-becker-solms.de"
+street: Heinrich-Baumann-Straße
+housenumber: "3"
+phone: +49 6441 - 449 7212
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-13:00
+website: https://metzgerei-becker-solms.de

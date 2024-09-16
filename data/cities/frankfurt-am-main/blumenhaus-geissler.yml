@@ -4,8 +4,8 @@ latitude: 50.0921
 longitude: 8.69153
 postcode: "60598"
 city: Frankfurt am Main
-street: "Darmstädter Landstraße"
-housenumber: 225
-phone: "+49 69 681507"
+street: Darmstädter Landstraße
+housenumber: "225"
+phone: +49 69 681507
 opening_hours: ""
-website: "https://florist.fleurop.de/geissler.frankfurt"
+website: https://florist.fleurop.de/geissler.frankfurt

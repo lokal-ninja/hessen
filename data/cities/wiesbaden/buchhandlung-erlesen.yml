@@ -4,8 +4,8 @@ latitude: 50.07306
 longitude: 8.23199
 postcode: "65187"
 city: Wiesbaden
-street: "Niederwaldstraße"
-housenumber: 3
-phone: "+49 6 11 2675628"
-opening_hours: "Mo 15:00-19:00; Tu-Fr 10:00-13:00,15:00-19:00; Sa 10:00-14:00"
-website: "https://www.erlesen-wiesbaden.de/"
+street: Niederwaldstraße
+housenumber: "3"
+phone: +49 6 11 2675628
+opening_hours: Mo 15:00-19:00; Tu-Fr 10:00-13:00,15:00-19:00; Sa 10:00-14:00
+website: https://www.erlesen-wiesbaden.de/

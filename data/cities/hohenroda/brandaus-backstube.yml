@@ -4,8 +4,8 @@ latitude: 50.8266
 longitude: 9.9069
 postcode: "36284"
 city: Hohenroda
-street: "Oberdorf"
-housenumber: 37
-phone: "+49 6629 498"
-opening_hours: "Mo-Sa 05:45-12:00; Su 07:30-10:00"
-website: "https://www.brandaus.de/"
+street: Oberdorf
+housenumber: "37"
+phone: +49 6629 498
+opening_hours: Mo-Sa 05:45-12:00; Su 07:30-10:00
+website: https://www.brandaus.de/

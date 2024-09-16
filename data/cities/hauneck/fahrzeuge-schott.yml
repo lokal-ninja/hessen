@@ -1,11 +1,11 @@
 id: 132467202
-type: way
+type: node
 latitude: 50.83346
 longitude: 9.74396
 postcode: "36282"
 city: Hauneck
-street: "Bornweg"
-housenumber: 19
+street: Bornweg
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

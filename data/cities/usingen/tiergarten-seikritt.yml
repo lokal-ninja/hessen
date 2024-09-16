@@ -1,11 +1,11 @@
 id: 57722541
-type: way
+type: node
 latitude: 50.32829
 longitude: 8.52551
 postcode: "61250"
 city: Usingen
-street: "Achtzehnmorgenweg"
-housenumber: 5
+street: Achtzehnmorgenweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

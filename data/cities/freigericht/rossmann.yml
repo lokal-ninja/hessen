@@ -1,11 +1,11 @@
 id: 243517367
-type: way
+type: node
 latitude: 50.14652
 longitude: 9.10866
 postcode: "63579"
 city: Freigericht
-street: "Raiffeisenstraße"
-housenumber: 9
+street: Raiffeisenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00; PH off
 website: ""

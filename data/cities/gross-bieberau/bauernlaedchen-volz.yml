@@ -4,8 +4,8 @@ latitude: 49.80291
 longitude: 8.82639
 postcode: "64401"
 city: Groß-Bieberau
-street: "Bahnhofstraße"
-housenumber: 31
-phone: "+49 6162 3232"
-opening_hours: "Tu-Fr 09:00-12:30,14:30-18:00; We 09:00-12:30; Sa 08:00-12:30"
-website: "https://www.bauernlaedchen-volz.de/"
+street: Bahnhofstraße
+housenumber: "31"
+phone: +49 6162 3232
+opening_hours: Tu-Fr 09:00-12:30,14:30-18:00; We 09:00-12:30; Sa 08:00-12:30
+website: https://www.bauernlaedchen-volz.de/

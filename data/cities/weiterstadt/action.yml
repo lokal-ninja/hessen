@@ -1,11 +1,11 @@
 id: 55847138
-type: way
+type: node
 latitude: 49.89911
 longitude: 8.60869
 postcode: "64331"
 city: Weiterstadt
-street: "Robert-Bosch-Straße"
-housenumber: 2
+street: Robert-Bosch-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
-website: "https://www.action.com/de-de/laden/weiterstadt-robert-bosch-strabe/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off
+website: https://www.action.com/de-de/laden/weiterstadt-robert-bosch-strabe/

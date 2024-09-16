@@ -1,11 +1,11 @@
 id: 354841758
-type: way
+type: node
 latitude: 49.54627
 longitude: 8.59078
 postcode: "68519"
 city: Viernheim
-street: "Wiesenstraße"
-housenumber: 75
-phone: "+49 6204 3056365"
+street: Wiesenstraße
+housenumber: "75"
+phone: +49 6204 3056365
 opening_hours: ""
-website: "https://clean-car24.de/"
+website: https://clean-car24.de/

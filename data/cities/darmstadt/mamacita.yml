@@ -4,8 +4,8 @@ latitude: 49.8711
 longitude: 8.65236
 postcode: "64283"
 city: Darmstadt
-street: "Luisenstraße"
-housenumber: 16
-phone: "+49 6151 3967746"
-opening_hours: "Mo,Fr 11:00-18:30; Tu-Th 11:00-19:00; Sa 11:00-19:00"
+street: Luisenstraße
+housenumber: "16"
+phone: +49 6151 3967746
+opening_hours: Mo,Fr 11:00-18:30; Tu-Th 11:00-19:00; Sa 11:00-19:00
 website: ""

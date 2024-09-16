@@ -4,8 +4,8 @@ latitude: 50.03086
 longitude: 8.70304
 postcode: "63303"
 city: Dreieich
-street: "Robert-Bosch-Straße"
-housenumber: 15
-phone: "+49 6103 2029299"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.kamps.de/"
+street: Robert-Bosch-Straße
+housenumber: "15"
+phone: +49 6103 2029299
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.kamps.de/

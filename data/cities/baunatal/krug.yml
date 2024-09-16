@@ -1,11 +1,11 @@
 id: 177299232
-type: way
+type: node
 latitude: 51.25811
 longitude: 9.41844
 postcode: "34225"
 city: Baunatal
-street: "Altenritter Straße"
-housenumber: 4
-phone: "+49 561 494717"
-opening_hours: "Mo 07:30-13:00; Tu-Fr 07:30-18:00; Sa 07:00-13:00"
-website: "http://www.fleischerei-krug.de/"
+street: Altenritter Straße
+housenumber: "4"
+phone: +49 561 494717
+opening_hours: Mo 07:30-13:00; Tu-Fr 07:30-18:00; Sa 07:00-13:00
+website: http://www.fleischerei-krug.de/

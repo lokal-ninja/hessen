@@ -1,11 +1,11 @@
 id: 227546540
-type: way
+type: node
 latitude: 51.34395
 longitude: 9.47521
 postcode: "34127"
 city: Kassel
-street: "Holländische Straße"
-housenumber: 209
-phone: "+49 561 7015090"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.dehner.de/"
+street: Holländische Straße
+housenumber: "209"
+phone: +49 561 7015090
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.dehner.de/

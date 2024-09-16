@@ -1,11 +1,11 @@
 id: 1000323229
-type: way
+type: node
 latitude: 50.55229
 longitude: 9.69493
 postcode: "36037"
 city: Fulda
-street: "Petersberger Straße"
-housenumber: 76
+street: Petersberger Straße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 00:00-24:00"
-website: "https://www.tegut.com/teo.html"
+opening_hours: Mo-Sa 00:00-24:00
+website: https://www.tegut.com/teo.html

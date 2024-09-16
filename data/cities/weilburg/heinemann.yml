@@ -4,8 +4,8 @@ latitude: 50.48551
 longitude: 8.26031
 postcode: "35781"
 city: Weilburg
-street: "Langgasse"
-housenumber: 30
-phone: "+49 6471 7157"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-13:00"
-website: "https://optik-akustik-heinemann.de/"
+street: Langgasse
+housenumber: "30"
+phone: +49 6471 7157
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-13:00
+website: https://optik-akustik-heinemann.de/

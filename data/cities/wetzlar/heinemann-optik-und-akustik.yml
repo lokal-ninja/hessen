@@ -4,8 +4,8 @@ latitude: 50.55658
 longitude: 8.4974
 postcode: "35576"
 city: Wetzlar
-street: "Langgasse"
-housenumber: 23
-phone: "+49 6441 45064"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 09:00-14:00"
-website: "https://optik-akustik-heinemann.de"
+street: Langgasse
+housenumber: "23"
+phone: +49 6441 45064
+opening_hours: Mo-Fr 08:30-18:00; Sa 09:00-14:00
+website: https://optik-akustik-heinemann.de

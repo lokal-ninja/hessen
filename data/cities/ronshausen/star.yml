@@ -1,11 +1,11 @@
 id: 1008659919
-type: way
+type: node
 latitude: 50.94635
 longitude: 9.8753
 postcode: "36217"
 city: Ronshausen
-street: "Eisenacher Straße"
-housenumber: 93
-phone: "+49 6622 2600"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:30-20:00; Su 07:30-20:00"
-website: "https://www.tankstelle-ronshausen.de/"
+street: Eisenacher Straße
+housenumber: "93"
+phone: +49 6622 2600
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:30-20:00; Su 07:30-20:00
+website: https://www.tankstelle-ronshausen.de/

@@ -4,8 +4,8 @@ latitude: 50.15756
 longitude: 8.63376
 postcode: "60439"
 city: Frankfurt am Main
-street: "Nidacorso"
-housenumber: 5
+street: Nidacorso
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.neusehland.de"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.neusehland.de

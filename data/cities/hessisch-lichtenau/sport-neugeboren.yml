@@ -4,8 +4,8 @@ latitude: 51.1985
 longitude: 9.72269
 postcode: "37235"
 city: Hessisch Lichtenau
-street: "Poststraße"
-housenumber: 1
-phone: "+49 5602 2445"
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,14:30-18:00;We 09:00-13:00;Sa 09:00-12:30"
-website: "https://www.mode-neugeboren.de"
+street: Poststraße
+housenumber: "1"
+phone: +49 5602 2445
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,14:30-18:00;We 09:00-13:00;Sa 09:00-12:30
+website: https://www.mode-neugeboren.de

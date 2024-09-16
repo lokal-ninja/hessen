@@ -1,11 +1,11 @@
 id: 129029260
-type: way
+type: node
 latitude: 50.41842
 longitude: 9.23435
 postcode: "63688"
 city: Gedern
-street: "Gederner Straße"
-housenumber: 12
+street: Gederner Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

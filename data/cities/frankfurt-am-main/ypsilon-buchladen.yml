@@ -4,8 +4,8 @@ latitude: 50.11921
 longitude: 8.69344
 postcode: "60316"
 city: Frankfurt am Main
-street: "Berger Straße"
-housenumber: 18
-phone: "+49 69 448738"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://www.y-buchladen.de/"
+street: Berger Straße
+housenumber: "18"
+phone: +49 69 448738
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://www.y-buchladen.de/

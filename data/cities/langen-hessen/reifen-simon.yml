@@ -1,11 +1,11 @@
 id: 166844842
-type: way
+type: node
 latitude: 49.99382
 longitude: 8.64927
 postcode: "63225"
 city: Langen (Hessen)
-street: "Siemensstraße"
-housenumber: 3
+street: Siemensstraße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.reifen-simon.com/filialen/langen"
+website: https://www.reifen-simon.com/filialen/langen

@@ -1,11 +1,11 @@
 id: 163443217
-type: way
+type: node
 latitude: 51.28911
 longitude: 9.41516
 postcode: "34132"
 city: Kassel
-street: "Nordshäuser Straße"
-housenumber: 40
+street: Nordshäuser Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo,We-Fr 08:00-19:00; Tu 08:00-14:00; Sa 07:00-13:00"
+opening_hours: Mo,We-Fr 08:00-19:00; Tu 08:00-14:00; Sa 07:00-13:00
 website: ""

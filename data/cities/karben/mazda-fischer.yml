@@ -1,11 +1,11 @@
 id: 842622570
-type: way
+type: node
 latitude: 50.24219
 longitude: 8.74863
 postcode: "61184"
 city: Karben
-street: "Am Spitzacker"
-housenumber: 1
-phone: "+49 6039 1046"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://mazda-autohaus-fischer-karben.de/"
+street: Am Spitzacker
+housenumber: "1"
+phone: +49 6039 1046
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off
+website: https://mazda-autohaus-fischer-karben.de/

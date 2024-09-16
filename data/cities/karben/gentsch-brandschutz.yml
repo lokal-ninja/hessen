@@ -4,8 +4,8 @@ latitude: 50.22453
 longitude: 8.76385
 postcode: "61184"
 city: Karben
-street: "Max-Planck-Straße"
-housenumber: 17
+street: Max-Planck-Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Th 07:30-12:00, Mo-Th 13:00-16:30, Fr 07:30-14:00"
-website: "https://www.gentsch-brandschutz.de/"
+opening_hours: Mo-Th 07:30-12:00, Mo-Th 13:00-16:30, Fr 07:30-14:00
+website: https://www.gentsch-brandschutz.de/

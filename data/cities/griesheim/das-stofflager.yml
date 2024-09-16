@@ -1,11 +1,11 @@
 id: 28877950
-type: way
+type: node
 latitude: 49.871
 longitude: 8.56341
 postcode: "64347"
 city: Griesheim
-street: "Boschstraße"
-housenumber: 3
-phone: "+49 6155 8317500"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://stofflager-griesheim.de"
+street: Boschstraße
+housenumber: "3"
+phone: +49 6155 8317500
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://stofflager-griesheim.de

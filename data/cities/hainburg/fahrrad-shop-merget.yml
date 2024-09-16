@@ -4,8 +4,8 @@ latitude: 50.07784
 longitude: 8.96943
 postcode: "63512"
 city: Hainburg
-street: "Maingasse"
-housenumber: 17
-phone: "+49 6182 4061"
-opening_hours: "Th,Fr 16:30-18:00; Sa 09:00-13:00"
+street: Maingasse
+housenumber: "17"
+phone: +49 6182 4061
+opening_hours: Th,Fr 16:30-18:00; Sa 09:00-13:00
 website: ""

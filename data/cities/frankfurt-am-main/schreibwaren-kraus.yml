@@ -1,11 +1,11 @@
 id: 175765193
-type: way
+type: node
 latitude: 50.14648
 longitude: 8.75456
 postcode: "60388"
 city: Frankfurt am Main
-street: "Triebstraße"
-housenumber: 33
-phone: "+49 6109 32852"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "https://www.schreibwaren-kraus.com/"
+street: Triebstraße
+housenumber: "33"
+phone: +49 6109 32852
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
+website: https://www.schreibwaren-kraus.com/

@@ -4,8 +4,8 @@ latitude: 50.43246
 longitude: 8.67113
 postcode: "35510"
 city: Butzbach
-street: "Weiseler Straße"
-housenumber: 32
+street: Weiseler Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-19:00; We,Sa 09:00-13:00"
+opening_hours: Mo,Tu,Th,Fr 09:00-19:00; We,Sa 09:00-13:00
 website: ""

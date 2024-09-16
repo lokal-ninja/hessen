@@ -4,8 +4,8 @@ latitude: 50.80174
 longitude: 8.7589
 postcode: "35037"
 city: Marburg
-street: "Schwanallee"
-housenumber: 29
+street: Schwanallee
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:30, Sa 10:00-14:30"
-website: "https://www.galerieladen.eu/"
+opening_hours: Mo-Fr 10:30-18:30, Sa 10:00-14:30
+website: https://www.galerieladen.eu/

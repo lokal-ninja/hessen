@@ -1,11 +1,11 @@
 id: 127582436
-type: way
+type: node
 latitude: 50.75944
 longitude: 9.22881
 postcode: "36304"
 city: Alsfeld
-street: "Mühlgarten"
-housenumber: 3
+street: Mühlgarten
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

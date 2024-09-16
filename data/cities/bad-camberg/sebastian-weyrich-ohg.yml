@@ -1,11 +1,11 @@
 id: 845188300
-type: way
+type: node
 latitude: 50.29761
 longitude: 8.26434
 postcode: "65520"
 city: Bad Camberg
-street: "Bahnhofstraße"
-housenumber: 18
-phone: "06434-7238"
+street: Bahnhofstraße
+housenumber: "18"
+phone: 06434-7238
 opening_hours: ""
 website: ""

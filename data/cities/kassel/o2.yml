@@ -4,8 +4,8 @@ latitude: 51.31311
 longitude: 9.49382
 postcode: "34117"
 city: Kassel
-street: "Obere Königsstraße"
-housenumber: 20
-phone: "+49 561 4307656"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.o2online.de/shops/kassel/966/"
+street: Obere Königsstraße
+housenumber: "20"
+phone: +49 561 4307656
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.o2online.de/shops/kassel/966/

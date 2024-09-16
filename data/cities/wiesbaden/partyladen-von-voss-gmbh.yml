@@ -1,11 +1,11 @@
 id: 295780740
-type: way
+type: node
 latitude: 50.03494
 longitude: 8.26055
 postcode: "65203"
 city: Wiesbaden
-street: "Wiesbadener Landstraße"
-housenumber: 100
-phone: "+49 611 694471"
-opening_hours: "Jan-Apr: Mo-Sa 15:00-18:00; May-Dec: Mo-Sa 09:00-18:00"
+street: Wiesbadener Landstraße
+housenumber: "100"
+phone: +49 611 694471
+opening_hours: 'Jan-Apr: Mo-Sa 15:00-18:00; May-Dec: Mo-Sa 09:00-18:00'
 website: ""

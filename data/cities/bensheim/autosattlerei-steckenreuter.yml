@@ -4,8 +4,9 @@ latitude: 49.67468
 longitude: 8.61312
 postcode: "64625"
 city: Bensheim
-street: "Moselstraße"
-housenumber: 8
-phone: "+49 6251 4225"
-opening_hours: "Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-16:00; Sa Nach Absprache"
-website: "https://www.autosattlerei-steckenreuter.de/"
+street: Moselstraße
+housenumber: "8"
+phone: +49 6251 4225
+opening_hours: Mo-Th 08:00-12:00, 13:00-17:00; Fr 08:00-12:00, 13:00-16:00; Sa "Nach
+    Absprache"
+website: https://www.autosattlerei-steckenreuter.de/

@@ -1,11 +1,11 @@
 id: 556011891
-type: way
+type: node
 latitude: 51.34057
 longitude: 9.34058
 postcode: "34317"
 city: Habichtswald
-street: "Kuhnen"
-housenumber: 5
-phone: "+49 5606 5631653"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-14:00"
-website: "https://www.ihr-frischmarkt.de/frischmarkt/domrich"
+street: Kuhnen
+housenumber: "5"
+phone: +49 5606 5631653
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-14:00
+website: https://www.ihr-frischmarkt.de/frischmarkt/domrich

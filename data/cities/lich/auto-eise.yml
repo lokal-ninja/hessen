@@ -1,11 +1,11 @@
 id: 136066415
-type: way
+type: node
 latitude: 50.51425
 longitude: 8.8272
 postcode: "35423"
 city: Lich
-street: "Egelseeweg"
-housenumber: 16
+street: Egelseeweg
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "https://autohaus.toyota.de/auto-eise/"
+website: https://autohaus.toyota.de/auto-eise/

@@ -1,11 +1,11 @@
 id: 233414705
-type: way
+type: node
 latitude: 50.53803
 longitude: 8.65091
 postcode: "35440"
 city: Linden
-street: "Robert-Bosch-Straße"
-housenumber: 6
+street: Robert-Bosch-Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

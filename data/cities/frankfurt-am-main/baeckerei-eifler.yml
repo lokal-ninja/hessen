@@ -4,8 +4,8 @@ latitude: 50.12251
 longitude: 8.70072
 postcode: "60316"
 city: Frankfurt am Main
-street: "Berger Straße"
-housenumber: 120
+street: Berger Straße
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-18:00; Su 07:00-18:00"
-website: "https://www.der-baecker-eifler.de/"
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-18:00; Su 07:00-18:00
+website: https://www.der-baecker-eifler.de/

@@ -1,11 +1,11 @@
 id: 55941546
-type: way
+type: node
 latitude: 50.65761
 longitude: 8.73643
 postcode: "35460"
 city: Staufenberg
-street: "Marktstraße"
-housenumber: 1
+street: Marktstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

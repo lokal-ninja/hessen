@@ -1,11 +1,11 @@
 id: 245111493
-type: way
+type: node
 latitude: 50.81551
 longitude: 8.77707
 postcode: "35039"
 city: Marburg
-street: "Krummbogen"
-housenumber: 16
+street: Krummbogen
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Th 07:30-17:30; Fr 07:30-14:45"
+opening_hours: Mo-Th 07:30-17:30; Fr 07:30-14:45
 website: ""

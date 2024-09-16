@@ -4,8 +4,8 @@ latitude: 50.58629
 longitude: 8.67555
 postcode: "35390"
 city: Gießen
-street: "Schulstraße"
-housenumber: 4
-phone: "+49 641 791064"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 10:00-15:00"
-website: "https://weltladen-giessen.de/"
+street: Schulstraße
+housenumber: "4"
+phone: +49 641 791064
+opening_hours: Tu-Fr 11:00-18:00; Sa 10:00-15:00
+website: https://weltladen-giessen.de/

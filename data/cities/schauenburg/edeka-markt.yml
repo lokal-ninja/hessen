@@ -4,8 +4,8 @@ latitude: 51.28699
 longitude: 9.28509
 postcode: "34270"
 city: Schauenburg
-street: "Kirchstraße"
-housenumber: 1
+street: Kirchstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-13:00,15:00-18:00; Sa 07:30-12:30"
+opening_hours: Mo-Fr 08:00-13:00,15:00-18:00; Sa 07:30-12:30
 website: ""

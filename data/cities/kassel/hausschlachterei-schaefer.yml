@@ -1,11 +1,11 @@
 id: 140910785
-type: way
+type: node
 latitude: 51.33691
 longitude: 9.43799
 postcode: "34128"
 city: Kassel
-street: "Wolfhager Straße"
-housenumber: 387
+street: Wolfhager Straße
+housenumber: "387"
 phone: ""
-opening_hours: "Mo-Th 08:00-13:30,15:00-18:00; Fr 08:00-18:00; Sa 07:30-13:00"
+opening_hours: Mo-Th 08:00-13:30,15:00-18:00; Fr 08:00-18:00; Sa 07:30-13:00
 website: ""

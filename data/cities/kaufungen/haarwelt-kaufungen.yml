@@ -1,11 +1,12 @@
 id: 224631748
-type: way
+type: node
 latitude: 51.28374
 longitude: 9.6317
 postcode: "34260"
 city: Kaufungen
-street: "Leipziger Straße"
-housenumber: 430
-phone: "+49 5605 3301"
-opening_hours: "Mo 08:00-13:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-20:00; Fr 08:00-18:00; Sa 08:00-14:00"
-website: "http://haarwelt-kaufungen.de"
+street: Leipziger Straße
+housenumber: "430"
+phone: +49 5605 3301
+opening_hours: Mo 08:00-13:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-20:00; Fr
+    08:00-18:00; Sa 08:00-14:00
+website: http://haarwelt-kaufungen.de

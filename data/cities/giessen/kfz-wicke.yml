@@ -1,11 +1,11 @@
 id: 98198141
-type: way
+type: node
 latitude: 50.60264
 longitude: 8.69435
 postcode: "35396"
 city: Gießen
-street: "Ludwig-Richter-Straße"
-housenumber: 20
+street: Ludwig-Richter-Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

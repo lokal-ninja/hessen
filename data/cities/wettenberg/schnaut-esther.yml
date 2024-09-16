@@ -1,11 +1,11 @@
 id: 681471901
-type: way
+type: node
 latitude: 50.62091
 longitude: 8.65986
 postcode: "35435"
 city: Wettenberg
-street: "Lahnstraße"
-housenumber: 12
+street: Lahnstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

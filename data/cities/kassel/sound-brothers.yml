@@ -4,8 +4,8 @@ latitude: 51.31494
 longitude: 9.49324
 postcode: "34117"
 city: Kassel
-street: "Wolfsschlucht"
-housenumber: 17
-phone: "+49 561 700090"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00"
-website: "https://www.soundbrothers-onlineshop.de/"
+street: Wolfsschlucht
+housenumber: "17"
+phone: +49 561 700090
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-16:00
+website: https://www.soundbrothers-onlineshop.de/

@@ -1,11 +1,11 @@
 id: 551509898
-type: way
+type: node
 latitude: 51.26878
 longitude: 8.87924
 postcode: "34497"
 city: Korbach
-street: "Wildunger Landstraße"
+street: Wildunger Landstraße
 housenumber: 6-8
-phone: "+49 5631 5026173"
-opening_hours: "Mo-Sa 07:00-22:00; PH closed"
-website: "https://www.rewe-fink.de/"
+phone: +49 5631 5026173
+opening_hours: Mo-Sa 07:00-22:00; PH closed
+website: https://www.rewe-fink.de/

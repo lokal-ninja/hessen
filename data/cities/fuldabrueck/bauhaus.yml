@@ -1,11 +1,11 @@
 id: 52007850
-type: way
+type: node
 latitude: 51.27362
 longitude: 9.50117
 postcode: "34277"
 city: Fuldabrück
-street: "Albert-Einstein-Straße"
-housenumber: 1
-phone: "+49 561 585960"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.bauhaus.de/"
+street: Albert-Einstein-Straße
+housenumber: "1"
+phone: +49 561 585960
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.bauhaus.de/

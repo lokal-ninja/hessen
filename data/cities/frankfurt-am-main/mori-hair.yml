@@ -4,8 +4,8 @@ latitude: 50.10722
 longitude: 8.65841
 postcode: "60329"
 city: Frankfurt am Main
-street: "Niddastraße"
-housenumber: 101
+street: Niddastraße
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; PH off"
+opening_hours: Mo-Fr 10:00-19:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 144911278
-type: way
+type: node
 latitude: 49.97712
 longitude: 8.37622
 postcode: "65474"
 city: Bischofsheim
-street: "Am Schindberg"
-housenumber: 2
+street: Am Schindberg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

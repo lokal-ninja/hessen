@@ -4,8 +4,8 @@ latitude: 50.55822
 longitude: 8.49834
 postcode: "35576"
 city: Wetzlar
-street: "Langgasse"
-housenumber: 66
-phone: "+49 6441 42212"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://derschildermann.de"
+street: Langgasse
+housenumber: "66"
+phone: +49 6441 42212
+opening_hours: Mo-Fr 09:30-18:00
+website: https://derschildermann.de

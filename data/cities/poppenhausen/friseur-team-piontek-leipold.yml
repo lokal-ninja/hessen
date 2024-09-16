@@ -1,11 +1,11 @@
 id: 385669099
-type: way
+type: node
 latitude: 50.48805
 longitude: 9.86908
 postcode: "36163"
 city: Poppenhausen
-street: "Georgstraße"
-housenumber: 23
+street: Georgstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

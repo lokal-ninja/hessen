@@ -1,11 +1,11 @@
 id: 48872297
-type: way
+type: node
 latitude: 50.51764
 longitude: 8.61987
 postcode: "35625"
 city: Hüttenberg
-street: "Grasweg"
-housenumber: 10
+street: Grasweg
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 102844895
-type: way
+type: node
 latitude: 50.73835
 longitude: 9.25464
 postcode: "36304"
 city: Alsfeld
-street: "Alte Liederbacher Straße"
-housenumber: 14
+street: Alte Liederbacher Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 297335776
-type: way
+type: node
 latitude: 50.85627
 longitude: 9.28972
 postcode: "34637"
 city: Schrecksbach
-street: "Ziegenhainer Straße"
-housenumber: 10
-phone: "+49 6698 231"
+street: Ziegenhainer Straße
+housenumber: "10"
+phone: +49 6698 231
 opening_hours: ""
-website: "http://www.getraenkevertrieb-schaefer.de"
+website: http://www.getraenkevertrieb-schaefer.de

@@ -1,11 +1,11 @@
 id: 179064056
-type: way
+type: node
 latitude: 51.4293
 longitude: 9.4807
 postcode: "34376"
 city: Immenhausen
-street: "Mariendorfer Straße"
-housenumber: 4
-phone: "+49 5673 1566"
-opening_hours: "Mo-Fr 08:00-12:00,13:00-18:00"
-website: "http://www.kfz-eugen-becker.de/"
+street: Mariendorfer Straße
+housenumber: "4"
+phone: +49 5673 1566
+opening_hours: Mo-Fr 08:00-12:00,13:00-18:00
+website: http://www.kfz-eugen-becker.de/

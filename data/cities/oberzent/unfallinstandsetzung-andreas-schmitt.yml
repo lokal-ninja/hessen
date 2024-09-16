@@ -1,11 +1,11 @@
 id: 178801555
-type: way
+type: node
 latitude: 49.56054
 longitude: 8.98001
 postcode: "64760"
 city: Oberzent
-street: "Dieselstraße"
-housenumber: 14
+street: Dieselstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

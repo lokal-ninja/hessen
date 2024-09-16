@@ -1,11 +1,11 @@
 id: 139852674
-type: way
+type: node
 latitude: 49.9108
 longitude: 8.65588
 postcode: "64291"
 city: Darmstadt
-street: "Ettesterstraße"
-housenumber: 16
-phone: "+49 6151 375035"
-opening_hours: "Mo-Fr 10:00-12:00,15:00-17:00; We,Sa 10:00-12:00; Su,PH off"
-website: "http://www.reisebuero-jeder.de/"
+street: Ettesterstraße
+housenumber: "16"
+phone: +49 6151 375035
+opening_hours: Mo-Fr 10:00-12:00,15:00-17:00; We,Sa 10:00-12:00; Su,PH off
+website: http://www.reisebuero-jeder.de/

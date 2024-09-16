@@ -1,11 +1,11 @@
 id: 217141790
-type: way
+type: node
 latitude: 50.76693
 longitude: 9.69266
 postcode: "36166"
 city: Haunetal
-street: "Hauptstraße"
-housenumber: 49
+street: Hauptstraße
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://ikrinka.de/"
+website: https://ikrinka.de/

@@ -1,11 +1,11 @@
 id: 175456745
-type: way
+type: node
 latitude: 50.90621
 longitude: 8.53367
 postcode: "35216"
 city: Biedenkopf
-street: "Am Seewasem"
-housenumber: 2
+street: Am Seewasem
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.43501
 longitude: 8.68602
 postcode: "35510"
 city: Butzbach
-street: "Philipp-Reis-Straße"
-housenumber: 12
-phone: "+49 6033 71200"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:30-13:00"
-website: "https://www.wobst.de"
+street: Philipp-Reis-Straße
+housenumber: "12"
+phone: +49 6033 71200
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:30-13:00
+website: https://www.wobst.de

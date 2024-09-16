@@ -4,8 +4,8 @@ latitude: 49.80247
 longitude: 9.00282
 postcode: "64739"
 city: Höchst im Odenwald
-street: "Otto-Hahn-Straße"
-housenumber: 19
-phone: "+49 6163 82720"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.der-brotmacher.de/"
+street: Otto-Hahn-Straße
+housenumber: "19"
+phone: +49 6163 82720
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.der-brotmacher.de/

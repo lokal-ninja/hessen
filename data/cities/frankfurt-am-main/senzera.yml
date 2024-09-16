@@ -4,8 +4,8 @@ latitude: 50.12296
 longitude: 8.70198
 postcode: "60385"
 city: Frankfurt am Main
-street: "Habsburgerallee"
-housenumber: 1
+street: Habsburgerallee
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

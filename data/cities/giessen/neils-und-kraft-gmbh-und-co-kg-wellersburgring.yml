@@ -1,11 +1,11 @@
 id: 138721514
-type: way
+type: node
 latitude: 50.61195
 longitude: 8.70115
 postcode: "35396"
 city: Gießen
-street: "Wellersburgring"
-housenumber: 1
+street: Wellersburgring
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

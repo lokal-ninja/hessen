@@ -1,11 +1,11 @@
 id: 462916001
-type: way
+type: node
 latitude: 51.19524
 longitude: 9.29437
 postcode: "34305"
 city: Niedenstein
-street: "Feldborde"
-housenumber: 1
+street: Feldborde
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

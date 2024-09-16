@@ -1,11 +1,11 @@
 id: 202272411
-type: way
+type: node
 latitude: 50.11278
 longitude: 8.84731
 postcode: "63165"
 city: Mühlheim am Main
-street: "Otto-Hahn-Straße"
-housenumber: 13
+street: Otto-Hahn-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "www.landkelterei.de"
+website: www.landkelterei.de

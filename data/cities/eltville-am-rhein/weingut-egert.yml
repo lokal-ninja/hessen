@@ -1,11 +1,11 @@
 id: 369407727
-type: way
+type: node
 latitude: 50.01565
 longitude: 8.06509
 postcode: "65347"
 city: Eltville am Rhein
-street: "Rheinallee"
-housenumber: 33
-phone: "+49 6723 5557"
+street: Rheinallee
+housenumber: "33"
+phone: +49 6723 5557
 opening_hours: ""
-website: "https://www.weingut-egert.de/"
+website: https://www.weingut-egert.de/

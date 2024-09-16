@@ -4,8 +4,8 @@ latitude: 50.11604
 longitude: 8.67581
 postcode: "60313"
 city: Frankfurt am Main
-street: "Hochstraße"
-housenumber: 31
-phone: "069 711 62 700"
-opening_hours: "Tu-Fr 09:00-19:00"
+street: Hochstraße
+housenumber: "31"
+phone: 069 711 62 700
+opening_hours: Tu-Fr 09:00-19:00
 website: ""

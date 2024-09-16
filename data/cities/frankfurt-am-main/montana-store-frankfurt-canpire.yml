@@ -4,8 +4,8 @@ latitude: 50.10535
 longitude: 8.68676
 postcode: "60594"
 city: Frankfurt am Main
-street: "Schulstraße"
-housenumber: 3
-phone: "+49 69 66 055 040"
-opening_hours: "Mo-Fr 12:30-19:00; Sa 11:00-18:00"
-website: "https://www.canpire.com/Streetstore"
+street: Schulstraße
+housenumber: "3"
+phone: +49 69 66 055 040
+opening_hours: Mo-Fr 12:30-19:00; Sa 11:00-18:00
+website: https://www.canpire.com/Streetstore

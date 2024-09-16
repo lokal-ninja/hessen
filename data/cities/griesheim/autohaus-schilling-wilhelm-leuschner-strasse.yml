@@ -1,11 +1,11 @@
 id: 415836573
-type: way
+type: node
 latitude: 49.86328
 longitude: 8.58588
 postcode: ""
 city: Griesheim
-street: "Wilhelm-Leuschner-Straße"
-housenumber: 255
+street: Wilhelm-Leuschner-Straße
+housenumber: "255"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.55332
 longitude: 9.72204
 postcode: "36100"
 city: Petersberg
-street: "Justus-Liebig-Straße"
-housenumber: 1
-phone: "+49 661 480555-0"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
-website: "https://www.expert.de/petersberg"
+street: Justus-Liebig-Straße
+housenumber: "1"
+phone: +49 661 480555-0
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off
+website: https://www.expert.de/petersberg

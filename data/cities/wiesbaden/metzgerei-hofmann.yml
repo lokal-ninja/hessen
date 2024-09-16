@@ -1,11 +1,11 @@
 id: 784691266
-type: way
+type: node
 latitude: 50.05639
 longitude: 8.30212
 postcode: "65205"
 city: Wiesbaden
-street: "Hünefeldstraße"
-housenumber: 17
+street: Hünefeldstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

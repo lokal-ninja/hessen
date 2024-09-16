@@ -4,8 +4,8 @@ latitude: 51.35003
 longitude: 9.46974
 postcode: "34246"
 city: Vellmar
-street: "Warburger Straße"
-housenumber: 45
-phone: "+49 561 890 790 60"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH off"
-website: "https://www.kassel-reisemobile.de/"
+street: Warburger Straße
+housenumber: "45"
+phone: +49 561 890 790 60
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00; PH off
+website: https://www.kassel-reisemobile.de/

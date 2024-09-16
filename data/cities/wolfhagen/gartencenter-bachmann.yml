@@ -1,11 +1,11 @@
 id: 111042577
-type: way
+type: node
 latitude: 51.33113
 longitude: 9.169
 postcode: "34466"
 city: Wolfhagen
-street: "Siemensstraße"
-housenumber: 9
-phone: "+49 5692 98830"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-16:00"
-website: "https://www.gartencenter-bachmann.de"
+street: Siemensstraße
+housenumber: "9"
+phone: +49 5692 98830
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-16:00
+website: https://www.gartencenter-bachmann.de

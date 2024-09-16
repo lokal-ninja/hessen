@@ -1,11 +1,11 @@
 id: 58528012
-type: way
+type: node
 latitude: 50.34597
 longitude: 8.75455
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Ottostraße"
-housenumber: 4
+street: Ottostraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.engel-caravaning.de/service-werkstatt/"
+website: https://www.engel-caravaning.de/service-werkstatt/

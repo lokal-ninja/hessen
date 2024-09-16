@@ -1,11 +1,11 @@
 id: 172863326
-type: way
+type: node
 latitude: 50.6844
 longitude: 9.57233
 postcode: "36110"
 city: Schlitz
-street: "Lindenstraße"
-housenumber: 6
+street: Lindenstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

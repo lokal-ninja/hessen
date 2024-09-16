@@ -1,11 +1,11 @@
 id: 152005093
-type: way
+type: node
 latitude: 49.86936
 longitude: 8.56094
 postcode: "64347"
 city: Griesheim
-street: "Ottostraße"
-housenumber: 3
+street: Ottostraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00; PH off"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00; PH off
 website: ""

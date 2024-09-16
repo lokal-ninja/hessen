@@ -1,11 +1,11 @@
 id: 101787583
-type: way
+type: node
 latitude: 50.64608
 longitude: 9.37943
 postcode: "36341"
 city: Lauterbach
-street: "Steinwiesenweg"
-housenumber: 3
+street: Steinwiesenweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 13:00-20:00, Sa 09:00-20:00"
+opening_hours: Mo-Fr 13:00-20:00, Sa 09:00-20:00
 website: ""

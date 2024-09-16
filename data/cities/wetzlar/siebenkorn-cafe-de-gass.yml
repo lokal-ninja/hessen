@@ -4,8 +4,8 @@ latitude: 50.55765
 longitude: 8.49806
 postcode: "35576"
 city: Wetzlar
-street: "Langgasse"
-housenumber: 54
-phone: "+49 6441 95 27 13 9"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "https://siebenkorn.de/standorte/wetzlar"
+street: Langgasse
+housenumber: "54"
+phone: +49 6441 95 27 13 9
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: https://siebenkorn.de/standorte/wetzlar

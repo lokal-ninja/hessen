@@ -4,8 +4,8 @@ latitude: 50.05808
 longitude: 8.53686
 postcode: "65451"
 city: Kelsterbach
-street: "Mörfelder Straße"
-housenumber: 87
-phone: "+49 6107 2246"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-16:00"
-website: "https://www.service-esk.de"
+street: Mörfelder Straße
+housenumber: "87"
+phone: +49 6107 2246
+opening_hours: Mo-Fr 10:00-12:00,14:00-16:00
+website: https://www.service-esk.de

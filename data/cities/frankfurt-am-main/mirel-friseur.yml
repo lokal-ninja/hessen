@@ -4,8 +4,8 @@ latitude: 50.17618
 longitude: 8.62844
 postcode: "60438"
 city: Frankfurt am Main
-street: "Otto-Schott-Straße"
-housenumber: 1
-phone: "+49 69 63197087"
-opening_hours: "Tu-Fr 09:00-20:00; Sa 08:00-17:00"
-website: "https://www.mirel-friseure.de/"
+street: Otto-Schott-Straße
+housenumber: "1"
+phone: +49 69 63197087
+opening_hours: Tu-Fr 09:00-20:00; Sa 08:00-17:00
+website: https://www.mirel-friseure.de/

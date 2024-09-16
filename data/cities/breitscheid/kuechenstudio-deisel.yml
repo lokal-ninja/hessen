@@ -1,11 +1,11 @@
 id: 94800977
-type: way
+type: node
 latitude: 50.68834
 longitude: 8.19456
 postcode: "35767"
 city: Breitscheid
-street: "Bahnhofstraße"
-housenumber: 2
+street: Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:15-18:00; Sa 09:00-13:00"
-website: "https://www.deisel.de/"
+opening_hours: Mo-Fr 10:15-18:00; Sa 09:00-13:00
+website: https://www.deisel.de/

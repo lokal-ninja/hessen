@@ -1,11 +1,11 @@
 id: 164650103
-type: way
+type: node
 latitude: 50.28138
 longitude: 9.37532
 postcode: "63628"
 city: Bad Soden-Salmünster
-street: "Am Galgenbach"
-housenumber: 1
+street: Am Galgenbach
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

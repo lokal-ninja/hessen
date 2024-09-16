@@ -1,11 +1,11 @@
 id: 48456725
-type: way
+type: node
 latitude: 50.2259
 longitude: 8.6749
 postcode: "61352"
 city: Bad Homburg v. d. Höhe
-street: "Seulberger Straße"
+street: Seulberger Straße
 housenumber: 18-20
-phone: "+49 6172 401240"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.nahkauf.de/"
+phone: +49 6172 401240
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.nahkauf.de/

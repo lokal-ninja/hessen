@@ -4,8 +4,8 @@ latitude: 50.59157
 longitude: 8.9602
 postcode: "35305"
 city: Grünberg
-street: "Marktplatz"
-housenumber: 5
-phone: "+49 6401 903356"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://www.neusehland.de/index.php?gruenberg"
+street: Marktplatz
+housenumber: "5"
+phone: +49 6401 903356
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://www.neusehland.de/index.php?gruenberg

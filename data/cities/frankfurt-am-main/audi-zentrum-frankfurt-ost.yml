@@ -1,11 +1,11 @@
 id: 165524676
-type: way
+type: node
 latitude: 50.11134
 longitude: 8.71434
 postcode: "60314"
 city: Frankfurt am Main
-street: "Hanauer Landstraße"
-housenumber: 144
-phone: "+49 69 951144-0"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-15:00"
-website: "http://www.audi-partner.de/de_partner/p_21239/de.html"
+street: Hanauer Landstraße
+housenumber: "144"
+phone: +49 69 951144-0
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-15:00
+website: http://www.audi-partner.de/de_partner/p_21239/de.html

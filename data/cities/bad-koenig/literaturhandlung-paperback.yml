@@ -4,8 +4,8 @@ latitude: 49.73966
 longitude: 9.0029
 postcode: "64732"
 city: Bad König
-street: "Bahnhofstraße"
-housenumber: 43
+street: Bahnhofstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:30-18:00; Sa 09:00-13:00; Su off"
-website: "https://literaturhandlung-paperback.de/"
+opening_hours: Mo-Fr 09:00-12:00,14:30-18:00; Sa 09:00-13:00; Su off
+website: https://literaturhandlung-paperback.de/

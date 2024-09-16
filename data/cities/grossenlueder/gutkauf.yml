@@ -1,11 +1,11 @@
 id: 101926298
-type: way
+type: node
 latitude: 50.59206
 longitude: 9.50289
 postcode: "36137"
 city: Großenlüder
-street: "Brückenstraße"
-housenumber: 4
+street: Brückenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

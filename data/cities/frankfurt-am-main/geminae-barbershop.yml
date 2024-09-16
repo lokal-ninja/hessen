@@ -4,8 +4,8 @@ latitude: 50.12829
 longitude: 8.69583
 postcode: "60389"
 city: Frankfurt am Main
-street: "Rohrbachstraße"
-housenumber: 42
-phone: "+49 69 50689694"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-17:00"
-website: "https://www.planity.com/de-DE/geminae-barbershop-60389-frankfurt-am-main"
+street: Rohrbachstraße
+housenumber: "42"
+phone: +49 69 50689694
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-17:00
+website: https://www.planity.com/de-DE/geminae-barbershop-60389-frankfurt-am-main

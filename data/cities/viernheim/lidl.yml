@@ -1,11 +1,11 @@
 id: 196536475
-type: way
+type: node
 latitude: 49.53377
 longitude: 8.58304
 postcode: "68519"
 city: Viernheim
-street: "Heidelberger Straße"
-housenumber: 42
+street: Heidelberger Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "https://www.lidl.de/filialen/viernheim/heidelberger-str-42.html"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
+website: https://www.lidl.de/filialen/viernheim/heidelberger-str-42.html

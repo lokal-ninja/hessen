@@ -1,11 +1,11 @@
 id: 92227265
-type: way
+type: node
 latitude: 51.0454
 longitude: 9.2793
 postcode: "34582"
 city: Borken
-street: "Gellenweg"
+street: Gellenweg
 housenumber: 12-14
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/

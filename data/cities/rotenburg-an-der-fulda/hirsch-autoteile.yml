@@ -1,11 +1,11 @@
 id: 191103883
-type: way
+type: node
 latitude: 50.98574
 longitude: 9.77873
 postcode: "36199"
 city: Rotenburg an der Fulda
-street: "Philipp-Reis-Straße"
-housenumber: 14
-phone: "+49 6623 91510"
+street: Philipp-Reis-Straße
+housenumber: "14"
+phone: +49 6623 91510
 opening_hours: ""
-website: "https://www.hirsch-autoteile.de/"
+website: https://www.hirsch-autoteile.de/

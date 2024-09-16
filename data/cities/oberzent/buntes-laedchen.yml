@@ -1,11 +1,11 @@
 id: 235191029
-type: way
+type: node
 latitude: 49.56847
 longitude: 8.97567
 postcode: "64760"
 city: Oberzent
-street: "Brunnengasse"
-housenumber: 4
+street: Brunnengasse
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

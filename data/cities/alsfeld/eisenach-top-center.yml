@@ -1,11 +1,11 @@
 id: 205757488
-type: way
+type: node
 latitude: 50.75147
 longitude: 9.27074
 postcode: "36304"
 city: Alsfeld
-street: "Obergasse"
-housenumber: 5
+street: Obergasse
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-14:00, Su,PH closed"
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-14:00, Su,PH closed
 website: ""

@@ -1,11 +1,11 @@
 id: 670215306
-type: way
+type: node
 latitude: 49.88315
 longitude: 8.81762
 postcode: "64846"
 city: Groß-Zimmern
-street: "Waldstraße"
+street: Waldstraße
 housenumber: 79f
-phone: "+49 1713606938"
+phone: +49 1713606938
 opening_hours: ""
-website: "http://karakoc-automobile.de"
+website: http://karakoc-automobile.de

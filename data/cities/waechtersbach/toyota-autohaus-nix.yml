@@ -1,11 +1,11 @@
 id: 163235636
-type: way
+type: node
 latitude: 50.25203
 longitude: 9.31296
 postcode: "63607"
 city: Wächtersbach
-street: "Frankfurter Straße"
-housenumber: 7
+street: Frankfurter Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

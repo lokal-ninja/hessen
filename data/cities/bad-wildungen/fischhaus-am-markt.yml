@@ -4,8 +4,8 @@ latitude: 51.11999
 longitude: 9.12499
 postcode: "34537"
 city: Bad Wildungen
-street: "Brunnenstraße"
-housenumber: 26
-phone: "+49 5621 7526261"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://www.fischhaus.wildungen.net/"
+street: Brunnenstraße
+housenumber: "26"
+phone: +49 5621 7526261
+opening_hours: Mo-Sa 09:30-20:00
+website: http://www.fischhaus.wildungen.net/

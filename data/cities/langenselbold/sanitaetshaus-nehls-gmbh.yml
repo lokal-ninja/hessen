@@ -4,8 +4,8 @@ latitude: 50.18247
 longitude: 9.03173
 postcode: "63505"
 city: Langenselbold
-street: "Ringstraße"
-housenumber: 43
+street: Ringstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Sa 09:00-12:00"
-website: "https://www.sanitaetshaus-nehls.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:00-18:00; We 09:00-12:30; Sa 09:00-12:00
+website: https://www.sanitaetshaus-nehls.de/

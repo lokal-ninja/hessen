@@ -4,8 +4,8 @@ latitude: 51.34428
 longitude: 9.4775
 postcode: "34127"
 city: Kassel
-street: "Holländische Straße"
-housenumber: 316
+street: Holländische Straße
+housenumber: "316"
 phone: ""
-opening_hours: "Mo 10:00-18:30,Tu off,We-Fr 10:00-18:30,Sa 10:00-16:30; PH off"
-website: "https://www.mueller-kuechen-kassel.de/"
+opening_hours: Mo 10:00-18:30,Tu off,We-Fr 10:00-18:30,Sa 10:00-16:30; PH off
+website: https://www.mueller-kuechen-kassel.de/

@@ -1,11 +1,11 @@
 id: 407203557
-type: way
+type: node
 latitude: 51.3085
 longitude: 9.51878
 postcode: ""
 city: Kassel
-street: "Leipziger Straße"
-housenumber: 86
+street: Leipziger Straße
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

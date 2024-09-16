@@ -1,11 +1,11 @@
 id: 123416319
-type: way
+type: node
 latitude: 49.68202
 longitude: 8.62208
 postcode: "64625"
 city: Bensheim
-street: "Hauptstraße"
-housenumber: 11
-phone: "+496251 7077148"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00; Su off; Ph off"
-website: "https://neusehland.de/niederlassung/bensheim/"
+street: Hauptstraße
+housenumber: "11"
+phone: +496251 7077148
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00; Su off; Ph off
+website: https://neusehland.de/niederlassung/bensheim/

@@ -1,11 +1,11 @@
 id: 86957004
-type: way
+type: node
 latitude: 49.96859
 longitude: 8.82941
 postcode: "63322"
 city: Rödermark
-street: "Odenwaldstraße"
-housenumber: 78
+street: Odenwaldstraße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

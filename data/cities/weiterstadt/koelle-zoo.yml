@@ -1,11 +1,11 @@
 id: 154341243
-type: way
+type: node
 latitude: 49.89619
 longitude: 8.61397
 postcode: "64331"
 city: Weiterstadt
-street: "Robert-Koch-Straße"
+street: Robert-Koch-Straße
 housenumber: 1A
-phone: "+49 6151 13738-0"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.koelle-zoo.de/erlebnismaerkte/erlebniswelten/weiterstadt/"
+phone: +49 6151 13738-0
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.koelle-zoo.de/erlebnismaerkte/erlebniswelten/weiterstadt/

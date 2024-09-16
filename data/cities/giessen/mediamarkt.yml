@@ -4,8 +4,8 @@ latitude: 50.58735
 longitude: 8.67194
 postcode: "35390"
 city: Gießen
-street: "Neustadt"
-housenumber: 28
+street: Neustadt
+housenumber: "28"
 phone: "+4922122243333"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.mediamarkt.de/de/store/giessen-267"
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.mediamarkt.de/de/store/giessen-267

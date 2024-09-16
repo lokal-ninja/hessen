@@ -4,8 +4,8 @@ latitude: 50.55143
 longitude: 8.47175
 postcode: "35578"
 city: Wetzlar
-street: "Siegmund-Hiepe-Straße"
-housenumber: 28
-phone: "+49 6441 9130"
-opening_hours: "Mo-Th 07:00-18:00; Fr 07:00-17:00"
-website: "https://rink-elektro.de"
+street: Siegmund-Hiepe-Straße
+housenumber: "28"
+phone: +49 6441 9130
+opening_hours: Mo-Th 07:00-18:00; Fr 07:00-17:00
+website: https://rink-elektro.de

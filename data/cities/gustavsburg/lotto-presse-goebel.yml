@@ -4,8 +4,8 @@ latitude: 49.99766
 longitude: 8.32402
 postcode: "65462"
 city: Gustavsburg
-street: "Jakob-Fischer-Straße"
-housenumber: 16
-phone: "+49 6134 54994"
-opening_hours: "Mo-Fr 08:00-12:30, 14:30-18:30; Sa 08:00-13:00"
-website: "http://www.lotto-presse-goebel.de"
+street: Jakob-Fischer-Straße
+housenumber: "16"
+phone: +49 6134 54994
+opening_hours: Mo-Fr 08:00-12:30, 14:30-18:30; Sa 08:00-13:00
+website: http://www.lotto-presse-goebel.de

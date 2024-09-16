@@ -1,11 +1,11 @@
 id: 194847132
-type: way
+type: node
 latitude: 50.87792
 longitude: 8.93252
 postcode: ""
 city: Rauschenberg
-street: "Bahnhofstraße"
-housenumber: 44
+street: Bahnhofstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
+opening_hours: Mo-Sa 07:00-21:00; PH off
 website: ""

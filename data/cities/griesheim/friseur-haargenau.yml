@@ -4,8 +4,8 @@ latitude: 49.85859
 longitude: 8.58124
 postcode: "64347"
 city: Griesheim
-street: "Zeppelinstraße"
-housenumber: 9
-phone: "+49-6155-604099"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-13:00"
-website: "https://www.haargenau-pistorius.de/"
+street: Zeppelinstraße
+housenumber: "9"
+phone: +49-6155-604099
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-13:00
+website: https://www.haargenau-pistorius.de/

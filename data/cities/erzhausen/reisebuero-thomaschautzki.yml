@@ -4,8 +4,8 @@ latitude: 49.95191
 longitude: 8.63907
 postcode: "64390"
 city: Erzhausen
-street: "Bahnstraße"
-housenumber: 62
-phone: "+49 6150 84654"
-opening_hours: "Mo,Tu,Th,Fr 10:00-12:30,15:00-18:00; We,Sa 10:00-12:30"
-website: "http://www.reisebuero-thomaschautzki.de/"
+street: Bahnstraße
+housenumber: "62"
+phone: +49 6150 84654
+opening_hours: Mo,Tu,Th,Fr 10:00-12:30,15:00-18:00; We,Sa 10:00-12:30
+website: http://www.reisebuero-thomaschautzki.de/

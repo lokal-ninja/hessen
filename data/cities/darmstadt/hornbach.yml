@@ -1,11 +1,11 @@
 id: 26549578
-type: way
+type: node
 latitude: 49.88969
 longitude: 8.63801
 postcode: "64293"
 city: Darmstadt
-street: "Otto-Röhm-Straße"
-housenumber: 76
+street: Otto-Röhm-Straße
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

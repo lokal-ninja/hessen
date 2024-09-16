@@ -1,11 +1,11 @@
 id: 142036763
-type: way
+type: node
 latitude: 50.34594
 longitude: 9.5593
 postcode: "36381"
 city: Schlüchtern
-street: "Dammweg"
-housenumber: 4
-phone: "+49 6661 5773"
-opening_hours: "08:00-19:00"
+street: Dammweg
+housenumber: "4"
+phone: +49 6661 5773
+opening_hours: 08:00-19:00
 website: ""

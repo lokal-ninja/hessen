@@ -1,11 +1,11 @@
 id: 177444668
-type: way
+type: node
 latitude: 50.13279
 longitude: 8.74168
 postcode: "60388"
 city: Frankfurt am Main
-street: "Borsigallee"
-housenumber: 2
+street: Borsigallee
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

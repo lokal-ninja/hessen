@@ -1,11 +1,11 @@
 id: 192473808
-type: way
+type: node
 latitude: 50.12473
 longitude: 8.58562
 postcode: "65936"
 city: Frankfurt am Main
-street: "Westerbachstraße"
-housenumber: 148
+street: Westerbachstraße
+housenumber: "148"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 161292103
-type: way
+type: node
 latitude: 50.99741
 longitude: 9.2867
 postcode: ""
 city: Borken
-street: "Rothengasse"
-housenumber: 8
+street: Rothengasse
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

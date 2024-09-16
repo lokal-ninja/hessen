@@ -1,11 +1,11 @@
 id: 344566923
-type: way
+type: node
 latitude: 50.42359
 longitude: 9.57521
 postcode: "36103"
 city: Flieden
-street: "An der Fliede"
-housenumber: 5
+street: An der Fliede
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

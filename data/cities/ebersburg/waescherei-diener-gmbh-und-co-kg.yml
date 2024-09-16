@@ -1,11 +1,11 @@
 id: 369951756
-type: way
+type: node
 latitude: 50.45974
 longitude: 9.79292
 postcode: "36157"
 city: Ebersburg
-street: "Mittbach"
-housenumber: 22
+street: Mittbach
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

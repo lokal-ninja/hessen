@@ -1,11 +1,11 @@
 id: 370969550
-type: way
+type: node
 latitude: 50.76843
 longitude: 8.58524
 postcode: "35075"
 city: Gladenbach
-street: "Kirchbergstraße"
-housenumber: 4
+street: Kirchbergstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite/gladenbach/1464187/rewe-markt-kirchbergstrasse-4/"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/marktseite/gladenbach/1464187/rewe-markt-kirchbergstrasse-4/

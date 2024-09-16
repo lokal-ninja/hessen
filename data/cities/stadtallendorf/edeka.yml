@@ -1,11 +1,11 @@
 id: 1002834230
-type: way
+type: node
 latitude: 50.82765
 longitude: 9.01191
 postcode: "35260"
 city: Stadtallendorf
-street: "Straße des 17. Juni"
-housenumber: 6
+street: Straße des 17. Juni
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 118567477
-type: way
+type: node
 latitude: 49.85085
 longitude: 9.07739
 postcode: "63853"
 city: Mömlingen
-street: "Bahnhofstraße"
-housenumber: 24
-phone: "+49 6022 30090"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off"
-website: "https://www.adlermode.com/"
+street: Bahnhofstraße
+housenumber: "24"
+phone: +49 6022 30090
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00; PH off
+website: https://www.adlermode.com/

@@ -4,8 +4,8 @@ latitude: 50.11562
 longitude: 8.68522
 postcode: "60313"
 city: Frankfurt am Main
-street: "Schäfergasse"
-housenumber: 14
+street: Schäfergasse
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.idee-shop.com"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.idee-shop.com

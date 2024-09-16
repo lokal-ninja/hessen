@@ -4,8 +4,8 @@ latitude: 51.13451
 longitude: 9.27441
 postcode: "34560"
 city: Fritzlar
-street: "Kasseler Straße"
-housenumber: 28
-phone: "+49 5622 799652"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.herkulesmarkt.de/"
+street: Kasseler Straße
+housenumber: "28"
+phone: +49 5622 799652
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.herkulesmarkt.de/

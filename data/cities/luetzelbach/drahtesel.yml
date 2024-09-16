@@ -4,8 +4,9 @@ latitude: 49.78884
 longitude: 9.06609
 postcode: "64750"
 city: Lützelbach
-street: "Hardtstraße"
-housenumber: 6
-phone: "+49 6165 38369"
-opening_hours: "Tu 15:00-18:00; We 10:00-12:30; Th 15:00-20:00; Fr 15:00-18:30; Sa 10:00-12:30"
-website: "https://www.drahteselonline.de/"
+street: Hardtstraße
+housenumber: "6"
+phone: +49 6165 38369
+opening_hours: Tu 15:00-18:00; We 10:00-12:30; Th 15:00-20:00; Fr 15:00-18:30; Sa
+    10:00-12:30
+website: https://www.drahteselonline.de/

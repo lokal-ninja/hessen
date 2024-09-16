@@ -4,8 +4,8 @@ latitude: 50.12075
 longitude: 8.64453
 postcode: "60486"
 city: Frankfurt am Main
-street: "Große Seestraße"
-housenumber: 47
-phone: "+49 69 282647"
-opening_hours: "Mo-Fr 09:00-14:00,15:30-18:30; Sa 09:00-14:00"
+street: Große Seestraße
+housenumber: "47"
+phone: +49 69 282647
+opening_hours: Mo-Fr 09:00-14:00,15:30-18:30; Sa 09:00-14:00
 website: ""

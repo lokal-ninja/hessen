@@ -1,11 +1,11 @@
 id: 213908904
-type: way
+type: node
 latitude: 50.51219
 longitude: 9.41523
 postcode: "36355"
 city: Grebenhain
-street: "Rohbergsweg"
-housenumber: 5
+street: Rohbergsweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

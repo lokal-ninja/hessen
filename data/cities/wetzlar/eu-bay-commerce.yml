@@ -4,8 +4,8 @@ latitude: 50.56718
 longitude: 8.50597
 postcode: "35576"
 city: Wetzlar
-street: "Philipsstraße"
-housenumber: 9
-phone: "+49 6441 - 209797"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.eu-bay.de"
+street: Philipsstraße
+housenumber: "9"
+phone: +49 6441 - 209797
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.eu-bay.de

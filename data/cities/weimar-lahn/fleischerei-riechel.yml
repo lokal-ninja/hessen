@@ -1,11 +1,11 @@
 id: 237538660
-type: way
+type: node
 latitude: 50.75867
 longitude: 8.73543
 postcode: "35096"
 city: Weimar (Lahn)
-street: "Alte Bahnhofstraße"
-housenumber: 34
+street: Alte Bahnhofstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Th,Sa 08:00-13:00, Tu-Th 15:00-18:00, Fr 08:00-18:00"
+opening_hours: Mo-Th,Sa 08:00-13:00, Tu-Th 15:00-18:00, Fr 08:00-18:00
 website: ""

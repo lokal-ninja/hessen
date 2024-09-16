@@ -4,8 +4,8 @@ latitude: 51.31226
 longitude: 9.84012
 postcode: "37216"
 city: Witzenhausen
-street: "Bilsteinstraße"
-housenumber: 41
-phone: "+49 5542 8761"
-opening_hours: "Do 11:00-14:00; Fr 08:00-13:00 Wochenmarkt Witzhausen; Di Lieferservice"
-website: "https://hennerbrot.jimdosite.com/"
+street: Bilsteinstraße
+housenumber: "41"
+phone: +49 5542 8761
+opening_hours: Do 11:00-14:00; Fr 08:00-13:00 "Wochenmarkt Witzhausen"; Di "Lieferservice"
+website: https://hennerbrot.jimdosite.com/

@@ -1,11 +1,11 @@
 id: 204140750
-type: way
+type: node
 latitude: 51.32569
 longitude: 9.30914
 postcode: "34317"
 city: Habichtswald
-street: "Kasseler Straße"
-housenumber: 7
+street: Kasseler Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

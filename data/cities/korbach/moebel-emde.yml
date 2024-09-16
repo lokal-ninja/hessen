@@ -1,11 +1,11 @@
 id: 41895416
-type: way
+type: node
 latitude: 51.28383
 longitude: 8.86165
 postcode: "34497"
 city: Korbach
-street: "Nordring"
-housenumber: 19
-phone: "+49 5631 63522"
+street: Nordring
+housenumber: "19"
+phone: +49 5631 63522
 opening_hours: ""
 website: ""

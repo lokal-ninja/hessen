@@ -4,8 +4,8 @@ latitude: 50.07929
 longitude: 8.22639
 postcode: "65195"
 city: Wiesbaden
-street: "Goebenstraße"
-housenumber: 18
-phone: "+49 611 16850930"
-opening_hours: "Mo-Sa 10:00-18:00"
+street: Goebenstraße
+housenumber: "18"
+phone: +49 611 16850930
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

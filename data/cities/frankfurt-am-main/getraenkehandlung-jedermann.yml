@@ -4,8 +4,8 @@ latitude: 50.11845
 longitude: 8.64881
 postcode: "60486"
 city: Frankfurt am Main
-street: "Jordanstraße"
-housenumber: 7
+street: Jordanstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:30-01:00, Su 11:00-22:00"
+opening_hours: Mo-Sa 08:30-01:00, Su 11:00-22:00
 website: ""

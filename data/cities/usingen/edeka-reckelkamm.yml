@@ -4,8 +4,8 @@ latitude: 50.33419
 longitude: 8.53222
 postcode: "61250"
 city: Usingen
-street: "Neuer Marktplatz"
-housenumber: 4
-phone: "+49 6081 5865871"
-opening_hours: "Mo-Sa 08:00-21:00"
+street: Neuer Marktplatz
+housenumber: "4"
+phone: +49 6081 5865871
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

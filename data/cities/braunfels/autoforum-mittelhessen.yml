@@ -4,8 +4,8 @@ latitude: 50.51777
 longitude: 8.39001
 postcode: "35619"
 city: Braunfels
-street: "Kaiser-Friedrich-Straße"
-housenumber: 4
-phone: "+49 6442 959 1838"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00"
-website: "https://www.autoforum-mittelhessen.de/"
+street: Kaiser-Friedrich-Straße
+housenumber: "4"
+phone: +49 6442 959 1838
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00
+website: https://www.autoforum-mittelhessen.de/

@@ -1,11 +1,11 @@
 id: 201998667
-type: way
+type: node
 latitude: 50.12568
 longitude: 8.84263
 postcode: "63165"
 city: Mühlheim am Main
-street: "Dietesheimer Straße"
+street: Dietesheimer Straße
 housenumber: 74b
-phone: "+49 6108 7938060"
-opening_hours: "Mo-Sa 08:00-20:00"
+phone: +49 6108 7938060
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

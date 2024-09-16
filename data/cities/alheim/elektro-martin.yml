@@ -1,11 +1,11 @@
 id: 95351168
-type: way
+type: node
 latitude: 51.04384
 longitude: 9.67108
 postcode: "36211"
 city: Alheim
-street: "Zum Sool"
-housenumber: 1
+street: Zum Sool
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

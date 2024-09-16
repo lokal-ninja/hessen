@@ -1,11 +1,11 @@
 id: 357225540
-type: way
+type: node
 latitude: 51.20182
 longitude: 9.4702
 postcode: "34302"
 city: Guxhagen
-street: "Grifter Straße"
-housenumber: 2
+street: Grifter Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

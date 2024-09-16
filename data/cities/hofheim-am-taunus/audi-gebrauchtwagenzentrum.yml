@@ -1,11 +1,11 @@
 id: 201006209
-type: way
+type: node
 latitude: 50.09542
 longitude: 8.45992
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Niederhofheimer Straße"
-housenumber: 61
+street: Niederhofheimer Straße
+housenumber: "61"
 phone: ""
 opening_hours: ""
 website: ""

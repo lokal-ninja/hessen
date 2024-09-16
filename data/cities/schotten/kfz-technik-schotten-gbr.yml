@@ -1,11 +1,11 @@
 id: 120858916
-type: way
+type: node
 latitude: 50.50779
 longitude: 9.13946
 postcode: "63679"
 city: Schotten
-street: "Zum Alten Feld"
-housenumber: 45
+street: Zum Alten Feld
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

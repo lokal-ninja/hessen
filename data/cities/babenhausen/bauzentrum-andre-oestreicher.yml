@@ -1,11 +1,11 @@
 id: 803658590
-type: way
+type: node
 latitude: 49.95494
 longitude: 8.95194
 postcode: "64832"
 city: Babenhausen
-street: "Darmstädter Straße"
-housenumber: 37
+street: Darmstädter Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-16:00"
-website: "https://www.a-oe.de/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-16:00
+website: https://www.a-oe.de/

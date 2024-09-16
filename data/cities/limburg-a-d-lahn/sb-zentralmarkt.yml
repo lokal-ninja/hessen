@@ -1,11 +1,11 @@
 id: 144014235
-type: way
+type: node
 latitude: 50.40818
 longitude: 8.06928
 postcode: ""
 city: Limburg a. d. Lahn
-street: "Kapellenstraße"
-housenumber: 8
+street: Kapellenstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.sb-zentralmarkt.de/maerkte/limburg"
+website: https://www.sb-zentralmarkt.de/maerkte/limburg

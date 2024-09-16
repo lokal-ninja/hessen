@@ -4,8 +4,9 @@ latitude: 50.05852
 longitude: 8.3339
 postcode: "65205"
 city: Wiesbaden
-street: "Daimlerring"
-housenumber: 7
+street: Daimlerring
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 14:00-18:00; Tu off; We 14:00-18:00; Th-Fr 09:00-13:00; Su 10:30-12:30; PH off"
-website: "https://www.basicsandmore.de/"
+opening_hours: Mo 14:00-18:00; Tu off; We 14:00-18:00; Th-Fr 09:00-13:00; Su 10:30-12:30;
+    PH off
+website: https://www.basicsandmore.de/

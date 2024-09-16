@@ -4,8 +4,8 @@ latitude: 51.31642
 longitude: 9.46959
 postcode: "34119"
 city: Kassel
-street: "Friedrich-Ebert-Straße"
-housenumber: 110
-phone: "+49 561 60277430"
-opening_hours: "Mo-Sa 09:00-20:00; Su off; PH off"
-website: "https://www.rossmann.de/de/filialen/hessen/kassel/friedrich-ebert-str--110.html"
+street: Friedrich-Ebert-Straße
+housenumber: "110"
+phone: +49 561 60277430
+opening_hours: Mo-Sa 09:00-20:00; Su off; PH off
+website: https://www.rossmann.de/de/filialen/hessen/kassel/friedrich-ebert-str--110.html

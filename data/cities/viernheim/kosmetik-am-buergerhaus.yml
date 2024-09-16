@@ -4,8 +4,8 @@ latitude: 49.5363
 longitude: 8.56894
 postcode: "68519"
 city: Viernheim
-street: "Saarlandstraße"
-housenumber: 1
-phone: "+49 1590 1627018"
-opening_hours: "Mo-Fr 08:30 - 17:00, Sa 08:30 - 15:00"
-website: "https://kosmetik-am-buergerhaus.de/"
+street: Saarlandstraße
+housenumber: "1"
+phone: +49 1590 1627018
+opening_hours: Mo-Fr 08:30 - 17:00, Sa 08:30 - 15:00
+website: https://kosmetik-am-buergerhaus.de/

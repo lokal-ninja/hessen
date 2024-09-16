@@ -1,11 +1,11 @@
 id: 465234774
-type: way
+type: node
 latitude: 50.10484
 longitude: 8.73548
 postcode: "60599"
 city: Frankfurt am Main
-street: "Kaiserleipromenade"
-housenumber: 10
+street: Kaiserleipromenade
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

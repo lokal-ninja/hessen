@@ -1,11 +1,11 @@
 id: 353675565
-type: way
+type: node
 latitude: 50.02623
 longitude: 8.27656
 postcode: "55252"
 city: Mainz-Kastel
-street: "Lorenz-Schott-Straße"
-housenumber: 1
-phone: "+49 6134 296410"
+street: Lorenz-Schott-Straße
+housenumber: "1"
+phone: +49 6134 296410
 opening_hours: ""
-website: "https://www.oz-vatan-supermarkt.de/"
+website: https://www.oz-vatan-supermarkt.de/

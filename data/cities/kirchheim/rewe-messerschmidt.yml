@@ -1,11 +1,11 @@
 id: 293774141
-type: way
+type: node
 latitude: 50.83412
 longitude: 9.57223
 postcode: "36275"
 city: Kirchheim
-street: "Industriestraße"
-housenumber: 4
+street: Industriestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00;Su,PH off"
+opening_hours: Mo-Sa 06:00-22:00;Su,PH off
 website: ""

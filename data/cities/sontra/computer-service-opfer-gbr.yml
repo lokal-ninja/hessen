@@ -4,8 +4,8 @@ latitude: 51.06966
 longitude: 9.93482
 postcode: "36205"
 city: Sontra
-street: "Marktplatz"
-housenumber: 3
-phone: "+49 5653 914063"
-opening_hours: "Mo-Fr 09:00-13:00; Mo,Di,Do,Fr 15:00-18:00"
-website: "https://www.csopfer.de"
+street: Marktplatz
+housenumber: "3"
+phone: +49 5653 914063
+opening_hours: Mo-Fr 09:00-13:00; Mo,Di,Do,Fr 15:00-18:00
+website: https://www.csopfer.de

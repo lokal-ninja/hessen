@@ -1,11 +1,11 @@
 id: 274024453
-type: way
+type: node
 latitude: 50.18862
 longitude: 8.73271
 postcode: "61118"
 city: Bad Vilbel
-street: "Homburger Straße"
-housenumber: 74
+street: Homburger Straße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
-website: "https://filialen.aldi-sued.de/hessen/bad-vilbel/homburger-strasse-74"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
+website: https://filialen.aldi-sued.de/hessen/bad-vilbel/homburger-strasse-74

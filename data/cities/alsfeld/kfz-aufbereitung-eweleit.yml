@@ -1,11 +1,11 @@
 id: 102874310
-type: way
+type: node
 latitude: 50.74828
 longitude: 9.27331
 postcode: "36304"
 city: Alsfeld
-street: "Wallgasse"
-housenumber: 15
+street: Wallgasse
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

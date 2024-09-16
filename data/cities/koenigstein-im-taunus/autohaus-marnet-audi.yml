@@ -1,11 +1,11 @@
 id: 123329376
-type: way
+type: node
 latitude: 50.17722
 longitude: 8.47533
 postcode: "61462"
 city: Königstein im Taunus
-street: "Sodener Straße"
-housenumber: 3
+street: Sodener Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
-website: "https://www.marnet.de/"
+website: https://www.marnet.de/

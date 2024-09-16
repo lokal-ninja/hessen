@@ -1,11 +1,11 @@
 id: 154902441
-type: way
+type: node
 latitude: 50.16301
 longitude: 9.07881
 postcode: "63594"
 city: Hasselroth
-street: "Albert-Einstein-Straße"
-housenumber: 1
+street: Albert-Einstein-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

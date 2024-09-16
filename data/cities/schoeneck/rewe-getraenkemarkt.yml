@@ -1,11 +1,11 @@
 id: 202751816
-type: way
+type: node
 latitude: 50.20266
 longitude: 8.83943
 postcode: "61137"
 city: Schöneck
-street: "Uferstraße"
-housenumber: 2
+street: Uferstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.02558
 longitude: 8.11137
 postcode: "65343"
 city: Eltville am Rhein
-street: "Kiedricher Straße"
-housenumber: 1
+street: Kiedricher Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 08:00-11:00"
-website: "https://www.backstube-faust.de/"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 08:00-11:00
+website: https://www.backstube-faust.de/

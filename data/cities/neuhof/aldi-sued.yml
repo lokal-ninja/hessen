@@ -1,11 +1,11 @@
 id: 280716598
-type: way
+type: node
 latitude: 50.45733
 longitude: 9.61616
 postcode: "36119"
 city: Neuhof
-street: "Fuldaer Straße"
-housenumber: 21
+street: Fuldaer Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://filialen.aldi-sued.de/hessen/neuhof/fuldaer-strasse-21"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://filialen.aldi-sued.de/hessen/neuhof/fuldaer-strasse-21

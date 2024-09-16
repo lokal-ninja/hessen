@@ -1,11 +1,11 @@
 id: 231019794
-type: way
+type: node
 latitude: 49.77522
 longitude: 8.87301
 postcode: "64395"
 city: Brensbach
-street: "An der Hornsmühle"
-housenumber: 7
+street: An der Hornsmühle
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

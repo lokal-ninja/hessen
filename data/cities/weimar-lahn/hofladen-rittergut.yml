@@ -1,11 +1,11 @@
 id: 240272833
-type: way
+type: node
 latitude: 50.75762
 longitude: 8.70459
 postcode: "35096"
 city: Weimar (Lahn)
-street: "Koblenzer Straße"
-housenumber: 1
-phone: "+49 6421 77547"
+street: Koblenzer Straße
+housenumber: "1"
+phone: +49 6421 77547
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.31319
 longitude: 9.48394
 postcode: "34117"
 city: Kassel
-street: "Königstor"
-housenumber: 30
-phone: "+49 (0)5617392521"
-opening_hours: "Mo-Fr 09:30-17:00"
-website: "https://www.novis-kassel.de"
+street: Königstor
+housenumber: "30"
+phone: +49 (0)5617392521
+opening_hours: Mo-Fr 09:30-17:00
+website: https://www.novis-kassel.de

@@ -4,8 +4,8 @@ latitude: 50.13309
 longitude: 8.69492
 postcode: "60389"
 city: Frankfurt am Main
-street: "Friedberger Landstraße"
-housenumber: 235
-phone: "+49 69 13023937"
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-13:00"
-website: "https://www.gc-gruppe.de/de/unternehmen/erhart/locations/abex-frankfurt-friedberger-landstrasse"
+street: Friedberger Landstraße
+housenumber: "235"
+phone: +49 69 13023937
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-13:00
+website: https://www.gc-gruppe.de/de/unternehmen/erhart/locations/abex-frankfurt-friedberger-landstrasse

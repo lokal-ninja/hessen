@@ -4,8 +4,8 @@ latitude: 50.07884
 longitude: 8.23319
 postcode: "65185"
 city: Wiesbaden
-street: "Dotzheimer Straße"
-housenumber: 25
-phone: "+49 611 5059980"
-opening_hours: "nach Vereinbarung"
-website: "https://hobbygoldschmiede.wordpress.com"
+street: Dotzheimer Straße
+housenumber: "25"
+phone: +49 611 5059980
+opening_hours: '"nach Vereinbarung"'
+website: https://hobbygoldschmiede.wordpress.com

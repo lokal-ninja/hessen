@@ -4,8 +4,8 @@ latitude: 51.31224
 longitude: 9.43997
 postcode: "34131"
 city: Kassel
-street: "Kunoldstraße"
-housenumber: 40
-phone: "+49 561 2871691"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.abteilung7.de/"
+street: Kunoldstraße
+housenumber: "40"
+phone: +49 561 2871691
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.abteilung7.de/

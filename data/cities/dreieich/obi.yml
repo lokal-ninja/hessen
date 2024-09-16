@@ -1,11 +1,11 @@
 id: 32303410
-type: way
+type: node
 latitude: 50.03108
 longitude: 8.69723
 postcode: "63303"
 city: Dreieich
-street: "Frankfurter Straße"
-housenumber: 127
-phone: "+49 6103 93310"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Frankfurter Straße
+housenumber: "127"
+phone: +49 6103 93310
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

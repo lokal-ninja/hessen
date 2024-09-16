@@ -1,11 +1,11 @@
 id: 37728322
-type: way
+type: node
 latitude: 49.82415
 longitude: 8.74699
 postcode: "64372"
 city: Ober-Ramstadt
-street: "Brückengasse"
-housenumber: 20
-phone: "+49-6154-62620"
-opening_hours: "Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-12:00"
+street: Brückengasse
+housenumber: "20"
+phone: +49-6154-62620
+opening_hours: Mo-Th 07:30-12:00,13:30-17:00; Fr 07:30-12:00
 website: ""

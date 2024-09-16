@@ -4,8 +4,8 @@ latitude: 50.08212
 longitude: 8.22366
 postcode: "65195"
 city: Wiesbaden
-street: "Nettelbeckstraße"
-housenumber: 24
-phone: "+49 151 16549117"
-opening_hours: "We-Sa 10:00-19:00; Th off"
-website: "https://www.skischuhdoktor.de/"
+street: Nettelbeckstraße
+housenumber: "24"
+phone: +49 151 16549117
+opening_hours: We-Sa 10:00-19:00; Th off
+website: https://www.skischuhdoktor.de/

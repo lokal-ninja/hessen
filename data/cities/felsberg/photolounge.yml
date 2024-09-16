@@ -1,11 +1,11 @@
 id: 396032719
-type: way
+type: node
 latitude: 51.1293
 longitude: 9.43653
 postcode: "34587"
 city: Felsberg
-street: "Karthäuser Straße"
-housenumber: 2
+street: Karthäuser Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 08:30-12:30,14:30-18:00"
+opening_hours: Tu-Fr 08:30-12:30,14:30-18:00
 website: ""

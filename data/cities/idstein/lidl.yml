@@ -1,11 +1,11 @@
 id: 52958190
-type: way
+type: node
 latitude: 50.22868
 longitude: 8.26412
 postcode: "65510"
 city: Idstein
-street: "Limburger Straße"
-housenumber: 71
+street: Limburger Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

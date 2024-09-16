@@ -1,11 +1,11 @@
 id: 1247470074
-type: way
+type: node
 latitude: 49.8609
 longitude: 8.67873
 postcode: "64287"
 city: Darmstadt
-street: "Peter-Grünberg-Straße"
+street: Peter-Grünberg-Straße
 housenumber: 9a
 phone: ""
-opening_hours: "Mo-Sa 00:00-24:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-darmstadt-technische-universit-peter-gruenberg-strasse-9a.html"
+opening_hours: Mo-Sa 00:00-24:00
+website: https://www.tegut.com/maerkte/markt/tegut-darmstadt-technische-universit-peter-gruenberg-strasse-9a.html

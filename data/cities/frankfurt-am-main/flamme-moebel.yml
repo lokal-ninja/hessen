@@ -1,11 +1,11 @@
 id: 368000748
-type: way
+type: node
 latitude: 50.12317
 longitude: 8.74066
 postcode: "60314"
 city: Frankfurt am Main
-street: "Hanauer Landstraße"
-housenumber: 433
-phone: "+49 69 94173 0"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off"
-website: "https://www.flamme.de/orte-frankfurt/"
+street: Hanauer Landstraße
+housenumber: "433"
+phone: +49 69 94173 0
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off
+website: https://www.flamme.de/orte-frankfurt/

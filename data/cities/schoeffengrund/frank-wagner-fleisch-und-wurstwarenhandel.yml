@@ -4,8 +4,9 @@ latitude: 50.51641
 longitude: 8.45451
 postcode: "35641"
 city: Schöffengrund
-street: "Bornstraße"
-housenumber: 9
-phone: "+49 6445 92163"
-opening_hours: "Tu,Fr 09:00-12:00,15:00-19:00; Th 15:00-19:00; Sa 09:00-12:00; We,Su,Mo off"
-website: "https://fwh-wagner.eatbu.com"
+street: Bornstraße
+housenumber: "9"
+phone: +49 6445 92163
+opening_hours: Tu,Fr 09:00-12:00,15:00-19:00; Th 15:00-19:00; Sa 09:00-12:00; We,Su,Mo
+    off
+website: https://fwh-wagner.eatbu.com

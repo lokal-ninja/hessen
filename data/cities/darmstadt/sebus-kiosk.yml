@@ -4,8 +4,8 @@ latitude: 49.87049
 longitude: 8.65602
 postcode: "64283"
 city: Darmstadt
-street: "Schulstraße"
-housenumber: 11
+street: Schulstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "http://darmstadt-schulstrasse.de/haendler/sebus-kiosk"
+website: http://darmstadt-schulstrasse.de/haendler/sebus-kiosk

@@ -4,8 +4,8 @@ latitude: 50.0778
 longitude: 8.23021
 postcode: "65185"
 city: Wiesbaden
-street: "Kaiser-Friedrich-Ring"
-housenumber: 4
-phone: "+49 172 9297872"
-opening_hours: "Th-Fr 10:00-19:00,Sa 10:00-14:00"
-website: "https://nb-wohnen.de"
+street: Kaiser-Friedrich-Ring
+housenumber: "4"
+phone: +49 172 9297872
+opening_hours: Th-Fr 10:00-19:00,Sa 10:00-14:00
+website: https://nb-wohnen.de

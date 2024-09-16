@@ -1,11 +1,11 @@
 id: 514534128
-type: way
+type: node
 latitude: 50.59879
 longitude: 8.82501
 postcode: "35447"
 city: Reiskirchen
-street: "Siemensstraße"
-housenumber: 2
+street: Siemensstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

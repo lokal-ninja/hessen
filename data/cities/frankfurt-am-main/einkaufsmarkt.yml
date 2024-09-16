@@ -1,11 +1,11 @@
 id: 139401828
-type: way
+type: node
 latitude: 50.14417
 longitude: 8.6074
 postcode: "60488"
 city: Frankfurt am Main
-street: "Ludwig-Landmann-Straße"
-housenumber: 18
-phone: "+49 69 78082290"
+street: Ludwig-Landmann-Straße
+housenumber: "18"
+phone: +49 69 78082290
 opening_hours: ""
 website: ""

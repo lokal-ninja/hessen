@@ -4,8 +4,8 @@ latitude: 50.16094
 longitude: 8.64513
 postcode: "60439"
 city: Frankfurt am Main
-street: "Hessestraße"
-housenumber: 4
+street: Hessestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30"
+opening_hours: Mo-Fr 10:00-18:30
 website: ""

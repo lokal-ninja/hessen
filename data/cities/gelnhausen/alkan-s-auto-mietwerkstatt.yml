@@ -4,8 +4,8 @@ latitude: 50.19311
 longitude: 9.18255
 postcode: "63571"
 city: Gelnhausen
-street: "Lagerhausstraße"
-housenumber: 19
+street: Lagerhausstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.alkan-lackierfachbetrieb.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.alkan-lackierfachbetrieb.de/

@@ -1,11 +1,11 @@
 id: 162106504
-type: way
+type: node
 latitude: 50.10016
 longitude: 8.76902
 postcode: "63071"
 city: Offenbach am Main
-street: "Feldstraße"
-housenumber: 32
+street: Feldstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

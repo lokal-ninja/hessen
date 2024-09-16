@@ -1,11 +1,11 @@
 id: 140993396
-type: way
+type: node
 latitude: 50.20315
 longitude: 9.18735
 postcode: "63571"
 city: Gelnhausen
-street: "Röther Gasse"
-housenumber: 22
+street: Röther Gasse
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 385686807
-type: way
+type: node
 latitude: 50.48074
 longitude: 8.43419
 postcode: "35619"
 city: Braunfels
-street: "Mühlweg"
-housenumber: 3
+street: Mühlweg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

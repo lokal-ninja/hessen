@@ -4,8 +4,8 @@ latitude: 49.87766
 longitude: 8.65767
 postcode: "64289"
 city: Darmstadt
-street: "Lauteschlägerstraße"
-housenumber: 6
-phone: "+49 6151 97860"
-opening_hours: "Mo-Th 08:30-16:00; Fr 08:30-13:00; PH,Sa,Su off"
-website: "https://www.repro-marquardt.de/"
+street: Lauteschlägerstraße
+housenumber: "6"
+phone: +49 6151 97860
+opening_hours: Mo-Th 08:30-16:00; Fr 08:30-13:00; PH,Sa,Su off
+website: https://www.repro-marquardt.de/

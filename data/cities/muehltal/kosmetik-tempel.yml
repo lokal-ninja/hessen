@@ -1,11 +1,11 @@
 id: 78362572
-type: way
+type: node
 latitude: 49.82842
 longitude: 8.68956
 postcode: "64367"
 city: Mühltal
-street: "Alte Dieburger Straße"
-housenumber: 22
+street: Alte Dieburger Straße
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

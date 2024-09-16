@@ -1,11 +1,11 @@
 id: 878921288
-type: way
+type: node
 latitude: 51.31511
 longitude: 9.81086
 postcode: ""
 city: Witzenhausen
-street: "Berliner Straße"
-housenumber: 48
+street: Berliner Straße
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

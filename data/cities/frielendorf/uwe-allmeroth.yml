@@ -1,11 +1,11 @@
 id: 1167117953
-type: way
+type: node
 latitude: 50.97607
 longitude: 9.32614
 postcode: "34621"
 city: Frielendorf
-street: "Mühlenstraße"
-housenumber: 3
-phone: "+49 5684 922442"
+street: Mühlenstraße
+housenumber: "3"
+phone: +49 5684 922442
 opening_hours: ""
 website: ""

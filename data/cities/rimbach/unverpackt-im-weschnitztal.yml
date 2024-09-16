@@ -4,8 +4,8 @@ latitude: 49.62379
 longitude: 8.75828
 postcode: "64668"
 city: Rimbach
-street: "Gymnasiumstraße"
-housenumber: 12
+street: Gymnasiumstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; We,Sa 09:00-14:00"
-website: "https://www.unverpackt-in-rimbach.de/"
+opening_hours: Mo,Tu,Th,Fr 09:00-12:30,14:30-18:00; We,Sa 09:00-14:00
+website: https://www.unverpackt-in-rimbach.de/

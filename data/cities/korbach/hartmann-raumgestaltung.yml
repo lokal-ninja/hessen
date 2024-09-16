@@ -1,11 +1,11 @@
 id: 690171957
-type: way
+type: node
 latitude: 51.27393
 longitude: 8.87108
 postcode: "34497"
 city: Korbach
-street: "Nikolaistraße"
-housenumber: 4
+street: Nikolaistraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00"
+opening_hours: Mo-Fr 10:00-17:00
 website: ""

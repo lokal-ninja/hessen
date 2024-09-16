@@ -1,11 +1,11 @@
 id: 367308648
-type: way
+type: node
 latitude: 49.87295
 longitude: 8.83182
 postcode: "64846"
 city: Groß-Zimmern
-street: "Kirchstraße"
-housenumber: 16
+street: Kirchstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

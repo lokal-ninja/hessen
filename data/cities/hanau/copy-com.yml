@@ -4,8 +4,8 @@ latitude: 50.13111
 longitude: 8.92376
 postcode: "63450"
 city: Hanau
-street: "Kurt-Blaum-Platz"
-housenumber: 1
-phone: "+49 6181 253904"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "http://www.copycom-hanau.de/"
+street: Kurt-Blaum-Platz
+housenumber: "1"
+phone: +49 6181 253904
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
+website: http://www.copycom-hanau.de/

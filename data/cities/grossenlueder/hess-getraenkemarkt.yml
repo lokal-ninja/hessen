@@ -1,11 +1,11 @@
 id: 108344167
-type: way
+type: node
 latitude: 50.54764
 longitude: 9.51555
 postcode: "36137"
 city: Großenlüder
-street: "Mühlenstraße"
-housenumber: 2
-phone: "+49 6650 1300"
+street: Mühlenstraße
+housenumber: "2"
+phone: +49 6650 1300
 opening_hours: ""
 website: ""

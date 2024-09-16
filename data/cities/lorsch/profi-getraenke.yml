@@ -1,11 +1,11 @@
 id: 32477269
-type: way
+type: node
 latitude: 49.65347
 longitude: 8.55612
 postcode: "64653"
 city: Lorsch
-street: "Nibelungenstraße"
-housenumber: 131
+street: Nibelungenstraße
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

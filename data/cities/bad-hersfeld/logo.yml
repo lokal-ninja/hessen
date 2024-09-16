@@ -1,11 +1,11 @@
 id: 157253922
-type: way
+type: node
 latitude: 50.87939
 longitude: 9.68927
 postcode: "36251"
 city: Bad Hersfeld
-street: "Homberger Straße"
-housenumber: 138
-phone: "+49 6621 7990705"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.logo-getraenke.de/"
+street: Homberger Straße
+housenumber: "138"
+phone: +49 6621 7990705
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.logo-getraenke.de/

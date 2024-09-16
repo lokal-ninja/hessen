@@ -1,11 +1,11 @@
 id: 332579713
-type: way
+type: node
 latitude: 50.05751
 longitude: 8.25616
 postcode: "65187"
 city: Wiesbaden
-street: "Mainzer Straße"
-housenumber: 148
+street: Mainzer Straße
+housenumber: "148"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://wiesbaden.reifen-mueller.com/startseite/"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://wiesbaden.reifen-mueller.com/startseite/

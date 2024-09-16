@@ -1,11 +1,11 @@
 id: 520496738
-type: way
+type: node
 latitude: 50.69106
 longitude: 9.7487
 postcode: "36151"
 city: Burghaun
-street: "Am Grubener Weg"
-housenumber: 1
+street: Am Grubener Weg
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

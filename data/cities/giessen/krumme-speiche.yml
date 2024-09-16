@@ -4,8 +4,8 @@ latitude: 50.60498
 longitude: 8.70804
 postcode: "35396"
 city: Gießen
-street: "Kirchstraße"
-housenumber: 5
+street: Kirchstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://krummespeiche.de/"
+website: https://krummespeiche.de/

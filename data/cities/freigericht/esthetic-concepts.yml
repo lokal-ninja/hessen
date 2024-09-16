@@ -1,11 +1,11 @@
 id: 158890529
-type: way
+type: node
 latitude: 50.14087
 longitude: 9.14262
 postcode: "63579"
 city: Freigericht
-street: "Hauptstraße"
-housenumber: 94
-phone: "+49 6055 9077189"
+street: Hauptstraße
+housenumber: "94"
+phone: +49 6055 9077189
 opening_hours: ""
-website: "https://www.esthetic-concepts.ck-beauty-consulting.de"
+website: https://www.esthetic-concepts.ck-beauty-consulting.de

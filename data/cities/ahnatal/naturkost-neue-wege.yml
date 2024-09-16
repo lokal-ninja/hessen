@@ -4,8 +4,9 @@ latitude: 51.36773
 longitude: 9.39296
 postcode: "34292"
 city: Ahnatal
-street: "Wilhelmsthaler Straße"
-housenumber: 1
+street: Wilhelmsthaler Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-13:00,15:15-18:00; We 09:00-13:00; Sa 08:30-13:00; Su,PH off"
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:15-18:00; We 09:00-13:00; Sa 08:30-13:00;
+    Su,PH off
 website: ""

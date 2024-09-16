@@ -1,11 +1,11 @@
 id: 770031680
-type: way
+type: node
 latitude: 51.13807
 longitude: 9.27323
 postcode: "34560"
 city: Fritzlar
-street: "Wolfhager Straße"
-housenumber: 
+street: Wolfhager Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

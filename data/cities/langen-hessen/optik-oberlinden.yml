@@ -4,8 +4,8 @@ latitude: 49.99225
 longitude: 8.64885
 postcode: "63225"
 city: Langen (Hessen)
-street: "Berliner Allee"
-housenumber: 5
-phone: "+49 6103 71401"
-opening_hours: "Tu-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.optik-oberlinden.de/"
+street: Berliner Allee
+housenumber: "5"
+phone: +49 6103 71401
+opening_hours: Tu-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00
+website: https://www.optik-oberlinden.de/

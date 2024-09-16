@@ -4,8 +4,8 @@ latitude: 50.5384
 longitude: 8.65632
 postcode: "35440"
 city: Linden
-street: "Carl-Benz-Straße"
-housenumber: 5
-phone: "+49 6403 7741064"
-opening_hours: "Mo 11:00-17:00; Tu-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off"
-website: "https://www.emotion-technologies.de/gießen/"
+street: Carl-Benz-Straße
+housenumber: "5"
+phone: +49 6403 7741064
+opening_hours: Mo 11:00-17:00; Tu-Fr 10:00-18:30; Sa 10:00-16:00; Su,PH off
+website: https://www.emotion-technologies.de/gießen/

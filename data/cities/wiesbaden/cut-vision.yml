@@ -4,8 +4,8 @@ latitude: 50.08077
 longitude: 8.23256
 postcode: "65183"
 city: Wiesbaden
-street: "Bleichstraße"
-housenumber: 23
-phone: "+49 611 24014559"
-opening_hours: "Mo 11:00-18:00, Tu-Fr 09:30-19:00, Sa 09:30-18:00"
-website: "https://www.cutvision.de"
+street: Bleichstraße
+housenumber: "23"
+phone: +49 611 24014559
+opening_hours: Mo 11:00-18:00, Tu-Fr 09:30-19:00, Sa 09:30-18:00
+website: https://www.cutvision.de

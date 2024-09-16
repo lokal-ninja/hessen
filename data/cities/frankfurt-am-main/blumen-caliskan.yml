@@ -4,8 +4,8 @@ latitude: 50.14711
 longitude: 8.61252
 postcode: "60488"
 city: Frankfurt am Main
-street: "Heerstraße"
-housenumber: 76
-phone: "+49 69 65601518"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-14:00"
-website: "https://www.blumencaliskan.de/"
+street: Heerstraße
+housenumber: "76"
+phone: +49 69 65601518
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-14:00
+website: https://www.blumencaliskan.de/

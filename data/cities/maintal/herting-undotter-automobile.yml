@@ -4,8 +4,8 @@ latitude: 50.14171
 longitude: 8.80749
 postcode: "63477"
 city: Maintal
-street: "Bruno-Dressler-Straße"
-housenumber: 1
-phone: "+49 6109 76340"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-16:00"
-website: "https://www.herting-otter.de"
+street: Bruno-Dressler-Straße
+housenumber: "1"
+phone: +49 6109 76340
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-16:00
+website: https://www.herting-otter.de

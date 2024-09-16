@@ -1,11 +1,11 @@
 id: 107478707
-type: way
+type: node
 latitude: 50.84206
 longitude: 8.76829
 postcode: "35041"
 city: Marburg
-street: "Tom-Mutters-Straße"
+street: Tom-Mutters-Straße
 housenumber: 4a
-phone: "+49 6421 98097"
-opening_hours: "Mo-Sa 09:00-19:00; PH off"
-website: "https://stores.deichmann.com/hessen/marburg/tom-mutters-strasse-4a.html"
+phone: +49 6421 98097
+opening_hours: Mo-Sa 09:00-19:00; PH off
+website: https://stores.deichmann.com/hessen/marburg/tom-mutters-strasse-4a.html

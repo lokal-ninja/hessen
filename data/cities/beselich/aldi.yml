@@ -1,11 +1,11 @@
 id: 142894795
-type: way
+type: node
 latitude: 50.46419
 longitude: 8.13303
 postcode: "65614"
 city: Beselich
-street: "Hauptstraße"
-housenumber: 75
+street: Hauptstraße
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

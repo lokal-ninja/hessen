@@ -1,11 +1,11 @@
 id: 153180418
-type: way
+type: node
 latitude: 51.29228
 longitude: 9.45582
 postcode: "34134"
 city: Kassel
-street: "Leuschnerstraße"
-housenumber: 82
+street: Leuschnerstraße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/

@@ -1,11 +1,11 @@
 id: 257799063
-type: way
+type: node
 latitude: 50.38924
 longitude: 8.06221
 postcode: "65549"
 city: Limburg an der Lahn
-street: "Grabenstraße"
-housenumber: 19
+street: Grabenstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

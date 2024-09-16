@@ -4,8 +4,8 @@ latitude: 50.57531
 longitude: 9.19375
 postcode: "35327"
 city: Ulrichstein
-street: "Marktstraße"
-housenumber: 20
-phone: "+49 6645 9189187"
-opening_hours: "tu-fr 10:00-18:00; sa 10:00-13:00; Mo, su, ph off"
-website: "www.kueche-vogelsberg.de"
+street: Marktstraße
+housenumber: "20"
+phone: +49 6645 9189187
+opening_hours: tu-fr 10:00-18:00; sa 10:00-13:00; Mo, su, ph off
+website: www.kueche-vogelsberg.de

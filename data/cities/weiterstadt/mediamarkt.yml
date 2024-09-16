@@ -1,11 +1,11 @@
 id: 30919621
-type: way
+type: node
 latitude: 49.89731
 longitude: 8.60764
 postcode: "64331"
 city: Weiterstadt
-street: "Robert-Koch-Straße"
-housenumber: 18
-phone: "+49 6151 3979 0"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
-website: "https://www.mediamarkt.de/de/store/weiterstadt-563"
+street: Robert-Koch-Straße
+housenumber: "18"
+phone: +49 6151 3979 0
+opening_hours: Mo-Sa 10:00-20:00; PH off
+website: https://www.mediamarkt.de/de/store/weiterstadt-563

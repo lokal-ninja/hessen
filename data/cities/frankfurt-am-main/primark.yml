@@ -4,8 +4,8 @@ latitude: 50.15733
 longitude: 8.63248
 postcode: "60439"
 city: Frankfurt am Main
-street: "Limescorso"
-housenumber: 15
-phone: "+49 69 57003738"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://stores.primark.com/de_de/deutschland/frankfurt/limescorso-15"
+street: Limescorso
+housenumber: "15"
+phone: +49 69 57003738
+opening_hours: Mo-Sa 10:00-20:00
+website: https://stores.primark.com/de_de/deutschland/frankfurt/limescorso-15

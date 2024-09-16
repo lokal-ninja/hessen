@@ -1,11 +1,11 @@
 id: 177883231
-type: way
+type: node
 latitude: 50.91674
 longitude: 9.18609
 postcode: ""
 city: Schwalmstadt
-street: "Friedrich-Ebert-Straße"
-housenumber: 6
+street: Friedrich-Ebert-Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

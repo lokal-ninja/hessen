@@ -1,11 +1,11 @@
 id: 108773924
-type: way
+type: node
 latitude: 50.58318
 longitude: 9.53748
 postcode: "36137"
 city: Großenlüder
-street: "Aussiedlerhof"
-housenumber: 1
+street: Aussiedlerhof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 07:30-13:00"
-website: "https://www.landhof-koempel.de/"
+opening_hours: Mo-Fr 08:00-18:00, Sa 07:30-13:00
+website: https://www.landhof-koempel.de/

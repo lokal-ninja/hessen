@@ -1,11 +1,11 @@
 id: 142275561
-type: way
+type: node
 latitude: 49.97606
 longitude: 8.34619
 postcode: "65474"
 city: Bischofsheim
-street: "Ginsheimer Landstraße"
-housenumber: 18
+street: Ginsheimer Landstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

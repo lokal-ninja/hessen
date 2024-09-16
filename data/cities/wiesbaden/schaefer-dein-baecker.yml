@@ -4,8 +4,8 @@ latitude: 50.09225
 longitude: 8.22608
 postcode: "65193"
 city: Wiesbaden
-street: "Platter Straße"
-housenumber: 124
-phone: "+49 611 97132904"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-16:00; Su,PH 08:00-17:00"
+street: Platter Straße
+housenumber: "124"
+phone: +49 611 97132904
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-16:00; Su,PH 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.51451
 longitude: 8.39207
 postcode: "35619"
 city: Braunfels
-street: "Am Kurpark"
-housenumber: 8
-phone: "+49 6442 31119"
-opening_hours: "Mo-Sa 09:30-12:30; Mo-Fr 14:30-18:00"
-website: "http://www.carmensmodetreff.de"
+street: Am Kurpark
+housenumber: "8"
+phone: +49 6442 31119
+opening_hours: Mo-Sa 09:30-12:30; Mo-Fr 14:30-18:00
+website: http://www.carmensmodetreff.de

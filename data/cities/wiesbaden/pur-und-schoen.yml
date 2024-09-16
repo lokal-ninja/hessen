@@ -4,8 +4,8 @@ latitude: 50.07772
 longitude: 8.23497
 postcode: "65185"
 city: Wiesbaden
-street: "Rheinstraße"
-housenumber: 77
-phone: "+49 611 374919"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-16:00; PH off"
+street: Rheinstraße
+housenumber: "77"
+phone: +49 611 374919
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-16:00; PH off
 website: ""

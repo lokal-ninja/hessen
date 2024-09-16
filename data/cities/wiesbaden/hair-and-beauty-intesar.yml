@@ -4,8 +4,8 @@ latitude: 50.06501
 longitude: 8.26302
 postcode: "65189"
 city: Wiesbaden
-street: "Hauberrisserstraße"
-housenumber: 10
+street: Hauberrisserstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu, Fr 09:00-18:00; We, Sa 09:00-15:00; Th 09:00-20:00"
+opening_hours: Tu, Fr 09:00-18:00; We, Sa 09:00-15:00; Th 09:00-20:00
 website: ""

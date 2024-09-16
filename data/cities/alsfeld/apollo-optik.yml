@@ -1,11 +1,11 @@
 id: 159397322
-type: way
+type: node
 latitude: 50.75205
 longitude: 9.27075
 postcode: "36304"
 city: Alsfeld
-street: "Obergasse"
-housenumber: 19
+street: Obergasse
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 25984731
-type: way
+type: node
 latitude: 50.17507
 longitude: 8.52553
 postcode: "61476"
 city: Kronberg im Taunus
-street: "Westerbachstraße"
-housenumber: 9
+street: Westerbachstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://www.hibike.de/"
+website: https://www.hibike.de/

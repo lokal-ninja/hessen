@@ -1,11 +1,11 @@
 id: 369070350
-type: way
+type: node
 latitude: 49.95091
 longitude: 8.64867
 postcode: "64390"
 city: Erzhausen
-street: "Bahnstraße"
-housenumber: 176
-phone: "+49 6150 7558"
+street: Bahnstraße
+housenumber: "176"
+phone: +49 6150 7558
 opening_hours: ""
-website: "http://www.autowerkstatt-erzhausen.de/"
+website: http://www.autowerkstatt-erzhausen.de/

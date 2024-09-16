@@ -4,8 +4,8 @@ latitude: 50.08755
 longitude: 8.44329
 postcode: "65719"
 city: Hofheim am Taunus
-street: "Krebsgasse"
-housenumber: 15
-phone: "+49 6192 9 79 41 47"
-opening_hours: "Tu-Fr 09:30-13:30, Mo-Fr 15:00-18:30, Sa 09:30-14:00"
-website: "http://www.edelundsüss.de/index.html"
+street: Krebsgasse
+housenumber: "15"
+phone: +49 6192 9 79 41 47
+opening_hours: Tu-Fr 09:30-13:30, Mo-Fr 15:00-18:30, Sa 09:30-14:00
+website: http://www.edelundsüss.de/index.html

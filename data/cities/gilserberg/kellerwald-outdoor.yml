@@ -1,11 +1,11 @@
 id: 189923523
-type: way
+type: node
 latitude: 50.94939
 longitude: 9.06101
 postcode: "34630"
 city: Gilserberg
-street: "Kasseler Straße"
-housenumber: 4
+street: Kasseler Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.kellerwald-outdoor.de/"
+website: https://www.kellerwald-outdoor.de/

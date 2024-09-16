@@ -1,11 +1,11 @@
 id: 288930116
-type: way
+type: node
 latitude: 51.13892
 longitude: 9.54026
 postcode: "34212"
 city: Melsungen
-street: "Kasseler Straße"
-housenumber: 67
-phone: "+49 5661 6600"
+street: Kasseler Straße
+housenumber: "67"
+phone: +49 5661 6600
 opening_hours: ""
-website: "https://www.werkstatt-melsungen.de/home"
+website: https://www.werkstatt-melsungen.de/home

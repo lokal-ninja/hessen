@@ -4,8 +4,8 @@ latitude: 51.32559
 longitude: 9.47694
 postcode: "34127"
 city: Kassel
-street: "Wolfhager Straße"
-housenumber: 167
-phone: "+49 561 807590"
-opening_hours: "Mo-Fr 10:00-18:00; PH off"
-website: "https://www.helpline-kassel.de/"
+street: Wolfhager Straße
+housenumber: "167"
+phone: +49 561 807590
+opening_hours: Mo-Fr 10:00-18:00; PH off
+website: https://www.helpline-kassel.de/

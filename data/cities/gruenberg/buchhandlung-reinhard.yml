@@ -4,8 +4,8 @@ latitude: 50.59192
 longitude: 8.95994
 postcode: "35305"
 city: Grünberg
-street: "Marktgasse"
-housenumber: 10
-phone: "+49 6401 7855"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://reinhard.shop-asp.de/shop/action/?aUrl=90004474"
+street: Marktgasse
+housenumber: "10"
+phone: +49 6401 7855
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://reinhard.shop-asp.de/shop/action/?aUrl=90004474

@@ -1,11 +1,11 @@
 id: 61595042
-type: way
+type: node
 latitude: 50.13189
 longitude: 8.14681
 postcode: "65232"
 city: Taunusstein
-street: "Falkenweg"
-housenumber: 
+street: Falkenweg
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

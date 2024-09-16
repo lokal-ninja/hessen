@@ -4,8 +4,8 @@ latitude: 51.28793
 longitude: 9.47379
 postcode: "34134"
 city: Kassel
-street: "Frankfurter Straße"
-housenumber: 225
-phone: "+49 561 86179848"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://de.pandora.net/"
+street: Frankfurter Straße
+housenumber: "225"
+phone: +49 561 86179848
+opening_hours: Mo-Sa 09:30-20:00
+website: https://de.pandora.net/

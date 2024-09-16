@@ -1,11 +1,11 @@
 id: 28494441
-type: way
+type: node
 latitude: 50.13275
 longitude: 8.68317
 postcode: "60320"
 city: Frankfurt am Main
-street: "Eckenheimer Landstraße"
-housenumber: 183
+street: Eckenheimer Landstraße
+housenumber: "183"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.90908
 longitude: 8.49808
 postcode: "64521"
 city: Groß-Gerau
-street: "Helvetiastraße"
-housenumber: 5
+street: Helvetiastraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.mediamarkt.de/de/store/gross-gerau-7000"
+website: https://www.mediamarkt.de/de/store/gross-gerau-7000

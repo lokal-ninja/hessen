@@ -1,11 +1,11 @@
 id: 125269944
-type: way
+type: node
 latitude: 51.3328
 longitude: 9.50096
 postcode: "34127"
 city: Kassel
-street: "Quellhofstraße"
-housenumber: 22
+street: Quellhofstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

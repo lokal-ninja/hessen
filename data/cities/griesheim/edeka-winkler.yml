@@ -4,8 +4,8 @@ latitude: 49.86043
 longitude: 8.56253
 postcode: "64347"
 city: Griesheim
-street: "Wilhelm-Leuschner-Straße"
-housenumber: 59
-phone: "+49 6155 8681880"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka-winkler.de/"
+street: Wilhelm-Leuschner-Straße
+housenumber: "59"
+phone: +49 6155 8681880
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka-winkler.de/

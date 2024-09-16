@@ -1,11 +1,11 @@
 id: 205484733
-type: way
+type: node
 latitude: 49.75505
 longitude: 8.49089
 postcode: "64579"
 city: Gernsheim
-street: "Bensheimer Straße"
-housenumber: 2
+street: Bensheimer Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

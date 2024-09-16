@@ -1,11 +1,11 @@
 id: 30606203
-type: way
+type: node
 latitude: 50.34428
 longitude: 8.74435
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Anna-Kloos-Straße"
-housenumber: 1
-phone: "+49 6031 6843370"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Anna-Kloos-Straße
+housenumber: "1"
+phone: +49 6031 6843370
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

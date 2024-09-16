@@ -1,11 +1,11 @@
 id: 124268457
-type: way
+type: node
 latitude: 49.68118
 longitude: 8.61947
 postcode: "64625"
 city: Bensheim
-street: "Bahnhofstraße"
-housenumber: 24
+street: Bahnhofstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo,Tu 11:00-18:00; We off; Th,Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://www.musikgarage.de"
+opening_hours: Mo,Tu 11:00-18:00; We off; Th,Fr 10:00-19:00; Sa 10:00-16:00
+website: http://www.musikgarage.de

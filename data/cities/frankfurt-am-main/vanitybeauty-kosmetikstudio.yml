@@ -4,8 +4,8 @@ latitude: 50.116
 longitude: 8.67571
 postcode: "60313"
 city: Frankfurt am Main
-street: "Hochstraße"
-housenumber: 31
-phone: "+49 69 91312041"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.vanitybeauty.de"
+street: Hochstraße
+housenumber: "31"
+phone: +49 69 91312041
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.vanitybeauty.de

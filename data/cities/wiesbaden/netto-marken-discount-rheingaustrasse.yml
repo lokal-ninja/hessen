@@ -1,11 +1,11 @@
 id: 112475525
-type: way
+type: node
 latitude: 50.04269
 longitude: 8.21124
 postcode: "65201"
 city: Wiesbaden
-street: "Rheingaustraße"
-housenumber: 44
+street: Rheingaustraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

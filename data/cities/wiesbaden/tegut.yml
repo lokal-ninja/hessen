@@ -4,8 +4,8 @@ latitude: 50.04467
 longitude: 8.20526
 postcode: "65201"
 city: Wiesbaden
-street: "Rheingaustraße"
-housenumber: 30
-phone: "+49 611 2387990"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.tegut.com/maerkte/markt/tegut-wiesbaden-schierstein-rheingaustr-30.html"
+street: Rheingaustraße
+housenumber: "30"
+phone: +49 611 2387990
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.tegut.com/maerkte/markt/tegut-wiesbaden-schierstein-rheingaustr-30.html

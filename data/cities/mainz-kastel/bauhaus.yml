@@ -1,11 +1,11 @@
 id: 1289813642
-type: way
+type: node
 latitude: 50.02869
 longitude: 8.29106
 postcode: "55252"
 city: Mainz-Kastel
-street: "Gottfried-Dörr-Straße"
-housenumber: 21
-phone: "+49 6134 25569 0"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.bauhaus.info/fachcentren/fachcentrum-wiesbaden--mainz-kastel/fc/896"
+street: Gottfried-Dörr-Straße
+housenumber: "21"
+phone: +49 6134 25569 0
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.bauhaus.info/fachcentren/fachcentrum-wiesbaden--mainz-kastel/fc/896

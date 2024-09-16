@@ -1,11 +1,11 @@
 id: 178703557
-type: way
+type: node
 latitude: 50.14281
 longitude: 8.04748
 postcode: "65307"
 city: Bad Schwalbach
-street: "Edmund-Heusinger-Straße"
+street: Edmund-Heusinger-Straße
 housenumber: 8a
-phone: "+49 6124 7244398"
-opening_hours: "Mo-Fr 08:00-13:00 14:00-18:00 Sa 09:00-14:00"
+phone: +49 6124 7244398
+opening_hours: Mo-Fr 08:00-13:00 14:00-18:00 Sa 09:00-14:00
 website: ""

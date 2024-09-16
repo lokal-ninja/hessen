@@ -1,11 +1,11 @@
 id: 484662483
-type: way
+type: node
 latitude: 50.83116
 longitude: 9.66756
 postcode: "36251"
 city: Bad Hersfeld
-street: "Industriestraße"
-housenumber: 10
-phone: "+49 6621 1760"
+street: Industriestraße
+housenumber: "10"
+phone: +49 6621 1760
 opening_hours: ""
-website: "https://www.baustoffmarkt-gruppe.de/standorte/nordhessischer-baustoffmarkt-gmbh-co-kg-start/"
+website: https://www.baustoffmarkt-gruppe.de/standorte/nordhessischer-baustoffmarkt-gmbh-co-kg-start/

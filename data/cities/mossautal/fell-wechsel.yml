@@ -4,8 +4,8 @@ latitude: 49.6397
 longitude: 8.93166
 postcode: "64756"
 city: Mossautal
-street: "Ortsstraße"
-housenumber: 154
-phone: "+49 6062 8096667"
-opening_hours: "nach Vereinbarung"
-website: "http://fell-wechsel.com/"
+street: Ortsstraße
+housenumber: "154"
+phone: +49 6062 8096667
+opening_hours: '"nach Vereinbarung"'
+website: http://fell-wechsel.com/

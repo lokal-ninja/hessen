@@ -1,11 +1,11 @@
 id: 369067842
-type: way
+type: node
 latitude: 49.95038
 longitude: 8.64974
 postcode: "64390"
 city: Erzhausen
-street: "Bahnstraße"
-housenumber: 173
+street: Bahnstraße
+housenumber: "173"
 phone: ""
-opening_hours: "Mo-Fr 05:30-17:00; Sa 05:30-12:00"
+opening_hours: Mo-Fr 05:30-17:00; Sa 05:30-12:00
 website: ""

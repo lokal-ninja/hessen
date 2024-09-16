@@ -1,11 +1,11 @@
 id: 99950828
-type: way
+type: node
 latitude: 51.32736
 longitude: 9.17696
 postcode: "34466"
 city: Wolfhagen
-street: "Lynkerstraße"
-housenumber: 18
+street: Lynkerstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/

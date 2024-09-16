@@ -4,8 +4,8 @@ latitude: 51.3367
 longitude: 9.43958
 postcode: "34128"
 city: Kassel
-street: "Wolfhager Straße"
-housenumber: 374
-phone: "+49 5618102980"
-opening_hours: "Mo-Fr 09:00-13:00,Th 15:00-17:00; PH off"
-website: "https://www.novis-kassel.de/harleshausen"
+street: Wolfhager Straße
+housenumber: "374"
+phone: +49 5618102980
+opening_hours: Mo-Fr 09:00-13:00,Th 15:00-17:00; PH off
+website: https://www.novis-kassel.de/harleshausen

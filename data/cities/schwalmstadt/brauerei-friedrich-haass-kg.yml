@@ -1,11 +1,11 @@
 id: 185543604
-type: way
+type: node
 latitude: 50.91206
 longitude: 9.1938
 postcode: "34613"
 city: Schwalmstadt
-street: "Ascheröder Straße"
-housenumber: 9
+street: Ascheröder Straße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

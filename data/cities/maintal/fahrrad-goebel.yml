@@ -4,8 +4,8 @@ latitude: 50.13214
 longitude: 8.83954
 postcode: "63477"
 city: Maintal
-street: "Frankfurter Straße"
-housenumber: 27
-phone: "+49 6181 492839"
-opening_hours: "Mo,Tu,Th,Fr-Sa 09:00-13:00,15:00-18:00;We,Sa 09:00-13:00; PH off"
-website: "http://www.fahrrad-goebel-maintal.de/"
+street: Frankfurter Straße
+housenumber: "27"
+phone: +49 6181 492839
+opening_hours: Mo,Tu,Th,Fr-Sa 09:00-13:00,15:00-18:00;We,Sa 09:00-13:00; PH off
+website: http://www.fahrrad-goebel-maintal.de/

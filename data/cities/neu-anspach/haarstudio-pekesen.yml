@@ -1,11 +1,11 @@
 id: 444735993
-type: way
+type: node
 latitude: 50.3002
 longitude: 8.51498
 postcode: "61267"
 city: Neu-Anspach
-street: "Bahnhofstraße"
-housenumber: 99
-phone: "+49 6172 8580671"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.haarstudio-pekesen.de/"
+street: Bahnhofstraße
+housenumber: "99"
+phone: +49 6172 8580671
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.haarstudio-pekesen.de/

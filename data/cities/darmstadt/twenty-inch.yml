@@ -4,8 +4,8 @@ latitude: 49.87069
 longitude: 8.65606
 postcode: "64283"
 city: Darmstadt
-street: "Schulstraße"
-housenumber: 14
-phone: "+49 6151-2788-056"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 10:00-15:00"
-website: "https://twenty-inch.de/"
+street: Schulstraße
+housenumber: "14"
+phone: +49 6151-2788-056
+opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-15:00
+website: https://twenty-inch.de/

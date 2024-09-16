@@ -1,11 +1,11 @@
 id: 25722104
-type: way
+type: node
 latitude: 50.19312
 longitude: 8.58895
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Pfeiffstraße"
+street: Pfeiffstraße
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off"
-website: "https://www.rossmann.de/de/filialen/hessen/oberursel--taunus/pfeiffstr--1a.html"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off
+website: https://www.rossmann.de/de/filialen/hessen/oberursel--taunus/pfeiffstr--1a.html

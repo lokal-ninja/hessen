@@ -1,11 +1,11 @@
 id: 228943590
-type: way
+type: node
 latitude: 49.64423
 longitude: 8.61611
 postcode: "64646"
 city: Heppenheim
-street: "Tiergartenstraße"
-housenumber: 12
+street: Tiergartenstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://autohaus-goss.de/"
+website: https://autohaus-goss.de/

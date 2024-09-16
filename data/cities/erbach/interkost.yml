@@ -1,11 +1,11 @@
 id: 27190918
-type: way
+type: node
 latitude: 49.66503
 longitude: 9.00895
 postcode: "64711"
 city: Erbach
-street: "Stockheimer Ring"
-housenumber: 24
+street: Stockheimer Ring
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.interkost.com/"
+website: https://www.interkost.com/

@@ -4,8 +4,8 @@ latitude: 49.88216
 longitude: 8.65345
 postcode: "64289"
 city: Darmstadt
-street: "Mollerstraße"
-housenumber: 17
-phone: "+49 6151 79636"
-opening_hours: "Tu-Fr 10:00-118:00, Sa 10:00-15:00, PH Off"
-website: "https://radelmal.de/"
+street: Mollerstraße
+housenumber: "17"
+phone: +49 6151 79636
+opening_hours: Tu-Fr 10:00-118:00, Sa 10:00-15:00, PH Off
+website: https://radelmal.de/

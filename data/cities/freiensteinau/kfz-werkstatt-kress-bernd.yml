@@ -1,11 +1,11 @@
 id: 199359946
-type: way
+type: node
 latitude: 50.42038
 longitude: 9.41197
 postcode: "36399"
 city: Freiensteinau
-street: "Philipp-Reis-Straße"
-housenumber: 7
+street: Philipp-Reis-Straße
+housenumber: "7"
 phone: "06666918313"
-opening_hours: "Mo-Fr 08:00-12:30,13:00-16:45"
+opening_hours: Mo-Fr 08:00-12:30,13:00-16:45
 website: ""

@@ -1,11 +1,11 @@
 id: 136789694
-type: way
+type: node
 latitude: 49.67457
 longitude: 9.00487
 postcode: "64720"
 city: Michelstadt
-street: "Erbacher Straße"
-housenumber: 30
+street: Erbacher Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

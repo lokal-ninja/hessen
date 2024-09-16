@@ -1,11 +1,11 @@
 id: 1203000812
-type: way
+type: node
 latitude: 50.77698
 longitude: 8.76902
 postcode: "35043"
 city: Marburg
-street: "Cappeler Markt"
-housenumber: 7
+street: Cappeler Markt
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH off
 website: ""

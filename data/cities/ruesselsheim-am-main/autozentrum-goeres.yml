@@ -1,11 +1,11 @@
 id: 166724105
-type: way
+type: node
 latitude: 49.97727
 longitude: 8.42147
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Eisenstraße"
-housenumber: 12
-phone: "+49 6142 408350"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
-website: "https://goeres-autozentrum.de/"
+street: Eisenstraße
+housenumber: "12"
+phone: +49 6142 408350
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
+website: https://goeres-autozentrum.de/

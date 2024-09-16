@@ -1,11 +1,11 @@
 id: 242346995
-type: way
+type: node
 latitude: 50.39613
 longitude: 8.81701
 postcode: ""
 city: Wölfersheim
-street: "Biedrichstraße"
-housenumber: 24
+street: Biedrichstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

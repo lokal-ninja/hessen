@@ -4,8 +4,8 @@ latitude: 50.12356
 longitude: 8.63536
 postcode: "60487"
 city: Frankfurt am Main
-street: "Rödelheimer Straße"
-housenumber: 33
+street: Rödelheimer Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Su 11:00-15:00,17:00-23:00"
-website: "https://www.vintage-atelier.de/"
+opening_hours: Mo-Su 11:00-15:00,17:00-23:00
+website: https://www.vintage-atelier.de/

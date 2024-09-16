@@ -1,11 +1,11 @@
 id: 81097185
-type: way
+type: node
 latitude: 49.79177
 longitude: 8.82124
 postcode: "64401"
 city: Groß-Bieberau
-street: "Lichtenberger Straße"
-housenumber: 66
+street: Lichtenberger Straße
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.14868
 longitude: 8.61557
 postcode: "60488"
 city: Frankfurt am Main
-street: "Heerstraße"
-housenumber: 54
+street: Heerstraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://www.action.com"
+website: https://www.action.com

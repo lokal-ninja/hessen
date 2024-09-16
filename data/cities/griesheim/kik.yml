@@ -1,11 +1,11 @@
 id: 28565917
-type: way
+type: node
 latitude: 49.87016
 longitude: 8.55208
 postcode: "64347"
 city: Griesheim
-street: "Feldstraße"
-housenumber: 14
+street: Feldstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
 website: ""

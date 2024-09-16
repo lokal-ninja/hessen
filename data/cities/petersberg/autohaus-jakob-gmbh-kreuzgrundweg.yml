@@ -1,11 +1,11 @@
 id: 120919890
-type: way
+type: node
 latitude: 50.55581
 longitude: 9.72481
 postcode: ""
 city: Petersberg
-street: "Kreuzgrundweg"
-housenumber: 4
+street: Kreuzgrundweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 34182005
-type: way
+type: node
 latitude: 50.13719
 longitude: 8.15314
 postcode: "65232"
 city: Taunusstein
-street: "Röderweg"
-housenumber: 34
+street: Röderweg
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

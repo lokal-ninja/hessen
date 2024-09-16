@@ -4,8 +4,8 @@ latitude: 49.67781
 longitude: 8.99878
 postcode: "64720"
 city: Michelstadt
-street: "Hammerweg"
-housenumber: 30
-phone: "+49 6061 72195"
-opening_hours: "Mo-Fr 09:00-20:00; Sa,Su 09:00-18:00"
-website: "http://www.mysun.de/"
+street: Hammerweg
+housenumber: "30"
+phone: +49 6061 72195
+opening_hours: Mo-Fr 09:00-20:00; Sa,Su 09:00-18:00
+website: http://www.mysun.de/

@@ -1,11 +1,11 @@
 id: 38621260
-type: way
+type: node
 latitude: 50.07715
 longitude: 8.99754
 postcode: "63538"
 city: Großkrotzenburg
-street: "Marie-Curie-Straße"
-housenumber: 3
+street: Marie-Curie-Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

@@ -1,11 +1,11 @@
 id: 88021531
-type: way
+type: node
 latitude: 51.32099
 longitude: 9.52026
 postcode: "34125"
 city: Kassel
-street: "Ostring"
-housenumber: 19
-phone: "+49 561 8708940"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+street: Ostring
+housenumber: "19"
+phone: +49 561 8708940
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

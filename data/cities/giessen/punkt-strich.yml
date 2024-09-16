@@ -4,8 +4,8 @@ latitude: 50.58706
 longitude: 8.67505
 postcode: "35390"
 city: Gießen
-street: "Kirchenplatz"
-housenumber: 4
-phone: "+49 641 38719"
-opening_hours: "Mo-Fr 9:30-18:30; Sa 9:30-16:00"
-website: "https://www.punktundstrich.de/"
+street: Kirchenplatz
+housenumber: "4"
+phone: +49 641 38719
+opening_hours: Mo-Fr 9:30-18:30; Sa 9:30-16:00
+website: https://www.punktundstrich.de/

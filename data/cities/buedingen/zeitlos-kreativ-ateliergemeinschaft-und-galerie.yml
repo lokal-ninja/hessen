@@ -1,11 +1,11 @@
 id: 482000598
-type: way
+type: node
 latitude: 50.25625
 longitude: 9.07442
 postcode: "63654"
 city: Büdingen
-street: "Herrnhaager Straße"
+street: Herrnhaager Straße
 housenumber: 12, 14
 phone: ""
-opening_hours: "Mo-Sa 14:00-17:00"
-website: "http://www.zeitlos-kreativ.eu/"
+opening_hours: Mo-Sa 14:00-17:00
+website: http://www.zeitlos-kreativ.eu/

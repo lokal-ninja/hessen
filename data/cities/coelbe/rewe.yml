@@ -1,11 +1,11 @@
 id: 115395544
-type: way
+type: node
 latitude: 50.84979
 longitude: 8.77286
 postcode: "35091"
 city: Cölbe
-street: "Industriestraße"
-housenumber: 6
+street: Industriestraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

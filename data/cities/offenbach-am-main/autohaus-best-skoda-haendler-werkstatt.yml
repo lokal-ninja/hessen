@@ -1,11 +1,11 @@
 id: 191026831
-type: way
+type: node
 latitude: 50.10496
 longitude: 8.78387
 postcode: "63075"
 city: Offenbach am Main
-street: "Untere Grenzstraße"
+street: Untere Grenzstraße
 housenumber: 4-6
-phone: "+49 69 8090960"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-14:00"
-website: "https://www.autohaus-best.de"
+phone: +49 69 8090960
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-14:00
+website: https://www.autohaus-best.de

@@ -1,11 +1,11 @@
 id: 197504738
-type: way
+type: node
 latitude: 50.15503
 longitude: 8.52586
 postcode: "65824"
 city: Schwalbach am Taunus
-street: "Marktplatz"
+street: Marktplatz
 housenumber: 28b
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/

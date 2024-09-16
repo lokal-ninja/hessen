@@ -4,8 +4,8 @@ latitude: 50.5839
 longitude: 8.67304
 postcode: "35390"
 city: Gießen
-street: "Seltersweg"
-housenumber: 23
+street: Seltersweg
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-15:00"
-website: "https://www.magnus-optik.de"
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-15:00
+website: https://www.magnus-optik.de

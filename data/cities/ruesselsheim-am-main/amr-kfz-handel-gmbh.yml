@@ -1,11 +1,11 @@
 id: 166858434
-type: way
+type: node
 latitude: 49.9535
 longitude: 8.4261
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "An der B 42"
-housenumber: 
+street: An der B 42
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

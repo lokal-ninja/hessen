@@ -4,8 +4,8 @@ latitude: 50.10084
 longitude: 8.26459
 postcode: "65191"
 city: Wiesbaden
-street: "Danziger Straße"
-housenumber: 24
-phone: "+49 611 547258"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Danziger Straße
+housenumber: "24"
+phone: +49 611 547258
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

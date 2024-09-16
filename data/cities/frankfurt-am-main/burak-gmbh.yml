@@ -4,8 +4,8 @@ latitude: 50.10817
 longitude: 8.67066
 postcode: "60329"
 city: Frankfurt am Main
-street: "Münchener Straße"
-housenumber: 12
+street: Münchener Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 website: ""

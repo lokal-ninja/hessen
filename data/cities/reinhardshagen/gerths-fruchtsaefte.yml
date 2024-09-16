@@ -1,11 +1,11 @@
 id: 87916022
-type: way
+type: node
 latitude: 51.49216
 longitude: 9.6038
 postcode: "34359"
 city: Reinhardshagen
-street: "Burgstraße"
-housenumber: 20
-phone: "+49 5544 228"
-opening_hours: "Mo,Tu,Th,Fr 08:00-18:00; We,Sa 08:00-13:00"
-website: "https://www.gerths-fruchtsaefte.de/"
+street: Burgstraße
+housenumber: "20"
+phone: +49 5544 228
+opening_hours: Mo,Tu,Th,Fr 08:00-18:00; We,Sa 08:00-13:00
+website: https://www.gerths-fruchtsaefte.de/

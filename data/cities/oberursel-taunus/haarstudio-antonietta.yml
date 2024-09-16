@@ -4,8 +4,9 @@ latitude: 50.20255
 longitude: 8.57895
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Ackergasse"
-housenumber: 16
+street: Ackergasse
+housenumber: "16"
 phone: "+496171580838"
-opening_hours: "We-Fr 09:30-13:00,14:00-19:00; Sa 08:30-13:30; Mo 09:30-13:30,14:00-19:00; PH off"
-website: "https://www.haarstudio-antonietta.de/"
+opening_hours: We-Fr 09:30-13:00,14:00-19:00; Sa 08:30-13:30; Mo 09:30-13:30,14:00-19:00;
+    PH off
+website: https://www.haarstudio-antonietta.de/

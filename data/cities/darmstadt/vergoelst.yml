@@ -4,8 +4,8 @@ latitude: 49.87913
 longitude: 8.64338
 postcode: "64293"
 city: Darmstadt
-street: "Kasinostraße"
-housenumber: 60
-phone: "+49 6151 871319"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://vergoelst.de/DARMSTADT"
+street: Kasinostraße
+housenumber: "60"
+phone: +49 6151 871319
+opening_hours: Mo-Fr 08:00-17:00
+website: https://vergoelst.de/DARMSTADT

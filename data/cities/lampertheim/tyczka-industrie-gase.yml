@@ -1,11 +1,11 @@
 id: 316048352
-type: way
+type: node
 latitude: 49.62146
 longitude: 8.43168
 postcode: "68623"
 city: Lampertheim
-street: "Georg-Tyczka-Straße"
-housenumber: 4
-phone: "+49 6206 937450"
+street: Georg-Tyczka-Straße
+housenumber: "4"
+phone: +49 6206 937450
 opening_hours: ""
-website: "https://www.tig.de/"
+website: https://www.tig.de/

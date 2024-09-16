@@ -1,11 +1,11 @@
 id: 283019748
-type: way
+type: node
 latitude: 49.67483
 longitude: 8.99228
 postcode: "64720"
 city: Michelstadt
-street: "Relystraße"
-housenumber: 19
+street: Relystraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://bambusundmehr.de/"
+website: https://bambusundmehr.de/

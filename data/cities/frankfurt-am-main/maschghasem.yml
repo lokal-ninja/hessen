@@ -4,8 +4,8 @@ latitude: 50.10872
 longitude: 8.66263
 postcode: "60329"
 city: Frankfurt am Main
-street: "Düsseldorfer Straße"
-housenumber: 4
-phone: "+49 69 24249539"
-opening_hours: "Mo-Sa 10:30-19:00"
+street: Düsseldorfer Straße
+housenumber: "4"
+phone: +49 69 24249539
+opening_hours: Mo-Sa 10:30-19:00
 website: ""

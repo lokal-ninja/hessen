@@ -4,8 +4,8 @@ latitude: 50.11324
 longitude: 8.70455
 postcode: "60314"
 city: Frankfurt am Main
-street: "Ostbahnhofstraße"
-housenumber: 9
-phone: "+49 151 11 54 52 80"
-opening_hours: "nach Vereinbarung"
-website: "https://www.roelle-kunst.de/"
+street: Ostbahnhofstraße
+housenumber: "9"
+phone: +49 151 11 54 52 80
+opening_hours: '"nach Vereinbarung"'
+website: https://www.roelle-kunst.de/

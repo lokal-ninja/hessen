@@ -1,11 +1,11 @@
 id: 114813052
-type: way
+type: node
 latitude: 49.67691
 longitude: 8.59223
 postcode: "64625"
 city: Bensheim
-street: "Robert-Bosch-Straße"
-housenumber: 35
-phone: "+49 6251 1304-0"
-opening_hours: "Mo. - Fr.: 08:00 - 18:00 Uhr / Sa.: 09:00 - 14:00 Uhr"
-website: "https://www.autohaus-ebert.de/"
+street: Robert-Bosch-Straße
+housenumber: "35"
+phone: +49 6251 1304-0
+opening_hours: 'Mo. - Fr.: 08:00 - 18:00 Uhr / Sa.: 09:00 - 14:00 Uhr'
+website: https://www.autohaus-ebert.de/

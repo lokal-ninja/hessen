@@ -1,11 +1,11 @@
 id: 398982334
-type: way
+type: node
 latitude: 50.53347
 longitude: 8.70302
 postcode: "35415"
 city: Pohlheim
-street: "Leipziger Straße"
-housenumber: 2
-phone: "+49 6403 9692593"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:30-19:00; Su,PH off"
+street: Leipziger Straße
+housenumber: "2"
+phone: +49 6403 9692593
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:30-19:00; Su,PH off
 website: ""

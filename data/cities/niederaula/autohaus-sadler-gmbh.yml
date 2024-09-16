@@ -1,11 +1,11 @@
 id: 172139801
-type: way
+type: node
 latitude: 50.79917
 longitude: 9.60172
 postcode: "36272"
 city: Niederaula
-street: "Hattenbacher Straße"
-housenumber: 1
-phone: "+49 6625 922320"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-12:00"
-website: "http://www.autohaus-sadler.de/"
+street: Hattenbacher Straße
+housenumber: "1"
+phone: +49 6625 922320
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-12:00
+website: http://www.autohaus-sadler.de/

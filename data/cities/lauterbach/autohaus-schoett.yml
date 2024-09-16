@@ -1,11 +1,11 @@
 id: 101693450
-type: way
+type: node
 latitude: 50.63614
 longitude: 9.39373
 postcode: "36341"
 city: Lauterbach
-street: "Vogelsbergstraße"
-housenumber: 18
+street: Vogelsbergstraße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 205992746
-type: way
+type: node
 latitude: 49.92804
 longitude: 8.41581
 postcode: "65468"
 city: Trebur
-street: "Oderstraße"
-housenumber: 22
-phone: "+49 6147 2534"
+street: Oderstraße
+housenumber: "22"
+phone: +49 6147 2534
 opening_hours: ""
 website: ""

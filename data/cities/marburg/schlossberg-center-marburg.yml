@@ -1,11 +1,11 @@
 id: 191292092
-type: way
+type: node
 latitude: 50.8075
 longitude: 8.76947
 postcode: "35037"
 city: Marburg
-street: "Universitätsstraße"
-housenumber: 15
+street: Universitätsstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.schlossberg-center-marburg.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.schlossberg-center-marburg.de/

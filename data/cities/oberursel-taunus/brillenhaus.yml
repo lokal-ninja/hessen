@@ -4,8 +4,8 @@ latitude: 50.21536
 longitude: 8.55382
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Camp-King-Allee"
-housenumber: 6
-phone: "+49 6171 284512"
-opening_hours: "Mo 09:00-13:00, Tu-Fr 09:00-13:00,14:00-19:00; Sa 09:00-14:00; PH off"
-website: "https://brillenhaus-oberursel.de"
+street: Camp-King-Allee
+housenumber: "6"
+phone: +49 6171 284512
+opening_hours: Mo 09:00-13:00, Tu-Fr 09:00-13:00,14:00-19:00; Sa 09:00-14:00; PH off
+website: https://brillenhaus-oberursel.de

@@ -1,11 +1,11 @@
 id: 78394009
-type: way
+type: node
 latitude: 50.0681
 longitude: 8.25111
 postcode: ""
 city: Wiesbaden
-street: "Mainzer Straße"
-housenumber: 96
-phone: "+49611 72478800"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.central-theme.com"
+street: Mainzer Straße
+housenumber: "96"
+phone: +49611 72478800
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.central-theme.com

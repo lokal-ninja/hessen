@@ -5,7 +5,7 @@ longitude: 8.52357
 postcode: "61267"
 city: Neu-Anspach
 street: ""
-housenumber: 1
-phone: "+49 6081 577637"
-opening_hours: "Tu-Fr 18:00-23:00"
-website: "http://www.weinstube-schultheisshof.de/"
+housenumber: "1"
+phone: +49 6081 577637
+opening_hours: Tu-Fr 18:00-23:00
+website: http://www.weinstube-schultheisshof.de/

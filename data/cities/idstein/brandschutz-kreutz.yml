@@ -4,8 +4,8 @@ latitude: 50.21954
 longitude: 8.25465
 postcode: "65510"
 city: Idstein
-street: "Deningerstraße"
-housenumber: 8
-phone: "+49 6126 560 245"
-opening_hours: "Mo-Fr 8:00-18:00; Sa 8:00-14:00"
+street: Deningerstraße
+housenumber: "8"
+phone: +49 6126 560 245
+opening_hours: Mo-Fr 8:00-18:00; Sa 8:00-14:00
 website: ""

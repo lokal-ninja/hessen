@@ -4,8 +4,8 @@ latitude: 51.31614
 longitude: 9.47791
 postcode: "34119"
 city: Kassel
-street: "Annastraße"
-housenumber: 5
+street: Annastraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00, Fr 08:00-15:30, PH off"
-website: "https://www.pfeifferling.eu"
+opening_hours: Mo-Th 08:00-17:00, Fr 08:00-15:30, PH off
+website: https://www.pfeifferling.eu

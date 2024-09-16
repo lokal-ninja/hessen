@@ -4,8 +4,8 @@ latitude: 50.09505
 longitude: 8.68189
 postcode: "60598"
 city: Frankfurt am Main
-street: "Ziegelhüttenweg"
-housenumber: 2
-phone: "+49 69 66129930"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-15:00"
-website: "http://www.buchplatz.com"
+street: Ziegelhüttenweg
+housenumber: "2"
+phone: +49 69 66129930
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-15:00
+website: http://www.buchplatz.com

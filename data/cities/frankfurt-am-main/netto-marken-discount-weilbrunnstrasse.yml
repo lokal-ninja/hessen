@@ -1,11 +1,11 @@
 id: 30476094
-type: way
+type: node
 latitude: 50.15432
 longitude: 8.69236
 postcode: "60435"
 city: Frankfurt am Main
-street: "Weilbrunnstraße"
-housenumber: 6
+street: Weilbrunnstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 51.3226
 longitude: 9.45544
 postcode: "34130"
 city: Kassel
-street: "Hohnemannstraße"
-housenumber: 2
-phone: "+49 561 76620077"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-16:30; Su 07:00-17:00"
-website: "https://www.schwaelmer-brotladen.de/"
+street: Hohnemannstraße
+housenumber: "2"
+phone: +49 561 76620077
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:30-16:30; Su 07:00-17:00
+website: https://www.schwaelmer-brotladen.de/

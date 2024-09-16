@@ -1,11 +1,11 @@
 id: 448204815
-type: way
+type: node
 latitude: 50.6254
 longitude: 9.45229
 postcode: "36367"
 city: Wartenberg
-street: "Stangenweg"
-housenumber: 21
+street: Stangenweg
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

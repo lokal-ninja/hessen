@@ -4,8 +4,8 @@ latitude: 50.76884
 longitude: 8.58104
 postcode: "35075"
 city: Gladenbach
-street: "Marktplatz"
-housenumber: 1
-phone: "+49 64 62 91 54 52"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-13:00; Su 07:00-18:00"
-website: "https://www.schaefers-backstuben.de/"
+street: Marktplatz
+housenumber: "1"
+phone: +49 64 62 91 54 52
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:30-13:00; Su 07:00-18:00
+website: https://www.schaefers-backstuben.de/

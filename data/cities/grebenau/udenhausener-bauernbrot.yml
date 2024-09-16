@@ -1,11 +1,11 @@
 id: 164105238
-type: way
+type: node
 latitude: 50.71283
 longitude: 9.44862
 postcode: "36323"
 city: Grebenau
-street: "Bürgermeister-Lorentz-Straße"
-housenumber: 12
+street: Bürgermeister-Lorentz-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

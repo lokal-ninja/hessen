@@ -4,8 +4,8 @@ latitude: 50.80726
 longitude: 8.76896
 postcode: "35037"
 city: Marburg
-street: "Universitätsstraße"
-housenumber: 15
+street: Universitätsstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; PH off"
-website: "https://www.lidl.de/f/marburg/universitaetsstr-15.html"
+opening_hours: Mo-Sa 09:00-20:00; PH off
+website: https://www.lidl.de/f/marburg/universitaetsstr-15.html

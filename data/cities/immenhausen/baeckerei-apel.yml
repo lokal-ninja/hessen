@@ -4,8 +4,8 @@ latitude: 51.42864
 longitude: 9.46901
 postcode: "34376"
 city: Immenhausen
-street: "Grebensteiner Straße"
-housenumber: 11
-phone: "+49 5673 6300"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-18:00"
-website: "http://www.baeckerei-apel.de/"
+street: Grebensteiner Straße
+housenumber: "11"
+phone: +49 5673 6300
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00
+website: http://www.baeckerei-apel.de/

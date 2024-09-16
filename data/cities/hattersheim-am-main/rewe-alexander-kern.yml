@@ -1,11 +1,11 @@
 id: 33263763
-type: way
+type: node
 latitude: 50.04991
 longitude: 8.49372
 postcode: "65795"
 city: Hattersheim am Main
-street: "Rheinstraße"
-housenumber: 21
-phone: "+49 6190 889627"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Rheinstraße
+housenumber: "21"
+phone: +49 6190 889627
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

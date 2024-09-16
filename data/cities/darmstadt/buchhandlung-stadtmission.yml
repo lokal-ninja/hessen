@@ -4,8 +4,8 @@ latitude: 49.87385
 longitude: 8.66147
 postcode: "64283"
 city: Darmstadt
-street: "Merckstraße"
-housenumber: 24
-phone: "+49 6151 23361"
-opening_hours: "Mo-Fr 10:00-18:30, Sa 10:00-15:00, Su,PH off"
-website: "https://stamibuch.de/"
+street: Merckstraße
+housenumber: "24"
+phone: +49 6151 23361
+opening_hours: Mo-Fr 10:00-18:30, Sa 10:00-15:00, Su,PH off
+website: https://stamibuch.de/

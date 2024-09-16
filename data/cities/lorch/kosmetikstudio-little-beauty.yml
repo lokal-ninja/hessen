@@ -1,11 +1,11 @@
 id: 113827751
-type: way
+type: node
 latitude: 50.04452
 longitude: 7.80359
 postcode: "65391"
 city: Lorch
-street: "Langgasse"
-housenumber: 2
+street: Langgasse
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

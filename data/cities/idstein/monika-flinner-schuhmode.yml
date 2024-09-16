@@ -4,8 +4,8 @@ latitude: 50.22079
 longitude: 8.26747
 postcode: "65510"
 city: Idstein
-street: "Wiesbadener Straße"
-housenumber: 3
-phone: "+49 6126 990502"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "http://www.flinner-schuhe.de"
+street: Wiesbadener Straße
+housenumber: "3"
+phone: +49 6126 990502
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: http://www.flinner-schuhe.de

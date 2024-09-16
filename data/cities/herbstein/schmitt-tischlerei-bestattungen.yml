@@ -1,11 +1,11 @@
 id: 106961827
-type: way
+type: node
 latitude: 50.56041
 longitude: 9.34726
 postcode: "36358"
 city: Herbstein
-street: "Hessenstraße"
-housenumber: 62
+street: Hessenstraße
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

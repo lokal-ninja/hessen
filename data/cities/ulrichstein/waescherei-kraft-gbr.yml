@@ -1,11 +1,11 @@
 id: 108834233
-type: way
+type: node
 latitude: 50.57847
 longitude: 9.19977
 postcode: "35327"
 city: Ulrichstein
-street: "Lacheweg"
-housenumber: 2
+street: Lacheweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

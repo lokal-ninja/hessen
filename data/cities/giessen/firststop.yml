@@ -1,11 +1,11 @@
 id: 152991661
-type: way
+type: node
 latitude: 50.5802
 longitude: 8.70149
 postcode: "35394"
 city: Gießen
-street: "Licher Straße"
-housenumber: 125
+street: Licher Straße
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

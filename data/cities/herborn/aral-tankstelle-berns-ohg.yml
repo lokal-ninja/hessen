@@ -1,11 +1,11 @@
 id: 442896109
-type: way
+type: node
 latitude: 50.70031
 longitude: 8.33789
 postcode: "35745"
 city: Herborn
-street: "Marburger Straße"
+street: Marburger Straße
 housenumber: 10a
-phone: "+49 2772 61240"
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:30-20:00; Su 08:30-20:00"
-website: "https://tankstelle.aral.de/herborn/marburger-str-15/17038900"
+phone: +49 2772 61240
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:30-20:00; Su 08:30-20:00
+website: https://tankstelle.aral.de/herborn/marburger-str-15/17038900

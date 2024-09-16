@@ -1,11 +1,11 @@
 id: 557315561
-type: way
+type: node
 latitude: 50.81703
 longitude: 8.86145
 postcode: "35274"
 city: Kirchhain
-street: "Marburger Ring"
-housenumber: 39
+street: Marburger Ring
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.07389
 longitude: 8.23168
 postcode: "65185"
 city: Wiesbaden
-street: "Kaiser-Friedrich-Ring"
-housenumber: 39
-phone: "+49 611 16868000"
-opening_hours: "Tu-Sa 09:30-18:30"
-website: "https://lilian-hair-salon.de"
+street: Kaiser-Friedrich-Ring
+housenumber: "39"
+phone: +49 611 16868000
+opening_hours: Tu-Sa 09:30-18:30
+website: https://lilian-hair-salon.de

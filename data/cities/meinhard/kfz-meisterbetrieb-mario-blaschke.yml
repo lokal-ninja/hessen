@@ -1,11 +1,11 @@
 id: 368984845
-type: way
+type: node
 latitude: 51.19573
 longitude: 10.10144
 postcode: "37276"
 city: Meinhard
-street: "Kellaer Straße"
+street: Kellaer Straße
 housenumber: 2a
-phone: "+49 5651 8799948"
-opening_hours: "Mo-Fr 08:00-17:30 || nach Vereinbarung"
+phone: +49 5651 8799948
+opening_hours: Mo-Fr 08:00-17:30 || "nach Vereinbarung"
 website: ""

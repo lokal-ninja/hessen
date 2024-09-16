@@ -1,11 +1,11 @@
 id: 941914510
-type: way
+type: node
 latitude: 51.31962
 longitude: 9.88295
 postcode: "37215"
 city: Witzenhausen
-street: "Eschweger Straße"
-housenumber: 36
+street: Eschweger Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

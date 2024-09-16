@@ -1,11 +1,11 @@
 id: 120187238
-type: way
+type: node
 latitude: 49.63677
 longitude: 8.61841
 postcode: "64646"
 city: Heppenheim
-street: "Tiergartenstraße"
-housenumber: 5
+street: Tiergartenstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

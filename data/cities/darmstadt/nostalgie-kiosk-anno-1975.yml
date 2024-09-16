@@ -1,11 +1,11 @@
 id: 363276041
-type: way
+type: node
 latitude: 49.85818
 longitude: 8.64294
 postcode: "64295"
 city: Darmstadt
-street: "Moltkestraße"
+street: Moltkestraße
 housenumber: 1A
 phone: ""
-opening_hours: "Mo 15:00-18:00; Th 15:00-18:00; Sa 15:00-18:00; PH off"
-website: "https://www.kiosk1975.de/"
+opening_hours: Mo 15:00-18:00; Th 15:00-18:00; Sa 15:00-18:00; PH off
+website: https://www.kiosk1975.de/

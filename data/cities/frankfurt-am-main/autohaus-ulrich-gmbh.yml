@@ -4,8 +4,8 @@ latitude: 50.10385
 longitude: 8.61777
 postcode: "60326"
 city: Frankfurt am Main
-street: "Schmidtstraße"
-housenumber: 47
-phone: "+49 69 3003480"
+street: Schmidtstraße
+housenumber: "47"
+phone: +49 69 3003480
 opening_hours: ""
-website: "https://frankfurt.ferraridealers.com/de_de/"
+website: https://frankfurt.ferraridealers.com/de_de/

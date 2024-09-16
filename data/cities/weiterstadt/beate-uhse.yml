@@ -1,11 +1,11 @@
 id: 30919879
-type: way
+type: node
 latitude: 49.89645
 longitude: 8.60792
 postcode: "64331"
 city: Weiterstadt
-street: "Friedrich-Schaefer-Straße"
-housenumber: 10
-phone: "+49 6151 5003903"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.beate-uhse.com/"
+street: Friedrich-Schaefer-Straße
+housenumber: "10"
+phone: +49 6151 5003903
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.beate-uhse.com/

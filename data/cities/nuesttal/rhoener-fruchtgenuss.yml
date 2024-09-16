@@ -4,8 +4,8 @@ latitude: 50.68166
 longitude: 9.8519
 postcode: "36167"
 city: Nüsttal
-street: "Schloßbergstraße"
-housenumber: 4
+street: Schloßbergstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-14:00"
-website: "https://www.rhoener-fruchtgenuss.de"
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-14:00
+website: https://www.rhoener-fruchtgenuss.de

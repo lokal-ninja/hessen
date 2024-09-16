@@ -4,8 +4,8 @@ latitude: 50.08599
 longitude: 8.64903
 postcode: "60528"
 city: Frankfurt am Main
-street: "Frauenhofstraße"
-housenumber: 38
+street: Frauenhofstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:30; So 10:00-14:00"
+opening_hours: Mo-Sa 09:00-18:30; So 10:00-14:00
 website: ""

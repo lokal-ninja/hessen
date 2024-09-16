@@ -4,8 +4,8 @@ latitude: 50.56201
 longitude: 8.5029
 postcode: "35576"
 city: Wetzlar
-street: "Bahnhofstraße"
-housenumber: 12
-phone: "+49 174 167 7473"
-opening_hours: "Mo-Sa 11:00-18:00"
+street: Bahnhofstraße
+housenumber: "12"
+phone: +49 174 167 7473
+opening_hours: Mo-Sa 11:00-18:00
 website: ""

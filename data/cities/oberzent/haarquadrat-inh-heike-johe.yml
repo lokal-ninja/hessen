@@ -1,11 +1,11 @@
 id: 178802260
-type: way
+type: node
 latitude: 49.5621
 longitude: 8.97187
 postcode: "64760"
 city: Oberzent
-street: "Lindenallee"
-housenumber: 19
-phone: "+49 6068 47197"
+street: Lindenallee
+housenumber: "19"
+phone: +49 6068 47197
 opening_hours: ""
 website: ""

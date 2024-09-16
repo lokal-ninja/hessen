@@ -1,11 +1,11 @@
 id: 145565265
-type: way
+type: node
 latitude: 51.29974
 longitude: 9.53517
 postcode: "34123"
 city: Kassel
-street: "Leipziger Straße"
-housenumber: 208
-phone: "+49 561 16965"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
-website: "https://www.neddermann.com/"
+street: Leipziger Straße
+housenumber: "208"
+phone: +49 561 16965
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
+website: https://www.neddermann.com/

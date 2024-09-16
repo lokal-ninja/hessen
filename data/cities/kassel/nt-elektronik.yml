@@ -4,8 +4,8 @@ latitude: 51.31953
 longitude: 9.49601
 postcode: "34117"
 city: Kassel
-street: "Hoffmann-von-Fallersleben-Straße"
-housenumber: 3
-phone: "+49 561 2020858"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "http://www.nt-elektronik.de"
+street: Hoffmann-von-Fallersleben-Straße
+housenumber: "3"
+phone: +49 561 2020858
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: http://www.nt-elektronik.de

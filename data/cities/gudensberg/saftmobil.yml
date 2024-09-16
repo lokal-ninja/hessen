@@ -1,11 +1,12 @@
 id: 204097223
-type: way
+type: node
 latitude: 51.17704
 longitude: 9.36295
 postcode: "34281"
 city: Gudensberg
-street: "Schwimmbadweg"
-housenumber: 4
+street: Schwimmbadweg
+housenumber: "4"
 phone: ""
-opening_hours: "Nov-Aug Fr 13:00-18:00; Nov-Aug Sa 09:00-13:00; Sep-Oct Mo-Sa 09:00-18:00; Sep-Oct We off"
-website: "http://www.saftmobil.de"
+opening_hours: Nov-Aug Fr 13:00-18:00; Nov-Aug Sa 09:00-13:00; Sep-Oct Mo-Sa 09:00-18:00;
+    Sep-Oct We off
+website: http://www.saftmobil.de

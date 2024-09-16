@@ -4,8 +4,8 @@ latitude: 50.43515
 longitude: 8.68224
 postcode: "35510"
 city: Butzbach
-street: "Philipp-Reis-Straße"
-housenumber: 1
-phone: "+49 6033 9285981"
-opening_hours: "Mo-Fr 06:00-18:00; Su 07:00-12:00; Sa 06:00-16:00"
-website: "https://hinnerbaecker.com/"
+street: Philipp-Reis-Straße
+housenumber: "1"
+phone: +49 6033 9285981
+opening_hours: Mo-Fr 06:00-18:00; Su 07:00-12:00; Sa 06:00-16:00
+website: https://hinnerbaecker.com/

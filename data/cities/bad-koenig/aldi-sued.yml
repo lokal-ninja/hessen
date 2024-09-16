@@ -1,11 +1,11 @@
 id: 230001692
-type: way
+type: node
 latitude: 49.74702
 longitude: 9.00221
 postcode: "64732"
 city: Bad König
-street: "Frankfurter Straße"
-housenumber: 72
+street: Frankfurter Straße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

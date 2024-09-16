@@ -1,11 +1,11 @@
 id: 206427536
-type: way
+type: node
 latitude: 49.61193
 longitude: 8.44754
 postcode: "68623"
 city: Lampertheim
-street: "Chemiestraße"
-housenumber: 12
+street: Chemiestraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
-website: "https://www.edinger-maerkte.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-16:00
+website: https://www.edinger-maerkte.de/

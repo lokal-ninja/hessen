@@ -1,11 +1,11 @@
 id: 446688148
-type: way
+type: node
 latitude: 51.29341
 longitude: 8.61411
 postcode: "34508"
 city: Willingen (Upland)
-street: "Waldecker Straße"
-housenumber: 20
-phone: "+49 5693 98850"
-opening_hours: "Mo,We 09:00-16:30; Tu,Th,Fr,Sa,Su,PH off"
-website: "https://www.autohaus-schueppler.de/"
+street: Waldecker Straße
+housenumber: "20"
+phone: +49 5693 98850
+opening_hours: Mo,We 09:00-16:30; Tu,Th,Fr,Sa,Su,PH off
+website: https://www.autohaus-schueppler.de/

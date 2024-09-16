@@ -1,11 +1,11 @@
 id: 137327411
-type: way
+type: node
 latitude: 50.28566
 longitude: 8.27778
 postcode: "65520"
 city: Bad Camberg
-street: "Frankfurter Straße"
+street: Frankfurter Straße
 housenumber: 126a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.norma-online.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.norma-online.de/

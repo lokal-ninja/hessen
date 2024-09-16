@@ -1,11 +1,11 @@
 id: 59485631
-type: way
+type: node
 latitude: 50.51935
 longitude: 8.10896
 postcode: "65620"
 city: Waldbrunn (Westerwald)
-street: "In der Struth"
-housenumber: 4
+street: In der Struth
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.rewe-waldbrunn.de"
+website: http://www.rewe-waldbrunn.de

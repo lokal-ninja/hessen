@@ -1,11 +1,11 @@
 id: 542247912
-type: way
+type: node
 latitude: 49.65766
 longitude: 8.4171
 postcode: "68623"
 city: Lampertheim
-street: "Friedensstraße"
-housenumber: 19
+street: Friedensstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

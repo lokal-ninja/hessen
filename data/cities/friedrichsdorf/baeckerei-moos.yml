@@ -4,8 +4,8 @@ latitude: 50.25596
 longitude: 8.64049
 postcode: "61381"
 city: Friedrichsdorf
-street: "Hugenottenstraße"
-housenumber: 71
-phone: "+49 6172 78243"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:30; Su 08:00-17:00"
-website: "http://www.ohne-moos-nixlos.de/"
+street: Hugenottenstraße
+housenumber: "71"
+phone: +49 6172 78243
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-13:30; Su 08:00-17:00
+website: http://www.ohne-moos-nixlos.de/

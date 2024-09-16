@@ -4,8 +4,8 @@ latitude: 50.09977
 longitude: 8.70324
 postcode: "60599"
 city: Frankfurt am Main
-street: "Offenbacher Landstraße"
-housenumber: 126
-phone: "+49 69 617506"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-14:00; Su 07:00-12:00"
-website: "https://www.cafekling.de"
+street: Offenbacher Landstraße
+housenumber: "126"
+phone: +49 69 617506
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-14:00; Su 07:00-12:00
+website: https://www.cafekling.de

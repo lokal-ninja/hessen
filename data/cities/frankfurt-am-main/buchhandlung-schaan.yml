@@ -1,11 +1,11 @@
 id: 133396137
-type: way
+type: node
 latitude: 50.20189
 longitude: 8.67158
 postcode: "60437"
 city: Frankfurt am Main
-street: "Alt-Niedereschbach"
-housenumber: 62
+street: Alt-Niedereschbach
+housenumber: "62"
 phone: ""
-opening_hours: "We 09:00-12:30; Sa 09:00-12:30; Mo,Tu,Th,Fr 09:00-12:30,15:00-18:00"
+opening_hours: We 09:00-12:30; Sa 09:00-12:30; Mo,Tu,Th,Fr 09:00-12:30,15:00-18:00
 website: ""

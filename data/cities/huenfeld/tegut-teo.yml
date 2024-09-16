@@ -1,11 +1,11 @@
 id: 970737374
-type: way
+type: node
 latitude: 50.65965
 longitude: 9.6738
 postcode: "36088"
 city: Hünfeld
-street: "Königsküppel"
-housenumber: 15
+street: Königsküppel
+housenumber: "15"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.tegut.com/teo.html"
+opening_hours: 24/7
+website: https://www.tegut.com/teo.html

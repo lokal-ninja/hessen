@@ -1,11 +1,11 @@
 id: 222235039
-type: way
+type: node
 latitude: 50.4443
 longitude: 8.0418
 postcode: "65589"
 city: Hadamar
-street: "Neue Chaussee"
-housenumber: 17
-phone: "+49 (0) 6433 2524"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "www.kfz-hs.de"
+street: Neue Chaussee
+housenumber: "17"
+phone: +49 (0) 6433 2524
+opening_hours: Mo-Fr 09:00-19:00
+website: www.kfz-hs.de

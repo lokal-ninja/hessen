@@ -4,8 +4,8 @@ latitude: 51.11869
 longitude: 9.36834
 postcode: "34590"
 city: Wabern
-street: "Wilhelmshöher Straße"
-housenumber: 17
-phone: "+49 5683 1566"
-opening_hours: "Mo-Th 08:00-12:00, 14:00-17:00; Fr 08:00-12:00"
-website: "http://www.schaefer-wabern.de/"
+street: Wilhelmshöher Straße
+housenumber: "17"
+phone: +49 5683 1566
+opening_hours: Mo-Th 08:00-12:00, 14:00-17:00; Fr 08:00-12:00
+website: http://www.schaefer-wabern.de/

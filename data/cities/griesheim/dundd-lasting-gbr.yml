@@ -4,8 +4,8 @@ latitude: 49.86983
 longitude: 8.55922
 postcode: "64347"
 city: Griesheim
-street: "Ottostraße"
-housenumber: 10
-phone: "+49 1573 1368 000"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://dd-lasting.de/"
+street: Ottostraße
+housenumber: "10"
+phone: +49 1573 1368 000
+opening_hours: Mo-Fr 08:00-18:00
+website: https://dd-lasting.de/

@@ -1,11 +1,11 @@
 id: 211377013
-type: way
+type: node
 latitude: 50.11667
 longitude: 8.96249
 postcode: "63457"
 city: Hanau
-street: "Grashüpferweg"
-housenumber: 5
+street: Grashüpferweg
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

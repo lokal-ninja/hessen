@@ -4,8 +4,8 @@ latitude: 50.10885
 longitude: 8.63328
 postcode: "60486"
 city: Frankfurt am Main
-street: "Pariser Straße"
-housenumber: 4
+street: Pariser Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://www.beyondstyling.org/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://www.beyondstyling.org/

@@ -4,8 +4,9 @@ latitude: 51.13459
 longitude: 9.27686
 postcode: "34560"
 city: Fritzlar
-street: "Am Hospital"
-housenumber: 11
-phone: "+49 5622 9308510"
-opening_hours: "Mo,Tu 08:30-18:00; We 08:30-15:00; Th 08:30-19:00; Fr 08:30-14:00; Sa,Su off"
-website: "https://www.sanitaetshaus-edelmann-fritzlar.de/"
+street: Am Hospital
+housenumber: "11"
+phone: +49 5622 9308510
+opening_hours: Mo,Tu 08:30-18:00; We 08:30-15:00; Th 08:30-19:00; Fr 08:30-14:00;
+    Sa,Su off
+website: https://www.sanitaetshaus-edelmann-fritzlar.de/

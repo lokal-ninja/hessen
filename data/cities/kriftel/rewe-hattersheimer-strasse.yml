@@ -1,11 +1,11 @@
 id: 196338214
-type: way
+type: node
 latitude: 50.0782
 longitude: 8.47019
 postcode: "65830"
 city: Kriftel
-street: "Hattersheimer Straße"
+street: Hattersheimer Straße
 housenumber: 3-5
-phone: "+49 6192 9799744"
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
-website: "https://www.rewe.de/marktseite/kriftel/240280/rewe-markt-hattersheimer-strasse-3-5/"
+phone: +49 6192 9799744
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-23:30
+website: https://www.rewe.de/marktseite/kriftel/240280/rewe-markt-hattersheimer-strasse-3-5/

@@ -4,8 +4,8 @@ latitude: 51.13252
 longitude: 9.54221
 postcode: "34212"
 city: Melsungen
-street: "Kasseler Straße"
-housenumber: 28
-phone: "+49 5661 2617"
-opening_hours: "Tu-Fr 10:00-12:30, 14:30-18:00; Sa 10:00-12:30"
-website: "https://www.koehler-melsungen.de/"
+street: Kasseler Straße
+housenumber: "28"
+phone: +49 5661 2617
+opening_hours: Tu-Fr 10:00-12:30, 14:30-18:00; Sa 10:00-12:30
+website: https://www.koehler-melsungen.de/

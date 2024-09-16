@@ -4,8 +4,8 @@ latitude: 49.6806
 longitude: 8.61465
 postcode: "64625"
 city: Bensheim
-street: "Schwanheimer Straße"
-housenumber: 38
+street: Schwanheimer Straße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,14:00-18:00; We 10:00-13:00"
-website: "https://www.am-computershop.de/"
+opening_hours: Mo-Fr 10:00-12:30,14:00-18:00; We 10:00-13:00
+website: https://www.am-computershop.de/

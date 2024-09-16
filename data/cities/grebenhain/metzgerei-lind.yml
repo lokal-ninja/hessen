@@ -1,11 +1,11 @@
 id: 116762399
-type: way
+type: node
 latitude: 50.48682
 longitude: 9.35013
 postcode: "36355"
 city: Grebenhain
-street: "Pfingstweg"
-housenumber: 2
+street: Pfingstweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

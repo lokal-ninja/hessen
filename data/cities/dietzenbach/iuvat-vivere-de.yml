@@ -4,8 +4,8 @@ latitude: 49.99412
 longitude: 8.77185
 postcode: "63128"
 city: Dietzenbach
-street: "Limburger Straße"
-housenumber: 47
+street: Limburger Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Nach Absprache"
-website: "https://www.iuvat-vivere.de/"
+opening_hours: '"Nach Absprache"'
+website: https://www.iuvat-vivere.de/

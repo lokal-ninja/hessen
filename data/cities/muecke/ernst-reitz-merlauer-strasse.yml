@@ -1,11 +1,11 @@
 id: 228146363
-type: way
+type: node
 latitude: 50.64543
 longitude: 9.03295
 postcode: "35325"
 city: Mücke
-street: "Merlauer Straße"
-housenumber: 2
+street: Merlauer Straße
+housenumber: "2"
 phone: "+4964005201"
 opening_hours: ""
-website: "https://www.ernst-reitz.de/"
+website: https://www.ernst-reitz.de/

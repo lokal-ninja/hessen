@@ -1,11 +1,11 @@
 id: 96763532
-type: way
+type: node
 latitude: 50.6784
 longitude: 8.86496
 postcode: "35466"
 city: Rabenau
-street: "Carl-Engel-Straße"
-housenumber: 14
+street: Carl-Engel-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

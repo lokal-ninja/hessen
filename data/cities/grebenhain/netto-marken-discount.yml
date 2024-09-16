@@ -1,11 +1,11 @@
 id: 165080428
-type: way
+type: node
 latitude: 50.49584
 longitude: 9.34966
 postcode: "36355"
 city: Grebenhain
-street: "Vaitshainer Straße"
-housenumber: 12
+street: Vaitshainer Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

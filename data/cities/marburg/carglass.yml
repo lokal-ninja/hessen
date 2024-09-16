@@ -1,11 +1,11 @@
 id: 276214202
-type: way
+type: node
 latitude: 50.84166
 longitude: 8.76986
 postcode: "35041"
 city: Marburg
-street: "Am Bahndamm"
+street: Am Bahndamm
 housenumber: 3a
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-13:00; PH off"
-website: "https://standorte.carglass.de/standorte/marburg/am-bahndamm-3a.html"
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-13:00; PH off
+website: https://standorte.carglass.de/standorte/marburg/am-bahndamm-3a.html

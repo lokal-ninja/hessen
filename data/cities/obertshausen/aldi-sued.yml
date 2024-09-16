@@ -1,11 +1,11 @@
 id: 104961809
-type: way
+type: node
 latitude: 50.08276
 longitude: 8.87192
 postcode: "63179"
 city: Obertshausen
-street: "Feldstraße"
-housenumber: 33
+street: Feldstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

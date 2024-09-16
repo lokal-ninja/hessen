@@ -1,11 +1,11 @@
 id: 217314379
-type: way
+type: node
 latitude: 50.09436
 longitude: 8.93184
 postcode: "63456"
 city: Hanau
-street: "Seligenstädter Straße"
-housenumber: 85
-phone: "+49 6181 945770"
+street: Seligenstädter Straße
+housenumber: "85"
+phone: +49 6181 945770
 opening_hours: ""
 website: ""

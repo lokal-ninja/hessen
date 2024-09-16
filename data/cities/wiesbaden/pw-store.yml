@@ -4,8 +4,8 @@ latitude: 50.08031
 longitude: 8.23692
 postcode: "65185"
 city: Wiesbaden
-street: "Friedrichstraße"
-housenumber: 55
-phone: "+49 611 44769298"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"
-website: "https://www.pw-store.de/filialen.html"
+street: Friedrichstraße
+housenumber: "55"
+phone: +49 611 44769298
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
+website: https://www.pw-store.de/filialen.html

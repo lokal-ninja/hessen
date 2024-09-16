@@ -1,11 +1,11 @@
 id: 107338375
-type: way
+type: node
 latitude: 50.74198
 longitude: 8.21452
 postcode: "35708"
 city: Haiger
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 31-37
-phone: "+49 (0) 2773/91838-0"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 9:30-18:00"
-website: "https://www.opti-wohnwelt.de/moebelhaus/haiger.html"
+phone: +49 (0) 2773/91838-0
+opening_hours: Mo-Fr 10:00-19:00; Sa 9:30-18:00
+website: https://www.opti-wohnwelt.de/moebelhaus/haiger.html

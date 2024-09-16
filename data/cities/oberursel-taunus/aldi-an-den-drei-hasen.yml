@@ -1,11 +1,11 @@
 id: 25408570
-type: way
+type: node
 latitude: 50.20344
 longitude: 8.59613
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "An den Drei Hasen"
-housenumber: 7
+street: An den Drei Hasen
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00;Su,PH off"
-website: "https://filialen.aldi-sued.de/hessen/oberursel/an-den-drei-hasen-7"
+opening_hours: Mo-Sa 08:00-21:00;Su,PH off
+website: https://filialen.aldi-sued.de/hessen/oberursel/an-den-drei-hasen-7

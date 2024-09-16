@@ -4,8 +4,8 @@ latitude: 51.49285
 longitude: 9.38046
 postcode: "34369"
 city: Hofgeismar
-street: "Steinweg"
-housenumber: 18
-phone: "+49-5671-4796"
-opening_hours: "Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00"
-website: "https://www.der-weinkeller.com/"
+street: Steinweg
+housenumber: "18"
+phone: +49-5671-4796
+opening_hours: Mo-Fr 09:00-13:00,14:30-18:00; Sa 09:00-13:00
+website: https://www.der-weinkeller.com/

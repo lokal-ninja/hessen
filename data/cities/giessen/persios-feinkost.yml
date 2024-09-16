@@ -4,8 +4,8 @@ latitude: 50.58012
 longitude: 8.64585
 postcode: "35398"
 city: Gießen
-street: "Gottlieb-Daimler-Straße"
-housenumber: 27
-phone: "+49 641 49903343"
-opening_hours: "Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 08:00-21:00; PH off"
-website: "https://www.persios.de"
+street: Gottlieb-Daimler-Straße
+housenumber: "27"
+phone: +49 641 49903343
+opening_hours: Mo-Th 07:00-20:00; Fr 07:00-21:00; Sa 08:00-21:00; PH off
+website: https://www.persios.de

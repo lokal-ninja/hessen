@@ -1,11 +1,11 @@
 id: 240047191
-type: way
+type: node
 latitude: 49.77328
 longitude: 8.63749
 postcode: "64342"
 city: Seeheim-Jugenheim
-street: "Friedrich-Ebert-Straße"
-housenumber: 64
+street: Friedrich-Ebert-Straße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

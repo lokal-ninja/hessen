@@ -1,11 +1,11 @@
 id: 110449305
-type: way
+type: node
 latitude: 51.49488
 longitude: 9.38405
 postcode: "34369"
 city: Hofgeismar
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

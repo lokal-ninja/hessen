@@ -1,11 +1,11 @@
 id: 150682670
-type: way
+type: node
 latitude: 50.55341
 longitude: 9.67216
 postcode: "36037"
 city: Fulda
-street: "Domdechanei"
-housenumber: 2
+street: Domdechanei
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

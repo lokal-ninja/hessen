@@ -1,11 +1,11 @@
 id: 230045234
-type: way
+type: node
 latitude: 49.63934
 longitude: 8.64089
 postcode: "64646"
 city: Heppenheim
-street: "Ludwigstraße"
+street: Ludwigstraße
 housenumber: 28A
 phone: ""
-opening_hours: "Th,Fr 08:30-12:00,13:30-17:30"
+opening_hours: Th,Fr 08:30-12:00,13:30-17:30
 website: ""

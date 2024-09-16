@@ -4,8 +4,8 @@ latitude: 49.87588
 longitude: 8.65996
 postcode: "64289"
 city: Darmstadt
-street: "Magdalenenstraße"
-housenumber: 3
-phone: "+49 651 9940190"
-opening_hours: "Sa 10:00-16:00; Mo-Fr 10:00-14:00,15:00-19:00"
-website: "https://kleinefluchtenoutdoor.de/"
+street: Magdalenenstraße
+housenumber: "3"
+phone: +49 651 9940190
+opening_hours: Sa 10:00-16:00; Mo-Fr 10:00-14:00,15:00-19:00
+website: https://kleinefluchtenoutdoor.de/

@@ -4,8 +4,8 @@ latitude: 50.12252
 longitude: 8.66744
 postcode: "60323"
 city: Frankfurt am Main
-street: "Grüneburgweg"
-housenumber: 92
+street: Grüneburgweg
+housenumber: "92"
 phone: ""
 opening_hours: ""
-website: "http://www.westlage-frankfurt.de"
+website: http://www.westlage-frankfurt.de

@@ -1,11 +1,11 @@
 id: 352220353
-type: way
+type: node
 latitude: 51.36251
 longitude: 9.38733
 postcode: "34292"
 city: Ahnatal
-street: "Dörnbergstraße"
-housenumber: 45
-phone: "+49 5609 1482"
+street: Dörnbergstraße
+housenumber: "45"
+phone: +49 5609 1482
 opening_hours: ""
-website: "https://www.jochenschlaak.de/"
+website: https://www.jochenschlaak.de/

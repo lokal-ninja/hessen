@@ -4,8 +4,8 @@ latitude: 50.50509
 longitude: 8.935
 postcode: "35410"
 city: Hungen
-street: "Höhenstraße"
-housenumber: 2
-phone: "+49 6402 5080168"
-opening_hours: "Mo-Fr 07:00-18:30;Sa 07:00-14:00"
+street: Höhenstraße
+housenumber: "2"
+phone: +49 6402 5080168
+opening_hours: Mo-Fr 07:00-18:30;Sa 07:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 427182097
-type: way
+type: node
 latitude: 50.01096
 longitude: 8.43805
 postcode: "65479"
 city: Raunheim
-street: "Anton-Flettner-Straße"
-housenumber: 24
+street: Anton-Flettner-Straße
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

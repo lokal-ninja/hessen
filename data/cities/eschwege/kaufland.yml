@@ -1,11 +1,11 @@
 id: 164043666
-type: way
+type: node
 latitude: 51.1954
 longitude: 10.03371
 postcode: "37269"
 city: Eschwege
-street: "Thüringer Straße"
-housenumber: 28
+street: Thüringer Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://filiale.kaufland.de/service/filiale/eschwege-4800.html"
+website: https://filiale.kaufland.de/service/filiale/eschwege-4800.html

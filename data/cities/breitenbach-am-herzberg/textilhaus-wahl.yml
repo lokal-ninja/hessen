@@ -1,11 +1,11 @@
 id: 266231021
-type: way
+type: node
 latitude: 50.77423
 longitude: 9.52139
 postcode: "36287"
 city: Breitenbach am Herzberg
-street: "Hauptstraße"
-housenumber: 58
+street: Hauptstraße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

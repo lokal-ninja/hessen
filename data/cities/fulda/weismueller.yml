@@ -1,11 +1,11 @@
 id: 213577546
-type: way
+type: node
 latitude: 50.53566
 longitude: 9.64306
 postcode: "36041"
 city: Fulda
-street: "Johannes-Nehring-Straße"
-housenumber: 3
+street: Johannes-Nehring-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

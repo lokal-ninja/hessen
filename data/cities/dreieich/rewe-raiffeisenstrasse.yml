@@ -1,11 +1,11 @@
 id: 194281420
-type: way
+type: node
 latitude: 50.00144
 longitude: 8.73716
 postcode: "63303"
 city: Dreieich
-street: "Raiffeisenstraße"
-housenumber: 6
-phone: "+49 6103 89940"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.rewe.de/"
+street: Raiffeisenstraße
+housenumber: "6"
+phone: +49 6103 89940
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.rewe.de/

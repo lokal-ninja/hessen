@@ -1,11 +1,11 @@
 id: 101726865
-type: way
+type: node
 latitude: 50.63907
 longitude: 9.399
 postcode: "36341"
 city: Lauterbach
-street: "Bahnhofstraße"
-housenumber: 42
-phone: "+49 6641 2654"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00; Su,PH off"
-website: "https://lesezeichen-lauterbach.buchkatalog.de/"
+street: Bahnhofstraße
+housenumber: "42"
+phone: +49 6641 2654
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-13:00; Su,PH off
+website: https://lesezeichen-lauterbach.buchkatalog.de/

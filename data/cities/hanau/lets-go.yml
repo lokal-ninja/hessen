@@ -1,11 +1,11 @@
 id: 215857256
-type: way
+type: node
 latitude: 50.12664
 longitude: 8.93325
 postcode: "63450"
 city: Hanau
-street: "Freigerichtstraße"
-housenumber: 39
+street: Freigerichtstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

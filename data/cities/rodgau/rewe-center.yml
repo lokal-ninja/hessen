@@ -1,11 +1,11 @@
 id: 45101585
-type: way
+type: node
 latitude: 50.00255
 longitude: 8.88547
 postcode: "63110"
 city: Rodgau
-street: "Feldstraße"
-housenumber: 46
-phone: "+49 6106 8221-0"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite/rodgau-dudenhofen/240296/rewe-center-feldstrasse-46/"
+street: Feldstraße
+housenumber: "46"
+phone: +49 6106 8221-0
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/marktseite/rodgau-dudenhofen/240296/rewe-center-feldstrasse-46/

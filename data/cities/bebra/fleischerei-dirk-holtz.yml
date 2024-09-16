@@ -4,8 +4,8 @@ latitude: 50.97175
 longitude: 9.79321
 postcode: "36179"
 city: Bebra
-street: "Mühlenstraße"
-housenumber: 11
-phone: "+49 6622 44235"
-opening_hours: "Tu-Fr 07:30-13:00,14:30-18:00; Mo,Sa 07:30-13:00"
-website: "https://www.fleischerei-holtz.de/"
+street: Mühlenstraße
+housenumber: "11"
+phone: +49 6622 44235
+opening_hours: Tu-Fr 07:30-13:00,14:30-18:00; Mo,Sa 07:30-13:00
+website: https://www.fleischerei-holtz.de/

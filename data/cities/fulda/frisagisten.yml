@@ -1,11 +1,11 @@
 id: 134016594
-type: way
+type: node
 latitude: 50.58033
 longitude: 9.6445
 postcode: "36041"
 city: Fulda
-street: "Brückenstraße"
-housenumber: 2
-phone: "+49 661 29195890"
+street: Brückenstraße
+housenumber: "2"
+phone: +49 661 29195890
 opening_hours: ""
-website: "https://www.frisagisten.de/"
+website: https://www.frisagisten.de/

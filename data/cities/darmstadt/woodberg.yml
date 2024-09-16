@@ -4,8 +4,8 @@ latitude: 49.87049
 longitude: 8.65593
 postcode: "64283"
 city: Darmstadt
-street: "Schulstraße"
-housenumber: 11
-phone: "+49 6151 6291766"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00"
-website: "https://www.woodberg.de/"
+street: Schulstraße
+housenumber: "11"
+phone: +49 6151 6291766
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00
+website: https://www.woodberg.de/

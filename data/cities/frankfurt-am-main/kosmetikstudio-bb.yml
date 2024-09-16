@@ -4,8 +4,8 @@ latitude: 50.12832
 longitude: 8.70959
 postcode: "60385"
 city: Frankfurt am Main
-street: "Rendeler Straße"
-housenumber: 49
-phone: "+49 69 17509279;+49 172 2502786"
-opening_hours: "Mo-We nach Vereinbarung; Th-Sa 11:00-18:00; Su off"
+street: Rendeler Straße
+housenumber: "49"
+phone: +49 69 17509279;+49 172 2502786
+opening_hours: Mo-We "nach Vereinbarung"; Th-Sa 11:00-18:00; Su off
 website: ""

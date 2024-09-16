@@ -1,11 +1,11 @@
 id: 314954613
-type: way
+type: node
 latitude: 50.32239
 longitude: 8.74236
 postcode: "61169"
 city: Friedberg (Hessen)
-street: "Straßheimer Straße"
-housenumber: 20
+street: Straßheimer Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

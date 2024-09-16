@@ -1,11 +1,11 @@
 id: 1194230221
-type: way
+type: node
 latitude: 50.32978
 longitude: 8.93482
 postcode: "61197"
 city: Florstadt
-street: "In der Grobach"
-housenumber: 10
-phone: "+49 6041 963422"
+street: In der Grobach
+housenumber: "10"
+phone: +49 6041 963422
 opening_hours: ""
 website: ""

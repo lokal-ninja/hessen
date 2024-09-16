@@ -4,8 +4,8 @@ latitude: 50.41222
 longitude: 9.73108
 postcode: "36148"
 city: Kalbach
-street: "Talbrückenstraße"
-housenumber: 8
-phone: "+49 9742 321"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 07:30-15:30; PH off"
-website: "https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-maul-talbr%C3%BCckenstr.-8/index.jsp"
+street: Talbrückenstraße
+housenumber: "8"
+phone: +49 9742 321
+opening_hours: Mo-Fr 07:30-18:30; Sa 07:30-15:30; PH off
+website: https://www.edeka.de/eh/nordbayern-sachsen-th%C3%BCringen/edeka-maul-talbr%C3%BCckenstr.-8/index.jsp

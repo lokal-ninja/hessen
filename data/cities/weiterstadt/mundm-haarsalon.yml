@@ -1,11 +1,11 @@
 id: 88435695
-type: way
+type: node
 latitude: 49.90591
 longitude: 8.58397
 postcode: "64331"
 city: Weiterstadt
-street: "Darmstädter Straße"
-housenumber: 37
-phone: "+49 6150 542 89 01"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-13:00"
-website: "https://www.mm-haarsalon.de/"
+street: Darmstädter Straße
+housenumber: "37"
+phone: +49 6150 542 89 01
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:00-13:00
+website: https://www.mm-haarsalon.de/

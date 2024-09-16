@@ -1,11 +1,11 @@
 id: 227765709
-type: way
+type: node
 latitude: 50.49696
 longitude: 8.66363
 postcode: "35428"
 city: Langgöns
-street: "Am Mühlberg"
-housenumber: 4
+street: Am Mühlberg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 177583986
-type: way
+type: node
 latitude: 49.70962
 longitude: 8.8436
 postcode: "64385"
 city: Reichelsheim (Odenwald)
-street: "Hochstraße"
-housenumber: 5
+street: Hochstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00"
+opening_hours: Mo-Sa 07:30-21:00
 website: ""

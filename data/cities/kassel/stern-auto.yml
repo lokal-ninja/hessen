@@ -1,11 +1,11 @@
 id: 367352527
-type: way
+type: node
 latitude: 51.29161
 longitude: 9.45102
 postcode: "34134"
 city: Kassel
-street: "Leuschnerstraße"
-housenumber: 94
+street: Leuschnerstraße
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

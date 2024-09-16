@@ -4,8 +4,8 @@ latitude: 50.55292
 longitude: 8.5012
 postcode: "35578"
 city: Wetzlar
-street: "Schillerplatz"
-housenumber: 6
-phone: "+49 6441 23162"
-opening_hours: "24/7 bitte anrufen"
-website: "http://www.mc-bestattungen.de"
+street: Schillerplatz
+housenumber: "6"
+phone: +49 6441 23162
+opening_hours: 24/7 "bitte anrufen"
+website: http://www.mc-bestattungen.de

@@ -1,11 +1,11 @@
 id: 303004164
-type: way
+type: node
 latitude: 49.54646
 longitude: 8.59698
 postcode: "68519"
 city: Viernheim
-street: "Gro-Harlem-Brundtland-Straße"
-housenumber: 5
+street: Gro-Harlem-Brundtland-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

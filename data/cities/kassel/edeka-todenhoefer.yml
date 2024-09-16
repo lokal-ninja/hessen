@@ -4,8 +4,8 @@ latitude: 51.30864
 longitude: 9.42332
 postcode: "34131"
 city: Kassel
-street: "Hunrodstraße"
-housenumber: 1
-phone: "+49 561 37033"
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
-website: "https://www.edekatodenhoefer.de/"
+street: Hunrodstraße
+housenumber: "1"
+phone: +49 561 37033
+opening_hours: Mo-Sa 07:30-20:00; PH off
+website: https://www.edekatodenhoefer.de/

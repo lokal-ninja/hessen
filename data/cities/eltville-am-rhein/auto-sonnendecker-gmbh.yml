@@ -1,11 +1,11 @@
 id: 275477133
-type: way
+type: node
 latitude: 50.02394
 longitude: 8.11622
 postcode: "65343"
 city: Eltville am Rhein
-street: "Erbacher Straße"
-housenumber: 4
+street: Erbacher Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.9831
 longitude: 8.41815
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Friedrich-Ebert-Straße"
-housenumber: 29
-phone: "+49 6142 62206"
-opening_hours: "Mo-We 08:00-14:30; Th-Fr 08:00-18:00"
-website: "https://braun-eisenacher.de"
+street: Friedrich-Ebert-Straße
+housenumber: "29"
+phone: +49 6142 62206
+opening_hours: Mo-We 08:00-14:30; Th-Fr 08:00-18:00
+website: https://braun-eisenacher.de

@@ -4,8 +4,8 @@ latitude: 49.66562
 longitude: 9.0065
 postcode: "64711"
 city: Erbach
-street: "Stockheimer Ring"
-housenumber: 25
-phone: "+49 6061 960100"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-13:00"
-website: "http://renault-barth.com/"
+street: Stockheimer Ring
+housenumber: "25"
+phone: +49 6061 960100
+opening_hours: Mo-Fr 08:00-18:30; Sa 09:00-13:00
+website: http://renault-barth.com/

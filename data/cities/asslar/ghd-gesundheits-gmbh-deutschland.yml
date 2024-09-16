@@ -4,8 +4,8 @@ latitude: 50.5873
 longitude: 8.47894
 postcode: "35614"
 city: Aßlar
-street: "Europastraße"
-housenumber: 15
+street: Europastraße
+housenumber: "15"
 phone: "+498005167110"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.gesundheitsgmbh.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.gesundheitsgmbh.de/

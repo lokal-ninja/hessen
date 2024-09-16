@@ -1,11 +1,11 @@
 id: 136670919
-type: way
+type: node
 latitude: 50.27496
 longitude: 8.35345
 postcode: "65529"
 city: Waldems
-street: "Industriestraße"
-housenumber: 10
+street: Industriestraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://powalla-moebel.de"
+website: https://powalla-moebel.de

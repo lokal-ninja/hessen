@@ -1,11 +1,11 @@
 id: 41960857
-type: way
+type: node
 latitude: 50.20363
 longitude: 8.59713
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Karl-Hermann-Flach-Straße"
-housenumber: 26
+street: Karl-Hermann-Flach-Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.schluckebier-kfz.de/"
+website: https://www.schluckebier-kfz.de/

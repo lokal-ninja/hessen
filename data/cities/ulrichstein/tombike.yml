@@ -1,11 +1,11 @@
 id: 108834042
-type: way
+type: node
 latitude: 50.57719
 longitude: 9.19918
 postcode: "35327"
 city: Ulrichstein
-street: "Ohmstraße"
-housenumber: 26
+street: Ohmstraße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

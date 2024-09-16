@@ -1,11 +1,11 @@
 id: 240114950
-type: way
+type: node
 latitude: 49.96761
 longitude: 8.44798
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Staudenweg"
-housenumber: 2
-phone: "+49 6142 70413-0"
-opening_hours: "Th 13:00-17:00; Sa[1] 09:30-13:00"
-website: "https://www.solarleuchten24.de"
+street: Staudenweg
+housenumber: "2"
+phone: +49 6142 70413-0
+opening_hours: Th 13:00-17:00; Sa[1] 09:30-13:00
+website: https://www.solarleuchten24.de

@@ -4,8 +4,8 @@ latitude: 50.84614
 longitude: 9.70168
 postcode: "36251"
 city: Bad Hersfeld
-street: "Douglasienweg"
-housenumber: 1
-phone: "+49 6621 62233"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Douglasienweg
+housenumber: "1"
+phone: +49 6621 62233
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

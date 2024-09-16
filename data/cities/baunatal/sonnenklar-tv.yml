@@ -4,8 +4,8 @@ latitude: 51.25513
 longitude: 9.41382
 postcode: "34225"
 city: Baunatal
-street: "Marktplatz"
-housenumber: 12
+street: Marktplatz
+housenumber: "12"
 phone: ""
-opening_hours: "Mo,We,Fr 10:30-18:00; Tu,Th 10:30-14:00; Sa 10:00-14:00"
-website: "https://www.sonnenklartv-reisebuero.de/baunatal"
+opening_hours: Mo,We,Fr 10:30-18:00; Tu,Th 10:30-14:00; Sa 10:00-14:00
+website: https://www.sonnenklartv-reisebuero.de/baunatal

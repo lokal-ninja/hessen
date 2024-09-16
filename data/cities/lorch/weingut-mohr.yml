@@ -4,8 +4,8 @@ latitude: 50.042
 longitude: 7.80893
 postcode: "65391"
 city: Lorch
-street: "Rheinstraße"
-housenumber: 21
-phone: "+49-6726-9484"
+street: Rheinstraße
+housenumber: "21"
+phone: +49-6726-9484
 opening_hours: ""
-website: "https://www.weingut-mohr.de/"
+website: https://www.weingut-mohr.de/

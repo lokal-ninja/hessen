@@ -1,11 +1,11 @@
 id: 92721355
-type: way
+type: node
 latitude: 50.58515
 longitude: 8.47354
 postcode: "35614"
 city: Aßlar
-street: "Hermannsteiner Straße"
-housenumber: 90
+street: Hermannsteiner Straße
+housenumber: "90"
 phone: "+4964418970630"
 opening_hours: ""
-website: "http://www.salihmarkt.de/"
+website: http://www.salihmarkt.de/

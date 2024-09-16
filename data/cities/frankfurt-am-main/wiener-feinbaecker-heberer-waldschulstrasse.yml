@@ -4,8 +4,8 @@ latitude: 50.10006
 longitude: 8.60315
 postcode: "65933"
 city: Frankfurt am Main
-street: "Waldschulstraße"
-housenumber: 65
-phone: "+49 69 386777"
-opening_hours: "Mo-Fr 05:00-17:00; Sa 05:00-13:00; Su 06:00-13:00"
+street: Waldschulstraße
+housenumber: "65"
+phone: +49 69 386777
+opening_hours: Mo-Fr 05:00-17:00; Sa 05:00-13:00; Su 06:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 305937327
-type: way
+type: node
 latitude: 49.59479
 longitude: 8.48252
 postcode: "68623"
 city: Lampertheim
-street: "Neuschloßstraße"
+street: Neuschloßstraße
 housenumber: 58c
-phone: "+49 6206 7028852"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 08:00-18:00"
-website: "https://www.fristo.de/maerkte/info/getraenkemarkt/lampertheim-neuschlossstrasse-58-c/"
+phone: +49 6206 7028852
+opening_hours: Mo-Fr 08:00-20:00;Sa 08:00-18:00
+website: https://www.fristo.de/maerkte/info/getraenkemarkt/lampertheim-neuschlossstrasse-58-c/

@@ -1,11 +1,11 @@
 id: 194705736
-type: way
+type: node
 latitude: 50.23239
 longitude: 8.76201
 postcode: "61184"
 city: Karben
-street: "Industriestraße"
-housenumber: 2
+street: Industriestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/store/de-1589/karben/industriestrasse-2"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/store/de-1589/karben/industriestrasse-2

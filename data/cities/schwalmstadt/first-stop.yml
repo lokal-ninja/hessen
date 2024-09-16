@@ -1,11 +1,11 @@
 id: 332345698
-type: way
+type: node
 latitude: 50.91815
 longitude: 9.20482
 postcode: "34613"
 city: Schwalmstadt
-street: "Friedrich-Ebert-Straße"
-housenumber: 110
-phone: "+49 6691 911530"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00; Sa 08:00-12:00"
-website: "https://www.firststop.de/pointOfSales/schwalmstadt-reifen-auto-service?hero=set"
+street: Friedrich-Ebert-Straße
+housenumber: "110"
+phone: +49 6691 911530
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00; Sa 08:00-12:00
+website: https://www.firststop.de/pointOfSales/schwalmstadt-reifen-auto-service?hero=set

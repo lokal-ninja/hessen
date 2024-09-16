@@ -4,8 +4,8 @@ latitude: 49.89752
 longitude: 8.60898
 postcode: "64331"
 city: Weiterstadt
-street: "Robert-Koch-Straße"
-housenumber: 9
-phone: "+49 6151 3681218"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "http://maxs-master.de"
+street: Robert-Koch-Straße
+housenumber: "9"
+phone: +49 6151 3681218
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: http://maxs-master.de

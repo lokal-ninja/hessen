@@ -4,8 +4,8 @@ latitude: 49.99254
 longitude: 8.41362
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Bahnhofstraße"
-housenumber: 41
-phone: "+49 6142 68216"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su off"
+street: Bahnhofstraße
+housenumber: "41"
+phone: +49 6142 68216
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su off
 website: ""

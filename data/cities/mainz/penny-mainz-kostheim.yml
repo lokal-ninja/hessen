@@ -1,11 +1,11 @@
 id: 203573608
-type: way
+type: node
 latitude: 50.00845
 longitude: 8.29634
 postcode: "55246"
 city: Mainz
-street: "Hochheimer Straße"
-housenumber: 49
+street: Hochheimer Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00; PH off"
+opening_hours: Mo-Sa 07:30-20:00; PH off
 website: ""

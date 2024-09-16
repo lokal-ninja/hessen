@@ -1,11 +1,11 @@
 id: 121569011
-type: way
+type: node
 latitude: 51.27824
 longitude: 9.06498
 postcode: "34513"
 city: Waldeck
-street: "Kasseler Straße"
-housenumber: 28
+street: Kasseler Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

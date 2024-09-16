@@ -1,11 +1,11 @@
 id: 172139809
-type: way
+type: node
 latitude: 50.7989
 longitude: 9.60083
 postcode: "36272"
 city: Niederaula
-street: "Schlitzer Straße"
-housenumber: 24
-phone: "+49 6625 919130"
-opening_hours: "Mo-Tu 06:00-21:00; We 08:00-21:00; Th-Sa 06:00-21:00"
-website: "http://www.rewe.de/"
+street: Schlitzer Straße
+housenumber: "24"
+phone: +49 6625 919130
+opening_hours: Mo-Tu 06:00-21:00; We 08:00-21:00; Th-Sa 06:00-21:00
+website: http://www.rewe.de/

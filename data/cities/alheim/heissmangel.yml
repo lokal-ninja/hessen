@@ -1,11 +1,11 @@
 id: 95200685
-type: way
+type: node
 latitude: 51.05025
 longitude: 9.66323
 postcode: "36211"
 city: Alheim
-street: "Am Minnstück"
-housenumber: 6
+street: Am Minnstück
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

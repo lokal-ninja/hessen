@@ -4,8 +4,8 @@ latitude: 49.87395
 longitude: 8.6327
 postcode: "64293"
 city: Darmstadt
-street: "Goebelstraße"
-housenumber: 21
-phone: "+49 6151 95805"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.casamolina.de/"
+street: Goebelstraße
+housenumber: "21"
+phone: +49 6151 95805
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
+website: https://www.casamolina.de/

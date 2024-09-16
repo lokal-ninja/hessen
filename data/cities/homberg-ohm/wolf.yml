@@ -1,11 +1,11 @@
 id: 174186246
-type: way
+type: node
 latitude: 50.73118
 longitude: 9.00079
 postcode: "35315"
 city: Homberg (Ohm)
-street: "Berliner Straße"
-housenumber: 2
+street: Berliner Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Tu,Th-Fr 05:30-18:00; We,Su off; Sa 05:30-12:00"
+opening_hours: Mo-Tu,Th-Fr 05:30-18:00; We,Su off; Sa 05:30-12:00
 website: ""

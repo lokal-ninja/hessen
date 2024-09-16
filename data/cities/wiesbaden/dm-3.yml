@@ -5,7 +5,7 @@ longitude: 8.23989
 postcode: ""
 city: Wiesbaden
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.dm.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.dm.de/

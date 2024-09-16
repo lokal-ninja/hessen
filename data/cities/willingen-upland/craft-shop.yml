@@ -1,11 +1,11 @@
 id: 336731869
-type: way
+type: node
 latitude: 51.29283
 longitude: 8.61639
 postcode: "34508"
 city: Willingen (Upland)
-street: "Waldecker Straße"
-housenumber: 31
-phone: "+49 5632 968572"
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-16:00"
-website: "https://www.craftshop-willingen.de/start"
+street: Waldecker Straße
+housenumber: "31"
+phone: +49 5632 968572
+opening_hours: Mo-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-16:00
+website: https://www.craftshop-willingen.de/start

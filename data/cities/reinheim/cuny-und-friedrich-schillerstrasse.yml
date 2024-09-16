@@ -1,11 +1,11 @@
 id: 427622167
-type: way
+type: node
 latitude: 49.83121
 longitude: 8.83715
 postcode: "64354"
 city: Reinheim
-street: "Schillerstraße"
-housenumber: 11
+street: Schillerstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

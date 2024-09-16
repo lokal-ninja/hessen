@@ -1,11 +1,11 @@
 id: 242370605
-type: way
+type: node
 latitude: 50.40339
 longitude: 8.8212
 postcode: "61200"
 city: Wölfersheim
-street: "Am Heiligenstock"
-housenumber: 4
+street: Am Heiligenstock
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.autohaus-lisson.de"
+website: https://www.autohaus-lisson.de

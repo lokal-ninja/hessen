@@ -4,8 +4,8 @@ latitude: 49.88088
 longitude: 8.66683
 postcode: "64289"
 city: Darmstadt
-street: "Gutenbergstraße"
-housenumber: 72
+street: Gutenbergstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo,We-Fr 06:30-13:00,15:00-18:30; Tu 06:30-13:00; Sa 07:00-13:00"
+opening_hours: Mo,We-Fr 06:30-13:00,15:00-18:30; Tu 06:30-13:00; Sa 07:00-13:00
 website: ""

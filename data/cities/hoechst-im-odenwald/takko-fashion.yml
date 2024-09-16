@@ -1,11 +1,11 @@
 id: 120077985
-type: way
+type: node
 latitude: 49.79903
 longitude: 9.00286
 postcode: "64739"
 city: Höchst im Odenwald
-street: "Dusenbacher Straße"
+street: Dusenbacher Straße
 housenumber: 56a
-phone: "+49 6163 9138665"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://takko.de/"
+phone: +49 6163 9138665
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://takko.de/

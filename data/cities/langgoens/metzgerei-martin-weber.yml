@@ -1,11 +1,11 @@
 id: 229437777
-type: way
+type: node
 latitude: 50.49796
 longitude: 8.66049
 postcode: "35428"
 city: Langgöns
-street: "Breitgasse"
-housenumber: 9
-phone: "+49 6403 928666"
+street: Breitgasse
+housenumber: "9"
+phone: +49 6403 928666
 opening_hours: ""
 website: ""

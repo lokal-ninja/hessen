@@ -1,11 +1,11 @@
 id: 819878994
-type: way
+type: node
 latitude: 51.18038
 longitude: 9.37087
 postcode: "34281"
 city: Gudensberg
-street: "Freiheit"
-housenumber: 19
+street: Freiheit
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

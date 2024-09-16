@@ -1,11 +1,11 @@
 id: 166711251
-type: way
+type: node
 latitude: 50.17948
 longitude: 9.23453
 postcode: "63589"
 city: Linsengericht
-street: "Dorfstraße"
-housenumber: 39
+street: Dorfstraße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

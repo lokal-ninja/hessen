@@ -4,8 +4,8 @@ latitude: 50.58467
 longitude: 8.67409
 postcode: "35390"
 city: Gießen
-street: "Seltersweg"
-housenumber: 5
+street: Seltersweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-16:00; PH off"
-website: "https://www.juwelier-balser.de"
+opening_hours: Mo-Fr 09:30-18:30; Sa 10:00-16:00; PH off
+website: https://www.juwelier-balser.de

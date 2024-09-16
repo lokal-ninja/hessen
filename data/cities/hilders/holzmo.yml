@@ -1,11 +1,11 @@
 id: 180234965
-type: way
+type: node
 latitude: 50.55774
 longitude: 10.0079
 postcode: "36115"
 city: Hilders
-street: "Krautacker"
-housenumber: 2
-phone: "+49 6681 302"
-opening_hours: "Mo,Tu,Th,Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00; We off"
-website: "https://www.holzmo.com/"
+street: Krautacker
+housenumber: "2"
+phone: +49 6681 302
+opening_hours: Mo,Tu,Th,Fr 08:00-12:00,13:00-18:00; Sa 09:00-12:00; We off
+website: https://www.holzmo.com/

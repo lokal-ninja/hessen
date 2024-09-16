@@ -4,8 +4,8 @@ latitude: 50.12005
 longitude: 8.69502
 postcode: "60316"
 city: Frankfurt am Main
-street: "Berger Straße"
-housenumber: 39
+street: Berger Straße
+housenumber: "39"
 phone: "+496920022233"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "https://www.reiningwerth.de"
+opening_hours: Mo-Sa 11:00-18:00
+website: https://www.reiningwerth.de

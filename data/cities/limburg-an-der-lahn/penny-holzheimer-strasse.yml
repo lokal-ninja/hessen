@@ -1,11 +1,11 @@
 id: 241883020
-type: way
+type: node
 latitude: 50.3779
 longitude: 8.06201
 postcode: "65549"
 city: Limburg an der Lahn
-street: "Holzheimer Straße"
-housenumber: 92
+street: Holzheimer Straße
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

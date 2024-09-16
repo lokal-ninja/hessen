@@ -1,11 +1,11 @@
 id: 123486537
-type: way
+type: node
 latitude: 49.67981
 longitude: 8.62169
 postcode: "64625"
 city: Bensheim
-street: "Hauptstraße"
-housenumber: 59
+street: Hauptstraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-13:00"
-website: "https://www.reisebuero-starker.de/"
+opening_hours: Mo-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-13:00
+website: https://www.reisebuero-starker.de/

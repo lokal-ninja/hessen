@@ -1,11 +1,11 @@
 id: 150170167
-type: way
+type: node
 latitude: 49.90951
 longitude: 8.84767
 postcode: "64807"
 city: Dieburg
-street: "Frankfurter Straße"
-housenumber: 64
+street: Frankfurter Straße
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

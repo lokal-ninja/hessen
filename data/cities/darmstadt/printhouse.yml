@@ -4,8 +4,8 @@ latitude: 49.87329
 longitude: 8.64579
 postcode: "64283"
 city: Darmstadt
-street: "Gagernstraße"
-housenumber: 12
-phone: "+49 6151 9963111"
-opening_hours: "Mo-Th 09:30-17:30, Fr 09:30-16:00"
-website: "http://www.printhouse-konstroffer.de"
+street: Gagernstraße
+housenumber: "12"
+phone: +49 6151 9963111
+opening_hours: Mo-Th 09:30-17:30, Fr 09:30-16:00
+website: http://www.printhouse-konstroffer.de

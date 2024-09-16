@@ -1,11 +1,11 @@
 id: 53207857
-type: way
+type: node
 latitude: 50.13181
 longitude: 8.74385
 postcode: "60386"
 city: Frankfurt am Main
-street: "Wächtersbacher Straße"
-housenumber: 93
-phone: "+49 69 941776-0"
-opening_hours: "Sa 10:00-16:00; PH off; Mo-Fr 09:00-18:00"
-website: "https://www.bmsofort.de/standorte/frankfurt/"
+street: Wächtersbacher Straße
+housenumber: "93"
+phone: +49 69 941776-0
+opening_hours: Sa 10:00-16:00; PH off; Mo-Fr 09:00-18:00
+website: https://www.bmsofort.de/standorte/frankfurt/

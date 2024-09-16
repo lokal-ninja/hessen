@@ -4,8 +4,8 @@ latitude: 50.6711
 longitude: 9.76779
 postcode: "36088"
 city: Hünfeld
-street: "Josefstraße"
-housenumber: 16
-phone: "+49 6652 1374"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "http://www.metzgerei-quanz.de/"
+street: Josefstraße
+housenumber: "16"
+phone: +49 6652 1374
+opening_hours: Mo-Sa 07:00-19:00
+website: http://www.metzgerei-quanz.de/

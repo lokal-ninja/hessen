@@ -1,11 +1,11 @@
 id: 202196520
-type: way
+type: node
 latitude: 50.11807
 longitude: 8.85246
 postcode: "63165"
 city: Mühlheim am Main
-street: "Dieselstraße"
-housenumber: 58
+street: Dieselstraße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

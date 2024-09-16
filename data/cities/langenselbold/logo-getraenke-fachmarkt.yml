@@ -1,11 +1,11 @@
 id: 144615252
-type: way
+type: node
 latitude: 50.17367
 longitude: 9.04488
 postcode: "63505"
 city: Langenselbold
-street: "Kinzigstraße"
-housenumber: 13
+street: Kinzigstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

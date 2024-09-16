@@ -4,8 +4,8 @@ latitude: 51.32417
 longitude: 9.50123
 postcode: "34127"
 city: Kassel
-street: "Holländische Straße"
-housenumber: 44
+street: Holländische Straße
+housenumber: "44"
 phone: ""
-opening_hours: "Tu,Th-Sa 09:30-19:00; We 09:30-18:00; Su,Mo off"
-website: "http://alpbarbershop-kassel.de/"
+opening_hours: Tu,Th-Sa 09:30-19:00; We 09:30-18:00; Su,Mo off
+website: http://alpbarbershop-kassel.de/

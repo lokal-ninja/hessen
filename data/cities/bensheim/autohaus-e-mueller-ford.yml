@@ -1,11 +1,11 @@
 id: 129721669
-type: way
+type: node
 latitude: 49.69453
 longitude: 8.62149
 postcode: "64625"
 city: Bensheim
-street: "Darmstädter Straße"
-housenumber: 110
+street: Darmstädter Straße
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

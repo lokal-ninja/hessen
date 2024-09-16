@@ -1,11 +1,11 @@
 id: 92403184
-type: way
+type: node
 latitude: 50.09464
 longitude: 8.45947
 postcode: "65719"
 city: Hofheim am Taunus
-street: "In den Nassen"
-housenumber: 6
+street: In den Nassen
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

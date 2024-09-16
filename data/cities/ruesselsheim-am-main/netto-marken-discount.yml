@@ -4,8 +4,8 @@ latitude: 49.99051
 longitude: 8.44312
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Feuerbachstraße"
-housenumber: 2
+street: Feuerbachstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/filialen/ruesselsheim/feuerbachstrasse-2/8266"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/filialen/ruesselsheim/feuerbachstrasse-2/8266

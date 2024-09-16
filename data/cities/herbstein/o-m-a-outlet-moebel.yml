@@ -1,11 +1,11 @@
 id: 106964968
-type: way
+type: node
 latitude: 50.55754
 longitude: 9.3493
 postcode: "36358"
 city: Herbstein
-street: "Am Scheerwasser"
-housenumber: 1
+street: Am Scheerwasser
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

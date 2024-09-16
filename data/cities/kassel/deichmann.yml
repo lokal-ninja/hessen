@@ -4,8 +4,8 @@ latitude: 51.30545
 longitude: 9.52733
 postcode: "34123"
 city: Kassel
-street: "Leipziger Straße"
-housenumber: 124
-phone: "+49 561 5799204"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.deichmann.com/"
+street: Leipziger Straße
+housenumber: "124"
+phone: +49 561 5799204
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.deichmann.com/

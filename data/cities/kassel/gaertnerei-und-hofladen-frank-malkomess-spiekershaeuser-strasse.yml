@@ -1,11 +1,11 @@
 id: 373088759
-type: way
+type: node
 latitude: 51.3316
 longitude: 9.54909
 postcode: "34125"
 city: Kassel
-street: "Spiekershäuser Straße"
-housenumber: 112
+street: Spiekershäuser Straße
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

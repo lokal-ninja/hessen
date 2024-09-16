@@ -1,11 +1,11 @@
 id: 430625225
-type: way
+type: node
 latitude: 51.12909
 longitude: 9.43626
 postcode: "34587"
 city: Felsberg
-street: "Bahnhofstraße"
-housenumber: 4
-phone: "+49 5662 5874"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Bahnhofstraße
+housenumber: "4"
+phone: +49 5662 5874
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

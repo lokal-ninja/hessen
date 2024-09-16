@@ -1,11 +1,11 @@
 id: 360394792
-type: way
+type: node
 latitude: 50.48252
 longitude: 9.39758
 postcode: "36355"
 city: Grebenhain
-street: "Am Mühlgraben"
-housenumber: 30
+street: Am Mühlgraben
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

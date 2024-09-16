@@ -4,8 +4,8 @@ latitude: 50.13774
 longitude: 8.66729
 postcode: "60320"
 city: Frankfurt am Main
-street: "Raimundstraße"
-housenumber: 157
+street: Raimundstraße
+housenumber: "157"
 phone: ""
-opening_hours: "Mo-Sa 06:00-18:00; Su 08:00-17:00"
-website: "https://www.schaefer-dein-baecker.de/"
+opening_hours: Mo-Sa 06:00-18:00; Su 08:00-17:00
+website: https://www.schaefer-dein-baecker.de/

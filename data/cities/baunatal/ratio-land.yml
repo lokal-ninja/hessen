@@ -1,11 +1,11 @@
 id: 125505930
-type: way
+type: node
 latitude: 51.22772
 longitude: 9.42999
 postcode: "34225"
 city: Baunatal
-street: "Fuldastraße"
+street: Fuldastraße
 housenumber: 1-5
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://ratio-land.de/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://ratio-land.de/

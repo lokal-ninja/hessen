@@ -4,8 +4,8 @@ latitude: 50.55932
 longitude: 8.50255
 postcode: "35578"
 city: Wetzlar
-street: "Hausertorstraße"
-housenumber: 49
-phone: "+49 6441 982 8108"
-opening_hours: "Mo-Th 08:30-13:00, 14:00-16:00; Fr 03:30-13:00"
-website: "https://optik-akustik-heinemann.de/ueber-uns/filialen/hausertor-wetzlar"
+street: Hausertorstraße
+housenumber: "49"
+phone: +49 6441 982 8108
+opening_hours: Mo-Th 08:30-13:00, 14:00-16:00; Fr 03:30-13:00
+website: https://optik-akustik-heinemann.de/ueber-uns/filialen/hausertor-wetzlar

@@ -1,11 +1,11 @@
 id: 111542674
-type: way
+type: node
 latitude: 51.31821
 longitude: 9.46234
 postcode: "34119"
 city: Kassel
-street: "Breitscheidstraße"
-housenumber: 37
-phone: "+49 561 103831"
+street: Breitscheidstraße
+housenumber: "37"
+phone: +49 561 103831
 opening_hours: ""
-website: "http://www.stadthallengarage.de"
+website: http://www.stadthallengarage.de

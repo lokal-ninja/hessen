@@ -4,8 +4,8 @@ latitude: 50.155
 longitude: 8.69237
 postcode: "60435"
 city: Frankfurt am Main
-street: "Am Dorfgarten"
-housenumber: 1
+street: Am Dorfgarten
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

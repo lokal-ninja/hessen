@@ -1,11 +1,11 @@
 id: 1170884486
-type: way
+type: node
 latitude: 51.26884
 longitude: 9.46849
 postcode: "34134"
 city: Kassel
-street: "Kieler Straße"
-housenumber: 6
-phone: "+49 561 87910"
+street: Kieler Straße
+housenumber: "6"
+phone: +49 561 87910
 opening_hours: ""
-website: "https://louis-scheuch.de/scheuch-baumaschinen/standorte/stammhaus-kassel"
+website: https://louis-scheuch.de/scheuch-baumaschinen/standorte/stammhaus-kassel

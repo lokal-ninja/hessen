@@ -4,8 +4,9 @@ latitude: 49.6803
 longitude: 9.00403
 postcode: "64720"
 city: Michelstadt
-street: "Bahnhofstraße"
-housenumber: 7
+street: Bahnhofstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo,Su off; Tu 09:30-13:00,14:30-20:00; We-Fr 09:30-13:00,14:00-18:00; Sa 09:30-14:00"
+opening_hours: Mo,Su off; Tu 09:30-13:00,14:30-20:00; We-Fr 09:30-13:00,14:00-18:00;
+    Sa 09:30-14:00
 website: ""

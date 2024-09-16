@@ -1,11 +1,11 @@
 id: 40439432
-type: way
+type: node
 latitude: 50.01384
 longitude: 8.36383
 postcode: "65239"
 city: Hochheim am Main
-street: "Frankfurter Straße"
-housenumber: 71
+street: Frankfurter Straße
+housenumber: "71"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 31739743
-type: way
+type: node
 latitude: 50.5391
 longitude: 8.65037
 postcode: "35440"
 city: Linden
-street: "Gießener Pforte"
-housenumber: 33
-phone: "+49 6403 5046980"
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.dm.de/store/d4ie/linden/giessener-pforte-33"
+street: Gießener Pforte
+housenumber: "33"
+phone: +49 6403 5046980
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.dm.de/store/d4ie/linden/giessener-pforte-33

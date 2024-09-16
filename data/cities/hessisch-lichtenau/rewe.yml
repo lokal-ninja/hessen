@@ -1,11 +1,11 @@
 id: 165849882
-type: way
+type: node
 latitude: 51.19858
 longitude: 9.72831
 postcode: "37235"
 city: Hessisch Lichtenau
-street: "Ottilienstraße"
-housenumber: 1
-phone: "+49 5602 80970"
-opening_hours: "Mo-Sa 06:30-22:00"
-website: "https://www.rewe.de/"
+street: Ottilienstraße
+housenumber: "1"
+phone: +49 5602 80970
+opening_hours: Mo-Sa 06:30-22:00
+website: https://www.rewe.de/

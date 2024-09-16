@@ -1,11 +1,11 @@
 id: 127582317
-type: way
+type: node
 latitude: 50.75933
 longitude: 9.23045
 postcode: "36304"
 city: Alsfeld
-street: "Berliner Straße"
-housenumber: 13
-phone: "+49 6631 6325"
-opening_hours: "Mo-Sa 06:30-13:00, Mo-Fr 15:00-18:00"
+street: Berliner Straße
+housenumber: "13"
+phone: +49 6631 6325
+opening_hours: Mo-Sa 06:30-13:00, Mo-Fr 15:00-18:00
 website: ""

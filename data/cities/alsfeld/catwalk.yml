@@ -1,11 +1,11 @@
 id: 205543064
-type: way
+type: node
 latitude: 50.75069
 longitude: 9.27153
 postcode: "36304"
 city: Alsfeld
-street: "Markt"
-housenumber: 11
+street: Markt
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

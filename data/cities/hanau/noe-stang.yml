@@ -1,11 +1,11 @@
 id: 223030467
-type: way
+type: node
 latitude: 50.14821
 longitude: 8.93908
 postcode: "63452"
 city: Hanau
-street: "An der Brückengrube"
-housenumber: 16
+street: An der Brückengrube
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

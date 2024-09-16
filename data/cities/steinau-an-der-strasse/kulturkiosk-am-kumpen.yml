@@ -1,11 +1,11 @@
 id: 1304042532
-type: way
+type: node
 latitude: 50.31231
 longitude: 9.46088
 postcode: "36396"
 city: Steinau an der Straße
-street: "Am Kumpen"
-housenumber: 
+street: Am Kumpen
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.80743
 longitude: 8.7739
 postcode: "35037"
 city: Marburg
-street: "Weidenhäuser Straße"
-housenumber: 6
+street: Weidenhäuser Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 11:00-13:30; Mo-Fr 16:00-18:30; "
-website: "https://mw-computer.net/"
+opening_hours: 'Mo-Fr 11:00-13:30; Mo-Fr 16:00-18:30; '
+website: https://mw-computer.net/

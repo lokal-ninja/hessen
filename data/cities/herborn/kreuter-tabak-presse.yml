@@ -4,8 +4,8 @@ latitude: 50.68109
 longitude: 8.30555
 postcode: "35745"
 city: Herborn
-street: "Hauptstraße"
-housenumber: 115
+street: Hauptstraße
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off
 website: ""

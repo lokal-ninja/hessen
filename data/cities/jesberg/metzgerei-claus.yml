@@ -1,11 +1,11 @@
 id: 35104160
-type: way
+type: node
 latitude: 50.99609
 longitude: 9.14545
 postcode: "34632"
 city: Jesberg
-street: "Frankfurter Straße"
-housenumber: 5
+street: Frankfurter Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.89426
 longitude: 8.83899
 postcode: "64807"
 city: Dieburg
-street: "Goethestraße"
-housenumber: 19
-phone: "+49 6071 921400"
-opening_hours: "Mo-Fr 07:00-14:00"
+street: Goethestraße
+housenumber: "19"
+phone: +49 6071 921400
+opening_hours: Mo-Fr 07:00-14:00
 website: ""

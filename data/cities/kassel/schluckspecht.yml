@@ -4,8 +4,8 @@ latitude: 51.31275
 longitude: 9.46596
 postcode: "34119"
 city: Kassel
-street: "Wilhelmshöher Allee"
-housenumber: 118
+street: Wilhelmshöher Allee
+housenumber: "118"
 phone: ""
-opening_hours: "Mo-Th 10:00-19:00; Sa 09:00-18:00; Fr 09:00-19:00"
-website: "https://www.schluckspecht.de/"
+opening_hours: Mo-Th 10:00-19:00; Sa 09:00-18:00; Fr 09:00-19:00
+website: https://www.schluckspecht.de/

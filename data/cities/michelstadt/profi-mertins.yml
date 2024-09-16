@@ -1,11 +1,11 @@
 id: 89646765
-type: way
+type: node
 latitude: 49.67442
 longitude: 8.99857
 postcode: "64720"
 city: Michelstadt
-street: "Industriestraße"
-housenumber: 17
-phone: "+49 6061 9426 0"
-opening_hours: "Mo-Fr 07:15-18:00, Sa 07:45-14:00"
-website: "http://www.profi-mertins.de"
+street: Industriestraße
+housenumber: "17"
+phone: +49 6061 9426 0
+opening_hours: Mo-Fr 07:15-18:00, Sa 07:45-14:00
+website: http://www.profi-mertins.de

@@ -1,11 +1,11 @@
 id: 521505893
-type: way
+type: node
 latitude: 49.6581
 longitude: 8.42299
 postcode: "68623"
 city: Lampertheim
-street: "Bahnhofstraße"
-housenumber: 121
+street: Bahnhofstraße
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00, Sa 08:00-21:00"
+opening_hours: Mo-Fr 08:00-21:00, Sa 08:00-21:00
 website: ""

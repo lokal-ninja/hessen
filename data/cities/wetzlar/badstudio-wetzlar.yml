@@ -4,8 +4,8 @@ latitude: 50.55133
 longitude: 8.47433
 postcode: "35578"
 city: Wetzlar
-street: "Siegmund-Hiepe-Straße"
-housenumber: 35
-phone: "+49 6441 230 32"
-opening_hours: "Mo-Fr 07:15-17:30; Sa 09:00-12:00"
-website: "https://badstudio-wetzlar.de"
+street: Siegmund-Hiepe-Straße
+housenumber: "35"
+phone: +49 6441 230 32
+opening_hours: Mo-Fr 07:15-17:30; Sa 09:00-12:00
+website: https://badstudio-wetzlar.de

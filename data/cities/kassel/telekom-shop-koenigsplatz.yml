@@ -4,8 +4,8 @@ latitude: 51.31633
 longitude: 9.49755
 postcode: "34117"
 city: Kassel
-street: "Königsplatz"
-housenumber: 59
-phone: "+49 561 773888"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://shopseite.telekom.de/sued-west/kassel/koenigsplatz-59"
+street: Königsplatz
+housenumber: "59"
+phone: +49 561 773888
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://shopseite.telekom.de/sued-west/kassel/koenigsplatz-59

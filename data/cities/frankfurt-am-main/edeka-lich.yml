@@ -1,11 +1,11 @@
 id: 204939843
-type: way
+type: node
 latitude: 50.10966
 longitude: 8.53657
 postcode: "65929"
 city: Frankfurt am Main
-street: "Soonwaldstraße"
-housenumber: 4
-phone: "+49 69 30038910"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Soonwaldstraße
+housenumber: "4"
+phone: +49 69 30038910
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

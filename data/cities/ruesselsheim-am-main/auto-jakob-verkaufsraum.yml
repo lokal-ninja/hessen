@@ -1,11 +1,11 @@
 id: 144879357
-type: way
+type: node
 latitude: 49.98577
 longitude: 8.41185
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Darmstädter Straße"
-housenumber: 83
+street: Darmstädter Straße
+housenumber: "83"
 phone: ""
 opening_hours: ""
-website: "https://auto-jacob.de/"
+website: https://auto-jacob.de/

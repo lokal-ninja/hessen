@@ -4,8 +4,8 @@ latitude: 51.33958
 longitude: 9.48563
 postcode: "34127"
 city: Kassel
-street: "Holländische Straße"
-housenumber: 228
+street: Holländische Straße
+housenumber: "228"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.bahlsen-outlet.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.bahlsen-outlet.de/

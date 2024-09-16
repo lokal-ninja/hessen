@@ -1,11 +1,11 @@
 id: 201008239
-type: way
+type: node
 latitude: 50.07087
 longitude: 8.47322
 postcode: "65795"
 city: Hattersheim
-street: "Heddingheimer Straße"
-housenumber: 10
+street: Heddingheimer Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

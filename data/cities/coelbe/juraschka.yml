@@ -1,11 +1,11 @@
 id: 650749989
-type: way
+type: node
 latitude: 50.84695
 longitude: 8.78421
 postcode: "35091"
 city: Cölbe
-street: "Kasseler Straße"
-housenumber: 76
+street: Kasseler Straße
+housenumber: "76"
 phone: "+49642182621"
 opening_hours: ""
 website: ""

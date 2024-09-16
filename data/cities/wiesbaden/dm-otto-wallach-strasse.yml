@@ -4,8 +4,8 @@ latitude: 50.0432
 longitude: 8.21731
 postcode: "65203"
 city: Wiesbaden
-street: "Otto-Wallach-Straße"
-housenumber: 5
+street: Otto-Wallach-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.dm-drogeriemarkt.de"
+website: http://www.dm-drogeriemarkt.de

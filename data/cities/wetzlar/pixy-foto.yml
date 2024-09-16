@@ -4,8 +4,8 @@ latitude: 50.56454
 longitude: 8.5046
 postcode: "35576"
 city: Wetzlar
-street: "Am Forum"
-housenumber: 1
-phone: "+49 64412003167"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Am Forum
+housenumber: "1"
+phone: +49 64412003167
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

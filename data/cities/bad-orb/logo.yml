@@ -1,11 +1,11 @@
 id: 65420925
-type: way
+type: node
 latitude: 50.23268
 longitude: 9.34176
 postcode: "63619"
 city: Bad Orb
-street: "Gewerbestraße"
-housenumber: 13
+street: Gewerbestraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

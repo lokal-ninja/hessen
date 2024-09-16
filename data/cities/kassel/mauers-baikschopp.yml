@@ -4,8 +4,8 @@ latitude: 51.30152
 longitude: 9.53274
 postcode: "34123"
 city: Kassel
-street: "Leipziger Straße"
-housenumber: 192
-phone: "+49 561 53279"
-opening_hours: "Tu-Fr 10:00-12:30,13:30-18:00; Sa 10:00-14:00; PH closed"
-website: "https://www.baikschopp.de/"
+street: Leipziger Straße
+housenumber: "192"
+phone: +49 561 53279
+opening_hours: Tu-Fr 10:00-12:30,13:30-18:00; Sa 10:00-14:00; PH closed
+website: https://www.baikschopp.de/

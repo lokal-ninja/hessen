@@ -4,8 +4,8 @@ latitude: 50.08234
 longitude: 8.23565
 postcode: "65183"
 city: Wiesbaden
-street: "Schwalbacher Straße"
-housenumber: 44
-phone: "+49 611 403045"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://gastrowiesbaden.de"
+street: Schwalbacher Straße
+housenumber: "44"
+phone: +49 611 403045
+opening_hours: Mo-Fr 09:00-17:00
+website: https://gastrowiesbaden.de

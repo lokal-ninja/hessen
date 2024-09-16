@@ -1,11 +1,11 @@
 id: 149913594
-type: way
+type: node
 latitude: 49.98029
 longitude: 7.94001
 postcode: "65385"
 city: Rüdesheim am Rhein
-street: "Europastraße"
-housenumber: 12
+street: Europastraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.logo-getraenke.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.logo-getraenke.de/

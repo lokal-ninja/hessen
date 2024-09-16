@@ -1,11 +1,11 @@
 id: 1280543765
-type: way
+type: node
 latitude: 50.67556
 longitude: 8.27898
 postcode: "35745"
 city: Herborn
-street: "Im Breiten Boden"
-housenumber: 2
+street: Im Breiten Boden
+housenumber: "2"
 phone: "+4927725756540"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://kfz-steffen-seibert.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://kfz-steffen-seibert.de/

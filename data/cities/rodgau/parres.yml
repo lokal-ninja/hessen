@@ -4,8 +4,8 @@ latitude: 50.02526
 longitude: 8.88482
 postcode: "63110"
 city: Rodgau
-street: "Hintergasse"
-housenumber: 34
+street: Hintergasse
+housenumber: "34"
 phone: ""
-opening_hours: "Tu-Fr 07:30-19:00; Th 07:30-22:00; Sa 07:30-16:00"
-website: "https://www.parres-haircompany.de/"
+opening_hours: Tu-Fr 07:30-19:00; Th 07:30-22:00; Sa 07:30-16:00
+website: https://www.parres-haircompany.de/

@@ -1,11 +1,11 @@
 id: 34435428
-type: way
+type: node
 latitude: 50.19268
 longitude: 8.58881
 postcode: "61440"
 city: Oberursel (Taunus)
-street: "Zimmersmühlenweg"
-housenumber: 25
-phone: "+49 6171 582525"
+street: Zimmersmühlenweg
+housenumber: "25"
+phone: +49 6171 582525
 opening_hours: ""
 website: ""

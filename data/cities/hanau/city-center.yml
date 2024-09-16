@@ -1,11 +1,11 @@
 id: 114595877
-type: way
+type: node
 latitude: 50.13002
 longitude: 8.92223
 postcode: "63450"
 city: Hanau
-street: "Kurt-Blaum-Platz"
-housenumber: 8
+street: Kurt-Blaum-Platz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://www.citycenter-hanau.de"
+opening_hours: Mo-Sa 10:00-20:00
+website: http://www.citycenter-hanau.de

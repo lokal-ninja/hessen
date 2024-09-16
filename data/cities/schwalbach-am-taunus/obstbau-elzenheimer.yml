@@ -4,8 +4,8 @@ latitude: 50.15072
 longitude: 8.5354
 postcode: "65824"
 city: Schwalbach am Taunus
-street: "Nordstraße"
-housenumber: 12
+street: Nordstraße
+housenumber: "12"
 phone: "+49619681272"
-opening_hours: "Mo 11:00-12:00, Th 17:00-18:00, Sa 11:00-12:00"
+opening_hours: Mo 11:00-12:00, Th 17:00-18:00, Sa 11:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 50.6972
 longitude: 9.72702
 postcode: "36151"
 city: Burghaun
-street: "Marktplatz"
-housenumber: 3
-phone: "+49 6652 919540"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.tegut.com/"
+street: Marktplatz
+housenumber: "3"
+phone: +49 6652 919540
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.tegut.com/

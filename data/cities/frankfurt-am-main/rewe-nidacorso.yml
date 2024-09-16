@@ -4,8 +4,8 @@ latitude: 50.15829
 longitude: 8.63337
 postcode: "60439"
 city: Frankfurt am Main
-street: "Nidacorso"
-housenumber: 1
-phone: "+49 69 951530320"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/frankfurt-nwz/230515/rewe-center-nidacorso-1/"
+street: Nidacorso
+housenumber: "1"
+phone: +49 69 951530320
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/frankfurt-nwz/230515/rewe-center-nidacorso-1/

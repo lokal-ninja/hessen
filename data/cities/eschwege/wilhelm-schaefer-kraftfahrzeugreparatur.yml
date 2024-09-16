@@ -1,11 +1,11 @@
 id: 184884763
-type: way
+type: node
 latitude: 51.17538
 longitude: 10.02988
 postcode: "37269"
 city: Eschwege
-street: "Hessenring"
-housenumber: 3
+street: Hessenring
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-13:00
 website: ""

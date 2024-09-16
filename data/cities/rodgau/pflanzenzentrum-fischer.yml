@@ -1,11 +1,11 @@
 id: 251694323
-type: way
+type: node
 latitude: 50.01384
 longitude: 8.91459
 postcode: "63110"
 city: Rodgau
-street: "Blumenau"
-housenumber: 2
+street: Blumenau
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
 website: ""

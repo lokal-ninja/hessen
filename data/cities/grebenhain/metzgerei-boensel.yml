@@ -1,11 +1,11 @@
 id: 116762665
-type: way
+type: node
 latitude: 50.4851
 longitude: 9.34776
 postcode: "36355"
 city: Grebenhain
-street: "Frankfurter Straße"
-housenumber: 1
+street: Frankfurter Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

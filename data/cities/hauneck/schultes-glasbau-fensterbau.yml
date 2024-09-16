@@ -1,11 +1,11 @@
 id: 81405003
-type: way
+type: node
 latitude: 50.8372
 longitude: 9.72024
 postcode: "36282"
 city: Hauneck
-street: "Döllwiesen"
-housenumber: 5
+street: Döllwiesen
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

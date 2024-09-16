@@ -4,8 +4,8 @@ latitude: 50.10466
 longitude: 8.68709
 postcode: "60594"
 city: Frankfurt am Main
-street: "Brückenstraße"
-housenumber: 56
-phone: "+49 69 612115"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00"
-website: "http://www.baeckerei-hanss.de/"
+street: Brückenstraße
+housenumber: "56"
+phone: +49 69 612115
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00
+website: http://www.baeckerei-hanss.de/

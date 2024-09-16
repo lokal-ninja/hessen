@@ -4,8 +4,8 @@ latitude: 50.16269
 longitude: 8.66272
 postcode: "60433"
 city: Frankfurt am Main
-street: "Im Geeren"
-housenumber: 90
+street: Im Geeren
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-17:00"
-website: "http://www.baeckerei-cafe-koenig.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 08:00-17:00
+website: http://www.baeckerei-cafe-koenig.de/

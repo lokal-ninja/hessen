@@ -1,11 +1,11 @@
 id: 125624265
-type: way
+type: node
 latitude: 50.05016
 longitude: 8.97315
 postcode: "63500"
 city: Seligenstadt
-street: "Steinheimer Straße"
-housenumber: 66
+street: Steinheimer Straße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://filialen.aldi-sued.de/hessen/seligenstadt/steinheimer-strasse-66"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://filialen.aldi-sued.de/hessen/seligenstadt/steinheimer-strasse-66

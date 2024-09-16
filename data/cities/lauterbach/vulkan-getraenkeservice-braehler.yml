@@ -1,11 +1,11 @@
 id: 107854059
-type: way
+type: node
 latitude: 50.62931
 longitude: 9.32819
 postcode: "36341"
 city: Lauterbach
-street: "Talstraße"
-housenumber: 20
+street: Talstraße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

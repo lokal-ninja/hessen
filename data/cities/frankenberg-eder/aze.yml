@@ -1,11 +1,11 @@
 id: 97467922
-type: way
+type: node
 latitude: 51.05501
 longitude: 8.78026
 postcode: "35066"
 city: Frankenberg (Eder)
-street: "Berleburger Straße"
-housenumber: 18
+street: Berleburger Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 571839450
-type: way
+type: node
 latitude: 49.98957
 longitude: 7.98374
 postcode: "65366"
 city: Geisenheim
-street: "Chauvignystraße"
-housenumber: 31
+street: Chauvignystraße
+housenumber: "31"
 phone: ""
 opening_hours: ""
-website: "https://www.auto-hautmann.de/"
+website: https://www.auto-hautmann.de/

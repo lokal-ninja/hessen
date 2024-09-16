@@ -4,8 +4,8 @@ latitude: 51.37158
 longitude: 8.99159
 postcode: "34454"
 city: Bad Arolsen
-street: "Landstraße"
-housenumber: 7
+street: Landstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00
 website: ""

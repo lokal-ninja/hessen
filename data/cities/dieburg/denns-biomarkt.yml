@@ -1,11 +1,11 @@
 id: 1178625331
-type: way
+type: node
 latitude: 49.90482
 longitude: 8.84762
 postcode: "64807"
 city: Dieburg
-street: "Lagerstraße"
+street: Lagerstraße
 housenumber: 3A
-phone: "+49 6071 9686832"
-opening_hours: "Mo-Sa 08:00-20:00"
+phone: +49 6071 9686832
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

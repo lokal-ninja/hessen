@@ -4,8 +4,8 @@ latitude: 51.31707
 longitude: 9.49831
 postcode: "34117"
 city: Kassel
-street: "Königsplatz"
-housenumber: 61
-phone: "+49 561 70140"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.saturn.de/de/store/kassel-64"
+street: Königsplatz
+housenumber: "61"
+phone: +49 561 70140
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.saturn.de/de/store/kassel-64

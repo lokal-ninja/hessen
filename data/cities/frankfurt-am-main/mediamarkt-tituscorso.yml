@@ -4,8 +4,8 @@ latitude: 50.15701
 longitude: 8.63495
 postcode: "60439"
 city: Frankfurt am Main
-street: "Tituscorso"
-housenumber: 6
+street: Tituscorso
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mediamarkt.de/de/store/frankfurt-nordwestzentrum-447"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mediamarkt.de/de/store/frankfurt-nordwestzentrum-447

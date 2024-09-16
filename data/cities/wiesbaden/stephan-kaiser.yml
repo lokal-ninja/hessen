@@ -4,8 +4,8 @@ latitude: 50.0752
 longitude: 8.23878
 postcode: "65185"
 city: Wiesbaden
-street: "Moritzstraße"
-housenumber: 28
-phone: "+49 611 377583"
-opening_hours: "Mo-Tu 09:00-13:00,14:00-18:00; Th-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-13:00"
-website: "https://stephan-kaiser-optik.de"
+street: Moritzstraße
+housenumber: "28"
+phone: +49 611 377583
+opening_hours: Mo-Tu 09:00-13:00,14:00-18:00; Th-Fr 09:00-13:00, 14:00-18:00; Sa 10:00-13:00
+website: https://stephan-kaiser-optik.de

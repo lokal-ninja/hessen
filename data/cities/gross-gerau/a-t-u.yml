@@ -1,11 +1,11 @@
 id: 79504777
-type: way
+type: node
 latitude: 49.90874
 longitude: 8.49978
 postcode: "64521"
 city: Groß-Gerau
-street: "Helvetiastraße"
-housenumber: 9
+street: Helvetiastraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

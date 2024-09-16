@@ -1,11 +1,11 @@
 id: 50414426
-type: way
+type: node
 latitude: 50.04665
 longitude: 8.11974
 postcode: "65344"
 city: Eltville am Rhein
-street: "Im Taubenberg"
-housenumber: 1
-phone: "+49 6123 990709"
-opening_hours: "16:00-23:00; Mo,Tu off"
-website: "https://weingutengelmann.de/"
+street: Im Taubenberg
+housenumber: "1"
+phone: +49 6123 990709
+opening_hours: 16:00-23:00; Mo,Tu off
+website: https://weingutengelmann.de/

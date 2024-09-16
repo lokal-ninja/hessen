@@ -4,8 +4,8 @@ latitude: 50.55166
 longitude: 8.47385
 postcode: "35578"
 city: Wetzlar
-street: "Siegmund-Hiepe-Straße"
-housenumber: 22
-phone: "+49 6441 9238-0"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-16:00"
-website: "https://nord-moebel.de"
+street: Siegmund-Hiepe-Straße
+housenumber: "22"
+phone: +49 6441 9238-0
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-16:00
+website: https://nord-moebel.de

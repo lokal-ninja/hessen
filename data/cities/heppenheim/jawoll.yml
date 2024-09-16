@@ -1,11 +1,11 @@
 id: 146387706
-type: way
+type: node
 latitude: 49.63956
 longitude: 8.61876
 postcode: "64646"
 city: Heppenheim
-street: "In den Stadtwiesen"
-housenumber: 13
+street: In den Stadtwiesen
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

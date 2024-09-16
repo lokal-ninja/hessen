@@ -1,11 +1,11 @@
 id: 1079166927
-type: way
+type: node
 latitude: 51.2828
 longitude: 9.34079
 postcode: "34270"
 city: Schauenburg
-street: "Korbacher Straße"
-housenumber: 363
+street: Korbacher Straße
+housenumber: "363"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su,PH 06:00-12:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su,PH 06:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 961326401
-type: way
+type: node
 latitude: 50.05317
 longitude: 8.29916
 postcode: ""
 city: Wiesbaden
-street: "Berliner Straße"
-housenumber: 279
+street: Berliner Straße
+housenumber: "279"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

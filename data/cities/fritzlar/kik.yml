@@ -1,11 +1,11 @@
 id: 767361165
-type: way
+type: node
 latitude: 51.13469
 longitude: 9.27556
 postcode: "34560"
 city: Fritzlar
-street: "Am Hospital"
-housenumber: 
+street: Am Hospital
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su off"
+opening_hours: Mo-Sa 09:00-19:00; Su off
 website: ""

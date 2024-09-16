@@ -1,11 +1,11 @@
 id: 47396212
-type: way
+type: node
 latitude: 50.06846
 longitude: 8.22578
 postcode: ""
 city: Wiesbaden
-street: "Schiersteiner Straße"
-housenumber: 68
+street: Schiersteiner Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.hoeco.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.hoeco.de/

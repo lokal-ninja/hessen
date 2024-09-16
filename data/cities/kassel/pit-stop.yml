@@ -1,11 +1,11 @@
 id: 145565261
-type: way
+type: node
 latitude: 51.29946
 longitude: 9.53599
 postcode: "34123"
 city: Kassel
-street: "Leipziger Straße"
-housenumber: 210
-phone: "+49 561 9531270"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.pitstop.de/werkstatt/kassel/"
+street: Leipziger Straße
+housenumber: "210"
+phone: +49 561 9531270
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.pitstop.de/werkstatt/kassel/

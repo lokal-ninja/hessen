@@ -1,11 +1,11 @@
 id: 102821347
-type: way
+type: node
 latitude: 51.01214
 longitude: 9.93304
 postcode: "36214"
 city: Nentershausen
-street: "Kasseler Straße"
+street: Kasseler Straße
 housenumber: 22a
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 06:30-12:00; Su 07:00-11:30"
-website: "https://www.guter-gerlach.de/"
+opening_hours: Mo-Fr 06:00-17:00; Sa 06:30-12:00; Su 07:00-11:30
+website: https://www.guter-gerlach.de/

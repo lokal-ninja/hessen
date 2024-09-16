@@ -1,11 +1,11 @@
 id: 28346994
-type: way
+type: node
 latitude: 50.16073
 longitude: 8.68708
 postcode: "60433"
 city: Frankfurt am Main
-street: "Homburger Landstraße"
-housenumber: 268
+street: Homburger Landstraße
+housenumber: "268"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://filialen.aldi-sued.de/hessen/frankfurt/homburger-landstrasse-268"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://filialen.aldi-sued.de/hessen/frankfurt/homburger-landstrasse-268

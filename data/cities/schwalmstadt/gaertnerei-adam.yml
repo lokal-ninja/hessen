@@ -1,11 +1,11 @@
 id: 201810617
-type: way
+type: node
 latitude: 50.90802
 longitude: 9.19033
 postcode: "34613"
 city: Schwalmstadt
-street: "Siebenbürgener Weg"
-housenumber: 3
+street: Siebenbürgener Weg
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

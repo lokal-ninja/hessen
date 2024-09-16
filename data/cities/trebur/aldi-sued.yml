@@ -1,11 +1,11 @@
 id: 1175178857
-type: way
+type: node
 latitude: 49.93083
 longitude: 8.40666
 postcode: "65468"
 city: Trebur
-street: "Jimbolia Straße"
-housenumber: 1
+street: Jimbolia Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

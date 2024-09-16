@@ -1,11 +1,11 @@
 id: 1010224036
-type: way
+type: node
 latitude: 49.95839
 longitude: 8.66458
 postcode: "63329"
 city: Egelsbach
-street: "Büchenhöfe"
-housenumber: 16
+street: Büchenhöfe
+housenumber: "16"
 phone: ""
-opening_hours: "Fr 14:00-19:00"
-website: "http://www.birkenhof-egelsbach.de/hofladen.html"
+opening_hours: Fr 14:00-19:00
+website: http://www.birkenhof-egelsbach.de/hofladen.html

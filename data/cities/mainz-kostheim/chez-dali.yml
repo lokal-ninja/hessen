@@ -1,11 +1,11 @@
 id: 369717282
-type: way
+type: node
 latitude: 50.00064
 longitude: 8.30781
 postcode: "55246"
 city: Mainz-Kostheim
-street: "Hauptstraße"
-housenumber: 112
+street: Hauptstraße
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Fr 06:00-16:00; Sa 06:00-17:00; Su 07:00-18:00"
+opening_hours: Mo-Fr 06:00-16:00; Sa 06:00-17:00; Su 07:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 178461289
-type: way
+type: node
 latitude: 49.74331
 longitude: 8.60622
 postcode: "64665"
 city: Alsbach-Hähnlein
-street: "In der Pfarrtanne"
-housenumber: 10
+street: In der Pfarrtanne
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

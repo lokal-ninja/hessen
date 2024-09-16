@@ -4,8 +4,8 @@ latitude: 50.16003
 longitude: 8.64759
 postcode: "60439"
 city: Frankfurt am Main
-street: "Heddernheimer Landstraße"
-housenumber: 32
-phone: "+49 69 573462"
-opening_hours: "Tu-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00; Su-Mo off"
+street: Heddernheimer Landstraße
+housenumber: "32"
+phone: +49 69 573462
+opening_hours: Tu-Fr 09:00-13:00,15:00-18:00; Sa 09:00-13:00; Su-Mo off
 website: ""

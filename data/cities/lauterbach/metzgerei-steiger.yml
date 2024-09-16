@@ -1,11 +1,11 @@
 id: 105899229
-type: way
+type: node
 latitude: 50.66339
 longitude: 9.32669
 postcode: "36341"
 city: Lauterbach
-street: "Helmut-Caspar-Weg"
-housenumber: 2
+street: Helmut-Caspar-Weg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

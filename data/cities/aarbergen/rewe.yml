@@ -1,11 +1,11 @@
 id: 830845826
-type: way
+type: node
 latitude: 50.24506
 longitude: 8.06547
 postcode: "65326"
 city: Aarbergen
-street: "Untig Mühl"
-housenumber: 2
-phone: "+49 6120 9979050"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Untig Mühl
+housenumber: "2"
+phone: +49 6120 9979050
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

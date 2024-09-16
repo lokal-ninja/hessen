@@ -1,11 +1,11 @@
 id: 108510293
-type: way
+type: node
 latitude: 50.53892
 longitude: 9.48907
 postcode: "36154"
 city: Hosenfeld
-street: "In der Steinshecke"
-housenumber: 2
+street: In der Steinshecke
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

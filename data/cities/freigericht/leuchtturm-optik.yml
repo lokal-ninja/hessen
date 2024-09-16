@@ -4,8 +4,9 @@ latitude: 50.1442
 longitude: 9.13903
 postcode: "63579"
 city: Freigericht
-street: "Somborner Straße"
-housenumber: 7
-phone: "+49 6055 933776"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-13:00; Tu-Fr 14:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "https://www.leuchtturm-optik.de/"
+street: Somborner Straße
+housenumber: "7"
+phone: +49 6055 933776
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-13:00; Tu-Fr 14:00-18:00; Sa 09:00-13:00;
+    Su,PH off
+website: https://www.leuchtturm-optik.de/

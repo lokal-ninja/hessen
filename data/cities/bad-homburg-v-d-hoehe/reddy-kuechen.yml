@@ -1,11 +1,11 @@
 id: 150788584
-type: way
+type: node
 latitude: 50.23279
 longitude: 8.6111
 postcode: "61350"
 city: Bad Homburg v.d. Höhe
-street: "Dietigheimer Straße"
-housenumber: 3
-phone: "+49 6172 984350"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
-website: "https://badhomburg.reddy.de/"
+street: Dietigheimer Straße
+housenumber: "3"
+phone: +49 6172 984350
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
+website: https://badhomburg.reddy.de/

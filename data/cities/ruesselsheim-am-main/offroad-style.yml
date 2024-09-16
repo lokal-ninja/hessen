@@ -1,11 +1,11 @@
 id: 243572960
-type: way
+type: node
 latitude: 49.9779
 longitude: 8.42529
 postcode: "65428"
 city: Rüsselsheim am Main
-street: "Eisenstraße"
-housenumber: 30
-phone: "+49 6142 2101505"
+street: Eisenstraße
+housenumber: "30"
+phone: +49 6142 2101505
 opening_hours: ""
-website: "https://offroad-style.de/"
+website: https://offroad-style.de/
