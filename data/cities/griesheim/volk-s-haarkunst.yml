@@ -7,5 +7,5 @@ city: Griesheim
 street: Oberndorferstraße
 housenumber: "5"
 phone: "+4961552153"
-opening_hours: Tu-Fr 08:00-12:00,13:30-18:00; Sa 08:00-13:00
+opening_hours: Tu,Th,Fr 08:00-12:00, Tu-Fr 13:30-18:00, Sa 08:00-13:00, We 09:00-12:00
 website: ""

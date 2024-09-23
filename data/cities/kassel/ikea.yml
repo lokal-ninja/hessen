@@ -4,8 +4,8 @@ latitude: 51.27814
 longitude: 9.52623
 postcode: "34123"
 city: Kassel
-street: Heinrich-Hertz-Straße
+street: Heinrich-Hertz-Str.
 housenumber: "25"
-phone: ""
-opening_hours: Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 10:00-20:00
-website: https://www.ikea.com/de/de/store/kassel
+phone: "+4961929399999"
+opening_hours: Mo-Th,Sa 10:00-20:00; Fr 10:00-21:00
+website: https://ikea.de/kassel
