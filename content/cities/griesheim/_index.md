@@ -1,6 +1,6 @@
 ---
 title: Griesheim
 url: /griesheim/
-latitude: 49.858
-longitude: 8.578
+latitude: 49.863
+longitude: 8.579
 ---
