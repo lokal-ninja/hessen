@@ -1,6 +1,6 @@
 ---
 title: Hadamar
 url: /hadamar/
-latitude: 50.442
-longitude: 8.04
+latitude: 50.443
+longitude: 8.042
 ---

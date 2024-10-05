@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /offenbach-am-main/aldi-sued/
 shop: Supermarkt
 ---
