@@ -1,5 +1,5 @@
 ---
-title: "HORNBACH"
+title: "Hornbach"
 url: /lohfelden/hornbach/
 shop: Baumarkt
 ---
