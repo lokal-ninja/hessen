@@ -7,5 +7,6 @@ city: Fulda
 street: Karlstraße
 housenumber: "32"
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Mo-Tu 09:30-12:00, 13:00-18:30; Th-Fr 09:30-12:00, 13:00-18:30; Sa
+    09:30-16:00
+website: https://www.aufunddavon.com/

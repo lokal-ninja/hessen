@@ -1,5 +1,5 @@
 ---
-title: "Edeka Fürstenberg"
+title: "EDEKA Fürstenberg"
 url: /haunetal/edeka-fuerstenberg/
 shop: Supermarkt
 ---

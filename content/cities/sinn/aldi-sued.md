@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /sinn/aldi-sued/
 shop: Supermarkt
 ---
