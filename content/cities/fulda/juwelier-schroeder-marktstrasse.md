@@ -1,5 +1,5 @@
 ---
 title: "Juwelier Schröder"
-url: /fulda/juwelier-schroeder-mittelstrasse/
+url: /fulda/juwelier-schroeder-marktstrasse/
 shop: Schmuck
 ---
