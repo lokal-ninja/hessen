@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /morschen/edeka/
-shop: Getränke
+shop: Supermarkt
 ---

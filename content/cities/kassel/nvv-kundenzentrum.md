@@ -1,5 +1,5 @@
 ---
-title: "NVV Kundenzentrum"
+title: "NVV-Kundenzentrum"
 url: /kassel/nvv-kundenzentrum/
 shop: Reisebüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Götz.."
 url: /giessen/goetz/
-shop: Modehaus
+shop: Kleidung
 ---
