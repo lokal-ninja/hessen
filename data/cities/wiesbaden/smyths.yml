@@ -7,5 +7,5 @@ city: Wiesbaden
 street: Bahnhofsplatz
 housenumber: "3"
 phone: "+4961115746160"
-opening_hours: Mo-Sa 09:00-20:00
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
 website: ""
