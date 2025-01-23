@@ -1,6 +1,6 @@
 ---
 title: Langenselbold
 url: /langenselbold/
-latitude: 50.174
-longitude: 9.045
+latitude: 50.183
+longitude: 9.034
 ---
