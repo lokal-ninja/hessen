@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: Adalbertstraße
 housenumber: 21a
 phone: ""
-opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-14:00
+opening_hours: '"Mo-Fr 10-17, Sa nach Absprache"'
 website: https://www.kopierwerk.de/

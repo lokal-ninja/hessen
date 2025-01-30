@@ -1,6 +1,6 @@
 ---
 title: Birstein
 url: /birstein/
-latitude: 50.354
-longitude: 9.305
+latitude: 50.353
+longitude: 9.31
 ---
