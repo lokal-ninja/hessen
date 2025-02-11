@@ -1,5 +1,5 @@
 ---
-title: "Comic dealer"
+title: "Comic Dealer"
 url: /giessen/comic-dealer/
-shop: Sammler
+shop: Bücher
 ---
