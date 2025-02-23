@@ -1,6 +1,6 @@
 ---
 title: Darmstadt
 url: /darmstadt/
-latitude: 49.865
-longitude: 8.656
+latitude: 49.898
+longitude: 8.683
 ---

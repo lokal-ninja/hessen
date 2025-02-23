@@ -7,5 +7,5 @@ city: Eltville am Rhein
 street: Weinbergstraße
 housenumber: "37"
 phone: +49 6123 71456
-opening_hours: '"Restaurant": Th-Mo 16:30-22:00; "Wein-Café": Sa-Su 11:00-16:00'
+opening_hours: Th-Mo 16:30-22:00 "Restaurant"; Sa-Su 11:00-16:00 "Wein-Café"
 website: https://www.rehbergrehn.de

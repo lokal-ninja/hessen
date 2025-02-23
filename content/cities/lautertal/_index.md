@@ -1,6 +1,6 @@
 ---
 title: Lautertal
 url: /lautertal/
-latitude: 49.715
-longitude: 8.742
+latitude: 50.602
+longitude: 9.3
 ---
