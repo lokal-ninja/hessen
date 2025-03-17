@@ -1,6 +1,6 @@
 ---
 title: Fürth
 url: /fuerth/
-latitude: 49.664
-longitude: 8.768
+latitude: 49.645
+longitude: 8.773
 ---

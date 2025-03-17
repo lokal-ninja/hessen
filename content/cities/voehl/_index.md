@@ -1,6 +1,6 @@
 ---
 title: Vöhl
 url: /voehl/
-latitude: 51.153
-longitude: 8.902
+latitude: 51.158
+longitude: 8.869
 ---
