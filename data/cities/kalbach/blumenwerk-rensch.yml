@@ -7,5 +7,6 @@ city: Kalbach
 street: Eichenrieder Straße
 housenumber: "2"
 phone: +49 175 1666348
-opening_hours: Tu-We 09:00-12:00; Th-Fr 09:00-12:00,15:00-18:00; Sa 09:00-13:00
+opening_hours: Mo,Tu 09:00-12:00; We-Fr 09:00-12:00,15:00-18:00; Sa 09:00-13:00; PH
+    off
 website: https://www.facebook.com/p/Blumenwerk-Rensch-100057483278178/

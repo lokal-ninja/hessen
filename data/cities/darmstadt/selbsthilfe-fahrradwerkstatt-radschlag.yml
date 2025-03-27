@@ -7,5 +7,6 @@ city: Darmstadt
 street: Franziska-Braun-Straße
 housenumber: ""
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: Oct-Apr Tu 17:00-20:00, May-Sep Tu 17:00-21:00, May-Sep Th 17:00-20:00;
+    PH off
+website: https://radschlag.org
