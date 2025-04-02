@@ -7,6 +7,6 @@ city: Frankfurt am Main
 street: Klingenweg
 housenumber: "90"
 phone: +49 69 479994
-opening_hours: Apr-Oct Tu-Su 11:00-18:00; Nov-Mar Tu-We 11:00-13:00, Th 11:00-18:00,
-    Sa-Su 11:00-16:00
+opening_hours: 'Apr-Oct: Tu-Su 11:00-18:00; Apr-Oct: Mo off; Nov-Mar: Tu,We,Fr-Su
+    11:00-16:00; Nov-Mar: Th 11:00-17:00'
 website: https://www.mainaeppelhauslohrberg.de/

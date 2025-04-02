@@ -1,6 +1,6 @@
 ---
 title: Nauheim
 url: /nauheim/
-latitude: 49.945
-longitude: 8.455
+latitude: 49.942
+longitude: 8.45
 ---

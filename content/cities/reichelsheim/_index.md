@@ -1,6 +1,6 @@
 ---
 title: Reichelsheim
 url: /reichelsheim/
-latitude: 49.737
-longitude: 8.873
+latitude: 50.363
+longitude: 8.879
 ---
