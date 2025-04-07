@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /hanau/norma/
 shop: Supermarkt
 ---
