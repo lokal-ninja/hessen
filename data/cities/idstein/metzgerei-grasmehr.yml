@@ -7,6 +7,5 @@ city: Idstein
 street: Wiesbadener Straße
 housenumber: "52"
 phone: ""
-opening_hours: Mo 07:30-14:30,Di 07:30-18:00,Mi 07:30-14:30, Do-Fr 07:30-18:00 Sa
-    07:30-14:00
+opening_hours: Mo, We, Sa 07:30-14:30; Tu, Th, Fr 07:30-18:30
 website: ""
