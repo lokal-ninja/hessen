@@ -1,6 +1,6 @@
 ---
 title: Angelburg
 url: /angelburg/
-latitude: 50.806
-longitude: 8.417
+latitude: 50.807
+longitude: 8.414
 ---

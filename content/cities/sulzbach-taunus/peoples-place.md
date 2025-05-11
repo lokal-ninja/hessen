@@ -1,5 +1,5 @@
 ---
-title: "peoples place"
+title: "Peoples Place"
 url: /sulzbach-taunus/peoples-place/
-shop: Kleidung
+shop: Schuhe
 ---

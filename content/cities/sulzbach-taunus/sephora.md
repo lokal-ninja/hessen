@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /sulzbach-taunus/sephora/
-shop: Kleidung
+shop: Kosmetik
 ---
