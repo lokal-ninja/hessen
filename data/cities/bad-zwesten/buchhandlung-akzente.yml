@@ -7,6 +7,6 @@ city: Bad Zwesten
 street: Hauptstraße
 housenumber: "17"
 phone: ""
-opening_hours: Mo,Tu 14:00-18:00; We,Sa 09:30-13:00; Th,Fr 09:30-12:30,14:00-18:00;
-    Su off
+opening_hours: Mo 14:00-18:00; Tu,Th,Fr 09:30-12:30,14:00-18:00; Sa 09:30-13:00; Su
+    off; We off
 website: https://www.akzente-buchhandlung.de/

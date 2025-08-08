@@ -1,5 +1,5 @@
 ---
-title: "REWE"
+title: "Rewe"
 url: /weilburg/rewe-lindenstrasse/
 shop: Supermarkt
 ---

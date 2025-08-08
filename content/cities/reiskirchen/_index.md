@@ -1,6 +1,6 @@
 ---
 title: Reiskirchen
 url: /reiskirchen/
-latitude: 50.599
-longitude: 8.822
+latitude: 50.597
+longitude: 8.832
 ---

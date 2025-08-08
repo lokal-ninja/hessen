@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /giessen/aldi-sued-oberlachweg/
 shop: Supermarkt
 ---

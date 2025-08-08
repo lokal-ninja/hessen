@@ -1,6 +1,6 @@
 ---
 title: Mücke
 url: /muecke/
-latitude: 50.616
-longitude: 9.026
+latitude: 50.669
+longitude: 8.99
 ---

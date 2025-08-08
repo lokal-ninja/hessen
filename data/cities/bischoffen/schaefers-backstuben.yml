@@ -1,11 +1,11 @@
 id: 4083613160
 type: node
-latitude: 50.70256
-longitude: 8.47973
+latitude: 50.7025
+longitude: 8.47968
 postcode: "35649"
 city: Bischoffen
 street: Am Markt
 housenumber: "3"
 phone: +49 64 44 925900
-opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-21:00; Su 07:30-10:30
-website: https://www.schaefers-backstuben.de/
+opening_hours: Mo-Sa 07:00-20:00; Su 07:00-17:00; PH off
+website: https://schaefers-backstuben.de/filialen?tx_gomapsext_show%5Baddress%5D=25&tx_gomapsext_show%5Bcontroller%5D=Map&cHash=48d5bc2a40f0a2c900547f070a204a73

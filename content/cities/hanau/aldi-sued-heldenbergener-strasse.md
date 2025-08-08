@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /hanau/aldi-sued-heldenbergener-strasse/
 shop: Supermarkt
 ---

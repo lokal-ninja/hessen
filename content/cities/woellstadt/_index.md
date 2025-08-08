@@ -1,6 +1,6 @@
 ---
 title: Wöllstadt
 url: /woellstadt/
-latitude: 50.284
-longitude: 8.774
+latitude: 50.295
+longitude: 8.754
 ---

@@ -1,6 +1,6 @@
 ---
 title: Rabenau
 url: /rabenau/
-latitude: 50.659
-longitude: 8.851
+latitude: 50.676
+longitude: 8.87
 ---

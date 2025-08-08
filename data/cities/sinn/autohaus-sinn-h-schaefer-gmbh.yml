@@ -1,11 +1,12 @@
-id: 89696751
+id: 1416914964
 type: node
-latitude: 50.63459
-longitude: 8.32418
+latitude: 50.63458
+longitude: 8.32403
 postcode: "35764"
 city: Sinn
 street: In der Großen Wiese
 housenumber: "4"
-phone: +49 6449 9232 0
-opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00
-website: http://www.autohaus-sinn.de/
+phone: +49 6449 92320
+opening_hours: Mo-Th 08:00-12:15,13:00-17:00,Fr 08:00-14:00, Sa "Nach Vereinbarung";
+    PH off
+website: https://www.toyota.de/haendler/autohaus-sinn-schaefer

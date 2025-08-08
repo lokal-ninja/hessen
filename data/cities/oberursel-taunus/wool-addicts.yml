@@ -7,5 +7,6 @@ city: Oberursel (Taunus)
 street: Rathausplatz
 housenumber: "6"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,We,Th 10:00-13:00, Mo,Tu,Th 15:00-18:00, Fr 10:00-18:00, Sa 10:00-14:00;
+    Su,PH off
 website: ""

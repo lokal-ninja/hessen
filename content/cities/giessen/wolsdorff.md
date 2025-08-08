@@ -1,5 +1,5 @@
 ---
 title: "Wolsdorff"
 url: /giessen/wolsdorff/
-shop: Kiosk
+shop: Tabak
 ---

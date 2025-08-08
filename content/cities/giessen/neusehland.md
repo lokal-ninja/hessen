@@ -1,5 +1,5 @@
 ---
-title: "neusehland"
+title: "Neusehland"
 url: /giessen/neusehland/
 shop: Optiker
 ---
