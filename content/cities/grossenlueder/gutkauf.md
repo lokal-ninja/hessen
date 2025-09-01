@@ -1,5 +1,5 @@
 ---
-title: "GUTKAUF"
+title: "Gutkauf"
 url: /grossenlueder/gutkauf/
-shop: Supermarkt
+shop: Lebensmittel
 ---

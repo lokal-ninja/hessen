@@ -1,5 +1,5 @@
 ---
 title: "Budenzauber"
 url: /niedernhausen/budenzauber/
-shop: Spirituosen
+shop: Andenken
 ---

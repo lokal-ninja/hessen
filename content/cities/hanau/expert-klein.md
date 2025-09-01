@@ -1,5 +1,5 @@
 ---
-title: "Expert Klein"
+title: "expert klein"
 url: /hanau/expert-klein/
 shop: Elektronik
 ---
