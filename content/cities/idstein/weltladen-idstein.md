@@ -1,5 +1,5 @@
 ---
 title: "Weltladen Idstein"
 url: /idstein/weltladen-idstein/
-shop: Allgemein
+shop: Lebensmittel
 ---
