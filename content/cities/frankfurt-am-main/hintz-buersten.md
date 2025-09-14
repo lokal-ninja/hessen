@@ -1,5 +1,5 @@
 ---
-title: "Hintz Bürsten"
+title: "Hintz-Bürsten"
 url: /frankfurt-am-main/hintz-buersten/
-shop: Allgemein
+shop: Haushaltsartikel
 ---
