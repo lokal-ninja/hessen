@@ -1,5 +1,5 @@
 ---
 title: "teo"
-url: /darmstadt/teo-strahringerplatz/
+url: /darmstadt/teo-2/
 shop: Lebensmittel
 ---

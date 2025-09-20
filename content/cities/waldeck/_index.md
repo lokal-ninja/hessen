@@ -1,6 +1,6 @@
 ---
 title: Waldeck
 url: /waldeck/
-latitude: 51.209
-longitude: 9.061
+latitude: 51.245
+longitude: 9.006
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus Wagener"
-url: /bad-arolsen/sanitaetshaus-wagener-bahnhofstrasse/
+url: /bad-arolsen/sanitaetshaus-wagener-bathildisstrasse/
 shop: Sanitätshaus
 ---
