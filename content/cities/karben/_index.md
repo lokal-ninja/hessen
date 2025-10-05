@@ -1,6 +1,6 @@
 ---
 title: Karben
 url: /karben/
-latitude: 50.238
-longitude: 8.749
+latitude: 50.222
+longitude: 8.777
 ---
