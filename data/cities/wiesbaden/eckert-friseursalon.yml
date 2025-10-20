@@ -7,5 +7,6 @@ city: Wiesbaden
 street: Buschungstraße
 housenumber: "29"
 phone: +49 611 713487
-opening_hours: ""
+opening_hours: Mo 06:30-20:30; Tu,We 06:30-13:00,15:00-18:00; Th 06:30-13:00; Fr 06:30-18:00;
+    Sa 07:30-12:00
 website: ""
