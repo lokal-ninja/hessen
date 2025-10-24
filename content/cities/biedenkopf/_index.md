@@ -1,6 +1,6 @@
 ---
 title: Biedenkopf
 url: /biedenkopf/
-latitude: 50.928
-longitude: 8.474
+latitude: 50.882
+longitude: 8.546
 ---
