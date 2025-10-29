@@ -1,6 +1,6 @@
 ---
 title: Lohfelden
 url: /lohfelden/
-latitude: 51.272
-longitude: 9.527
+latitude: 51.277
+longitude: 9.543
 ---
