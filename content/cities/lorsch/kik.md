@@ -1,5 +1,5 @@
 ---
-title: "KIK"
+title: "KiK"
 url: /lorsch/kik/
-shop: Supermarkt
+shop: Kleidung
 ---
