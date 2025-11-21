@@ -7,6 +7,6 @@ city: Sinn
 street: In der Großen Wiese
 housenumber: "4"
 phone: +49 6449 92320
-opening_hours: Mo-Th 08:00-12:15,13:00-17:00,Fr 08:00-14:00, Sa "Nach Vereinbarung";
-    PH off
+opening_hours: Mo-Th 08:00-12:15,13:00-17:00; Fr 08:00-14:00; Sa "Nach Vereinbarung";
+    Su,PH off
 website: https://www.toyota.de/haendler/autohaus-sinn-schaefer

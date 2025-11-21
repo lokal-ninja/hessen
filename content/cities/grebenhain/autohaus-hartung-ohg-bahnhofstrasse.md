@@ -1,5 +1,5 @@
 ---
-title: "Autohaus Hartung OHG"
+title: "Autohaus Hartung oHG"
 url: /grebenhain/autohaus-hartung-ohg-bahnhofstrasse/
-shop: Autohaus
+shop: Autowerkstatt
 ---
