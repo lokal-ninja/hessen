@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /gross-zimmern/aldi-sued/
 shop: Supermarkt
 ---
