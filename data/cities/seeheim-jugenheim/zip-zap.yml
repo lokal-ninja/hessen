@@ -7,5 +7,5 @@ city: Seeheim-Jugenheim
 street: Beethovenring
 housenumber: "59"
 phone: +49 6257 86318
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr,Sa 10:00-12:30; Mo,Th 15:00-17:30; We,Su off;
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /wiesbaden/vodafone-2/
+url: /wiesbaden/vodafone-kirchgasse/
 shop: Handy
 ---

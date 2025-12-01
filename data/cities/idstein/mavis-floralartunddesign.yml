@@ -7,5 +7,6 @@ city: Idstein
 street: Rodergasse
 housenumber: 18b
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Th,Fr 09:00-18:00; Tu 09:00-13:00,14:00-18:00; We 09:00-14:00; Sa
+    09:00-14:00
 website: ""

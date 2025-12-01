@@ -1,6 +1,6 @@
 ---
 title: Reichelsheim (Odenwald)
 url: /reichelsheim-odenwald/
-latitude: 49.737
-longitude: 8.873
+latitude: 49.722
+longitude: 8.865
 ---
