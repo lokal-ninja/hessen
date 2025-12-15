@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: Reuterweg
 housenumber: "69"
 phone: +49 151 56304116
-opening_hours: Tu-Fr 10:30-18:00; Sa 09:00-16:00
+opening_hours: Tu,We,Fr 10:30-18:00; Th 11:30-19:00; Sa 09:00-16:00
 website: https://annareckmann.com/
