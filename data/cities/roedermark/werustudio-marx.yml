@@ -7,5 +7,5 @@ city: Rödermark
 street: Dieburger Straße
 housenumber: "46"
 phone: "+496074881373"
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-13:00,15:00-18:00; Sa 09:00-12:00
 website: https://werustudio-marx.de/

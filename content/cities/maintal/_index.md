@@ -1,6 +1,6 @@
 ---
 title: Maintal
 url: /maintal/
-latitude: 50.154
-longitude: 8.836
+latitude: 50.157
+longitude: 8.843
 ---
