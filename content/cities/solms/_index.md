@@ -1,6 +1,6 @@
 ---
 title: Solms
 url: /solms/
-latitude: 50.55
-longitude: 8.433
+latitude: 50.543
+longitude: 8.409
 ---
