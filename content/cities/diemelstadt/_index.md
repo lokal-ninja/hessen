@@ -1,6 +1,6 @@
 ---
 title: Diemelstadt
 url: /diemelstadt/
-latitude: 51.492
-longitude: 9.074
+latitude: 51.489
+longitude: 9.007
 ---
