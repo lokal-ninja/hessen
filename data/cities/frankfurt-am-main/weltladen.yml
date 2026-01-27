@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: Wilhelmshöher Straße
 housenumber: "158"
 phone: +49 69 476704
-opening_hours: Mo-Tu 16:30-18:30, Th-Fr 16:30-18:30, Sa 10:00-12:00
+opening_hours: Mo,Tu,Th,Fr 16:30-18:30; Sa 10:00-12:00; We,Su,PH off
 website: ""

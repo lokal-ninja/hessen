@@ -1,6 +1,6 @@
 ---
 title: Hofheim
 url: /hofheim/
-latitude: 50.087
-longitude: 8.444
+latitude: 49.659
+longitude: 8.41
 ---
