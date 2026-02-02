@@ -7,6 +7,5 @@ city: Schmitten im Taunus
 street: Brunhildestraße
 housenumber: "40"
 phone: ""
-opening_hours: Mo-We 08:15-19:00; Th 08:15-14:00; Fr 08:15-19:00; Sa 08:15-14:00;
-    PH off
+opening_hours: Mo,Th,Sa 08:30-12:30; Tu,We,Fr 08:30-12:30,15:00-18:00
 website: ""

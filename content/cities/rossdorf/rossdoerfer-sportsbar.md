@@ -1,5 +1,5 @@
 ---
-title: "Rossdörfer Sportsbar"
+title: "Roßdörfer Sportsbar"
 url: /rossdorf/rossdoerfer-sportsbar/
 shop: Wettbüro
 ---
