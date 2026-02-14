@@ -1,5 +1,5 @@
 ---
 title: "Becker"
 url: /korbach/becker/
-shop: Schmuck
+shop: Parfümerie
 ---
