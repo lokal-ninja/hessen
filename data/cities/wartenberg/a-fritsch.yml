@@ -7,5 +7,5 @@ city: Wartenberg
 street: Rudloser Straße
 housenumber: "3"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 09:00-12:00,15:00-17:30; We,Sa 09:00-12:00
 website: ""
