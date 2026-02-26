@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /bad-soden-salmuenster/aldi-sued/
 shop: Supermarkt
 ---

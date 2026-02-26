@@ -7,6 +7,5 @@ city: Wiesbaden
 street: Herderstraße
 housenumber: "25"
 phone: +49 611 34143333
-opening_hours: Mo,Tu,Th,Fr 10:00-13:00, Sa 10:00-13:00; We,Su,PH off, Mo,Tu,Th,Fr
-    14:00-18:00
+opening_hours: Tu-Fr 10:00-13:00,14:00-17:00; Sa 10:00-13:00
 website: https://e-depot-wiesbaden.de

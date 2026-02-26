@@ -7,5 +7,5 @@ city: Rodgau
 street: Görlitzer Straße
 housenumber: "6"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 08:30-13:00,14:30-18:00; We,Sa 08:30-13:00
 website: ""
