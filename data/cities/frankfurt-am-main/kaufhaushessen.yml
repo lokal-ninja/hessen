@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: Berger Straße
 housenumber: "288"
 phone: ""
-opening_hours: We,Th 13:00-18:00; Fr 11:00-18:00; Sa 11:00-17:00; Mo,Tu off
+opening_hours: Tu-Th 13:00-18:00; Fr 11:00-18:00; Sa 11:00-17:00; Mo,Su,PH off
 website: ""

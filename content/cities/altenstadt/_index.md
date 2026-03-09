@@ -1,6 +1,6 @@
 ---
 title: Altenstadt
 url: /altenstadt/
-latitude: 50.276
-longitude: 8.949
+latitude: 50.29
+longitude: 8.976
 ---

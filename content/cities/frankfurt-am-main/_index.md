@@ -1,6 +1,6 @@
 ---
 title: Frankfurt am Main
 url: /frankfurt-am-main/
-latitude: 50.141
-longitude: 8.648
+latitude: 50.204
+longitude: 8.702
 ---
