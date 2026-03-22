@@ -1,6 +1,6 @@
 ---
 title: Knüllwald
 url: /knuellwald/
-latitude: 51.004
-longitude: 9.471
+latitude: 51.037
+longitude: 9.488
 ---
