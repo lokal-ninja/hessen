@@ -1,6 +1,6 @@
 ---
 title: Dautphetal
 url: /dautphetal/
-latitude: 50.817
-longitude: 8.53
+latitude: 50.813
+longitude: 8.528
 ---

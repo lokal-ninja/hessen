@@ -1,5 +1,5 @@
 ---
-title: "Gruenzeug Werdorf"
+title: "Grünzeug Werdorf"
 url: /asslar/gruenzeug-werdorf/
 shop: Supermarkt
 ---
