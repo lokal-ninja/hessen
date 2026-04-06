@@ -1,6 +1,6 @@
 ---
 title: Hauneck
 url: /hauneck/
-latitude: 50.838
-longitude: 9.723
+latitude: 50.84
+longitude: 9.725
 ---
