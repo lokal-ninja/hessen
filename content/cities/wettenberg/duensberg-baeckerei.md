@@ -1,5 +1,5 @@
 ---
-title: "Dünsberg-Bäckerei"
+title: "Dünsberg Bäckerei"
 url: /wettenberg/duensberg-baeckerei/
 shop: Bäckerei
 ---
