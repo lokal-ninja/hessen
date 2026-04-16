@@ -1,6 +1,6 @@
 ---
 title: Lohra
 url: /lohra/
-latitude: 50.736
-longitude: 8.629
+latitude: 50.737
+longitude: 8.627
 ---

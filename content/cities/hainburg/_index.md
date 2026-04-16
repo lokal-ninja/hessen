@@ -1,6 +1,6 @@
 ---
 title: Hainburg
 url: /hainburg/
-latitude: 50.072
-longitude: 8.962
+latitude: 50.078
+longitude: 8.969
 ---
