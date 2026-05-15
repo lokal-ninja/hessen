@@ -1,6 +1,6 @@
 ---
 title: Hünfeld
 url: /huenfeld/
-latitude: 50.672
-longitude: 9.769
+latitude: 50.659
+longitude: 9.785
 ---

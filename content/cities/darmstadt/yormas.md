@@ -1,5 +1,5 @@
 ---
 title: "Yorma's"
 url: /darmstadt/yormas/
-shop: Kiosk
+shop: Lebensmittel
 ---
