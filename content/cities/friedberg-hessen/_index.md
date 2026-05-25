@@ -1,6 +1,6 @@
 ---
 title: Friedberg (Hessen)
 url: /friedberg-hessen/
-latitude: 50.337
-longitude: 8.754
+latitude: 50.334
+longitude: 8.753
 ---

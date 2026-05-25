@@ -1,5 +1,5 @@
 ---
-title: "Punjab Asian BAzar"
+title: "Punjab Asian Bazar"
 url: /gross-gerau/punjab-asian-bazar/
 shop: Lebensmittel
 ---
