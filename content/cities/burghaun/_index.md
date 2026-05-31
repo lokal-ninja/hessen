@@ -2,5 +2,5 @@
 title: Burghaun
 url: /burghaun/
 latitude: 50.697
-longitude: 9.727
+longitude: 9.728
 ---

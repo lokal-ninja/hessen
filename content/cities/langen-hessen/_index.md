@@ -2,5 +2,5 @@
 title: Langen (Hessen)
 url: /langen-hessen/
 latitude: 49.992
-longitude: 8.649
+longitude: 8.664
 ---

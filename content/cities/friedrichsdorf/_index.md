@@ -1,6 +1,6 @@
 ---
 title: Friedrichsdorf
 url: /friedrichsdorf/
-latitude: 50.258
-longitude: 8.643
+latitude: 50.255
+longitude: 8.646
 ---
