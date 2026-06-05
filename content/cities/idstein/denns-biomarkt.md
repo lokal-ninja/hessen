@@ -1,5 +1,5 @@
 ---
-title: "denns biomarkt"
+title: "Denns BioMarkt"
 url: /idstein/denns-biomarkt/
-shop: Lebensmittel
+shop: Supermarkt
 ---

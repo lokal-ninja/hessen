@@ -1,6 +1,6 @@
 ---
 title: Braunfels
 url: /braunfels/
-latitude: 50.499
-longitude: 8.429
+latitude: 50.512
+longitude: 8.394
 ---
