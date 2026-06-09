@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: Schäfergasse
 housenumber: "12"
 phone: "+496992870549"
-opening_hours: Mo-Fr 09:00-18:30
+opening_hours: Mo-Fr 09:00-18:30; Sa off
 website: https://www.sanitaetshaus-raab.de/
