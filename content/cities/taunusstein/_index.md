@@ -1,6 +1,6 @@
 ---
 title: Taunusstein
 url: /taunusstein/
-latitude: 50.17
-longitude: 8.212
+latitude: 50.153
+longitude: 8.18
 ---

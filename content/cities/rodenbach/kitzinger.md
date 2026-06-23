@@ -1,5 +1,5 @@
 ---
 title: "Kitzinger"
 url: /rodenbach/kitzinger/
-shop: Blumen
+shop: Garten-Center
 ---
