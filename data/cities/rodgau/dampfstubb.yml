@@ -7,6 +7,6 @@ city: Rodgau
 street: Alfred-Delp-Straße
 housenumber: "51"
 phone: +49 6106 6398007
-opening_hours: "Samstag\t10:00–19:00; Sonntag\tGeschlossen; Montag\t10:00–19:00; Dienstag\t10:00–19:00;
-    Mittwoch\tGeschlossen; Donnerstag\t10:00–19:00; Freitag\t10:00–19:00."
+opening_hours: Samstag 10:00-19:00; Sonntag Geschlossen; Montag 10:00-19:00; Dienstag
+    10:00-19:00; Mittwoch Geschlossen; Donnerstag 10:00-19:00; Freitag 10:00-19:00.
 website: ""
