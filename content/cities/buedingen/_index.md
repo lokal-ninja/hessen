@@ -1,6 +1,6 @@
 ---
 title: Büdingen
 url: /buedingen/
-latitude: 50.255
-longitude: 9.024
+latitude: 50.329
+longitude: 9.186
 ---
