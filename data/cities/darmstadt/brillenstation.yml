@@ -7,5 +7,5 @@ city: Darmstadt
 street: Frankfurter Landstraße
 housenumber: "165"
 phone: +49 6151 371972
-opening_hours: Tu-Sa 09:00-13:00; Tu-Fr 14:00-18:00; PH Off
+opening_hours: Tu,We,Fr 09:00-13:00,14:00-18:00; Th,Sa 09:00-13:00
 website: https://www.brillen-station.de
