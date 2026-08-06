@@ -1,5 +1,5 @@
 ---
-title: "teo"
+title: "Teo"
 url: /darmstadt/teo/
 shop: Lebensmittel
 ---
