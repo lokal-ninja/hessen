@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /fulda/edeka-boyneburgstrasse/
+url: /fulda/edeka-paul-klee-strasse/
 shop: Supermarkt
 ---

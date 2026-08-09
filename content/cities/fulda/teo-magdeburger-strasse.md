@@ -1,5 +1,5 @@
 ---
 title: "teo"
-url: /fulda/teo-petersberger-strasse/
+url: /fulda/teo-magdeburger-strasse/
 shop: Lebensmittel
 ---
