@@ -1,6 +1,6 @@
 ---
 title: Lauterbach
 url: /lauterbach/
-latitude: 50.637
-longitude: 9.395
+latitude: 50.639
+longitude: 9.399
 ---

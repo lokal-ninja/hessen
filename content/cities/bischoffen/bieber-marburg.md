@@ -1,5 +1,5 @@
 ---
-title: "Bieber+Marburg"
+title: "Bieber + Marburg"
 url: /bischoffen/bieber-marburg/
-shop: Baumarkt
+shop: Baustoffe
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bad König
 url: /bad-koenig/
-latitude: 49.742
-longitude: 9.007
+latitude: 49.721
+longitude: 8.992
 ---

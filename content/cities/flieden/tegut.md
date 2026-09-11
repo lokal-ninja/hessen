@@ -1,5 +1,5 @@
 ---
 title: "tegut"
 url: /flieden/tegut/
-shop: Supermarkt
+shop: Leerstehend
 ---

@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /bad-soden-am-taunus/aldi-sued/
 shop: Supermarkt
 ---
