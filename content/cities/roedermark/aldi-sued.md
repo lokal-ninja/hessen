@@ -1,5 +1,5 @@
 ---
-title: "ALDI Süd"
+title: "Aldi Süd"
 url: /roedermark/aldi-sued/
 shop: Supermarkt
 ---

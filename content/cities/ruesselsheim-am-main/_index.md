@@ -1,6 +1,6 @@
 ---
 title: Rüsselsheim am Main
 url: /ruesselsheim-am-main/
-latitude: 49.959
-longitude: 8.377
+latitude: 49.961
+longitude: 8.454
 ---
