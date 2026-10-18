@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: Sandweg
 housenumber: "42"
 phone: ""
-opening_hours: Mo-Sa 07:30-21:30
-website: ""
+opening_hours: Mo-Sa 07:30-21:30; Su,PH off
+website: https://www.penny.de/markt/frankfurt/230101/penny-ffm-sandweg-sandweg-42

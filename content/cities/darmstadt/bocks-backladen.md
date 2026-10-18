@@ -1,5 +1,5 @@
 ---
-title: "Bock’s Backladen"
+title: "Bocks Backladen"
 url: /darmstadt/bocks-backladen/
 shop: Bäckerei
 ---

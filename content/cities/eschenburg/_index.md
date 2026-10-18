@@ -1,6 +1,6 @@
 ---
 title: Eschenburg
 url: /eschenburg/
-latitude: 50.79
-longitude: 8.327
+latitude: 50.812
+longitude: 8.338
 ---

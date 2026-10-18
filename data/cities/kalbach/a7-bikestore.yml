@@ -7,5 +7,7 @@ city: Kalbach
 street: Thalauer Weg
 housenumber: "6"
 phone: +49 9742 930801
-opening_hours: Mo 09:00-17:00; Tu 09:00-14:00; Fr 11:00-17:00
+opening_hours: Apr 01-Oct 31 Mo 09:00-13:00,14:00-17:00; Apr 01-Oct 31 Tu 09:00-12:00;
+    Apr 01-Oct 31 We 09:00-13:00,14:00-17:00; Apr 01-Oct 31 Th off; Apr 01-Oct 31
+    Fr 09:00-13:00,14:00-16:30; Apr 01-Oct 31 Sa off
 website: https://a7-bikestore.com/

@@ -1,6 +1,6 @@
 ---
 title: Helsa
 url: /helsa/
-latitude: 51.257
-longitude: 9.73
+latitude: 51.258
+longitude: 9.731
 ---

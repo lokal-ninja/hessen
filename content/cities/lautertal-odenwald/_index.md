@@ -1,6 +1,6 @@
 ---
 title: Lautertal (Odenwald)
 url: /lautertal-odenwald/
-latitude: 49.715
-longitude: 8.742
+latitude: 49.718
+longitude: 8.715
 ---
