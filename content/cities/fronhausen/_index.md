@@ -1,6 +1,6 @@
 ---
 title: Fronhausen
 url: /fronhausen/
-latitude: 50.707
-longitude: 8.701
+latitude: 50.704
+longitude: 8.695
 ---
