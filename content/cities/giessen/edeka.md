@@ -1,5 +1,5 @@
 ---
-title: "Edeka"
+title: "EDEKA"
 url: /giessen/edeka/
-shop: Getränke
+shop: Supermarkt
 ---

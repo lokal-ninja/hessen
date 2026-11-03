@@ -1,6 +1,6 @@
 ---
 title: Burgwald
 url: /burgwald/
-latitude: 50.979
-longitude: 8.731
+latitude: 51.035
+longitude: 8.809
 ---
