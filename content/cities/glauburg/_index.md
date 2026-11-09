@@ -1,6 +1,6 @@
 ---
 title: Glauburg
 url: /glauburg/
-latitude: 50.324
-longitude: 9.025
+latitude: 50.319
+longitude: 9.005
 ---

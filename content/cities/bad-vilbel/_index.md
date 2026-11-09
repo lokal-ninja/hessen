@@ -1,6 +1,6 @@
 ---
 title: Bad Vilbel
 url: /bad-vilbel/
-latitude: 50.192
-longitude: 8.742
+latitude: 50.193
+longitude: 8.744
 ---

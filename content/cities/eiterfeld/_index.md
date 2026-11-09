@@ -1,6 +1,6 @@
 ---
 title: Eiterfeld
 url: /eiterfeld/
-latitude: 50.759
-longitude: 9.809
+latitude: 50.758
+longitude: 9.806
 ---

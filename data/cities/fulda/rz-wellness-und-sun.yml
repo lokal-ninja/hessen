@@ -7,5 +7,6 @@ city: Fulda
 street: Von-Schildeck-Straße
 housenumber: "9"
 phone: ""
-opening_hours: Mo-Fr 10:00-20:00; Sa,Su 10:00-18:00; PH 10:00-16:00
+opening_hours: Mo-Fr 10:00-20:00; Sa,Su 10:00-18:00; PH 10:00-16:00; Jan 01,Dec 25,Dec
+    26 off; easter -48 days off
 website: https://www.rz-wellness.de/

@@ -1,5 +1,5 @@
 ---
-title: "EDEKA Getränkemarkt"
+title: "Edeka Getränkemarkt"
 url: /fulda/edeka-getraenkemarkt/
 shop: Getränke
 ---
