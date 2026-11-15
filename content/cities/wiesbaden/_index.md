@@ -1,6 +1,6 @@
 ---
 title: Wiesbaden
 url: /wiesbaden/
-latitude: 50.007
-longitude: 8.286
+latitude: 50.055
+longitude: 8.297
 ---
