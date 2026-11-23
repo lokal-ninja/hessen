@@ -7,5 +7,5 @@ city: Frankfurt am Main
 street: Römerberg
 housenumber: "34"
 phone: +49 69 978414650
-opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""
